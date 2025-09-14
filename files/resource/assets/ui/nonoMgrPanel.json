@@ -1,0 +1,26 @@
+{
+  "groups": [
+    {
+      "name": "nonoMgrPanel",
+      "keys": "nonoMgrPanel_sheet,nonoMgrPanel_MainPane_imgBg_png,nonoMgrPanel_MainPane_imgBg2_png"
+    }
+  ],
+  "resources": [
+    {
+      "name": "nonoMgrPanel_MainPane_imgBg_png",
+      "type": "image",
+      "url": "nonoMgrPanel/outside/nonoMgrPanel_MainPane_imgBg.png"
+    },
+    {
+      "name": "nonoMgrPanel_MainPane_imgBg2_png",
+      "type": "image",
+      "url": "nonoMgrPanel/outside/nonoMgrPanel_MainPane_imgBg2.png"
+    },
+    {
+      "name": "nonoMgrPanel_sheet",
+      "type": "sheet",
+      "url": "nonoMgrPanel/nonoMgrPanel_sheet.json",
+      "subkeys": "aan_act_button_redPoint_png,nonoMgrPanel_FlyNonoPanel_btnHelp_png,nonoMgrPanel_FlyNonoPanel_icon1_png,nonoMgrPanel_FlyNonoPanel_icon2_png,nonoMgrPanel_FlyNonoPanel_icon3_png,nonoMgrPanel_FlyNonoPanel_icon4_png,nonoMgrPanel_FlyNonoPanel_imgDescBg_png,nonoMgrPanel_FlyNonoPanel_imgSelected_png,nonoMgrPanel_FlyNonoPanel_imgStyleBg_png,nonoMgrPanel_FlyNonoPanel_title_asjdasd_png,nonoMgrPanel_MainPane_btnClose_png,nonoMgrPanel_MainPane_btnEdit_png,nonoMgrPanel_MainPane_btnEdit2_png,nonoMgrPanel_MainPane_btnFly_png,nonoMgrPanel_MainPane_btnGoHome_png,nonoMgrPanel_MainPane_btnShow_png,nonoMgrPanel_MainPane_btnSkin_png,nonoMgrPanel_MainPane_btnVip_png,nonoMgrPanel_MainPane_imgNickBg_png,nonoMgrPanel_MainPane_imgShowStyleBg_png,nonoMgrPanel_MainPane_imgTitle_png,nonoMgrPanel_NonoSkinPanel_btnDown_png,nonoMgrPanel_NonoSkinPanel_btnFind_png,nonoMgrPanel_NonoSkinPanel_imgBoxbg_png,nonoMgrPanel_NonoSkinPanel_imgLock_png,nonoMgrPanel_NonoSkinPanel_imgmasdkn_png,nonoMgrPanel_NonoSkinPanel_imgNickBg_png,nonoMgrPanel_NonoSkinPanel_imgNonoGengyijian_png,nonoMgrPanel_NonoSkinPanel_imgSasfdasdasda_png,nonoMgrPanel_NonoSkinPanel_imgSearchBg_png,nonoMgrPanel_NonoSkinPanel_imgSelected_png,nonoMgrPanel_NonoSkinPanel_imgWyy_png,nonoMgrPanel_NonoSkinPanel_imgYhd_png,nonoMgrPanel_NonoSkinPanel_itemBg_png,nono_vip_img1_png,nono_vip_imgbg_png,nono_vip_imgbtn_png,not_vip_png"
+    }
+  ]
+}

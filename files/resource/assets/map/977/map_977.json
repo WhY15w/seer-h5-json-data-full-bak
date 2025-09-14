@@ -1,0 +1,25 @@
+{
+  "groups": [
+    {
+      "keys": "road_977,exml_977,map_977_bg_mc_jpg",
+      "name": "map_977"
+    }
+  ],
+  "resources": [
+    {
+      "type": "json",
+      "url": "977.json",
+      "name": "road_977"
+    },
+    {
+      "type": "text",
+      "url": "Map977Skin.exml",
+      "name": "exml_977"
+    },
+    {
+      "type": "image",
+      "url": "map_977_bg_mc.jpg",
+      "name": "map_977_bg_mc_jpg"
+    }
+  ]
+}

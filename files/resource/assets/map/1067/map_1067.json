@@ -1,0 +1,30 @@
+{
+  "groups": [
+    {
+      "keys": "road_1067,exml_1067,map_1067_bg_mc_jpg,map_1067_top_mc_png",
+      "name": "map_1067"
+    }
+  ],
+  "resources": [
+    {
+      "type": "json",
+      "url": "1067.json",
+      "name": "road_1067"
+    },
+    {
+      "type": "text",
+      "url": "Map1067Skin.exml",
+      "name": "exml_1067"
+    },
+    {
+      "type": "image",
+      "url": "map_1067_bg_mc.jpg",
+      "name": "map_1067_bg_mc_jpg"
+    },
+    {
+      "type": "image",
+      "url": "map_1067_top_mc.png",
+      "name": "map_1067_top_mc_png"
+    }
+  ]
+}

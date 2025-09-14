@@ -1,0 +1,106 @@
+{
+  "groups": [
+    {
+      "name": "main_panel",
+      "keys": "main_panel_sheet,dianfeng_ske_json,dianfeng_tex_json,fuben_ske_json,fuben_tex_json,jingling_atlas,jingling_json,nono_ske_json,nono_tex_json,select_show_scene-640_atlas,select_show_scene-640_json,dianfeng_tex_png,fuben_tex_png,jingling_png,main_bg_mask_png,nono_tex_png,select_show_scene-640_png"
+    },
+    {
+      "keys": "main_panel_group_kanbanniang_sheet",
+      "name": "main_panel_group_kanbanniang"
+    }
+  ],
+  "resources": [
+    {
+      "name": "dianfeng_ske_json",
+      "type": "json",
+      "url": "main_panel/outside/dianfeng_ske.json"
+    },
+    {
+      "name": "dianfeng_tex_json",
+      "type": "json",
+      "url": "main_panel/outside/dianfeng_tex.json"
+    },
+    {
+      "name": "fuben_ske_json",
+      "type": "json",
+      "url": "main_panel/outside/fuben_ske.json"
+    },
+    {
+      "name": "fuben_tex_json",
+      "type": "json",
+      "url": "main_panel/outside/fuben_tex.json"
+    },
+    {
+      "name": "jingling_atlas",
+      "type": "text",
+      "url": "main_panel/outside/jingling.atlas"
+    },
+    {
+      "name": "jingling_json",
+      "type": "json",
+      "url": "main_panel/outside/jingling.json"
+    },
+    {
+      "name": "nono_ske_json",
+      "type": "json",
+      "url": "main_panel/outside/nono_ske.json"
+    },
+    {
+      "name": "nono_tex_json",
+      "type": "json",
+      "url": "main_panel/outside/nono_tex.json"
+    },
+    {
+      "name": "select_show_scene-640_atlas",
+      "type": "text",
+      "url": "main_panel/outside/select_show_scene-640.atlas"
+    },
+    {
+      "name": "select_show_scene-640_json",
+      "type": "json",
+      "url": "main_panel/outside/select_show_scene-640.json"
+    },
+    {
+      "name": "dianfeng_tex_png",
+      "type": "image",
+      "url": "main_panel/outside/dianfeng_tex.png"
+    },
+    {
+      "name": "fuben_tex_png",
+      "type": "image",
+      "url": "main_panel/outside/fuben_tex.png"
+    },
+    {
+      "name": "jingling_png",
+      "type": "image",
+      "url": "main_panel/outside/jingling.png"
+    },
+    {
+      "name": "main_bg_mask_png",
+      "type": "image",
+      "url": "main_panel/outside/main_bg_mask.png"
+    },
+    {
+      "name": "nono_tex_png",
+      "type": "image",
+      "url": "main_panel/outside/nono_tex.png"
+    },
+    {
+      "name": "select_show_scene-640_png",
+      "type": "image",
+      "url": "main_panel/outside/select_show_scene-640.png"
+    },
+    {
+      "name": "main_panel_sheet",
+      "type": "sheet",
+      "url": "main_panel/main_panel_sheet.json",
+      "subkeys": "mainpanel_groupgrpright_png,mainpanel_imggotobtn_png,mainpanel_imgtips_png,main_act_button_redPoint_png,main_act_button_timebg_png,main_battery_png,main_battery_bg_png,main_bottomBg_png,main_bottomBg_line_png,main_btnAdd_png,main_btnBack_png,main_btnbackMain_png,main_btnBag_png,main_btnBaike_png,main_btnBase_png,main_btnBook_png,main_btnChat_png,main_btnDailyTask_png,main_btnDown_png,main_btnFriend_png,main_btnhide_png,main_btnInfo_png,main_btnKanBanNiang_png,main_btnMail_png,main_btnMain_png,main_btnMapSelect_png,main_btnNBPet_png,main_btnNoNo_png,main_btnPet_png,main_btnQuestionnaire_png,main_btnRefresh_png,main_btnSet_png,main_btnShop_png,main_btnshow_png,main_btnTeam_png,main_btnUp_png,main_btnWish_png,main_btnYongzhe_png,main_chatbg_png,main_Count_bg_png,main_di_png,main_head_png,main_head_bg_png,main_horn_png,main_horn_bg_png,main_hot_png,main_icon1_png,main_iconBattery_png,main_iconBattery1_png,main_iconBattery2_png,main_iconBattery3_png,main_iconCoin1_png,main_iconCoin2_png,main_KanBangNiangLine_png,main_mail_hot_png,main_military_icon_png,main_panel_btnhelp_png,main_panel_btnLevel_di_png,main_panel_btnLevel_icon_png,main_panel_btnLevel_title_png,main_panel_btnPeak_di_png,main_panel_btnPeak_icon_png,main_panel_btnPeak_title_png,main_panel_btnPet_di_png,main_panel_btnPet_icon_png,main_panel_btnPet_title_png,main_panel_btnRecruit_png,main_panel_btnShop_png,main_panel_btnToken_png,main_panel_flag_new_png,main_panel_flag_newChallenge_png,main_panel_flag_newSeason_png,main_panel_flag_petRecruit_png,main_panel_flag_up_png,main_panel_page_act_center_bg_png,main_panel_page_act_center_imglastday_png,main_panel_page_act_center_imglastweek_png,main_panel_page_act_center_probg_png,main_panel_page_act_center_progress_png,main_panel_rightbg_png,main_Seer_png,main_yongzheLevel_0_png,main_yongzheLevel_1_png,main_yongzheLevel_2_png,main_yongzheLevel_3_png,main_yongzheLevel_4_png,main_yongzheLevel_5_png,main_yongzheLevel_6_png,main_yongzheLevel_7_png,main_yongzheLevel_8_png,main_yongzheLevel_9_png,newkanpan_btnzaoxingup_png,kan_ban_niang_bottomMask_png,kan_ban_niang_s9_group_chat_bg_png,kan_ban_niang_s9_seclectbg_png,select_show_mode_head_select_png,select_show_mode_Searchbg_png,select_show_mode_title_img_png,toolbar_btnhide_png,toolbar_btnreturn_png,toolbar_btnshow_png,toolbar_btnsmallmap_png,toolbar_btnstar_png,toolbar_imgbtnbg_png,toolbar_imgLine_png,toolbar_imgmapnamebg_png,toolbar_left_btnshow_png,toolbar_left__btnhide_png"
+    },
+    {
+      "name": "main_panel_group_kanbanniang_sheet",
+      "type": "sheet",
+      "url": "main_panel/group_kanbanniang_sheet.json",
+      "subkeys": "newkanpan_addBtn_0_png,newkanpan_bottommask_png,newkanpan_btnbeijingdown_png,newkanpan_btnbeijingup_png,newkanpan_btnjingling_down_png,newkanpan_btnjingling_up_png,newkanpan_btnsaier_down_png,newkanpan_btnsaier_up_png,newkanpan_btnsave_png,newkanpan_btnzaoxingdown_png,newkanpan_btnzaoxingup_png,newkanpan_hszz_png,newkanpan_jx_22_kb_2_png,newkanpan_seclectbg_png,newkanpan_seclectbg_kb_png,newkanpan_xzk_kb_png,newkanpan_zsz_png,newkanpan_zu_33_png,newkanpan_zu_36_png,newkanpan_z_24_kb_9_png,select_show_modepet_down_png,select_show_modepet_up_png,select_show_modeskin_down_png,select_show_modeskin_itembg_png,select_show_modeskin_up_png,select_show_mode_btnchangedown_png,select_show_mode_btnchangeup_png,select_show_mode_btncheck_png,select_show_mode_btnclose_png,select_show_mode_btnpet_png,select_show_mode_btnsave_png,select_show_mode_btnSearch_png,select_show_mode_btnshuxing_down_png,select_show_mode_btnshuxing_up_png,select_show_mode_btnskin_png,select_show_mode_empty_tip_png,select_show_mode_empty_tip1_png,select_show_mode_gou5_png,select_show_mode_imgsearchbg_png,select_show_mode_imgsetbg_png,select_show_mode_imgtop_png,select_show_mode_Info_bg_png,select_show_mode_juxing_25_png,select_show_mode_namebg_png,select_show_mode_nameicon1_png,select_show_mode_nameicon2_png,select_show_mode_nameicon3_png,select_show_mode_petItemBg_png,select_show_mode_searchbg_kb_png,select_show_mode_settitle_png,select_show_mode_showbg_png,select_show_mode_skinItemBg_png,select_show_mode_tab1_down_png,select_show_mode_tab1_up_png,select_show_mode_tab2_down_png,select_show_mode_tab2_up_png,select_show_mode_tab3_down_png,select_show_mode_tab3_up_png,select_show_scene_btncancel_png,select_show_scene_btnchangebg_png,select_show_scene_btnlookover_png,select_show_scene_btnsave_png,select_show_scene_btnuse_png,select_show_scene_btnusing_png,select_show_scene_imgtxt_png,select_show_scene_jiantou1_png,select_show_scene_juxing_897_png,select_show_scene_juxing_898_png,select_show_scene_juxing_899_png,select_show_scene_jx_898_kb_png,select_show_scene_quxiao_png,select_show_scene_seclectbg_png,select_show_scene_seclectbg_kb_png,select_show_scene_xzbj_png,select_show_scene_xzk_kb_png,select_show_scene_yulan_png,select_show_scene_zbz_png,s___seer_btnuse_png,s___seer_jialaimg_png,s___seer_juxing_32_png,s___seer_suiticonbigbg_0_png,s___seer_tuoyuan1_png,s___seer_tuoyuan2_png,s___seer_tuoyuan3_png,s___seer_tuoyuan4_png,s___seer_tuoyuan5_png"
+    }
+  ]
+}

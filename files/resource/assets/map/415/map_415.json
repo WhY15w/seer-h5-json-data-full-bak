@@ -1,0 +1,25 @@
+{
+  "groups": [
+    {
+      "keys": "road_415,exml_415,map_415_bg_mc_jpg",
+      "name": "map_415"
+    }
+  ],
+  "resources": [
+    {
+      "type": "json",
+      "url": "415.json",
+      "name": "road_415"
+    },
+    {
+      "type": "text",
+      "url": "Map415Skin.exml",
+      "name": "exml_415"
+    },
+    {
+      "type": "image",
+      "url": "map_415_bg_mc.jpg",
+      "name": "map_415_bg_mc_jpg"
+    }
+  ]
+}

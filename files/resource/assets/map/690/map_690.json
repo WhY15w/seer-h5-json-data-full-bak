@@ -1,0 +1,40 @@
+{
+  "groups": [
+    {
+      "keys": "road_690,exml_690,map_690_bg_mc_jpg,map_690_control_mc_png,map_690_shuzji_png,map_690_caodui_png",
+      "name": "map_690"
+    }
+  ],
+  "resources": [
+    {
+      "type": "json",
+      "url": "690.json",
+      "name": "road_690"
+    },
+    {
+      "type": "text",
+      "url": "Map690Skin.exml",
+      "name": "exml_690"
+    },
+    {
+      "type": "image",
+      "url": "map_690_bg_mc.jpg",
+      "name": "map_690_bg_mc_jpg"
+    },
+    {
+      "type": "image",
+      "url": "map_690_control_mc.png",
+      "name": "map_690_control_mc_png"
+    },
+    {
+      "type": "image",
+      "url": "map_690_shuzji.png",
+      "name": "map_690_shuzji_png"
+    },
+    {
+      "type": "image",
+      "url": "map_690_caodui.png",
+      "name": "map_690_caodui_png"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "resources": [
+    {
+      "type": "json",
+      "url": "314.json",
+      "name": "road_314"
+    },
+    {
+      "type": "text",
+      "url": "Map314Skin.exml",
+      "name": "exml_314"
+    },
+    {
+      "type": "image",
+      "url": "map_314_bg_mc.png",
+      "name": "map_314_bg_mc_png"
+    }
+  ],
+  "groups": [
+    {
+      "keys": "road_314,exml_314,map_314_bg_mc_png",
+      "name": "map_314"
+    }
+  ]
+}

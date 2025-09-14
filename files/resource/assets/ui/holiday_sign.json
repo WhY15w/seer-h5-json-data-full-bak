@@ -1,0 +1,21 @@
+{
+  "groups": [
+    {
+      "name": "holiday_sign",
+      "keys": "holiday_sign_sheet,wintersign_imgbg_png"
+    }
+  ],
+  "resources": [
+    {
+      "name": "wintersign_imgbg_png",
+      "type": "image",
+      "url": "holiday_sign/outside/wintersign_imgbg.png"
+    },
+    {
+      "name": "holiday_sign_sheet",
+      "type": "sheet",
+      "url": "holiday_sign/holiday_sign_sheet.json",
+      "subkeys": "wintersign_btnclose_png,wintersign_btninfo_png,wintersign_hasgot1_png,wintersign_hasgot2_png,wintersign_imgcanget_png,wintersign_imgcanget2_png,wintersign_imgitembg1_png,wintersign_imgitembg2_png"
+    }
+  ]
+}

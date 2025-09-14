@@ -1,0 +1,26 @@
+{
+  "groups": [
+    {
+      "name": "room_visit_pop",
+      "keys": "room_visit_pop_sheet,room_visit_pop_bg_png,room_visit_pop_item_bg_png"
+    }
+  ],
+  "resources": [
+    {
+      "name": "room_visit_pop_bg_png",
+      "type": "image",
+      "url": "room_visit_pop/outside/room_visit_pop_bg.png"
+    },
+    {
+      "name": "room_visit_pop_item_bg_png",
+      "type": "image",
+      "url": "room_visit_pop/outside/room_visit_pop_item_bg.png"
+    },
+    {
+      "name": "room_visit_pop_sheet",
+      "type": "sheet",
+      "url": "room_visit_pop/room_visit_pop_sheet.json",
+      "subkeys": "room_visit_pop_bu_png,room_visit_pop_headbg_png,room_visit_pop_no_friend_png,room_visit_pop_tab_1_down_png,room_visit_pop_tab_1_up_png,room_visit_pop_tab_2_down_png,room_visit_pop_tab_2_up_png,room_visit_pop_visit_png"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "groups": [
+    {
+      "name": "pet_info_pop",
+      "keys": "pet_info_pop_sheet"
+    }
+  ],
+  "resources": [
+    {
+      "name": "pet_info_pop_sheet",
+      "type": "sheet",
+      "url": "pet_info_pop/pet_info_pop_sheet.json",
+      "subkeys": "pet_info_pop_pet_pop_52_png,pet_info_pop_pet_pop_btnrefresh_png,pet_info_pop_pet_pop_df_png,pet_info_pop_pet_pop_img1_png,pet_info_pop_pet_pop_img2_png,pet_info_pop_pet_pop_img3_png,pet_info_pop_pet_pop_img4_png,pet_info_pop_pet_pop_imgadd1_png,pet_info_pop_pet_pop_imglock_png,pet_info_pop_pet_pop_imgmarkbg1_png,pet_info_pop_pet_pop_imgskillrect_png,pet_info_pop_pet_pop_juxing_910_png,pet_info_pop_pet_pop_shenyu_png,pet_info_pop_pet_pop_xzk_png,pet_info_pop_pet_pop_zstx_png"
+    }
+  ]
+}

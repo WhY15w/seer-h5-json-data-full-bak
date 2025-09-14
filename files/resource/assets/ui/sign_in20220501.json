@@ -1,0 +1,21 @@
+{
+  "groups": [
+    {
+      "name": "sign_in20220501",
+      "keys": "sign_in20220501_sheet,sign_in_0501_imgbg_png"
+    }
+  ],
+  "resources": [
+    {
+      "name": "sign_in_0501_imgbg_png",
+      "type": "image",
+      "url": "sign_in20220501/outside/sign_in_0501_imgbg.png"
+    },
+    {
+      "name": "sign_in20220501_sheet",
+      "type": "sheet",
+      "url": "sign_in20220501/sign_in20220501_sheet.json",
+      "subkeys": "sign_in_0501_btnclose_png,sign_in_0501_btnget_png,sign_in_0501_btnhelp_png,sign_in_0501_imgdoing1_png,sign_in_0501_imgdoing2_png,sign_in_0501_imghas1_png,sign_in_0501_imghas2_png,sign_in_0501_imgnot1_png,sign_in_0501_imgnot2_png,sign_in_0501_imgspecial_png,sign_in_0501_imgtoday_png,sign_in_0501_imgtomorrow_png"
+    }
+  ]
+}

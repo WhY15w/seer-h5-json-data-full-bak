@@ -1,0 +1,26 @@
+{
+  "groups": [
+    {
+      "name": "king_cassius",
+      "keys": "king_cassius_sheet,kc_mainpanel_bg_jpg,kc_panel1_bg_jpg"
+    }
+  ],
+  "resources": [
+    {
+      "name": "kc_mainpanel_bg_jpg",
+      "type": "image",
+      "url": "king_cassius/outside/kc_mainpanel_bg.jpg"
+    },
+    {
+      "name": "kc_panel1_bg_jpg",
+      "type": "image",
+      "url": "king_cassius/outside/kc_panel1_bg.jpg"
+    },
+    {
+      "name": "king_cassius_sheet",
+      "type": "sheet",
+      "url": "king_cassius/king_cassius_sheet.json",
+      "subkeys": "kc_mainpanel_btn1_png,kc_mainpanel_btn2_png,kc_mainpanel_btn3_png,kc_mainpanel_btn4_png,kc_mainpanel_btncollect_png,kc_mainpanel_btncollected_png,kc_mainpanel_btndiscount_png,kc_mainpanel_btnget_png,kc_mainpanel_btninfo_png,kc_mainpanel_btnonekey_png,kc_mainpanel_btnup_png,kc_mainpanel_haspet_png,kc_mainpanel_lift_png,kc_mainpanel_wkxs_png,kc_mainpanel_yiwancheng_png,kc_onekeypop_bg_png,kc_onekeypop_btnadd_png,kc_onekeypop_btnbuy_png,kc_onekeypop_btnlose_png,kc_onekeypop_tuceng_563_png,kc_onekeypop_txtbg_png,kc_onekeypop_zu_1_png,kc_onekeypop_zu_2_png,kc_panel1_bg21_png,kc_panel1_btnonekey_png,kc_panel1_enemy1_png,kc_panel1_enemy2_png,kc_panel1_enemy3_png,kc_panel1_head1_png,kc_panel1_head2_png,kc_panel1_head3_png,kc_panel1_jindu_kb_png,kc_panel1_jindu_kb_2_png,kc_panel1_jindu_kb_3_png,kc_panel1_jindu_kb_4_png,kc_panel1_juxing_4_png,kc_panel1_jx_3_kb_png,kc_panel1_jx_6_kb_4_png,kc_panel1_jx_6_kb_5_png,kc_panel1_jx_9042_png,kc_panel1_jx_9043_png,kc_panel1_jx_9044_png,kc_panel1_jx_9044_kb_png,kc_panel1_jx_913_kb_4_png,kc_panel1_le1_down_png,kc_panel1_le1_up_png,kc_panel1_le2_down_png,kc_panel1_le2_up_png,kc_panel1_le3_down_png,kc_panel1_le3_up_png,kc_panel1_pass_png,kc_panel1_tipsbg_png,kc_panel1_title_png,kc_panel1_tuceng_1_png,kc_panel1_txtlabel_png,kc_panel1_xuanzhong_png,kc_panel1_yjzs_png,kc_panel1_zfxg_png,kc_panel1_zu_1_png,kc_panel1_zu_35_png,kc_panel2_2269_png,kc_panel2_2291_png,kc_panel2_2382_png,kc_panel2_2461_png,kc_panel2_2663_png,kc_panel2_btnadd_png,kc_panel2_btnfast_png,kc_panel2_btnfight_png,kc_panel2_btnonekey_png,kc_panel2_hasDone_png,kc_panel2_jlbb_png,kc_panel2_jlhf_png,kc_panel2_juxinga_png,kc_panel2_juxing_904_png,kc_panel2_jx_9042_png,kc_panel2_jx_9043_kb_png,kc_panel2_jx_904_kb_2_png,kc_panel2_pet1_down_png,kc_panel2_pet1_up_png,kc_panel2_pet2_down_png,kc_panel2_pet2_up_png,kc_panel2_pet3_down_png,kc_panel2_pet3_up_png,kc_panel2_pet4_down_png,kc_panel2_pet4_up_png,kc_panel2_sszy_png,kc_panel2_tipsbg_png,kc_panel2_title_png,kc_panel2_tuceng_1_png,kc_panel2_zu_1_png,kc_panel2_zu_2_png,kc_panel2_zu_314_png,kc_panel3_btnfast_png,kc_panel3_btnonekey_png,kc_panel3_gtsm_png,kc_panel3_jlbb_png,kc_panel3_jlhf_png,kc_panel3_juxing_904_png,kc_panel3_juxing_915_png,kc_panel3_juxing_916_png,kc_panel3_jx_913_kb_4_png,kc_panel3_jx_914_kb_png,kc_panel3_jx_914_kb1_3_png,kc_panel3_jx_915_kb_4_png,kc_panel3_jx_915_kb_44_png,kc_panel3_jx_915_kb_45_png,kc_panel3_jx_915_kb_46_png,kc_panel3_jx_915_kb_47_png,kc_panel3_jx_915_kb_5_png,kc_panel3_jx_915_kb_6_png,kc_panel3_jx_915_kb_7_png,kc_panel3_pass1_png,kc_panel3_pass2_png,kc_panel3_pass3_png,kc_panel3_pass4_png,kc_panel3_pass5_png,kc_panel3_pass6_png,kc_panel3_tipsbg_png,kc_panel3_title_png,kc_panel3_xz_2_png,kc_panel3_zu_3171_png,kc_panel3_zu_3172_png,kc_panel3_z_317_kb_png,kc_panel4_add_y_png,kc_panel4_btnadd_png,kc_panel4_btnchou_png,kc_panel4_btnlock_png,kc_panel4_btnonekey_png,kc_panel4_btntiaozhan_png,kc_panel4_btnuniock_png,kc_panel4_item1_png,kc_panel4_item1_light_png,kc_panel4_item2_png,kc_panel4_item2_light_png,kc_panel4_item3_png,kc_panel4_item3_light_png,kc_panel4_item4_png,kc_panel4_item4_light_png,kc_panel4_jlbb_png,kc_panel4_jlhf_png,kc_panel4_juxing_904_png,kc_panel4_jx_904_kb_2_png,kc_panel4_lock_png,kc_panel4_pet1_png,kc_panel4_pet2_png,kc_panel4_pet3_png,kc_panel4_pet4_png,kc_panel4_star1_png,kc_panel4_star2_png,kc_panel4_star3_png,kc_panel4_tipsbg_png,kc_panel4_title_png,kc_panel4_tuceng_7_png,kc_panel4_txtbg2_png,kc_panel4_wzzl_png,kc_panel4_zu_324_png,kc_panel5_bg1_png,kc_panel5_bg2_png,kc_panel5_bg3_png,kc_panel5_btnadditem_png,kc_panel5_btnduihuan_png,kc_panel5_btnfa_png,kc_panel5_btnke_png,kc_panel5_btnte_png,kc_panel5_btntiaozhan_png,kc_panel5_btnwu_png,kc_panel5_cishudi_png,kc_panel5_di_png,kc_panel5_juxing_913_png,kc_panel5_jx_913_kb_4_png,kc_panel5_kuang_png,kc_panel5_nljj_png,kc_panel5_nlys_png,kc_panel5_title1_png,kc_panel5_title2_png,kc_panel5_title3_png,kc_panel5_tuceng_36_png,kc_panel5_tuceng_39_png,kc_panel5_tuceng_40_png,kc_panel5_tuceng_41_png"
+    }
+  ]
+}

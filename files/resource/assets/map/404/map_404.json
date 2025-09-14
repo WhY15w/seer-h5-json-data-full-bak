@@ -1,0 +1,30 @@
+{
+  "groups": [
+    {
+      "keys": "road_404,exml_404,map_404_bg_mc_jpg,map_404_nnvfdg43_png",
+      "name": "map_404"
+    }
+  ],
+  "resources": [
+    {
+      "type": "json",
+      "url": "404.json",
+      "name": "road_404"
+    },
+    {
+      "type": "text",
+      "url": "Map404Skin.exml",
+      "name": "exml_404"
+    },
+    {
+      "type": "image",
+      "url": "map_404_bg_mc.jpg",
+      "name": "map_404_bg_mc_jpg"
+    },
+    {
+      "type": "image",
+      "url": "map_404_nnvfdg43.png",
+      "name": "map_404_nnvfdg43_png"
+    }
+  ]
+}

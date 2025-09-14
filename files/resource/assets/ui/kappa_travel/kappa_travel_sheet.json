@@ -1,0 +1,215 @@
+{
+  "file": "kappa_travel_sheet.png",
+  "frames": {
+    "kappa_travel_bg_png": {
+      "x": 1,
+      "y": 1,
+      "w": 987,
+      "h": 627,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 987,
+      "sourceH": 627
+    },
+    "kappa_travel_btnget_png": {
+      "x": 694,
+      "y": 824,
+      "w": 189,
+      "h": 53,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 189,
+      "sourceH": 53
+    },
+    "kappa_travel_btnhelp_png": {
+      "x": 756,
+      "y": 701,
+      "w": 42,
+      "h": 42,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 42,
+      "sourceH": 42
+    },
+    "kappa_travel_btninfo_png": {
+      "x": 952,
+      "y": 701,
+      "w": 54,
+      "h": 55,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 54,
+      "sourceH": 55
+    },
+    "kappa_travel_imgdoing_png": {
+      "x": 654,
+      "y": 701,
+      "w": 100,
+      "h": 33,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 100,
+      "sourceH": 33
+    },
+    "kappa_travel_imgfinish_png": {
+      "x": 885,
+      "y": 822,
+      "w": 98,
+      "h": 100,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 98,
+      "sourceH": 100
+    },
+    "kappa_travel_imghas_png": {
+      "x": 503,
+      "y": 879,
+      "w": 189,
+      "h": 53,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 189,
+      "sourceH": 53
+    },
+    "kappa_travel_imgitem1_png": {
+      "x": 1,
+      "y": 895,
+      "w": 81,
+      "h": 81,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 81,
+      "sourceH": 81
+    },
+    "kappa_travel_imgitem2_png": {
+      "x": 338,
+      "y": 894,
+      "w": 83,
+      "h": 83,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 83,
+      "sourceH": 83
+    },
+    "kappa_travel_imgitem3_png": {
+      "x": 252,
+      "y": 894,
+      "w": 84,
+      "h": 83,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 84,
+      "sourceH": 83
+    },
+    "kappa_travel_imgitem4_png": {
+      "x": 782,
+      "y": 879,
+      "w": 84,
+      "h": 84,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 84,
+      "sourceH": 84
+    },
+    "kappa_travel_imgitem5_png": {
+      "x": 694,
+      "y": 879,
+      "w": 86,
+      "h": 86,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 86,
+      "sourceH": 86
+    },
+    "kappa_travel_imgitembg_png": {
+      "x": 837,
+      "y": 701,
+      "w": 113,
+      "h": 119,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 113,
+      "sourceH": 119
+    },
+    "kappa_travel_pop_bg_png": {
+      "x": 1,
+      "y": 630,
+      "w": 651,
+      "h": 121,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 651,
+      "sourceH": 121
+    },
+    "kappa_travel_pop_btnget_png": {
+      "x": 503,
+      "y": 824,
+      "w": 189,
+      "h": 53,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 189,
+      "sourceH": 53
+    },
+    "kappa_travel_pop_img1_png": {
+      "x": 990,
+      "y": 1,
+      "w": 31,
+      "h": 32,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 31,
+      "sourceH": 32
+    },
+    "kappa_travel_pop_imgtitle1_png": {
+      "x": 1,
+      "y": 753,
+      "w": 416,
+      "h": 69,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 416,
+      "sourceH": 69
+    },
+    "kappa_travel_pop_imgtitle2_png": {
+      "x": 252,
+      "y": 824,
+      "w": 249,
+      "h": 68,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 249,
+      "sourceH": 68
+    },
+    "kappa_travel_pop_imgtitle3_png": {
+      "x": 419,
+      "y": 753,
+      "w": 416,
+      "h": 69,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 416,
+      "sourceH": 69
+    },
+    "kappa_travel_pop_imgtitle4_png": {
+      "x": 654,
+      "y": 630,
+      "w": 360,
+      "h": 69,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 360,
+      "sourceH": 69
+    },
+    "kappa_travel_pop_imgtitle5_png": {
+      "x": 1,
+      "y": 824,
+      "w": 249,
+      "h": 69,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 249,
+      "sourceH": 69
+    }
+  }
+}

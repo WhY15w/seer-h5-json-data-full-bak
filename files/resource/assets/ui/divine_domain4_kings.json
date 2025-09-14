@@ -1,0 +1,26 @@
+{
+  "groups": [
+    {
+      "name": "divine_domain4_kings",
+      "keys": "divine_domain4_kings_sheet,dd4k_modissis_exchange_pop_bg_jpg,dd4k_main_panel_bg_jpg"
+    }
+  ],
+  "resources": [
+    {
+      "name": "dd4k_modissis_exchange_pop_bg_jpg",
+      "type": "image",
+      "url": "divine_domain4_kings/dd4k_modissis_exchange_pop_bg.jpg"
+    },
+    {
+      "name": "dd4k_main_panel_bg_jpg",
+      "type": "image",
+      "url": "divine_domain4_kings/outside/dd4k_main_panel_bg.jpg"
+    },
+    {
+      "name": "divine_domain4_kings_sheet",
+      "type": "sheet",
+      "url": "divine_domain4_kings/divine_domain4_kings_sheet.json",
+      "subkeys": "dd4k_main_panel_btnclose_png,dd4k_main_panel_btninfo_png,dd4k_main_panel_btnone_png,dd4k_main_panel_help_png,dd4k_main_panel_pet_0_png,dd4k_main_panel_pet_1_png,dd4k_main_panel_pet_2_png,dd4k_main_panel_pet_3_png,dd4k_main_panel_pet_lock_png,dd4k_main_panel_title_png,dd4k_main_panel_up_bg_png,dd4k_modissis_exchange_pop_bg_png,dd4k_modissis_exchange_pop_btnbuy_png,dd4k_modissis_exchange_pop_btnbuyitem_png,dd4k_modissis_exchange_pop_btnbuy_0_png,dd4k_modissis_exchange_pop_btnbuy_1_png,dd4k_modissis_exchange_pop_btnbuy_2_png,dd4k_modissis_exchange_pop_btnbuy_3_png,dd4k_modissis_exchange_pop_btnclose_png,dd4k_modissis_exchange_pop_exchange_icon_png,dd4k_modissis_exchange_pop_item_0_png,dd4k_modissis_exchange_pop_item_1_png,dd4k_modissis_exchange_pop_item_2_png,dd4k_modissis_exchange_pop_item_3_png,dd4k_modissis_panel_btnadd_png,dd4k_modissis_panel_btnaward_png,dd4k_modissis_panel_btnbag_png,dd4k_modissis_panel_btnbuy_png,dd4k_modissis_panel_btncure_png,dd4k_modissis_panel_btnexchange_png,dd4k_modissis_panel_btnfight_png,dd4k_modissis_panel_btnrandom_png,dd4k_modissis_panel_btnrerandom_png,dd4k_modissis_panel_bz_item_bg_png,dd4k_modissis_panel_numbg_png,dd4k_modissis_panel_pet_0_png,dd4k_modissis_panel_pet_1_png,dd4k_modissis_panel_pet_2_png,dd4k_modissis_panel_pet_select_0_png,dd4k_modissis_panel_pet_select_1_png,dd4k_modissis_panel_pet_select_2_png,dd4k_modissis_panel_title_png,dd4k_modissis_panel_title_2_png,dd4k_modissis_panel_up_bg_png,dd4k_modissis_reward_pop_mrzl_png,dd4k_reward_pop_bg_png,dd4k_reward_pop_btnclose_1_png"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "groups": [
+    {
+      "keys": "road_966,exml_966,map_966_bg_mc_jpg",
+      "name": "map_966"
+    }
+  ],
+  "resources": [
+    {
+      "type": "json",
+      "url": "966.json",
+      "name": "road_966"
+    },
+    {
+      "type": "text",
+      "url": "Map966Skin.exml",
+      "name": "exml_966"
+    },
+    {
+      "type": "image",
+      "url": "map_966_bg_mc.jpg",
+      "name": "map_966_bg_mc_jpg"
+    }
+  ]
+}

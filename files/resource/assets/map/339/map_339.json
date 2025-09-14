@@ -1,0 +1,40 @@
+{
+  "resources": [
+    {
+      "type": "json",
+      "url": "339.json",
+      "name": "road_339"
+    },
+    {
+      "type": "text",
+      "url": "Map339Skin.exml",
+      "name": "exml_339"
+    },
+    {
+      "type": "image",
+      "url": "map_339_bg_mc.png",
+      "name": "map_339_bg_mc_png"
+    },
+    {
+      "type": "image",
+      "url": "map_339_control_mc.png",
+      "name": "map_339_control_mc_png"
+    },
+    {
+      "type": "image",
+      "url": "map_339_cashuih.png",
+      "name": "map_339_cashuih_png"
+    },
+    {
+      "type": "image",
+      "url": "map_339_htr.png",
+      "name": "map_339_htr_png"
+    }
+  ],
+  "groups": [
+    {
+      "keys": "road_339,exml_339,map_339_bg_mc_png,map_339_control_mc_png,map_339_cashuih_png,map_339_htr_png",
+      "name": "map_339"
+    }
+  ]
+}

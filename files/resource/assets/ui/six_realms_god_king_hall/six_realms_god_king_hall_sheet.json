@@ -1,0 +1,465 @@
+{
+  "file": "six_realms_god_king_hall_sheet.png",
+  "frames": {
+    "imgPet1_png": {
+      "x": 3335,
+      "y": 595,
+      "w": 317,
+      "h": 338,
+      "offX": 15,
+      "offY": 0,
+      "sourceW": 332,
+      "sourceH": 338
+    },
+    "imgPet2_png": {
+      "x": 3654,
+      "y": 595,
+      "w": 317,
+      "h": 338,
+      "offX": 15,
+      "offY": 0,
+      "sourceW": 332,
+      "sourceH": 338
+    },
+    "imgPet3_png": {
+      "x": 639,
+      "y": 852,
+      "w": 317,
+      "h": 338,
+      "offX": 15,
+      "offY": 0,
+      "sourceW": 332,
+      "sourceH": 338
+    },
+    "imgPet4_png": {
+      "x": 679,
+      "y": 512,
+      "w": 317,
+      "h": 338,
+      "offX": 15,
+      "offY": 0,
+      "sourceW": 332,
+      "sourceH": 338
+    },
+    "imgPet5_png": {
+      "x": 998,
+      "y": 512,
+      "w": 317,
+      "h": 338,
+      "offX": 15,
+      "offY": 0,
+      "sourceW": 332,
+      "sourceH": 338
+    },
+    "imgPet6_png": {
+      "x": 1,
+      "y": 557,
+      "w": 317,
+      "h": 338,
+      "offX": 15,
+      "offY": 0,
+      "sourceW": 332,
+      "sourceH": 338
+    },
+    "imgPet7_png": {
+      "x": 320,
+      "y": 557,
+      "w": 317,
+      "h": 338,
+      "offX": 15,
+      "offY": 0,
+      "sourceW": 332,
+      "sourceH": 338
+    },
+    "six_realms_god_king_hall_challenge_panel_btnaddfighttime_png": {
+      "x": 4073,
+      "y": 58,
+      "w": 21,
+      "h": 21,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 21,
+      "sourceH": 21
+    },
+    "six_realms_god_king_hall_challenge_panel_btncure_png": {
+      "x": 3945,
+      "y": 82,
+      "w": 79,
+      "h": 79,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 79,
+      "sourceH": 79
+    },
+    "six_realms_god_king_hall_challenge_panel_btnfastbeat_png": {
+      "x": 3945,
+      "y": 163,
+      "w": 134,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 134,
+      "sourceH": 46
+    },
+    "six_realms_god_king_hall_challenge_panel_btnfight_png": {
+      "x": 3945,
+      "y": 211,
+      "w": 134,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 134,
+      "sourceH": 46
+    },
+    "six_realms_god_king_hall_challenge_panel_btnpet_png": {
+      "x": 3945,
+      "y": 1,
+      "w": 79,
+      "h": 79,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 79,
+      "sourceH": 79
+    },
+    "six_realms_god_king_hall_challenge_panel_imgpet1_png": {
+      "x": 2788,
+      "y": 1,
+      "w": 638,
+      "h": 481,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 638,
+      "sourceH": 481
+    },
+    "six_realms_god_king_hall_challenge_panel_imgpet2_png": {
+      "x": 2090,
+      "y": 1,
+      "w": 696,
+      "h": 475,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 696,
+      "sourceH": 475
+    },
+    "six_realms_god_king_hall_challenge_panel_imgpet3_png": {
+      "x": 1357,
+      "y": 1,
+      "w": 731,
+      "h": 464,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 731,
+      "sourceH": 464
+    },
+    "six_realms_god_king_hall_challenge_panel_imgpet4_png": {
+      "x": 1910,
+      "y": 478,
+      "w": 581,
+      "h": 463,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 581,
+      "sourceH": 463
+    },
+    "six_realms_god_king_hall_challenge_panel_imgpet5_png": {
+      "x": 1357,
+      "y": 467,
+      "w": 551,
+      "h": 505,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 551,
+      "sourceH": 505
+    },
+    "six_realms_god_king_hall_challenge_panel_imgpet6_png": {
+      "x": 2933,
+      "y": 484,
+      "w": 400,
+      "h": 487,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 400,
+      "sourceH": 487
+    },
+    "six_realms_god_king_hall_challenge_panel_imgpet7_png": {
+      "x": 679,
+      "y": 1,
+      "w": 676,
+      "h": 509,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 676,
+      "sourceH": 509
+    },
+    "six_realms_god_king_hall_challenge_panel_imgstar1_png": {
+      "x": 4026,
+      "y": 58,
+      "w": 45,
+      "h": 43,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 45,
+      "sourceH": 43
+    },
+    "six_realms_god_king_hall_challenge_panel_jiantou_png": {
+      "x": 4026,
+      "y": 1,
+      "w": 49,
+      "h": 55,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 49,
+      "sourceH": 55
+    },
+    "six_realms_god_king_hall_challenge_panel_kuang_png": {
+      "x": 429,
+      "y": 897,
+      "w": 156,
+      "h": 175,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 156,
+      "sourceH": 175
+    },
+    "six_realms_god_king_hall_challenge_panel_rightbg_png": {
+      "x": 3428,
+      "y": 1,
+      "w": 515,
+      "h": 592,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 515,
+      "sourceH": 592
+    },
+    "six_realms_god_king_hall_challenge_panel_txtbg_png": {
+      "x": 1172,
+      "y": 974,
+      "w": 594,
+      "h": 47,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 594,
+      "sourceH": 47
+    },
+    "six_realms_god_king_hall_challenge_panel_txtcoin2_kb_png": {
+      "x": 3335,
+      "y": 935,
+      "w": 227,
+      "h": 22,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 227,
+      "sourceH": 22
+    },
+    "six_realms_god_king_hall_challenge_panel_txttitle1_png": {
+      "x": 3945,
+      "y": 348,
+      "w": 114,
+      "h": 42,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 114,
+      "sourceH": 42
+    },
+    "six_realms_god_king_hall_challenge_panel_txttitle2_png": {
+      "x": 3945,
+      "y": 259,
+      "w": 113,
+      "h": 43,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 113,
+      "sourceH": 43
+    },
+    "six_realms_god_king_hall_challenge_panel_txttitle3_png": {
+      "x": 3945,
+      "y": 304,
+      "w": 114,
+      "h": 42,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 114,
+      "sourceH": 42
+    },
+    "six_realms_god_king_hall_challenge_panel_zu_31_png": {
+      "x": 1910,
+      "y": 943,
+      "w": 287,
+      "h": 76,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 287,
+      "sourceH": 76
+    },
+    "six_realms_god_king_hall_icon_png": {
+      "x": 4026,
+      "y": 103,
+      "w": 39,
+      "h": 44,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 39,
+      "sourceH": 44
+    },
+    "six_realms_god_king_hall_main_panel_1721558_png": {
+      "x": 4067,
+      "y": 103,
+      "w": 28,
+      "h": 28,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 28,
+      "sourceH": 28
+    },
+    "six_realms_god_king_hall_main_panel_btnclose_png": {
+      "x": 4060,
+      "y": 259,
+      "w": 29,
+      "h": 39,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 29,
+      "sourceH": 39
+    },
+    "six_realms_god_king_hall_main_panel_btndifficult_png": {
+      "x": 958,
+      "y": 852,
+      "w": 212,
+      "h": 168,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 212,
+      "sourceH": 168
+    },
+    "six_realms_god_king_hall_main_panel_btneasy_png": {
+      "x": 1,
+      "y": 897,
+      "w": 212,
+      "h": 168,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 212,
+      "sourceH": 168
+    },
+    "six_realms_god_king_hall_main_panel_btnhelp_png": {
+      "x": 4067,
+      "y": 133,
+      "w": 23,
+      "h": 26,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 23,
+      "sourceH": 26
+    },
+    "six_realms_god_king_hall_main_panel_btnnormal_png": {
+      "x": 215,
+      "y": 897,
+      "w": 212,
+      "h": 168,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 212,
+      "sourceH": 168
+    },
+    "six_realms_god_king_hall_main_panel_icon3_png": {
+      "x": 4061,
+      "y": 333,
+      "w": 31,
+      "h": 33,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 31,
+      "sourceH": 33
+    },
+    "six_realms_god_king_hall_main_panel_icon4_png": {
+      "x": 4061,
+      "y": 300,
+      "w": 34,
+      "h": 31,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 34,
+      "sourceH": 31
+    },
+    "six_realms_god_king_hall_main_panel_imgswitchoff_png": {
+      "x": 3993,
+      "y": 449,
+      "w": 44,
+      "h": 20,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 44,
+      "sourceH": 20
+    },
+    "six_realms_god_king_hall_main_panel_imgswitchon_png": {
+      "x": 3945,
+      "y": 449,
+      "w": 46,
+      "h": 24,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 46,
+      "sourceH": 24
+    },
+    "six_realms_god_king_hall_main_panel_img_di2_png": {
+      "x": 3945,
+      "y": 425,
+      "w": 114,
+      "h": 22,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 114,
+      "sourceH": 22
+    },
+    "six_realms_god_king_hall_main_panel_line3_png": {
+      "x": 2493,
+      "y": 484,
+      "w": 438,
+      "h": 592,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 438,
+      "sourceH": 592
+    },
+    "six_realms_god_king_hall_main_panel_pet_png": {
+      "x": 1,
+      "y": 1,
+      "w": 676,
+      "h": 554,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 676,
+      "sourceH": 554
+    },
+    "six_realms_god_king_hall_main_panel_top_png": {
+      "x": 2933,
+      "y": 973,
+      "w": 1136,
+      "h": 56,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 1136,
+      "sourceH": 56
+    },
+    "six_realms_god_king_hall_main_panel_txtcoin2_kb_png": {
+      "x": 1172,
+      "y": 852,
+      "w": 159,
+      "h": 22,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 159,
+      "sourceH": 22
+    },
+    "six_realms_god_king_hall_main_panel_txt_title_png": {
+      "x": 3945,
+      "y": 392,
+      "w": 129,
+      "h": 31,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 129,
+      "sourceH": 31
+    }
+  }
+}

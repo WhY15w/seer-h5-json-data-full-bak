@@ -1,0 +1,30 @@
+{
+  "groups": [
+    {
+      "keys": "road_325,exml_325,map_325_bg_mc_png,map_325_control_mc_png",
+      "name": "map_325"
+    }
+  ],
+  "resources": [
+    {
+      "type": "json",
+      "url": "325.json",
+      "name": "road_325"
+    },
+    {
+      "type": "text",
+      "url": "Map325Skin.exml",
+      "name": "exml_325"
+    },
+    {
+      "type": "image",
+      "url": "map_325_bg_mc.png",
+      "name": "map_325_bg_mc_png"
+    },
+    {
+      "type": "image",
+      "url": "map_325_control_mc.png",
+      "name": "map_325_control_mc_png"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "SubTexture": [
+    {
+      "name": "elkwjer",
+      "x": 0,
+      "width": 90,
+      "y": 0,
+      "height": 54
+    },
+    {
+      "name": "arm-01",
+      "x": 177,
+      "width": 46,
+      "y": 0,
+      "height": 52
+    },
+    {
+      "name": "arm-02",
+      "x": 135,
+      "width": 34,
+      "y": 53,
+      "height": 53
+    },
+    {
+      "name": "arm-03",
+      "x": 0,
+      "width": 35,
+      "y": 55,
+      "height": 50
+    },
+    {
+      "name": "element_03",
+      "x": 170,
+      "width": 35,
+      "y": 53,
+      "height": 50
+    },
+    {
+      "name": "arm-04",
+      "x": 36,
+      "width": 23,
+      "y": 55,
+      "height": 51
+    },
+    {
+      "name": "arm-05",
+      "x": 91,
+      "width": 42,
+      "y": 53,
+      "height": 54
+    },
+    {
+      "name": "arm-06",
+      "x": 224,
+      "width": 31,
+      "y": 0,
+      "height": 58
+    },
+    {
+      "name": "arm-07",
+      "x": 91,
+      "width": 85,
+      "y": 0,
+      "height": 52
+    }
+  ],
+  "name": 100445,
+  "imagePath": "texture.png"
+}

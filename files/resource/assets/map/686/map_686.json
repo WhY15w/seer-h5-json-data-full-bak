@@ -1,0 +1,30 @@
+{
+  "groups": [
+    {
+      "keys": "road_686,exml_686,map_686_bg_mc_jpg,map_686_top_mc_png",
+      "name": "map_686"
+    }
+  ],
+  "resources": [
+    {
+      "type": "json",
+      "url": "686.json",
+      "name": "road_686"
+    },
+    {
+      "type": "text",
+      "url": "Map686Skin.exml",
+      "name": "exml_686"
+    },
+    {
+      "type": "image",
+      "url": "map_686_bg_mc.jpg",
+      "name": "map_686_bg_mc_jpg"
+    },
+    {
+      "type": "image",
+      "url": "map_686_top_mc.png",
+      "name": "map_686_top_mc_png"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "resources": [
+    {
+      "type": "json",
+      "url": "40.json",
+      "name": "road_40"
+    },
+    {
+      "type": "image",
+      "url": "map_40_bg_mc.png",
+      "name": "map_40_bg_mc_png"
+    },
+    {
+      "type": "image",
+      "url": "map_40_bingBlockMc.png",
+      "name": "map_40_bingBlockMc_png"
+    },
+    {
+      "type": "image",
+      "url": "map_40_lfMC_1.png",
+      "name": "map_40_lfMC_1_png"
+    },
+    {
+      "type": "image",
+      "url": "map_40_lfMC_2.png",
+      "name": "map_40_lfMC_2_png"
+    },
+    {
+      "type": "image",
+      "url": "map_40_hatchTaskMC.png",
+      "name": "map_40_hatchTaskMC_png"
+    },
+    {
+      "type": "image",
+      "url": "map_40_control_mc.png",
+      "name": "map_40_control_mc_png"
+    },
+    {
+      "name": "exml_40",
+      "type": "text",
+      "url": "Map40Skin.exml"
+    }
+  ],
+  "groups": [
+    {
+      "keys": "road_40,map_40_bg_mc_png,map_40_bingBlockMc_png,map_40_lfMC_1_png,map_40_lfMC_2_png,map_40_hatchTaskMC_png,map_40_control_mc_png,exml_40",
+      "name": "map_40"
+    }
+  ]
+}

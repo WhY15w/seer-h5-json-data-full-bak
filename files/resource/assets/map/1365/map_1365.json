@@ -1,0 +1,30 @@
+{
+  "groups": [
+    {
+      "keys": "road_1365,exml_1365,map_1365_bg_mc_jpg,map_1365_top_mc_png",
+      "name": "map_1365"
+    }
+  ],
+  "resources": [
+    {
+      "type": "json",
+      "url": "1365.json",
+      "name": "road_1365"
+    },
+    {
+      "type": "text",
+      "url": "Map1365Skin.exml",
+      "name": "exml_1365"
+    },
+    {
+      "type": "image",
+      "url": "map_1365_bg_mc.jpg",
+      "name": "map_1365_bg_mc_jpg"
+    },
+    {
+      "type": "image",
+      "url": "map_1365_top_mc.png",
+      "name": "map_1365_top_mc_png"
+    }
+  ]
+}

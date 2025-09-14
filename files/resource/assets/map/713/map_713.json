@@ -1,0 +1,65 @@
+{
+  "resources": [
+    {
+      "type": "json",
+      "url": "713.json",
+      "name": "road_713"
+    },
+    {
+      "type": "text",
+      "url": "Map713Skin.exml",
+      "name": "exml_713"
+    },
+    {
+      "type": "image",
+      "url": "map_713_bg_mc.jpg",
+      "name": "map_713_bg_mc_jpg"
+    },
+    {
+      "type": "image",
+      "url": "map_713_stone2.png",
+      "name": "map_713_stone2_png"
+    },
+    {
+      "type": "image",
+      "url": "map_713_shitou1.png",
+      "name": "map_713_shitou1_png"
+    },
+    {
+      "type": "image",
+      "url": "map_713_shanhu1.png",
+      "name": "map_713_shanhu1_png"
+    },
+    {
+      "type": "image",
+      "url": "map_713_stone4.png",
+      "name": "map_713_stone4_png"
+    },
+    {
+      "type": "image",
+      "url": "map_713_stone3.png",
+      "name": "map_713_stone3_png"
+    },
+    {
+      "type": "image",
+      "url": "map_713_stone5.png",
+      "name": "map_713_stone5_png"
+    },
+    {
+      "type": "image",
+      "url": "map_713_shanhu2.png",
+      "name": "map_713_shanhu2_png"
+    },
+    {
+      "type": "image",
+      "url": "map_713_stone6.png",
+      "name": "map_713_stone6_png"
+    }
+  ],
+  "groups": [
+    {
+      "keys": "road_713,exml_713,map_713_bg_mc_jpg,map_713_stone2_png,map_713_shitou1_png,map_713_shanhu1_png,map_713_stone4_png,map_713_stone3_png,map_713_stone5_png,map_713_shanhu2_png,map_713_stone6_png",
+      "name": "map_713"
+    }
+  ]
+}

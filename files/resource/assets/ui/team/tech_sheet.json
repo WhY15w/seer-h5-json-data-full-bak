@@ -1,0 +1,225 @@
+{
+  "file": "tech_sheet.png",
+  "frames": {
+    "team_tech_atk_icon_png": {
+      "x": 440,
+      "y": 127,
+      "w": 58,
+      "h": 29,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 58,
+      "sourceH": 29
+    },
+    "team_tech_attr_icon_png": {
+      "x": 973,
+      "y": 30,
+      "w": 25,
+      "h": 24,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 25,
+      "sourceH": 24
+    },
+    "team_tech_attr_icon2_png": {
+      "x": 973,
+      "y": 1,
+      "w": 32,
+      "h": 27,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 32,
+      "sourceH": 27
+    },
+    "team_tech_bluebg_png": {
+      "x": 1,
+      "y": 323,
+      "w": 699,
+      "h": 94,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 699,
+      "sourceH": 94
+    },
+    "team_tech_btnChangePet_png": {
+      "x": 602,
+      "y": 149,
+      "w": 99,
+      "h": 20,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 99,
+      "sourceH": 20
+    },
+    "team_tech_def_icon_png": {
+      "x": 958,
+      "y": 132,
+      "w": 58,
+      "h": 29,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 58,
+      "sourceH": 29
+    },
+    "team_tech_hp_icon_png": {
+      "x": 682,
+      "y": 80,
+      "w": 58,
+      "h": 29,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 58,
+      "sourceH": 29
+    },
+    "team_tech_iconbg_png": {
+      "x": 511,
+      "y": 109,
+      "w": 89,
+      "h": 45,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 89,
+      "sourceH": 45
+    },
+    "team_tech_itembg_png": {
+      "x": 346,
+      "y": 1,
+      "w": 163,
+      "h": 124,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 163,
+      "sourceH": 124
+    },
+    "team_tech_item_img_selected_png": {
+      "x": 511,
+      "y": 1,
+      "w": 234,
+      "h": 77,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 234,
+      "sourceH": 77
+    },
+    "team_tech_item_shuxingbg_png": {
+      "x": 747,
+      "y": 1,
+      "w": 224,
+      "h": 67,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 224,
+      "sourceH": 67
+    },
+    "team_tech_lvl_bg_png": {
+      "x": 853,
+      "y": 70,
+      "w": 103,
+      "h": 103,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 103,
+      "sourceH": 103
+    },
+    "team_tech_next_png": {
+      "x": 602,
+      "y": 109,
+      "w": 78,
+      "h": 38,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 78,
+      "sourceH": 38
+    },
+    "team_tech_petheadbg_png": {
+      "x": 747,
+      "y": 70,
+      "w": 104,
+      "h": 104,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 104,
+      "sourceH": 104
+    },
+    "team_tech_petkuang_png": {
+      "x": 1,
+      "y": 1,
+      "w": 343,
+      "h": 320,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 343,
+      "sourceH": 320
+    },
+    "team_tech_satk_icon_png": {
+      "x": 958,
+      "y": 70,
+      "w": 61,
+      "h": 29,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 61,
+      "sourceH": 29
+    },
+    "team_tech_sdef_icon_png": {
+      "x": 958,
+      "y": 101,
+      "w": 58,
+      "h": 29,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 58,
+      "sourceH": 29
+    },
+    "team_tech_speed_icon_png": {
+      "x": 682,
+      "y": 111,
+      "w": 58,
+      "h": 29,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 58,
+      "sourceH": 29
+    },
+    "team_tech_startStrengthen_png": {
+      "x": 346,
+      "y": 127,
+      "w": 92,
+      "h": 32,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 92,
+      "sourceH": 32
+    },
+    "team_tech_star_off_png": {
+      "x": 703,
+      "y": 142,
+      "w": 22,
+      "h": 20,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 22,
+      "sourceH": 20
+    },
+    "team_tech_star_on_png": {
+      "x": 1000,
+      "y": 30,
+      "w": 22,
+      "h": 20,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 22,
+      "sourceH": 20
+    },
+    "team_tech_title_png": {
+      "x": 511,
+      "y": 80,
+      "w": 169,
+      "h": 27,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 169,
+      "sourceH": 27
+    }
+  }
+}

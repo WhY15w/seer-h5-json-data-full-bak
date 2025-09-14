@@ -1,0 +1,60 @@
+{
+  "groups": [
+    {
+      "keys": "road_438,exml_438,map_438_bg_mc_jpg,map_438_shitou4_png,map_438_shitou7_png,map_438_shitou12_png,map_438_shitou13_png,map_438_shitou15_png,map_438_zhuzi2_png,map_438_shitou103_png",
+      "name": "map_438"
+    }
+  ],
+  "resources": [
+    {
+      "type": "json",
+      "url": "438.json",
+      "name": "road_438"
+    },
+    {
+      "type": "text",
+      "url": "Map438Skin.exml",
+      "name": "exml_438"
+    },
+    {
+      "type": "image",
+      "url": "map_438_bg_mc.jpg",
+      "name": "map_438_bg_mc_jpg"
+    },
+    {
+      "type": "image",
+      "url": "map_438_shitou4.png",
+      "name": "map_438_shitou4_png"
+    },
+    {
+      "type": "image",
+      "url": "map_438_shitou7.png",
+      "name": "map_438_shitou7_png"
+    },
+    {
+      "type": "image",
+      "url": "map_438_shitou12.png",
+      "name": "map_438_shitou12_png"
+    },
+    {
+      "type": "image",
+      "url": "map_438_shitou13.png",
+      "name": "map_438_shitou13_png"
+    },
+    {
+      "type": "image",
+      "url": "map_438_shitou15.png",
+      "name": "map_438_shitou15_png"
+    },
+    {
+      "type": "image",
+      "url": "map_438_zhuzi2.png",
+      "name": "map_438_zhuzi2_png"
+    },
+    {
+      "type": "image",
+      "url": "map_438_shitou103.png",
+      "name": "map_438_shitou103_png"
+    }
+  ]
+}

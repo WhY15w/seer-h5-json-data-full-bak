@@ -1,0 +1,61 @@
+{
+  "groups": [
+    {
+      "name": "energy_research_station",
+      "keys": "energy_research_station_sheet,nengyuanzhan_atlas,nengyuanzhan_json,energy_research_station_bg_jpg,energy_research_station_pop_energy_bg_png,energy_research_station_pop_exchangebg_png,energy_research_station_pop_lockbg_png,energy_research_station_pop_recoverbg_png,energy_research_station_reward_png,nengyuanzhan_png"
+    }
+  ],
+  "resources": [
+    {
+      "name": "nengyuanzhan_atlas",
+      "type": "text",
+      "url": "energy_research_station/outside/nengyuanzhan.atlas"
+    },
+    {
+      "name": "nengyuanzhan_json",
+      "type": "json",
+      "url": "energy_research_station/outside/nengyuanzhan.json"
+    },
+    {
+      "name": "energy_research_station_bg_jpg",
+      "type": "image",
+      "url": "energy_research_station/outside/energy_research_station_bg.jpg"
+    },
+    {
+      "name": "energy_research_station_pop_energy_bg_png",
+      "type": "image",
+      "url": "energy_research_station/outside/energy_research_station_pop_energy_bg.png"
+    },
+    {
+      "name": "energy_research_station_pop_exchangebg_png",
+      "type": "image",
+      "url": "energy_research_station/outside/energy_research_station_pop_exchangebg.png"
+    },
+    {
+      "name": "energy_research_station_pop_lockbg_png",
+      "type": "image",
+      "url": "energy_research_station/outside/energy_research_station_pop_lockbg.png"
+    },
+    {
+      "name": "energy_research_station_pop_recoverbg_png",
+      "type": "image",
+      "url": "energy_research_station/outside/energy_research_station_pop_recoverbg.png"
+    },
+    {
+      "name": "energy_research_station_reward_png",
+      "type": "image",
+      "url": "energy_research_station/outside/energy_research_station_reward.png"
+    },
+    {
+      "name": "nengyuanzhan_png",
+      "type": "image",
+      "url": "energy_research_station/outside/nengyuanzhan.png"
+    },
+    {
+      "name": "energy_research_station_sheet",
+      "type": "sheet",
+      "url": "energy_research_station/energy_research_station_sheet.json",
+      "subkeys": "energy_research_station_exchange_png,energy_research_station_img_get_png,energy_research_station_item_bg_png,energy_research_station_pop_buy1_png,energy_research_station_pop_buy10_png,energy_research_station_pop_buybtnbg_png,energy_research_station_pop_buyitembg_png,energy_research_station_pop_close_png,energy_research_station_pop_detailline_png,energy_research_station_pop_empty_tip_png,energy_research_station_pop_energytext_png,energy_research_station_pop_go_png,energy_research_station_pop_go1_png,energy_research_station_pop_ha_png,energy_research_station_pop_haveit_png,energy_research_station_pop_huishou_down_png,energy_research_station_pop_huishou_up_png,energy_research_station_pop_img100w_png,energy_research_station_pop_img10w_png,energy_research_station_pop_jiesuo_png,energy_research_station_pop_lockit_png,energy_research_station_pop_no1_png,energy_research_station_pop_noit_png,energy_research_station_pop_numbg_png,energy_research_station_pop_re1_png,energy_research_station_pop_re2_png,energy_research_station_pop_re3_png,energy_research_station_pop_recover_title_png,energy_research_station_pop_sduoding_png,energy_research_station_pop_selectit_png,energy_research_station_pop_suoding_down_png,energy_research_station_pop_suoding_uo_png,energy_research_station_recover_png,energy_research_station_tips_png,energy_research_station_title_png"
+    }
+  ]
+}

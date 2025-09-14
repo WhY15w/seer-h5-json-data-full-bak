@@ -1,0 +1,2306 @@
+{
+  "frameRate": 30,
+  "isGlobal": 0,
+  "armature": [
+    {
+      "animation": [
+        {
+          "slot": [
+            {
+              "frame": [
+                {
+                  "displayIndex": -1,
+                  "duration": 16,
+                  "curve": [
+                    0,
+                    0,
+                    1,
+                    1
+                  ],
+                  "color": {
+                    "aM": 0
+                  }
+                },
+                {
+                  "duration": 23,
+                  "curve": [
+                    0.125,
+                    0,
+                    0.875,
+                    1
+                  ],
+                  "color": {
+                    "aM": 0
+                  }
+                },
+                {
+                  "duration": 13,
+                  "curve": [
+                    0.25,
+                    0,
+                    0.75,
+                    1
+                  ],
+                  "color": {}
+                },
+                {
+                  "displayIndex": -1,
+                  "duration": 5,
+                  "curve": [
+                    0,
+                    0,
+                    1,
+                    1
+                  ],
+                  "color": {
+                    "aM": 0
+                  }
+                },
+                {
+                  "displayIndex": -1,
+                  "duration": 1,
+                  "curve": [
+                    0,
+                    0,
+                    1,
+                    1
+                  ],
+                  "color": {}
+                },
+                {
+                  "duration": 24,
+                  "curve": [
+                    0.125,
+                    0,
+                    0.875,
+                    1
+                  ],
+                  "color": {
+                    "aM": 0
+                  }
+                },
+                {
+                  "duration": 13,
+                  "curve": [
+                    0.25,
+                    0,
+                    0.75,
+                    1
+                  ],
+                  "color": {}
+                },
+                {
+                  "displayIndex": -1,
+                  "duration": 1,
+                  "curve": [
+                    0,
+                    0,
+                    1,
+                    1
+                  ],
+                  "color": {
+                    "aM": 0
+                  }
+                },
+                {
+                  "duration": 0,
+                  "color": {
+                    "aM": 0
+                  },
+                  "displayIndex": -1,
+                  "curve": [
+                    0,
+                    0,
+                    1,
+                    1
+                  ],
+                  "tweenEasing": null
+                }
+              ],
+              "name": "k"
+            }
+          ],
+          "frame": [],
+          "duration": 96,
+          "bone": [
+            {
+              "frame": [
+                {
+                  "duration": 3,
+                  "transform": {},
+                  "curve": [
+                    0.269,
+                    0,
+                    0.618,
+                    0.42
+                  ]
+                },
+                {
+                  "duration": 7,
+                  "transform": {
+                    "x": -3.71
+                  },
+                  "curve": [
+                    0.345,
+                    0.37,
+                    0.757,
+                    1
+                  ]
+                },
+                {
+                  "duration": 10,
+                  "transform": {
+                    "x": -15.31
+                  },
+                  "tweenEasing": null
+                },
+                {
+                  "duration": 10,
+                  "transform": {
+                    "x": -15.31
+                  },
+                  "curve": [
+                    0.25,
+                    0,
+                    0.75,
+                    1
+                  ]
+                },
+                {
+                  "duration": 15,
+                  "transform": {
+                    "y": -1.45,
+                    "x": 10.99
+                  },
+                  "curve": [
+                    0.25,
+                    0,
+                    0.75,
+                    1
+                  ]
+                },
+                {
+                  "duration": 10,
+                  "transform": {},
+                  "curve": [
+                    0.25,
+                    0,
+                    0.75,
+                    1
+                  ]
+                },
+                {
+                  "duration": 10,
+                  "transform": {
+                    "x": -15.31
+                  },
+                  "tweenEasing": null
+                },
+                {
+                  "duration": 10,
+                  "transform": {
+                    "x": -15.31
+                  },
+                  "curve": [
+                    0.25,
+                    0,
+                    0.75,
+                    1
+                  ]
+                },
+                {
+                  "duration": 15,
+                  "transform": {
+                    "y": -1.45,
+                    "x": 10.99
+                  },
+                  "tweenEasing": null
+                },
+                {
+                  "duration": 6,
+                  "transform": {
+                    "y": -1.45,
+                    "x": 10.99
+                  },
+                  "curve": [
+                    0,
+                    0,
+                    1,
+                    1
+                  ]
+                },
+                {
+                  "duration": 0,
+                  "transform": {},
+                  "tweenEasing": null
+                }
+              ],
+              "name": "bone4"
+            },
+            {
+              "frame": [
+                {
+                  "duration": 3,
+                  "transform": {},
+                  "curve": [
+                    0,
+                    0,
+                    1,
+                    1
+                  ]
+                },
+                {
+                  "duration": 7,
+                  "transform": {
+                    "y": -0.44,
+                    "scX": 0.983,
+                    "scY": 0.96
+                  },
+                  "curve": [
+                    0,
+                    0,
+                    1,
+                    1
+                  ]
+                },
+                {
+                  "duration": 10,
+                  "transform": {
+                    "y": -1.47,
+                    "scX": 0.944,
+                    "scY": 0.868
+                  },
+                  "tweenEasing": null
+                },
+                {
+                  "duration": 10,
+                  "transform": {
+                    "y": -1.47,
+                    "scX": 0.944,
+                    "scY": 0.868
+                  },
+                  "curve": [
+                    0,
+                    0,
+                    1,
+                    1
+                  ]
+                },
+                {
+                  "duration": 15,
+                  "transform": {},
+                  "tweenEasing": null
+                },
+                {
+                  "duration": 10,
+                  "transform": {},
+                  "curve": [
+                    0,
+                    0,
+                    1,
+                    1
+                  ]
+                },
+                {
+                  "duration": 10,
+                  "transform": {
+                    "y": -1.47,
+                    "scX": 0.944,
+                    "scY": 0.868
+                  },
+                  "tweenEasing": null
+                },
+                {
+                  "duration": 10,
+                  "transform": {
+                    "y": -1.47,
+                    "scX": 0.944,
+                    "scY": 0.868
+                  },
+                  "curve": [
+                    0,
+                    0,
+                    1,
+                    1
+                  ]
+                },
+                {
+                  "duration": 15,
+                  "transform": {},
+                  "tweenEasing": null
+                },
+                {
+                  "duration": 6,
+                  "transform": {},
+                  "tweenEasing": null
+                },
+                {
+                  "duration": 0,
+                  "transform": {},
+                  "tweenEasing": null
+                }
+              ],
+              "name": "bone3"
+            },
+            {
+              "frame": [
+                {
+                  "duration": 3,
+                  "transform": {},
+                  "tweenEasing": null
+                },
+                {
+                  "duration": 3,
+                  "transform": {},
+                  "curve": [
+                    0.25,
+                    0,
+                    0.75,
+                    1
+                  ]
+                },
+                {
+                  "duration": 1,
+                  "transform": {
+                    "scX": 0.155
+                  },
+                  "tweenEasing": null
+                },
+                {
+                  "duration": 4,
+                  "transform": {
+                    "scX": 0.155
+                  },
+                  "curve": [
+                    0.25,
+                    0,
+                    0.75,
+                    1
+                  ]
+                },
+                {
+                  "duration": 20,
+                  "transform": {},
+                  "tweenEasing": null
+                },
+                {
+                  "duration": 3,
+                  "transform": {},
+                  "curve": [
+                    0.25,
+                    0,
+                    0.75,
+                    1
+                  ]
+                },
+                {
+                  "duration": 1,
+                  "transform": {
+                    "scX": 0.055
+                  },
+                  "curve": [
+                    0.25,
+                    0,
+                    0.75,
+                    1
+                  ]
+                },
+                {
+                  "duration": 4,
+                  "transform": {
+                    "scX": 0.155
+                  },
+                  "curve": [
+                    0.25,
+                    0,
+                    0.75,
+                    1
+                  ]
+                },
+                {
+                  "duration": 6,
+                  "transform": {},
+                  "tweenEasing": null
+                },
+                {
+                  "duration": 3,
+                  "transform": {},
+                  "tweenEasing": null
+                },
+                {
+                  "duration": 3,
+                  "transform": {},
+                  "curve": [
+                    0.25,
+                    0,
+                    0.75,
+                    1
+                  ]
+                },
+                {
+                  "duration": 1,
+                  "transform": {
+                    "scX": 0.055
+                  },
+                  "curve": [
+                    0.25,
+                    0,
+                    0.75,
+                    1
+                  ]
+                },
+                {
+                  "duration": 4,
+                  "transform": {
+                    "scX": 0.155
+                  },
+                  "curve": [
+                    0.25,
+                    0,
+                    0.75,
+                    1
+                  ]
+                },
+                {
+                  "duration": 20,
+                  "transform": {},
+                  "tweenEasing": null
+                },
+                {
+                  "duration": 3,
+                  "transform": {},
+                  "curve": [
+                    0.25,
+                    0,
+                    0.75,
+                    1
+                  ]
+                },
+                {
+                  "duration": 1,
+                  "transform": {
+                    "scX": 0.065
+                  },
+                  "curve": [
+                    0.25,
+                    0,
+                    0.75,
+                    1
+                  ]
+                },
+                {
+                  "duration": 4,
+                  "transform": {
+                    "scX": 0.053
+                  },
+                  "curve": [
+                    0.25,
+                    0,
+                    0.75,
+                    1
+                  ]
+                },
+                {
+                  "duration": 6,
+                  "transform": {},
+                  "tweenEasing": null
+                },
+                {
+                  "duration": 6,
+                  "transform": {},
+                  "tweenEasing": null
+                },
+                {
+                  "duration": 0,
+                  "transform": {},
+                  "tweenEasing": null
+                }
+              ],
+              "name": "bone5"
+            },
+            {
+              "frame": [
+                {
+                  "duration": 3,
+                  "transform": {},
+                  "tweenEasing": null
+                },
+                {
+                  "duration": 10,
+                  "transform": {},
+                  "curve": [
+                    0.25,
+                    0,
+                    0.75,
+                    1
+                  ]
+                },
+                {
+                  "duration": 10,
+                  "transform": {
+                    "x": -2.93
+                  },
+                  "tweenEasing": null
+                },
+                {
+                  "duration": 10,
+                  "transform": {
+                    "x": -2.93
+                  },
+                  "curve": [
+                    0.25,
+                    0,
+                    0.75,
+                    1
+                  ]
+                },
+                {
+                  "duration": 12,
+                  "transform": {
+                    "x": 2.95
+                  },
+                  "curve": [
+                    0.25,
+                    0,
+                    0.75,
+                    1
+                  ]
+                },
+                {
+                  "duration": 3,
+                  "transform": {},
+                  "tweenEasing": null
+                },
+                {
+                  "duration": 10,
+                  "transform": {},
+                  "curve": [
+                    0.25,
+                    0,
+                    0.75,
+                    1
+                  ]
+                },
+                {
+                  "duration": 10,
+                  "transform": {
+                    "x": -2.93
+                  },
+                  "tweenEasing": null
+                },
+                {
+                  "duration": 10,
+                  "transform": {
+                    "x": -2.93
+                  },
+                  "curve": [
+                    0.25,
+                    0,
+                    0.75,
+                    1
+                  ]
+                },
+                {
+                  "duration": 12,
+                  "transform": {
+                    "x": 2.95
+                  },
+                  "tweenEasing": null
+                },
+                {
+                  "duration": 6,
+                  "transform": {
+                    "x": 2.95
+                  },
+                  "curve": [
+                    0,
+                    0,
+                    1,
+                    1
+                  ]
+                },
+                {
+                  "duration": 0,
+                  "transform": {},
+                  "tweenEasing": null
+                }
+              ],
+              "name": "bone6"
+            },
+            {
+              "frame": [
+                {
+                  "duration": 3,
+                  "transform": {},
+                  "tweenEasing": null
+                },
+                {
+                  "duration": 7,
+                  "transform": {},
+                  "tweenEasing": null
+                },
+                {
+                  "duration": 10,
+                  "transform": {},
+                  "tweenEasing": null
+                },
+                {
+                  "duration": 10,
+                  "transform": {},
+                  "tweenEasing": null
+                },
+                {
+                  "duration": 15,
+                  "transform": {},
+                  "tweenEasing": null
+                },
+                {
+                  "duration": 10,
+                  "transform": {},
+                  "tweenEasing": null
+                },
+                {
+                  "duration": 10,
+                  "transform": {},
+                  "tweenEasing": null
+                },
+                {
+                  "duration": 10,
+                  "transform": {},
+                  "tweenEasing": null
+                },
+                {
+                  "duration": 15,
+                  "transform": {},
+                  "tweenEasing": null
+                },
+                {
+                  "duration": 6,
+                  "transform": {},
+                  "tweenEasing": null
+                },
+                {
+                  "duration": 0,
+                  "transform": {},
+                  "tweenEasing": null
+                }
+              ],
+              "name": "bone7"
+            },
+            {
+              "frame": [
+                {
+                  "duration": 3,
+                  "transform": {},
+                  "tweenEasing": null
+                },
+                {
+                  "duration": 10,
+                  "transform": {},
+                  "curve": [
+                    0,
+                    0,
+                    1,
+                    1
+                  ]
+                },
+                {
+                  "duration": 10,
+                  "transform": {
+                    "y": -3.18,
+                    "x": 0.03
+                  },
+                  "tweenEasing": null
+                },
+                {
+                  "duration": 10,
+                  "transform": {
+                    "y": -3.18,
+                    "x": 0.03
+                  },
+                  "curve": [
+                    0,
+                    0,
+                    1,
+                    1
+                  ]
+                },
+                {
+                  "duration": 12,
+                  "transform": {
+                    "y": 2.54,
+                    "x": -0.03
+                  },
+                  "curve": [
+                    0,
+                    0,
+                    1,
+                    1
+                  ]
+                },
+                {
+                  "duration": 3,
+                  "transform": {},
+                  "tweenEasing": null
+                },
+                {
+                  "duration": 10,
+                  "transform": {},
+                  "curve": [
+                    0,
+                    0,
+                    1,
+                    1
+                  ]
+                },
+                {
+                  "duration": 10,
+                  "transform": {
+                    "y": -3.18,
+                    "x": 0.03
+                  },
+                  "tweenEasing": null
+                },
+                {
+                  "duration": 10,
+                  "transform": {
+                    "y": -3.18,
+                    "x": 0.03
+                  },
+                  "curve": [
+                    0,
+                    0,
+                    1,
+                    1
+                  ]
+                },
+                {
+                  "duration": 12,
+                  "transform": {
+                    "y": 2.54,
+                    "x": -0.03
+                  },
+                  "tweenEasing": null
+                },
+                {
+                  "duration": 6,
+                  "transform": {
+                    "y": 2.54,
+                    "x": -0.03
+                  },
+                  "curve": [
+                    0,
+                    0,
+                    1,
+                    1
+                  ]
+                },
+                {
+                  "duration": 0,
+                  "transform": {},
+                  "tweenEasing": null
+                }
+              ],
+              "name": "bone8"
+            },
+            {
+              "frame": [
+                {
+                  "duration": 3,
+                  "transform": {},
+                  "curve": [
+                    0.279,
+                    0,
+                    0.622,
+                    0.39
+                  ]
+                },
+                {
+                  "duration": 10,
+                  "transform": {
+                    "skX": 1.04,
+                    "y": -0.68,
+                    "skY": 1.04
+                  },
+                  "curve": [
+                    0.329,
+                    0.32,
+                    0.758,
+                    1
+                  ]
+                },
+                {
+                  "duration": 19,
+                  "transform": {
+                    "skX": 6.39,
+                    "y": -4.18,
+                    "skY": 6.39
+                  },
+                  "curve": [
+                    0.25,
+                    0,
+                    0.75,
+                    1
+                  ]
+                },
+                {
+                  "duration": 13,
+                  "transform": {
+                    "skX": -2.88,
+                    "y": 9.63,
+                    "skY": -2.88
+                  },
+                  "curve": [
+                    0.25,
+                    0,
+                    0.75,
+                    1
+                  ]
+                },
+                {
+                  "duration": 13,
+                  "transform": {},
+                  "curve": [
+                    0.25,
+                    0,
+                    0.75,
+                    1
+                  ]
+                },
+                {
+                  "duration": 19,
+                  "transform": {
+                    "skX": 6.39,
+                    "y": -4.18,
+                    "skY": 6.39
+                  },
+                  "curve": [
+                    0.25,
+                    0,
+                    0.75,
+                    1
+                  ]
+                },
+                {
+                  "duration": 13,
+                  "transform": {
+                    "skX": -2.88,
+                    "y": 9.63,
+                    "skY": -2.88
+                  },
+                  "curve": [
+                    0.25,
+                    0,
+                    0.75,
+                    1
+                  ]
+                },
+                {
+                  "duration": 6,
+                  "transform": {
+                    "skX": 7.85,
+                    "skY": 7.85
+                  },
+                  "curve": [
+                    0.25,
+                    0,
+                    0.75,
+                    1
+                  ]
+                },
+                {
+                  "duration": 0,
+                  "transform": {},
+                  "tweenEasing": null
+                }
+              ],
+              "name": "bone9"
+            },
+            {
+              "frame": [
+                {
+                  "duration": 3,
+                  "transform": {},
+                  "curve": [
+                    0.279,
+                    0,
+                    0.622,
+                    0.39
+                  ]
+                },
+                {
+                  "duration": 10,
+                  "transform": {
+                    "skX": -1.27,
+                    "y": -0.68,
+                    "skY": -1.27
+                  },
+                  "curve": [
+                    0.329,
+                    0.32,
+                    0.758,
+                    1
+                  ]
+                },
+                {
+                  "duration": 19,
+                  "transform": {
+                    "skX": -7.79,
+                    "y": -4.18,
+                    "skY": -7.79
+                  },
+                  "curve": [
+                    0.25,
+                    0,
+                    0.75,
+                    1
+                  ]
+                },
+                {
+                  "duration": 13,
+                  "transform": {
+                    "skX": 5.27,
+                    "y": 9.63,
+                    "skY": 5.27
+                  },
+                  "curve": [
+                    0.25,
+                    0,
+                    0.75,
+                    1
+                  ]
+                },
+                {
+                  "duration": 13,
+                  "transform": {},
+                  "curve": [
+                    0.25,
+                    0,
+                    0.75,
+                    1
+                  ]
+                },
+                {
+                  "duration": 19,
+                  "transform": {
+                    "skX": -7.79,
+                    "y": -4.18,
+                    "skY": -7.79
+                  },
+                  "curve": [
+                    0.25,
+                    0,
+                    0.75,
+                    1
+                  ]
+                },
+                {
+                  "duration": 13,
+                  "transform": {
+                    "skX": 5.27,
+                    "y": 9.63,
+                    "skY": 5.27
+                  },
+                  "curve": [
+                    0.25,
+                    0,
+                    0.75,
+                    1
+                  ]
+                },
+                {
+                  "duration": 6,
+                  "transform": {
+                    "skX": -5.7,
+                    "skY": -5.7
+                  },
+                  "curve": [
+                    0.25,
+                    0,
+                    0.75,
+                    1
+                  ]
+                },
+                {
+                  "duration": 0,
+                  "transform": {},
+                  "tweenEasing": null
+                }
+              ],
+              "name": "bone10"
+            },
+            {
+              "frame": [
+                {
+                  "duration": 3,
+                  "transform": {},
+                  "curve": [
+                    0.294,
+                    0,
+                    0.631,
+                    0.37
+                  ]
+                },
+                {
+                  "duration": 17,
+                  "transform": {
+                    "skX": 1.26,
+                    "skY": 1.26,
+                    "x": -0.77
+                  },
+                  "curve": [
+                    0.306,
+                    0.23,
+                    0.756,
+                    1
+                  ]
+                },
+                {
+                  "duration": 25,
+                  "transform": {
+                    "skX": 15.19,
+                    "skY": 15.19,
+                    "x": -9.28
+                  },
+                  "curve": [
+                    0.247,
+                    0,
+                    0.632,
+                    0.53
+                  ]
+                },
+                {
+                  "duration": 20,
+                  "transform": {},
+                  "curve": [
+                    0.25,
+                    0,
+                    0.75,
+                    1
+                  ]
+                },
+                {
+                  "duration": 25,
+                  "transform": {
+                    "skX": 15.19,
+                    "skY": 15.19,
+                    "x": -9.28
+                  },
+                  "curve": [
+                    0.247,
+                    0,
+                    0.632,
+                    0.53
+                  ]
+                },
+                {
+                  "duration": 6,
+                  "transform": {},
+                  "tweenEasing": null
+                },
+                {
+                  "duration": 0,
+                  "transform": {},
+                  "tweenEasing": null
+                }
+              ],
+              "name": "bone11"
+            },
+            {
+              "frame": [
+                {
+                  "duration": 3,
+                  "transform": {},
+                  "curve": [
+                    0.294,
+                    0,
+                    0.631,
+                    0.37
+                  ]
+                },
+                {
+                  "duration": 17,
+                  "transform": {
+                    "skX": -1.28,
+                    "skY": -1.28,
+                    "x": 0.46
+                  },
+                  "curve": [
+                    0.306,
+                    0.23,
+                    0.756,
+                    1
+                  ]
+                },
+                {
+                  "duration": 25,
+                  "transform": {
+                    "skX": -15.38,
+                    "skY": -15.38,
+                    "x": 5.57
+                  },
+                  "curve": [
+                    0.247,
+                    0,
+                    0.632,
+                    0.53
+                  ]
+                },
+                {
+                  "duration": 20,
+                  "transform": {},
+                  "curve": [
+                    0.25,
+                    0,
+                    0.75,
+                    1
+                  ]
+                },
+                {
+                  "duration": 25,
+                  "transform": {
+                    "skX": -15.38,
+                    "skY": -15.38,
+                    "x": 5.57
+                  },
+                  "curve": [
+                    0.247,
+                    0,
+                    0.632,
+                    0.53
+                  ]
+                },
+                {
+                  "duration": 6,
+                  "transform": {},
+                  "tweenEasing": null
+                },
+                {
+                  "duration": 0,
+                  "transform": {},
+                  "tweenEasing": null
+                }
+              ],
+              "name": "bone12"
+            },
+            {
+              "frame": [
+                {
+                  "duration": 3,
+                  "transform": {},
+                  "curve": [
+                    0.294,
+                    0,
+                    0.631,
+                    0.37
+                  ]
+                },
+                {
+                  "duration": 17,
+                  "transform": {
+                    "y": 1.62
+                  },
+                  "curve": [
+                    0.306,
+                    0.23,
+                    0.756,
+                    1
+                  ]
+                },
+                {
+                  "duration": 25,
+                  "transform": {
+                    "y": 19.51
+                  },
+                  "curve": [
+                    0.25,
+                    0,
+                    0.75,
+                    1
+                  ]
+                },
+                {
+                  "duration": 20,
+                  "transform": {},
+                  "curve": [
+                    0.25,
+                    0,
+                    0.75,
+                    1
+                  ]
+                },
+                {
+                  "duration": 25,
+                  "transform": {
+                    "y": 19.51
+                  },
+                  "curve": [
+                    0.25,
+                    0,
+                    0.75,
+                    1
+                  ]
+                },
+                {
+                  "duration": 6,
+                  "transform": {
+                    "y": -5.85
+                  },
+                  "curve": [
+                    0.25,
+                    0,
+                    0.75,
+                    1
+                  ]
+                },
+                {
+                  "duration": 0,
+                  "transform": {},
+                  "tweenEasing": null
+                }
+              ],
+              "name": "bone"
+            },
+            {
+              "frame": [
+                {
+                  "duration": 3,
+                  "transform": {},
+                  "curve": [
+                    0,
+                    0,
+                    1,
+                    1
+                  ]
+                },
+                {
+                  "duration": 7,
+                  "transform": {
+                    "scX": 1.011,
+                    "scY": 1.025
+                  },
+                  "curve": [
+                    0,
+                    0,
+                    1,
+                    1
+                  ]
+                },
+                {
+                  "duration": 10,
+                  "transform": {
+                    "scX": 1.036,
+                    "scY": 1.085
+                  },
+                  "tweenEasing": null
+                },
+                {
+                  "duration": 10,
+                  "transform": {
+                    "scX": 1.036,
+                    "scY": 1.085
+                  },
+                  "curve": [
+                    0,
+                    0,
+                    1,
+                    1
+                  ]
+                },
+                {
+                  "duration": 15,
+                  "transform": {
+                    "y": -1.26,
+                    "scX": 0.945,
+                    "scY": 0.861
+                  },
+                  "curve": [
+                    0,
+                    0,
+                    1,
+                    1
+                  ]
+                },
+                {
+                  "duration": 10,
+                  "transform": {},
+                  "curve": [
+                    0,
+                    0,
+                    1,
+                    1
+                  ]
+                },
+                {
+                  "duration": 10,
+                  "transform": {
+                    "scX": 1.036,
+                    "scY": 1.085
+                  },
+                  "tweenEasing": null
+                },
+                {
+                  "duration": 10,
+                  "transform": {
+                    "scX": 1.036,
+                    "scY": 1.085
+                  },
+                  "curve": [
+                    0,
+                    0,
+                    1,
+                    1
+                  ]
+                },
+                {
+                  "duration": 15,
+                  "transform": {
+                    "y": -1.26,
+                    "scX": 0.945,
+                    "scY": 0.861
+                  },
+                  "tweenEasing": null
+                },
+                {
+                  "duration": 6,
+                  "transform": {
+                    "y": -1.26,
+                    "scX": 0.945,
+                    "scY": 0.861
+                  },
+                  "curve": [
+                    0,
+                    0,
+                    1,
+                    1
+                  ]
+                },
+                {
+                  "duration": 0,
+                  "transform": {},
+                  "tweenEasing": null
+                }
+              ],
+              "name": "bone28"
+            },
+            {
+              "frame": [
+                {
+                  "duration": 3,
+                  "transform": {},
+                  "tweenEasing": null
+                },
+                {
+                  "duration": 3,
+                  "transform": {},
+                  "curve": [
+                    0.25,
+                    0,
+                    0.75,
+                    1
+                  ]
+                },
+                {
+                  "duration": 1,
+                  "transform": {
+                    "scX": 0.155
+                  },
+                  "tweenEasing": null
+                },
+                {
+                  "duration": 4,
+                  "transform": {
+                    "scX": 0.155
+                  },
+                  "curve": [
+                    0.25,
+                    0,
+                    0.75,
+                    1
+                  ]
+                },
+                {
+                  "duration": 20,
+                  "transform": {},
+                  "tweenEasing": null
+                },
+                {
+                  "duration": 3,
+                  "transform": {},
+                  "curve": [
+                    0.25,
+                    0,
+                    0.75,
+                    1
+                  ]
+                },
+                {
+                  "duration": 1,
+                  "transform": {
+                    "scX": 0.031
+                  },
+                  "curve": [
+                    0.25,
+                    0,
+                    0.75,
+                    1
+                  ]
+                },
+                {
+                  "duration": 4,
+                  "transform": {
+                    "scX": 0.155
+                  },
+                  "curve": [
+                    0.25,
+                    0,
+                    0.75,
+                    1
+                  ]
+                },
+                {
+                  "duration": 6,
+                  "transform": {},
+                  "tweenEasing": null
+                },
+                {
+                  "duration": 3,
+                  "transform": {},
+                  "tweenEasing": null
+                },
+                {
+                  "duration": 3,
+                  "transform": {},
+                  "curve": [
+                    0.25,
+                    0,
+                    0.75,
+                    1
+                  ]
+                },
+                {
+                  "duration": 1,
+                  "transform": {
+                    "scX": 0.065
+                  },
+                  "curve": [
+                    0.25,
+                    0,
+                    0.75,
+                    1
+                  ]
+                },
+                {
+                  "duration": 4,
+                  "transform": {
+                    "scX": 0.155
+                  },
+                  "curve": [
+                    0.25,
+                    0,
+                    0.75,
+                    1
+                  ]
+                },
+                {
+                  "duration": 20,
+                  "transform": {},
+                  "tweenEasing": null
+                },
+                {
+                  "duration": 3,
+                  "transform": {},
+                  "curve": [
+                    0.25,
+                    0,
+                    0.75,
+                    1
+                  ]
+                },
+                {
+                  "duration": 1,
+                  "transform": {
+                    "scX": 0.045
+                  },
+                  "curve": [
+                    0.25,
+                    0,
+                    0.75,
+                    1
+                  ]
+                },
+                {
+                  "duration": 4,
+                  "transform": {
+                    "scX": 0.155
+                  },
+                  "curve": [
+                    0.25,
+                    0,
+                    0.75,
+                    1
+                  ]
+                },
+                {
+                  "duration": 6,
+                  "transform": {},
+                  "tweenEasing": null
+                },
+                {
+                  "duration": 6,
+                  "transform": {},
+                  "tweenEasing": null
+                },
+                {
+                  "duration": 0,
+                  "transform": {},
+                  "tweenEasing": null
+                }
+              ],
+              "name": "bone29"
+            },
+            {
+              "frame": [
+                {
+                  "duration": 3,
+                  "transform": {},
+                  "tweenEasing": null
+                },
+                {
+                  "duration": 7,
+                  "transform": {},
+                  "tweenEasing": null
+                },
+                {
+                  "duration": 10,
+                  "transform": {},
+                  "tweenEasing": null
+                },
+                {
+                  "duration": 10,
+                  "transform": {},
+                  "tweenEasing": null
+                },
+                {
+                  "duration": 15,
+                  "transform": {},
+                  "tweenEasing": null
+                },
+                {
+                  "duration": 10,
+                  "transform": {},
+                  "tweenEasing": null
+                },
+                {
+                  "duration": 10,
+                  "transform": {},
+                  "tweenEasing": null
+                },
+                {
+                  "duration": 10,
+                  "transform": {},
+                  "tweenEasing": null
+                },
+                {
+                  "duration": 15,
+                  "transform": {},
+                  "tweenEasing": null
+                },
+                {
+                  "duration": 6,
+                  "transform": {},
+                  "tweenEasing": null
+                },
+                {
+                  "duration": 0,
+                  "transform": {},
+                  "tweenEasing": null
+                }
+              ],
+              "name": "bone24"
+            },
+            {
+              "frame": [
+                {
+                  "duration": 3,
+                  "transform": {},
+                  "tweenEasing": null
+                },
+                {
+                  "duration": 7,
+                  "transform": {},
+                  "tweenEasing": null
+                },
+                {
+                  "duration": 10,
+                  "transform": {},
+                  "tweenEasing": null
+                },
+                {
+                  "duration": 10,
+                  "transform": {},
+                  "tweenEasing": null
+                },
+                {
+                  "duration": 15,
+                  "transform": {},
+                  "tweenEasing": null
+                },
+                {
+                  "duration": 10,
+                  "transform": {},
+                  "tweenEasing": null
+                },
+                {
+                  "duration": 10,
+                  "transform": {},
+                  "tweenEasing": null
+                },
+                {
+                  "duration": 10,
+                  "transform": {},
+                  "tweenEasing": null
+                },
+                {
+                  "duration": 15,
+                  "transform": {},
+                  "tweenEasing": null
+                },
+                {
+                  "duration": 6,
+                  "transform": {},
+                  "tweenEasing": null
+                },
+                {
+                  "duration": 0,
+                  "transform": {},
+                  "tweenEasing": null
+                }
+              ],
+              "name": "bone25"
+            },
+            {
+              "frame": [
+                {
+                  "duration": 3,
+                  "transform": {},
+                  "tweenEasing": null
+                },
+                {
+                  "duration": 7,
+                  "transform": {},
+                  "tweenEasing": null
+                },
+                {
+                  "duration": 10,
+                  "transform": {},
+                  "tweenEasing": null
+                },
+                {
+                  "duration": 10,
+                  "transform": {},
+                  "tweenEasing": null
+                },
+                {
+                  "duration": 15,
+                  "transform": {},
+                  "tweenEasing": null
+                },
+                {
+                  "duration": 10,
+                  "transform": {},
+                  "tweenEasing": null
+                },
+                {
+                  "duration": 10,
+                  "transform": {},
+                  "tweenEasing": null
+                },
+                {
+                  "duration": 10,
+                  "transform": {},
+                  "tweenEasing": null
+                },
+                {
+                  "duration": 15,
+                  "transform": {},
+                  "tweenEasing": null
+                },
+                {
+                  "duration": 6,
+                  "transform": {},
+                  "tweenEasing": null
+                },
+                {
+                  "duration": 0,
+                  "transform": {},
+                  "tweenEasing": null
+                }
+              ],
+              "name": "bone26"
+            },
+            {
+              "frame": [
+                {
+                  "duration": 3,
+                  "transform": {},
+                  "tweenEasing": null
+                },
+                {
+                  "duration": 7,
+                  "transform": {},
+                  "tweenEasing": null
+                },
+                {
+                  "duration": 10,
+                  "transform": {},
+                  "tweenEasing": null
+                },
+                {
+                  "duration": 10,
+                  "transform": {},
+                  "tweenEasing": null
+                },
+                {
+                  "duration": 15,
+                  "transform": {},
+                  "tweenEasing": null
+                },
+                {
+                  "duration": 10,
+                  "transform": {},
+                  "tweenEasing": null
+                },
+                {
+                  "duration": 10,
+                  "transform": {},
+                  "tweenEasing": null
+                },
+                {
+                  "duration": 10,
+                  "transform": {},
+                  "tweenEasing": null
+                },
+                {
+                  "duration": 15,
+                  "transform": {},
+                  "tweenEasing": null
+                },
+                {
+                  "duration": 6,
+                  "transform": {},
+                  "tweenEasing": null
+                },
+                {
+                  "duration": 0,
+                  "transform": {},
+                  "tweenEasing": null
+                }
+              ],
+              "name": "bone27"
+            },
+            {
+              "frame": [
+                {
+                  "duration": 3,
+                  "transform": {
+                    "scX": 0.453,
+                    "scY": 0.453
+                  },
+                  "tweenEasing": null
+                },
+                {
+                  "duration": 13,
+                  "transform": {
+                    "scX": 0.453,
+                    "scY": 0.453
+                  },
+                  "tweenEasing": null
+                },
+                {
+                  "duration": 33,
+                  "transform": {
+                    "scX": 0.453,
+                    "scY": 0.453
+                  },
+                  "curve": [
+                    0.25,
+                    0,
+                    0.75,
+                    1
+                  ]
+                },
+                {
+                  "duration": 8,
+                  "transform": {},
+                  "tweenEasing": null
+                },
+                {
+                  "duration": 1,
+                  "transform": {},
+                  "curve": [
+                    0,
+                    0,
+                    1,
+                    1
+                  ]
+                },
+                {
+                  "duration": 34,
+                  "transform": {
+                    "scX": 0.453,
+                    "scY": 0.453
+                  },
+                  "curve": [
+                    0.25,
+                    0,
+                    0.75,
+                    1
+                  ]
+                },
+                {
+                  "duration": 4,
+                  "transform": {},
+                  "curve": [
+                    0,
+                    0,
+                    1,
+                    1
+                  ]
+                },
+                {
+                  "duration": 0,
+                  "transform": {
+                    "scX": 0.453,
+                    "scY": 0.453
+                  },
+                  "tweenEasing": null
+                }
+              ],
+              "name": "bone23"
+            },
+            {
+              "frame": [
+                {
+                  "duration": 96,
+                  "transform": {},
+                  "tweenEasing": null
+                }
+              ],
+              "name": "root"
+            }
+          ],
+          "ffd": [],
+          "name": "await"
+        }
+      ],
+      "slot": [
+        {
+          "blendMode": "add",
+          "parent": "bone23",
+          "name": "k",
+          "color": {}
+        },
+        {
+          "blendMode": "add",
+          "z": 1,
+          "parent": "bone",
+          "name": "u",
+          "color": {}
+        },
+        {
+          "blendMode": "add",
+          "z": 2,
+          "parent": "bone6",
+          "name": "t",
+          "color": {}
+        },
+        {
+          "blendMode": "add",
+          "z": 3,
+          "parent": "bone5",
+          "name": "s",
+          "color": {}
+        },
+        {
+          "blendMode": "add",
+          "z": 4,
+          "parent": "bone29",
+          "name": "r",
+          "color": {}
+        },
+        {
+          "blendMode": "add",
+          "z": 5,
+          "parent": "bone11",
+          "name": "p",
+          "color": {}
+        },
+        {
+          "blendMode": "add",
+          "z": 6,
+          "parent": "bone12",
+          "name": "p_2",
+          "color": {}
+        },
+        {
+          "blendMode": "add",
+          "z": 7,
+          "parent": "bone9",
+          "name": "n",
+          "color": {}
+        },
+        {
+          "blendMode": "add",
+          "z": 8,
+          "parent": "bone10",
+          "name": "n_2",
+          "color": {}
+        }
+      ],
+      "bone": [
+        {
+          "name": "root",
+          "transform": {}
+        },
+        {
+          "transform": {
+            "y": -2.29,
+            "scX": 0.51,
+            "scY": 0.51,
+            "x": 2.1
+          },
+          "name": "bone23",
+          "parent": "root"
+        },
+        {
+          "transform": {
+            "y": -72.09,
+            "scX": 0.51,
+            "scY": 0.51,
+            "x": 0.42
+          },
+          "name": "bone",
+          "parent": "root"
+        },
+        {
+          "transform": {
+            "y": -13.04,
+            "x": -1.93
+          },
+          "name": "bone4",
+          "parent": "bone"
+        },
+        {
+          "transform": {
+            "y": -102.45,
+            "x": -66.8
+          },
+          "name": "bone24",
+          "parent": "bone"
+        },
+        {
+          "transform": {
+            "y": 60.91,
+            "x": 88.4
+          },
+          "name": "bone27",
+          "parent": "bone"
+        },
+        {
+          "transform": {
+            "skX": -90.58,
+            "y": -13.44,
+            "skY": -90.58,
+            "x": 0.3
+          },
+          "name": "bone6",
+          "parent": "bone"
+        },
+        {
+          "transform": {
+            "y": 58.93,
+            "x": -89.03
+          },
+          "name": "bone26",
+          "parent": "bone"
+        },
+        {
+          "transform": {
+            "y": -103.04,
+            "x": 72.44
+          },
+          "name": "bone25",
+          "parent": "bone"
+        },
+        {
+          "length": 108,
+          "transform": {
+            "skX": 0.53,
+            "y": -2.56,
+            "skY": 0.53,
+            "x": -41.41
+          },
+          "parent": "bone6",
+          "name": "bone7"
+        },
+        {
+          "length": 115,
+          "transform": {
+            "skX": -118.32,
+            "y": -0.92,
+            "skY": -118.32,
+            "x": -0.4
+          },
+          "parent": "bone24",
+          "name": "bone9"
+        },
+        {
+          "transform": {
+            "y": 96.83,
+            "x": 0.03
+          },
+          "name": "bone8",
+          "parent": "bone6"
+        },
+        {
+          "length": 52,
+          "transform": {
+            "skX": -91.08,
+            "y": 25.56,
+            "skY": -91.08,
+            "x": 38.8
+          },
+          "parent": "bone4",
+          "name": "bone28"
+        },
+        {
+          "length": 115,
+          "transform": {
+            "skX": -64.84,
+            "y": 1.32,
+            "skY": -64.84,
+            "x": 0.34
+          },
+          "parent": "bone25",
+          "name": "bone10"
+        },
+        {
+          "length": 43,
+          "transform": {
+            "skX": 143.26,
+            "y": 0.91,
+            "skY": 143.26,
+            "x": -0.61
+          },
+          "parent": "bone26",
+          "name": "bone11"
+        },
+        {
+          "length": 48,
+          "transform": {
+            "skX": -91.24,
+            "y": 24.45,
+            "skY": -91.24,
+            "x": -36.74
+          },
+          "parent": "bone4",
+          "name": "bone3"
+        },
+        {
+          "length": 43,
+          "transform": {
+            "skX": 32.4,
+            "y": 1,
+            "skY": 32.4,
+            "x": 0.32
+          },
+          "parent": "bone27",
+          "name": "bone12"
+        },
+        {
+          "transform": {
+            "skX": 1.18,
+            "y": -0.22,
+            "skY": 1.18,
+            "x": 24.41
+          },
+          "name": "bone5",
+          "parent": "bone28"
+        },
+        {
+          "transform": {
+            "y": 0.46,
+            "x": 23.1
+          },
+          "name": "bone29",
+          "parent": "bone3"
+        }
+      ],
+      "type": "Armature",
+      "frameRate": 30,
+      "skin": [
+        {
+          "name": "",
+          "slot": [
+            {
+              "display": [
+                {
+                  "type": "image",
+                  "name": "n_2",
+                  "transform": {
+                    "skX": 118.32,
+                    "y": 3.94,
+                    "skY": 118.32,
+                    "x": 55.3
+                  }
+                }
+              ],
+              "blendMode": "add",
+              "name": "n_2"
+            },
+            {
+              "display": [
+                {
+                  "type": "image",
+                  "name": "n",
+                  "transform": {
+                    "skX": 118.32,
+                    "y": 3.94,
+                    "skY": 118.32,
+                    "x": 55.3
+                  }
+                }
+              ],
+              "blendMode": "add",
+              "name": "n"
+            },
+            {
+              "display": [
+                {
+                  "type": "image",
+                  "name": "r",
+                  "transform": {
+                    "skX": 91.24,
+                    "y": -0.73,
+                    "skY": 91.24,
+                    "x": 1.26
+                  }
+                }
+              ],
+              "blendMode": "add",
+              "name": "r"
+            },
+            {
+              "display": [
+                {
+                  "type": "image",
+                  "name": "p",
+                  "transform": {
+                    "skX": -143.26,
+                    "y": 1.27,
+                    "skY": -143.26,
+                    "x": 18.81
+                  }
+                }
+              ],
+              "blendMode": "add",
+              "name": "p"
+            },
+            {
+              "display": [
+                {
+                  "type": "image",
+                  "name": "t",
+                  "transform": {
+                    "skX": 90.58,
+                    "y": -2.17,
+                    "skY": 90.58,
+                    "x": 10
+                  }
+                }
+              ],
+              "blendMode": "add",
+              "name": "t"
+            },
+            {
+              "display": [
+                {
+                  "type": "image",
+                  "name": "u",
+                  "transform": {
+                    "y": -4.92,
+                    "x": -0.97
+                  }
+                }
+              ],
+              "blendMode": "add",
+              "name": "u"
+            },
+            {
+              "display": [
+                {
+                  "type": "image",
+                  "name": "p_2",
+                  "transform": {
+                    "skX": -143.26,
+                    "y": 1.27,
+                    "skY": -143.26,
+                    "x": 18.81
+                  }
+                }
+              ],
+              "blendMode": "add",
+              "name": "p_2"
+            },
+            {
+              "display": [
+                {
+                  "type": "image",
+                  "name": "k",
+                  "transform": {
+                    "y": 2.59,
+                    "x": -2.38
+                  }
+                }
+              ],
+              "blendMode": "add",
+              "name": "k"
+            },
+            {
+              "display": [
+                {
+                  "type": "image",
+                  "name": "s",
+                  "transform": {
+                    "skX": 89.9,
+                    "y": -0.16,
+                    "skY": 89.9,
+                    "x": 1.04
+                  }
+                }
+              ],
+              "blendMode": "add",
+              "name": "s"
+            }
+          ]
+        }
+      ],
+      "ik": [],
+      "aabb": {
+        "width": 232,
+        "y": -226.58938439748312,
+        "height": 267.9901843974831,
+        "x": -116.0747
+      },
+      "name": "Anima_loading",
+      "defaultActions": [
+        {
+          "gotoAndPlay": "await"
+        }
+      ]
+    }
+  ],
+  "name": "Anima_loading",
+  "version": "5.0"
+}

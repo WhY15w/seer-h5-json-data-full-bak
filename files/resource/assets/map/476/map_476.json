@@ -1,0 +1,65 @@
+{
+  "groups": [
+    {
+      "keys": "road_476,exml_476,map_476_bg_mc_jpg,map_476_stone2MC_png,map_476_stone1MC_png,map_476_bucketMC_png,map_476_ropeMC_png,map_476_stoneMC_png,map_476_shovelMC_png,map_476_mc1_png,map_476_top_mc_png",
+      "name": "map_476"
+    }
+  ],
+  "resources": [
+    {
+      "type": "json",
+      "url": "476.json",
+      "name": "road_476"
+    },
+    {
+      "type": "text",
+      "url": "Map476Skin.exml",
+      "name": "exml_476"
+    },
+    {
+      "type": "image",
+      "url": "map_476_bg_mc.jpg",
+      "name": "map_476_bg_mc_jpg"
+    },
+    {
+      "type": "image",
+      "url": "map_476_stone2MC.png",
+      "name": "map_476_stone2MC_png"
+    },
+    {
+      "type": "image",
+      "url": "map_476_stone1MC.png",
+      "name": "map_476_stone1MC_png"
+    },
+    {
+      "type": "image",
+      "url": "map_476_bucketMC.png",
+      "name": "map_476_bucketMC_png"
+    },
+    {
+      "type": "image",
+      "url": "map_476_ropeMC.png",
+      "name": "map_476_ropeMC_png"
+    },
+    {
+      "type": "image",
+      "url": "map_476_stoneMC.png",
+      "name": "map_476_stoneMC_png"
+    },
+    {
+      "type": "image",
+      "url": "map_476_shovelMC.png",
+      "name": "map_476_shovelMC_png"
+    },
+    {
+      "type": "image",
+      "url": "map_476_mc1.png",
+      "name": "map_476_mc1_png"
+    },
+    {
+      "type": "image",
+      "url": "map_476_top_mc.png",
+      "name": "map_476_top_mc_png"
+    }
+  ]
+}

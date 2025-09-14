@@ -1,0 +1,21 @@
+{
+  "groups": [
+    {
+      "name": "taole_festival_login_panel",
+      "keys": "taole_festival_login_panel_sheet,taole_festival_login_panel_bbg_png"
+    }
+  ],
+  "resources": [
+    {
+      "name": "taole_festival_login_panel_bbg_png",
+      "type": "image",
+      "url": "taole_festival_login_panel/outside/taole_festival_login_panel_bbg.png"
+    },
+    {
+      "name": "taole_festival_login_panel_sheet",
+      "type": "sheet",
+      "url": "taole_festival_login_panel/taole_festival_login_panel_sheet.json",
+      "subkeys": "taole_festival_login_panel_10_png,taole_festival_login_panel_11_png,taole_festival_login_panel_12_png,taole_festival_login_panel_14_png,taole_festival_login_panel_15_png,taole_festival_login_panel_16_png,taole_festival_login_panel_2_png,taole_festival_login_panel_3_png,taole_festival_login_panel_4_png,taole_festival_login_panel_5_png,taole_festival_login_panel_6_png,taole_festival_login_panel_8_png,taole_festival_login_panel_9_png,taole_festival_login_panel_hasGot_png,taole_festival_login_panel_hasGot2_png,taole_festival_login_panel_r1_png,taole_festival_login_panel_r13_png,taole_festival_login_panel_r7_png,taole_festival_login_panel_zu_4_png"
+    }
+  ]
+}

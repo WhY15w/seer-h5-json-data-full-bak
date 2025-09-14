@@ -1,0 +1,16 @@
+{
+  "groups": [
+    {
+      "name": "ice_contract_aksia",
+      "keys": "ice_contract_aksia_sheet"
+    }
+  ],
+  "resources": [
+    {
+      "name": "ice_contract_aksia_sheet",
+      "type": "sheet",
+      "url": "ice_contract_aksia/ice_contract_aksia_sheet.json",
+      "subkeys": "bing_xue_zhi_shang_btnyijian_1_png,bing_xue_zhi_shang_pet_1_png,bing_xue_zhi_shang_pet_10_png,bing_xue_zhi_shang_pet_2_png,bing_xue_zhi_shang_pet_3_png,bing_xue_zhi_shang_pet_4_png,bing_xue_zhi_shang_pet_5_png,bing_xue_zhi_shang_pet_6_png,bing_xue_zhi_shang_pet_7_png,bing_xue_zhi_shang_pet_8_png,bing_xue_zhi_shang_pet_9_png,bing_xue_zhi_shang_title_png,hun_dun_zhi_xi_btnadd_png,hun_dun_zhi_xi_btnfight_png,hun_dun_zhi_xi_btnyijian_png,hun_dun_zhi_xi_numbg_png,hun_dun_zhi_xi_pets_png,hun_dun_zhi_xi_up_bg_png,main_panel_beat_png,main_panel_btn1_png,main_panel_btn2_png,main_panel_btn3_png,main_panel_btn4_png,main_panel_btnClose_png,main_panel_btngetPet_png,main_panel_btnInfo_png,main_panel_btnup_png,main_panel_btnyijian_png,main_panel_img_bg_png,main_panel_pet_ice_png,main_panel_up_bg_png,tian_xin_qi_yue_btntianxin_png,tian_xin_qi_yue_img_di_png,tian_xin_qi_yue_pet_1_png,tian_xin_qi_yue_pet_2_png,tian_xin_qi_yue_title_png,upgrade_ability_panel_btndifficultySe_1_png,upgrade_ability_panel_btndifficultySe_2_png,upgrade_ability_panel_btndifficultySe_3__png,upgrade_ability_panel_btndifficulty_1_png,upgrade_ability_panel_btndifficulty_2_png,upgrade_ability_panel_btndifficulty_3_png,upgrade_ability_panel_btndui_png,upgrade_ability_panel_img_1_png,upgrade_ability_panel_img_2_png,upgrade_ability_panel_img_3_png,upgrade_ability_panel_img_4_png,upgrade_ability_panel_itembg_png,upgrade_ability_panel_title_png,yun_xing_zhi_feng_btncure_png,yun_xing_zhi_feng_btnpet_png,yun_xing_zhi_feng_img_1_png,yun_xing_zhi_feng_pet_png,yun_xing_zhi_feng_txt_bg_png"
+    }
+  ]
+}

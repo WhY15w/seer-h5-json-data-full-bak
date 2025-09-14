@@ -1,0 +1,40 @@
+{
+  "groups": [
+    {
+      "keys": "road_57,exml_57,map_57_bg_mc_jpg,map_57_cao1_png,map_57_cao2_png,map_57_depth_mc_png",
+      "name": "map_57"
+    }
+  ],
+  "resources": [
+    {
+      "type": "json",
+      "url": "57.json",
+      "name": "road_57"
+    },
+    {
+      "type": "text",
+      "url": "Map57Skin.exml",
+      "name": "exml_57"
+    },
+    {
+      "type": "image",
+      "url": "map_57_bg_mc.jpg",
+      "name": "map_57_bg_mc_jpg"
+    },
+    {
+      "type": "image",
+      "url": "map_57_cao1.png",
+      "name": "map_57_cao1_png"
+    },
+    {
+      "type": "image",
+      "url": "map_57_cao2.png",
+      "name": "map_57_cao2_png"
+    },
+    {
+      "type": "image",
+      "url": "map_57_depth_mc.png",
+      "name": "map_57_depth_mc_png"
+    }
+  ]
+}

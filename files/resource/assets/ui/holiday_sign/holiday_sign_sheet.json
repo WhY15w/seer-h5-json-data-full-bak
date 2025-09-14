@@ -1,0 +1,85 @@
+{
+  "file": "holiday_sign_sheet.png",
+  "frames": {
+    "wintersign_btnclose_png": {
+      "x": 476,
+      "y": 73,
+      "w": 33,
+      "h": 32,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 33,
+      "sourceH": 32
+    },
+    "wintersign_btninfo_png": {
+      "x": 420,
+      "y": 73,
+      "w": 54,
+      "h": 55,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 54,
+      "sourceH": 55
+    },
+    "wintersign_hasgot1_png": {
+      "x": 437,
+      "y": 1,
+      "w": 70,
+      "h": 70,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 70,
+      "sourceH": 70
+    },
+    "wintersign_hasgot2_png": {
+      "x": 341,
+      "y": 1,
+      "w": 94,
+      "h": 70,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 94,
+      "sourceH": 70
+    },
+    "wintersign_imgcanget_png": {
+      "x": 241,
+      "y": 1,
+      "w": 98,
+      "h": 91,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 98,
+      "sourceH": 91
+    },
+    "wintersign_imgcanget2_png": {
+      "x": 1,
+      "y": 1,
+      "w": 123,
+      "h": 99,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 123,
+      "sourceH": 99
+    },
+    "wintersign_imgitembg1_png": {
+      "x": 341,
+      "y": 73,
+      "w": 77,
+      "h": 82,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 77,
+      "sourceH": 82
+    },
+    "wintersign_imgitembg2_png": {
+      "x": 126,
+      "y": 1,
+      "w": 113,
+      "h": 87,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 113,
+      "sourceH": 87
+    }
+  }
+}

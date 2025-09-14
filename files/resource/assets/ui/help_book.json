@@ -1,0 +1,26 @@
+{
+  "groups": [
+    {
+      "name": "help_book",
+      "keys": "help_book_sheet,help_book_panel_imgbg_png,help_book_pop_imgpopbg_png"
+    }
+  ],
+  "resources": [
+    {
+      "name": "help_book_panel_imgbg_png",
+      "type": "image",
+      "url": "help_book/outside/help_book_panel_imgbg.png"
+    },
+    {
+      "name": "help_book_pop_imgpopbg_png",
+      "type": "image",
+      "url": "help_book/outside/help_book_pop_imgpopbg.png"
+    },
+    {
+      "name": "help_book_sheet",
+      "type": "sheet",
+      "url": "help_book/help_book_sheet.json",
+      "subkeys": "help_book_item_children_imgarrowdown_png,help_book_item_children_imgarrowup_png,help_book_item_children_imgDown_png,help_book_item_children_zoom_png,help_book_item_imgdown_png,help_book_item_imgup_png,help_book_panel_btnlastpage_png,help_book_panel_btnnextpage_png,help_book_panel_btnsearch_png,help_book_panel_imgdot1_png,help_book_panel_imgdot2_png,help_book_panel_imgsearchbg_png,help_book_panel_imgtitle_png,help_book_panel_imgtitlebg_png"
+    }
+  ]
+}

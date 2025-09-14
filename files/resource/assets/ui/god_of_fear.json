@@ -1,0 +1,21 @@
+{
+  "groups": [
+    {
+      "name": "god_of_fear",
+      "keys": "god_of_fear_sheet,godoffear_main_panel_bg_jpg"
+    }
+  ],
+  "resources": [
+    {
+      "name": "godoffear_main_panel_bg_jpg",
+      "type": "image",
+      "url": "god_of_fear/godoffear_main_panel_bg.jpg"
+    },
+    {
+      "name": "god_of_fear_sheet",
+      "type": "sheet",
+      "url": "god_of_fear/god_of_fear_sheet.json",
+      "subkeys": "godoffear_main_panel_add_y_png,godoffear_main_panel_bg_png,godoffear_main_panel_btn1_png,godoffear_main_panel_btn2_png,godoffear_main_panel_btn3_png,godoffear_main_panel_btnback_png,godoffear_main_panel_btnCure_png,godoffear_main_panel_btnfight_png,godoffear_main_panel_btnhelp_png,godoffear_main_panel_btninfo_png,godoffear_main_panel_btnorange0_png,godoffear_main_panel_btnPet_png,godoffear_main_panel_btnrerandom1_png,godoffear_main_panel_btnrerandom2_png,godoffear_main_panel_bz_item_bg1_png,godoffear_main_panel_bz_item_bg2_png,godoffear_main_panel_imgewai_png,godoffear_main_panel_imgget_png,godoffear_main_panel_img_1_png,godoffear_main_panel_img_10_png,godoffear_main_panel_img_11_png,godoffear_main_panel_img_12_png,godoffear_main_panel_img_2_png,godoffear_main_panel_img_5_png,godoffear_main_panel_img_6_png,godoffear_main_panel_img_7_png,godoffear_main_panel_img_8_png,godoffear_main_panel_img_9_png,godoffear_main_panel_jx_4_kb_2_png,god_of_fear_btnbuypet_png"
+    }
+  ]
+}

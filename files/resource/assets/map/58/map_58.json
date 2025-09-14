@@ -1,0 +1,50 @@
+{
+  "groups": [
+    {
+      "keys": "road_58,exml_58,map_58_bg_mc_jpg,map_58_animator_mc_png,map_58_flowera_png,map_58_grass_png,map_58_flowerb_png,map_58_control_mc_png",
+      "name": "map_58"
+    }
+  ],
+  "resources": [
+    {
+      "type": "json",
+      "url": "58.json",
+      "name": "road_58"
+    },
+    {
+      "type": "text",
+      "url": "Map58Skin.exml",
+      "name": "exml_58"
+    },
+    {
+      "type": "image",
+      "url": "map_58_bg_mc.jpg",
+      "name": "map_58_bg_mc_jpg"
+    },
+    {
+      "type": "image",
+      "url": "map_58_animator_mc.png",
+      "name": "map_58_animator_mc_png"
+    },
+    {
+      "type": "image",
+      "url": "map_58_flowera.png",
+      "name": "map_58_flowera_png"
+    },
+    {
+      "type": "image",
+      "url": "map_58_grass.png",
+      "name": "map_58_grass_png"
+    },
+    {
+      "type": "image",
+      "url": "map_58_flowerb.png",
+      "name": "map_58_flowerb_png"
+    },
+    {
+      "type": "image",
+      "url": "map_58_control_mc.png",
+      "name": "map_58_control_mc_png"
+    }
+  ]
+}

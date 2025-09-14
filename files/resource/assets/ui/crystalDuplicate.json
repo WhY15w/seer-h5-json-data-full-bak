@@ -1,0 +1,68 @@
+{
+  "groups": [
+    {
+      "name": "crystalDuplicate",
+      "keys": "cardGame_sheet,crystalDuplicate_sheet,card_main_panel_gameBg_jpg,crystalduplicatePetinfoPop_pet_bg_png,crystalDuplicate_mainView_BG_jpg,crystalDuplicate_mainView_imge_pet_png_png,crystalDuplicate_selected_BG_jpg,result_pop_bg_png,result_pop_bg_light_png,result_pop_tiao_png,crystalDuplicate_petInfo_pop_s9_texture_003_png"
+    }
+  ],
+  "resources": [
+    {
+      "name": "card_main_panel_gameBg_jpg",
+      "type": "image",
+      "url": "crystalDuplicate/outside/card_main_panel_gameBg.jpg"
+    },
+    {
+      "name": "crystalduplicatePetinfoPop_pet_bg_png",
+      "type": "image",
+      "url": "crystalDuplicate/outside/crystalduplicatePetinfoPop_pet_bg.png"
+    },
+    {
+      "name": "crystalDuplicate_mainView_BG_jpg",
+      "type": "image",
+      "url": "crystalDuplicate/outside/crystalDuplicate_mainView_BG.jpg"
+    },
+    {
+      "name": "crystalDuplicate_mainView_imge_pet_png_png",
+      "type": "image",
+      "url": "crystalDuplicate/outside/crystalDuplicate_mainView_imge_pet_png.png"
+    },
+    {
+      "name": "crystalDuplicate_selected_BG_jpg",
+      "type": "image",
+      "url": "crystalDuplicate/outside/crystalDuplicate_selected_BG.jpg"
+    },
+    {
+      "name": "result_pop_bg_png",
+      "type": "image",
+      "url": "crystalDuplicate/outside/result_pop_bg.png"
+    },
+    {
+      "name": "result_pop_bg_light_png",
+      "type": "image",
+      "url": "crystalDuplicate/outside/result_pop_bg_light.png"
+    },
+    {
+      "name": "result_pop_tiao_png",
+      "type": "image",
+      "url": "crystalDuplicate/outside/result_pop_tiao.png"
+    },
+    {
+      "name": "crystalDuplicate_petInfo_pop_s9_texture_003_png",
+      "scale9grid": "24,26,10,8",
+      "type": "image",
+      "url": "crystalDuplicate/s9/crystalDuplicate_petInfo_pop_s9_texture_003.png"
+    },
+    {
+      "name": "cardGame_sheet",
+      "type": "sheet",
+      "url": "crystalDuplicate/cardGame_sheet.json",
+      "subkeys": "card_main_panel_2_png,card_main_panel_53_png,card_main_panel_flagDoing_png,card_main_panel_flagReday_png,card_main_panel_flag_selected_png,card_main_panel_iconKuang_png,card_main_panel_icon_prop_1_png,card_main_panel_icon_prop_2_png,card_main_panel_icon_prop_3_png,card_main_panel_myHeadIcon_png,card_main_panel_propBg_png,card_main_panel_propItem_bg_png,card_main_panel_skill0_png,card_main_panel_skill1_png,card_main_panel_skill2_png,card_main_panel_skill3_png,card_main_panel_texture_123masd_png,card_main_panel_texture_1mazsled_png,card_main_panel_timerBg_png,card_reday_panel_bgLine_png,card_reday_panel_btnbg_png,card_reday_panel_btnHelp_png,card_reday_panel_btnStart_png,card_reday_panel_closeBg_png,card_reday_panel_img_ppsj_png,card_reday_panel_line_png,card_reday_panel_texture_123ka_png,crystalDuplicate_card_0_png,crystalDuplicate_card_0001_png,crystalDuplicate_card_0002_png,crystalDuplicate_card_0003_png,crystalDuplicate_card_0004_png,crystalDuplicate_card_0005_png,crystalDuplicate_card_0006_png,crystalDuplicate_card_0007_png,crystalDuplicate_card_0008_png,crystalDuplicate_card_0009_png,crystalDuplicate_card_0010_png,crystalDuplicate_card_0011_png,crystalDuplicate_card_0012_png,crystalDuplicate_card_0013_png,crystalDuplicate_card_0014_png,crystalDuplicate_card_0015_png,crystalDuplicate_card_0016_png,crystalDuplicate_card_0017_png,crystalDuplicate_card_0018_png,crystalDuplicate_card_0019_png,crystalDuplicate_card_0020_png,crystalDuplicate_card_0021_png,crystalDuplicate_card_0022_png,crystalDuplicate_card_0023_png,crystalDuplicate_card_0024_png,crystalDuplicate_card_0025_png,crystalDuplicate_card_0026_png,crystalDuplicate_card_0027_png,crystalDuplicate_card_0028_png,crystalDuplicate_card_0029_png,crystalDuplicate_card_0030_png,crystalDuplicate_card_0031_png,crystalDuplicate_card_0032_png,crystalDuplicate_card_0033_png"
+    },
+    {
+      "name": "crystalDuplicate_sheet",
+      "type": "sheet",
+      "url": "crystalDuplicate/crystalDuplicate_sheet.json",
+      "subkeys": "crystalduplicatePetinfoPop_hplimt_png,crystalduplicatePetinfoPop_img_runelock_2_png,crystalduplicatePetinfoPop_lvl_png,crystalduplicatePetinfoPop_pet_info_item_texture_001_png,crystalduplicatePetinfoPop_pet_info_item_texture_line_png,crystalduplicatePetinfoPop_studay_png,crystalduplicatePetinfoPop_texing_png,crystalduplicatePetinfoPop_texture_001_png,crystalduplicatePetinfoPop_texture_1_png,crystalduplicatePetinfoPop_texture_line_1_png,crystalduplicatePetinfoPop_texture_star_png,crystalduplicatePetinfoPop_tianfu_png,crystalduplicatePetinfoPop_titile_attribute_png,crystalduplicatePetinfoPop_titile_info_png,crystalduplicatePetinfoPop_title_maskequip_png,crystalduplicatePetinfoPop_xingge_png,crystalduplicateSetPets_btnSelectdAttr_png,crystalduplicateSetPets_btnSerach_png,crystalduplicateSetPets_head_selected_png,crystalduplicateSetPets_icon_attr_png,crystalduplicateSetPets_id_sort_down_down_png,crystalduplicateSetPets_id_sort_down_up_png,crystalduplicateSetPets_id_sort_up_down_png,crystalduplicateSetPets_id_sort_up_up_png,crystalduplicateSetPets_img_down_png,crystalduplicateSetPets_lvl_sort_down_down_png,crystalduplicateSetPets_lvl_sort_down_up_png,crystalduplicateSetPets_lvl_sort_up_down_png,crystalduplicateSetPets_lvl_sort_up_up_png,crystalduplicateSetPets_tm_sort_down_down_png,crystalduplicateSetPets_tm_sort_down_up_png,crystalduplicateSetPets_tm_sort_up_down_png,crystalduplicateSetPets_tm_sort_up_up_png,crystalDuplicate_Lv0_view_imge_bar_png,crystalDuplicate_Lv0_view_imge_bar_bg_png,crystalDuplicate_Lv0_view_imge_box_CannotOpen_png,crystalDuplicate_Lv0_view_imge_box_CannotOpen_bg_png,crystalDuplicate_Lv0_View_imge_box_CanOpen_png,crystalDuplicate_Lv0_View_imge_box_CanOpen_bg_png,crystalDuplicate_Lv0_View_imge_box_open_png,crystalDuplicate_Lv0_View_imge_box_open_bg_png,crystalDuplicate_Lv0_view_imge_buy_btn_png,crystalDuplicate_Lv0_view_imge_item_bg_png,crystalDuplicate_Lv0_view_imge_pet_head_0_png,crystalDuplicate_Lv0_view_img_addNum_bg_png,crystalDuplicate_Lv0_view_img_close_btn_bg_1_png,crystalDuplicate_Lv0_view_img_close_btn_bg_2_png,crystalDuplicate_Lv0_view_img_continuityFail_bg_png,crystalDuplicate_Lv0_view_img_down_bg_png,crystalDuplicate_Lv0_view_img_failPiece_0_png,crystalDuplicate_Lv0_view_img_failPiece_1_png,crystalDuplicate_Lv0_view_img_fangshou_btn_png,crystalDuplicate_Lv0_view_img_fight_bg_png,crystalDuplicate_Lv0_view_img_lock_png,crystalDuplicate_Lv0_view_img_lock_team_bg_png,crystalDuplicate_Lv0_view_img_playIcon_png,crystalDuplicate_Lv0_view_img_reSet_btn_png,crystalDuplicate_Lv0_view_img_reward_item_icon_png,crystalDuplicate_Lv0_view_img_team_bg_png,crystalDuplicate_Lv0_view_img_unlock_png,crystalDuplicate_Lv0_view_img_win_flag_png,crystalDuplicate_Lv0_view_tx_addWinReward_bg_png,crystalDuplicate_mainView_imge_card_btn_png,crystalDuplicate_mainView_imge_close_btn_png,crystalDuplicate_mainView_imge_desTxBg_png,crystalDuplicate_mainView_imge_exchange_btn_png,crystalDuplicate_mainView_imge_fight_btn_png,crystalDuplicate_mainView_imge_title_png_png,crystalDuplicate_mainView_img_itemNumBg_png,crystalDuplicate_mainView_img_itemNumBg2_png,crystalDuplicate_mainView_itemIcon_0_png,crystalDuplicate_mainView_time_tx_bg_png,crystalDuplicate_petInfo_pop_attr_star_png,crystalDuplicate_petInfo_pop_bg_png,crystalDuplicate_petInfo_pop_imgBtn_sz_png,crystalDuplicate_petInfo_pop_imgBtn_xz_png,crystalDuplicate_petInfo_pop_info_title_png,crystalDuplicate_petInfo_pop_line2_png,crystalDuplicate_petInfo_pop_skill_bg_png,crystalDuplicate_petInfo_pop_texture_1_png,crystalDuplicate_petInfo_pop_texture_line_png,crystalDuplicate_selected_cz_bg_png,crystalDuplicate_selected_dm_bg_png,crystalDuplicate_selected_fenge_line_1_png,crystalDuplicate_selected_fenge_line_2_png,crystalDuplicate_selected_head_head_imge_head_bg_png,crystalDuplicate_selected_head_imge_head_Icon_png,crystalDuplicate_selected_head_imge_null_pet_bg_png,crystalDuplicate_selected_head_pet_head_bg_null_png,crystalDuplicate_selected_imge_title_png,crystalDuplicate_selected_left_bg_png,crystalDuplicate_selected_page_down_png,crystalDuplicate_selected_page_up_png,crystalDuplicate_selected_pet_none_png,crystalDuplicate_selected_right_bg_png,crystalDuplicate_selected_teamNameTx_0_bg_png,crystalDuplicate_selected_team_icon_png,crystalDuplicate_selected_team_next_bg_png,crystalDuplicate_selected_texture_allow_png,crystalDuplicate_selected_top_title_bg_png,crystalDuplicate_selected_txt_requireTx_bg_png,crystalduplicate_sort_bg_png,crystalduplicate_texture_001_png,Duplicate_selected_pet_none_png,result_pop_title_failed_png,result_pop_title_successful_png,selected_team_pop_down_bg_png,selected_team_pop_iconbg_png,selected_team_pop_title_png,selected_team_pop_up_bg_png"
+    }
+  ]
+}

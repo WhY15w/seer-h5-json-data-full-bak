@@ -1,0 +1,25 @@
+{
+  "resources": [
+    {
+      "type": "json",
+      "url": "344.json",
+      "name": "road_344"
+    },
+    {
+      "type": "text",
+      "url": "Map344Skin.exml",
+      "name": "exml_344"
+    },
+    {
+      "type": "image",
+      "url": "map_344_bg_mc.jpg",
+      "name": "map_344_bg_mc_jpg"
+    }
+  ],
+  "groups": [
+    {
+      "keys": "road_344,exml_344,map_344_bg_mc_jpg",
+      "name": "map_344"
+    }
+  ]
+}

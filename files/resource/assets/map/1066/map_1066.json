@@ -1,0 +1,40 @@
+{
+  "resources": [
+    {
+      "type": "json",
+      "url": "1066.json",
+      "name": "road_1066"
+    },
+    {
+      "type": "image",
+      "url": "map_1066_bg_mc.png",
+      "name": "map_1066_bg_mc_png"
+    },
+    {
+      "type": "image",
+      "url": "map_1066_control_mc.png",
+      "name": "map_1066_control_mc_png"
+    },
+    {
+      "type": "image",
+      "url": "map_1066_depth_mc.png",
+      "name": "map_1066_depth_mc_png"
+    },
+    {
+      "name": "exml_1066",
+      "type": "text",
+      "url": "Map1066Skin.exml"
+    },
+    {
+      "name": "exml_1066",
+      "type": "text",
+      "url": "Map1066Skin.exml"
+    }
+  ],
+  "groups": [
+    {
+      "keys": "road_1066,map_1066_bg_mc_png,map_1066_control_mc_png,map_1066_depth_mc_png,exml_1066,exml_1066",
+      "name": "map_1066"
+    }
+  ]
+}

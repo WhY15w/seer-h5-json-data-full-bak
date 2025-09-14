@@ -1,0 +1,30 @@
+{
+  "groups": [
+    {
+      "keys": "road_47,exml_47,map_47_bg_mc_jpg,map_47_jiguang_png",
+      "name": "map_47"
+    }
+  ],
+  "resources": [
+    {
+      "type": "json",
+      "url": "47.json",
+      "name": "road_47"
+    },
+    {
+      "type": "text",
+      "url": "Map47Skin.exml",
+      "name": "exml_47"
+    },
+    {
+      "type": "image",
+      "url": "map_47_bg_mc.jpg",
+      "name": "map_47_bg_mc_jpg"
+    },
+    {
+      "type": "image",
+      "url": "map_47_jiguang.png",
+      "name": "map_47_jiguang_png"
+    }
+  ]
+}

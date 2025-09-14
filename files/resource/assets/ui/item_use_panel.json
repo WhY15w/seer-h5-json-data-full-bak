@@ -1,0 +1,16 @@
+{
+  "groups": [
+    {
+      "name": "item_use_panel",
+      "keys": "item_use_panel_sheet"
+    }
+  ],
+  "resources": [
+    {
+      "name": "item_use_panel_sheet",
+      "type": "sheet",
+      "url": "item_use_panel/item_use_panel_sheet.json",
+      "subkeys": "item300757_btnclose_png,item300757_btnok_png,item300757_imgbg_png,item300757_imgfirst_png,item300757_imgtitle_png,item300757_imgtitlebg_png,item300757_itemrender_imgbg1_png,item300757_itemrender_imgbg2_png,item300757_itemRender_img_select_png,item_300757_bg_line_png,item_300757_itemRender_img_select_png,item_300757_itemRender_img_selectBg_png,item_300757_itemRender_img_unselect_png,item_use_panel_300792_btnadd1_png,item_use_panel_300792_btnmax1_png,item_use_panel_300792_btnreduce1_png,item_use_panel_300792_btnyellow_png,item_use_panel_300792_imgbg_png,item_use_panel_300792_imgbg1_png,item_use_panel_300792_imgTitle_png,item_use_panel_300792_imgtitlebg_png,item_use_panel_bg_3_png,item_use_panel_imgBtn_close_png,item_use_panel_imgBtn_sure_png,item_use_panel_texture_title_png,item_use_panel_title_300792_png,item_use_pane_title_300757_png"
+    }
+  ]
+}

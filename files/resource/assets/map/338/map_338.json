@@ -1,0 +1,55 @@
+{
+  "groups": [
+    {
+      "keys": "road_338,exml_338,map_338_bg_mc_jpg,map_338_zhong_png,map_338_qian_png,map_338_qianqian_png,map_338_yuan_png,map_338_hou_png,map_338_control_mc_png",
+      "name": "map_338"
+    }
+  ],
+  "resources": [
+    {
+      "type": "json",
+      "url": "338.json",
+      "name": "road_338"
+    },
+    {
+      "type": "text",
+      "url": "Map338Skin.exml",
+      "name": "exml_338"
+    },
+    {
+      "type": "image",
+      "url": "map_338_bg_mc.jpg",
+      "name": "map_338_bg_mc_jpg"
+    },
+    {
+      "type": "image",
+      "url": "map_338_zhong.png",
+      "name": "map_338_zhong_png"
+    },
+    {
+      "type": "image",
+      "url": "map_338_qian.png",
+      "name": "map_338_qian_png"
+    },
+    {
+      "type": "image",
+      "url": "map_338_qianqian.png",
+      "name": "map_338_qianqian_png"
+    },
+    {
+      "type": "image",
+      "url": "map_338_yuan.png",
+      "name": "map_338_yuan_png"
+    },
+    {
+      "type": "image",
+      "url": "map_338_hou.png",
+      "name": "map_338_hou_png"
+    },
+    {
+      "type": "image",
+      "url": "map_338_control_mc.png",
+      "name": "map_338_control_mc_png"
+    }
+  ]
+}

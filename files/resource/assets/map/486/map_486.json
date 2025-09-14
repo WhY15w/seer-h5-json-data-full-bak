@@ -1,0 +1,45 @@
+{
+  "resources": [
+    {
+      "type": "json",
+      "url": "486.json",
+      "name": "road_486"
+    },
+    {
+      "type": "text",
+      "url": "Map486Skin.exml",
+      "name": "exml_486"
+    },
+    {
+      "type": "image",
+      "url": "map_486_bg_mc.jpg",
+      "name": "map_486_bg_mc_jpg"
+    },
+    {
+      "type": "image",
+      "url": "map_486_animator_mc.png",
+      "name": "map_486_animator_mc_png"
+    },
+    {
+      "type": "image",
+      "url": "map_486_zhuzi.png",
+      "name": "map_486_zhuzi_png"
+    },
+    {
+      "type": "image",
+      "url": "map_486_zhuzi1.png",
+      "name": "map_486_zhuzi1_png"
+    },
+    {
+      "type": "image",
+      "url": "map_486_zacao.png",
+      "name": "map_486_zacao_png"
+    }
+  ],
+  "groups": [
+    {
+      "keys": "road_486,exml_486,map_486_bg_mc_jpg,map_486_animator_mc_png,map_486_zhuzi_png,map_486_zhuzi1_png,map_486_zacao_png",
+      "name": "map_486"
+    }
+  ]
+}

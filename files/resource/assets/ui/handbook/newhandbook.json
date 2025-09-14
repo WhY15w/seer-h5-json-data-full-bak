@@ -1,0 +1,206 @@
+{
+  "data": [
+    [
+      {
+        "firstData": {
+          "id": 1,
+          "name": "最新",
+          "icon": "book_child_lab_new",
+          "panelCls": "NewMonsterPanel",
+          "log": "20210702版本系统功能,图鉴系统,在精灵图鉴面板内点击【最新】页签的人次"
+        },
+        "childData": []
+      },
+      {
+        "firstData": {
+          "id": 2,
+          "name": "热门",
+          "icon": "book_child_lab_hot",
+          "panelCls": "HotMonsterPanel",
+          "log": "20210702版本系统功能,图鉴系统,在精灵图鉴面板内点击【热门】页签的人次"
+        },
+        "childData": []
+      },
+      {
+        "firstData": {
+          "id": 3,
+          "name": "所有",
+          "icon": "book_child_lab_all",
+          "panelCls": "AllMonsterPanel",
+          "log": "20210702版本系统功能,图鉴系统,在精灵图鉴面板内点击【所有】页签的人次",
+          "isLast": true
+        },
+        "childData": []
+      }
+    ],
+    [
+      {
+        "firstData": {
+          "id": 6,
+          "icon": "book_child_lab_new",
+          "name": "最新",
+          "panelCls": "SkinPanel",
+          "log": "20210702版本系统功能,图鉴系统,在皮肤图鉴面板内点击【最新】页签的人次"
+        },
+        "childData": []
+      },
+      {
+        "firstData": {
+          "id": 1,
+          "icon": "book_child_lab_all",
+          "name": "所有",
+          "panelCls": "SkinPanel",
+          "log": "20210702版本系统功能,图鉴系统,在皮肤图鉴面板内点击【所有】页签的人次"
+        },
+        "childData": []
+      },
+      {
+        "firstData": {
+          "id": 4,
+          "icon": "book_child_lab_chuanshuo",
+          "name": "传说",
+          "panelCls": "SkinPanel",
+          "log": "20210702版本系统功能,图鉴系统,在皮肤图鉴面板内点击【传说】页签的人次"
+        },
+        "childData": []
+      },
+      {
+        "firstData": {
+          "id": 3,
+          "icon": "book_child_lab_shishi",
+          "name": "史诗",
+          "panelCls": "SkinPanel",
+          "log": "20210702版本系统功能,图鉴系统,在皮肤图鉴面板内点击【史诗】页签的人次"
+        },
+        "childData": []
+      },
+      {
+        "firstData": {
+          "id": 2,
+          "icon": "book_child_lab_hero",
+          "name": "经典",
+          "panelCls": "SkinPanel",
+          "log": "20210702版本系统功能,图鉴系统,在皮肤图鉴面板内点击【经典】页签的人次"
+        },
+        "childData": []
+      },
+      {
+        "firstData": {
+          "id": 5,
+          "icon": "book_child_lab_xianding",
+          "name": "限定",
+          "panelCls": "SkinPanel",
+          "log": "20210702版本系统功能,图鉴系统,在皮肤图鉴面板内点击【限定】页签的人次",
+          "isLast": true
+        },
+        "childData": []
+      }
+    ],
+    [
+      {
+        "firstData": {
+          "id": 1,
+          "name": "套装",
+          "icon": "book_child_lab_suit",
+          "panelCls": "AvatarSuitPanel",
+          "log": "20210702版本系统功能,图鉴系统,在装扮图鉴面板内点击【套装】页签的人次"
+        },
+        "childData": []
+      },
+      {
+        "firstData": {
+          "id": 2,
+          "name": "部件",
+          "icon": "book_child_lab_part",
+          "panelCls": "AvatarPartPanel",
+          "log": "20210702版本系统功能,图鉴系统,在装扮图鉴面板内点击【部件】页签的人次"
+        },
+        "childData": []
+      },
+      {
+        "firstData": {
+          "id": 3,
+          "name": "座驾",
+          "icon": "book_child_lab_seat",
+          "panelCls": "AvatarMountsPanel",
+          "log": "20210702版本系统功能,图鉴系统,在装扮图鉴面板内点击【座驾】页签的人次",
+          "isLast": true
+        },
+        "childData": []
+      }
+    ],
+    [
+      {
+        "firstData": {
+          "id": 1,
+          "icon": "book_child_lab_all",
+          "name": "所有",
+          "panelCls": "MarkPanel",
+          "log": "20210702版本系统功能,图鉴系统,在刻印图鉴面板内点击【所有】页签的人次"
+        },
+        "childData": []
+      },
+      {
+        "firstData": {
+          "id": 2,
+          "icon": "book_child_lab_attack",
+          "name": "攻击",
+          "panelCls": "MarkPanel",
+          "log": "20210702版本系统功能,图鉴系统,在刻印图鉴面板内点击【攻击】页签的人次"
+        },
+        "childData": []
+      },
+      {
+        "firstData": {
+          "id": 3,
+          "icon": "book_child_lab_sattack",
+          "name": "特攻",
+          "panelCls": "MarkPanel",
+          "log": "20210702版本系统功能,图鉴系统,在刻印图鉴面板内点击【特攻】页签的人次"
+        },
+        "childData": []
+      },
+      {
+        "firstData": {
+          "id": 4,
+          "name": "速度",
+          "icon": "book_child_lab_speed",
+          "panelCls": "MarkPanel",
+          "log": "20210702版本系统功能,图鉴系统,在刻印图鉴面板内点击【速度】页签的人次"
+        },
+        "childData": []
+      },
+      {
+        "firstData": {
+          "id": 5,
+          "name": "体力",
+          "icon": "book_child_lab_hp",
+          "panelCls": "MarkPanel",
+          "log": "20210702版本系统功能,图鉴系统,在刻印图鉴面板内点击【体力】页签的人次"
+        },
+        "childData": []
+      },
+      {
+        "firstData": {
+          "id": 6,
+          "name": "双防",
+          "panelCls": "MarkPanel",
+          "icon": "book_child_lab_sdefend",
+          "log": "20210702版本系统功能,图鉴系统,在刻印图鉴面板内点击【双防】页签的人次"
+        },
+        "childData": []
+      },
+      {
+        "firstData": {
+          "id": 7,
+          "name": "本周",
+          "panelCls": "MarkPanel",
+          "icon": "book_child_lab_thisweek",
+          "log": "20210702版本系统功能,图鉴系统,在刻印图鉴面板内点击【本周】页签的人次",
+          "isLast": true
+        },
+        "childData": []
+      }
+    ]
+  ]
+}

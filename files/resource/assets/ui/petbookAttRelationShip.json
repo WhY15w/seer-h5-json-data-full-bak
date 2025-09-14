@@ -1,0 +1,16 @@
+{
+  "groups": [
+    {
+      "name": "petbookAttRelationShip",
+      "keys": "petbookAttRelationShip_sheet"
+    }
+  ],
+  "resources": [
+    {
+      "name": "petbookAttRelationShip_sheet",
+      "type": "sheet",
+      "url": "petbookAttRelationShip/petbookAttRelationShip_sheet.json",
+      "subkeys": "PetbookAttItemRender_box1_png,PetbookAttItemRender_box2_png,PetbookAttItemRender_box3_png,PetbookAttRelationShipatk_down_png,PetbookAttRelationShipatk_up_png,PetbookAttRelationShipdefence_down_png,PetbookAttRelationShipdefence_up_png,PetbookAttRelationShipdouble_down_png,PetbookAttRelationShipdouble_up_png,PetbookAttRelationShipsingle_down_png,PetbookAttRelationShipsingle_up_png,PetbookAttRelationShip_allBtn_png,PetbookAttRelationShip_b3_png,PetbookAttRelationShip_b4_png,PetbookAttRelationShip_bg_png,PetbookAttRelationShip_bg1_png,PetbookAttRelationShip_bg2_png,PetbookAttRelationShip_bg3_png,PetbookAttRelationShip_closeBtn_png,PetbookAttRelationShip_img_column_png,PetbookAttRelationShip_img_line_png,PetbookAttRelationShip_Line_png,PetbookAttRelationShip_ShuXingKeZhiZongLanBiao_png,PetbookAttSelectItemRender_bg_png,PetbookAttSelectItemRender_flag_png,PetbookAttSelectItemRender_txt_None_png"
+    }
+  ]
+}

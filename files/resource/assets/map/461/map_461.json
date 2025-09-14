@@ -1,0 +1,35 @@
+{
+  "groups": [
+    {
+      "keys": "road_461,exml_461,map_461_bg_mc_jpg,map_461_shengdanshu_png,map_461_top_mc_png",
+      "name": "map_461"
+    }
+  ],
+  "resources": [
+    {
+      "type": "json",
+      "url": "461.json",
+      "name": "road_461"
+    },
+    {
+      "type": "text",
+      "url": "Map461Skin.exml",
+      "name": "exml_461"
+    },
+    {
+      "type": "image",
+      "url": "map_461_bg_mc.jpg",
+      "name": "map_461_bg_mc_jpg"
+    },
+    {
+      "type": "image",
+      "url": "map_461_shengdanshu.png",
+      "name": "map_461_shengdanshu_png"
+    },
+    {
+      "type": "image",
+      "url": "map_461_top_mc.png",
+      "name": "map_461_top_mc_png"
+    }
+  ]
+}

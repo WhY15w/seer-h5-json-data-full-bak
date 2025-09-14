@@ -1,0 +1,51 @@
+{
+  "groups": [
+    {
+      "name": "yongzhezhengcheng",
+      "keys": "yongzhezhengcheng_sheet,yongzhezhengcheng_atlas,yongzhezhengcheng_json,yongzhezhengcheng_png,yongzhezhengcheng_bg_png,yongzhezhengcheng_guide_blackbg_png,yongzhezhengcheng_imageguide_bg_png,y_award_dialog_bg_png"
+    }
+  ],
+  "resources": [
+    {
+      "name": "yongzhezhengcheng_atlas",
+      "type": "text",
+      "url": "yongzhezhengcheng/outside/yongzhezhengcheng.atlas"
+    },
+    {
+      "name": "yongzhezhengcheng_json",
+      "type": "json",
+      "url": "yongzhezhengcheng/outside/yongzhezhengcheng.json"
+    },
+    {
+      "name": "yongzhezhengcheng_png",
+      "type": "image",
+      "url": "yongzhezhengcheng/outside/yongzhezhengcheng.png"
+    },
+    {
+      "name": "yongzhezhengcheng_bg_png",
+      "type": "image",
+      "url": "yongzhezhengcheng/outside/yongzhezhengcheng_bg.png"
+    },
+    {
+      "name": "yongzhezhengcheng_guide_blackbg_png",
+      "type": "image",
+      "url": "yongzhezhengcheng/outside/yongzhezhengcheng_guide_blackbg.png"
+    },
+    {
+      "name": "yongzhezhengcheng_imageguide_bg_png",
+      "type": "image",
+      "url": "yongzhezhengcheng/outside/yongzhezhengcheng_imageguide_bg.png"
+    },
+    {
+      "name": "y_award_dialog_bg_png",
+      "type": "image",
+      "url": "yongzhezhengcheng/outside/y_award_dialog_bg.png"
+    },
+    {
+      "name": "yongzhezhengcheng_sheet",
+      "type": "sheet",
+      "url": "yongzhezhengcheng/yongzhezhengcheng_sheet.json",
+      "subkeys": "2_juxing_917_png,2_jx_917_kb_png,y_childview_0_png,y_childview_1_png,y_childview_2_png,y_childview_3_png,y_childview_4_png,y_childview_5_png,y_childview_6_png,y_childview_bg1_png,y_childview_bg2_png,y_childview_bg3_png,y_childview_btnsao_png,y_childview_diff1_png,y_childview_diff2_png,y_childview_diff3_png,y_childview_img3_-_zndxz_png,y_childview_img_blue_reddot_png,y_childview_img_up_-_zndxz_png,y_childview_itembg1_png,y_childview_itembg2_png,y_childview_itembg3_png,y_childview_juxing_5321_png,y_childview_juxing_5322_png,y_childview_juxing_5323_png,y_childview_juxing_920_png,y_childview_tc_12_kb_png,y_childview_tc_12_kb_2_png,y_childview_tc_4_fb_2_png,y_childview_tuceng_12_png,y_childview_txtlabel_png,y_childview_txtlabel__png,y_childview_wxz_png,y_childview_xuanzhong_png,yongzhezhengcheng_arrowleft_png,yongzhezhengcheng_arrowright_png,yongzhezhengcheng_border_png,yongzhezhengcheng_btnclose_png,yongzhezhengcheng_btnget_png,yongzhezhengcheng_hr_png,yongzhezhengcheng_journey_down_png,yongzhezhengcheng_journey_itemlock_png,yongzhezhengcheng_journey_up_png,yongzhezhengcheng_sweep_childviewbg1_png,yongzhezhengcheng_sweep_childviewbg2_png,yongzhezhengcheng_sweep_childviewbg3_png,yongzhezhengcheng_sweep_down_png,yongzhezhengcheng_sweep_icon1_png,yongzhezhengcheng_sweep_icon2_png,yongzhezhengcheng_sweep_saodang_png,yongzhezhengcheng_sweep_sweeptopbg_png,yongzhezhengcheng_sweep_up_png,yongzhezhengcheng_textguide_bg_png,yongzhezhengcheng_titlebg_png,y_award_dialog_1_png,y_award_dialog_huizhang_png,y_award_dialog_txtlvla_png,y_award_dialog_txtlvlb_png,y_award_dialog_yongzhedengji_png,y_content_btnGet_png,y_content_btnGo_png,y_content_btnleft__png,y_content_btnright_png,y_content_ccjl_png,y_content_contentbg_png,y_content_dwjn_png,y_content_yzdj_png,y_content_zstx_png,y_imgswitchoff_png,y_imgswitchon_png,y_mainpanel_btnleft_png,y_mainpanel_btnright_png,y_mainpanel_change_png,y_mainpanel_close_png,y_mainpanel_di_fuben2_png,y_mainpanel_done_png,y_mainpanel_icon1_png,y_mainpanel_icon2_png,y_mainpanel_img_di2_png,y_mainpanel_juxing_1_png,y_mainpanel_juxing_25_png,y_mainpanel_juxing_3_png,y_mainpanel_juxing_912_png,y_mainpanel_juxing_913_png,y_mainpanel_jx_1_fb_png,y_mainpanel_jx_912_kb_png,y_mainpanel_jx_912_kb_4_png,y_mainpanel_la_png,y_mainpanel_lanklq_png,y_mainpanel_leftbg_png,y_mainpanel_l_kb_115_png,y_mainpanel_selectbg_png,y_mainpanel_taskitembg_png,y_mainpanel_taskitembg2_png,y_mainpanel_title_png,y_mainpanel_top_png,y_mainpanel_tuceng_31_png,y_mainpanel_txtlevel_1_png,y_mainpanel_zu_2_png,y_page2_btnGo_png,y_page2_btnSao_png,y_page2_btnsaoAll_png,y_page2_juxing_915_png,y_page2_juxing_916_png,y_page2_zu_30_png"
+    }
+  ]
+}

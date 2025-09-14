@@ -1,0 +1,705 @@
+{
+  "file": "pveElvenKingTrial_sheet.png",
+  "frames": {
+    "pveElvenKingTrialAlert_titleTx_png": {
+      "x": 1927,
+      "y": 737,
+      "w": 117,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 117,
+      "sourceH": 40
+    },
+    "pveElvenKingTrialExchange_btnbg_png": {
+      "x": 963,
+      "y": 867,
+      "w": 144,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 144,
+      "sourceH": 40
+    },
+    "pveElvenKingTrialExchange_changeBg_png": {
+      "x": 1451,
+      "y": 861,
+      "w": 250,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 250,
+      "sourceH": 40
+    },
+    "pveElvenKingTrialExchange_choosebg_png": {
+      "x": 1703,
+      "y": 861,
+      "w": 273,
+      "h": 24,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 273,
+      "sourceH": 24
+    },
+    "pveElvenKingTrialExchange_coin_png": {
+      "x": 2025,
+      "y": 497,
+      "w": 20,
+      "h": 22,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 20,
+      "sourceH": 22
+    },
+    "pveElvenKingTrialExchange_Efficon_png": {
+      "x": 2021,
+      "y": 657,
+      "w": 26,
+      "h": 26,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 26,
+      "sourceH": 26
+    },
+    "pveElvenKingTrialExchange_exchange_btn_png": {
+      "x": 301,
+      "y": 881,
+      "w": 90,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 90,
+      "sourceH": 40
+    },
+    "pveElvenKingTrialExchange_flg_png_png": {
+      "x": 1109,
+      "y": 867,
+      "w": 97,
+      "h": 52,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 97,
+      "sourceH": 52
+    },
+    "pveElvenKingTrialExchange_icon_png": {
+      "x": 1982,
+      "y": 1,
+      "w": 63,
+      "h": 64,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 63,
+      "sourceH": 64
+    },
+    "pveElvenKingTrialExchange_iconbg_png": {
+      "x": 1479,
+      "y": 781,
+      "w": 280,
+      "h": 47,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 280,
+      "sourceH": 47
+    },
+    "pveElvenKingTrialExchange_icon_0_png": {
+      "x": 1982,
+      "y": 190,
+      "w": 57,
+      "h": 57,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 57,
+      "sourceH": 57
+    },
+    "pveElvenKingTrialExchange_icon_bg_png": {
+      "x": 851,
+      "y": 690,
+      "w": 92,
+      "h": 92,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 92,
+      "sourceH": 92
+    },
+    "pveElvenKingTrialExchange_icon_coin1_png": {
+      "x": 2021,
+      "y": 629,
+      "w": 26,
+      "h": 26,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 26,
+      "sourceH": 26
+    },
+    "pveElvenKingTrialExchange_img_reddot_png": {
+      "x": 945,
+      "y": 725,
+      "w": 27,
+      "h": 27,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 27,
+      "sourceH": 27
+    },
+    "pveElvenKingTrialExchange_item_bg_png": {
+      "x": 1781,
+      "y": 643,
+      "w": 144,
+      "h": 144,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 144,
+      "sourceH": 144
+    },
+    "pveElvenKingTrialExchange_item_bg1_png": {
+      "x": 145,
+      "y": 881,
+      "w": 154,
+      "h": 24,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 154,
+      "sourceH": 24
+    },
+    "pveElvenKingTrialExchange_keyin_down_png": {
+      "x": 632,
+      "y": 833,
+      "w": 141,
+      "h": 66,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 146,
+      "sourceH": 66
+    },
+    "pveElvenKingTrialExchange_keyin_up_png": {
+      "x": 1982,
+      "y": 582,
+      "w": 50,
+      "h": 24,
+      "offX": 40,
+      "offY": 21,
+      "sourceW": 146,
+      "sourceH": 66
+    },
+    "pveElvenKingTrialExchange_name_bg_png": {
+      "x": 1,
+      "y": 881,
+      "w": 142,
+      "h": 28,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 142,
+      "sourceH": 28
+    },
+    "pveElvenKingTrialExchange_pet_down_png": {
+      "x": 1867,
+      "y": 789,
+      "w": 141,
+      "h": 66,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 146,
+      "sourceH": 66
+    },
+    "pveElvenKingTrialExchange_pet_up_png": {
+      "x": 1781,
+      "y": 557,
+      "w": 76,
+      "h": 25,
+      "offX": 27,
+      "offY": 20,
+      "sourceW": 146,
+      "sourceH": 66
+    },
+    "pveElvenKingTrialExchange_selected_png": {
+      "x": 1927,
+      "y": 643,
+      "w": 92,
+      "h": 92,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 92,
+      "sourceH": 92
+    },
+    "pveElvenKingTrialExchange_title_png": {
+      "x": 851,
+      "y": 784,
+      "w": 126,
+      "h": 35,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 126,
+      "sourceH": 35
+    },
+    "pveElvenKingTrialExchange_title_bg_png": {
+      "x": 1,
+      "y": 848,
+      "w": 629,
+      "h": 31,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 629,
+      "sourceH": 31
+    },
+    "pveElvenKingTrialExchange_yinying_png": {
+      "x": 1,
+      "y": 1,
+      "w": 977,
+      "h": 581,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 977,
+      "sourceH": 581
+    },
+    "pveElvenKingTrialFight_box0_png": {
+      "x": 1982,
+      "y": 418,
+      "w": 47,
+      "h": 50,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 47,
+      "sourceH": 50
+    },
+    "pveElvenKingTrialFight_Count_bg_png": {
+      "x": 393,
+      "y": 881,
+      "w": 142,
+      "h": 24,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 142,
+      "sourceH": 24
+    },
+    "pveElvenKingTrialFight_icon1_png": {
+      "x": 1982,
+      "y": 553,
+      "w": 47,
+      "h": 27,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 47,
+      "sourceH": 27
+    },
+    "pveElvenKingTrialFight_icon3_png": {
+      "x": 945,
+      "y": 690,
+      "w": 31,
+      "h": 33,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 31,
+      "sourceH": 33
+    },
+    "pveElvenKingTrialFight_icon4_png": {
+      "x": 1527,
+      "y": 741,
+      "w": 34,
+      "h": 31,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 34,
+      "sourceH": 31
+    },
+    "pveElvenKingTrialFight_imgBtn_cure_png": {
+      "x": 1982,
+      "y": 249,
+      "w": 57,
+      "h": 57,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 57,
+      "sourceH": 57
+    },
+    "pveElvenKingTrialFight_imgBtn_pet_png": {
+      "x": 1982,
+      "y": 131,
+      "w": 57,
+      "h": 57,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 57,
+      "sourceH": 57
+    },
+    "pveElvenKingTrialFight_imgswitchoff_png": {
+      "x": 1820,
+      "y": 789,
+      "w": 44,
+      "h": 20,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 44,
+      "sourceH": 20
+    },
+    "pveElvenKingTrialFight_imgswitchon_png": {
+      "x": 1479,
+      "y": 741,
+      "w": 46,
+      "h": 24,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 46,
+      "sourceH": 24
+    },
+    "pveElvenKingTrialFight_img_btn_lv0_png": {
+      "x": 1152,
+      "y": 531,
+      "w": 215,
+      "h": 208,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 215,
+      "sourceH": 208
+    },
+    "pveElvenKingTrialFight_img_btn_lv1_png": {
+      "x": 1369,
+      "y": 531,
+      "w": 215,
+      "h": 208,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 215,
+      "sourceH": 208
+    },
+    "pveElvenKingTrialFight_img_btn_lv2_png": {
+      "x": 1,
+      "y": 584,
+      "w": 215,
+      "h": 208,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 215,
+      "sourceH": 208
+    },
+    "pveElvenKingTrialFight_item1Bg_png": {
+      "x": 1982,
+      "y": 67,
+      "w": 62,
+      "h": 62,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 62,
+      "sourceH": 62
+    },
+    "pveElvenKingTrialFight_left_bg_png": {
+      "x": 1860,
+      "y": 1,
+      "w": 120,
+      "h": 640,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 120,
+      "sourceH": 640
+    },
+    "pveElvenKingTrialFight_png34_png": {
+      "x": 1208,
+      "y": 903,
+      "w": 304,
+      "h": 2,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 304,
+      "sourceH": 2
+    },
+    "pveElvenKingTrialFight_reardBg_png": {
+      "x": 1152,
+      "y": 741,
+      "w": 325,
+      "h": 80,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 325,
+      "sourceH": 80
+    },
+    "pveelvenkingtrial_btninfo_png": {
+      "x": 1982,
+      "y": 308,
+      "w": 54,
+      "h": 55,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 54,
+      "sourceH": 55
+    },
+    "pveElvenKingTrial_day_bg_png": {
+      "x": 1781,
+      "y": 584,
+      "w": 74,
+      "h": 20,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 74,
+      "sourceH": 20
+    },
+    "pveElvenKingTrial_done_png_png": {
+      "x": 1761,
+      "y": 789,
+      "w": 57,
+      "h": 18,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 57,
+      "sourceH": 18
+    },
+    "pveelvenkingtrial_hellbg_png": {
+      "x": 542,
+      "y": 709,
+      "w": 307,
+      "h": 122,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 307,
+      "sourceH": 122
+    },
+    "pveElvenKingTrial_helpBtn_png_png": {
+      "x": 2023,
+      "y": 470,
+      "w": 22,
+      "h": 25,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 22,
+      "sourceH": 25
+    },
+    "pveElvenKingTrial_icon_png": {
+      "x": 1982,
+      "y": 470,
+      "w": 39,
+      "h": 44,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 39,
+      "sourceH": 44
+    },
+    "pveelvenkingtrial_icon0_1_png": {
+      "x": 2025,
+      "y": 521,
+      "w": 21,
+      "h": 20,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 21,
+      "sourceH": 20
+    },
+    "pveelvenkingtrial_icon1_png": {
+      "x": 1781,
+      "y": 606,
+      "w": 45,
+      "h": 26,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 45,
+      "sourceH": 26
+    },
+    "pveelvenkingtrial_icon2_png": {
+      "x": 1828,
+      "y": 606,
+      "w": 27,
+      "h": 29,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 27,
+      "sourceH": 29
+    },
+    "pveElvenKingTrial_icon_png_png": {
+      "x": 1982,
+      "y": 516,
+      "w": 41,
+      "h": 35,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 41,
+      "sourceH": 35
+    },
+    "pveelvenkingtrial_imgbtn_cure_png": {
+      "x": 1781,
+      "y": 417,
+      "w": 74,
+      "h": 68,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 74,
+      "sourceH": 68
+    },
+    "pveelvenkingtrial_imgbtn_pet_png": {
+      "x": 1781,
+      "y": 487,
+      "w": 73,
+      "h": 68,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 73,
+      "sourceH": 68
+    },
+    "pveelvenkingtrial_img_btn_lv0_png": {
+      "x": 542,
+      "y": 584,
+      "w": 307,
+      "h": 123,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 307,
+      "sourceH": 123
+    },
+    "pveelvenkingtrial_img_btn_lv1_png": {
+      "x": 218,
+      "y": 724,
+      "w": 307,
+      "h": 122,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 307,
+      "sourceH": 122
+    },
+    "pveElvenKingTrial_img_btn_rewardBtn_png": {
+      "x": 1,
+      "y": 794,
+      "w": 144,
+      "h": 47,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 144,
+      "sourceH": 47
+    },
+    "pveElvenKingTrial_img_clear_png": {
+      "x": 851,
+      "y": 584,
+      "w": 112,
+      "h": 104,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 112,
+      "sourceH": 104
+    },
+    "pveelvenkingtrial_img_count_bg_png": {
+      "x": 1703,
+      "y": 887,
+      "w": 133,
+      "h": 21,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 133,
+      "sourceH": 21
+    },
+    "pveelvenkingtrial_img_flag_png": {
+      "x": 1982,
+      "y": 608,
+      "w": 60,
+      "h": 19,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 60,
+      "sourceH": 19
+    },
+    "pveelvenkingtrial_img_selected_png": {
+      "x": 218,
+      "y": 584,
+      "w": 322,
+      "h": 138,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 322,
+      "sourceH": 138
+    },
+    "pveElvenKingTrial_img_up_png": {
+      "x": 1982,
+      "y": 365,
+      "w": 51,
+      "h": 51,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 51,
+      "sourceH": 51
+    },
+    "pveelvenkingtrial_item_tip_bg_png": {
+      "x": 1451,
+      "y": 830,
+      "w": 414,
+      "h": 29,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 414,
+      "sourceH": 29
+    },
+    "pveelvenkingtrial_pet_png": {
+      "x": 980,
+      "y": 531,
+      "w": 170,
+      "h": 279,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 170,
+      "sourceH": 279
+    },
+    "pveElvenKingTrial_pet_0_png": {
+      "x": 980,
+      "y": 1,
+      "w": 307,
+      "h": 528,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 307,
+      "sourceH": 528
+    },
+    "pveElvenKingTrial_pet_btn_png": {
+      "x": 1598,
+      "y": 1,
+      "w": 260,
+      "h": 414,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 260,
+      "sourceH": 414
+    },
+    "pveElvenKingTrial_pet_lock_png": {
+      "x": 1289,
+      "y": 1,
+      "w": 307,
+      "h": 528,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 307,
+      "sourceH": 528
+    },
+    "pveelvenkingtrial_pet_view_pet_bg_png": {
+      "x": 1598,
+      "y": 417,
+      "w": 181,
+      "h": 362,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 181,
+      "sourceH": 362
+    },
+    "pveElvenKingTrial_texture_1_png": {
+      "x": 851,
+      "y": 823,
+      "w": 598,
+      "h": 42,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 598,
+      "sourceH": 42
+    },
+    "pveElvenKingTrial_texture_7_png": {
+      "x": 775,
+      "y": 867,
+      "w": 186,
+      "h": 36,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 186,
+      "sourceH": 36
+    },
+    "pveelvenkingtrial_title_png": {
+      "x": 1208,
+      "y": 867,
+      "w": 152,
+      "h": 32,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 152,
+      "sourceH": 32
+    }
+  }
+}

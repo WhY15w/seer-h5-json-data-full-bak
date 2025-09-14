@@ -1,0 +1,30 @@
+{
+  "groups": [
+    {
+      "keys": "road_43,exml_43,map_43_bg_mc_jpg,map_43_control_mc_png",
+      "name": "map_43"
+    }
+  ],
+  "resources": [
+    {
+      "type": "json",
+      "url": "43.json",
+      "name": "road_43"
+    },
+    {
+      "type": "text",
+      "url": "Map43Skin.exml",
+      "name": "exml_43"
+    },
+    {
+      "type": "image",
+      "url": "map_43_bg_mc.jpg",
+      "name": "map_43_bg_mc_jpg"
+    },
+    {
+      "type": "image",
+      "url": "map_43_control_mc.png",
+      "name": "map_43_control_mc_png"
+    }
+  ]
+}

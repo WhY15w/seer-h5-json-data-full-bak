@@ -1,0 +1,21 @@
+{
+  "groups": [
+    {
+      "name": "preferential_best",
+      "keys": "preferential_best_sheet,best_panel_bg_png"
+    }
+  ],
+  "resources": [
+    {
+      "name": "best_panel_bg_png",
+      "type": "image",
+      "url": "preferential_best/outside/best_panel_bg.png"
+    },
+    {
+      "name": "preferential_best_sheet",
+      "type": "sheet",
+      "url": "preferential_best/preferential_best_sheet.json",
+      "subkeys": "best_panel_add_png,best_panel_buy_btn_png,best_panel_close_png,best_panel_nature_btn_png,pet_info_view_texture_line_1_png,study_pet_attribute_bg2_png,study_pet_attribute_btnMax_png,study_pet_attribute_btnMin_png,study_pet_attribute_btnPlus_png,study_pet_attribute_icon2_png,study_pet_attribute_img_btnAssign_png,study_pet_attribute_img_btnReset_png,study_pet_attribute_tbg_png"
+    }
+  ]
+}

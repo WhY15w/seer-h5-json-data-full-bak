@@ -1,0 +1,405 @@
+{
+  "file": "advanced_pet_back_store_sheet.png",
+  "frames": {
+    "AdvancedPetBackNecessaryPop_effsign_png": {
+      "x": 847,
+      "y": 190,
+      "w": 83,
+      "h": 68,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 83,
+      "sourceH": 68
+    },
+    "AdvancedPetBackNecessaryPop_fifsign_png": {
+      "x": 847,
+      "y": 1,
+      "w": 86,
+      "h": 91,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 86,
+      "sourceH": 91
+    },
+    "AdvancedPetBackNecessaryPop_noFree_png": {
+      "x": 847,
+      "y": 94,
+      "w": 162,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 162,
+      "sourceH": 46
+    },
+    "AdvancedPetBackNecessaryPop_oneKeyBtn_png": {
+      "x": 847,
+      "y": 331,
+      "w": 168,
+      "h": 29,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 168,
+      "sourceH": 29
+    },
+    "AdvancedPetBackNecessaryPop_title_png": {
+      "x": 1,
+      "y": 721,
+      "w": 203,
+      "h": 55,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 203,
+      "sourceH": 55
+    },
+    "advanced_pet_back_buy_coin_title_png": {
+      "x": 206,
+      "y": 739,
+      "w": 202,
+      "h": 55,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 202,
+      "sourceH": 55
+    },
+    "advanced_pet_back_store_detial_panel_btnPetInfo_png": {
+      "x": 935,
+      "y": 1,
+      "w": 83,
+      "h": 74,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 83,
+      "sourceH": 74
+    },
+    "advanced_pet_back_store_detial_panel_btnStartAdv_png": {
+      "x": 840,
+      "y": 645,
+      "w": 180,
+      "h": 57,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 180,
+      "sourceH": 57
+    },
+    "advanced_pet_back_store_detial_panel_btnStore_png": {
+      "x": 932,
+      "y": 190,
+      "w": 72,
+      "h": 72,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 72,
+      "sourceH": 72
+    },
+    "advanced_pet_back_store_detial_panel_btnToBuy_png": {
+      "x": 847,
+      "y": 142,
+      "w": 134,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 134,
+      "sourceH": 46
+    },
+    "advanced_pet_back_store_detial_panel_compIDLine_png": {
+      "x": 947,
+      "y": 418,
+      "w": 76,
+      "h": 26,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 76,
+      "sourceH": 26
+    },
+    "advanced_pet_back_store_detial_panel_compNameLine_png": {
+      "x": 1,
+      "y": 813,
+      "w": 204,
+      "h": 28,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 204,
+      "sourceH": 28
+    },
+    "advanced_pet_back_store_detial_panel_getbtn_png": {
+      "x": 847,
+      "y": 260,
+      "w": 74,
+      "h": 69,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 74,
+      "sourceH": 69
+    },
+    "advanced_pet_back_store_detial_panel_jjzjjkwcjj_png": {
+      "x": 459,
+      "y": 709,
+      "w": 260,
+      "h": 45,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 260,
+      "sourceH": 45
+    },
+    "advanced_pet_back_store_enter_line_png": {
+      "x": 1,
+      "y": 796,
+      "w": 438,
+      "h": 15,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 438,
+      "sourceH": 16
+    },
+    "advanced_pet_back_store_enter_title_png": {
+      "x": 1,
+      "y": 567,
+      "w": 554,
+      "h": 102,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 554,
+      "sourceH": 102
+    },
+    "advanced_pet_back_store_highlight_btnGoTo_png": {
+      "x": 270,
+      "y": 671,
+      "w": 187,
+      "h": 66,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 187,
+      "sourceH": 66
+    },
+    "advanced_pet_back_store_highlight_dark_star_png": {
+      "x": 923,
+      "y": 264,
+      "w": 81,
+      "h": 30,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 81,
+      "sourceH": 30
+    },
+    "advanced_pet_back_store_highlight_light_star_png": {
+      "x": 923,
+      "y": 296,
+      "w": 81,
+      "h": 30,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 81,
+      "sourceH": 30
+    },
+    "advanced_pet_back_store_highlight_title_png": {
+      "x": 1,
+      "y": 471,
+      "w": 701,
+      "h": 94,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 701,
+      "sourceH": 94
+    },
+    "advanced_pet_back_store_main_1724859_png": {
+      "x": 982,
+      "y": 362,
+      "w": 32,
+      "h": 32,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 32,
+      "sourceH": 32
+    },
+    "advanced_pet_back_store_main_btnBuyComp_png": {
+      "x": 692,
+      "y": 766,
+      "w": 229,
+      "h": 31,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 229,
+      "sourceH": 31
+    },
+    "advanced_pet_back_store_main_buyCompBg_png": {
+      "x": 704,
+      "y": 470,
+      "w": 236,
+      "h": 173,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 236,
+      "sourceH": 173
+    },
+    "advanced_pet_back_store_main_grpHasGot_png": {
+      "x": 671,
+      "y": 799,
+      "w": 228,
+      "h": 30,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 228,
+      "sourceH": 30
+    },
+    "advanced_pet_back_store_main_grpLook_png": {
+      "x": 557,
+      "y": 567,
+      "w": 84,
+      "h": 16,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 84,
+      "sourceH": 16
+    },
+    "advanced_pet_back_store_main_grpNotYet_png": {
+      "x": 441,
+      "y": 795,
+      "w": 228,
+      "h": 30,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 228,
+      "sourceH": 30
+    },
+    "advanced_pet_back_store_main_imgLine_png": {
+      "x": 410,
+      "y": 756,
+      "w": 280,
+      "h": 37,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 280,
+      "sourceH": 37
+    },
+    "advanced_pet_back_store_main_imgProgress_png": {
+      "x": 1,
+      "y": 671,
+      "w": 267,
+      "h": 48,
+      "offX": 7,
+      "offY": 7,
+      "sourceW": 281,
+      "sourceH": 62
+    },
+    "advanced_pet_back_store_main_imgProgress_canAdv_png": {
+      "x": 557,
+      "y": 645,
+      "w": 281,
+      "h": 62,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 281,
+      "sourceH": 62
+    },
+    "advanced_pet_back_store_main_imgProgress_star0_png": {
+      "x": 847,
+      "y": 418,
+      "w": 48,
+      "h": 48,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 48,
+      "sourceH": 48
+    },
+    "advanced_pet_back_store_main_imgProgress_star1_png": {
+      "x": 897,
+      "y": 418,
+      "w": 48,
+      "h": 48,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 48,
+      "sourceH": 48
+    },
+    "advanced_pet_back_store_main_imgRresh_png": {
+      "x": 952,
+      "y": 362,
+      "w": 19,
+      "h": 19,
+      "offX": 6,
+      "offY": 6,
+      "sourceW": 32,
+      "sourceH": 32
+    },
+    "advanced_pet_back_store_main_img_di2_png": {
+      "x": 847,
+      "y": 395,
+      "w": 133,
+      "h": 21,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 133,
+      "sourceH": 21
+    },
+    "advanced_pet_back_store_main_Labell_png": {
+      "x": 982,
+      "y": 396,
+      "w": 38,
+      "h": 19,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 38,
+      "sourceH": 19
+    },
+    "advanced_pet_back_store_main_title_png": {
+      "x": 721,
+      "y": 709,
+      "w": 203,
+      "h": 55,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 203,
+      "sourceH": 55
+    },
+    "advanced_pet_back_store_main___png": {
+      "x": 983,
+      "y": 142,
+      "w": 34,
+      "h": 34,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 34,
+      "sourceH": 34
+    },
+    "enter_btn_11_png": {
+      "x": 1,
+      "y": 1,
+      "w": 280,
+      "h": 468,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 280,
+      "sourceH": 468
+    },
+    "enter_btn_2_png": {
+      "x": 565,
+      "y": 1,
+      "w": 280,
+      "h": 467,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 280,
+      "sourceH": 467
+    },
+    "enter_btn_3_png": {
+      "x": 283,
+      "y": 1,
+      "w": 280,
+      "h": 468,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 280,
+      "sourceH": 468
+    },
+    "jinjiexiangqing_png": {
+      "x": 847,
+      "y": 362,
+      "w": 103,
+      "h": 31,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 103,
+      "sourceH": 31
+    }
+  }
+}

@@ -1,0 +1,1875 @@
+{
+  "file": "pve_spt_sheet.png",
+  "frames": {
+    "ps_advanced_task_A_png": {
+      "x": 861,
+      "y": 707,
+      "w": 24,
+      "h": 24,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 24,
+      "sourceH": 24
+    },
+    "ps_advanced_task_B_png": {
+      "x": 1000,
+      "y": 636,
+      "w": 20,
+      "h": 24,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 20,
+      "sourceH": 24
+    },
+    "ps_advanced_task_btnget_png": {
+      "x": 1,
+      "y": 504,
+      "w": 134,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 134,
+      "sourceH": 46
+    },
+    "ps_advanced_task_btnGo_png": {
+      "x": 591,
+      "y": 477,
+      "w": 134,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 134,
+      "sourceH": 46
+    },
+    "ps_advanced_task_btnrefresh_png": {
+      "x": 608,
+      "y": 813,
+      "w": 29,
+      "h": 28,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 29,
+      "sourceH": 28
+    },
+    "ps_advanced_task_done_png": {
+      "x": 78,
+      "y": 730,
+      "w": 101,
+      "h": 36,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 101,
+      "sourceH": 36
+    },
+    "ps_advanced_task_juxing_903_png": {
+      "x": 730,
+      "y": 829,
+      "w": 153,
+      "h": 18,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 153,
+      "sourceH": 18
+    },
+    "ps_advanced_task_l_kb_115_png": {
+      "x": 398,
+      "y": 567,
+      "w": 73,
+      "h": 73,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 73,
+      "sourceH": 73
+    },
+    "ps_advanced_task_S_png": {
+      "x": 602,
+      "y": 643,
+      "w": 20,
+      "h": 24,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 20,
+      "sourceH": 24
+    },
+    "ps_advanced_task_SS_png": {
+      "x": 117,
+      "y": 589,
+      "w": 47,
+      "h": 38,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 47,
+      "sourceH": 38
+    },
+    "ps_advanced_task_zu_32_png": {
+      "x": 681,
+      "y": 899,
+      "w": 42,
+      "h": 17,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 42,
+      "sourceH": 17
+    },
+    "ps_bounty_task_1_png": {
+      "x": 936,
+      "y": 283,
+      "w": 84,
+      "h": 93,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 84,
+      "sourceH": 93
+    },
+    "ps_bounty_task_2_png": {
+      "x": 596,
+      "y": 339,
+      "w": 89,
+      "h": 91,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 89,
+      "sourceH": 91
+    },
+    "ps_bounty_task_3_png": {
+      "x": 505,
+      "y": 329,
+      "w": 89,
+      "h": 93,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 89,
+      "sourceH": 93
+    },
+    "ps_bounty_task_btnhecheng1_png": {
+      "x": 137,
+      "y": 507,
+      "w": 134,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 134,
+      "sourceH": 46
+    },
+    "ps_bounty_task_btnhecheng2_png": {
+      "x": 273,
+      "y": 513,
+      "w": 134,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 134,
+      "sourceH": 46
+    },
+    "ps_bounty_task_btnhecheng3_png": {
+      "x": 409,
+      "y": 519,
+      "w": 134,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 134,
+      "sourceH": 46
+    },
+    "ps_bounty_task_icon1_png": {
+      "x": 78,
+      "y": 678,
+      "w": 33,
+      "h": 45,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 33,
+      "sourceH": 45
+    },
+    "ps_bounty_task_icon2_png": {
+      "x": 239,
+      "y": 874,
+      "w": 45,
+      "h": 37,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 45,
+      "sourceH": 37
+    },
+    "ps_bounty_task_iconbg_png": {
+      "x": 746,
+      "y": 594,
+      "w": 69,
+      "h": 69,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 69,
+      "sourceH": 69
+    },
+    "ps_bounty_task_img1_png": {
+      "x": 641,
+      "y": 802,
+      "w": 87,
+      "h": 34,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 87,
+      "sourceH": 34
+    },
+    "ps_bounty_task_img2_png": {
+      "x": 256,
+      "y": 375,
+      "w": 84,
+      "h": 82,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 84,
+      "sourceH": 82
+    },
+    "ps_bounty_task_img_di1_png": {
+      "x": 679,
+      "y": 720,
+      "w": 180,
+      "h": 21,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 180,
+      "sourceH": 21
+    },
+    "ps_bounty_task_img_di2_png": {
+      "x": 865,
+      "y": 806,
+      "w": 133,
+      "h": 21,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 133,
+      "sourceH": 21
+    },
+    "ps_bounty_task_zu_35_png": {
+      "x": 393,
+      "y": 283,
+      "w": 205,
+      "h": 44,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 205,
+      "sourceH": 44
+    },
+    "ps_bounty_task_zu_36_png": {
+      "x": 1,
+      "y": 316,
+      "w": 205,
+      "h": 43,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 205,
+      "sourceH": 43
+    },
+    "ps_buy_pop_btnadd_png": {
+      "x": 192,
+      "y": 833,
+      "w": 29,
+      "h": 28,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 29,
+      "sourceH": 28
+    },
+    "ps_buy_pop_btnbuy_png": {
+      "x": 727,
+      "y": 512,
+      "w": 134,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 134,
+      "sourceH": 46
+    },
+    "ps_buy_pop_btnDuihuan_png": {
+      "x": 863,
+      "y": 512,
+      "w": 134,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 134,
+      "sourceH": 46
+    },
+    "ps_buy_pop_btnmax_png": {
+      "x": 446,
+      "y": 732,
+      "w": 48,
+      "h": 28,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 48,
+      "sourceH": 28
+    },
+    "ps_buy_pop_btnmin_png": {
+      "x": 1,
+      "y": 733,
+      "w": 48,
+      "h": 28,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 48,
+      "sourceH": 28
+    },
+    "ps_buy_pop_btnreduce_png": {
+      "x": 140,
+      "y": 883,
+      "w": 29,
+      "h": 28,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 29,
+      "sourceH": 28
+    },
+    "ps_buy_pop_close_png": {
+      "x": 727,
+      "y": 477,
+      "w": 33,
+      "h": 33,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 33,
+      "sourceH": 33
+    },
+    "ps_buy_pop_itembg_png": {
+      "x": 687,
+      "y": 393,
+      "w": 82,
+      "h": 82,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 82,
+      "sourceH": 82
+    },
+    "ps_buy_pop_jx_2_kb_2_png": {
+      "x": 1008,
+      "y": 43,
+      "w": 12,
+      "h": 12,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 12,
+      "sourceH": 12
+    },
+    "ps_buy_pop_petbg_png": {
+      "x": 1008,
+      "y": 29,
+      "w": 12,
+      "h": 12,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 12,
+      "sourceH": 12
+    },
+    "ps_buy_pop_poptitle_png": {
+      "x": 624,
+      "y": 636,
+      "w": 113,
+      "h": 42,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 113,
+      "sourceH": 42
+    },
+    "ps_buy_pop_poptitle1_png": {
+      "x": 1,
+      "y": 634,
+      "w": 113,
+      "h": 42,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 113,
+      "sourceH": 42
+    },
+    "ps_buy_pop_searchbg_png": {
+      "x": 342,
+      "y": 391,
+      "w": 160,
+      "h": 29,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 160,
+      "sourceH": 29
+    },
+    "ps_buy_pop_tuceng_570_png": {
+      "x": 332,
+      "y": 712,
+      "w": 21,
+      "h": 17,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 21,
+      "sourceH": 17
+    },
+    "ps_buy_pop_zu_7_png": {
+      "x": 624,
+      "y": 573,
+      "w": 50,
+      "h": 17,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 50,
+      "sourceH": 17
+    },
+    "ps_galaxychallenge_btnback_png": {
+      "x": 817,
+      "y": 594,
+      "w": 29,
+      "h": 39,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 29,
+      "sourceH": 39
+    },
+    "ps_galaxychallenge_title_png": {
+      "x": 332,
+      "y": 732,
+      "w": 112,
+      "h": 31,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 112,
+      "sourceH": 31
+    },
+    "ps_item_achieve_num_10_png": {
+      "x": 739,
+      "y": 665,
+      "w": 75,
+      "h": 53,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 75,
+      "sourceH": 53
+    },
+    "ps_item_achieve_num_15_png": {
+      "x": 116,
+      "y": 675,
+      "w": 75,
+      "h": 53,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 75,
+      "sourceH": 53
+    },
+    "ps_item_achieve_num_20_png": {
+      "x": 367,
+      "y": 677,
+      "w": 75,
+      "h": 53,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 75,
+      "sourceH": 53
+    },
+    "ps_item_achieve_num_25_png": {
+      "x": 444,
+      "y": 677,
+      "w": 75,
+      "h": 53,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 75,
+      "sourceH": 53
+    },
+    "ps_item_achieve_num_30_png": {
+      "x": 1,
+      "y": 678,
+      "w": 75,
+      "h": 53,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 75,
+      "sourceH": 53
+    },
+    "ps_item_achieve_num_35_png": {
+      "x": 888,
+      "y": 680,
+      "w": 75,
+      "h": 53,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 75,
+      "sourceH": 53
+    },
+    "ps_item_achieve_num_40_png": {
+      "x": 521,
+      "y": 711,
+      "w": 75,
+      "h": 53,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 75,
+      "sourceH": 53
+    },
+    "ps_item_achieve_num_45_png": {
+      "x": 944,
+      "y": 218,
+      "w": 75,
+      "h": 53,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 75,
+      "sourceH": 53
+    },
+    "ps_item_achieve_num_50_png": {
+      "x": 193,
+      "y": 712,
+      "w": 74,
+      "h": 53,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 74,
+      "sourceH": 53
+    },
+    "ps_item_pop_topbg_png": {
+      "x": 641,
+      "y": 778,
+      "w": 138,
+      "h": 22,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 138,
+      "sourceH": 22
+    },
+    "ps_limited_shop_42175_png": {
+      "x": 530,
+      "y": 643,
+      "w": 70,
+      "h": 66,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 70,
+      "sourceH": 66
+    },
+    "ps_limited_shop_pet_png": {
+      "x": 850,
+      "y": 1,
+      "w": 134,
+      "h": 128,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 134,
+      "sourceH": 128
+    },
+    "ps_mall_petfactor_progress_wg_1_png": {
+      "x": 932,
+      "y": 560,
+      "w": 74,
+      "h": 74,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 74,
+      "sourceH": 74
+    },
+    "ps_mall_petfactor_progress_wg_2_png": {
+      "x": 943,
+      "y": 430,
+      "w": 74,
+      "h": 74,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 74,
+      "sourceH": 74
+    },
+    "ps_mall_petfactor_progress_wg_3_png": {
+      "x": 188,
+      "y": 555,
+      "w": 74,
+      "h": 74,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 74,
+      "sourceH": 74
+    },
+    "ps_mall_petfactor_progress_wg_4_png": {
+      "x": 856,
+      "y": 560,
+      "w": 74,
+      "h": 74,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 74,
+      "sourceH": 74
+    },
+    "ps_refresh_pop_btncancel_png": {
+      "x": 545,
+      "y": 525,
+      "w": 134,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 134,
+      "sourceH": 46
+    },
+    "ps_refresh_pop_btncomfirm_png": {
+      "x": 204,
+      "y": 459,
+      "w": 134,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 134,
+      "sourceH": 46
+    },
+    "ps_refresh_pop_di_kaobei_png": {
+      "x": 51,
+      "y": 733,
+      "w": 24,
+      "h": 24,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 24,
+      "sourceH": 24
+    },
+    "ps_sptpetitem_btncommon_png": {
+      "x": 681,
+      "y": 560,
+      "w": 173,
+      "h": 32,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 173,
+      "sourceH": 32
+    },
+    "ps_sptpetitem_down_png": {
+      "x": 591,
+      "y": 432,
+      "w": 90,
+      "h": 43,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 90,
+      "sourceH": 43
+    },
+    "ps_sptpetitem_img_di2_png": {
+      "x": 89,
+      "y": 810,
+      "w": 133,
+      "h": 21,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 133,
+      "sourceH": 21
+    },
+    "ps_sptpetitem_linedone_png": {
+      "x": 850,
+      "y": 172,
+      "w": 157,
+      "h": 1,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 157,
+      "sourceH": 1
+    },
+    "ps_sptpetitem_tuceng_569_png": {
+      "x": 278,
+      "y": 810,
+      "w": 30,
+      "h": 25,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 30,
+      "sourceH": 25
+    },
+    "ps_sptpetitem_tuceng_570_png": {
+      "x": 104,
+      "y": 251,
+      "w": 18,
+      "h": 14,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 18,
+      "sourceH": 14
+    },
+    "ps_sptpetitem_waikuang_xian_png": {
+      "x": 47,
+      "y": 839,
+      "w": 40,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 40,
+      "sourceH": 40
+    },
+    "ps_sptpetitem_zu_30_png": {
+      "x": 1,
+      "y": 555,
+      "w": 185,
+      "h": 32,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 185,
+      "sourceH": 32
+    },
+    "ps_spt_imge_btn_jiangzhang_down_png": {
+      "x": 1,
+      "y": 768,
+      "w": 101,
+      "h": 33,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 101,
+      "sourceH": 33
+    },
+    "ps_spt_imge_btn_jiangzhang_up_png": {
+      "x": 104,
+      "y": 768,
+      "w": 101,
+      "h": 33,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 101,
+      "sourceH": 33
+    },
+    "ps_spt_imge_btn_qizhi_down_png": {
+      "x": 332,
+      "y": 765,
+      "w": 101,
+      "h": 33,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 101,
+      "sourceH": 33
+    },
+    "ps_spt_imge_btn_qizhi_up_png": {
+      "x": 435,
+      "y": 766,
+      "w": 101,
+      "h": 33,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 101,
+      "sourceH": 33
+    },
+    "ps_spt_item_icon1_png": {
+      "x": 476,
+      "y": 465,
+      "w": 33,
+      "h": 45,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 33,
+      "sourceH": 45
+    },
+    "ps_spt_item_icon2_png": {
+      "x": 192,
+      "y": 864,
+      "w": 45,
+      "h": 37,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 45,
+      "sourceH": 37
+    },
+    "ps_spt_item_icon3_png": {
+      "x": 985,
+      "y": 378,
+      "w": 36,
+      "h": 45,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 36,
+      "sourceH": 45
+    },
+    "ps_spt_item_iconbg_png": {
+      "x": 817,
+      "y": 636,
+      "w": 69,
+      "h": 69,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 69,
+      "sourceH": 69
+    },
+    "ps_spt_pet_pop_a_png": {
+      "x": 340,
+      "y": 465,
+      "w": 134,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 134,
+      "sourceH": 46
+    },
+    "ps_spt_pet_pop_btninfo_png": {
+      "x": 861,
+      "y": 735,
+      "w": 101,
+      "h": 34,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 101,
+      "sourceH": 34
+    },
+    "ps_spt_pet_pop_close_png": {
+      "x": 681,
+      "y": 525,
+      "w": 33,
+      "h": 33,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 33,
+      "sourceH": 33
+    },
+    "ps_spt_pet_pop_juxing_634_png": {
+      "x": 1008,
+      "y": 57,
+      "w": 12,
+      "h": 12,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 12,
+      "sourceH": 12
+    },
+    "ps_spt_pet_pop_jx_2_kb_2_png": {
+      "x": 1008,
+      "y": 1,
+      "w": 12,
+      "h": 12,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 12,
+      "sourceH": 12
+    },
+    "ps_spt_pet_pop_petbg_png": {
+      "x": 1008,
+      "y": 15,
+      "w": 12,
+      "h": 12,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 12,
+      "sourceH": 12
+    },
+    "ps_spt_pet_pop_tuceng_574_png": {
+      "x": 725,
+      "y": 899,
+      "w": 25,
+      "h": 20,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 25,
+      "sourceH": 20
+    },
+    "ps_spt_pet_pop_yhgg_png": {
+      "x": 117,
+      "y": 631,
+      "w": 114,
+      "h": 42,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 114,
+      "sourceH": 42
+    },
+    "ps_yinzi_40_kaobei_png": {
+      "x": 602,
+      "y": 680,
+      "w": 75,
+      "h": 53,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 75,
+      "sourceH": 53
+    },
+    "ps_yinzi_99t_kb_4_png": {
+      "x": 413,
+      "y": 874,
+      "w": 67,
+      "h": 18,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 67,
+      "sourceH": 18
+    },
+    "ps_yinzi_btncommon_png": {
+      "x": 386,
+      "y": 643,
+      "w": 142,
+      "h": 32,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 142,
+      "sourceH": 32
+    },
+    "ps_yinzi_btndown1_png": {
+      "x": 804,
+      "y": 771,
+      "w": 101,
+      "h": 33,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 101,
+      "sourceH": 33
+    },
+    "ps_yinzi_btndown2_png": {
+      "x": 907,
+      "y": 771,
+      "w": 101,
+      "h": 33,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 101,
+      "sourceH": 33
+    },
+    "ps_yinzi_btndown3_png": {
+      "x": 207,
+      "y": 775,
+      "w": 101,
+      "h": 33,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 101,
+      "sourceH": 33
+    },
+    "ps_yinzi_btnup1_png": {
+      "x": 538,
+      "y": 778,
+      "w": 101,
+      "h": 33,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 101,
+      "sourceH": 33
+    },
+    "ps_yinzi_btnup2_png": {
+      "x": 598,
+      "y": 743,
+      "w": 101,
+      "h": 33,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 101,
+      "sourceH": 33
+    },
+    "ps_yinzi_btnup3_png": {
+      "x": 701,
+      "y": 743,
+      "w": 101,
+      "h": 33,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 101,
+      "sourceH": 33
+    },
+    "ps_yinzi_buybg_png": {
+      "x": 703,
+      "y": 1,
+      "w": 145,
+      "h": 173,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 145,
+      "sourceH": 173
+    },
+    "ps_yinzi_img_di2_png": {
+      "x": 730,
+      "y": 806,
+      "w": 133,
+      "h": 21,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 133,
+      "sourceH": 21
+    },
+    "ps_yinzi_jx_892_kb_png": {
+      "x": 208,
+      "y": 316,
+      "w": 155,
+      "h": 57,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 155,
+      "sourceH": 57
+    },
+    "ps_yinzi_tag_png": {
+      "x": 1,
+      "y": 885,
+      "w": 40,
+      "h": 18,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 40,
+      "sourceH": 18
+    },
+    "ps_yinzi_tuceng_571_png": {
+      "x": 82,
+      "y": 884,
+      "w": 30,
+      "h": 25,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 30,
+      "sourceH": 25
+    },
+    "ps_yinzi_tuceng_572_png": {
+      "x": 124,
+      "y": 251,
+      "w": 18,
+      "h": 14,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 18,
+      "sourceH": 14
+    },
+    "pveRewardMall_gxPet_icon_1_png": {
+      "x": 488,
+      "y": 836,
+      "w": 47,
+      "h": 51,
+      "offX": 4,
+      "offY": 4,
+      "sourceW": 55,
+      "sourceH": 55
+    },
+    "pveRewardMall_gxPet_icon_2_png": {
+      "x": 679,
+      "y": 680,
+      "w": 46,
+      "h": 38,
+      "offX": 5,
+      "offY": 8,
+      "sourceW": 55,
+      "sourceH": 55
+    },
+    "pve_spt_award_first_title_png": {
+      "x": 587,
+      "y": 879,
+      "w": 81,
+      "h": 19,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 81,
+      "sourceH": 19
+    },
+    "pve_spt_award_title_png": {
+      "x": 670,
+      "y": 879,
+      "w": 81,
+      "h": 18,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 81,
+      "sourceH": 18
+    },
+    "pve_spt_award_title2_png": {
+      "x": 885,
+      "y": 829,
+      "w": 123,
+      "h": 19,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 123,
+      "sourceH": 19
+    },
+    "pve_spt_boss_title_png": {
+      "x": 444,
+      "y": 256,
+      "w": 107,
+      "h": 19,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 107,
+      "sourceH": 19
+    },
+    "pve_spt_btnSaodang_png": {
+      "x": 310,
+      "y": 800,
+      "w": 87,
+      "h": 34,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 87,
+      "sourceH": 34
+    },
+    "pve_spt_btnSaodang3_png": {
+      "x": 399,
+      "y": 801,
+      "w": 87,
+      "h": 34,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 87,
+      "sourceH": 34
+    },
+    "pve_spt_btnTiaozhan_png": {
+      "x": 600,
+      "y": 283,
+      "w": 166,
+      "h": 54,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 166,
+      "sourceH": 54
+    },
+    "pve_spt_btnTiaozhan2_png": {
+      "x": 835,
+      "y": 339,
+      "w": 87,
+      "h": 34,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 87,
+      "sourceH": 34
+    },
+    "pve_spt_btnTiaozhanQueren_png": {
+      "x": 768,
+      "y": 283,
+      "w": 166,
+      "h": 54,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 166,
+      "sourceH": 54
+    },
+    "pve_spt_condition_title_png": {
+      "x": 753,
+      "y": 879,
+      "w": 81,
+      "h": 18,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 81,
+      "sourceH": 18
+    },
+    "pve_spt_fight_btnGo_png": {
+      "x": 624,
+      "y": 594,
+      "w": 120,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 120,
+      "sourceH": 40
+    },
+    "pve_spt_fight_btnOk_png": {
+      "x": 264,
+      "y": 603,
+      "w": 120,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 120,
+      "sourceH": 40
+    },
+    "pve_spt_fight_di_png": {
+      "x": 189,
+      "y": 215,
+      "w": 253,
+      "h": 50,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 253,
+      "sourceH": 50
+    },
+    "pve_spt_fight_doneBg_png": {
+      "x": 781,
+      "y": 778,
+      "w": 18,
+      "h": 18,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 18,
+      "sourceH": 18
+    },
+    "pve_spt_fight_imgBtn_cure_png": {
+      "x": 965,
+      "y": 680,
+      "w": 52,
+      "h": 52,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 52,
+      "sourceH": 52
+    },
+    "pve_spt_fight_imgBtn_pet_png": {
+      "x": 224,
+      "y": 810,
+      "w": 52,
+      "h": 52,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 52,
+      "sourceH": 52
+    },
+    "pve_spt_fight_img_done_png": {
+      "x": 47,
+      "y": 881,
+      "w": 33,
+      "h": 25,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 33,
+      "sourceH": 25
+    },
+    "pve_spt_fight_img_line_png": {
+      "x": 329,
+      "y": 904,
+      "w": 350,
+      "h": 1,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 350,
+      "sourceH": 1
+    },
+    "pve_spt_fight_img_unkown_png": {
+      "x": 1,
+      "y": 413,
+      "w": 77,
+      "h": 87,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 77,
+      "sourceH": 87
+    },
+    "pve_spt_fight_Namebg_png": {
+      "x": 278,
+      "y": 837,
+      "w": 200,
+      "h": 12,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 200,
+      "sourceH": 12
+    },
+    "pve_spt_fight_progressBg_png": {
+      "x": 701,
+      "y": 176,
+      "w": 316,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 316,
+      "sourceH": 40
+    },
+    "pve_spt_fight_progress_bg_png": {
+      "x": 561,
+      "y": 218,
+      "w": 348,
+      "h": 35,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 348,
+      "sourceH": 35
+    },
+    "pve_spt_fight_progress_empty_png": {
+      "x": 393,
+      "y": 277,
+      "w": 95,
+      "h": 4,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 95,
+      "sourceH": 4
+    },
+    "pve_spt_fight_progress_fill_png": {
+      "x": 1,
+      "y": 251,
+      "w": 101,
+      "h": 10,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 101,
+      "sourceH": 10
+    },
+    "pve_spt_fight_rect_down_png": {
+      "x": 300,
+      "y": 645,
+      "w": 65,
+      "h": 65,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 65,
+      "sourceH": 65
+    },
+    "pve_spt_fight_rect_up_png": {
+      "x": 233,
+      "y": 645,
+      "w": 65,
+      "h": 65,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 65,
+      "sourceH": 65
+    },
+    "pve_spt_fight_roundbg_png": {
+      "x": 1,
+      "y": 839,
+      "w": 44,
+      "h": 44,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 44,
+      "sourceH": 44
+    },
+    "pve_spt_fight_star_png": {
+      "x": 496,
+      "y": 732,
+      "w": 22,
+      "h": 21,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 22,
+      "sourceH": 21
+    },
+    "pve_spt_fight_targetBg_png": {
+      "x": 561,
+      "y": 255,
+      "w": 381,
+      "h": 26,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 381,
+      "sourceH": 26
+    },
+    "pve_spt_fight_target_3_bg_png": {
+      "x": 310,
+      "y": 775,
+      "w": 20,
+      "h": 20,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 20,
+      "sourceH": 20
+    },
+    "pve_spt_galaxy_arr_ending_png": {
+      "x": 269,
+      "y": 712,
+      "w": 61,
+      "h": 61,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 61,
+      "sourceH": 61
+    },
+    "pve_spt_galaxy_bag_png": {
+      "x": 549,
+      "y": 573,
+      "w": 73,
+      "h": 68,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 73,
+      "sourceH": 68
+    },
+    "pve_spt_galaxy_btnDifficult_png": {
+      "x": 342,
+      "y": 424,
+      "w": 173,
+      "h": 39,
+      "offX": 0,
+      "offY": 3,
+      "sourceW": 173,
+      "sourceH": 45
+    },
+    "pve_spt_galaxy_btnNormal_png": {
+      "x": 850,
+      "y": 131,
+      "w": 173,
+      "h": 39,
+      "offX": 0,
+      "offY": 3,
+      "sourceW": 173,
+      "sourceH": 46
+    },
+    "pve_spt_galaxy_btnStar_png": {
+      "x": 152,
+      "y": 375,
+      "w": 102,
+      "h": 73,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 102,
+      "sourceH": 73
+    },
+    "pve_spt_galaxy_cure_png": {
+      "x": 473,
+      "y": 573,
+      "w": 74,
+      "h": 68,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 74,
+      "sourceH": 68
+    },
+    "pve_spt_galaxy_flag_complete_png": {
+      "x": 80,
+      "y": 413,
+      "w": 63,
+      "h": 35,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 63,
+      "sourceH": 35
+    },
+    "pve_spt_galaxy_icon_0_1_png": {
+      "x": 193,
+      "y": 675,
+      "w": 32,
+      "h": 32,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 32,
+      "sourceH": 32
+    },
+    "pve_spt_galaxy_icon_0_2_png": {
+      "x": 836,
+      "y": 879,
+      "w": 32,
+      "h": 32,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 32,
+      "sourceH": 32
+    },
+    "pve_spt_galaxy_icon_1_png": {
+      "x": 911,
+      "y": 218,
+      "w": 31,
+      "h": 31,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 31,
+      "sourceH": 31
+    },
+    "pve_spt_galaxy_imgtask_png": {
+      "x": 80,
+      "y": 450,
+      "w": 122,
+      "h": 52,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 122,
+      "sourceH": 52
+    },
+    "pve_spt_galaxy_img_chosen_png": {
+      "x": 861,
+      "y": 430,
+      "w": 80,
+      "h": 80,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 80,
+      "sourceH": 80
+    },
+    "pve_spt_galaxy_img_reddot_png": {
+      "x": 870,
+      "y": 879,
+      "w": 33,
+      "h": 31,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 33,
+      "sourceH": 31
+    },
+    "pve_spt_galaxy_linexie_png": {
+      "x": 561,
+      "y": 144,
+      "w": 17,
+      "h": 50,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 17,
+      "sourceH": 50
+    },
+    "pve_spt_galaxy_task_bg_png": {
+      "x": 1,
+      "y": 361,
+      "w": 149,
+      "h": 50,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 149,
+      "sourceH": 50
+    },
+    "pve_spt_galaxy_task_compMask_png": {
+      "x": 835,
+      "y": 378,
+      "w": 148,
+      "h": 50,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 148,
+      "sourceH": 50
+    },
+    "pve_spt_galaxy_title_1_png": {
+      "x": 871,
+      "y": 856,
+      "w": 92,
+      "h": 21,
+      "offX": 2,
+      "offY": 2,
+      "sourceW": 118,
+      "sourceH": 26
+    },
+    "pve_spt_galaxy_title_2_png": {
+      "x": 682,
+      "y": 856,
+      "w": 93,
+      "h": 21,
+      "offX": 2,
+      "offY": 2,
+      "sourceW": 118,
+      "sourceH": 26
+    },
+    "pve_spt_galaxy_title_3_png": {
+      "x": 777,
+      "y": 856,
+      "w": 92,
+      "h": 21,
+      "offX": 2,
+      "offY": 2,
+      "sourceW": 118,
+      "sourceH": 26
+    },
+    "pve_spt_galaxy_title_4_png": {
+      "x": 278,
+      "y": 851,
+      "w": 94,
+      "h": 21,
+      "offX": 1,
+      "offY": 2,
+      "sourceW": 118,
+      "sourceH": 26
+    },
+    "pve_spt_galaxy_title_5_png": {
+      "x": 374,
+      "y": 851,
+      "w": 93,
+      "h": 21,
+      "offX": 1,
+      "offY": 2,
+      "sourceW": 118,
+      "sourceH": 26
+    },
+    "pve_spt_galaxy_title_6_png": {
+      "x": 587,
+      "y": 856,
+      "w": 93,
+      "h": 21,
+      "offX": 1,
+      "offY": 2,
+      "sourceW": 118,
+      "sourceH": 26
+    },
+    "pve_spt_galaxy_title_7_png": {
+      "x": 488,
+      "y": 813,
+      "w": 118,
+      "h": 21,
+      "offX": 0,
+      "offY": 2,
+      "sourceW": 118,
+      "sourceH": 26
+    },
+    "pve_spt_galaxy_title_8_png": {
+      "x": 905,
+      "y": 879,
+      "w": 46,
+      "h": 21,
+      "offX": 1,
+      "offY": 2,
+      "sourceW": 118,
+      "sourceH": 26
+    },
+    "pve_spt_galaxy_title_9_png": {
+      "x": 804,
+      "y": 743,
+      "w": 46,
+      "h": 21,
+      "offX": 1,
+      "offY": 2,
+      "sourceW": 118,
+      "sourceH": 26
+    },
+    "pve_spt_galaxy_txtbg_png": {
+      "x": 189,
+      "y": 144,
+      "w": 235,
+      "h": 69,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 235,
+      "sourceH": 69
+    },
+    "pve_spt_guanqiabg_png": {
+      "x": 1,
+      "y": 144,
+      "w": 186,
+      "h": 105,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 186,
+      "sourceH": 105
+    },
+    "pve_spt_img_award_png": {
+      "x": 687,
+      "y": 339,
+      "w": 146,
+      "h": 52,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 146,
+      "sourceH": 52
+    },
+    "pve_spt_img_task_png": {
+      "x": 264,
+      "y": 561,
+      "w": 132,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 132,
+      "sourceH": 40
+    },
+    "pve_spt_item_galaxy_imgfastfight_png": {
+      "x": 771,
+      "y": 393,
+      "w": 50,
+      "h": 33,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 50,
+      "sourceH": 33
+    },
+    "pve_spt_item_img_bar_png": {
+      "x": 587,
+      "y": 850,
+      "w": 406,
+      "h": 4,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 406,
+      "sourceH": 4
+    },
+    "pve_spt_line_png": {
+      "x": 329,
+      "y": 900,
+      "w": 318,
+      "h": 2,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 318,
+      "sourceH": 2
+    },
+    "pve_spt_neirongbg_png": {
+      "x": 771,
+      "y": 430,
+      "w": 88,
+      "h": 75,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 88,
+      "sourceH": 75
+    },
+    "pve_spt_pet_png": {
+      "x": 517,
+      "y": 424,
+      "w": 72,
+      "h": 93,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 72,
+      "sourceH": 93
+    },
+    "pve_spt_pet_item_zhezhao_png": {
+      "x": 986,
+      "y": 1,
+      "w": 20,
+      "h": 126,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 20,
+      "sourceH": 126
+    },
+    "pve_spt_planet_hiddenbg_png": {
+      "x": 365,
+      "y": 329,
+      "w": 138,
+      "h": 60,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 138,
+      "sourceH": 60
+    },
+    "pve_spt_planet_img_planet_png": {
+      "x": 444,
+      "y": 144,
+      "w": 115,
+      "h": 110,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 115,
+      "sourceH": 110
+    },
+    "pve_spt_planet_linebranch_0_png": {
+      "x": 166,
+      "y": 589,
+      "w": 20,
+      "h": 38,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 20,
+      "sourceH": 38
+    },
+    "pve_spt_planet_linebranch_1_png": {
+      "x": 999,
+      "y": 506,
+      "w": 20,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 20,
+      "sourceH": 40
+    },
+    "pve_spt_planet_linemain_0_png": {
+      "x": 197,
+      "y": 267,
+      "w": 194,
+      "h": 47,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 194,
+      "sourceH": 47
+    },
+    "pve_spt_planet_linemain_1_png": {
+      "x": 1,
+      "y": 267,
+      "w": 194,
+      "h": 47,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 194,
+      "sourceH": 47
+    },
+    "pve_spt_planet_planetbg_png": {
+      "x": 888,
+      "y": 636,
+      "w": 110,
+      "h": 42,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 110,
+      "sourceH": 42
+    },
+    "pve_spt_planet_planet_hidden_png": {
+      "x": 580,
+      "y": 102,
+      "w": 119,
+      "h": 112,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 119,
+      "sourceH": 112
+    },
+    "pve_spt_planet_stardark_png": {
+      "x": 286,
+      "y": 874,
+      "w": 41,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 41,
+      "sourceH": 40
+    },
+    "pve_spt_planet_starlight_png": {
+      "x": 965,
+      "y": 856,
+      "w": 42,
+      "h": 42,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 42,
+      "sourceH": 42
+    },
+    "pve_spt_star_img_title_png": {
+      "x": 1,
+      "y": 589,
+      "w": 114,
+      "h": 43,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 114,
+      "sourceH": 43
+    },
+    "pve_spt_star_item_bg_png": {
+      "x": 1,
+      "y": 1,
+      "w": 700,
+      "h": 99,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 700,
+      "sourceH": 99
+    },
+    "pve_spt_star_item_btnGet_png": {
+      "x": 1,
+      "y": 803,
+      "w": 86,
+      "h": 34,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 86,
+      "sourceH": 34
+    },
+    "pve_spt_star_item_tag_got_png": {
+      "x": 965,
+      "y": 734,
+      "w": 58,
+      "h": 19,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 58,
+      "sourceH": 19
+    },
+    "pve_spt_target_title_png": {
+      "x": 329,
+      "y": 874,
+      "w": 82,
+      "h": 19,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 82,
+      "sourceH": 19
+    },
+    "pve_spt_task_item_level_s_1_png": {
+      "x": 89,
+      "y": 833,
+      "w": 49,
+      "h": 49,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 49,
+      "sourceH": 49
+    },
+    "pve_spt_task_item_level_s_2_png": {
+      "x": 140,
+      "y": 833,
+      "w": 50,
+      "h": 48,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 50,
+      "sourceH": 48
+    },
+    "pve_spt_task_item_level_s_3_png": {
+      "x": 537,
+      "y": 836,
+      "w": 48,
+      "h": 49,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 48,
+      "sourceH": 49
+    },
+    "pve_spt_titlebg_png": {
+      "x": 1,
+      "y": 102,
+      "w": 577,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 577,
+      "sourceH": 40
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "resources": [
+    {
+      "type": "json",
+      "url": "1410.json",
+      "name": "road_1410"
+    },
+    {
+      "type": "text",
+      "url": "Map1410Skin.exml",
+      "name": "exml_1410"
+    },
+    {
+      "type": "image",
+      "url": "map_1410_bg_mc.jpg",
+      "name": "map_1410_bg_mc_jpg"
+    },
+    {
+      "type": "image",
+      "url": "map_1410_a.png",
+      "name": "map_1410_a_png"
+    }
+  ],
+  "groups": [
+    {
+      "keys": "road_1410,exml_1410,map_1410_bg_mc_jpg,map_1410_a_png",
+      "name": "map_1410"
+    }
+  ]
+}

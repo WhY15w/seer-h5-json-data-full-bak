@@ -1,0 +1,445 @@
+{
+  "file": "titan_hole_main_sheet.png",
+  "frames": {
+    "level2_view_infobg_png": {
+      "x": 497,
+      "y": 79,
+      "w": 239,
+      "h": 87,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 239,
+      "sourceH": 87
+    },
+    "level3_view_texture_allow_png": {
+      "x": 701,
+      "y": 238,
+      "w": 32,
+      "h": 14,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 32,
+      "sourceH": 14
+    },
+    "level3_view_texture_locked_png": {
+      "x": 948,
+      "y": 177,
+      "w": 69,
+      "h": 68,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 69,
+      "sourceH": 68
+    },
+    "level3_view_texture_my_png": {
+      "x": 205,
+      "y": 421,
+      "w": 56,
+      "h": 62,
+      "offX": 4,
+      "offY": 2,
+      "sourceW": 65,
+      "sourceH": 65
+    },
+    "level3_view_texture_null_png": {
+      "x": 914,
+      "y": 348,
+      "w": 65,
+      "h": 65,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 65,
+      "sourceH": 65
+    },
+    "level3_view_texture_selecet_png": {
+      "x": 948,
+      "y": 104,
+      "w": 71,
+      "h": 71,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 71,
+      "sourceH": 71
+    },
+    "level3_view_texture_start_png": {
+      "x": 874,
+      "y": 415,
+      "w": 65,
+      "h": 65,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 65,
+      "sourceH": 65
+    },
+    "reward_pop_name_bg_png": {
+      "x": 352,
+      "y": 423,
+      "w": 102,
+      "h": 24,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 102,
+      "sourceH": 24
+    },
+    "reward_pop_title_png": {
+      "x": 635,
+      "y": 419,
+      "w": 168,
+      "h": 26,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 168,
+      "sourceH": 26
+    },
+    "titan_hole_main_close_png": {
+      "x": 137,
+      "y": 360,
+      "w": 103,
+      "h": 30,
+      "offX": 1,
+      "offY": 5,
+      "sourceW": 104,
+      "sourceH": 39
+    },
+    "titan_hole_main_go_png": {
+      "x": 998,
+      "y": 282,
+      "w": 23,
+      "h": 21,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 23,
+      "sourceH": 21
+    },
+    "titan_hole_main_got_png": {
+      "x": 1001,
+      "y": 1,
+      "w": 22,
+      "h": 21,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 22,
+      "sourceH": 21
+    },
+    "titan_hole_main_handle_png": {
+      "x": 917,
+      "y": 178,
+      "w": 28,
+      "h": 28,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 28,
+      "sourceH": 28
+    },
+    "titan_hole_main_handleoff_png": {
+      "x": 738,
+      "y": 79,
+      "w": 43,
+      "h": 20,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 43,
+      "sourceH": 20
+    },
+    "titan_hole_main_handleon_png": {
+      "x": 205,
+      "y": 392,
+      "w": 45,
+      "h": 24,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 45,
+      "sourceH": 24
+    },
+    "titan_hole_main_help_png": {
+      "x": 917,
+      "y": 208,
+      "w": 24,
+      "h": 28,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 24,
+      "sourceH": 28
+    },
+    "titan_hole_main_icon_ima_png": {
+      "x": 635,
+      "y": 396,
+      "w": 237,
+      "h": 21,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 237,
+      "sourceH": 21
+    },
+    "titan_hole_main_ima_hit_png": {
+      "x": 778,
+      "y": 348,
+      "w": 134,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 134,
+      "sourceH": 46
+    },
+    "titan_hole_main_ima_wipe_png": {
+      "x": 363,
+      "y": 375,
+      "w": 134,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 134,
+      "sourceH": 46
+    },
+    "titan_hole_main_info_bg_png": {
+      "x": 257,
+      "y": 1,
+      "w": 238,
+      "h": 252,
+      "offX": 1,
+      "offY": 0,
+      "sourceW": 239,
+      "sourceH": 252
+    },
+    "titan_hole_main_level_cant_png": {
+      "x": 789,
+      "y": 288,
+      "w": 207,
+      "h": 58,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 207,
+      "sourceH": 58
+    },
+    "titan_hole_main_level_finfo_bg_png": {
+      "x": 786,
+      "y": 1,
+      "w": 213,
+      "h": 101,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 213,
+      "sourceH": 101
+    },
+    "titan_hole_main_level_go_png": {
+      "x": 707,
+      "y": 178,
+      "w": 208,
+      "h": 58,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 208,
+      "sourceH": 58
+    },
+    "titan_hole_main_level_got_png": {
+      "x": 497,
+      "y": 168,
+      "w": 208,
+      "h": 58,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 208,
+      "sourceH": 58
+    },
+    "titan_hole_main_level_imachanllge_png": {
+      "x": 1,
+      "y": 360,
+      "w": 134,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 134,
+      "sourceH": 46
+    },
+    "titan_hole_main_level_imacure_png": {
+      "x": 941,
+      "y": 415,
+      "w": 60,
+      "h": 60,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 60,
+      "sourceH": 60
+    },
+    "titan_hole_main_level_imaover_png": {
+      "x": 263,
+      "y": 421,
+      "w": 87,
+      "h": 34,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 87,
+      "sourceH": 34
+    },
+    "titan_hole_main_level_imapet_png": {
+      "x": 805,
+      "y": 419,
+      "w": 60,
+      "h": 60,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 60,
+      "sourceH": 60
+    },
+    "titan_hole_main_level_imareward_png": {
+      "x": 738,
+      "y": 104,
+      "w": 208,
+      "h": 72,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 208,
+      "sourceH": 72
+    },
+    "titan_hole_main_level_ima_mine_png": {
+      "x": 499,
+      "y": 375,
+      "w": 134,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 134,
+      "sourceH": 46
+    },
+    "titan_hole_main_level_info_bg_png": {
+      "x": 1,
+      "y": 1,
+      "w": 254,
+      "h": 324,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 254,
+      "sourceH": 324
+    },
+    "titan_hole_main_level_level3_bg_png": {
+      "x": 363,
+      "y": 347,
+      "w": 413,
+      "h": 26,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 413,
+      "sourceH": 26
+    },
+    "titan_hole_main_lock_png": {
+      "x": 1001,
+      "y": 46,
+      "w": 17,
+      "h": 21,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 17,
+      "sourceH": 21
+    },
+    "titan_hole_main_mode_bg_png": {
+      "x": 576,
+      "y": 288,
+      "w": 211,
+      "h": 57,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 211,
+      "sourceH": 57
+    },
+    "titan_hole_main_mode_mask_png": {
+      "x": 363,
+      "y": 288,
+      "w": 211,
+      "h": 57,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 211,
+      "sourceH": 57
+    },
+    "titan_hole_main_reward_pop_btnclose_png": {
+      "x": 973,
+      "y": 247,
+      "w": 33,
+      "h": 33,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 33,
+      "sourceH": 33
+    },
+    "titan_hole_main_reward_pop_itembg_png": {
+      "x": 257,
+      "y": 288,
+      "w": 104,
+      "h": 131,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 104,
+      "sourceH": 131
+    },
+    "titan_hole_main_selected_png": {
+      "x": 456,
+      "y": 423,
+      "w": 47,
+      "h": 47,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 47,
+      "sourceH": 47
+    },
+    "titan_hole_main_tipsbg_png": {
+      "x": 257,
+      "y": 255,
+      "w": 714,
+      "h": 31,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 714,
+      "sourceH": 31
+    },
+    "titan_hole_main_title1_png": {
+      "x": 497,
+      "y": 228,
+      "w": 202,
+      "h": 24,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 202,
+      "sourceH": 24
+    },
+    "titan_hole_main_title3_png": {
+      "x": 1,
+      "y": 408,
+      "w": 202,
+      "h": 24,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 202,
+      "sourceH": 24
+    },
+    "titan_hole_main_top_bg_png": {
+      "x": 497,
+      "y": 1,
+      "w": 287,
+      "h": 76,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 287,
+      "sourceH": 76
+    },
+    "titan_hole_main_txttimebg_png": {
+      "x": 1,
+      "y": 327,
+      "w": 219,
+      "h": 31,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 219,
+      "sourceH": 31
+    },
+    "titan_hole_main_wipe_png": {
+      "x": 1001,
+      "y": 24,
+      "w": 18,
+      "h": 20,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 18,
+      "sourceH": 20
+    }
+  }
+}

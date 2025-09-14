@@ -1,0 +1,653 @@
+{
+  "frameRate": 24,
+  "name": "1046",
+  "version": "5.5",
+  "compatibleVersion": "5.5",
+  "armature": [
+    {
+      "name": "anim",
+      "bone": [
+        {
+          "inheritScale": false,
+          "name": "图层 9",
+          "transform": {
+            "x": 1.75,
+            "y": 15.05,
+            "scX": 1.2856,
+            "scY": 2.1199
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "Layer 63",
+          "transform": {
+            "x": 0.8,
+            "y": -4.15
+          }
+        }
+      ],
+      "slot": [
+        {
+          "name": "图层 9",
+          "parent": "图层 9"
+        },
+        {
+          "name": "Layer 63",
+          "parent": "Layer 63"
+        }
+      ],
+      "skin": [
+        {
+          "slot": [
+            {
+              "name": "图层 9",
+              "display": [
+                {
+                  "name": "hjgkv",
+                  "transform": {
+                    "x": -0.5,
+                    "y": 0.9
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Layer 63",
+              "display": [
+                {
+                  "name": "__dbTextures/anim/Layer 63_0",
+                  "transform": {
+                    "x": 0.1,
+                    "y": 0.3
+                  }
+                },
+                {
+                  "name": "__dbTextures/anim/Layer 63_3",
+                  "transform": {
+                    "x": 0.1,
+                    "y": 0.2
+                  }
+                },
+                {
+                  "name": "__dbTextures/anim/Layer 63_6",
+                  "transform": {
+                    "x": 0.1,
+                    "y": 0.05
+                  }
+                },
+                {
+                  "name": "__dbTextures/anim/Layer 63_9",
+                  "transform": {
+                    "x": 0.1,
+                    "y": 0.2
+                  }
+                },
+                {
+                  "name": "__dbTextures/anim/Layer 63_12",
+                  "transform": {
+                    "x": 0.2,
+                    "y": 0.2
+                  }
+                },
+                {
+                  "name": "__dbTextures/anim/Layer 63_15",
+                  "transform": {
+                    "x": 0.2,
+                    "y": 0.15
+                  }
+                },
+                {
+                  "name": "__dbTextures/anim/Layer 63_18",
+                  "transform": {
+                    "x": 0.2,
+                    "y": 0.15
+                  }
+                },
+                {
+                  "name": "__dbTextures/anim/Layer 63_21",
+                  "transform": {
+                    "x": 0.2,
+                    "y": 0.15
+                  }
+                },
+                {
+                  "name": "__dbTextures/anim/Layer 63_24",
+                  "transform": {
+                    "x": 0.25,
+                    "y": 0.1
+                  }
+                },
+                {
+                  "name": "__dbTextures/anim/Layer 63_27",
+                  "transform": {
+                    "x": 0.25,
+                    "y": 0.4
+                  }
+                },
+                {
+                  "name": "__dbTextures/anim/Layer 63_30",
+                  "transform": {
+                    "x": 0.25,
+                    "y": 0.1
+                  }
+                },
+                {
+                  "name": "__dbTextures/anim/Layer 63_33",
+                  "transform": {
+                    "x": 0.25,
+                    "y": 0.4
+                  }
+                },
+                {
+                  "name": "__dbTextures/anim/Layer 63_36",
+                  "transform": {
+                    "x": 0.1,
+                    "y": 0.3
+                  }
+                },
+                {
+                  "name": "__dbTextures/anim/Layer 63_39",
+                  "transform": {
+                    "x": 0.1,
+                    "y": 0.2
+                  }
+                },
+                {
+                  "name": "__dbTextures/anim/Layer 63_42",
+                  "transform": {
+                    "x": 0.1,
+                    "y": 0.05
+                  }
+                },
+                {
+                  "name": "__dbTextures/anim/Layer 63_45",
+                  "transform": {
+                    "x": 0.1,
+                    "y": 0.2
+                  }
+                },
+                {
+                  "name": "__dbTextures/anim/Layer 63_48",
+                  "transform": {
+                    "x": 0.2,
+                    "y": 0.2
+                  }
+                },
+                {
+                  "name": "__dbTextures/anim/Layer 63_51",
+                  "transform": {
+                    "x": 0.2,
+                    "y": 0.15
+                  }
+                },
+                {
+                  "name": "__dbTextures/anim/Layer 63_54",
+                  "transform": {
+                    "x": 0.2,
+                    "y": 0.15
+                  }
+                },
+                {
+                  "name": "__dbTextures/anim/Layer 63_57",
+                  "transform": {
+                    "x": 0.2,
+                    "y": 0.15
+                  }
+                },
+                {
+                  "name": "__dbTextures/anim/Layer 63_60",
+                  "transform": {
+                    "x": 0.25,
+                    "y": 0.1
+                  }
+                },
+                {
+                  "name": "__dbTextures/anim/Layer 63_63",
+                  "transform": {
+                    "x": 0.25,
+                    "y": 0.4
+                  }
+                },
+                {
+                  "name": "__dbTextures/anim/Layer 63_66",
+                  "transform": {
+                    "x": 0.25,
+                    "y": 0.1
+                  }
+                },
+                {
+                  "name": "__dbTextures/anim/Layer 63_69",
+                  "transform": {
+                    "x": 0.25,
+                    "y": 0.4
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "animation": [
+        {
+          "duration": 12,
+          "name": "down",
+          "bone": [
+            {
+              "name": "图层 9",
+              "scaleFrame": [
+                {
+                  "duration": 12
+                }
+              ]
+            },
+            {
+              "name": "Layer 63",
+              "translateFrame": [
+                {
+                  "duration": 3
+                },
+                {
+                  "duration": 3,
+                  "y": -0.65
+                },
+                {
+                  "duration": 3,
+                  "y": -1.25
+                },
+                {
+                  "duration": 3,
+                  "y": -0.65
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 12
+                }
+              ]
+            }
+          ],
+          "slot": [
+            {
+              "name": "Layer 63",
+              "displayFrame": [
+                {
+                  "duration": 3
+                },
+                {
+                  "duration": 3,
+                  "value": 1
+                },
+                {
+                  "duration": 3,
+                  "value": 2
+                },
+                {
+                  "duration": 3,
+                  "value": 3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "duration": 12,
+          "name": "rightdown",
+          "bone": [
+            {
+              "name": "图层 9",
+              "translateFrame": [
+                {
+                  "duration": 12,
+                  "x": -2.05,
+                  "y": -2.1
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 12
+                }
+              ]
+            },
+            {
+              "name": "Layer 63",
+              "translateFrame": [
+                {
+                  "duration": 3,
+                  "x": -1.5,
+                  "y": -1.2
+                },
+                {
+                  "duration": 3,
+                  "x": -1.5,
+                  "y": -1.75
+                },
+                {
+                  "duration": 3,
+                  "x": -1.5,
+                  "y": -2.25
+                },
+                {
+                  "duration": 3,
+                  "x": -1.5,
+                  "y": -1.75
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 12
+                }
+              ]
+            }
+          ],
+          "slot": [
+            {
+              "name": "Layer 63",
+              "displayFrame": [
+                {
+                  "duration": 3,
+                  "value": 4
+                },
+                {
+                  "duration": 3,
+                  "value": 5
+                },
+                {
+                  "duration": 3,
+                  "value": 6
+                },
+                {
+                  "duration": 3,
+                  "value": 7
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "duration": 12,
+          "name": "rightup",
+          "bone": [
+            {
+              "name": "图层 9",
+              "translateFrame": [
+                {
+                  "duration": 12,
+                  "x": 1.4,
+                  "y": -8.85
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 12
+                }
+              ]
+            },
+            {
+              "name": "Layer 63",
+              "translateFrame": [
+                {
+                  "duration": 3,
+                  "x": 3.6,
+                  "y": -6.75
+                },
+                {
+                  "duration": 3,
+                  "x": 3.6,
+                  "y": -7.15
+                },
+                {
+                  "duration": 3,
+                  "x": 3.6,
+                  "y": -7.5
+                },
+                {
+                  "duration": 3,
+                  "x": 3.6,
+                  "y": -7.15
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 12
+                }
+              ]
+            }
+          ],
+          "slot": [
+            {
+              "name": "Layer 63",
+              "displayFrame": [
+                {
+                  "duration": 3,
+                  "value": 8
+                },
+                {
+                  "duration": 3,
+                  "value": 9
+                },
+                {
+                  "duration": 3,
+                  "value": 10
+                },
+                {
+                  "duration": 3,
+                  "value": 11
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "duration": 12,
+          "name": "downWalk",
+          "bone": [
+            {
+              "name": "图层 9",
+              "scaleFrame": [
+                {
+                  "duration": 12
+                }
+              ]
+            },
+            {
+              "name": "Layer 63",
+              "translateFrame": [
+                {
+                  "duration": 3
+                },
+                {
+                  "duration": 3,
+                  "y": -0.65
+                },
+                {
+                  "duration": 3,
+                  "y": -1.25
+                },
+                {
+                  "duration": 3,
+                  "y": -0.65
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 12
+                }
+              ]
+            }
+          ],
+          "slot": [
+            {
+              "name": "Layer 63",
+              "displayFrame": [
+                {
+                  "duration": 3,
+                  "value": 12
+                },
+                {
+                  "duration": 3,
+                  "value": 13
+                },
+                {
+                  "duration": 3,
+                  "value": 14
+                },
+                {
+                  "duration": 3,
+                  "value": 15
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "duration": 12,
+          "name": "rightdownWalk",
+          "bone": [
+            {
+              "name": "图层 9",
+              "translateFrame": [
+                {
+                  "duration": 12,
+                  "x": -2.05,
+                  "y": -2.1
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 12
+                }
+              ]
+            },
+            {
+              "name": "Layer 63",
+              "translateFrame": [
+                {
+                  "duration": 3,
+                  "x": -1.5,
+                  "y": -1.2
+                },
+                {
+                  "duration": 3,
+                  "x": -1.5,
+                  "y": -1.75
+                },
+                {
+                  "duration": 3,
+                  "x": -1.5,
+                  "y": -2.25
+                },
+                {
+                  "duration": 3,
+                  "x": -1.5,
+                  "y": -1.75
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 12
+                }
+              ]
+            }
+          ],
+          "slot": [
+            {
+              "name": "Layer 63",
+              "displayFrame": [
+                {
+                  "duration": 3,
+                  "value": 16
+                },
+                {
+                  "duration": 3,
+                  "value": 17
+                },
+                {
+                  "duration": 3,
+                  "value": 18
+                },
+                {
+                  "duration": 3,
+                  "value": 19
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "duration": 12,
+          "name": "rightupWalk",
+          "bone": [
+            {
+              "name": "图层 9",
+              "translateFrame": [
+                {
+                  "duration": 12,
+                  "x": 1.4,
+                  "y": -8.85
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 12
+                }
+              ]
+            },
+            {
+              "name": "Layer 63",
+              "translateFrame": [
+                {
+                  "duration": 3,
+                  "x": 3.6,
+                  "y": -6.75
+                },
+                {
+                  "duration": 3,
+                  "x": 3.6,
+                  "y": -7.15
+                },
+                {
+                  "duration": 3,
+                  "x": 3.6,
+                  "y": -7.5
+                },
+                {
+                  "duration": 3,
+                  "x": 3.6,
+                  "y": -7.15
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 12
+                }
+              ]
+            }
+          ],
+          "slot": [
+            {
+              "name": "Layer 63",
+              "displayFrame": [
+                {
+                  "duration": 3,
+                  "value": 20
+                },
+                {
+                  "duration": 3,
+                  "value": 21
+                },
+                {
+                  "duration": 3,
+                  "value": 22
+                },
+                {
+                  "duration": 3,
+                  "value": 23
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

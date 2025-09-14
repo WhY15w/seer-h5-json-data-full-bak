@@ -1,0 +1,30 @@
+{
+  "resources": [
+    {
+      "type": "json",
+      "url": "430.json",
+      "name": "road_430"
+    },
+    {
+      "type": "text",
+      "url": "Map430Skin.exml",
+      "name": "exml_430"
+    },
+    {
+      "type": "image",
+      "url": "map_430_bg_mc.jpg",
+      "name": "map_430_bg_mc_jpg"
+    },
+    {
+      "type": "image",
+      "url": "map_430_penquan1231.png",
+      "name": "map_430_penquan1231_png"
+    }
+  ],
+  "groups": [
+    {
+      "keys": "road_430,exml_430,map_430_bg_mc_jpg,map_430_penquan1231_png",
+      "name": "map_430"
+    }
+  ]
+}

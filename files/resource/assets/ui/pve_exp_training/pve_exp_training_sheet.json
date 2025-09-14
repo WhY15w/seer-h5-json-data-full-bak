@@ -1,0 +1,405 @@
+{
+  "file": "pve_exp_training_sheet.png",
+  "frames": {
+    "pve_exp_training_boss_item_imgbg_png": {
+      "x": 844,
+      "y": 124,
+      "w": 106,
+      "h": 106,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 106,
+      "sourceH": 106
+    },
+    "pve_exp_training_boss_item_imgboss_png": {
+      "x": 237,
+      "y": 949,
+      "w": 112,
+      "h": 32,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 112,
+      "sourceH": 32
+    },
+    "pve_exp_training_boss_item_imgdefeated_png": {
+      "x": 904,
+      "y": 728,
+      "w": 100,
+      "h": 100,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 100,
+      "sourceH": 100
+    },
+    "pve_exp_training_boss_item_imglocked_png": {
+      "x": 904,
+      "y": 830,
+      "w": 100,
+      "h": 100,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 100,
+      "sourceH": 100
+    },
+    "pve_exp_training_boss_item_imgselected_png": {
+      "x": 844,
+      "y": 1,
+      "w": 121,
+      "h": 121,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 121,
+      "sourceH": 121
+    },
+    "pve_exp_training_btnback_png": {
+      "x": 967,
+      "y": 59,
+      "w": 28,
+      "h": 38,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 28,
+      "sourceH": 38
+    },
+    "pve_exp_training_btncure_png": {
+      "x": 952,
+      "y": 124,
+      "w": 60,
+      "h": 60,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 60,
+      "sourceH": 60
+    },
+    "pve_exp_training_btnfastfight_png": {
+      "x": 751,
+      "y": 837,
+      "w": 134,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 134,
+      "sourceH": 46
+    },
+    "pve_exp_training_btnfight_png": {
+      "x": 615,
+      "y": 837,
+      "w": 134,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 134,
+      "sourceH": 46
+    },
+    "pve_exp_training_btnhelp_png": {
+      "x": 997,
+      "y": 59,
+      "w": 24,
+      "h": 28,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 24,
+      "sourceH": 28
+    },
+    "pve_exp_training_btnpet_png": {
+      "x": 959,
+      "y": 186,
+      "w": 60,
+      "h": 60,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 60,
+      "sourceH": 60
+    },
+    "pve_exp_training_imgbox_png": {
+      "x": 967,
+      "y": 27,
+      "w": 36,
+      "h": 30,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 36,
+      "sourceH": 30
+    },
+    "pve_exp_training_imgboxbg_png": {
+      "x": 240,
+      "y": 894,
+      "w": 413,
+      "h": 27,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 413,
+      "sourceH": 27
+    },
+    "pve_exp_training_imgitem1_png": {
+      "x": 959,
+      "y": 248,
+      "w": 34,
+      "h": 31,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 34,
+      "sourceH": 31
+    },
+    "pve_exp_training_imgitem1bg_png": {
+      "x": 829,
+      "y": 932,
+      "w": 181,
+      "h": 22,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 181,
+      "sourceH": 22
+    },
+    "pve_exp_training_imgitem2_png": {
+      "x": 959,
+      "y": 315,
+      "w": 31,
+      "h": 33,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 31,
+      "sourceH": 33
+    },
+    "pve_exp_training_imgitem2bg_png": {
+      "x": 616,
+      "y": 930,
+      "w": 211,
+      "h": 22,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 211,
+      "sourceH": 22
+    },
+    "pve_exp_training_imglevelbg_png": {
+      "x": 1,
+      "y": 949,
+      "w": 234,
+      "h": 17,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 234,
+      "sourceH": 17
+    },
+    "pve_exp_training_imglevelmenubg_png": {
+      "x": 1,
+      "y": 246,
+      "w": 304,
+      "h": 572,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 304,
+      "sourceH": 572
+    },
+    "pve_exp_training_imgrightbg_png": {
+      "x": 1,
+      "y": 1,
+      "w": 841,
+      "h": 243,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 841,
+      "sourceH": 243
+    },
+    "pve_exp_training_imgswitchoff_png": {
+      "x": 967,
+      "y": 99,
+      "w": 44,
+      "h": 20,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 44,
+      "sourceH": 20
+    },
+    "pve_exp_training_imgswitchon_png": {
+      "x": 967,
+      "y": 1,
+      "w": 46,
+      "h": 24,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 46,
+      "sourceH": 24
+    },
+    "pve_exp_training_imgtitle_png": {
+      "x": 655,
+      "y": 885,
+      "w": 140,
+      "h": 43,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 140,
+      "sourceH": 43
+    },
+    "pve_exp_training_imgtitlebg_png": {
+      "x": 615,
+      "y": 759,
+      "w": 287,
+      "h": 76,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 287,
+      "sourceH": 76
+    },
+    "pve_exp_training_level_menu_item_imgdefeated_png": {
+      "x": 959,
+      "y": 281,
+      "w": 32,
+      "h": 32,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 32,
+      "sourceH": 32
+    },
+    "pve_exp_training_level_menu_item_imgfastfight_png": {
+      "x": 995,
+      "y": 248,
+      "w": 27,
+      "h": 31,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 27,
+      "sourceH": 31
+    },
+    "pve_exp_training_level_menu_item_imgisfighting_png": {
+      "x": 992,
+      "y": 315,
+      "w": 31,
+      "h": 32,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 31,
+      "sourceH": 32
+    },
+    "pve_exp_training_level_menu_item_imglock_png": {
+      "x": 789,
+      "y": 588,
+      "w": 220,
+      "h": 68,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 220,
+      "sourceH": 68
+    },
+    "pve_exp_training_level_menu_item_imgselected_png": {
+      "x": 1,
+      "y": 820,
+      "w": 237,
+      "h": 86,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 237,
+      "sourceH": 86
+    },
+    "pve_exp_training_level_menu_item_imgunlock_png": {
+      "x": 789,
+      "y": 658,
+      "w": 220,
+      "h": 68,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 220,
+      "sourceH": 68
+    },
+    "pve_exp_training_rewarditem1_png": {
+      "x": 959,
+      "y": 350,
+      "w": 29,
+      "h": 28,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 29,
+      "sourceH": 28
+    },
+    "pve_exp_training_rewarditem2_png": {
+      "x": 993,
+      "y": 281,
+      "w": 29,
+      "h": 28,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 29,
+      "sourceH": 28
+    },
+    "pve_exp_training_rewarditem3_png": {
+      "x": 992,
+      "y": 349,
+      "w": 29,
+      "h": 28,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 29,
+      "sourceH": 28
+    },
+    "pve_exp_training_txttitle1_png": {
+      "x": 411,
+      "y": 923,
+      "w": 203,
+      "h": 24,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 203,
+      "sourceH": 24
+    },
+    "pve_exp_training_txttitle2_png": {
+      "x": 1,
+      "y": 908,
+      "w": 203,
+      "h": 24,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 203,
+      "sourceH": 24
+    },
+    "pve_exp_training_txttitle3_png": {
+      "x": 206,
+      "y": 923,
+      "w": 203,
+      "h": 24,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 203,
+      "sourceH": 24
+    },
+    "pve_exp_training_xianlu0_png": {
+      "x": 307,
+      "y": 246,
+      "w": 650,
+      "h": 169,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 650,
+      "sourceH": 169
+    },
+    "pve_exp_training_xianlu1_png": {
+      "x": 307,
+      "y": 417,
+      "w": 650,
+      "h": 169,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 650,
+      "sourceH": 169
+    },
+    "pve_exp_training_xianlu2_png": {
+      "x": 307,
+      "y": 588,
+      "w": 480,
+      "h": 169,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 480,
+      "sourceH": 169
+    },
+    "pve_exp_training_xianlu3_png": {
+      "x": 307,
+      "y": 759,
+      "w": 306,
+      "h": 133,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 306,
+      "sourceH": 133
+    }
+  }
+}

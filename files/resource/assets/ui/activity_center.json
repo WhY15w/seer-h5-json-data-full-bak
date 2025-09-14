@@ -1,0 +1,16 @@
+{
+  "groups": [
+    {
+      "name": "activity_center",
+      "keys": "activity_center_sheet"
+    }
+  ],
+  "resources": [
+    {
+      "name": "activity_center_sheet",
+      "type": "sheet",
+      "url": "activity_center/activity_center_sheet.json",
+      "subkeys": "activity_center_juxing_313_png,activity_center_main_panel2_btnback_png,activity_center_main_panel2_dot_png,activity_center_main_panel2_heise_png,activity_center_main_panel2_juxing_1_png,activity_center_main_panel2_selected_png,activity_center_main_panel2_txt_title_png,activity_center_main_panel2_xian_png,main_qyhb_down_png,main_qyhb_up_png,main_wlhb_down_png,main_wlhb_up_png,main_xyhb_down_png,main_xyhb_up_png"
+    }
+  ]
+}

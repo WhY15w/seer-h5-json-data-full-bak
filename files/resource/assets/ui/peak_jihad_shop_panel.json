@@ -1,0 +1,16 @@
+{
+  "groups": [
+    {
+      "name": "peak_jihad_shop_panel",
+      "keys": "peak_jihad_shop_panel_sheet"
+    }
+  ],
+  "resources": [
+    {
+      "name": "peak_jihad_shop_panel_sheet",
+      "type": "sheet",
+      "url": "peak_jihad_shop_panel/peak_jihad_shop_panel_sheet.json",
+      "subkeys": "peak_jihad_shop_panel_baoshi_down_png,peak_jihad_shop_panel_baoshi_up_png,peak_jihad_shop_panel_btninfo_png,peak_jihad_shop_panel_gotpet_png,peak_jihad_shop_panel_itembg_png,peak_jihad_shop_panel_itembtnbg_png,peak_jihad_shop_panel_itembuyno_png,peak_jihad_shop_panel_itemnamebg_png,peak_jihad_shop_panel_itemsalebg_png,peak_jihad_shop_panel_item_num_bg_png,peak_jihad_shop_panel_linedone_png,peak_jihad_shop_panel_petbg_png,peak_jihad_shop_panel_petbg2_png,peak_jihad_shop_panel_pettimebg_png,peak_jihad_shop_panel_timebg_png,peak_jihad_shop_panel_title_png,peak_jihad_shop_panel_zbk_png"
+    }
+  ]
+}

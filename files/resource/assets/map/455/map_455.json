@@ -1,0 +1,35 @@
+{
+  "groups": [
+    {
+      "keys": "road_455,exml_455,map_455_bg_mc_jpg,map_455_zhuzi_png,map_455_top_mc_png",
+      "name": "map_455"
+    }
+  ],
+  "resources": [
+    {
+      "type": "json",
+      "url": "455.json",
+      "name": "road_455"
+    },
+    {
+      "type": "text",
+      "url": "Map455Skin.exml",
+      "name": "exml_455"
+    },
+    {
+      "type": "image",
+      "url": "map_455_bg_mc.jpg",
+      "name": "map_455_bg_mc_jpg"
+    },
+    {
+      "type": "image",
+      "url": "map_455_zhuzi.png",
+      "name": "map_455_zhuzi_png"
+    },
+    {
+      "type": "image",
+      "url": "map_455_top_mc.png",
+      "name": "map_455_top_mc_png"
+    }
+  ]
+}

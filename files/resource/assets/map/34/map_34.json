@@ -1,0 +1,95 @@
+{
+  "groups": [
+    {
+      "keys": "road_34,exml_34,map_34_bg_mc_png,map_34_zhuzi2_png,map_34_shu_png,map_34_zhuzi3_png,map_34_zhuzi14_png,map_34_zhuzi1_png,map_34_control_mc_png,map_34_matter_2_png,map_34_matter_5_png,map_34_matter_0_png,map_34_matter_1_png,map_34_matter_4_png,map_34_matter_3_png,map_34_chosSuccseMC_png,map_34_top_mc_png",
+      "name": "map_34"
+    }
+  ],
+  "resources": [
+    {
+      "type": "json",
+      "url": "34.json",
+      "name": "road_34"
+    },
+    {
+      "type": "text",
+      "url": "Map34Skin.exml",
+      "name": "exml_34"
+    },
+    {
+      "type": "image",
+      "url": "map_34_bg_mc.png",
+      "name": "map_34_bg_mc_png"
+    },
+    {
+      "type": "image",
+      "url": "map_34_zhuzi2.png",
+      "name": "map_34_zhuzi2_png"
+    },
+    {
+      "type": "image",
+      "url": "map_34_shu.png",
+      "name": "map_34_shu_png"
+    },
+    {
+      "type": "image",
+      "url": "map_34_zhuzi3.png",
+      "name": "map_34_zhuzi3_png"
+    },
+    {
+      "type": "image",
+      "url": "map_34_zhuzi14.png",
+      "name": "map_34_zhuzi14_png"
+    },
+    {
+      "type": "image",
+      "url": "map_34_zhuzi1.png",
+      "name": "map_34_zhuzi1_png"
+    },
+    {
+      "type": "image",
+      "url": "map_34_control_mc.png",
+      "name": "map_34_control_mc_png"
+    },
+    {
+      "type": "image",
+      "url": "map_34_matter_2.png",
+      "name": "map_34_matter_2_png"
+    },
+    {
+      "type": "image",
+      "url": "map_34_matter_5.png",
+      "name": "map_34_matter_5_png"
+    },
+    {
+      "type": "image",
+      "url": "map_34_matter_0.png",
+      "name": "map_34_matter_0_png"
+    },
+    {
+      "type": "image",
+      "url": "map_34_matter_1.png",
+      "name": "map_34_matter_1_png"
+    },
+    {
+      "type": "image",
+      "url": "map_34_matter_4.png",
+      "name": "map_34_matter_4_png"
+    },
+    {
+      "type": "image",
+      "url": "map_34_matter_3.png",
+      "name": "map_34_matter_3_png"
+    },
+    {
+      "type": "image",
+      "url": "map_34_chosSuccseMC.png",
+      "name": "map_34_chosSuccseMC_png"
+    },
+    {
+      "type": "image",
+      "url": "map_34_top_mc.png",
+      "name": "map_34_top_mc_png"
+    }
+  ]
+}

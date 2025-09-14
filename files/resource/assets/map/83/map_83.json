@@ -1,0 +1,25 @@
+{
+  "resources": [
+    {
+      "type": "json",
+      "url": "83.json",
+      "name": "road_83"
+    },
+    {
+      "type": "text",
+      "url": "Map83Skin.exml",
+      "name": "exml_83"
+    },
+    {
+      "type": "image",
+      "url": "map_83_bg_mc.jpg",
+      "name": "map_83_bg_mc_jpg"
+    }
+  ],
+  "groups": [
+    {
+      "keys": "road_83,exml_83,map_83_bg_mc_jpg",
+      "name": "map_83"
+    }
+  ]
+}

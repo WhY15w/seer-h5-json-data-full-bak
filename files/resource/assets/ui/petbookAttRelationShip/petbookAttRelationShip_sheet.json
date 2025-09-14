@@ -1,0 +1,265 @@
+{
+  "file": "petbookAttRelationShip_sheet.png",
+  "frames": {
+    "PetbookAttItemRender_box1_png": {
+      "x": 1990,
+      "y": 140,
+      "w": 50,
+      "h": 15,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 50,
+      "sourceH": 15
+    },
+    "PetbookAttItemRender_box2_png": {
+      "x": 1981,
+      "y": 296,
+      "w": 50,
+      "h": 15,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 50,
+      "sourceH": 15
+    },
+    "PetbookAttItemRender_box3_png": {
+      "x": 1990,
+      "y": 123,
+      "w": 50,
+      "h": 15,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 50,
+      "sourceH": 15
+    },
+    "PetbookAttRelationShipatk_down_png": {
+      "x": 1487,
+      "y": 320,
+      "w": 101,
+      "h": 35,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 101,
+      "sourceH": 35
+    },
+    "PetbookAttRelationShipatk_up_png": {
+      "x": 1590,
+      "y": 320,
+      "w": 101,
+      "h": 35,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 101,
+      "sourceH": 35
+    },
+    "PetbookAttRelationShipdefence_down_png": {
+      "x": 1775,
+      "y": 287,
+      "w": 101,
+      "h": 35,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 101,
+      "sourceH": 35
+    },
+    "PetbookAttRelationShipdefence_up_png": {
+      "x": 1878,
+      "y": 296,
+      "w": 101,
+      "h": 35,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 101,
+      "sourceH": 35
+    },
+    "PetbookAttRelationShipdouble_down_png": {
+      "x": 1583,
+      "y": 278,
+      "w": 94,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 94,
+      "sourceH": 40
+    },
+    "PetbookAttRelationShipdouble_up_png": {
+      "x": 1679,
+      "y": 278,
+      "w": 94,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 94,
+      "sourceH": 40
+    },
+    "PetbookAttRelationShipsingle_down_png": {
+      "x": 1813,
+      "y": 203,
+      "w": 94,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 94,
+      "sourceH": 40
+    },
+    "PetbookAttRelationShipsingle_up_png": {
+      "x": 1813,
+      "y": 245,
+      "w": 94,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 94,
+      "sourceH": 40
+    },
+    "PetbookAttRelationShip_allBtn_png": {
+      "x": 2003,
+      "y": 1,
+      "w": 28,
+      "h": 20,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 28,
+      "sourceH": 20
+    },
+    "PetbookAttRelationShip_b3_png": {
+      "x": 1909,
+      "y": 254,
+      "w": 94,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 94,
+      "sourceH": 40
+    },
+    "PetbookAttRelationShip_b4_png": {
+      "x": 1487,
+      "y": 278,
+      "w": 94,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 94,
+      "sourceH": 40
+    },
+    "PetbookAttRelationShip_bg_png": {
+      "x": 1,
+      "y": 1,
+      "w": 778,
+      "h": 462,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 778,
+      "sourceH": 462
+    },
+    "PetbookAttRelationShip_bg1_png": {
+      "x": 781,
+      "y": 1,
+      "w": 704,
+      "h": 340,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 704,
+      "sourceH": 340
+    },
+    "PetbookAttRelationShip_bg2_png": {
+      "x": 1915,
+      "y": 157,
+      "w": 132,
+      "h": 31,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 132,
+      "sourceH": 31
+    },
+    "PetbookAttRelationShip_bg3_png": {
+      "x": 1487,
+      "y": 1,
+      "w": 324,
+      "h": 275,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 324,
+      "sourceH": 275
+    },
+    "PetbookAttRelationShip_closeBtn_png": {
+      "x": 1813,
+      "y": 157,
+      "w": 100,
+      "h": 44,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 100,
+      "sourceH": 44
+    },
+    "PetbookAttRelationShip_img_column_png": {
+      "x": 2033,
+      "y": 190,
+      "w": 1,
+      "h": 188,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 1,
+      "sourceH": 188
+    },
+    "PetbookAttRelationShip_img_line_png": {
+      "x": 1693,
+      "y": 333,
+      "w": 189,
+      "h": 1,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 189,
+      "sourceH": 1
+    },
+    "PetbookAttRelationShip_Line_png": {
+      "x": 781,
+      "y": 343,
+      "w": 647,
+      "h": 2,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 647,
+      "sourceH": 2
+    },
+    "PetbookAttRelationShip_ShuXingKeZhiZongLanBiao_png": {
+      "x": 1813,
+      "y": 123,
+      "w": 175,
+      "h": 32,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 175,
+      "sourceH": 32
+    },
+    "PetbookAttSelectItemRender_bg_png": {
+      "x": 1979,
+      "y": 190,
+      "w": 50,
+      "h": 50,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 50,
+      "sourceH": 50
+    },
+    "PetbookAttSelectItemRender_flag_png": {
+      "x": 1915,
+      "y": 190,
+      "w": 62,
+      "h": 62,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 62,
+      "sourceH": 62
+    },
+    "PetbookAttSelectItemRender_txt_None_png": {
+      "x": 1813,
+      "y": 1,
+      "w": 188,
+      "h": 120,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 188,
+      "sourceH": 120
+    }
+  }
+}

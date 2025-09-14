@@ -1,0 +1,25 @@
+{
+  "resources": [
+    {
+      "type": "json",
+      "url": "730.json",
+      "name": "road_730"
+    },
+    {
+      "type": "text",
+      "url": "Map730Skin.exml",
+      "name": "exml_730"
+    },
+    {
+      "type": "image",
+      "url": "map_730_bg_mc.jpg",
+      "name": "map_730_bg_mc_jpg"
+    }
+  ],
+  "groups": [
+    {
+      "keys": "road_730,exml_730,map_730_bg_mc_jpg",
+      "name": "map_730"
+    }
+  ]
+}

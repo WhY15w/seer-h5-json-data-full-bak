@@ -1,0 +1,31 @@
+{
+  "groups": [
+    {
+      "name": "guide_feture_pets_out_put",
+      "keys": "fsanzhuchong_atlas,fsanzhuchong_json,fsanzhuchong_png"
+    }
+  ],
+  "resources": [
+    {
+      "name": "fsanzhuchong_atlas",
+      "type": "text",
+      "url": "guide_feture_pets_out_put/fsanzhuchong.atlas"
+    },
+    {
+      "name": "fsanzhuchong_json",
+      "type": "json",
+      "url": "guide_feture_pets_out_put/fsanzhuchong.json"
+    },
+    {
+      "name": "fsanzhuchong_png",
+      "type": "image",
+      "url": "guide_feture_pets_out_put/fsanzhuchong.png"
+    },
+    {
+      "name": "guide_feture_pets_out_put_sheet",
+      "type": "sheet",
+      "url": "guide_feture_pets_out_put/guide_feture_pets_out_put_sheet.json",
+      "subkeys": ""
+    }
+  ]
+}

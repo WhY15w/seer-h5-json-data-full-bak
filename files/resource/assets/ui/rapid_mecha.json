@@ -1,0 +1,21 @@
+{
+  "groups": [
+    {
+      "name": "rapid_mecha",
+      "keys": "rapid_mecha_sheet,rm_main_panel_bg_jpg"
+    }
+  ],
+  "resources": [
+    {
+      "name": "rm_main_panel_bg_jpg",
+      "type": "image",
+      "url": "rapid_mecha/rm_main_panel_bg.jpg"
+    },
+    {
+      "name": "rapid_mecha_sheet",
+      "type": "sheet",
+      "url": "rapid_mecha/rapid_mecha_sheet.json",
+      "subkeys": "rm_main_panel_add_y_png,rm_main_panel_btnback_png,rm_main_panel_btnbuyget_png,rm_main_panel_btncure_png,rm_main_panel_btnfastbeat1_png,rm_main_panel_btnfastbeat3_png,rm_main_panel_btnget_png,rm_main_panel_btnhelp_png,rm_main_panel_btninfo_png,rm_main_panel_btnpet_png,rm_main_panel_btnstartbeat1_png,rm_main_panel_btnstartbeat2_png,rm_main_panel_btnstartbeat4_png,rm_main_panel_btnstartbeat5_png,rm_main_panel_img_1_png,rm_main_panel_img_2_png,rm_main_panel_img_di2_png,rm_main_panel_img_rdi_png,rm_main_panel_numbg_png,rm_main_panel_pet_png,rm_main_panel_topbg_png,rm_upgrade_pop_bg1_png,rm_upgrade_pop_btnbuy_png,rm_upgrade_pop_btnbuy2_png,rm_upgrade_pop_btnclose_png,rm_upgrade_pop_countbg_png,rm_upgrade_pop_icon_1_png,rm_upgrade_pop_icon_texing_kb_png,rm_upgrade_pop_img_1_png,rm_upgrade_pop_pet_png,rm_upgrade_pop_taggot_png,rm_upgrade_pop_txt_1_png,rm_upgrade_pop_txt_2_png,rm_upgrade_pop_txt_3_png,rm_upgrade_pop_txt_4_png,rm_upgrade_pop_wupinbg_png"
+    }
+  ]
+}

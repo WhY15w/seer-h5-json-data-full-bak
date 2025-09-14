@@ -1,0 +1,30 @@
+{
+  "resources": [
+    {
+      "type": "json",
+      "url": "812.json",
+      "name": "road_812"
+    },
+    {
+      "type": "text",
+      "url": "Map812Skin.exml",
+      "name": "exml_812"
+    },
+    {
+      "type": "image",
+      "url": "map_812_bg_mc.jpg",
+      "name": "map_812_bg_mc_jpg"
+    },
+    {
+      "type": "image",
+      "url": "map_812_top_mc.png",
+      "name": "map_812_top_mc_png"
+    }
+  ],
+  "groups": [
+    {
+      "keys": "road_812,exml_812,map_812_bg_mc_jpg,map_812_top_mc_png",
+      "name": "map_812"
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "groups": [
+    {
+      "name": "pet_level_panel",
+      "keys": "pet_level_panel_sheet,pet_level_panel_bg_jpg,pet_level_panel_bg_1_jpg,pet_level_panel_bg_2_jpg,pet_level_panel_bg_3_jpg,pet_level_panel_bg_4_jpg,pet_level_panel_bg_5_jpg,pve_level_panel_beast_1_png,pve_level_panel_beast_2_png,pve_level_panel_beast_3_png,pve_level_panel_beast_4_png,pve_level_panel_beast_5_png,pve_level_panel_beast_all_1_png,pve_level_panel_beast_all_2_png,pve_level_panel_beast_all_3_png,pve_level_panel_beast_all_4_png,pve_level_panel_beast_all_5_png,pve_level_panel_filter_pop_bg_png"
+    }
+  ],
+  "resources": [
+    {
+      "name": "pet_level_panel_bg_jpg",
+      "type": "image",
+      "url": "pet_level_panel/outside/pet_level_panel_bg.jpg"
+    },
+    {
+      "name": "pet_level_panel_bg_1_jpg",
+      "type": "image",
+      "url": "pet_level_panel/outside/pet_level_panel_bg_1.jpg"
+    },
+    {
+      "name": "pet_level_panel_bg_2_jpg",
+      "type": "image",
+      "url": "pet_level_panel/outside/pet_level_panel_bg_2.jpg"
+    },
+    {
+      "name": "pet_level_panel_bg_3_jpg",
+      "type": "image",
+      "url": "pet_level_panel/outside/pet_level_panel_bg_3.jpg"
+    },
+    {
+      "name": "pet_level_panel_bg_4_jpg",
+      "type": "image",
+      "url": "pet_level_panel/outside/pet_level_panel_bg_4.jpg"
+    },
+    {
+      "name": "pet_level_panel_bg_5_jpg",
+      "type": "image",
+      "url": "pet_level_panel/outside/pet_level_panel_bg_5.jpg"
+    },
+    {
+      "name": "pve_level_panel_beast_1_png",
+      "type": "image",
+      "url": "pet_level_panel/outside/pve_level_panel_beast_1.png"
+    },
+    {
+      "name": "pve_level_panel_beast_2_png",
+      "type": "image",
+      "url": "pet_level_panel/outside/pve_level_panel_beast_2.png"
+    },
+    {
+      "name": "pve_level_panel_beast_3_png",
+      "type": "image",
+      "url": "pet_level_panel/outside/pve_level_panel_beast_3.png"
+    },
+    {
+      "name": "pve_level_panel_beast_4_png",
+      "type": "image",
+      "url": "pet_level_panel/outside/pve_level_panel_beast_4.png"
+    },
+    {
+      "name": "pve_level_panel_beast_5_png",
+      "type": "image",
+      "url": "pet_level_panel/outside/pve_level_panel_beast_5.png"
+    },
+    {
+      "name": "pve_level_panel_beast_all_1_png",
+      "type": "image",
+      "url": "pet_level_panel/outside/pve_level_panel_beast_all_1.png"
+    },
+    {
+      "name": "pve_level_panel_beast_all_2_png",
+      "type": "image",
+      "url": "pet_level_panel/outside/pve_level_panel_beast_all_2.png"
+    },
+    {
+      "name": "pve_level_panel_beast_all_3_png",
+      "type": "image",
+      "url": "pet_level_panel/outside/pve_level_panel_beast_all_3.png"
+    },
+    {
+      "name": "pve_level_panel_beast_all_4_png",
+      "type": "image",
+      "url": "pet_level_panel/outside/pve_level_panel_beast_all_4.png"
+    },
+    {
+      "name": "pve_level_panel_beast_all_5_png",
+      "type": "image",
+      "url": "pet_level_panel/outside/pve_level_panel_beast_all_5.png"
+    },
+    {
+      "name": "pve_level_panel_filter_pop_bg_png",
+      "type": "image",
+      "url": "pet_level_panel/outside/pve_level_panel_filter_pop_bg.png"
+    },
+    {
+      "name": "pet_level_panel_sheet",
+      "type": "sheet",
+      "url": "pet_level_panel/pet_level_panel_sheet.json",
+      "subkeys": "pet_level_collection_second_di_png,pet_level_panel0_down_png,pet_level_panel0_up_png,pet_level_panel1_down_png,pet_level_panel1_up_png,pet_level_panel2_down_png,pet_level_panel2_up_png,pet_level_panel3_down_png,pet_level_panel3_up_png,pet_level_panel_1_png,pet_level_panel_2_png,pet_level_panel_3_png,pet_level_panel_4_png,pet_level_panel_5_png,pet_level_panel_btnAdd_png,pet_level_panel_btnBack_png,pet_level_panel_btnGo_png,pet_level_panel_btnGo1_png,pet_level_panel_cb_bg_png,pet_level_panel_cb_down_png,pet_level_panel_colume_png,pet_level_panel_factor_btnsearch_png,pet_level_panel_factor_collection_png,pet_level_panel_factor_favorite_png,pet_level_panel_factor_img_all_down_png,pet_level_panel_factor_img_all_up_png,pet_level_panel_factor_img_a_down_png,pet_level_panel_factor_img_a_up_png,pet_level_panel_factor_img_b_down_png,pet_level_panel_factor_img_b_up_png,pet_level_panel_factor_img_petrect_png,pet_level_panel_factor_img_select_png,pet_level_panel_factor_img_select1_png,pet_level_panel_factor_img_ss_down_png,pet_level_panel_factor_img_ss_up_png,pet_level_panel_factor_img_s_down_png,pet_level_panel_factor_img_s_up_png,pet_level_panel_factor_newadd_png,pet_level_panel_factor_no_pet_png,pet_level_panel_factor_recommend_png,pet_level_panel_factor_sc_down_png,pet_level_panel_factor_sc_up_png,pet_level_panel_factor_searchbg_png,pet_level_panel_factor_selelct_bg_png,pet_level_panel_factor_waikuang_xian_png,pet_level_panel_iconCoin2_png,pet_level_panel_icon_gold_png,pet_level_panel_img_di2_png,pet_level_panel_img_rbcollectdown1_png,pet_level_panel_img_rbcollectdown2_png,pet_level_panel_img_rbcollectdown3_png,pet_level_panel_img_rbcollectdown4_png,pet_level_panel_img_rbcollectdown5_png,pet_level_panel_img_rbcollectdown6_png,pet_level_panel_img_rbcollectup1_png,pet_level_panel_img_rbcollectup2_png,pet_level_panel_img_rbcollectup3_png,pet_level_panel_img_rbcollectup4_png,pet_level_panel_img_rbcollectup5_png,pet_level_panel_img_rbcollectup6_png,pet_level_panel_img_type1_png,pet_level_panel_img_type2_png,pet_level_panel_img_type3_png,pet_level_panel_img_type7_png,pet_level_panel_img_typeA_png,pet_level_panel_img_typeB_png,pet_level_panel_img_typeS_png,pet_level_panel_img_typeSS_png,pet_level_panel_rbbg_png,pet_level_panel_rbline_png,pet_level_panel_tab_down_png,pet_level_panel_tab_up_png,pet_level_panel_tag_0_png,pet_level_panel_tag_1_png,pet_level_panel_tag_2_png,pet_level_panel_tag_3_png,pet_level_panel_tag_4_png,pet_level_panel_tag_5_png,pet_level_panel_tag_6_png,pet_level_panel_tag_7_png,pet_level_panel_title_png,pet_level_panel__btninfo_png,pve_level_panel_beast_all_title_png,pve_level_panel_beast_collection_png,pve_level_panel_beast_favorite_png,pve_level_panel_beast_title1_png,pve_level_panel_beast_title2_png,pve_level_panel_beast_title3_png,pve_level_panel_beast_title4_png,pve_level_panel_beast_title5_png,pve_level_panel_filter_pop_1_down_png,pve_level_panel_filter_pop_1_up_png,pve_level_panel_filter_pop_2_down_png,pve_level_panel_filter_pop_2_up_png,pve_level_panel_filter_pop_3_down_png,pve_level_panel_filter_pop_3_up_png,pve_level_panel_filter_pop_4_down_png,pve_level_panel_filter_pop_4_up_png,pve_level_panel_filter_pop_5_down_png,pve_level_panel_filter_pop_5_up_png,pve_level_panel_filter_pop_6_down_png,pve_level_panel_filter_pop_6_up_png,pve_level_panel_filter_pop_7_down_png,pve_level_panel_filter_pop_7_up_png,pve_level_panel_filter_pop_8_down_png,pve_level_panel_filter_pop_8_up_png,pve_level_panel_filter_pop_btncancel_png,pve_level_panel_filter_pop_btnclose_png,pve_level_panel_filter_pop_btnok_png,pve_level_panel_filter_pop_fight_1_down_png,pve_level_panel_filter_pop_fight_1_up_png,pve_level_panel_filter_pop_fight_2_down_png,pve_level_panel_filter_pop_fight_2_up_png,pve_level_panel_filter_pop_fight_3_down_png,pve_level_panel_filter_pop_fight_3_up_png"
+    }
+  ]
+}

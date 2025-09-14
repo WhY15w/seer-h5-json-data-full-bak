@@ -1,0 +1,30 @@
+{
+  "groups": [
+    {
+      "keys": "road_1398,exml_1398,map_1398_bg_mc_jpg,map_1398_control_mc_png",
+      "name": "map_1398"
+    }
+  ],
+  "resources": [
+    {
+      "type": "json",
+      "url": "1398.json",
+      "name": "road_1398"
+    },
+    {
+      "type": "text",
+      "url": "Map1398Skin.exml",
+      "name": "exml_1398"
+    },
+    {
+      "type": "image",
+      "url": "map_1398_bg_mc.jpg",
+      "name": "map_1398_bg_mc_jpg"
+    },
+    {
+      "type": "image",
+      "url": "map_1398_control_mc.png",
+      "name": "map_1398_control_mc_png"
+    }
+  ]
+}

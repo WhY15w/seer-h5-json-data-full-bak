@@ -1,0 +1,176 @@
+{
+  "groups": [
+    {
+      "name": "god_reay",
+      "keys": "god_reay_sheet,god_reay_fly_panel_imgreay_png,god_reay_fly_pop_bg_png,god_reay_level_panel_bg_jpg,god_reay_level_panel_imgpetbg1_png,god_reay_level_panel_imgpetbg2_png,god_reay_level_panel_imgpetbg3_png,god_reay_level_panel_imgpetbg4_png,god_reay_level_panel_imgpetbg5_png,god_reay_level_panel_imgpet_1_1_png,god_reay_level_panel_imgpet_1_2_png,god_reay_level_panel_imgpet_1_3_png,god_reay_level_panel_imgpet_1_4_png,god_reay_level_panel_imgpet_1_5_png,god_reay_level_panel_imgpet_2_1_png,god_reay_level_panel_imgpet_2_2_png,god_reay_level_panel_imgpet_2_3_png,god_reay_level_panel_imgpet_2_4_png,god_reay_level_panel_imgpet_2_5_png,god_reay_level_panel_imgpet_3_1_png,god_reay_level_panel_imgpet_3_2_png,god_reay_level_panel_imgpet_3_3_png,god_reay_level_panel_imgpet_3_4_png,god_reay_level_panel_imgpet_3_5_png,god_reay_level_panel_imgpet_4_1_png,god_reay_level_panel_imgpet_4_2_png,god_reay_level_panel_imgpet_4_3_png,god_reay_level_panel_imgpet_4_4_png,god_reay_level_panel_imgpet_4_5_png,god_reay_level_panel_imgreay_png,god_reay_main_panel_bg_jpg,god_reay_main_panel_imgpet_png,god_reay_skill_panel_imgreay_png"
+    }
+  ],
+  "resources": [
+    {
+      "name": "god_reay_fly_panel_imgreay_png",
+      "type": "image",
+      "url": "god_reay/outside/god_reay_fly_panel_imgreay.png"
+    },
+    {
+      "name": "god_reay_fly_pop_bg_png",
+      "type": "image",
+      "url": "god_reay/outside/god_reay_fly_pop_bg.png"
+    },
+    {
+      "name": "god_reay_level_panel_bg_jpg",
+      "type": "image",
+      "url": "god_reay/outside/god_reay_level_panel_bg.jpg"
+    },
+    {
+      "name": "god_reay_level_panel_imgpetbg1_png",
+      "type": "image",
+      "url": "god_reay/outside/god_reay_level_panel_imgpetbg1.png"
+    },
+    {
+      "name": "god_reay_level_panel_imgpetbg2_png",
+      "type": "image",
+      "url": "god_reay/outside/god_reay_level_panel_imgpetbg2.png"
+    },
+    {
+      "name": "god_reay_level_panel_imgpetbg3_png",
+      "type": "image",
+      "url": "god_reay/outside/god_reay_level_panel_imgpetbg3.png"
+    },
+    {
+      "name": "god_reay_level_panel_imgpetbg4_png",
+      "type": "image",
+      "url": "god_reay/outside/god_reay_level_panel_imgpetbg4.png"
+    },
+    {
+      "name": "god_reay_level_panel_imgpetbg5_png",
+      "type": "image",
+      "url": "god_reay/outside/god_reay_level_panel_imgpetbg5.png"
+    },
+    {
+      "name": "god_reay_level_panel_imgpet_1_1_png",
+      "type": "image",
+      "url": "god_reay/outside/god_reay_level_panel_imgpet_1_1.png"
+    },
+    {
+      "name": "god_reay_level_panel_imgpet_1_2_png",
+      "type": "image",
+      "url": "god_reay/outside/god_reay_level_panel_imgpet_1_2.png"
+    },
+    {
+      "name": "god_reay_level_panel_imgpet_1_3_png",
+      "type": "image",
+      "url": "god_reay/outside/god_reay_level_panel_imgpet_1_3.png"
+    },
+    {
+      "name": "god_reay_level_panel_imgpet_1_4_png",
+      "type": "image",
+      "url": "god_reay/outside/god_reay_level_panel_imgpet_1_4.png"
+    },
+    {
+      "name": "god_reay_level_panel_imgpet_1_5_png",
+      "type": "image",
+      "url": "god_reay/outside/god_reay_level_panel_imgpet_1_5.png"
+    },
+    {
+      "name": "god_reay_level_panel_imgpet_2_1_png",
+      "type": "image",
+      "url": "god_reay/outside/god_reay_level_panel_imgpet_2_1.png"
+    },
+    {
+      "name": "god_reay_level_panel_imgpet_2_2_png",
+      "type": "image",
+      "url": "god_reay/outside/god_reay_level_panel_imgpet_2_2.png"
+    },
+    {
+      "name": "god_reay_level_panel_imgpet_2_3_png",
+      "type": "image",
+      "url": "god_reay/outside/god_reay_level_panel_imgpet_2_3.png"
+    },
+    {
+      "name": "god_reay_level_panel_imgpet_2_4_png",
+      "type": "image",
+      "url": "god_reay/outside/god_reay_level_panel_imgpet_2_4.png"
+    },
+    {
+      "name": "god_reay_level_panel_imgpet_2_5_png",
+      "type": "image",
+      "url": "god_reay/outside/god_reay_level_panel_imgpet_2_5.png"
+    },
+    {
+      "name": "god_reay_level_panel_imgpet_3_1_png",
+      "type": "image",
+      "url": "god_reay/outside/god_reay_level_panel_imgpet_3_1.png"
+    },
+    {
+      "name": "god_reay_level_panel_imgpet_3_2_png",
+      "type": "image",
+      "url": "god_reay/outside/god_reay_level_panel_imgpet_3_2.png"
+    },
+    {
+      "name": "god_reay_level_panel_imgpet_3_3_png",
+      "type": "image",
+      "url": "god_reay/outside/god_reay_level_panel_imgpet_3_3.png"
+    },
+    {
+      "name": "god_reay_level_panel_imgpet_3_4_png",
+      "type": "image",
+      "url": "god_reay/outside/god_reay_level_panel_imgpet_3_4.png"
+    },
+    {
+      "name": "god_reay_level_panel_imgpet_3_5_png",
+      "type": "image",
+      "url": "god_reay/outside/god_reay_level_panel_imgpet_3_5.png"
+    },
+    {
+      "name": "god_reay_level_panel_imgpet_4_1_png",
+      "type": "image",
+      "url": "god_reay/outside/god_reay_level_panel_imgpet_4_1.png"
+    },
+    {
+      "name": "god_reay_level_panel_imgpet_4_2_png",
+      "type": "image",
+      "url": "god_reay/outside/god_reay_level_panel_imgpet_4_2.png"
+    },
+    {
+      "name": "god_reay_level_panel_imgpet_4_3_png",
+      "type": "image",
+      "url": "god_reay/outside/god_reay_level_panel_imgpet_4_3.png"
+    },
+    {
+      "name": "god_reay_level_panel_imgpet_4_4_png",
+      "type": "image",
+      "url": "god_reay/outside/god_reay_level_panel_imgpet_4_4.png"
+    },
+    {
+      "name": "god_reay_level_panel_imgpet_4_5_png",
+      "type": "image",
+      "url": "god_reay/outside/god_reay_level_panel_imgpet_4_5.png"
+    },
+    {
+      "name": "god_reay_level_panel_imgreay_png",
+      "type": "image",
+      "url": "god_reay/outside/god_reay_level_panel_imgreay.png"
+    },
+    {
+      "name": "god_reay_main_panel_bg_jpg",
+      "type": "image",
+      "url": "god_reay/outside/god_reay_main_panel_bg.jpg"
+    },
+    {
+      "name": "god_reay_main_panel_imgpet_png",
+      "type": "image",
+      "url": "god_reay/outside/god_reay_main_panel_imgpet.png"
+    },
+    {
+      "name": "god_reay_skill_panel_imgreay_png",
+      "type": "image",
+      "url": "god_reay/outside/god_reay_skill_panel_imgreay.png"
+    },
+    {
+      "name": "god_reay_sheet",
+      "type": "sheet",
+      "url": "god_reay/god_reay_sheet.json",
+      "subkeys": "god_reay_fly_panel_btnfight2_png,god_reay_fly_panel_btnfly_png,god_reay_fly_panel_btnonekey_png,god_reay_fly_panel_btnroll_png,god_reay_fly_panel_imgboss1_png,god_reay_fly_panel_imgboss2_png,god_reay_fly_panel_imgboss3_png,god_reay_fly_panel_imgboss4_png,god_reay_fly_panel_imghas_png,god_reay_fly_panel_imghas1_png,god_reay_fly_panel_imgprogress1_png,god_reay_fly_panel_imgselect1_png,god_reay_fly_panel_imgtitle_png,god_reay_fly_pop_btnadddiamond_png,god_reay_fly_pop_btnclose_png,god_reay_fly_pop_btnfight_png,god_reay_level_panel_btncure_png,god_reay_level_panel_btnfight_png,god_reay_level_panel_btnonekey_png,god_reay_level_panel_btnpet_png,god_reay_level_panel_btnskip_png,god_reay_level_panel_imgarrow1_png,god_reay_level_panel_imghas1_png,god_reay_level_panel_imglevel1_png,god_reay_level_panel_imglevel2_png,god_reay_level_panel_imglevel3_png,god_reay_level_panel_imglevel4_png,god_reay_level_panel_imglevel5_png,god_reay_level_panel_imglevelbg_png,god_reay_level_panel_imgselect1_png,god_reay_level_panel_imgtimes_png,god_reay_level_panel_imgtitle1_png,god_reay_level_panel_imgtitle2_png,god_reay_level_panel_imgtitle3_png,god_reay_level_panel_imgtitle4_png,god_reay_level_panel_imgtop_png,god_reay_level_panel_imgvs_png,god_reay_main_panel_btn1_png,god_reay_main_panel_btn2_png,god_reay_main_panel_btn3_png,god_reay_main_panel_btn4_png,god_reay_main_panel_btncollect_png,god_reay_main_panel_btnfly_png,god_reay_main_panel_btnhascollect_png,god_reay_main_panel_btninfo_png,god_reay_main_panel_btnmask_png,god_reay_main_panel_btnonekey_png,god_reay_main_panel_btnsign_png,god_reay_main_panel_btnskip_png,god_reay_main_panel_btnup_png,god_reay_main_panel_imgadditems_png,god_reay_main_panel_imgevo_png,god_reay_main_panel_imghas1_png,god_reay_main_panel_imghasevo_png,god_reay_main_panel_imghasonekey_png,god_reay_main_panel_imghasup_png,god_reay_main_panel_imgtimes_png,god_reay_main_panel_imgtitle_png,god_reay_sign_1701301_png,god_reay_sign_1701302_png,god_reay_sign_1701303_png,god_reay_sign_1701304_png,god_reay_sign_arrow_dark_png,god_reay_sign_arrow_light_png,god_reay_sign_imge_btn_sign_close_png,god_reay_sign_imge_canGet_png,god_reay_sign_imge_getFlag_png,god_reay_sign_imge_getFlagBg_png,god_reay_sign_imge_nocanGet_png,god_reay_sign_imge_sign_bg_png,god_reay_sign_imge_title_png,god_reay_skill_panel_btnaddtimes_png,god_reay_skill_panel_btnonekey_png,god_reay_skill_panel_btnopen_png,god_reay_skill_panel_btnpass_png,god_reay_skill_panel_imghas1_png,god_reay_skill_panel_imghas2_png,god_reay_skill_panel_imghas3_png,god_reay_skill_panel_imglevel1_png,god_reay_skill_panel_imglevel2_png,god_reay_skill_panel_imglevel3_png,god_reay_skill_panel_imglevelbg_png,god_reay_skill_panel_imgprogress_png,god_reay_skill_panel_imgprogressbg_png,god_reay_skill_panel_imgselect1_png,god_reay_skill_panel_imgskill_png,god_reay_skill_panel_imgskillbg_png,god_reay_skill_panel_imgtaskbg_png,god_reay_skill_panel_imgtitle_png"
+    }
+  ]
+}

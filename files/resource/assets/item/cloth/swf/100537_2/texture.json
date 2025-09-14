@@ -1,0 +1,62 @@
+{
+  "imagePath": "texture.png",
+  "SubTexture": [
+    {
+      "name": "正面元件",
+      "x": 0,
+      "width": 40,
+      "y": 0,
+      "height": 63
+    },
+    {
+      "name": "左下元件01附件",
+      "x": 41,
+      "width": 41,
+      "y": 0,
+      "height": 62
+    },
+    {
+      "name": "右面元件01附件",
+      "x": 0,
+      "width": 22,
+      "y": 64,
+      "height": 59
+    },
+    {
+      "name": "右上元件01附件",
+      "x": 83,
+      "width": 41,
+      "y": 0,
+      "height": 58
+    },
+    {
+      "name": "背面元件",
+      "x": 41,
+      "width": 32,
+      "y": 63,
+      "height": 50
+    },
+    {
+      "name": "右上元件werw",
+      "x": 23,
+      "width": 36,
+      "y": 114,
+      "height": 41
+    },
+    {
+      "name": "右面元件01",
+      "x": 111,
+      "width": 11,
+      "y": 59,
+      "height": 8
+    },
+    {
+      "name": "左下元件01",
+      "x": 83,
+      "width": 27,
+      "y": 59,
+      "height": 56
+    }
+  ],
+  "name": "100537_2"
+}

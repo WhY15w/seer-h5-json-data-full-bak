@@ -1,0 +1,1145 @@
+{
+  "file": "brute_sorensen_sheet.png",
+  "frames": {
+    "brute_sorensen_btnBuy_png": {
+      "x": 1950,
+      "y": 512,
+      "w": 94,
+      "h": 74,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 94,
+      "sourceH": 74
+    },
+    "brute_sorensen_btnGo_png": {
+      "x": 838,
+      "y": 719,
+      "w": 233,
+      "h": 100,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 233,
+      "sourceH": 100
+    },
+    "brute_sorensen_btnInfo_png": {
+      "x": 1950,
+      "y": 436,
+      "w": 94,
+      "h": 74,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 94,
+      "sourceH": 74
+    },
+    "brute_sorensen_btnPass_png": {
+      "x": 311,
+      "y": 1130,
+      "w": 110,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 110,
+      "sourceH": 40
+    },
+    "brute_sorensen_fight_pop_bg_png": {
+      "x": 1,
+      "y": 1,
+      "w": 583,
+      "h": 424,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 583,
+      "sourceH": 424
+    },
+    "brute_sorensen_fight_pop_btnClose_png": {
+      "x": 1950,
+      "y": 645,
+      "w": 54,
+      "h": 56,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 54,
+      "sourceH": 56
+    },
+    "brute_sorensen_fight_pop_btnFight_png": {
+      "x": 1509,
+      "y": 1114,
+      "w": 120,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 120,
+      "sourceH": 40
+    },
+    "brute_sorensen_fight_pop_btnQuick_png": {
+      "x": 1387,
+      "y": 1102,
+      "w": 120,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 120,
+      "sourceH": 40
+    },
+    "brute_sorensen_fight_pop_headbg_png": {
+      "x": 1921,
+      "y": 900,
+      "w": 102,
+      "h": 102,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 102,
+      "sourceH": 102
+    },
+    "brute_sorensen_fight_pop_line_png": {
+      "x": 586,
+      "y": 409,
+      "w": 202,
+      "h": 2,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 202,
+      "sourceH": 2
+    },
+    "brute_sorensen_fight_pop_titlebg_png": {
+      "x": 1,
+      "y": 1022,
+      "w": 164,
+      "h": 60,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 164,
+      "sourceH": 60
+    },
+    "brute_sorensen_fight_pop_txtAward_png": {
+      "x": 1650,
+      "y": 294,
+      "w": 95,
+      "h": 35,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 95,
+      "sourceH": 35
+    },
+    "brute_sorensen_flag_passed_png": {
+      "x": 670,
+      "y": 821,
+      "w": 264,
+      "h": 77,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 264,
+      "sourceH": 77
+    },
+    "brute_sorensen_flag_selected_png": {
+      "x": 1,
+      "y": 427,
+      "w": 428,
+      "h": 144,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 428,
+      "sourceH": 144
+    },
+    "brute_sorensen_help_png": {
+      "x": 2006,
+      "y": 1,
+      "w": 34,
+      "h": 38,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 34,
+      "sourceH": 38
+    },
+    "brute_sorensen_img_j_png": {
+      "x": 2006,
+      "y": 142,
+      "w": 39,
+      "h": 10,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 39,
+      "sourceH": 10
+    },
+    "brute_sorensen_lebelBg_png": {
+      "x": 180,
+      "y": 1007,
+      "w": 323,
+      "h": 36,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 323,
+      "sourceH": 36
+    },
+    "brute_sorensen_level_0_bg_png": {
+      "x": 1,
+      "y": 573,
+      "w": 428,
+      "h": 133,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 428,
+      "sourceH": 133
+    },
+    "brute_sorensen_level_1_bg_png": {
+      "x": 861,
+      "y": 584,
+      "w": 428,
+      "h": 133,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 428,
+      "sourceH": 133
+    },
+    "brute_sorensen_level_1_flag_defeat_png": {
+      "x": 1755,
+      "y": 979,
+      "w": 144,
+      "h": 80,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 144,
+      "sourceH": 80
+    },
+    "brute_sorensen_level_1_imgBtn_cure_png": {
+      "x": 861,
+      "y": 472,
+      "w": 60,
+      "h": 60,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 60,
+      "sourceH": 60
+    },
+    "brute_sorensen_level_1_imgBtn_pet_png": {
+      "x": 1291,
+      "y": 584,
+      "w": 60,
+      "h": 60,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 60,
+      "sourceH": 60
+    },
+    "brute_sorensen_level_1_level_0_png": {
+      "x": 329,
+      "y": 767,
+      "w": 132,
+      "h": 159,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 132,
+      "sourceH": 159
+    },
+    "brute_sorensen_level_1_level_1_png": {
+      "x": 936,
+      "y": 821,
+      "w": 131,
+      "h": 146,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 131,
+      "sourceH": 146
+    },
+    "brute_sorensen_level_1_level_2_png": {
+      "x": 1619,
+      "y": 717,
+      "w": 149,
+      "h": 163,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 149,
+      "sourceH": 163
+    },
+    "brute_sorensen_level_1_pet_png": {
+      "x": 944,
+      "y": 1,
+      "w": 351,
+      "h": 329,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 351,
+      "sourceH": 329
+    },
+    "brute_sorensen_level_1_title_png": {
+      "x": 1910,
+      "y": 1058,
+      "w": 127,
+      "h": 42,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 127,
+      "sourceH": 42
+    },
+    "brute_sorensen_level_1_vs_png": {
+      "x": 431,
+      "y": 697,
+      "w": 405,
+      "h": 68,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 405,
+      "sourceH": 68
+    },
+    "brute_sorensen_level_2_bg_png": {
+      "x": 1356,
+      "y": 582,
+      "w": 428,
+      "h": 133,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 428,
+      "sourceH": 133
+    },
+    "brute_sorensen_level_2_btnAdd_png": {
+      "x": 2006,
+      "y": 41,
+      "w": 36,
+      "h": 34,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 36,
+      "sourceH": 34
+    },
+    "brute_sorensen_level_2_btnDraw_png": {
+      "x": 1073,
+      "y": 719,
+      "w": 148,
+      "h": 148,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 148,
+      "sourceH": 148
+    },
+    "brute_sorensen_level_2_btnFast_png": {
+      "x": 1950,
+      "y": 771,
+      "w": 89,
+      "h": 33,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 89,
+      "sourceH": 33
+    },
+    "brute_sorensen_level_2_btnGo_png": {
+      "x": 1,
+      "y": 1133,
+      "w": 110,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 110,
+      "sourceH": 40
+    },
+    "brute_sorensen_level_2_flag_finish_png": {
+      "x": 1901,
+      "y": 1004,
+      "w": 144,
+      "h": 52,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 144,
+      "sourceH": 52
+    },
+    "brute_sorensen_level_2_img_planet_0_png": {
+      "x": 1650,
+      "y": 192,
+      "w": 153,
+      "h": 100,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 153,
+      "sourceH": 100
+    },
+    "brute_sorensen_level_2_img_planet_1_png": {
+      "x": 1578,
+      "y": 882,
+      "w": 162,
+      "h": 90,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 162,
+      "sourceH": 90
+    },
+    "brute_sorensen_level_2_img_planet_2_png": {
+      "x": 463,
+      "y": 871,
+      "w": 130,
+      "h": 113,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 130,
+      "sourceH": 113
+    },
+    "brute_sorensen_level_2_img_planet_3_png": {
+      "x": 1606,
+      "y": 979,
+      "w": 147,
+      "h": 84,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 147,
+      "sourceH": 84
+    },
+    "brute_sorensen_level_2_itemIcon_png": {
+      "x": 2006,
+      "y": 77,
+      "w": 29,
+      "h": 34,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 29,
+      "sourceH": 34
+    },
+    "brute_sorensen_level_2_numbg_png": {
+      "x": 1103,
+      "y": 1031,
+      "w": 257,
+      "h": 34,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 257,
+      "sourceH": 34
+    },
+    "brute_sorensen_level_2_numbg1_png": {
+      "x": 353,
+      "y": 1045,
+      "w": 218,
+      "h": 34,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 218,
+      "sourceH": 34
+    },
+    "brute_sorensen_level_2_rect_png": {
+      "x": 586,
+      "y": 1,
+      "w": 356,
+      "h": 356,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 356,
+      "sourceH": 356
+    },
+    "brute_sorensen_level_2_starbg_png": {
+      "x": 1841,
+      "y": 1,
+      "w": 163,
+      "h": 163,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 163,
+      "sourceH": 163
+    },
+    "brute_sorensen_level_2_starbgSelected_png": {
+      "x": 1650,
+      "y": 1,
+      "w": 189,
+      "h": 189,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 189,
+      "sourceH": 189
+    },
+    "brute_sorensen_level_2_title_png": {
+      "x": 873,
+      "y": 1098,
+      "w": 127,
+      "h": 41,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 127,
+      "sourceH": 41
+    },
+    "brute_sorensen_level_2_title_0_png": {
+      "x": 329,
+      "y": 708,
+      "w": 93,
+      "h": 32,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 93,
+      "sourceH": 32
+    },
+    "brute_sorensen_level_2_title_1_png": {
+      "x": 1747,
+      "y": 294,
+      "w": 92,
+      "h": 32,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 92,
+      "sourceH": 32
+    },
+    "brute_sorensen_level_2_title_2_png": {
+      "x": 1950,
+      "y": 737,
+      "w": 92,
+      "h": 32,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 92,
+      "sourceH": 32
+    },
+    "brute_sorensen_level_2_title_3_png": {
+      "x": 1950,
+      "y": 703,
+      "w": 93,
+      "h": 32,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 93,
+      "sourceH": 32
+    },
+    "brute_sorensen_level_2_txtbg_png": {
+      "x": 113,
+      "y": 1138,
+      "w": 133,
+      "h": 24,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 133,
+      "sourceH": 24
+    },
+    "brute_sorensen_level_3_bg_png": {
+      "x": 431,
+      "y": 427,
+      "w": 428,
+      "h": 133,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 428,
+      "sourceH": 133
+    },
+    "brute_sorensen_level_3_btnFight_png": {
+      "x": 1002,
+      "y": 1137,
+      "w": 110,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 110,
+      "sourceH": 40
+    },
+    "brute_sorensen_level_3_btnQuick_png": {
+      "x": 1114,
+      "y": 1137,
+      "w": 110,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 110,
+      "sourceH": 40
+    },
+    "brute_sorensen_level_3_img_seal_0_png": {
+      "x": 1,
+      "y": 708,
+      "w": 162,
+      "h": 162,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 162,
+      "sourceH": 162
+    },
+    "brute_sorensen_level_3_img_seal_1_png": {
+      "x": 165,
+      "y": 708,
+      "w": 162,
+      "h": 162,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 162,
+      "sourceH": 162
+    },
+    "brute_sorensen_level_3_img_seal_2_png": {
+      "x": 1291,
+      "y": 717,
+      "w": 162,
+      "h": 162,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 162,
+      "sourceH": 162
+    },
+    "brute_sorensen_level_3_img_seal_3_png": {
+      "x": 1455,
+      "y": 717,
+      "w": 162,
+      "h": 162,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 162,
+      "sourceH": 162
+    },
+    "brute_sorensen_level_3_img_unseal_0_png": {
+      "x": 1841,
+      "y": 166,
+      "w": 162,
+      "h": 162,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 162,
+      "sourceH": 162
+    },
+    "brute_sorensen_level_3_img_unseal_1_png": {
+      "x": 1768,
+      "y": 330,
+      "w": 162,
+      "h": 162,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 162,
+      "sourceH": 162
+    },
+    "brute_sorensen_level_3_img_unseal_2_png": {
+      "x": 1786,
+      "y": 494,
+      "w": 162,
+      "h": 162,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 162,
+      "sourceH": 162
+    },
+    "brute_sorensen_level_3_img_unseal_3_png": {
+      "x": 1786,
+      "y": 658,
+      "w": 162,
+      "h": 162,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 162,
+      "sourceH": 162
+    },
+    "brute_sorensen_level_3_jindubg_png": {
+      "x": 586,
+      "y": 359,
+      "w": 345,
+      "h": 48,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 345,
+      "sourceH": 48
+    },
+    "brute_sorensen_level_3_label_unseal_png": {
+      "x": 873,
+      "y": 1141,
+      "w": 119,
+      "h": 23,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 119,
+      "sourceH": 23
+    },
+    "brute_sorensen_level_3_rate_png": {
+      "x": 329,
+      "y": 742,
+      "w": 67,
+      "h": 21,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 67,
+      "sourceH": 21
+    },
+    "brute_sorensen_level_3_title_png": {
+      "x": 1258,
+      "y": 1102,
+      "w": 127,
+      "h": 41,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 127,
+      "sourceH": 41
+    },
+    "brute_sorensen_level_4_bg_png": {
+      "x": 431,
+      "y": 562,
+      "w": 428,
+      "h": 133,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 428,
+      "sourceH": 133
+    },
+    "brute_sorensen_level_4_btnFastFight_png": {
+      "x": 720,
+      "y": 1097,
+      "w": 151,
+      "h": 45,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 151,
+      "sourceH": 45
+    },
+    "brute_sorensen_level_4_btnFastFight_dark_png": {
+      "x": 670,
+      "y": 767,
+      "w": 161,
+      "h": 49,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 161,
+      "sourceH": 49
+    },
+    "brute_sorensen_level_4_btnFight_dark_png": {
+      "x": 1346,
+      "y": 881,
+      "w": 230,
+      "h": 69,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 230,
+      "sourceH": 69
+    },
+    "brute_sorensen_level_4_btnFight_light_png": {
+      "x": 595,
+      "y": 900,
+      "w": 215,
+      "h": 65,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 215,
+      "sourceH": 65
+    },
+    "brute_sorensen_level_4_btnSynthesis_png": {
+      "x": 1672,
+      "y": 1110,
+      "w": 130,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 130,
+      "sourceH": 40
+    },
+    "brute_sorensen_level_4_btnSynthesis_1_png": {
+      "x": 1910,
+      "y": 1102,
+      "w": 130,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 130,
+      "sourceH": 40
+    },
+    "brute_sorensen_level_4_darkTag_0_down_png": {
+      "x": 278,
+      "y": 928,
+      "w": 177,
+      "h": 77,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 177,
+      "sourceH": 77
+    },
+    "brute_sorensen_level_4_darkTag_0_up_png": {
+      "x": 353,
+      "y": 1081,
+      "w": 153,
+      "h": 47,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 153,
+      "sourceH": 47
+    },
+    "brute_sorensen_level_4_darkTag_1_down_png": {
+      "x": 1,
+      "y": 943,
+      "w": 177,
+      "h": 77,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 177,
+      "sourceH": 77
+    },
+    "brute_sorensen_level_4_darkTag_1_up_png": {
+      "x": 1362,
+      "y": 1053,
+      "w": 153,
+      "h": 47,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 153,
+      "sourceH": 47
+    },
+    "brute_sorensen_level_4_darkTag_2_down_png": {
+      "x": 1069,
+      "y": 952,
+      "w": 177,
+      "h": 77,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 177,
+      "sourceH": 77
+    },
+    "brute_sorensen_level_4_darkTag_2_up_png": {
+      "x": 156,
+      "y": 1089,
+      "w": 153,
+      "h": 47,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 153,
+      "sourceH": 47
+    },
+    "brute_sorensen_level_4_darkTag_3_down_png": {
+      "x": 1248,
+      "y": 952,
+      "w": 177,
+      "h": 77,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 177,
+      "sourceH": 77
+    },
+    "brute_sorensen_level_4_darkTag_3_up_png": {
+      "x": 1517,
+      "y": 1065,
+      "w": 153,
+      "h": 47,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 153,
+      "sourceH": 47
+    },
+    "brute_sorensen_level_4_lightTag_0_down_png": {
+      "x": 595,
+      "y": 967,
+      "w": 177,
+      "h": 77,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 177,
+      "sourceH": 77
+    },
+    "brute_sorensen_level_4_lightTag_0_up_png": {
+      "x": 1,
+      "y": 1084,
+      "w": 153,
+      "h": 47,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 153,
+      "sourceH": 47
+    },
+    "brute_sorensen_level_4_lightTag_1_down_png": {
+      "x": 774,
+      "y": 969,
+      "w": 177,
+      "h": 77,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 177,
+      "sourceH": 77
+    },
+    "brute_sorensen_level_4_lightTag_1_up_png": {
+      "x": 720,
+      "y": 1048,
+      "w": 153,
+      "h": 47,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 153,
+      "sourceH": 47
+    },
+    "brute_sorensen_level_4_lightTag_2_down_png": {
+      "x": 1427,
+      "y": 974,
+      "w": 177,
+      "h": 77,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 177,
+      "sourceH": 77
+    },
+    "brute_sorensen_level_4_lightTag_2_up_png": {
+      "x": 1755,
+      "y": 1061,
+      "w": 153,
+      "h": 47,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 153,
+      "sourceH": 47
+    },
+    "brute_sorensen_level_4_lightTag_3_down_png": {
+      "x": 1742,
+      "y": 900,
+      "w": 177,
+      "h": 77,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 177,
+      "sourceH": 77
+    },
+    "brute_sorensen_level_4_lightTag_3_up_png": {
+      "x": 1103,
+      "y": 1067,
+      "w": 153,
+      "h": 47,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 153,
+      "sourceH": 47
+    },
+    "brute_sorensen_level_4_orangebg_png": {
+      "x": 944,
+      "y": 332,
+      "w": 410,
+      "h": 250,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 410,
+      "sourceH": 250
+    },
+    "brute_sorensen_level_4_redbg_png": {
+      "x": 1356,
+      "y": 332,
+      "w": 410,
+      "h": 248,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 410,
+      "sourceH": 248
+    },
+    "brute_sorensen_level_4_title_png": {
+      "x": 508,
+      "y": 1098,
+      "w": 127,
+      "h": 42,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 127,
+      "sourceH": 42
+    },
+    "brute_sorensen_level_5_300066_png": {
+      "x": 2006,
+      "y": 113,
+      "w": 28,
+      "h": 27,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 28,
+      "sourceH": 27
+    },
+    "brute_sorensen_level_5_40851_png": {
+      "x": 1291,
+      "y": 646,
+      "w": 52,
+      "h": 49,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 52,
+      "sourceH": 49
+    },
+    "brute_sorensen_level_5_btnBuy_png": {
+      "x": 1002,
+      "y": 1116,
+      "w": 239,
+      "h": 19,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 239,
+      "sourceH": 19
+    },
+    "brute_sorensen_level_5_btnGet_png": {
+      "x": 1069,
+      "y": 881,
+      "w": 275,
+      "h": 69,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 275,
+      "sourceH": 69
+    },
+    "brute_sorensen_level_5_btnUp_png": {
+      "x": 1,
+      "y": 872,
+      "w": 275,
+      "h": 69,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 275,
+      "sourceH": 69
+    },
+    "brute_sorensen_level_5_flag_got_png": {
+      "x": 812,
+      "y": 900,
+      "w": 120,
+      "h": 47,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 120,
+      "sourceH": 47
+    },
+    "brute_sorensen_level_5_flag_petGot_png": {
+      "x": 1770,
+      "y": 822,
+      "w": 264,
+      "h": 76,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 264,
+      "sourceH": 76
+    },
+    "brute_sorensen_level_5_iconbg_png": {
+      "x": 1932,
+      "y": 330,
+      "w": 104,
+      "h": 104,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 104,
+      "sourceH": 104
+    },
+    "brute_sorensen_level_5_iconbg_s_png": {
+      "x": 1950,
+      "y": 588,
+      "w": 55,
+      "h": 55,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 55,
+      "sourceH": 55
+    },
+    "brute_sorensen_level_5_icon_1_png": {
+      "x": 861,
+      "y": 534,
+      "w": 45,
+      "h": 48,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 45,
+      "sourceH": 48
+    },
+    "brute_sorensen_level_5_icon_texing_png": {
+      "x": 1223,
+      "y": 771,
+      "w": 43,
+      "h": 49,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 43,
+      "sourceH": 49
+    },
+    "brute_sorensen_level_5_label_0_png": {
+      "x": 1804,
+      "y": 1110,
+      "w": 92,
+      "h": 31,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 92,
+      "sourceH": 31
+    },
+    "brute_sorensen_level_5_label_1_png": {
+      "x": 180,
+      "y": 943,
+      "w": 93,
+      "h": 31,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 93,
+      "sourceH": 31
+    },
+    "brute_sorensen_level_5_label_2_png": {
+      "x": 1258,
+      "y": 1067,
+      "w": 93,
+      "h": 31,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 93,
+      "sourceH": 31
+    },
+    "brute_sorensen_level_5_line2_png": {
+      "x": 423,
+      "y": 1144,
+      "w": 405,
+      "h": 7,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 405,
+      "sourceH": 7
+    },
+    "brute_sorensen_level_5_pet_png": {
+      "x": 1297,
+      "y": 1,
+      "w": 351,
+      "h": 329,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 351,
+      "sourceH": 329
+    },
+    "brute_sorensen_level_5_title_png": {
+      "x": 167,
+      "y": 1045,
+      "w": 184,
+      "h": 42,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 184,
+      "sourceH": 42
+    },
+    "brute_sorensen_level_bg_png": {
+      "x": 1223,
+      "y": 719,
+      "w": 43,
+      "h": 50,
+      "offX": 3,
+      "offY": 0,
+      "sourceW": 46,
+      "sourceH": 50
+    },
+    "brute_sorensen_line_1_png": {
+      "x": 953,
+      "y": 1031,
+      "w": 148,
+      "h": 65,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 148,
+      "sourceH": 65
+    },
+    "brute_sorensen_line_2_png": {
+      "x": 953,
+      "y": 969,
+      "w": 107,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 107,
+      "sourceH": 46
+    },
+    "brute_sorensen_line_3_png": {
+      "x": 861,
+      "y": 409,
+      "w": 61,
+      "h": 61,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 61,
+      "sourceH": 61
+    },
+    "brute_sorensen_line_4_png": {
+      "x": 463,
+      "y": 767,
+      "w": 205,
+      "h": 102,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 205,
+      "sourceH": 102
+    },
+    "brute_sorensen_up_bg_png": {
+      "x": 573,
+      "y": 1046,
+      "w": 145,
+      "h": 50,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 145,
+      "sourceH": 50
+    }
+  }
+}

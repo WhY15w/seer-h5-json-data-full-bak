@@ -1,0 +1,135 @@
+{
+  "resources": [
+    {
+      "type": "json",
+      "url": "425.json",
+      "name": "road_425"
+    },
+    {
+      "type": "image",
+      "url": "map_425_bg_mc.png",
+      "name": "map_425_bg_mc_png"
+    },
+    {
+      "type": "image",
+      "url": "map_425_animator_mc.png",
+      "name": "map_425_animator_mc_png"
+    },
+    {
+      "type": "image",
+      "url": "map_425_wheel_mc.png",
+      "name": "map_425_wheel_mc_png"
+    },
+    {
+      "type": "image",
+      "url": "map_425_left_mc.png",
+      "name": "map_425_left_mc_png"
+    },
+    {
+      "type": "image",
+      "url": "map_425_key_mc.png",
+      "name": "map_425_key_mc_png"
+    },
+    {
+      "type": "image",
+      "url": "map_425_star_14.png",
+      "name": "map_425_star_14_png"
+    },
+    {
+      "type": "image",
+      "url": "map_425_star_3.png",
+      "name": "map_425_star_3_png"
+    },
+    {
+      "type": "image",
+      "url": "map_425_star_4.png",
+      "name": "map_425_star_4_png"
+    },
+    {
+      "type": "image",
+      "url": "map_425_star_11.png",
+      "name": "map_425_star_11_png"
+    },
+    {
+      "type": "image",
+      "url": "map_425_star_5.png",
+      "name": "map_425_star_5_png"
+    },
+    {
+      "type": "image",
+      "url": "map_425_star_6.png",
+      "name": "map_425_star_6_png"
+    },
+    {
+      "type": "image",
+      "url": "map_425_star_7.png",
+      "name": "map_425_star_7_png"
+    },
+    {
+      "type": "image",
+      "url": "map_425_star_8.png",
+      "name": "map_425_star_8_png"
+    },
+    {
+      "type": "image",
+      "url": "map_425_star_9.png",
+      "name": "map_425_star_9_png"
+    },
+    {
+      "type": "image",
+      "url": "map_425_star_10.png",
+      "name": "map_425_star_10_png"
+    },
+    {
+      "type": "image",
+      "url": "map_425_star_12.png",
+      "name": "map_425_star_12_png"
+    },
+    {
+      "type": "image",
+      "url": "map_425_star_13.png",
+      "name": "map_425_star_13_png"
+    },
+    {
+      "type": "image",
+      "url": "map_425_star_0.png",
+      "name": "map_425_star_0_png"
+    },
+    {
+      "type": "image",
+      "url": "map_425_star_1.png",
+      "name": "map_425_star_1_png"
+    },
+    {
+      "type": "image",
+      "url": "map_425_star_2.png",
+      "name": "map_425_star_2_png"
+    },
+    {
+      "type": "image",
+      "url": "map_425_start_mc.png",
+      "name": "map_425_start_mc_png"
+    },
+    {
+      "type": "image",
+      "url": "map_425_control_mc.png",
+      "name": "map_425_control_mc_png"
+    },
+    {
+      "type": "image",
+      "url": "map_425_depth_mc.png",
+      "name": "map_425_depth_mc_png"
+    },
+    {
+      "name": "exml_425",
+      "type": "text",
+      "url": "Map425Skin.exml"
+    }
+  ],
+  "groups": [
+    {
+      "keys": "road_425,map_425_bg_mc_png,map_425_animator_mc_png,map_425_wheel_mc_png,map_425_left_mc_png,map_425_key_mc_png,map_425_star_14_png,map_425_star_3_png,map_425_star_4_png,map_425_star_11_png,map_425_star_5_png,map_425_star_6_png,map_425_star_7_png,map_425_star_8_png,map_425_star_9_png,map_425_star_10_png,map_425_star_12_png,map_425_star_13_png,map_425_star_0_png,map_425_star_1_png,map_425_star_2_png,map_425_start_mc_png,map_425_control_mc_png,map_425_depth_mc_png,exml_425",
+      "name": "map_425"
+    }
+  ]
+}

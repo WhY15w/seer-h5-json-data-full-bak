@@ -1,0 +1,55 @@
+{
+  "groups": [
+    {
+      "keys": "road_727,exml_727,map_727_bg_mc_jpg,map_727_a_png,map_727_b_png,map_727_c_png,map_727_d_png,map_727_bigmushroom_png,map_727_top_mc_png",
+      "name": "map_727"
+    }
+  ],
+  "resources": [
+    {
+      "type": "json",
+      "url": "727.json",
+      "name": "road_727"
+    },
+    {
+      "type": "text",
+      "url": "Map727Skin.exml",
+      "name": "exml_727"
+    },
+    {
+      "type": "image",
+      "url": "map_727_bg_mc.jpg",
+      "name": "map_727_bg_mc_jpg"
+    },
+    {
+      "type": "image",
+      "url": "map_727_a.png",
+      "name": "map_727_a_png"
+    },
+    {
+      "type": "image",
+      "url": "map_727_b.png",
+      "name": "map_727_b_png"
+    },
+    {
+      "type": "image",
+      "url": "map_727_c.png",
+      "name": "map_727_c_png"
+    },
+    {
+      "type": "image",
+      "url": "map_727_d.png",
+      "name": "map_727_d_png"
+    },
+    {
+      "type": "image",
+      "url": "map_727_bigmushroom.png",
+      "name": "map_727_bigmushroom_png"
+    },
+    {
+      "type": "image",
+      "url": "map_727_top_mc.png",
+      "name": "map_727_top_mc_png"
+    }
+  ]
+}

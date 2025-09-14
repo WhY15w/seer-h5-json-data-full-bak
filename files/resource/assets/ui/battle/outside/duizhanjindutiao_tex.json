@@ -1,0 +1,74 @@
+{
+  "width": 256,
+  "SubTexture": [
+    {
+      "frameWidth": 71,
+      "y": 92,
+      "frameHeight": 77,
+      "width": 69,
+      "frameX": -1,
+      "height": 75,
+      "name": "dianguang",
+      "frameY": -1,
+      "x": 165
+    },
+    {
+      "frameWidth": 71,
+      "y": 92,
+      "frameHeight": 77,
+      "width": 69,
+      "frameX": -1,
+      "height": 75,
+      "name": "dianguang1",
+      "frameY": -1,
+      "x": 94
+    },
+    {
+      "frameWidth": 10,
+      "y": 1,
+      "frameHeight": 10,
+      "width": 8,
+      "frameX": -1,
+      "height": 8,
+      "name": "lizi1",
+      "frameY": -1,
+      "x": 236
+    },
+    {
+      "frameWidth": 93,
+      "y": 1,
+      "frameHeight": 91,
+      "width": 91,
+      "frameX": -1,
+      "height": 89,
+      "name": "xianguang1",
+      "frameY": -1,
+      "x": 94
+    },
+    {
+      "frameWidth": 93,
+      "y": 1,
+      "frameHeight": 92,
+      "width": 91,
+      "frameX": -1,
+      "height": 90,
+      "name": "xianguang",
+      "frameY": -1,
+      "x": 1
+    },
+    {
+      "frameWidth": 10,
+      "y": 1,
+      "frameHeight": 10,
+      "width": 8,
+      "frameX": -1,
+      "height": 8,
+      "name": "lizi",
+      "frameY": -1,
+      "x": 246
+    }
+  ],
+  "height": 256,
+  "name": "duizhanjindutiao",
+  "imagePath": "duizhanjindutiao_tex.png"
+}

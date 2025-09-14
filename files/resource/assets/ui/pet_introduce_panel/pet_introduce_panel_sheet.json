@@ -1,0 +1,315 @@
+{
+  "file": "pet_introduce_panel_sheet.png",
+  "frames": {
+    "pet_introduce_arrow_down_png": {
+      "x": 1925,
+      "y": 302,
+      "w": 36,
+      "h": 26,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 36,
+      "sourceH": 26
+    },
+    "pet_introduce_arrow_up_png": {
+      "x": 1887,
+      "y": 302,
+      "w": 36,
+      "h": 26,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 36,
+      "sourceH": 26
+    },
+    "pet_introduce_attr_item_exp_png": {
+      "x": 1980,
+      "y": 59,
+      "w": 24,
+      "h": 24,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 24,
+      "sourceH": 24
+    },
+    "pet_introduce_attr_item_expbg_png": {
+      "x": 1894,
+      "y": 123,
+      "w": 106,
+      "h": 14,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 106,
+      "sourceH": 14
+    },
+    "pet_introduce_panel_btnClose_png": {
+      "x": 1980,
+      "y": 1,
+      "w": 56,
+      "h": 56,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 56,
+      "sourceH": 56
+    },
+    "pet_introduce_panel_btnSpec_png": {
+      "x": 1894,
+      "y": 1,
+      "w": 84,
+      "h": 84,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 84,
+      "sourceH": 84
+    },
+    "pet_introduce_panel_developbg_png": {
+      "x": 1364,
+      "y": 318,
+      "w": 296,
+      "h": 49,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 296,
+      "sourceH": 49
+    },
+    "pet_introduce_panel_img_1_png": {
+      "x": 1894,
+      "y": 206,
+      "w": 93,
+      "h": 8,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 93,
+      "sourceH": 8
+    },
+    "pet_introduce_panel_img_2_png": {
+      "x": 1894,
+      "y": 228,
+      "w": 108,
+      "h": 8,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 108,
+      "sourceH": 8
+    },
+    "pet_introduce_panel_img_3_png": {
+      "x": 1364,
+      "y": 369,
+      "w": 237,
+      "h": 2,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 237,
+      "sourceH": 2
+    },
+    "pet_introduce_panel_img_mark_png": {
+      "x": 1963,
+      "y": 302,
+      "w": 22,
+      "h": 20,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 22,
+      "sourceH": 20
+    },
+    "pet_introduce_panel_img_petAttr_png": {
+      "x": 1990,
+      "y": 193,
+      "w": 30,
+      "h": 33,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 30,
+      "sourceH": 33
+    },
+    "pet_introduce_panel_infobg_png": {
+      "x": 1084,
+      "y": 1,
+      "w": 433,
+      "h": 309,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 433,
+      "sourceH": 309
+    },
+    "pet_introduce_panel_namebg_png": {
+      "x": 1519,
+      "y": 243,
+      "w": 328,
+      "h": 73,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 328,
+      "sourceH": 73
+    },
+    "pet_introduce_panel_pet_png": {
+      "x": 1,
+      "y": 1,
+      "w": 669,
+      "h": 622,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 670,
+      "sourceH": 622
+    },
+    "pet_introduce_panel_skillbg_png": {
+      "x": 672,
+      "y": 1,
+      "w": 410,
+      "h": 555,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 410,
+      "sourceH": 555
+    },
+    "pet_introduce_panel_tips_png": {
+      "x": 1849,
+      "y": 279,
+      "w": 173,
+      "h": 21,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 173,
+      "sourceH": 21
+    },
+    "pet_introduce_panel_title_attr_png": {
+      "x": 1894,
+      "y": 87,
+      "w": 112,
+      "h": 34,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 112,
+      "sourceH": 34
+    },
+    "pet_introduce_panel_title_growth_png": {
+      "x": 1662,
+      "y": 318,
+      "w": 199,
+      "h": 34,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 199,
+      "sourceH": 34
+    },
+    "pet_introduce_panel_title_skill_png": {
+      "x": 1849,
+      "y": 243,
+      "w": 173,
+      "h": 34,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 173,
+      "sourceH": 34
+    },
+    "pet_introduce_panel_ycbg_png": {
+      "x": 1519,
+      "y": 1,
+      "w": 373,
+      "h": 240,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 373,
+      "sourceH": 240
+    },
+    "pet_introduce_skill_item_skillbg_png": {
+      "x": 1084,
+      "y": 312,
+      "w": 278,
+      "h": 65,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 278,
+      "sourceH": 65
+    },
+    "pet_introduce_skill_item_tagbg_png": {
+      "x": 2008,
+      "y": 59,
+      "w": 22,
+      "h": 65,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 22,
+      "sourceH": 65
+    },
+    "skill_tag0_png": {
+      "x": 2002,
+      "y": 126,
+      "w": 22,
+      "h": 65,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 22,
+      "sourceH": 65
+    },
+    "skill_tag1_png": {
+      "x": 1894,
+      "y": 139,
+      "w": 22,
+      "h": 65,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 22,
+      "sourceH": 65
+    },
+    "skill_tag2_png": {
+      "x": 1918,
+      "y": 139,
+      "w": 22,
+      "h": 65,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 22,
+      "sourceH": 65
+    },
+    "skill_tag3_png": {
+      "x": 1942,
+      "y": 139,
+      "w": 22,
+      "h": 65,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 22,
+      "sourceH": 65
+    },
+    "skill_tag4_png": {
+      "x": 1966,
+      "y": 139,
+      "w": 22,
+      "h": 65,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 22,
+      "sourceH": 65
+    },
+    "skill_tag5_png": {
+      "x": 2024,
+      "y": 193,
+      "w": 22,
+      "h": 65,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 22,
+      "sourceH": 65
+    },
+    "skill_tag6_png": {
+      "x": 2024,
+      "y": 260,
+      "w": 22,
+      "h": 65,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 22,
+      "sourceH": 65
+    },
+    "skill_tag7_png": {
+      "x": 1863,
+      "y": 302,
+      "w": 22,
+      "h": 65,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 22,
+      "sourceH": 65
+    }
+  }
+}

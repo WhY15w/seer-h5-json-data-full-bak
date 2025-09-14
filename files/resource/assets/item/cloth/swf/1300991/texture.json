@@ -1,0 +1,48 @@
+{
+  "imagePath": "texture.png",
+  "SubTexture": [
+    {
+      "name": "sxrtfg",
+      "x": 101,
+      "width": 92,
+      "y": 0,
+      "height": 151
+    },
+    {
+      "name": "sdxrfg",
+      "x": 0,
+      "width": 92,
+      "y": 147,
+      "height": 151
+    },
+    {
+      "name": "左下元件01附件",
+      "x": 231,
+      "width": 21,
+      "y": 145,
+      "height": 55
+    },
+    {
+      "name": "左下元件01",
+      "x": 194,
+      "width": 36,
+      "y": 145,
+      "height": 54
+    },
+    {
+      "name": "这地方官",
+      "x": 194,
+      "width": 60,
+      "y": 0,
+      "height": 144
+    },
+    {
+      "name": "行走让他放过",
+      "x": 0,
+      "width": 99,
+      "y": 0,
+      "height": 146
+    }
+  ],
+  "name": 1300991
+}

@@ -1,0 +1,30 @@
+{
+  "groups": [
+    {
+      "keys": "road_353,exml_353,map_353_bg_mc_jpg,map_353_top_mc_png",
+      "name": "map_353"
+    }
+  ],
+  "resources": [
+    {
+      "type": "json",
+      "url": "353.json",
+      "name": "road_353"
+    },
+    {
+      "type": "text",
+      "url": "Map353Skin.exml",
+      "name": "exml_353"
+    },
+    {
+      "type": "image",
+      "url": "map_353_bg_mc.jpg",
+      "name": "map_353_bg_mc_jpg"
+    },
+    {
+      "type": "image",
+      "url": "map_353_top_mc.png",
+      "name": "map_353_top_mc_png"
+    }
+  ]
+}

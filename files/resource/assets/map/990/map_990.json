@@ -1,0 +1,25 @@
+{
+  "groups": [
+    {
+      "keys": "road_990,exml_990,map_990_bg_mc_jpg",
+      "name": "map_990"
+    }
+  ],
+  "resources": [
+    {
+      "type": "json",
+      "url": "990.json",
+      "name": "road_990"
+    },
+    {
+      "type": "text",
+      "url": "Map990Skin.exml",
+      "name": "exml_990"
+    },
+    {
+      "type": "image",
+      "url": "map_990_bg_mc.jpg",
+      "name": "map_990_bg_mc_jpg"
+    }
+  ]
+}

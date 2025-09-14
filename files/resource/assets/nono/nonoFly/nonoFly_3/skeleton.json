@@ -1,0 +1,1717 @@
+{
+  "frameRate": 24,
+  "name": "nonoFly_3",
+  "version": "5.5",
+  "compatibleVersion": "5.5",
+  "armature": [
+    {
+      "type": "Armature",
+      "frameRate": 24,
+      "name": "nono",
+      "aabb": {
+        "x": -48.24,
+        "y": -2.7,
+        "width": 95.8,
+        "height": 115.07
+      },
+      "bone": [
+        {
+          "name": "root",
+          "transform": {
+            "x": -0.46,
+            "y": 38.38
+          }
+        },
+        {
+          "name": "Layer 6",
+          "parent": "root",
+          "transform": {
+            "x": 2.3,
+            "y": 12.3,
+            "skX": 175.02,
+            "skY": 175.02,
+            "scX": 0.41,
+            "scY": 0.41
+          }
+        },
+        {
+          "name": "Layer 4",
+          "parent": "root",
+          "transform": {
+            "x": 0.6,
+            "y": -11.05,
+            "scX": 1.03,
+            "scY": 1.03
+          }
+        },
+        {
+          "name": "Layer 5",
+          "parent": "root",
+          "transform": {
+            "x": 0.25,
+            "y": -10.55,
+            "scX": 1.03,
+            "scY": 1.03
+          }
+        },
+        {
+          "name": "Layer 2",
+          "parent": "root",
+          "transform": {
+            "x": -1.35,
+            "y": 13.45,
+            "skX": 175.02,
+            "skY": 175.02,
+            "scX": 0.41,
+            "scY": 0.41
+          }
+        },
+        {
+          "name": "Layer 3",
+          "parent": "root",
+          "transform": {
+            "x": 6.55,
+            "y": 13.3,
+            "skX": 175.02,
+            "skY": 175.02,
+            "scX": 0.41,
+            "scY": 0.41
+          }
+        },
+        {
+          "name": "Layer 1",
+          "parent": "root",
+          "transform": {
+            "x": 2.3,
+            "y": 12.3,
+            "skX": 175.02,
+            "skY": 175.02,
+            "scX": 0.41,
+            "scY": 0.41
+          }
+        },
+        {
+          "name": "Layer 9",
+          "parent": "root",
+          "transform": {
+            "x": 0.6,
+            "y": -11.05,
+            "scX": 1.03,
+            "scY": 1.03
+          }
+        },
+        {
+          "name": "Layer 10",
+          "parent": "root",
+          "transform": {
+            "x": 0.25,
+            "y": -10.55,
+            "scX": 1.03,
+            "scY": 1.03
+          }
+        },
+        {
+          "name": "Layer 7",
+          "parent": "root",
+          "transform": {
+            "x": -1.5,
+            "y": 13.1,
+            "skX": 175.02,
+            "skY": 175.02,
+            "scX": 0.41,
+            "scY": 0.41
+          }
+        },
+        {
+          "name": "Layer 8",
+          "parent": "root",
+          "transform": {
+            "x": 7.3,
+            "y": 12.3,
+            "skX": 175.02,
+            "skY": 175.02,
+            "scX": 0.41,
+            "scY": 0.41
+          }
+        }
+      ],
+      "slot": [
+        {
+          "name": "Layer 1",
+          "parent": "Layer 1"
+        },
+        {
+          "name": "Layer 2",
+          "parent": "Layer 2"
+        },
+        {
+          "name": "Layer 3",
+          "parent": "Layer 3"
+        },
+        {
+          "name": "Layer 4",
+          "parent": "Layer 4"
+        },
+        {
+          "name": "Layer 5",
+          "parent": "Layer 5"
+        },
+        {
+          "name": "Layer 6",
+          "parent": "Layer 6"
+        },
+        {
+          "name": "Layer 7",
+          "parent": "Layer 7"
+        },
+        {
+          "name": "Layer 8",
+          "parent": "Layer 8"
+        },
+        {
+          "name": "Layer 9",
+          "parent": "Layer 9"
+        },
+        {
+          "name": "Layer 10",
+          "parent": "Layer 10"
+        }
+      ],
+      "skin": [
+        {
+          "slot": [
+            {
+              "name": "Layer 6",
+              "display": [
+                {
+                  "name": "2/shape 11",
+                  "transform": {
+                    "x": 8.9,
+                    "y": -23.8
+                  }
+                },
+                {
+                  "name": "2/shape 12",
+                  "transform": {
+                    "x": 8.2,
+                    "y": -25.35
+                  }
+                },
+                {
+                  "name": "2/shape 13",
+                  "transform": {
+                    "x": 14.45,
+                    "y": -30.65
+                  }
+                },
+                {
+                  "name": "2/shape 14",
+                  "transform": {
+                    "x": 14.4,
+                    "y": -20.55
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Layer 5",
+              "display": [
+                {
+                  "name": "oi001",
+                  "transform": {
+                    "x": 0.3,
+                    "y": 0.45
+                  }
+                },
+                {
+                  "name": "oi002",
+                  "transform": {
+                    "x": 0.35,
+                    "y": 0.25
+                  }
+                },
+                {
+                  "name": "oi004",
+                  "transform": {
+                    "x": 0.2,
+                    "y": 0.25
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Layer 10",
+              "display": [
+                {
+                  "name": "oi001",
+                  "transform": {
+                    "x": 0.3,
+                    "y": 0.45
+                  }
+                },
+                {
+                  "name": "oi002",
+                  "transform": {
+                    "x": 0.35,
+                    "y": 0.25
+                  }
+                },
+                {
+                  "name": "oi004",
+                  "transform": {
+                    "x": 0.2,
+                    "y": 0.25
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Layer 4",
+              "display": [
+                {
+                  "name": "aw001",
+                  "transform": {
+                    "x": 0.05,
+                    "y": 0.45
+                  }
+                },
+                {
+                  "name": "aw002",
+                  "transform": {
+                    "x": 0.5,
+                    "y": 0.25
+                  }
+                },
+                {
+                  "name": "aw004",
+                  "transform": {
+                    "x": 0.4,
+                    "y": 0.25
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Layer 9",
+              "display": [
+                {
+                  "name": "aw001",
+                  "transform": {
+                    "x": 0.05,
+                    "y": 0.45
+                  }
+                },
+                {
+                  "name": "aw002",
+                  "transform": {
+                    "x": 0.5,
+                    "y": 0.25
+                  }
+                },
+                {
+                  "name": "aw004",
+                  "transform": {
+                    "x": 0.4,
+                    "y": 0.25
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Layer 3",
+              "display": [
+                {
+                  "name": "2/shape 11",
+                  "transform": {
+                    "x": 8.9,
+                    "y": -23.8
+                  }
+                },
+                {
+                  "name": "2/shape 12",
+                  "transform": {
+                    "x": 8.2,
+                    "y": -25.35
+                  }
+                },
+                {
+                  "name": "2/shape 13",
+                  "transform": {
+                    "x": 14.45,
+                    "y": -30.65
+                  }
+                },
+                {
+                  "name": "2/shape 14",
+                  "transform": {
+                    "x": 14.4,
+                    "y": -20.55
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Layer 8",
+              "display": [
+                {
+                  "name": "2/shape 11",
+                  "transform": {
+                    "x": 8.9,
+                    "y": -23.8
+                  }
+                },
+                {
+                  "name": "2/shape 12",
+                  "transform": {
+                    "x": 8.2,
+                    "y": -25.35
+                  }
+                },
+                {
+                  "name": "2/shape 13",
+                  "transform": {
+                    "x": 14.45,
+                    "y": -30.65
+                  }
+                },
+                {
+                  "name": "2/shape 14",
+                  "transform": {
+                    "x": 14.4,
+                    "y": -20.55
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Layer 2",
+              "display": [
+                {
+                  "name": "2/shape 11",
+                  "transform": {
+                    "x": 8.9,
+                    "y": -23.8
+                  }
+                },
+                {
+                  "name": "2/shape 12",
+                  "transform": {
+                    "x": 8.2,
+                    "y": -25.35
+                  }
+                },
+                {
+                  "name": "2/shape 13",
+                  "transform": {
+                    "x": 14.45,
+                    "y": -30.65
+                  }
+                },
+                {
+                  "name": "2/shape 14",
+                  "transform": {
+                    "x": 14.4,
+                    "y": -20.55
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Layer 7",
+              "display": [
+                {
+                  "name": "2/shape 11",
+                  "transform": {
+                    "x": 8.9,
+                    "y": -23.8
+                  }
+                },
+                {
+                  "name": "2/shape 12",
+                  "transform": {
+                    "x": 8.2,
+                    "y": -25.35
+                  }
+                },
+                {
+                  "name": "2/shape 13",
+                  "transform": {
+                    "x": 14.45,
+                    "y": -30.65
+                  }
+                },
+                {
+                  "name": "2/shape 14",
+                  "transform": {
+                    "x": 14.4,
+                    "y": -20.55
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Layer 1",
+              "display": [
+                {
+                  "name": "2/shape 11",
+                  "transform": {
+                    "x": 8.9,
+                    "y": -23.8
+                  }
+                },
+                {
+                  "name": "2/shape 12",
+                  "transform": {
+                    "x": 8.2,
+                    "y": -25.35
+                  }
+                },
+                {
+                  "name": "2/shape 13",
+                  "transform": {
+                    "x": 14.45,
+                    "y": -30.65
+                  }
+                },
+                {
+                  "name": "2/shape 14",
+                  "transform": {
+                    "x": 14.4,
+                    "y": -20.55
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "animation": [
+        {
+          "duration": 11,
+          "fadeInTime": 0.3,
+          "name": "down",
+          "bone": [
+            {
+              "name": "Layer 1",
+              "scaleFrame": [
+                {
+                  "duration": 11
+                }
+              ]
+            },
+            {
+              "name": "Layer 4",
+              "scaleFrame": [
+                {
+                  "duration": 11
+                }
+              ]
+            },
+            {
+              "name": "Layer 5",
+              "scaleFrame": [
+                {
+                  "duration": 11
+                }
+              ]
+            },
+            {
+              "name": "root",
+              "scaleFrame": [
+                {
+                  "duration": 11
+                }
+              ]
+            },
+            {
+              "name": "Layer 6",
+              "scaleFrame": [
+                {
+                  "duration": 11
+                }
+              ]
+            },
+            {
+              "name": "Layer 2",
+              "scaleFrame": [
+                {
+                  "duration": 11
+                }
+              ]
+            },
+            {
+              "name": "Layer 3",
+              "scaleFrame": [
+                {
+                  "duration": 11
+                }
+              ]
+            },
+            {
+              "name": "Layer 9",
+              "scaleFrame": [
+                {
+                  "duration": 11
+                }
+              ]
+            },
+            {
+              "name": "Layer 10",
+              "scaleFrame": [
+                {
+                  "duration": 11
+                }
+              ]
+            },
+            {
+              "name": "Layer 7",
+              "scaleFrame": [
+                {
+                  "duration": 11
+                }
+              ]
+            },
+            {
+              "name": "Layer 8",
+              "scaleFrame": [
+                {
+                  "duration": 11
+                }
+              ]
+            }
+          ],
+          "slot": [
+            {
+              "name": "Layer 1",
+              "displayFrame": [
+                {
+                  "duration": 3
+                },
+                {
+                  "duration": 4,
+                  "value": 1
+                },
+                {
+                  "duration": 4,
+                  "value": 2
+                },
+                {
+                  "duration": 0,
+                  "value": 3
+                }
+              ]
+            },
+            {
+              "name": "Layer 2",
+              "displayFrame": [
+                {
+                  "duration": 11,
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "Layer 3",
+              "displayFrame": [
+                {
+                  "duration": 11,
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "Layer 6",
+              "displayFrame": [
+                {
+                  "duration": 11,
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "Layer 7",
+              "displayFrame": [
+                {
+                  "duration": 11,
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "Layer 8",
+              "displayFrame": [
+                {
+                  "duration": 11,
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "Layer 9",
+              "displayFrame": [
+                {
+                  "duration": 11,
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "Layer 10",
+              "displayFrame": [
+                {
+                  "duration": 11,
+                  "value": -1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "duration": 11,
+          "fadeInTime": 0.3,
+          "name": "rightdown",
+          "bone": [
+            {
+              "name": "Layer 2",
+              "scaleFrame": [
+                {
+                  "duration": 11
+                }
+              ]
+            },
+            {
+              "name": "Layer 4",
+              "translateFrame": [
+                {
+                  "duration": 11,
+                  "x": -3.15,
+                  "y": 1.35
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 11,
+                  "x": -1
+                }
+              ]
+            },
+            {
+              "name": "Layer 5",
+              "translateFrame": [
+                {
+                  "duration": 11,
+                  "x": -3.9,
+                  "y": 1.35
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 11,
+                  "x": -1
+                }
+              ]
+            },
+            {
+              "name": "root",
+              "scaleFrame": [
+                {
+                  "duration": 11
+                }
+              ]
+            },
+            {
+              "name": "Layer 6",
+              "scaleFrame": [
+                {
+                  "duration": 11
+                }
+              ]
+            },
+            {
+              "name": "Layer 3",
+              "scaleFrame": [
+                {
+                  "duration": 11
+                }
+              ]
+            },
+            {
+              "name": "Layer 1",
+              "scaleFrame": [
+                {
+                  "duration": 11
+                }
+              ]
+            },
+            {
+              "name": "Layer 9",
+              "scaleFrame": [
+                {
+                  "duration": 11
+                }
+              ]
+            },
+            {
+              "name": "Layer 10",
+              "scaleFrame": [
+                {
+                  "duration": 11
+                }
+              ]
+            },
+            {
+              "name": "Layer 7",
+              "scaleFrame": [
+                {
+                  "duration": 11
+                }
+              ]
+            },
+            {
+              "name": "Layer 8",
+              "scaleFrame": [
+                {
+                  "duration": 11
+                }
+              ]
+            }
+          ],
+          "slot": [
+            {
+              "name": "Layer 2",
+              "displayFrame": [
+                {
+                  "duration": 3
+                },
+                {
+                  "duration": 4,
+                  "value": 1
+                },
+                {
+                  "duration": 4,
+                  "value": 2
+                },
+                {
+                  "duration": 0,
+                  "value": 3
+                }
+              ]
+            },
+            {
+              "name": "Layer 4",
+              "displayFrame": [
+                {
+                  "duration": 11,
+                  "value": 1
+                }
+              ]
+            },
+            {
+              "name": "Layer 5",
+              "displayFrame": [
+                {
+                  "duration": 11,
+                  "value": 1
+                }
+              ]
+            },
+            {
+              "name": "Layer 1",
+              "displayFrame": [
+                {
+                  "duration": 11,
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "Layer 3",
+              "displayFrame": [
+                {
+                  "duration": 11,
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "Layer 6",
+              "displayFrame": [
+                {
+                  "duration": 11,
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "Layer 7",
+              "displayFrame": [
+                {
+                  "duration": 11,
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "Layer 8",
+              "displayFrame": [
+                {
+                  "duration": 11,
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "Layer 9",
+              "displayFrame": [
+                {
+                  "duration": 11,
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "Layer 10",
+              "displayFrame": [
+                {
+                  "duration": 11,
+                  "value": -1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "duration": 11,
+          "fadeInTime": 0.3,
+          "name": "rightup",
+          "bone": [
+            {
+              "name": "Layer 3",
+              "scaleFrame": [
+                {
+                  "duration": 11
+                }
+              ]
+            },
+            {
+              "name": "Layer 4",
+              "translateFrame": [
+                {
+                  "duration": 11,
+                  "x": 4.55,
+                  "y": 1.9
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 11,
+                  "x": -1.0097,
+                  "y": 1.0097
+                }
+              ]
+            },
+            {
+              "name": "Layer 5",
+              "translateFrame": [
+                {
+                  "duration": 11,
+                  "x": 5.25,
+                  "y": 1.9
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 11,
+                  "x": -1.0097,
+                  "y": 1.0097
+                }
+              ]
+            },
+            {
+              "name": "root",
+              "scaleFrame": [
+                {
+                  "duration": 11
+                }
+              ]
+            },
+            {
+              "name": "Layer 6",
+              "scaleFrame": [
+                {
+                  "duration": 11
+                }
+              ]
+            },
+            {
+              "name": "Layer 2",
+              "scaleFrame": [
+                {
+                  "duration": 11
+                }
+              ]
+            },
+            {
+              "name": "Layer 1",
+              "scaleFrame": [
+                {
+                  "duration": 11
+                }
+              ]
+            },
+            {
+              "name": "Layer 9",
+              "scaleFrame": [
+                {
+                  "duration": 11
+                }
+              ]
+            },
+            {
+              "name": "Layer 10",
+              "scaleFrame": [
+                {
+                  "duration": 11
+                }
+              ]
+            },
+            {
+              "name": "Layer 7",
+              "scaleFrame": [
+                {
+                  "duration": 11
+                }
+              ]
+            },
+            {
+              "name": "Layer 8",
+              "scaleFrame": [
+                {
+                  "duration": 11
+                }
+              ]
+            }
+          ],
+          "slot": [
+            {
+              "name": "Layer 3",
+              "displayFrame": [
+                {
+                  "duration": 3
+                },
+                {
+                  "duration": 4,
+                  "value": 1
+                },
+                {
+                  "duration": 4,
+                  "value": 2
+                },
+                {
+                  "duration": 0,
+                  "value": 3
+                }
+              ]
+            },
+            {
+              "name": "Layer 4",
+              "displayFrame": [
+                {
+                  "duration": 11,
+                  "value": 2
+                }
+              ]
+            },
+            {
+              "name": "Layer 5",
+              "displayFrame": [
+                {
+                  "duration": 11,
+                  "value": 2
+                }
+              ]
+            },
+            {
+              "name": "Layer 1",
+              "displayFrame": [
+                {
+                  "duration": 11,
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "Layer 2",
+              "displayFrame": [
+                {
+                  "duration": 11,
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "Layer 6",
+              "displayFrame": [
+                {
+                  "duration": 11,
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "Layer 7",
+              "displayFrame": [
+                {
+                  "duration": 11,
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "Layer 8",
+              "displayFrame": [
+                {
+                  "duration": 11,
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "Layer 9",
+              "displayFrame": [
+                {
+                  "duration": 11,
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "Layer 10",
+              "displayFrame": [
+                {
+                  "duration": 11,
+                  "value": -1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "duration": 11,
+          "fadeInTime": 0.3,
+          "name": "downWalk",
+          "bone": [
+            {
+              "name": "Layer 6",
+              "scaleFrame": [
+                {
+                  "duration": 11
+                }
+              ]
+            },
+            {
+              "name": "Layer 9",
+              "scaleFrame": [
+                {
+                  "duration": 11
+                }
+              ]
+            },
+            {
+              "name": "Layer 10",
+              "scaleFrame": [
+                {
+                  "duration": 11
+                }
+              ]
+            },
+            {
+              "name": "root",
+              "scaleFrame": [
+                {
+                  "duration": 11
+                }
+              ]
+            },
+            {
+              "name": "Layer 4",
+              "scaleFrame": [
+                {
+                  "duration": 11
+                }
+              ]
+            },
+            {
+              "name": "Layer 5",
+              "scaleFrame": [
+                {
+                  "duration": 11
+                }
+              ]
+            },
+            {
+              "name": "Layer 2",
+              "scaleFrame": [
+                {
+                  "duration": 11
+                }
+              ]
+            },
+            {
+              "name": "Layer 3",
+              "scaleFrame": [
+                {
+                  "duration": 11
+                }
+              ]
+            },
+            {
+              "name": "Layer 1",
+              "scaleFrame": [
+                {
+                  "duration": 11
+                }
+              ]
+            },
+            {
+              "name": "Layer 7",
+              "scaleFrame": [
+                {
+                  "duration": 11
+                }
+              ]
+            },
+            {
+              "name": "Layer 8",
+              "scaleFrame": [
+                {
+                  "duration": 11
+                }
+              ]
+            }
+          ],
+          "slot": [
+            {
+              "name": "Layer 6",
+              "displayFrame": [
+                {
+                  "duration": 3
+                },
+                {
+                  "duration": 4,
+                  "value": 1
+                },
+                {
+                  "duration": 4,
+                  "value": 2
+                },
+                {
+                  "duration": 0,
+                  "value": 3
+                }
+              ]
+            },
+            {
+              "name": "Layer 1",
+              "displayFrame": [
+                {
+                  "duration": 11,
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "Layer 2",
+              "displayFrame": [
+                {
+                  "duration": 11,
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "Layer 3",
+              "displayFrame": [
+                {
+                  "duration": 11,
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "Layer 4",
+              "displayFrame": [
+                {
+                  "duration": 11,
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "Layer 5",
+              "displayFrame": [
+                {
+                  "duration": 11,
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "Layer 7",
+              "displayFrame": [
+                {
+                  "duration": 11,
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "Layer 8",
+              "displayFrame": [
+                {
+                  "duration": 11,
+                  "value": -1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "duration": 11,
+          "fadeInTime": 0.3,
+          "name": "rightdownWalk",
+          "bone": [
+            {
+              "name": "Layer 7",
+              "scaleFrame": [
+                {
+                  "duration": 11
+                }
+              ]
+            },
+            {
+              "name": "Layer 9",
+              "translateFrame": [
+                {
+                  "duration": 11,
+                  "x": -3.3,
+                  "y": 1
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 11,
+                  "x": -1
+                }
+              ]
+            },
+            {
+              "name": "Layer 10",
+              "translateFrame": [
+                {
+                  "duration": 11,
+                  "x": -4.05,
+                  "y": 1
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 11,
+                  "x": -1
+                }
+              ]
+            },
+            {
+              "name": "root",
+              "scaleFrame": [
+                {
+                  "duration": 11
+                }
+              ]
+            },
+            {
+              "name": "Layer 6",
+              "scaleFrame": [
+                {
+                  "duration": 11
+                }
+              ]
+            },
+            {
+              "name": "Layer 4",
+              "scaleFrame": [
+                {
+                  "duration": 11
+                }
+              ]
+            },
+            {
+              "name": "Layer 5",
+              "scaleFrame": [
+                {
+                  "duration": 11
+                }
+              ]
+            },
+            {
+              "name": "Layer 2",
+              "scaleFrame": [
+                {
+                  "duration": 11
+                }
+              ]
+            },
+            {
+              "name": "Layer 3",
+              "scaleFrame": [
+                {
+                  "duration": 11
+                }
+              ]
+            },
+            {
+              "name": "Layer 1",
+              "scaleFrame": [
+                {
+                  "duration": 11
+                }
+              ]
+            },
+            {
+              "name": "Layer 8",
+              "scaleFrame": [
+                {
+                  "duration": 11
+                }
+              ]
+            }
+          ],
+          "slot": [
+            {
+              "name": "Layer 7",
+              "displayFrame": [
+                {
+                  "duration": 3
+                },
+                {
+                  "duration": 4,
+                  "value": 1
+                },
+                {
+                  "duration": 4,
+                  "value": 2
+                },
+                {
+                  "duration": 0,
+                  "value": 3
+                }
+              ]
+            },
+            {
+              "name": "Layer 9",
+              "displayFrame": [
+                {
+                  "duration": 11,
+                  "value": 1
+                }
+              ]
+            },
+            {
+              "name": "Layer 10",
+              "displayFrame": [
+                {
+                  "duration": 11,
+                  "value": 1
+                }
+              ]
+            },
+            {
+              "name": "Layer 1",
+              "displayFrame": [
+                {
+                  "duration": 11,
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "Layer 2",
+              "displayFrame": [
+                {
+                  "duration": 11,
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "Layer 3",
+              "displayFrame": [
+                {
+                  "duration": 11,
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "Layer 4",
+              "displayFrame": [
+                {
+                  "duration": 11,
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "Layer 5",
+              "displayFrame": [
+                {
+                  "duration": 11,
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "Layer 6",
+              "displayFrame": [
+                {
+                  "duration": 11,
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "Layer 8",
+              "displayFrame": [
+                {
+                  "duration": 11,
+                  "value": -1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "duration": 11,
+          "fadeInTime": 0.3,
+          "name": "rightupWalk",
+          "bone": [
+            {
+              "name": "Layer 8",
+              "scaleFrame": [
+                {
+                  "duration": 11
+                }
+              ]
+            },
+            {
+              "name": "Layer 9",
+              "translateFrame": [
+                {
+                  "duration": 11,
+                  "x": 5.3,
+                  "y": 0.9
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 11,
+                  "x": -1.0097,
+                  "y": 1.0097
+                }
+              ]
+            },
+            {
+              "name": "Layer 10",
+              "translateFrame": [
+                {
+                  "duration": 11,
+                  "x": 6,
+                  "y": 0.9
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 11,
+                  "x": -1.0097,
+                  "y": 1.0097
+                }
+              ]
+            },
+            {
+              "name": "root",
+              "scaleFrame": [
+                {
+                  "duration": 11
+                }
+              ]
+            },
+            {
+              "name": "Layer 6",
+              "scaleFrame": [
+                {
+                  "duration": 11
+                }
+              ]
+            },
+            {
+              "name": "Layer 4",
+              "scaleFrame": [
+                {
+                  "duration": 11
+                }
+              ]
+            },
+            {
+              "name": "Layer 5",
+              "scaleFrame": [
+                {
+                  "duration": 11
+                }
+              ]
+            },
+            {
+              "name": "Layer 2",
+              "scaleFrame": [
+                {
+                  "duration": 11
+                }
+              ]
+            },
+            {
+              "name": "Layer 3",
+              "scaleFrame": [
+                {
+                  "duration": 11
+                }
+              ]
+            },
+            {
+              "name": "Layer 1",
+              "scaleFrame": [
+                {
+                  "duration": 11
+                }
+              ]
+            },
+            {
+              "name": "Layer 7",
+              "scaleFrame": [
+                {
+                  "duration": 11
+                }
+              ]
+            }
+          ],
+          "slot": [
+            {
+              "name": "Layer 8",
+              "displayFrame": [
+                {
+                  "duration": 3
+                },
+                {
+                  "duration": 4,
+                  "value": 1
+                },
+                {
+                  "duration": 4,
+                  "value": 2
+                },
+                {
+                  "duration": 0,
+                  "value": 3
+                }
+              ]
+            },
+            {
+              "name": "Layer 9",
+              "displayFrame": [
+                {
+                  "duration": 11,
+                  "value": 2
+                }
+              ]
+            },
+            {
+              "name": "Layer 10",
+              "displayFrame": [
+                {
+                  "duration": 11,
+                  "value": 2
+                }
+              ]
+            },
+            {
+              "name": "Layer 1",
+              "displayFrame": [
+                {
+                  "duration": 11,
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "Layer 2",
+              "displayFrame": [
+                {
+                  "duration": 11,
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "Layer 3",
+              "displayFrame": [
+                {
+                  "duration": 11,
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "Layer 4",
+              "displayFrame": [
+                {
+                  "duration": 11,
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "Layer 5",
+              "displayFrame": [
+                {
+                  "duration": 11,
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "Layer 6",
+              "displayFrame": [
+                {
+                  "duration": 11,
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "Layer 7",
+              "displayFrame": [
+                {
+                  "duration": 11,
+                  "value": -1
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "defaultActions": [
+        {
+          "gotoAndPlay": "down"
+        }
+      ]
+    }
+  ]
+}

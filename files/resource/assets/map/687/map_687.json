@@ -1,0 +1,45 @@
+{
+  "groups": [
+    {
+      "keys": "road_687,exml_687,map_687_bg_mc_jpg,map_687_shibei_png,map_687_longjuan2_png,map_687_longjuan1_png,map_687_top_mc_png",
+      "name": "map_687"
+    }
+  ],
+  "resources": [
+    {
+      "type": "json",
+      "url": "687.json",
+      "name": "road_687"
+    },
+    {
+      "type": "text",
+      "url": "Map687Skin.exml",
+      "name": "exml_687"
+    },
+    {
+      "type": "image",
+      "url": "map_687_bg_mc.jpg",
+      "name": "map_687_bg_mc_jpg"
+    },
+    {
+      "type": "image",
+      "url": "map_687_shibei.png",
+      "name": "map_687_shibei_png"
+    },
+    {
+      "type": "image",
+      "url": "map_687_longjuan2.png",
+      "name": "map_687_longjuan2_png"
+    },
+    {
+      "type": "image",
+      "url": "map_687_longjuan1.png",
+      "name": "map_687_longjuan1_png"
+    },
+    {
+      "type": "image",
+      "url": "map_687_top_mc.png",
+      "name": "map_687_top_mc_png"
+    }
+  ]
+}

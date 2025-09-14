@@ -1,0 +1,41 @@
+{
+  "groups": [
+    {
+      "name": "cassius_super_evo",
+      "keys": "cassius_super_evo_sheet,cassius_super_evo_bg_jpg,cassius_super_evo_fight_panel_popbg_png,cassius_super_evo_pet_png,cassius_super_evo_pop_markbg_png,cassius_super_evo_pop_signbg_png"
+    }
+  ],
+  "resources": [
+    {
+      "name": "cassius_super_evo_bg_jpg",
+      "type": "image",
+      "url": "cassius_super_evo/outside/cassius_super_evo_bg.jpg"
+    },
+    {
+      "name": "cassius_super_evo_fight_panel_popbg_png",
+      "type": "image",
+      "url": "cassius_super_evo/outside/cassius_super_evo_fight_panel_popbg.png"
+    },
+    {
+      "name": "cassius_super_evo_pet_png",
+      "type": "image",
+      "url": "cassius_super_evo/outside/cassius_super_evo_pet.png"
+    },
+    {
+      "name": "cassius_super_evo_pop_markbg_png",
+      "type": "image",
+      "url": "cassius_super_evo/outside/cassius_super_evo_pop_markbg.png"
+    },
+    {
+      "name": "cassius_super_evo_pop_signbg_png",
+      "type": "image",
+      "url": "cassius_super_evo/outside/cassius_super_evo_pop_signbg.png"
+    },
+    {
+      "name": "cassius_super_evo_sheet",
+      "type": "sheet",
+      "url": "cassius_super_evo/cassius_super_evo_sheet.json",
+      "subkeys": "cassius_super_evo_btnDoing_png,cassius_super_evo_btnget_png,cassius_super_evo_btninfo_png,cassius_super_evo_btnsuper_png,cassius_super_evo_buyitem_png,cassius_super_evo_collect_png,cassius_super_evo_collected_png,cassius_super_evo_evo_png,cassius_super_evo_fight_panel_dia1_png,cassius_super_evo_fight_panel_fight_png,cassius_super_evo_fight_panel_floorbg_png,cassius_super_evo_fight_panel_go_png,cassius_super_evo_fight_panel_go1_png,cassius_super_evo_fight_panel_ima1_png,cassius_super_evo_fight_panel_ima_boss_png,cassius_super_evo_fight_panel_ima_enemy_png,cassius_super_evo_fight_panel_mark_png,cassius_super_evo_fight_panel_no_png,cassius_super_evo_fight_panel_petbg_png,cassius_super_evo_fight_panel_text_png,cassius_super_evo_gotevo_png,cassius_super_evo_gotevo1_png,cassius_super_evo_gotitem_png,cassius_super_evo_gotpet_png,cassius_super_evo_item1_png,cassius_super_evo_item2_png,cassius_super_evo_item3_png,cassius_super_evo_item4_png,cassius_super_evo_itembg_png,cassius_super_evo_mark_png,cassius_super_evo_name1_png,cassius_super_evo_name2_png,cassius_super_evo_name3_png,cassius_super_evo_name4_png,cassius_super_evo_pop_add_png,cassius_super_evo_pop_bag_png,cassius_super_evo_pop_btnbuy_png,cassius_super_evo_pop_btnstart_png,cassius_super_evo_pop_btnyijian_png,cassius_super_evo_pop_buybg_png,cassius_super_evo_pop_close_png,cassius_super_evo_pop_cure_png,cassius_super_evo_pop_dark_png,cassius_super_evo_pop_dark1_png,cassius_super_evo_pop_getbg_png,cassius_super_evo_pop_got_png,cassius_super_evo_pop_gotbg_png,cassius_super_evo_pop_light_png,cassius_super_evo_pop_light1_png,cassius_super_evo_pop_markicon_png,cassius_super_evo_pop_mas_png,cassius_super_evo_pop_mas5_png,cassius_super_evo_pop_notopen_png,cassius_super_evo_sign_png,cassius_super_evo_title_png,cassius_super_evo_title1_png,cassius_super_evo_title2_png,cassius_super_evo_title3_png,cassius_super_evo_title4_png"
+    }
+  ]
+}

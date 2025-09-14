@@ -1,0 +1,1264 @@
+{
+  "frameRate": 24,
+  "name": "1300594",
+  "version": "5.5",
+  "compatibleVersion": "5.5",
+  "armature": [
+    {
+      "name": "1300594_Car",
+      "bone": [
+        {
+          "inheritScale": false,
+          "name": "none",
+          "transform": {
+            "y": 62.1,
+            "scX": 1.682,
+            "scY": 1.6247
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "layer2",
+          "transform": {
+            "x": -1.75,
+            "y": 25.6,
+            "scX": 1.3585,
+            "scY": 1.3585
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "boday",
+          "transform": {
+            "x": 0.1,
+            "y": 7.1
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "Layer3",
+          "transform": {
+            "x": -1.75,
+            "y": 25.6,
+            "scX": 1.3585,
+            "scY": 1.3585
+          }
+        }
+      ],
+      "slot": [
+        {
+          "name": "none",
+          "parent": "none"
+        },
+        {
+          "name": "layer2",
+          "parent": "layer2"
+        },
+        {
+          "name": "boday",
+          "parent": "boday"
+        },
+        {
+          "name": "Layer3",
+          "parent": "Layer3"
+        }
+      ],
+      "skin": [
+        {
+          "slot": [
+            {
+              "name": "none",
+              "display": [
+                {
+                  "name": "元件 1",
+                  "transform": {
+                    "x": 0.35
+                  }
+                }
+              ]
+            },
+            {
+              "name": "layer2",
+              "display": [
+                {
+                  "type": "armature",
+                  "name": "hh76"
+                },
+                {
+                  "type": "armature",
+                  "name": "hh146"
+                },
+                {
+                  "type": "armature",
+                  "name": "HH147"
+                }
+              ]
+            },
+            {
+              "name": "boday"
+            },
+            {
+              "name": "Layer3",
+              "display": [
+                {
+                  "type": "armature",
+                  "name": "hh76 副本"
+                },
+                {
+                  "type": "armature",
+                  "name": "hh146 副本"
+                },
+                {
+                  "type": "armature",
+                  "name": "HH147 副本"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "animation": [
+        {
+          "duration": 12,
+          "name": "down",
+          "frame": [
+            {
+              "duration": 11
+            },
+            {}
+          ],
+          "bone": [
+            {
+              "name": "none",
+              "scaleFrame": [
+                {
+                  "duration": 12
+                }
+              ]
+            },
+            {
+              "name": "layer2",
+              "scaleFrame": [
+                {
+                  "duration": 12
+                }
+              ]
+            },
+            {
+              "name": "boday",
+              "scaleFrame": [
+                {
+                  "duration": 12
+                }
+              ]
+            },
+            {
+              "name": "Layer3",
+              "scaleFrame": [
+                {
+                  "duration": 12
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "duration": 12,
+          "name": "leftdown",
+          "frame": [
+            {
+              "duration": 11
+            },
+            {}
+          ],
+          "bone": [
+            {
+              "name": "none",
+              "scaleFrame": [
+                {
+                  "duration": 84
+                }
+              ]
+            },
+            {
+              "name": "layer2",
+              "translateFrame": [
+                {
+                  "duration": 12,
+                  "x": 23.1,
+                  "y": -4.05
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 12
+                }
+              ]
+            },
+            {
+              "name": "boday",
+              "scaleFrame": [
+                {
+                  "duration": 84
+                }
+              ]
+            },
+            {
+              "name": "Layer3",
+              "translateFrame": [
+                {
+                  "duration": 12,
+                  "x": 23.1,
+                  "y": -4.05
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 12
+                }
+              ]
+            }
+          ],
+          "slot": [
+            {
+              "name": "layer2",
+              "displayFrame": [
+                {
+                  "duration": 12,
+                  "value": 1
+                }
+              ]
+            },
+            {
+              "name": "Layer3",
+              "displayFrame": [
+                {
+                  "duration": 12,
+                  "value": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "duration": 12,
+          "name": "left",
+          "frame": [
+            {
+              "duration": 11
+            },
+            {}
+          ],
+          "bone": [
+            {
+              "name": "none",
+              "scaleFrame": [
+                {
+                  "duration": 72
+                }
+              ]
+            },
+            {
+              "name": "layer2",
+              "translateFrame": [
+                {
+                  "duration": 12,
+                  "x": 14.15,
+                  "y": 11.9
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 12
+                }
+              ]
+            },
+            {
+              "name": "boday",
+              "scaleFrame": [
+                {
+                  "duration": 72
+                }
+              ]
+            },
+            {
+              "name": "Layer3",
+              "translateFrame": [
+                {
+                  "duration": 12,
+                  "x": 14.15,
+                  "y": 11.9
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 12
+                }
+              ]
+            }
+          ],
+          "slot": [
+            {
+              "name": "layer2",
+              "displayFrame": [
+                {
+                  "duration": 12,
+                  "value": 2
+                }
+              ]
+            },
+            {
+              "name": "Layer3",
+              "displayFrame": [
+                {
+                  "duration": 12,
+                  "value": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "duration": 12,
+          "name": "leftup",
+          "frame": [
+            {
+              "duration": 11
+            },
+            {}
+          ],
+          "bone": [
+            {
+              "name": "none",
+              "scaleFrame": [
+                {
+                  "duration": 60
+                }
+              ]
+            },
+            {
+              "name": "layer2",
+              "translateFrame": [
+                {
+                  "duration": 12,
+                  "x": 14.15,
+                  "y": 11.9
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 12
+                }
+              ]
+            },
+            {
+              "name": "boday",
+              "scaleFrame": [
+                {
+                  "duration": 60
+                }
+              ]
+            },
+            {
+              "name": "Layer3",
+              "translateFrame": [
+                {
+                  "duration": 12,
+                  "x": 14.15,
+                  "y": 11.9
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 12
+                }
+              ]
+            }
+          ],
+          "slot": [
+            {
+              "name": "layer2",
+              "displayFrame": [
+                {
+                  "duration": 12,
+                  "value": 2
+                }
+              ]
+            },
+            {
+              "name": "Layer3",
+              "displayFrame": [
+                {
+                  "duration": 12,
+                  "value": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "duration": 12,
+          "name": "up",
+          "frame": [
+            {
+              "duration": 11
+            },
+            {}
+          ],
+          "bone": [
+            {
+              "name": "none",
+              "scaleFrame": [
+                {
+                  "duration": 48
+                }
+              ]
+            },
+            {
+              "name": "layer2",
+              "scaleFrame": [
+                {
+                  "duration": 12
+                }
+              ]
+            },
+            {
+              "name": "boday",
+              "scaleFrame": [
+                {
+                  "duration": 48
+                }
+              ]
+            },
+            {
+              "name": "Layer3",
+              "scaleFrame": [
+                {
+                  "duration": 12
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "duration": 12,
+          "name": "rightup",
+          "frame": [
+            {
+              "duration": 11
+            },
+            {}
+          ],
+          "bone": [
+            {
+              "name": "none",
+              "scaleFrame": [
+                {
+                  "duration": 36
+                }
+              ]
+            },
+            {
+              "name": "layer2",
+              "translateFrame": [
+                {
+                  "duration": 12,
+                  "x": -7.15,
+                  "y": 7.65
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 12,
+                  "x": -1
+                }
+              ]
+            },
+            {
+              "name": "boday",
+              "scaleFrame": [
+                {
+                  "duration": 36
+                }
+              ]
+            },
+            {
+              "name": "Layer3",
+              "translateFrame": [
+                {
+                  "duration": 12,
+                  "x": -7.15,
+                  "y": 7.65
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 12,
+                  "x": -1
+                }
+              ]
+            }
+          ],
+          "slot": [
+            {
+              "name": "layer2",
+              "displayFrame": [
+                {
+                  "duration": 12,
+                  "value": 2
+                }
+              ]
+            },
+            {
+              "name": "Layer3",
+              "displayFrame": [
+                {
+                  "duration": 12,
+                  "value": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "duration": 12,
+          "name": "right",
+          "frame": [
+            {
+              "duration": 11
+            },
+            {}
+          ],
+          "bone": [
+            {
+              "name": "none",
+              "scaleFrame": [
+                {
+                  "duration": 24
+                }
+              ]
+            },
+            {
+              "name": "layer2",
+              "translateFrame": [
+                {
+                  "duration": 12,
+                  "x": -7.15,
+                  "y": 7.65
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 12,
+                  "x": -1
+                }
+              ]
+            },
+            {
+              "name": "boday",
+              "scaleFrame": [
+                {
+                  "duration": 24
+                }
+              ]
+            },
+            {
+              "name": "Layer3",
+              "translateFrame": [
+                {
+                  "duration": 12,
+                  "x": -7.15,
+                  "y": 7.65
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 12,
+                  "x": -1
+                }
+              ]
+            }
+          ],
+          "slot": [
+            {
+              "name": "layer2",
+              "displayFrame": [
+                {
+                  "duration": 12,
+                  "value": 2
+                }
+              ]
+            },
+            {
+              "name": "Layer3",
+              "displayFrame": [
+                {
+                  "duration": 12,
+                  "value": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "duration": 12,
+          "name": "rightdown",
+          "frame": [
+            {
+              "duration": 11
+            },
+            {}
+          ],
+          "bone": [
+            {
+              "name": "none",
+              "scaleFrame": [
+                {
+                  "duration": 12
+                }
+              ]
+            },
+            {
+              "name": "layer2",
+              "translateFrame": [
+                {
+                  "duration": 12,
+                  "x": -17.3,
+                  "y": -4.05
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 12,
+                  "x": -1
+                }
+              ]
+            },
+            {
+              "name": "boday",
+              "scaleFrame": [
+                {
+                  "duration": 12
+                }
+              ]
+            },
+            {
+              "name": "Layer3",
+              "translateFrame": [
+                {
+                  "duration": 12,
+                  "x": -17.3,
+                  "y": -4.05
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 12,
+                  "x": -1
+                }
+              ]
+            }
+          ],
+          "slot": [
+            {
+              "name": "layer2",
+              "displayFrame": [
+                {
+                  "duration": 12,
+                  "value": 1
+                }
+              ]
+            },
+            {
+              "name": "Layer3",
+              "displayFrame": [
+                {
+                  "duration": 12,
+                  "value": 1
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "hh76",
+      "bone": [
+        {
+          "inheritScale": false,
+          "name": "44",
+          "transform": {
+            "x": 3.2,
+            "y": -18.35,
+            "scX": 0.25,
+            "scY": 0.25
+          }
+        }
+      ],
+      "slot": [
+        {
+          "name": "44",
+          "parent": "44"
+        }
+      ],
+      "skin": [
+        {
+          "slot": [
+            {
+              "name": "44",
+              "display": [
+                {
+                  "name": "补间 57"
+                },
+                {
+                  "name": "补间 58"
+                },
+                {
+                  "name": "补间 60"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "animation": [
+        {
+          "duration": 12,
+          "name": "unnamed",
+          "bone": [
+            {
+              "name": "44",
+              "translateFrame": [
+                {
+                  "duration": 3
+                },
+                {
+                  "duration": 3,
+                  "x": -2.8,
+                  "y": -0.25
+                },
+                {
+                  "duration": 3
+                },
+                {
+                  "duration": 3,
+                  "x": 10.8,
+                  "y": -2.25
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 12
+                }
+              ]
+            }
+          ],
+          "slot": [
+            {
+              "name": "44",
+              "displayFrame": [
+                {
+                  "duration": 3
+                },
+                {
+                  "duration": 3,
+                  "value": 1
+                },
+                {
+                  "duration": 3
+                },
+                {
+                  "duration": 3,
+                  "value": 2
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "hh76 副本",
+      "bone": [
+        {
+          "inheritScale": false,
+          "name": "11",
+          "transform": {
+            "x": 1.25,
+            "y": 2.15,
+            "scX": 0.25,
+            "scY": 0.25
+          }
+        }
+      ],
+      "slot": [
+        {
+          "name": "11",
+          "parent": "11"
+        }
+      ],
+      "skin": [
+        {
+          "slot": [
+            {
+              "name": "11",
+              "display": [
+                {
+                  "name": "重复项目文件夹/补间 5"
+                },
+                {
+                  "name": "重复项目文件夹/补间 22"
+                },
+                {
+                  "name": "重复项目文件夹/补间 28"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "animation": [
+        {
+          "duration": 12,
+          "name": "unnamed",
+          "bone": [
+            {
+              "name": "11",
+              "translateFrame": [
+                {
+                  "duration": 3
+                },
+                {
+                  "duration": 3,
+                  "x": -1.65,
+                  "y": -3.95
+                },
+                {
+                  "duration": 3
+                },
+                {
+                  "duration": 3,
+                  "x": 3.45,
+                  "y": -4.5
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 12
+                }
+              ]
+            }
+          ],
+          "slot": [
+            {
+              "name": "11",
+              "displayFrame": [
+                {
+                  "duration": 3
+                },
+                {
+                  "duration": 3,
+                  "value": 1
+                },
+                {
+                  "duration": 3
+                },
+                {
+                  "duration": 3,
+                  "value": 2
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "hh146",
+      "bone": [
+        {
+          "inheritScale": false,
+          "name": "55",
+          "transform": {
+            "x": -3.35,
+            "y": -8.1,
+            "scX": 0.25,
+            "scY": 0.25
+          }
+        }
+      ],
+      "slot": [
+        {
+          "name": "55",
+          "parent": "55"
+        }
+      ],
+      "skin": [
+        {
+          "slot": [
+            {
+              "name": "55",
+              "display": [
+                {
+                  "name": "补间 61"
+                },
+                {
+                  "name": "补间 62"
+                },
+                {
+                  "name": "补间 63"
+                },
+                {
+                  "name": "补间 64"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "animation": [
+        {
+          "duration": 12,
+          "name": "unnamed",
+          "bone": [
+            {
+              "name": "55",
+              "translateFrame": [
+                {
+                  "duration": 3
+                },
+                {
+                  "duration": 3,
+                  "x": -0.7,
+                  "y": -7.2
+                },
+                {
+                  "duration": 3
+                },
+                {
+                  "duration": 3,
+                  "x": -0.7,
+                  "y": -5.95
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 12
+                }
+              ]
+            }
+          ],
+          "slot": [
+            {
+              "name": "55",
+              "displayFrame": [
+                {
+                  "duration": 3
+                },
+                {
+                  "duration": 3,
+                  "value": 1
+                },
+                {
+                  "duration": 3,
+                  "value": 2
+                },
+                {
+                  "duration": 3,
+                  "value": 3
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "hh146 副本",
+      "bone": [
+        {
+          "inheritScale": false,
+          "name": "22",
+          "transform": {
+            "x": -3.15,
+            "y": -19.95,
+            "scX": 0.25,
+            "scY": 0.25
+          }
+        }
+      ],
+      "slot": [
+        {
+          "name": "22",
+          "parent": "22"
+        }
+      ],
+      "skin": [
+        {
+          "slot": [
+            {
+              "name": "22",
+              "display": [
+                {
+                  "name": "重复项目文件夹/补间 29"
+                },
+                {
+                  "name": "重复项目文件夹/补间 30"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "animation": [
+        {
+          "duration": 12,
+          "name": "unnamed",
+          "bone": [
+            {
+              "name": "22",
+              "translateFrame": [
+                {
+                  "duration": 3
+                },
+                {
+                  "duration": 3,
+                  "x": 2.65,
+                  "y": -7.15
+                },
+                {
+                  "duration": 3
+                },
+                {
+                  "duration": 3,
+                  "x": 2.65,
+                  "y": -7.15
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 12
+                }
+              ]
+            }
+          ],
+          "slot": [
+            {
+              "name": "22",
+              "displayFrame": [
+                {
+                  "duration": 3
+                },
+                {
+                  "duration": 3,
+                  "value": 1
+                },
+                {
+                  "duration": 3
+                },
+                {
+                  "duration": 3,
+                  "value": 1
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "HH147",
+      "bone": [
+        {
+          "inheritScale": false,
+          "name": "66",
+          "transform": {
+            "x": 10.85,
+            "y": -18.3,
+            "scX": 0.25,
+            "scY": 0.25
+          }
+        }
+      ],
+      "slot": [
+        {
+          "name": "66",
+          "parent": "66"
+        }
+      ],
+      "skin": [
+        {
+          "slot": [
+            {
+              "name": "66",
+              "display": [
+                {
+                  "name": "补间 65"
+                },
+                {
+                  "name": "补间 66"
+                },
+                {
+                  "name": "补间 67"
+                },
+                {
+                  "name": "补间 68"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "animation": [
+        {
+          "duration": 12,
+          "name": "unnamed",
+          "bone": [
+            {
+              "name": "66",
+              "translateFrame": [
+                {
+                  "duration": 3
+                },
+                {
+                  "duration": 3,
+                  "x": -1.85,
+                  "y": -3.95
+                },
+                {
+                  "duration": 3
+                },
+                {
+                  "duration": 3,
+                  "x": -8.85,
+                  "y": -5.95
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 12
+                }
+              ]
+            }
+          ],
+          "slot": [
+            {
+              "name": "66",
+              "displayFrame": [
+                {
+                  "duration": 3
+                },
+                {
+                  "duration": 3,
+                  "value": 1
+                },
+                {
+                  "duration": 3,
+                  "value": 2
+                },
+                {
+                  "duration": 3,
+                  "value": 3
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "HH147 副本",
+      "bone": [
+        {
+          "inheritScale": false,
+          "name": "33",
+          "transform": {
+            "x": -13.05,
+            "y": -34.9,
+            "scX": 0.25,
+            "scY": 0.25
+          }
+        }
+      ],
+      "slot": [
+        {
+          "name": "33",
+          "parent": "33"
+        }
+      ],
+      "skin": [
+        {
+          "slot": [
+            {
+              "name": "33",
+              "display": [
+                {
+                  "name": "重复项目文件夹/补间 33"
+                },
+                {
+                  "name": "重复项目文件夹/补间 34"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "animation": [
+        {
+          "duration": 12,
+          "name": "unnamed",
+          "bone": [
+            {
+              "name": "33",
+              "translateFrame": [
+                {
+                  "duration": 3
+                },
+                {
+                  "duration": 3,
+                  "x": 2.75,
+                  "y": -4.6
+                },
+                {
+                  "duration": 3
+                },
+                {
+                  "duration": 3,
+                  "x": 2.75,
+                  "y": -4.6
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 12
+                }
+              ]
+            }
+          ],
+          "slot": [
+            {
+              "name": "33",
+              "displayFrame": [
+                {
+                  "duration": 3
+                },
+                {
+                  "duration": 3,
+                  "value": 1
+                },
+                {
+                  "duration": 3
+                },
+                {
+                  "duration": 3,
+                  "value": 1
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "SubTexture": [
+    {
+      "name": "元件 1",
+      "x": 62,
+      "width": 37,
+      "y": 0,
+      "height": 29
+    },
+    {
+      "name": "jio0",
+      "x": 31,
+      "width": 30,
+      "y": 0,
+      "height": 38
+    },
+    {
+      "name": "jio2",
+      "x": 100,
+      "width": 23,
+      "y": 0,
+      "height": 39
+    },
+    {
+      "name": "jio3",
+      "x": 0,
+      "width": 30,
+      "y": 0,
+      "height": 39
+    },
+    {
+      "name": "jio4",
+      "x": 62,
+      "width": 36,
+      "y": 30,
+      "height": 29
+    }
+  ],
+  "name": 100742,
+  "imagePath": "texture.png"
+}

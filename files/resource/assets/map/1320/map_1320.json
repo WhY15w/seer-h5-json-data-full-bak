@@ -1,0 +1,25 @@
+{
+  "resources": [
+    {
+      "type": "json",
+      "url": "1320.json",
+      "name": "road_1320"
+    },
+    {
+      "type": "text",
+      "url": "Map1320Skin.exml",
+      "name": "exml_1320"
+    },
+    {
+      "type": "image",
+      "url": "map_1320_bg_mc.jpg",
+      "name": "map_1320_bg_mc_jpg"
+    }
+  ],
+  "groups": [
+    {
+      "keys": "road_1320,exml_1320,map_1320_bg_mc_jpg",
+      "name": "map_1320"
+    }
+  ]
+}

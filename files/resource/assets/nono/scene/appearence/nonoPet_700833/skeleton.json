@@ -1,0 +1,894 @@
+{
+  "frameRate": 24,
+  "name": "nonoPet_700833",
+  "version": "5.5",
+  "compatibleVersion": "5.5",
+  "armature": [
+    {
+      "name": "nono",
+      "bone": [
+        {
+          "inheritScale": false,
+          "name": "Layer 4",
+          "transform": {
+            "x": 40.75,
+            "y": 107.65,
+            "scX": -0.2477,
+            "scY": 0.2477
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "Layer 3",
+          "transform": {
+            "x": 39.3,
+            "y": 78.4
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "Layer 2",
+          "transform": {
+            "x": 57.4,
+            "y": 59.25
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "Layer 1",
+          "transform": {
+            "x": 21,
+            "y": 59.25
+          }
+        }
+      ],
+      "slot": [
+        {
+          "name": "Layer 4",
+          "parent": "Layer 4"
+        },
+        {
+          "name": "Layer 3",
+          "parent": "Layer 3"
+        },
+        {
+          "name": "Layer 2",
+          "parent": "Layer 2"
+        },
+        {
+          "name": "Layer 1",
+          "parent": "Layer 1"
+        }
+      ],
+      "skin": [
+        {
+          "slot": [
+            {
+              "name": "Layer 4",
+              "display": [
+                {
+                  "name": "shadow",
+                  "transform": {
+                    "x": -0.9,
+                    "y": 1.1
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Layer 3",
+              "display": [
+                {
+                  "name": "补间 2",
+                  "transform": {
+                    "x": 1.05,
+                    "y": -5.05
+                  }
+                },
+                {
+                  "name": "补间 22",
+                  "transform": {
+                    "x": 7.5,
+                    "y": -6.9
+                  }
+                },
+                {
+                  "name": "补间 33",
+                  "transform": {
+                    "x": 19.15,
+                    "y": 0.45
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Layer 2"
+            },
+            {
+              "name": "Layer 1"
+            }
+          ]
+        }
+      ],
+      "animation": [
+        {
+          "duration": 20,
+          "name": "down",
+          "bone": [
+            {
+              "name": "Layer 4",
+              "scaleFrame": [
+                {
+                  "duration": 20
+                }
+              ]
+            },
+            {
+              "name": "Layer 3",
+              "translateFrame": [
+                {
+                  "duration": 9,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "y": -2.1
+                },
+                {}
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 20
+                }
+              ]
+            },
+            {
+              "name": "Layer 2",
+              "translateFrame": [
+                {
+                  "duration": 9,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "x": -0.2,
+                  "y": -1.65
+                },
+                {}
+              ],
+              "rotateFrame": [
+                {
+                  "duration": 9,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "rotate": -1.05
+                },
+                {}
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 20
+                }
+              ]
+            },
+            {
+              "name": "Layer 1",
+              "translateFrame": [
+                {
+                  "duration": 9,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "x": 0.35,
+                  "y": -1.25
+                },
+                {}
+              ],
+              "rotateFrame": [
+                {
+                  "duration": 9,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "rotate": 0.5
+                },
+                {}
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 20
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "duration": 20,
+          "name": "rightdown",
+          "bone": [
+            {
+              "name": "Layer 4",
+              "translateFrame": [
+                {
+                  "duration": 20,
+                  "x": 16.45,
+                  "y": 0.76
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 20
+                }
+              ]
+            },
+            {
+              "name": "Layer 3",
+              "translateFrame": [
+                {
+                  "duration": 9,
+                  "tweenEasing": 0,
+                  "x": 14.4,
+                  "y": -3.7
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "x": 14.4,
+                  "y": -5.35
+                },
+                {
+                  "x": 14.4,
+                  "y": -3.7
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 20,
+                  "x": -1
+                }
+              ]
+            },
+            {
+              "name": "Layer 2",
+              "translateFrame": [
+                {
+                  "duration": 9,
+                  "tweenEasing": 0,
+                  "x": 8.45,
+                  "y": -9.15
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "x": 8.45,
+                  "y": -9.2
+                },
+                {
+                  "x": 8.45,
+                  "y": -9.15
+                }
+              ],
+              "rotateFrame": [
+                {
+                  "duration": 9,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "rotate": -1.45
+                },
+                {}
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 20,
+                  "x": -1
+                }
+              ]
+            },
+            {
+              "name": "Layer 1",
+              "translateFrame": [
+                {
+                  "duration": 9,
+                  "tweenEasing": 0,
+                  "x": 11.7,
+                  "y": -6.75
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "x": 13.05,
+                  "y": -6.5
+                },
+                {
+                  "x": 11.7,
+                  "y": -6.75
+                }
+              ],
+              "rotateFrame": [
+                {
+                  "duration": 9,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "rotate": 4.19
+                },
+                {}
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 20,
+                  "x": -1
+                }
+              ]
+            }
+          ],
+          "slot": [
+            {
+              "name": "Layer 3",
+              "displayFrame": [
+                {
+                  "duration": 20,
+                  "value": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "duration": 20,
+          "name": "rightup",
+          "bone": [
+            {
+              "name": "Layer 4",
+              "translateFrame": [
+                {
+                  "duration": 20,
+                  "x": 11.15,
+                  "y": 3.86
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 20
+                }
+              ]
+            },
+            {
+              "name": "Layer 3",
+              "translateFrame": [
+                {
+                  "duration": 9,
+                  "tweenEasing": 0,
+                  "x": 10.95,
+                  "y": -3.5
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "x": 10.95,
+                  "y": -4.85
+                },
+                {
+                  "x": 10.95,
+                  "y": -3.5
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 20,
+                  "x": -1
+                }
+              ]
+            },
+            {
+              "name": "Layer 2",
+              "translateFrame": [
+                {
+                  "duration": 9,
+                  "tweenEasing": 0,
+                  "x": -25.45,
+                  "y": -4.55
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "x": -24.75,
+                  "y": -4.65
+                },
+                {
+                  "x": -25.45,
+                  "y": -4.55
+                }
+              ],
+              "rotateFrame": [
+                {
+                  "duration": 9,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "rotate": 1.72
+                },
+                {}
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 20,
+                  "x": -1
+                }
+              ]
+            },
+            {
+              "name": "Layer 1",
+              "translateFrame": [
+                {
+                  "duration": 9,
+                  "tweenEasing": 0,
+                  "x": 46.15,
+                  "y": -1.8
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "x": 46.05,
+                  "y": -1.85
+                },
+                {
+                  "x": 46.15,
+                  "y": -1.8
+                }
+              ],
+              "rotateFrame": [
+                {
+                  "duration": 9,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "rotate": 0.75
+                },
+                {}
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 20,
+                  "x": -1
+                }
+              ]
+            }
+          ],
+          "slot": [
+            {
+              "name": "Layer 3",
+              "displayFrame": [
+                {
+                  "duration": 20,
+                  "value": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "duration": 20,
+          "name": "downWalk",
+          "bone": [
+            {
+              "name": "Layer 4",
+              "translateFrame": [
+                {
+                  "duration": 20,
+                  "x": 1.75,
+                  "y": 4.25
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 20
+                }
+              ]
+            },
+            {
+              "name": "Layer 3",
+              "translateFrame": [
+                {
+                  "duration": 9,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "y": -2.1
+                },
+                {}
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 20
+                }
+              ]
+            },
+            {
+              "name": "Layer 2",
+              "translateFrame": [
+                {
+                  "duration": 9,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "x": -0.2,
+                  "y": -1.65
+                },
+                {}
+              ],
+              "rotateFrame": [
+                {
+                  "duration": 9,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "rotate": -1.05
+                },
+                {}
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 20
+                }
+              ]
+            },
+            {
+              "name": "Layer 1",
+              "translateFrame": [
+                {
+                  "duration": 9,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "x": 0.35,
+                  "y": -1.25
+                },
+                {}
+              ],
+              "rotateFrame": [
+                {
+                  "duration": 9,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "rotate": 0.5
+                },
+                {}
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 20
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "duration": 21,
+          "name": "rightdownWalk",
+          "bone": [
+            {
+              "name": "Layer 4",
+              "translateFrame": [
+                {
+                  "duration": 21,
+                  "x": 7.1,
+                  "y": 0.76
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 21
+                }
+              ]
+            },
+            {
+              "name": "Layer 3",
+              "translateFrame": [
+                {
+                  "duration": 9,
+                  "tweenEasing": 0,
+                  "x": 14.4,
+                  "y": -3.7
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "x": 14.4,
+                  "y": -5.35
+                },
+                {
+                  "x": 14.4,
+                  "y": -3.7
+                },
+                {
+                  "tweenEasing": 0,
+                  "x": 10.95,
+                  "y": -3.5
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 21,
+                  "x": -1
+                }
+              ]
+            },
+            {
+              "name": "Layer 2",
+              "translateFrame": [
+                {
+                  "duration": 9,
+                  "tweenEasing": 0,
+                  "x": 8.45,
+                  "y": -9.15
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "x": 8.45,
+                  "y": -9.2
+                },
+                {
+                  "x": 8.45,
+                  "y": -9.15
+                },
+                {
+                  "tweenEasing": 0,
+                  "x": -25.45,
+                  "y": -4.55
+                }
+              ],
+              "rotateFrame": [
+                {
+                  "duration": 9,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "rotate": -1.45
+                },
+                {
+                  "duration": 2
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 21,
+                  "x": -1
+                }
+              ]
+            },
+            {
+              "name": "Layer 1",
+              "translateFrame": [
+                {
+                  "duration": 9,
+                  "tweenEasing": 0,
+                  "x": 11.7,
+                  "y": -6.75
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "x": 13.05,
+                  "y": -6.5
+                },
+                {
+                  "x": 11.7,
+                  "y": -6.75
+                },
+                {
+                  "tweenEasing": 0,
+                  "x": 46.15,
+                  "y": -1.8
+                }
+              ],
+              "rotateFrame": [
+                {
+                  "duration": 9,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "rotate": 4.19
+                },
+                {
+                  "duration": 2
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 21,
+                  "x": -1
+                }
+              ]
+            }
+          ],
+          "slot": [
+            {
+              "name": "Layer 3",
+              "displayFrame": [
+                {
+                  "duration": 20,
+                  "value": 1
+                },
+                {
+                  "value": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "duration": 19,
+          "name": "rightupWalk",
+          "bone": [
+            {
+              "name": "Layer 4",
+              "translateFrame": [
+                {
+                  "duration": 19,
+                  "x": 10.79,
+                  "y": 4.2
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 19
+                }
+              ]
+            },
+            {
+              "name": "Layer 3",
+              "translateFrame": [
+                {
+                  "duration": 8,
+                  "tweenEasing": 0,
+                  "x": 10.95,
+                  "y": -3.5
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "x": 10.95,
+                  "y": -4.85
+                },
+                {
+                  "x": 10.95,
+                  "y": -3.5
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 19,
+                  "x": -1
+                }
+              ]
+            },
+            {
+              "name": "Layer 2",
+              "translateFrame": [
+                {
+                  "duration": 8,
+                  "tweenEasing": 0,
+                  "x": -25.45,
+                  "y": -4.55
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "x": -24.75,
+                  "y": -4.65
+                },
+                {
+                  "x": -25.45,
+                  "y": -4.55
+                }
+              ],
+              "rotateFrame": [
+                {
+                  "duration": 8,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "rotate": 1.72
+                },
+                {}
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 19,
+                  "x": -1
+                }
+              ]
+            },
+            {
+              "name": "Layer 1",
+              "translateFrame": [
+                {
+                  "duration": 8,
+                  "tweenEasing": 0,
+                  "x": 46.15,
+                  "y": -1.8
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "x": 46.05,
+                  "y": -1.85
+                },
+                {
+                  "x": 46.15,
+                  "y": -1.8
+                }
+              ],
+              "rotateFrame": [
+                {
+                  "duration": 8,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "rotate": 0.75
+                },
+                {}
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 19,
+                  "x": -1
+                }
+              ]
+            }
+          ],
+          "slot": [
+            {
+              "name": "Layer 3",
+              "displayFrame": [
+                {
+                  "duration": 19,
+                  "value": 2
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "resources": [
+    {
+      "type": "json",
+      "url": "805.json",
+      "name": "road_805"
+    },
+    {
+      "type": "text",
+      "url": "Map805Skin.exml",
+      "name": "exml_805"
+    },
+    {
+      "type": "image",
+      "url": "map_805_bg_mc.jpg",
+      "name": "map_805_bg_mc_jpg"
+    }
+  ],
+  "groups": [
+    {
+      "keys": "road_805,exml_805,map_805_bg_mc_jpg",
+      "name": "map_805"
+    }
+  ]
+}

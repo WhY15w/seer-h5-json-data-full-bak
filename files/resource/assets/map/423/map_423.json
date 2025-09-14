@@ -1,0 +1,80 @@
+{
+  "resources": [
+    {
+      "url": "423.json",
+      "type": "json",
+      "name": "road_423"
+    },
+    {
+      "url": "Map423Skin.exml",
+      "type": "text",
+      "name": "exml_423"
+    },
+    {
+      "url": "map_423_bg_mc.jpg",
+      "type": "image",
+      "name": "map_423_bg_mc_jpg"
+    },
+    {
+      "url": "map_423_stoneBtn.png",
+      "type": "image",
+      "name": "map_423_stoneBtn_png"
+    },
+    {
+      "url": "map_423_instance11.png",
+      "type": "image",
+      "name": "map_423_instance11_png"
+    },
+    {
+      "url": "map_423_dgser.png",
+      "type": "image",
+      "name": "map_423_dgser_png"
+    },
+    {
+      "url": "map_423_gsghhe.png",
+      "type": "image",
+      "name": "map_423_gsghhe_png"
+    },
+    {
+      "url": "map_423_mushroom1.png",
+      "type": "image",
+      "name": "map_423_mushroom1_png"
+    },
+    {
+      "url": "map_423_fyrse.png",
+      "type": "image",
+      "name": "map_423_fyrse_png"
+    },
+    {
+      "url": "map_423_dizuo.png",
+      "type": "image",
+      "name": "map_423_dizuo_png"
+    },
+    {
+      "url": "map_423_electricline.png",
+      "type": "image",
+      "name": "map_423_electricline_png"
+    },
+    {
+      "url": "map_423_control_mc.png",
+      "type": "image",
+      "name": "map_423_control_mc_png"
+    },
+    {
+      "url": "map_423_sptBtn.png",
+      "type": "image",
+      "name": "map_423_sptBtn_png"
+    },
+    {
+      "url": "map_423_top_mc.png",
+      "type": "image",
+      "name": "map_423_top_mc_png"
+    }
+  ],
+  "groups": [
+    {
+      "name": "map_423",
+      "keys": "road_423,exml_423,map_423_bg_mc_jpg,map_423_stoneBtn_png,map_423_instance11_png,map_423_dgser_png,map_423_gsghhe_png,map_423_mushroom1_png,map_423_fyrse_png,map_423_dizuo_png,map_423_electricline_png,map_423_control_mc_png,map_423_sptBtn_png,map_423_top_mc_png"
+    }
+  ]
+}

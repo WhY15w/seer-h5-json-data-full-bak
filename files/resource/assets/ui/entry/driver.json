@@ -1,0 +1,170 @@
+[
+  {
+    "name": "common",
+    "type": "js",
+    "url": "resource/app/common/common.js",
+    "param": "",
+    "action": ""
+  },
+  {
+    "name": "configModule",
+    "type": "js",
+    "param": "",
+    "url": "resource/app/configModule/configModule.js",
+    "action": "window.config.init"
+  },
+  {
+    "name": "login",
+    "type": "res",
+    "param": "resource/assets/ui/",
+    "url": "resource/assets/ui/login.json",
+    "action": ""
+  },
+  {
+    "name": "activity_announcement",
+    "type": "res",
+    "param": "resource/assets/ui/",
+    "url": "resource/assets/ui/activity_announcement.json",
+    "action": ""
+  },
+  {
+    "name": "cloth_transform",
+    "type": "json",
+    "param": "",
+    "url": "resource/assets/item/cloth/config/cloth_transform.json",
+    "action": ""
+  },
+  {
+    "name": "socket",
+    "type": "js",
+    "param": "",
+    "url": "resource/app/socket/socket.js",
+    "action": ""
+  },
+  {
+    "name": "popViewManager",
+    "type": "js",
+    "param": "",
+    "url": "resource/app/popViewManager/popViewManager.js",
+    "action": ""
+  },
+  {
+    "name": "core",
+    "type": "js",
+    "param": "",
+    "url": "resource/app/core/core.js",
+    "action": "Core.init"
+  },
+  {
+    "name": "battle",
+    "type": "js",
+    "param": "",
+    "url": "resource/app/battle/battle.js",
+    "action": "Battle.init"
+  },
+  {
+    "name": "tips",
+    "type": "js",
+    "param": "",
+    "url": "resource/app/tips/tips.js",
+    "action": ""
+  },
+  {
+    "name": "activityAnnouncement",
+    "type": "js",
+    "param": "",
+    "url": "resource/app/activityAnnouncement/activityAnnouncement.js",
+    "action": ""
+  },
+  {
+    "name": "tipsPop",
+    "type": "js",
+    "param": "",
+    "url": "resource/app/tipsPop/tipsPop.js",
+    "action": ""
+  },
+  {
+    "name": "bubblerManager",
+    "type": "js",
+    "param": "",
+    "url": "resource/app/bubblerManager/bubblerManager.js",
+    "action": ""
+  },
+  {
+    "name": "npcDialog",
+    "type": "js",
+    "param": "",
+    "url": "resource/app/npcDialog/npcDialog.js",
+    "action": ""
+  },
+  {
+    "name": "shader",
+    "type": "js",
+    "param": "",
+    "url": "resource/app/shader/shader.js",
+    "action": ""
+  },
+  {
+    "name": "chat",
+    "type": "res",
+    "param": "resource/assets/ui/",
+    "url": "resource/assets/ui/chat.json",
+    "action": ""
+  },
+  {
+    "name": "chat",
+    "type": "js",
+    "url": "resource/app/chat/chat.js",
+    "param": "",
+    "action": ""
+  },
+  {
+    "name": "mapModel",
+    "type": "js",
+    "url": "resource/app/mapModel/mapModel.js",
+    "param": "",
+    "action": ""
+  },
+  {
+    "name": "toolBar",
+    "type": "js",
+    "url": "resource/app/toolBar/toolBar.js",
+    "param": "",
+    "action": ""
+  },
+  {
+    "name": "reconnectionPanel",
+    "type": "js",
+    "url": "resource/app/reconnectionPanel/reconnectionPanel.js",
+    "param": "",
+    "action": ""
+  },
+  {
+    "name": "mainPanel",
+    "type": "js",
+    "url": "resource/app/mainPanel/mainPanel.js",
+    "param": "",
+    "action": ""
+  },
+  {
+    "name": "roomModel",
+    "type": "js",
+    "url": "resource/app/roomModel/roomModel.js",
+    "param": "",
+    "action": ""
+  },
+  {
+    "name": "roomToolBar",
+    "type": "js",
+    "url": "resource/app/roomToolBar/roomToolBar.js",
+    "param": "",
+    "action": ""
+  },
+  {
+    "name": "baseMenuComponent",
+    "type": "js",
+    "url": "resource/app/baseMenuComponent/baseMenuComponent.js",
+    "param": "",
+    "action": ""
+  }
+]

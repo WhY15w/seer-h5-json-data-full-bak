@@ -1,0 +1,96 @@
+{
+  "groups": [
+    {
+      "name": "battle_test_machine",
+      "keys": "battle_test_machine_sheet,battle_test_machine_bg_jpg,battle_test_machine_combat_test_bg0_jpg,battle_test_machine_combat_test_testbg_png,battle_test_machine_combat_test_zssh_png,battle_test_machine_fight_bg0_jpg,battle_test_machine_fight_bg1_jpg,battle_test_machine_fight_pet_4114_png,battle_test_machine_rank_bg_png,battle_test_machine_train_fight_info_tankuang_png,battle_test_machine_train_fight_pve_bg_png,battle_test_machine_train_fight_pvp_bg_png,battle_test_machine_train_img_custom_png,battle_test_machine_train_img_pve_png,battle_test_machine_train_img_pvp_png,battle_test_machine_train_img_real_png,battle_test_machine_train_select_info_bg_png"
+    }
+  ],
+  "resources": [
+    {
+      "name": "battle_test_machine_bg_jpg",
+      "type": "image",
+      "url": "battle_test_machine/outside/battle_test_machine_bg.jpg"
+    },
+    {
+      "name": "battle_test_machine_combat_test_bg0_jpg",
+      "type": "image",
+      "url": "battle_test_machine/outside/battle_test_machine_combat_test_bg0.jpg"
+    },
+    {
+      "name": "battle_test_machine_combat_test_testbg_png",
+      "type": "image",
+      "url": "battle_test_machine/outside/battle_test_machine_combat_test_testbg.png"
+    },
+    {
+      "name": "battle_test_machine_combat_test_zssh_png",
+      "type": "image",
+      "url": "battle_test_machine/outside/battle_test_machine_combat_test_zssh.png"
+    },
+    {
+      "name": "battle_test_machine_fight_bg0_jpg",
+      "type": "image",
+      "url": "battle_test_machine/outside/battle_test_machine_fight_bg0.jpg"
+    },
+    {
+      "name": "battle_test_machine_fight_bg1_jpg",
+      "type": "image",
+      "url": "battle_test_machine/outside/battle_test_machine_fight_bg1.jpg"
+    },
+    {
+      "name": "battle_test_machine_fight_pet_4114_png",
+      "type": "image",
+      "url": "battle_test_machine/outside/battle_test_machine_fight_pet_4114.png"
+    },
+    {
+      "name": "battle_test_machine_rank_bg_png",
+      "type": "image",
+      "url": "battle_test_machine/outside/battle_test_machine_rank_bg.png"
+    },
+    {
+      "name": "battle_test_machine_train_fight_info_tankuang_png",
+      "type": "image",
+      "url": "battle_test_machine/outside/battle_test_machine_train_fight_info_tankuang.png"
+    },
+    {
+      "name": "battle_test_machine_train_fight_pve_bg_png",
+      "type": "image",
+      "url": "battle_test_machine/outside/battle_test_machine_train_fight_pve_bg.png"
+    },
+    {
+      "name": "battle_test_machine_train_fight_pvp_bg_png",
+      "type": "image",
+      "url": "battle_test_machine/outside/battle_test_machine_train_fight_pvp_bg.png"
+    },
+    {
+      "name": "battle_test_machine_train_img_custom_png",
+      "type": "image",
+      "url": "battle_test_machine/outside/battle_test_machine_train_img_custom.png"
+    },
+    {
+      "name": "battle_test_machine_train_img_pve_png",
+      "type": "image",
+      "url": "battle_test_machine/outside/battle_test_machine_train_img_pve.png"
+    },
+    {
+      "name": "battle_test_machine_train_img_pvp_png",
+      "type": "image",
+      "url": "battle_test_machine/outside/battle_test_machine_train_img_pvp.png"
+    },
+    {
+      "name": "battle_test_machine_train_img_real_png",
+      "type": "image",
+      "url": "battle_test_machine/outside/battle_test_machine_train_img_real.png"
+    },
+    {
+      "name": "battle_test_machine_train_select_info_bg_png",
+      "type": "image",
+      "url": "battle_test_machine/outside/battle_test_machine_train_select_info_bg.png"
+    },
+    {
+      "name": "battle_test_machine_sheet",
+      "type": "sheet",
+      "url": "battle_test_machine/battle_test_machine_sheet.json",
+      "subkeys": "battle_test_machine_boss_attr_pop_btnConfirm_png,battle_test_machine_boss_attr_pop_inputbg_png,battle_test_machine_boss_attr_pop_rect_png,battle_test_machine_boss_attr_pop_selcted_png,battle_test_machine_boss_attr_pop_textBg_png,battle_test_machine_boss_attr_pop_title_png,battle_test_machine_combat_test_btnCure_png,battle_test_machine_combat_test_btnDetail_png,battle_test_machine_combat_test_btnInfo_png,battle_test_machine_combat_test_btnPet_png,battle_test_machine_combat_test_btnRank_png,battle_test_machine_combat_test_btnstart_png,battle_test_machine_combat_test_close_png,battle_test_machine_combat_test_dian_png,battle_test_machine_combat_test_dianbg_png,battle_test_machine_combat_test_pet_458_png,battle_test_machine_combat_test_pet_485_png,battle_test_machine_combat_test_title_pve_png,battle_test_machine_combat_test_title_pvp_png,battle_test_machine_detail_pop_bg_png,battle_test_machine_fight_btnCompose_png,battle_test_machine_fight_btnLock_png,battle_test_machine_fight_btnLocked_png,battle_test_machine_fight_btnPve_png,battle_test_machine_fight_btnPvp_png,battle_test_machine_fight_btnSearch_png,battle_test_machine_fight_btnType_png,battle_test_machine_fight_petBg_png,battle_test_machine_fight_rb_down_png,battle_test_machine_fight_rb_up_png,battle_test_machine_fight_select_png,battle_test_machine_fight_skinbg_png,battle_test_machine_fight_title_png,battle_test_machine_imgBtn_cure_png,battle_test_machine_imgBtn_pet_png,battle_test_machine_img_pve_png,battle_test_machine_img_pvp_png,battle_test_machine_img_train_png,battle_test_machine_my_attr_pop_btnCancel_png,battle_test_machine_my_attr_pop_btnConfirm_png,battle_test_machine_my_attr_pop_inputbg_png,battle_test_machine_pet_item_bg_png,battle_test_machine_pet_item_nameBg_png,battle_test_machine_prize_firstsign_png,battle_test_machine_rank_2_png,battle_test_machine_rank_4_png,battle_test_machine_skin_item_bg_png,battle_test_machine_skin_item_select__png,battle_test_machine_tarin_start_btn_png,battle_test_machine_tarin_start_btn_unable_png,battle_test_machine_title_png,battle_test_machine_train_fight_achieveSign_png,battle_test_machine_train_fight_detailBtnBg_png,battle_test_machine_train_fight_emptySign_png,battle_test_machine_train_fight_equipSign_png,battle_test_machine_train_fight_fight_rb_down_png,battle_test_machine_train_fight_fight_rb_up_png,battle_test_machine_train_fight_findBtn_png,battle_test_machine_train_fight_info_effectImg_png,battle_test_machine_train_fight_info_effectyu_png,battle_test_machine_train_fight_info_fifthSign_1_png,battle_test_machine_train_fight_info_fifthSign_2_png,battle_test_machine_train_fight_info_fifthSign_3_png,battle_test_machine_train_fight_info_imgSkillIcon_png,battle_test_machine_train_fight_info_line_png,battle_test_machine_train_fight_info_nameText3_png,battle_test_machine_train_fight_info_o_png,battle_test_machine_train_fight_info_s_png,battle_test_machine_train_fight_info_sssss_png,battle_test_machine_train_fight_light_select_png,battle_test_machine_train_fight_lockSign_png,battle_test_machine_train_fight_petInfoBtn_png,battle_test_machine_train_fight_searchBg_png,battle_test_machine_train_fight_startFightBtn_png,battle_test_machine_train_fight_typeBtn_png,battle_test_machine_train_lock_png,battle_test_machine_train_piece_bg_png,battle_test_machine_train_piece_select_png,battle_test_machine_train_piece_sign_png,battle_test_machine_train_resetBtn_png,battle_test_machine_train_select_pve_png,battle_test_machine_train_select_pvp_png,battle_test_machine_train_title_png,darkBox_png,greyBox_png"
+    }
+  ]
+}

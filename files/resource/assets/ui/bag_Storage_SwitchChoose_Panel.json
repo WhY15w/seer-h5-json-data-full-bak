@@ -1,0 +1,16 @@
+{
+  "groups": [
+    {
+      "name": "bag_Storage_SwitchChoose_Panel",
+      "keys": "bag_Storage_SwitchChoose_Panel_sheet"
+    }
+  ],
+  "resources": [
+    {
+      "name": "bag_Storage_SwitchChoose_Panel_sheet",
+      "type": "sheet",
+      "url": "bag_Storage_SwitchChoose_Panel/bag_Storage_SwitchChoose_Panel_sheet.json",
+      "subkeys": "bag_Storage_SwitchChoose_Panel_juxing_26_png,bag_Storage_SwitchChoose_Panel_kuang_png,bag_Storage_SwitchChoose_Panel_petkuang_png,bag_Storage_SwitchChoose_Panel_shoufa_png,bag_Storage_SwitchChoose_Panel_TiHuanJingLing_png,bag_Storage_SwitchChoose_Panel_vipPng_1_png,bag_Storage_SwitchChoose_Panel_vipPng_2_png,bag_Storage_SwitchChoose_Panel_vipPng_3_png,bag_Storage_SwitchChoose_Panel_vipPng_4_png,bag_Storage_SwitchChoose_Panel_vipPng_5_png,bag_Storage_SwitchChoose_Panel_vipPng_czjl_png,bag_Storage_SwitchChoose_Panel_vipPng_dmjl_png"
+    }
+  ]
+}

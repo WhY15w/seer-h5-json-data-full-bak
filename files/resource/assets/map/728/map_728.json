@@ -1,0 +1,50 @@
+{
+  "groups": [
+    {
+      "keys": "road_728,exml_728,map_728_bg_mc_jpg,map_728_control_mc_png,map_728_flower1_png,map_728_flower2_png,map_728_flower3_png,map_728_top_mc_png",
+      "name": "map_728"
+    }
+  ],
+  "resources": [
+    {
+      "type": "json",
+      "url": "728.json",
+      "name": "road_728"
+    },
+    {
+      "type": "text",
+      "url": "Map728Skin.exml",
+      "name": "exml_728"
+    },
+    {
+      "type": "image",
+      "url": "map_728_bg_mc.jpg",
+      "name": "map_728_bg_mc_jpg"
+    },
+    {
+      "type": "image",
+      "url": "map_728_control_mc.png",
+      "name": "map_728_control_mc_png"
+    },
+    {
+      "type": "image",
+      "url": "map_728_flower1.png",
+      "name": "map_728_flower1_png"
+    },
+    {
+      "type": "image",
+      "url": "map_728_flower2.png",
+      "name": "map_728_flower2_png"
+    },
+    {
+      "type": "image",
+      "url": "map_728_flower3.png",
+      "name": "map_728_flower3_png"
+    },
+    {
+      "type": "image",
+      "url": "map_728_top_mc.png",
+      "name": "map_728_top_mc_png"
+    }
+  ]
+}

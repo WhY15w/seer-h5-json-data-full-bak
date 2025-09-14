@@ -1,0 +1,71 @@
+{
+  "groups": [
+    {
+      "name": "anniversary_drainage",
+      "keys": "anniversary_drainage_sheet,anniversarydrainage_bg_png,anniversarydrainage_tu1_png,anniversarydrainage_tu10_png,anniversarydrainage_tu2_png,anniversarydrainage_tu3_png,anniversarydrainage_tu4_png,anniversarydrainage_tu5_png,anniversarydrainage_tu6_png,anniversarydrainage_tu7_png,anniversarydrainage_tu8_png,anniversarydrainage_tu9_png"
+    }
+  ],
+  "resources": [
+    {
+      "name": "anniversarydrainage_bg_png",
+      "type": "image",
+      "url": "anniversary_drainage/outside/anniversarydrainage_bg.png"
+    },
+    {
+      "name": "anniversarydrainage_tu1_png",
+      "type": "image",
+      "url": "anniversary_drainage/outside/anniversarydrainage_tu1.png"
+    },
+    {
+      "name": "anniversarydrainage_tu10_png",
+      "type": "image",
+      "url": "anniversary_drainage/outside/anniversarydrainage_tu10.png"
+    },
+    {
+      "name": "anniversarydrainage_tu2_png",
+      "type": "image",
+      "url": "anniversary_drainage/outside/anniversarydrainage_tu2.png"
+    },
+    {
+      "name": "anniversarydrainage_tu3_png",
+      "type": "image",
+      "url": "anniversary_drainage/outside/anniversarydrainage_tu3.png"
+    },
+    {
+      "name": "anniversarydrainage_tu4_png",
+      "type": "image",
+      "url": "anniversary_drainage/outside/anniversarydrainage_tu4.png"
+    },
+    {
+      "name": "anniversarydrainage_tu5_png",
+      "type": "image",
+      "url": "anniversary_drainage/outside/anniversarydrainage_tu5.png"
+    },
+    {
+      "name": "anniversarydrainage_tu6_png",
+      "type": "image",
+      "url": "anniversary_drainage/outside/anniversarydrainage_tu6.png"
+    },
+    {
+      "name": "anniversarydrainage_tu7_png",
+      "type": "image",
+      "url": "anniversary_drainage/outside/anniversarydrainage_tu7.png"
+    },
+    {
+      "name": "anniversarydrainage_tu8_png",
+      "type": "image",
+      "url": "anniversary_drainage/outside/anniversarydrainage_tu8.png"
+    },
+    {
+      "name": "anniversarydrainage_tu9_png",
+      "type": "image",
+      "url": "anniversary_drainage/outside/anniversarydrainage_tu9.png"
+    },
+    {
+      "name": "anniversary_drainage_sheet",
+      "type": "sheet",
+      "url": "anniversary_drainage/anniversary_drainage_sheet.json",
+      "subkeys": "anniversarydrainage_btnclose_png,anniversarydrainage_btndown_png,anniversarydrainage_btnleft_png,anniversarydrainage_btnright_png,anniversarydrainage_btnup_png,anniversarydrainage_end_png,anniversarydrainage_jinqingqidai_png,anniversarydrainage_txt1_png,anniversarydrainage_txt10_png,anniversarydrainage_txt2_png,anniversarydrainage_txt3_png,anniversarydrainage_txt4_png,anniversarydrainage_txt5_png,anniversarydrainage_txt6_png,anniversarydrainage_txt7_png,anniversarydrainage_txt8_png,anniversarydrainage_txt9_png"
+    }
+  ]
+}

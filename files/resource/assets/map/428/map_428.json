@@ -1,0 +1,50 @@
+{
+  "groups": [
+    {
+      "keys": "road_428,exml_428,map_428_hdjyt6564_png,map_428_bg_mc_jpg,map_428_boxmc_png,map_428_lui8i7_png,map_428_fghjtg65_png,map_428_top_mc_png",
+      "name": "map_428"
+    }
+  ],
+  "resources": [
+    {
+      "type": "json",
+      "url": "428.json",
+      "name": "road_428"
+    },
+    {
+      "type": "text",
+      "url": "Map428Skin.exml",
+      "name": "exml_428"
+    },
+    {
+      "type": "image",
+      "url": "map_428_hdjyt6564.png",
+      "name": "map_428_hdjyt6564_png"
+    },
+    {
+      "type": "image",
+      "url": "map_428_bg_mc.jpg",
+      "name": "map_428_bg_mc_jpg"
+    },
+    {
+      "type": "image",
+      "url": "map_428_boxmc.png",
+      "name": "map_428_boxmc_png"
+    },
+    {
+      "type": "image",
+      "url": "map_428_lui8i7.png",
+      "name": "map_428_lui8i7_png"
+    },
+    {
+      "type": "image",
+      "url": "map_428_fghjtg65.png",
+      "name": "map_428_fghjtg65_png"
+    },
+    {
+      "type": "image",
+      "url": "map_428_top_mc.png",
+      "name": "map_428_top_mc_png"
+    }
+  ]
+}

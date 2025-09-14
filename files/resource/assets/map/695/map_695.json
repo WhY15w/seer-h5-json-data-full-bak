@@ -1,0 +1,25 @@
+{
+  "resources": [
+    {
+      "type": "json",
+      "url": "695.json",
+      "name": "road_695"
+    },
+    {
+      "type": "text",
+      "url": "Map695Skin.exml",
+      "name": "exml_695"
+    },
+    {
+      "type": "image",
+      "url": "map_695_bg_mc.jpg",
+      "name": "map_695_bg_mc_jpg"
+    }
+  ],
+  "groups": [
+    {
+      "keys": "road_695,exml_695,map_695_bg_mc_jpg",
+      "name": "map_695"
+    }
+  ]
+}

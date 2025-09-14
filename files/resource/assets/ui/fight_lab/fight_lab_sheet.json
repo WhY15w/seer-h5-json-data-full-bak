@@ -1,0 +1,585 @@
+{
+  "file": "fight_lab_sheet.png",
+  "frames": {
+    "fight_lab_1_1img1_png": {
+      "x": 1180,
+      "y": 1,
+      "w": 439,
+      "h": 458,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 439,
+      "sourceH": 458
+    },
+    "fight_lab_1_a1_png": {
+      "x": 2031,
+      "y": 1,
+      "w": 11,
+      "h": 19,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 11,
+      "sourceH": 19
+    },
+    "fight_lab_1_a2_png": {
+      "x": 2009,
+      "y": 204,
+      "w": 19,
+      "h": 19,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 19,
+      "sourceH": 19
+    },
+    "fight_lab_1_a3_png": {
+      "x": 2009,
+      "y": 183,
+      "w": 21,
+      "h": 19,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 21,
+      "sourceH": 19
+    },
+    "fight_lab_1_a4_png": {
+      "x": 2009,
+      "y": 162,
+      "w": 23,
+      "h": 19,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 23,
+      "sourceH": 19
+    },
+    "fight_lab_1_a5_png": {
+      "x": 2030,
+      "y": 204,
+      "w": 17,
+      "h": 19,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 17,
+      "sourceH": 19
+    },
+    "fight_lab_1_a6_png": {
+      "x": 2009,
+      "y": 141,
+      "w": 23,
+      "h": 19,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 23,
+      "sourceH": 19
+    },
+    "fight_lab_1_btnclose_png": {
+      "x": 2009,
+      "y": 71,
+      "w": 28,
+      "h": 38,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 28,
+      "sourceH": 38
+    },
+    "fight_lab_1_btnhelp_png": {
+      "x": 2009,
+      "y": 111,
+      "w": 24,
+      "h": 28,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 24,
+      "sourceH": 28
+    },
+    "fight_lab_1_chosse_view_imgbg_png": {
+      "x": 673,
+      "y": 1,
+      "w": 505,
+      "h": 525,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 505,
+      "sourceH": 525
+    },
+    "fight_lab_1_chosse_view_imgbtn1_png": {
+      "x": 1783,
+      "y": 727,
+      "w": 133,
+      "h": 34,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 133,
+      "sourceH": 34
+    },
+    "fight_lab_1_chosse_view_imgbtn2_png": {
+      "x": 452,
+      "y": 477,
+      "w": 134,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 134,
+      "sourceH": 46
+    },
+    "fight_lab_1_describe_imgbg_png": {
+      "x": 1,
+      "y": 477,
+      "w": 449,
+      "h": 213,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 449,
+      "sourceH": 213
+    },
+    "fight_lab_1_describe_imgbossinfo_png": {
+      "x": 1,
+      "y": 692,
+      "w": 203,
+      "h": 24,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 203,
+      "sourceH": 24
+    },
+    "fight_lab_1_describe_imgdetaildown_png": {
+      "x": 1994,
+      "y": 329,
+      "w": 40,
+      "h": 106,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 40,
+      "sourceH": 106
+    },
+    "fight_lab_1_describe_imgdetailup_png": {
+      "x": 2002,
+      "y": 569,
+      "w": 40,
+      "h": 106,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 40,
+      "sourceH": 106
+    },
+    "fight_lab_1_describe_imgfirstreward_png": {
+      "x": 206,
+      "y": 692,
+      "w": 203,
+      "h": 24,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 203,
+      "sourceH": 24
+    },
+    "fight_lab_1_describe_imgitem1_png": {
+      "x": 278,
+      "y": 718,
+      "w": 70,
+      "h": 70,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 70,
+      "sourceH": 70
+    },
+    "fight_lab_1_describe_imgrewarddown_png": {
+      "x": 1126,
+      "y": 606,
+      "w": 40,
+      "h": 106,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 40,
+      "sourceH": 106
+    },
+    "fight_lab_1_describe_imgrewardup_png": {
+      "x": 2002,
+      "y": 677,
+      "w": 40,
+      "h": 106,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 40,
+      "sourceH": 106
+    },
+    "fight_lab_1_describe_imgstrategy_png": {
+      "x": 921,
+      "y": 713,
+      "w": 203,
+      "h": 24,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 203,
+      "sourceH": 24
+    },
+    "fight_lab_1_describe_imgunlockpet_png": {
+      "x": 1,
+      "y": 718,
+      "w": 203,
+      "h": 24,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 203,
+      "sourceH": 24
+    },
+    "fight_lab_1_describe_imgusualreward_png": {
+      "x": 921,
+      "y": 687,
+      "w": 203,
+      "h": 24,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 203,
+      "sourceH": 24
+    },
+    "fight_lab_1_img1_png": {
+      "x": 861,
+      "y": 528,
+      "w": 287,
+      "h": 76,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 287,
+      "sourceH": 76
+    },
+    "fight_lab_1_img2_png": {
+      "x": 1711,
+      "y": 651,
+      "w": 140,
+      "h": 42,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 140,
+      "sourceH": 42
+    },
+    "fight_lab_1_img3_png": {
+      "x": 1621,
+      "y": 329,
+      "w": 371,
+      "h": 154,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 371,
+      "sourceH": 154
+    },
+    "fight_lab_1_imgbgdown_png": {
+      "x": 452,
+      "y": 679,
+      "w": 467,
+      "h": 60,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 467,
+      "sourceH": 60
+    },
+    "fight_lab_1_imgbgup_png": {
+      "x": 452,
+      "y": 612,
+      "w": 473,
+      "h": 65,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 473,
+      "sourceH": 65
+    },
+    "fight_lab_1_imglevelname1_png": {
+      "x": 921,
+      "y": 739,
+      "w": 149,
+      "h": 29,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 149,
+      "sourceH": 29
+    },
+    "fight_lab_1_imglevelname2_png": {
+      "x": 501,
+      "y": 741,
+      "w": 148,
+      "h": 29,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 148,
+      "sourceH": 29
+    },
+    "fight_lab_1_imglevelname3_png": {
+      "x": 651,
+      "y": 741,
+      "w": 147,
+      "h": 29,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 147,
+      "sourceH": 29
+    },
+    "fight_lab_1_imglevelname4_png": {
+      "x": 350,
+      "y": 741,
+      "w": 149,
+      "h": 29,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 149,
+      "sourceH": 29
+    },
+    "fight_lab_1_imgpet_png": {
+      "x": 1,
+      "y": 1,
+      "w": 670,
+      "h": 474,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 670,
+      "sourceH": 476
+    },
+    "fight_lab_1_level_item_imgbg_png": {
+      "x": 1616,
+      "y": 485,
+      "w": 407,
+      "h": 82,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 407,
+      "sourceH": 82
+    },
+    "fight_lab_1_level_item_imgno_png": {
+      "x": 452,
+      "y": 528,
+      "w": 407,
+      "h": 82,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 407,
+      "sourceH": 82
+    },
+    "fight_lab_1_pet_item_imgbg_png": {
+      "x": 1929,
+      "y": 651,
+      "w": 71,
+      "h": 71,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 71,
+      "sourceH": 71
+    },
+    "fight_lab_1_pet_item_imgfirst_png": {
+      "x": 588,
+      "y": 477,
+      "w": 73,
+      "h": 24,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 73,
+      "sourceH": 24
+    },
+    "fight_lab_1_pet_item_imgrect_png": {
+      "x": 1616,
+      "y": 651,
+      "w": 93,
+      "h": 93,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 93,
+      "sourceH": 93
+    },
+    "fight_lab_2_detailline_png": {
+      "x": 350,
+      "y": 772,
+      "w": 369,
+      "h": 2,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 369,
+      "sourceH": 2
+    },
+    "fight_lab_2_imgabilitydown_png": {
+      "x": 800,
+      "y": 741,
+      "w": 40,
+      "h": 82,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 40,
+      "sourceH": 82
+    },
+    "fight_lab_2_imgabilityup_png": {
+      "x": 1072,
+      "y": 739,
+      "w": 40,
+      "h": 82,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 40,
+      "sourceH": 82
+    },
+    "fight_lab_2_imgbg_png": {
+      "x": 1180,
+      "y": 461,
+      "w": 434,
+      "h": 323,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 434,
+      "sourceH": 323
+    },
+    "fight_lab_2_imgbg1_png": {
+      "x": 927,
+      "y": 606,
+      "w": 180,
+      "h": 79,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 180,
+      "sourceH": 79
+    },
+    "fight_lab_2_imgbg5_png": {
+      "x": 1616,
+      "y": 569,
+      "w": 371,
+      "h": 80,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 371,
+      "sourceH": 80
+    },
+    "fight_lab_2_imgbtn_png": {
+      "x": 43,
+      "y": 744,
+      "w": 91,
+      "h": 24,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 91,
+      "sourceH": 24
+    },
+    "fight_lab_2_imgdescribedown_png": {
+      "x": 842,
+      "y": 741,
+      "w": 40,
+      "h": 82,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 40,
+      "sourceH": 82
+    },
+    "fight_lab_2_imgdescribeup_png": {
+      "x": 1,
+      "y": 744,
+      "w": 40,
+      "h": 82,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 40,
+      "sourceH": 82
+    },
+    "fight_lab_2_imgline1_png": {
+      "x": 350,
+      "y": 776,
+      "w": 369,
+      "h": 2,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 369,
+      "sourceH": 2
+    },
+    "fight_lab_2_imgline2_png": {
+      "x": 350,
+      "y": 780,
+      "w": 369,
+      "h": 2,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 369,
+      "sourceH": 2
+    },
+    "fight_lab_2_imgprocessbar_png": {
+      "x": 1783,
+      "y": 763,
+      "w": 127,
+      "h": 12,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 127,
+      "sourceH": 12
+    },
+    "fight_lab_2_imgprocessbarbg_png": {
+      "x": 1616,
+      "y": 767,
+      "w": 126,
+      "h": 10,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 126,
+      "sourceH": 10
+    },
+    "fight_lab_2_imgskilldown_png": {
+      "x": 1126,
+      "y": 714,
+      "w": 40,
+      "h": 82,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 40,
+      "sourceH": 82
+    },
+    "fight_lab_2_imgskillup_png": {
+      "x": 1929,
+      "y": 724,
+      "w": 40,
+      "h": 82,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 40,
+      "sourceH": 82
+    },
+    "fight_lab_2_petani_imgbg_png": {
+      "x": 1621,
+      "y": 1,
+      "w": 386,
+      "h": 326,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 386,
+      "sourceH": 326
+    },
+    "fight_lab_2_txt51_png": {
+      "x": 2009,
+      "y": 1,
+      "w": 20,
+      "h": 68,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 20,
+      "sourceH": 68
+    },
+    "fight_lab_2_yipaqian_png": {
+      "x": 1711,
+      "y": 695,
+      "w": 70,
+      "h": 70,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 70,
+      "sourceH": 70
+    },
+    "fight_lab_2_yipaqian1_png": {
+      "x": 206,
+      "y": 718,
+      "w": 70,
+      "h": 70,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 70,
+      "sourceH": 70
+    },
+    "fight_lab_btnInfo_png": {
+      "x": 1853,
+      "y": 651,
+      "w": 74,
+      "h": 74,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 74,
+      "sourceH": 74
+    }
+  }
+}

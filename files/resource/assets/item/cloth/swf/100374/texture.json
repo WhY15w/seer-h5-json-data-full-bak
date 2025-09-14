@@ -1,0 +1,55 @@
+{
+  "imagePath": "texture.png",
+  "SubTexture": [
+    {
+      "name": "正面元件",
+      "x": 14,
+      "width": 11,
+      "y": 0,
+      "height": 23
+    },
+    {
+      "name": "左下元件",
+      "x": 0,
+      "width": 8,
+      "y": 24,
+      "height": 22
+    },
+    {
+      "name": "右面元件",
+      "x": 9,
+      "width": 7,
+      "y": 24,
+      "height": 22
+    },
+    {
+      "name": "右上元件",
+      "x": 0,
+      "width": 8,
+      "y": 47,
+      "height": 3
+    },
+    {
+      "name": "右上元件sai",
+      "x": 9,
+      "width": 9,
+      "y": 48,
+      "height": 13
+    },
+    {
+      "name": "右面元件sai",
+      "x": 17,
+      "width": 7,
+      "y": 24,
+      "height": 23
+    },
+    {
+      "name": "左下元件sai",
+      "x": 0,
+      "width": 13,
+      "y": 0,
+      "height": 23
+    }
+  ],
+  "name": 100374
+}

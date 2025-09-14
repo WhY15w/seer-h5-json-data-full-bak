@@ -1,0 +1,75 @@
+{
+  "file": "npc_dialog_sheet.png",
+  "frames": {
+    "npc_dialog_imgBtn_next_png": {
+      "x": 1981,
+      "y": 1,
+      "w": 51,
+      "h": 38,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 51,
+      "sourceH": 38
+    },
+    "npc_dialog_imgBtn_sure_png": {
+      "x": 1810,
+      "y": 24,
+      "w": 78,
+      "h": 36,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 78,
+      "sourceH": 36
+    },
+    "npc_dialog_posleft_png": {
+      "x": 1483,
+      "y": 48,
+      "w": 323,
+      "h": 45,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 323,
+      "sourceH": 45
+    },
+    "npc_dialog_texture_001_png": {
+      "x": 1810,
+      "y": 1,
+      "w": 169,
+      "h": 21,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 169,
+      "sourceH": 21
+    },
+    "npc_dialog_texture_002_png": {
+      "x": 1063,
+      "y": 1,
+      "w": 418,
+      "h": 91,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 418,
+      "sourceH": 91
+    },
+    "npc_dialog_texture_dialog_bg_png": {
+      "x": 1,
+      "y": 1,
+      "w": 1060,
+      "h": 209,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 1060,
+      "sourceH": 209
+    },
+    "npc_dialog_texture_npc_name_bg_png": {
+      "x": 1483,
+      "y": 1,
+      "w": 325,
+      "h": 45,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 325,
+      "sourceH": 45
+    }
+  }
+}

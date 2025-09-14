@@ -1,0 +1,35 @@
+{
+  "groups": [
+    {
+      "keys": "road_97,map_97_bg_mc_png,map_97_animator_mc_png,map_97_control_mc_png,exml_97",
+      "name": "map_97"
+    }
+  ],
+  "resources": [
+    {
+      "type": "json",
+      "url": "97.json",
+      "name": "road_97"
+    },
+    {
+      "type": "image",
+      "url": "map_97_bg_mc.png",
+      "name": "map_97_bg_mc_png"
+    },
+    {
+      "type": "image",
+      "url": "map_97_animator_mc.png",
+      "name": "map_97_animator_mc_png"
+    },
+    {
+      "type": "image",
+      "url": "map_97_control_mc.png",
+      "name": "map_97_control_mc_png"
+    },
+    {
+      "name": "exml_97",
+      "type": "text",
+      "url": "Map97Skin.exml"
+    }
+  ]
+}

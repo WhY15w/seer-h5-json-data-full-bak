@@ -1,0 +1,16 @@
+{
+  "groups": [
+    {
+      "name": "mail",
+      "keys": "mail_sheet"
+    }
+  ],
+  "resources": [
+    {
+      "name": "mail_sheet",
+      "type": "sheet",
+      "url": "mail/mail_sheet.json",
+      "subkeys": "mailmainviewnew_btnclose_png,mailmainviewnew_head_bg_png,mailmainviewnew_head_icon_png,mailmainviewnew_img_all_delet_png,mailmainviewnew_img_all_read_png,mailmainviewnew_img_delet_png,mailmainviewnew_img_getaward_png,mailmainviewnew_img_ljqw_png,mailmainviewnew_img_noemail_png,mailmainviewnew_img_star_1_png,mailmainviewnew_img_star_2_png,mailmainviewnew_leftbg_png,mailmainviewnew_line_0_png,mailmainviewnew_texture_0_png,mailmainviewnew_title_png,mailmainviewnew_wjs_kb_png,mainitemnew_fj_png,mainitemnew_line_png,mainitemnew_listbg0_png,mainitemnew_listbg1_png,mainitemnew_listbg2_png,mainitemnew_read_png,mainitemnew_read_star_png,mainitemnew_selected_png,mainitemnew_unfj_png,mainitemnew_unread_png"
+    }
+  ]
+}

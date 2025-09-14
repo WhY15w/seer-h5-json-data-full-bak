@@ -1,0 +1,40 @@
+{
+  "groups": [
+    {
+      "name": "map_2002",
+      "keys": "map_2002_bg_png,map_2002_equip_2_png,map_2002_equip_1_png,map_2002_type_png,road_2002,exml_2002"
+    }
+  ],
+  "resources": [
+    {
+      "name": "map_2002_bg_png",
+      "type": "image",
+      "url": "map_2002_bg.png"
+    },
+    {
+      "name": "road_2002",
+      "type": "json",
+      "url": "2002.json"
+    },
+    {
+      "name": "map_2002_equip_2_png",
+      "type": "image",
+      "url": "map_2002_equip_2.png"
+    },
+    {
+      "name": "map_2002_equip_1_png",
+      "type": "image",
+      "url": "map_2002_equip_1.png"
+    },
+    {
+      "name": "map_2002_type_png",
+      "type": "image",
+      "url": "map_2002_type.png"
+    },
+    {
+      "name": "exml_2002",
+      "type": "text",
+      "url": "Map2002Skin.exml"
+    }
+  ]
+}

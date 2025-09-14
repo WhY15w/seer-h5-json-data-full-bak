@@ -1,0 +1,40 @@
+{
+  "resources": [
+    {
+      "type": "json",
+      "url": "478.json",
+      "name": "road_478"
+    },
+    {
+      "type": "text",
+      "url": "Map478Skin.exml",
+      "name": "exml_478"
+    },
+    {
+      "type": "image",
+      "url": "map_478_bg_mc.jpg",
+      "name": "map_478_bg_mc_jpg"
+    },
+    {
+      "type": "image",
+      "url": "map_478_animator_mc.png",
+      "name": "map_478_animator_mc_png"
+    },
+    {
+      "type": "image",
+      "url": "map_478_shitai.png",
+      "name": "map_478_shitai_png"
+    },
+    {
+      "type": "image",
+      "url": "map_478_top_mc.png",
+      "name": "map_478_top_mc_png"
+    }
+  ],
+  "groups": [
+    {
+      "keys": "road_478,exml_478,map_478_bg_mc_jpg,map_478_animator_mc_png,map_478_shitai_png,map_478_top_mc_png",
+      "name": "map_478"
+    }
+  ]
+}

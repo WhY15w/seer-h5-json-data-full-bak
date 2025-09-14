@@ -1,0 +1,35 @@
+{
+  "groups": [
+    {
+      "keys": "road_81,exml_81,map_81_bg_mc_jpg,map_81_a_png,map_81_top_mc_png",
+      "name": "map_81"
+    }
+  ],
+  "resources": [
+    {
+      "type": "json",
+      "url": "81.json",
+      "name": "road_81"
+    },
+    {
+      "type": "text",
+      "url": "Map81Skin.exml",
+      "name": "exml_81"
+    },
+    {
+      "type": "image",
+      "url": "map_81_bg_mc.jpg",
+      "name": "map_81_bg_mc_jpg"
+    },
+    {
+      "type": "image",
+      "url": "map_81_a.png",
+      "name": "map_81_a_png"
+    },
+    {
+      "type": "image",
+      "url": "map_81_top_mc.png",
+      "name": "map_81_top_mc_png"
+    }
+  ]
+}

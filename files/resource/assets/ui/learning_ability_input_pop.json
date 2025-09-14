@@ -1,0 +1,16 @@
+{
+  "groups": [
+    {
+      "name": "learning_ability_input_pop",
+      "keys": "learning_ability_input_pop_sheet"
+    }
+  ],
+  "resources": [
+    {
+      "name": "learning_ability_input_pop_sheet",
+      "type": "sheet",
+      "url": "learning_ability_input_pop/learning_ability_input_pop_sheet.json",
+      "subkeys": "learningabilityinputpop_add_png,learningabilityinputpop_bg_png,learningabilityinputpop_btnmax_png,learningabilityinputpop_btnmax0_png,learningabilityinputpop_close_png,learningabilityinputpop_img_yellow_reddot_png,learningabilityinputpop_ok_png,learningabilityinputpop_progress_png,learningabilityinputpop_progress_bg_png,learningabilityinputpop_reduce_png,learningabilityinputpop_reset_png,learningabilityinputpop_searchbg_png"
+    }
+  ]
+}

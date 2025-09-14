@@ -1,0 +1,35 @@
+{
+  "resources": [
+    {
+      "type": "json",
+      "url": "21.json",
+      "name": "road_21"
+    },
+    {
+      "type": "image",
+      "url": "map_21_bg_mc.png",
+      "name": "map_21_bg_mc_png"
+    },
+    {
+      "type": "image",
+      "url": "map_21_animator_mc.png",
+      "name": "map_21_animator_mc_png"
+    },
+    {
+      "type": "image",
+      "url": "map_21_control_mc.png",
+      "name": "map_21_control_mc_png"
+    },
+    {
+      "name": "exml_21",
+      "type": "text",
+      "url": "Map21Skin.exml"
+    }
+  ],
+  "groups": [
+    {
+      "keys": "road_21,map_21_bg_mc_png,map_21_animator_mc_png,map_21_control_mc_png,exml_21",
+      "name": "map_21"
+    }
+  ]
+}

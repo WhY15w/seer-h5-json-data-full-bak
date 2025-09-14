@@ -1,0 +1,1680 @@
+{
+  "frameRate": 24,
+  "name": "4427",
+  "version": "5.5",
+  "compatibleVersion": "5.5",
+  "armature": [
+    {
+      "name": "anim",
+      "bone": [
+        {
+          "inheritScale": false,
+          "name": "图层 33",
+          "transform": {
+            "x": -3.05,
+            "y": -18.65,
+            "scX": -0.3773,
+            "scY": 0.3773
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "图层 32",
+          "transform": {
+            "x": 63.95,
+            "y": -57.7,
+            "scX": -0.3773,
+            "scY": 0.3773
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "图层 31",
+          "transform": {
+            "x": -43.05,
+            "y": -45.8,
+            "scX": -0.3773,
+            "scY": 0.3773
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "图层 30",
+          "transform": {
+            "x": -13.45,
+            "y": -61.65,
+            "scX": -0.3773,
+            "scY": 0.3773
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "图层 28",
+          "transform": {
+            "x": -14.75,
+            "y": -27.55,
+            "scX": -0.3773,
+            "scY": 0.3773
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "图层 27",
+          "transform": {
+            "x": 7.75,
+            "y": -72.55,
+            "scX": -0.3773,
+            "scY": 0.3773
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "25",
+          "transform": {
+            "x": 7.75,
+            "y": -98.45,
+            "scX": -0.3773,
+            "scY": 0.3773
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "23",
+          "transform": {
+            "x": 28.75,
+            "y": -77.05,
+            "scX": -0.3773,
+            "scY": 0.3773
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "22",
+          "transform": {
+            "x": 23.85,
+            "y": -59.05,
+            "scX": -0.3773,
+            "scY": 0.3773
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "20",
+          "transform": {
+            "x": 6.15,
+            "y": -53.05,
+            "scX": -0.3773,
+            "scY": 0.3773
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "19",
+          "transform": {
+            "x": 16.75,
+            "y": -44,
+            "scX": -0.3773,
+            "scY": 0.3773
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "18",
+          "transform": {
+            "x": 25.75,
+            "y": 5.8,
+            "scX": -0.3773,
+            "scY": 0.3773
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "17",
+          "transform": {
+            "x": 30.25,
+            "y": 1,
+            "scX": -0.3773,
+            "scY": 0.3773
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "16",
+          "transform": {
+            "x": 10.2,
+            "y": -50.05,
+            "scX": -0.3773,
+            "scY": 0.3773
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "15",
+          "transform": {
+            "x": 7.75,
+            "y": 12.95,
+            "scX": -0.3773,
+            "scY": 0.3773
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "14",
+          "transform": {
+            "x": -1.25,
+            "y": -45.55,
+            "scX": -0.3773,
+            "scY": 0.3773
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "13",
+          "transform": {
+            "x": -31.35,
+            "y": 19.65,
+            "scX": -0.3773,
+            "scY": 0.3773
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "12",
+          "transform": {
+            "x": -6.05,
+            "y": -33.2,
+            "scX": -0.3773,
+            "scY": 0.3773
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "11",
+          "transform": {
+            "x": -7.7,
+            "y": -88.35,
+            "scX": -0.3773,
+            "scY": 0.3773
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "10",
+          "transform": {
+            "x": 14.6,
+            "y": -78.9,
+            "scX": -0.3773,
+            "scY": 0.3773
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "9",
+          "transform": {
+            "x": 14.25,
+            "y": -88.45,
+            "scX": -0.3773,
+            "scY": 0.3773
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "8",
+          "transform": {
+            "x": -23.75,
+            "y": -59.05,
+            "scX": -0.3773,
+            "scY": 0.3773
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "图层 10",
+          "transform": {
+            "x": 21.25,
+            "y": -54.55,
+            "scX": 0.25,
+            "scY": 0.25
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "图层 8",
+          "transform": {
+            "x": -48.75,
+            "y": -120.15,
+            "scX": -0.3773,
+            "scY": 0.3773
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "图层 7",
+          "transform": {
+            "x": -69.25,
+            "y": -69.05,
+            "scX": -0.3773,
+            "scY": 0.3773
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "图层 6",
+          "transform": {
+            "x": -16.65,
+            "y": 10.2,
+            "scX": -0.3773,
+            "scY": 0.3773
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "图层 5",
+          "transform": {
+            "x": -3.45,
+            "y": 3.75,
+            "scX": -0.3773,
+            "scY": 0.3773
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "图层 3",
+          "transform": {
+            "x": -46.25,
+            "y": -131.05,
+            "scX": -0.3773,
+            "scY": 0.3773
+          }
+        }
+      ],
+      "slot": [
+        {
+          "name": "图层 33",
+          "parent": "图层 33"
+        },
+        {
+          "name": "图层 32",
+          "parent": "图层 32"
+        },
+        {
+          "name": "图层 31",
+          "parent": "图层 31"
+        },
+        {
+          "name": "图层 30",
+          "parent": "图层 30"
+        },
+        {
+          "name": "图层 28",
+          "parent": "图层 28"
+        },
+        {
+          "name": "图层 27",
+          "parent": "图层 27"
+        },
+        {
+          "name": "25",
+          "parent": "25"
+        },
+        {
+          "name": "23",
+          "parent": "23"
+        },
+        {
+          "name": "22",
+          "parent": "22"
+        },
+        {
+          "name": "20",
+          "parent": "20"
+        },
+        {
+          "name": "19",
+          "parent": "19"
+        },
+        {
+          "name": "18",
+          "parent": "18"
+        },
+        {
+          "name": "17",
+          "parent": "17"
+        },
+        {
+          "name": "16",
+          "parent": "16"
+        },
+        {
+          "name": "15",
+          "parent": "15"
+        },
+        {
+          "name": "14",
+          "parent": "14"
+        },
+        {
+          "name": "13",
+          "parent": "13"
+        },
+        {
+          "name": "12",
+          "parent": "12"
+        },
+        {
+          "name": "11",
+          "parent": "11"
+        },
+        {
+          "name": "10",
+          "parent": "10"
+        },
+        {
+          "name": "9",
+          "parent": "9"
+        },
+        {
+          "name": "8",
+          "parent": "8"
+        },
+        {
+          "name": "图层 10",
+          "parent": "图层 10"
+        },
+        {
+          "name": "图层 8",
+          "parent": "图层 8"
+        },
+        {
+          "name": "图层 7",
+          "parent": "图层 7"
+        },
+        {
+          "name": "图层 6",
+          "parent": "图层 6"
+        },
+        {
+          "name": "图层 5",
+          "parent": "图层 5"
+        },
+        {
+          "name": "图层 3",
+          "parent": "图层 3"
+        }
+      ],
+      "skin": [
+        {
+          "slot": [
+            {
+              "name": "图层 33",
+              "display": [
+                {
+                  "name": "name_0/name_34",
+                  "transform": {
+                    "x": 0.05
+                  }
+                }
+              ]
+            },
+            {
+              "name": "图层 32",
+              "display": [
+                {
+                  "name": "name_0/name_32",
+                  "transform": {
+                    "x": 0.3,
+                    "y": -0.1
+                  }
+                }
+              ]
+            },
+            {
+              "name": "图层 31",
+              "display": [
+                {
+                  "name": "name_0/name_33"
+                }
+              ]
+            },
+            {
+              "name": "图层 30",
+              "display": [
+                {
+                  "name": "name_0/name_31",
+                  "transform": {
+                    "x": -0.05,
+                    "y": -0.1
+                  }
+                }
+              ]
+            },
+            {
+              "name": "图层 28",
+              "display": [
+                {
+                  "name": "name_0/name_29",
+                  "transform": {
+                    "x": 66.05,
+                    "y": -11.5
+                  }
+                }
+              ]
+            },
+            {
+              "name": "图层 27",
+              "display": [
+                {
+                  "name": "name_0/name_26",
+                  "transform": {
+                    "x": 23.7,
+                    "y": 69.25
+                  }
+                }
+              ]
+            },
+            {
+              "name": "25",
+              "display": [
+                {
+                  "name": "name_0/name_30",
+                  "transform": {
+                    "x": 51.1,
+                    "y": -0.05
+                  }
+                }
+              ]
+            },
+            {
+              "name": "23",
+              "display": [
+                {
+                  "name": "name_0/name_28",
+                  "transform": {
+                    "x": 4.4,
+                    "y": 25.2
+                  }
+                }
+              ]
+            },
+            {
+              "name": "22",
+              "display": [
+                {
+                  "name": "name_0/name_27",
+                  "transform": {
+                    "x": -27.8,
+                    "y": 19
+                  }
+                }
+              ]
+            },
+            {
+              "name": "20",
+              "display": [
+                {
+                  "name": "name_0/name_25",
+                  "transform": {
+                    "x": 16.85,
+                    "y": -64.4
+                  }
+                }
+              ]
+            },
+            {
+              "name": "19",
+              "display": [
+                {
+                  "name": "name_0/name_24",
+                  "transform": {
+                    "x": -31.1,
+                    "y": 25.7
+                  }
+                }
+              ]
+            },
+            {
+              "name": "18",
+              "display": [
+                {
+                  "name": "name_0/name_23",
+                  "transform": {
+                    "x": -28.2,
+                    "y": -6.35
+                  }
+                }
+              ]
+            },
+            {
+              "name": "17",
+              "display": [
+                {
+                  "name": "name_0/name_22",
+                  "transform": {
+                    "x": -19.75,
+                    "y": -39.05
+                  }
+                }
+              ]
+            },
+            {
+              "name": "16",
+              "display": [
+                {
+                  "name": "name_0/name_21",
+                  "transform": {
+                    "x": 16.7,
+                    "y": 49.6
+                  }
+                }
+              ]
+            },
+            {
+              "name": "15",
+              "display": [
+                {
+                  "name": "name_0/name_20",
+                  "transform": {
+                    "x": -0.3,
+                    "y": -34.3
+                  }
+                }
+              ]
+            },
+            {
+              "name": "14",
+              "display": [
+                {
+                  "name": "name_0/name_19",
+                  "transform": {
+                    "x": 12.85,
+                    "y": 32.7
+                  }
+                }
+              ]
+            },
+            {
+              "name": "13",
+              "display": [
+                {
+                  "name": "name_0/name_18",
+                  "transform": {
+                    "x": 0.05
+                  }
+                }
+              ]
+            },
+            {
+              "name": "12",
+              "display": [
+                {
+                  "name": "name_0/name_17",
+                  "transform": {
+                    "x": 31.5,
+                    "y": 57.1
+                  }
+                }
+              ]
+            },
+            {
+              "name": "11",
+              "display": [
+                {
+                  "name": "name_0/name_16",
+                  "transform": {
+                    "x": 17.7,
+                    "y": 27.7
+                  }
+                }
+              ]
+            },
+            {
+              "name": "10",
+              "display": [
+                {
+                  "name": "name_0/name_15",
+                  "transform": {
+                    "x": 37.75,
+                    "y": 27.1
+                  }
+                }
+              ]
+            },
+            {
+              "name": "9",
+              "display": [
+                {
+                  "name": "name_0/name_14",
+                  "transform": {
+                    "x": -2.2,
+                    "y": -27.05
+                  }
+                }
+              ]
+            },
+            {
+              "name": "8",
+              "display": [
+                {
+                  "name": "name_0/name_13",
+                  "transform": {
+                    "x": -14.8,
+                    "y": -14.95
+                  }
+                }
+              ]
+            },
+            {
+              "name": "图层 10",
+              "display": [
+                {
+                  "name": "name_106",
+                  "transform": {
+                    "x": -138.6,
+                    "y": -123.3
+                  }
+                }
+              ]
+            },
+            {
+              "name": "图层 8",
+              "display": [
+                {
+                  "name": "name_0/name_8",
+                  "transform": {
+                    "x": -0.1
+                  }
+                }
+              ]
+            },
+            {
+              "name": "图层 7",
+              "display": [
+                {
+                  "name": "name_0/name_6",
+                  "transform": {
+                    "x": 0.05,
+                    "y": 0.05
+                  }
+                }
+              ]
+            },
+            {
+              "name": "图层 6",
+              "display": [
+                {
+                  "name": "name_0/name_9",
+                  "transform": {
+                    "x": -0.05
+                  }
+                }
+              ]
+            },
+            {
+              "name": "图层 5",
+              "display": [
+                {
+                  "name": "name_0/name_7",
+                  "transform": {
+                    "x": -0.15,
+                    "y": 0.1
+                  }
+                }
+              ]
+            },
+            {
+              "name": "图层 3",
+              "display": [
+                {
+                  "name": "name_0/name_8",
+                  "transform": {
+                    "x": 6.5,
+                    "y": 28.85
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "animation": [
+        {
+          "duration": 28,
+          "name": "down",
+          "bone": [
+            {
+              "name": "图层 33",
+              "translateFrame": [
+                {
+                  "duration": 14,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 13,
+                  "tweenEasing": 0,
+                  "x": 1.15,
+                  "y": 3.45
+                },
+                {
+                  "tweenEasing": 0
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 28
+                }
+              ]
+            },
+            {
+              "name": "图层 32",
+              "translateFrame": [
+                {
+                  "duration": 14,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 13,
+                  "tweenEasing": 0,
+                  "x": 4.6,
+                  "y": 3.45
+                },
+                {
+                  "tweenEasing": 0
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 28
+                }
+              ]
+            },
+            {
+              "name": "图层 31",
+              "translateFrame": [
+                {
+                  "duration": 14,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 13,
+                  "tweenEasing": 0,
+                  "x": -3.45,
+                  "y": 1.15
+                },
+                {
+                  "tweenEasing": 0
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 28
+                }
+              ]
+            },
+            {
+              "name": "图层 30",
+              "translateFrame": [
+                {
+                  "duration": 14,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 13,
+                  "tweenEasing": 0,
+                  "y": 1.15
+                },
+                {
+                  "tweenEasing": 0
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 28
+                }
+              ]
+            },
+            {
+              "name": "图层 28",
+              "translateFrame": [
+                {
+                  "duration": 7,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 7,
+                  "tweenEasing": 0,
+                  "x": -0.02,
+                  "y": 0.3
+                },
+                {
+                  "duration": 7,
+                  "tweenEasing": 0,
+                  "y": 0.54
+                },
+                {
+                  "duration": 6,
+                  "tweenEasing": 0,
+                  "x": -0.08,
+                  "y": 0.26
+                },
+                {
+                  "tweenEasing": 0
+                }
+              ],
+              "rotateFrame": [
+                {
+                  "duration": 7,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 7,
+                  "tweenEasing": 0,
+                  "rotate": 5.49
+                },
+                {
+                  "duration": 7,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 6,
+                  "tweenEasing": 0,
+                  "rotate": -4.74
+                },
+                {
+                  "tweenEasing": 0
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 28
+                }
+              ]
+            },
+            {
+              "name": "图层 27",
+              "translateFrame": [
+                {
+                  "duration": 7,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 7,
+                  "tweenEasing": 0,
+                  "x": -0.02,
+                  "y": 1.15
+                },
+                {
+                  "duration": 7,
+                  "tweenEasing": 0,
+                  "y": 2.25
+                },
+                {
+                  "duration": 6,
+                  "tweenEasing": 0,
+                  "x": 0.02,
+                  "y": 1.07
+                },
+                {
+                  "tweenEasing": 0
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 7,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 7,
+                  "tweenEasing": 0,
+                  "x": 1.0933
+                },
+                {
+                  "duration": 7,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 6,
+                  "tweenEasing": 0,
+                  "x": 0.9292,
+                  "y": 1.0133
+                },
+                {
+                  "tweenEasing": 0
+                }
+              ]
+            },
+            {
+              "name": "25",
+              "translateFrame": [
+                {
+                  "duration": 7,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 7,
+                  "tweenEasing": 0,
+                  "x": 0.02,
+                  "y": 1.68
+                },
+                {
+                  "duration": 7,
+                  "tweenEasing": 0,
+                  "y": 3.41
+                },
+                {
+                  "duration": 6,
+                  "tweenEasing": 0,
+                  "y": 1.57
+                },
+                {
+                  "tweenEasing": 0
+                }
+              ],
+              "rotateFrame": [
+                {
+                  "duration": 7,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 7,
+                  "tweenEasing": 0,
+                  "rotate": 3.74
+                },
+                {
+                  "duration": 7,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 6,
+                  "tweenEasing": 0,
+                  "rotate": -4.95,
+                  "skew": 0.23
+                },
+                {
+                  "tweenEasing": 0
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 28
+                }
+              ]
+            },
+            {
+              "name": "23",
+              "translateFrame": [
+                {
+                  "duration": 14,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 13,
+                  "tweenEasing": 0,
+                  "x": 0.04,
+                  "y": 3.4
+                },
+                {
+                  "tweenEasing": 0
+                }
+              ],
+              "rotateFrame": [
+                {
+                  "duration": 14,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 13,
+                  "tweenEasing": 0,
+                  "rotate": 4.96
+                },
+                {
+                  "tweenEasing": 0
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 28
+                }
+              ]
+            },
+            {
+              "name": "22",
+              "translateFrame": [
+                {
+                  "duration": 14,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 13,
+                  "tweenEasing": 0,
+                  "x": -1.79,
+                  "y": 1.97
+                },
+                {
+                  "tweenEasing": 0
+                }
+              ],
+              "rotateFrame": [
+                {
+                  "duration": 14,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 13,
+                  "tweenEasing": 0,
+                  "rotate": -6.24
+                },
+                {
+                  "tweenEasing": 0
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 28
+                }
+              ]
+            },
+            {
+              "name": "20",
+              "translateFrame": [
+                {
+                  "duration": 14,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 13,
+                  "tweenEasing": 0,
+                  "y": 3.35
+                },
+                {
+                  "tweenEasing": 0
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 28
+                }
+              ]
+            },
+            {
+              "name": "19",
+              "translateFrame": [
+                {
+                  "duration": 14,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 13,
+                  "tweenEasing": 0,
+                  "x": -0.3,
+                  "y": 2.24
+                },
+                {
+                  "tweenEasing": 0
+                }
+              ],
+              "rotateFrame": [
+                {
+                  "duration": 14,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 13,
+                  "tweenEasing": 0,
+                  "rotate": -3.2
+                },
+                {
+                  "tweenEasing": 0
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 28
+                }
+              ]
+            },
+            {
+              "name": "18",
+              "scaleFrame": [
+                {
+                  "duration": 28
+                }
+              ]
+            },
+            {
+              "name": "17",
+              "translateFrame": [
+                {
+                  "duration": 14,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 13,
+                  "tweenEasing": 0,
+                  "x": 0.32,
+                  "y": -0.3
+                },
+                {
+                  "tweenEasing": 0
+                }
+              ],
+              "rotateFrame": [
+                {
+                  "duration": 14,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 13,
+                  "tweenEasing": 0,
+                  "skew": 0.49
+                },
+                {
+                  "tweenEasing": 0
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 14,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 13,
+                  "tweenEasing": 0,
+                  "y": 1.0003
+                },
+                {
+                  "tweenEasing": 0
+                }
+              ]
+            },
+            {
+              "name": "16",
+              "translateFrame": [
+                {
+                  "duration": 14,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 13,
+                  "tweenEasing": 0,
+                  "x": 0.03,
+                  "y": 1.4
+                },
+                {
+                  "tweenEasing": 0
+                }
+              ],
+              "rotateFrame": [
+                {
+                  "duration": 14,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 13,
+                  "tweenEasing": 0,
+                  "skew": -1.45
+                },
+                {
+                  "tweenEasing": 0
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 14,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 13,
+                  "tweenEasing": 0,
+                  "y": 1.0003
+                },
+                {
+                  "tweenEasing": 0
+                }
+              ]
+            },
+            {
+              "name": "15",
+              "translateFrame": [
+                {
+                  "duration": 14,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 13,
+                  "tweenEasing": 0,
+                  "x": 0.02,
+                  "y": 0.04
+                },
+                {
+                  "tweenEasing": 0
+                }
+              ],
+              "rotateFrame": [
+                {
+                  "duration": 14,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 13,
+                  "tweenEasing": 0,
+                  "skew": 3.59
+                },
+                {
+                  "tweenEasing": 0
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 14,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 13,
+                  "tweenEasing": 0,
+                  "y": 0.9613
+                },
+                {
+                  "tweenEasing": 0
+                }
+              ]
+            },
+            {
+              "name": "14",
+              "translateFrame": [
+                {
+                  "duration": 14,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 13,
+                  "tweenEasing": 0,
+                  "x": 0.3,
+                  "y": 2
+                },
+                {
+                  "tweenEasing": 0
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 28
+                }
+              ]
+            },
+            {
+              "name": "13",
+              "translateFrame": [
+                {
+                  "duration": 14,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 13,
+                  "tweenEasing": 0,
+                  "x": 0.04
+                },
+                {
+                  "tweenEasing": 0
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 28
+                }
+              ]
+            },
+            {
+              "name": "12",
+              "translateFrame": [
+                {
+                  "duration": 14,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 13,
+                  "tweenEasing": 0,
+                  "x": 0.9,
+                  "y": 1.43
+                },
+                {
+                  "tweenEasing": 0
+                }
+              ],
+              "rotateFrame": [
+                {
+                  "duration": 14,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 13,
+                  "tweenEasing": 0,
+                  "rotate": 1.7
+                },
+                {
+                  "tweenEasing": 0
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 28
+                }
+              ]
+            },
+            {
+              "name": "11",
+              "translateFrame": [
+                {
+                  "duration": 14,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 13,
+                  "tweenEasing": 0,
+                  "x": 0.02,
+                  "y": 3.38
+                },
+                {
+                  "tweenEasing": 0
+                }
+              ],
+              "rotateFrame": [
+                {
+                  "duration": 14,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 13,
+                  "tweenEasing": 0,
+                  "rotate": 3.23
+                },
+                {
+                  "tweenEasing": 0
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 28
+                }
+              ]
+            },
+            {
+              "name": "10",
+              "translateFrame": [
+                {
+                  "duration": 14,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 13,
+                  "tweenEasing": 0,
+                  "y": 3.11
+                },
+                {
+                  "tweenEasing": 0
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 28
+                }
+              ]
+            },
+            {
+              "name": "9",
+              "translateFrame": [
+                {
+                  "duration": 14,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 13,
+                  "tweenEasing": 0,
+                  "x": -0.04,
+                  "y": 3.38
+                },
+                {
+                  "tweenEasing": 0
+                }
+              ],
+              "rotateFrame": [
+                {
+                  "duration": 14,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 13,
+                  "tweenEasing": 0,
+                  "rotate": 4.23
+                },
+                {
+                  "tweenEasing": 0
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 28
+                }
+              ]
+            },
+            {
+              "name": "8",
+              "translateFrame": [
+                {
+                  "duration": 14,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 13,
+                  "tweenEasing": 0,
+                  "x": -0.6,
+                  "y": 3.04
+                },
+                {
+                  "tweenEasing": 0
+                }
+              ],
+              "rotateFrame": [
+                {
+                  "duration": 14,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 13,
+                  "tweenEasing": 0,
+                  "rotate": -3.98
+                },
+                {
+                  "tweenEasing": 0
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 28
+                }
+              ]
+            },
+            {
+              "name": "图层 10",
+              "translateFrame": [
+                {
+                  "duration": 14,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 13,
+                  "tweenEasing": 0,
+                  "x": -1.07,
+                  "y": 1.14
+                },
+                {
+                  "tweenEasing": 0
+                }
+              ],
+              "rotateFrame": [
+                {
+                  "duration": 14,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 13,
+                  "tweenEasing": 0,
+                  "rotate": -3.72
+                },
+                {
+                  "tweenEasing": 0
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 28
+                }
+              ]
+            },
+            {
+              "name": "图层 8",
+              "translateFrame": [
+                {
+                  "duration": 14,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 13,
+                  "tweenEasing": 0,
+                  "x": -4.54,
+                  "y": 4.6
+                },
+                {
+                  "tweenEasing": 0
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 28
+                }
+              ]
+            },
+            {
+              "name": "图层 7",
+              "translateFrame": [
+                {
+                  "duration": 14,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 13,
+                  "tweenEasing": 0,
+                  "y": 2.29
+                },
+                {
+                  "tweenEasing": 0
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 28
+                }
+              ]
+            },
+            {
+              "name": "图层 6",
+              "translateFrame": [
+                {
+                  "duration": 14,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 13,
+                  "tweenEasing": 0,
+                  "y": 2.3
+                },
+                {
+                  "tweenEasing": 0
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 28
+                }
+              ]
+            },
+            {
+              "name": "图层 5",
+              "translateFrame": [
+                {
+                  "duration": 14,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 13,
+                  "tweenEasing": 0,
+                  "x": -1.15,
+                  "y": 3.45
+                },
+                {
+                  "tweenEasing": 0
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 28
+                }
+              ]
+            },
+            {
+              "name": "图层 3",
+              "translateFrame": [
+                {
+                  "duration": 7,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 21,
+                  "y": 0.03
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 7,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 20,
+                  "tweenEasing": 0,
+                  "x": 1.6414,
+                  "y": 1.6414
+                },
+                {
+                  "x": 1.7697,
+                  "y": 1.7697
+                }
+              ]
+            }
+          ],
+          "slot": [
+            {
+              "name": "图层 3",
+              "colorFrame": [
+                {
+                  "duration": 7,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 20,
+                  "tweenEasing": 0,
+                  "value": {
+                    "aM": 17
+                  }
+                },
+                {
+                  "value": {
+                    "aM": 0
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "groups": [
+    {
+      "name": "pve_yifulisha",
+      "keys": "pve_yifulisha_sheet,pveYiFuLiShaLevel1_bg_jpg,pveYiFuLiShaLevelPet0_png,pveYiFuLiShaLevelPet1_png,pveYiFuLiShaLevelPet2_png,pveYiFuLiShaMain_bg_png,pveYiFuLiShaMain_bg1_png,pveYiFuLiShaMain_bg2_png"
+    }
+  ],
+  "resources": [
+    {
+      "name": "pveYiFuLiShaLevel1_bg_jpg",
+      "type": "image",
+      "url": "pve_yifulisha/outside/pveYiFuLiShaLevel1_bg.jpg"
+    },
+    {
+      "name": "pveYiFuLiShaLevelPet0_png",
+      "type": "image",
+      "url": "pve_yifulisha/outside/pveYiFuLiShaLevelPet0.png"
+    },
+    {
+      "name": "pveYiFuLiShaLevelPet1_png",
+      "type": "image",
+      "url": "pve_yifulisha/outside/pveYiFuLiShaLevelPet1.png"
+    },
+    {
+      "name": "pveYiFuLiShaLevelPet2_png",
+      "type": "image",
+      "url": "pve_yifulisha/outside/pveYiFuLiShaLevelPet2.png"
+    },
+    {
+      "name": "pveYiFuLiShaMain_bg_png",
+      "type": "image",
+      "url": "pve_yifulisha/outside/pveYiFuLiShaMain_bg.png"
+    },
+    {
+      "name": "pveYiFuLiShaMain_bg1_png",
+      "type": "image",
+      "url": "pve_yifulisha/outside/pveYiFuLiShaMain_bg1.png"
+    },
+    {
+      "name": "pveYiFuLiShaMain_bg2_png",
+      "type": "image",
+      "url": "pve_yifulisha/outside/pveYiFuLiShaMain_bg2.png"
+    },
+    {
+      "name": "pve_yifulisha_sheet",
+      "type": "sheet",
+      "url": "pve_yifulisha/pve_yifulisha_sheet.json",
+      "subkeys": "pveYiFuLiShaLevel1_btnClose_png,pveYiFuLiShaLevel1_btnFast_png,pveYiFuLiShaLevel1_helpBtn_png,pveYiFuLiShaLevel1_img_fengkuang_png,pveYiFuLiShaLevel1_img_pianji_png,pveYiFuLiShaLevel1_img_zhengchang_png,pveYiFuLiShaLevel1_statebg_png,pveYiFuLiShaLevel2_btnChongneng_png,pveYiFuLiShaLevel2_conditionbg_png,pveYiFuLiShaLevel2_dot_png,pveYiFuLiShaLevel2_imgBtn_cure_png,pveYiFuLiShaLevel2_imgBtn_pet_png,pveYiFuLiShaLevel2_line_png,pveYiFuLiShaLevel2_pet_3444_png,pveYiFuLiShaLevel2_tagdone_png,pveYiFuLiShaLevel2_tile_body_png,pveYiFuLiShaLevel2_titile_leg_png,pveYiFuLiShaLevel2_title_hand_png,pveYiFuLiShaLevel2_title_head_png,pveYiFuLiShaLevel2_title_rule_png,pveYiFuLiShaLevel2_title_shoudler_png,pveYiFuLiShaLevel2_txtbg_png,pveYiFuLiShaLevel2_txtbg2_png,pveYiFuLiShaLevel2_up_bg_png,pveYiFuLiShaLevel3_attackbg_png,pveYiFuLiShaLevel3_btnJihuo_png,pveYiFuLiShaLevel3_btnShunshi_png,pveYiFuLiShaLevel3_imgpet_png,pveYiFuLiShaLevel3_numbg_png,pveYiFuLiShaMain_btnClose_png,pveYiFuLiShaMain_btnGet_png,pveYiFuLiShaMain_btnGetm_png,pveYiFuLiShaMain_btnUp_png,pveYiFuLiShaMain_challengebg_png,pveYiFuLiShaMain_getbg_png,pveYiFuLiShaMain_next_png,pveYiFuLiShaMain_show1_png,pveYiFuLiShaMain_show2_png,pveYiFuLiShaMain_show3_png,pveYiFuLiShaMain_star_png,pveYiFuLiShaMain_STARBG_png,pveYiFuLiShaMain_title_png,pveYiFuLiShaMain_title_fkdjm_png,pveYiFuLiShaMain_title_hwdec_png,pveYiFuLiShaMain_title_hzdzy_png,pveYiFuLiShaSettlement_bg_png,pveYiFuLiShaSettlement_img_jrtzpf_png,pveYiFuLiShaSettlement_scorebg_png,pveYiFuLiShaSettlement_title_png,pveYiFuLiShaUp_buybg_png,pveYiFuLiShaUp_icon_1_png,pveYiFuLiShaUp_icon_texing_png,pveYiFuLiShaUp_item_1719577_png,pveYiFuLiShaUp_item_41556_png,pveYiFuLiShaUp_petbg_png,pveYiFuLiShaUp_tipsbg_png,pveYiFuLiShaUp_up_bg_png,pveYiFuLiShaUp_up_flag_ydh_png,pveYiFuLiShaUp_up_flag_yhd_png,pveYiFuLiSha_btnInfo_png,pveYiFuLiSha_title_0_png,pveYiFuLiSha_title_1_png,pveYiFuLiSha_title_2_png,pveYiFuLiSha_title_3_png,pveYiFuLiSha_up_bg_png,pve_yifulisha_leftbg_s9_png,pve_yifulisha_storebg_s9_png"
+    }
+  ]
+}

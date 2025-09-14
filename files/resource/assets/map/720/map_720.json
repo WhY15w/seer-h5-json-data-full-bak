@@ -1,0 +1,30 @@
+{
+  "resources": [
+    {
+      "type": "json",
+      "url": "720.json",
+      "name": "road_720"
+    },
+    {
+      "type": "text",
+      "url": "Map720Skin.exml",
+      "name": "exml_720"
+    },
+    {
+      "type": "image",
+      "url": "map_720_bg_mc.jpg",
+      "name": "map_720_bg_mc_jpg"
+    },
+    {
+      "type": "image",
+      "url": "map_720_top_mc.png",
+      "name": "map_720_top_mc_png"
+    }
+  ],
+  "groups": [
+    {
+      "keys": "road_720,exml_720,map_720_bg_mc_jpg,map_720_top_mc_png",
+      "name": "map_720"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "resources": [
+    {
+      "type": "json",
+      "url": "45.json",
+      "name": "road_45"
+    },
+    {
+      "type": "text",
+      "url": "Map45Skin.exml",
+      "name": "exml_45"
+    },
+    {
+      "type": "image",
+      "url": "map_45_bg_mc.jpg",
+      "name": "map_45_bg_mc_jpg"
+    },
+    {
+      "type": "image",
+      "url": "map_45_top_mc.png",
+      "name": "map_45_top_mc_png"
+    }
+  ],
+  "groups": [
+    {
+      "keys": "road_45,exml_45,map_45_bg_mc_jpg,map_45_top_mc_png",
+      "name": "map_45"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "groups": [
+    {
+      "name": "battleFirePanel",
+      "keys": "battleFirePanel_sheet"
+    }
+  ],
+  "resources": [
+    {
+      "name": "battleFirePanel_sheet",
+      "type": "sheet",
+      "url": "battleFirePanel/battleFirePanel_sheet.json",
+      "subkeys": "battleFirePanel_fireImg1_png,battleFirePanel_fireImg2_png,battleFirePanel_fireImg3_png,battleFirePanel_fireImg4_png,battlefirepanel_item_new_20220209_img1_png,battlefirepanel_item_new_20220209_imgbtnbg_png,battlefirepanel_item_new_20220209_imgstar_png,battlefirepanel_item_new_20220209_imgusing_png,battlefirepanel_new_20220207_btnclose_png,battlefirepanel_new_20220207_img1_png,battlefirepanel_new_20220207_img2_png,battlefirepanel_new_20220207_img3_png"
+    }
+  ]
+}

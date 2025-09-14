@@ -1,0 +1,35 @@
+{
+  "groups": [
+    {
+      "keys": "road_1428,exml_1428,map_1428_bg_mc_jpg,map_1428_ani_png,map_1428_buttonLevel_png",
+      "name": "map_1428"
+    }
+  ],
+  "resources": [
+    {
+      "type": "json",
+      "url": "1428.json",
+      "name": "road_1428"
+    },
+    {
+      "type": "text",
+      "url": "Map1428Skin.exml",
+      "name": "exml_1428"
+    },
+    {
+      "type": "image",
+      "url": "map_1428_bg_mc.jpg",
+      "name": "map_1428_bg_mc_jpg"
+    },
+    {
+      "type": "image",
+      "url": "map_1428_ani.png",
+      "name": "map_1428_ani_png"
+    },
+    {
+      "type": "image",
+      "url": "map_1428_buttonLevel.png",
+      "name": "map_1428_buttonLevel_png"
+    }
+  ]
+}

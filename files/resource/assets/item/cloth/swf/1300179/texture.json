@@ -1,0 +1,62 @@
+{
+  "SubTexture": [
+    {
+      "name": "元件 1",
+      "x": 84,
+      "width": 83,
+      "y": 0,
+      "height": 57
+    },
+    {
+      "name": "arm0",
+      "x": 168,
+      "width": 37,
+      "y": 0,
+      "height": 61
+    },
+    {
+      "name": "arm",
+      "x": 206,
+      "width": 23,
+      "y": 57,
+      "height": 57
+    },
+    {
+      "name": "arm2",
+      "x": 230,
+      "width": 25,
+      "y": 57,
+      "height": 52
+    },
+    {
+      "name": "arm1",
+      "x": 0,
+      "width": 23,
+      "y": 58,
+      "height": 34
+    },
+    {
+      "name": "arm3",
+      "x": 206,
+      "width": 32,
+      "y": 0,
+      "height": 56
+    },
+    {
+      "name": "arm4",
+      "x": 239,
+      "width": 16,
+      "y": 0,
+      "height": 40
+    },
+    {
+      "name": "元件 5",
+      "x": 0,
+      "width": 83,
+      "y": 0,
+      "height": 57
+    }
+  ],
+  "name": 1300179,
+  "imagePath": "texture.png"
+}

@@ -1,0 +1,21 @@
+{
+  "groups": [
+    {
+      "name": "anniversary_sign_in",
+      "keys": "anniversary_sign_in_sheet,anniversary_sign_in_imgbg_png"
+    }
+  ],
+  "resources": [
+    {
+      "name": "anniversary_sign_in_imgbg_png",
+      "type": "image",
+      "url": "anniversary_sign_in/outside/anniversary_sign_in_imgbg.png"
+    },
+    {
+      "name": "anniversary_sign_in_sheet",
+      "type": "sheet",
+      "url": "anniversary_sign_in/anniversary_sign_in_sheet.json",
+      "subkeys": "anniversary_sign_in_btnclose_png,anniversary_sign_in_btnget_png,anniversary_sign_in_imgdone_png,anniversary_sign_in_imghasgot_png,anniversary_sign_in_imghassigned_png,anniversary_sign_in_imgtodaybg_png,anniversary_sign_in_itembg_png,anniversary_sign_in_itembg2_png,anniversary_sign_in_itemsbg_png"
+    }
+  ]
+}

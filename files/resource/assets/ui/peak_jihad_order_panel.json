@@ -1,0 +1,46 @@
+{
+  "groups": [
+    {
+      "name": "peak_jihad_order_panel",
+      "keys": "peak_jihad_order_panel_sheet,peak_jihad_order_main_reward_panel_mid_png,peak_jihad_order_main_reward_panel_pet_png,peak_jihad_order_panel_pet_png,peak_jihad_order_panel_pop_bg_png,peak_jihad_order_task_panel_taskbg1_png,peak_jihad_order_task_panel_taskbg2_png"
+    }
+  ],
+  "resources": [
+    {
+      "name": "peak_jihad_order_main_reward_panel_mid_png",
+      "type": "image",
+      "url": "peak_jihad_order_panel/outside/peak_jihad_order_main_reward_panel_mid.png"
+    },
+    {
+      "name": "peak_jihad_order_main_reward_panel_pet_png",
+      "type": "image",
+      "url": "peak_jihad_order_panel/outside/peak_jihad_order_main_reward_panel_pet.png"
+    },
+    {
+      "name": "peak_jihad_order_panel_pet_png",
+      "type": "image",
+      "url": "peak_jihad_order_panel/outside/peak_jihad_order_panel_pet.png"
+    },
+    {
+      "name": "peak_jihad_order_panel_pop_bg_png",
+      "type": "image",
+      "url": "peak_jihad_order_panel/outside/peak_jihad_order_panel_pop_bg.png"
+    },
+    {
+      "name": "peak_jihad_order_task_panel_taskbg1_png",
+      "type": "image",
+      "url": "peak_jihad_order_panel/outside/peak_jihad_order_task_panel_taskbg1.png"
+    },
+    {
+      "name": "peak_jihad_order_task_panel_taskbg2_png",
+      "type": "image",
+      "url": "peak_jihad_order_panel/outside/peak_jihad_order_task_panel_taskbg2.png"
+    },
+    {
+      "name": "peak_jihad_order_panel_sheet",
+      "type": "sheet",
+      "url": "peak_jihad_order_panel/peak_jihad_order_panel_sheet.json",
+      "subkeys": "peak_jihad_order_main_panel_title_png,peak_jihad_order_main_reward_panel_btnjinjie_png,peak_jihad_order_main_reward_panel_btnlingqu_png,peak_jihad_order_main_reward_panel_buylevel_png,peak_jihad_order_main_reward_panel_itembg_png,peak_jihad_order_main_reward_panel_itembg_light_png,peak_jihad_order_main_reward_panel_lbg_png,peak_jihad_order_main_reward_panel_lbg1_png,peak_jihad_order_main_reward_panel_leftbg_png,peak_jihad_order_main_reward_panel_progress_png,peak_jihad_order_main_reward_panel_progress_bg_png,peak_jihad_order_main_reward_panel_rbg_png,peak_jihad_order_main_reward_panel_select_png,peak_jihad_order_main_reward_panel_ty_4_kb_png,peak_jihad_order_panel_close_png,peak_jihad_order_panel_got_png,peak_jihad_order_panel_got1_png,peak_jihad_order_panel_icon1_png,peak_jihad_order_panel_itembg_png,peak_jihad_order_panel_itembtnbg_png,peak_jihad_order_panel_itembuyno_png,peak_jihad_order_panel_itemnamebg_png,peak_jihad_order_panel_itemsalebg_png,peak_jihad_order_panel_item_num_bg_png,peak_jihad_order_panel_labg_png,peak_jihad_order_panel_numbg_png,peak_jihad_order_panel_pop_add_png,peak_jihad_order_panel_pop_btnbuy_png,peak_jihad_order_panel_pop_btncancel_png,peak_jihad_order_panel_pop_drop_png,peak_jihad_order_panel_pop_icon_gold_png,peak_jihad_order_panel_pop_rec1_png,peak_jihad_order_panel_pop_rec2_png,peak_jihad_order_panel_pop_rec3_png,peak_jihad_order_panel_pop_title1_png,peak_jihad_order_panel_pop_title2_png,peak_jihad_order_panel_timebg_png,peak_jihad_order_panel_title_png,peak_jihad_order_panel_txbg_png,peak_jihad_order_task_panel_btnmeiri_down_png,peak_jihad_order_task_panel_btnmeiri_up_png,peak_jihad_order_task_panel_btnmeizhou_down_png,peak_jihad_order_task_panel_btnmeizhou_up_png,peak_jihad_order_task_panel_btnsaiji_down_png,peak_jihad_order_task_panel_btnsaiji_up_png,peak_jihad_order_task_panel_get_png,peak_jihad_order_task_panel_go_png,peak_jihad_order_task_panel_go1_png,peak_jihad_order_task_panel_got_png,peak_jihad_order_task_panel_got1_png,peak_jihad_order_task_panel_itemgot_png,peak_jihad_order_task_panel_mas_png,peak_jihad_order_task_panel_progress1_png,peak_jihad_order_task_panel_progress_bg_png,peak_jihad_order_task_panel_progress_bg1_png,peak_jihad_order_task_panel_refresh_png,peak_jihad_order_task_panel_weektaskbg_png"
+    }
+  ]
+}

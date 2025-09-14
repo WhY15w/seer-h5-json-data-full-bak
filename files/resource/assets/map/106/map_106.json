@@ -1,0 +1,45 @@
+{
+  "groups": [
+    {
+      "keys": "road_106,exml_106,map_106_bg_mc_jpg,map_106_pao_png,map_106_dan_png,map_106_control_mc_png,map_106_buttonLevel_png",
+      "name": "map_106"
+    }
+  ],
+  "resources": [
+    {
+      "type": "json",
+      "url": "106.json",
+      "name": "road_106"
+    },
+    {
+      "type": "text",
+      "url": "Map106Skin.exml",
+      "name": "exml_106"
+    },
+    {
+      "type": "image",
+      "url": "map_106_bg_mc.jpg",
+      "name": "map_106_bg_mc_jpg"
+    },
+    {
+      "type": "image",
+      "url": "map_106_pao.png",
+      "name": "map_106_pao_png"
+    },
+    {
+      "type": "image",
+      "url": "map_106_dan.png",
+      "name": "map_106_dan_png"
+    },
+    {
+      "type": "image",
+      "url": "map_106_control_mc.png",
+      "name": "map_106_control_mc_png"
+    },
+    {
+      "type": "image",
+      "url": "map_106_buttonLevel.png",
+      "name": "map_106_buttonLevel_png"
+    }
+  ]
+}

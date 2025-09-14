@@ -1,0 +1,35 @@
+{
+  "resources": [
+    {
+      "type": "json",
+      "url": "1096.json",
+      "name": "road_1096"
+    },
+    {
+      "type": "image",
+      "url": "map_1096_bg_mc.png",
+      "name": "map_1096_bg_mc_png"
+    },
+    {
+      "type": "image",
+      "url": "map_1096_control_mc.png",
+      "name": "map_1096_control_mc_png"
+    },
+    {
+      "name": "exml_1096",
+      "type": "text",
+      "url": "Map1096Skin.exml"
+    },
+    {
+      "name": "exml_1096",
+      "type": "text",
+      "url": "Map1096Skin.exml"
+    }
+  ],
+  "groups": [
+    {
+      "keys": "road_1096,map_1096_bg_mc_png,map_1096_control_mc_png,exml_1096,exml_1096",
+      "name": "map_1096"
+    }
+  ]
+}

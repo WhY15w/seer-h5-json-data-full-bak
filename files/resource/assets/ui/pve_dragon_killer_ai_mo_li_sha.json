@@ -1,0 +1,21 @@
+{
+  "groups": [
+    {
+      "name": "pve_dragon_killer_ai_mo_li_sha",
+      "keys": "pve_dragon_killer_ai_mo_li_sha_sheet,main_panel_bg_jpg"
+    }
+  ],
+  "resources": [
+    {
+      "name": "main_panel_bg_jpg",
+      "type": "image",
+      "url": "pve_dragon_killer_ai_mo_li_sha/outside/main_panel_bg.jpg"
+    },
+    {
+      "name": "pve_dragon_killer_ai_mo_li_sha_sheet",
+      "type": "sheet",
+      "url": "pve_dragon_killer_ai_mo_li_sha/pve_dragon_killer_ai_mo_li_sha_sheet.json",
+      "subkeys": "level1_panel_btnaddfighttime_png,level1_panel_btncure_png,level1_panel_btnfight_png,level1_panel_btnpet_png,level1_panel_ci_png,level1_panel_numbg_png,level1_panel_pet_png,level1_panel_title_png,level1_panel_txlhdgjxcs10hgbjbtlj3cjkjswddll__png,level2_panel_1_png,level2_panel_2_png,level2_panel_3_png,level2_panel_4_png,level2_panel_djtxjkjrtzmtsctzry1gbosszsdhzj5dlxjd_zhmctztybosslxjddhbsycz_png,level2_panel_lxjd_png,level2_panel_numbg_png,level2_panel_title_png,level3_panel_1_png,level3_panel_2_png,level3_panel_3_png,level3_panel_btnfight1_png,level3_panel_djjkjrtz10fznljjblzsjtg3cjktgbgk_png,level3_panel_lzss_png,level3_panel_sycs_png,level3_panel_time_png,main_panel_1_png,main_panel_1_d_png,main_panel_2_png,main_panel_2_d_png,main_panel_3_png,main_panel_3_d_png,main_panel_btnget_png,main_panel_btninfo_png,main_panel_btnonekey_png,main_panel_btnonekey1_png,main_panel_btnup_png,main_panel_pet_png,main_panel_title_png,main_panel_up_bg_png,up_panel_1_png,up_panel_1_1_png,up_panel_2_png,up_panel_2_1_png,up_panel_3_png,up_panel_3_1_png,up_panel_addbg_png,up_panel_aimolisa_png,up_panel_btngetke_png,up_panel_btnke_png,up_panel_btnte_png,up_panel_btnwu_png,up_panel_itembg1_png,up_panel_my15gxlgzjkdhdwjnzstxzskyzdyg_xzkgndkyjkhdxlgzdsde_png,up_panel_title_png,up_panel_xglz__png"
+    }
+  ]
+}

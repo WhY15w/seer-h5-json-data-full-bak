@@ -1,0 +1,71 @@
+{
+  "groups": [
+    {
+      "name": "login202202",
+      "keys": "login202202_sheet,2024dianfeng_atlas,2024dianfeng_json,2024dianfengbg_atlas,2024dianfengbg_json,denglutexiao_atlas,denglutexiao_json,2024dianfeng_png,2024dianfengbg_png,2025nianfeidaijiBg_jpg,denglutexiao_png,login202202_mask2_png"
+    }
+  ],
+  "resources": [
+    {
+      "name": "2024dianfeng_atlas",
+      "type": "text",
+      "url": "login202202/outside/2024dianfeng.atlas"
+    },
+    {
+      "name": "2024dianfeng_json",
+      "type": "json",
+      "url": "login202202/outside/2024dianfeng.json"
+    },
+    {
+      "name": "2024dianfengbg_atlas",
+      "type": "text",
+      "url": "login202202/outside/2024dianfengbg.atlas"
+    },
+    {
+      "name": "2024dianfengbg_json",
+      "type": "json",
+      "url": "login202202/outside/2024dianfengbg.json"
+    },
+    {
+      "name": "denglutexiao_atlas",
+      "type": "text",
+      "url": "login202202/outside/denglutexiao.atlas"
+    },
+    {
+      "name": "denglutexiao_json",
+      "type": "json",
+      "url": "login202202/outside/denglutexiao.json"
+    },
+    {
+      "name": "2024dianfeng_png",
+      "type": "image",
+      "url": "login202202/outside/2024dianfeng.png"
+    },
+    {
+      "name": "2024dianfengbg_png",
+      "type": "image",
+      "url": "login202202/outside/2024dianfengbg.png"
+    },
+    {
+      "name": "2025nianfeidaijiBg_jpg",
+      "type": "image",
+      "url": "login202202/outside/2025nianfeidaijiBg.jpg"
+    },
+    {
+      "name": "denglutexiao_png",
+      "type": "image",
+      "url": "login202202/outside/denglutexiao.png"
+    },
+    {
+      "name": "login202202_mask2_png",
+      "type": "image",
+      "url": "login202202/outside/login202202_mask2.png"
+    },
+    {
+      "name": "login202202_sheet",
+      "type": "sheet",
+      "url": "login202202/login202202_sheet.json",
+      "subkeys": "l202202_account_bg_png,l202202_account_exchange_btnlogin_png,l202202_account_exchange_name_input_bg_png,l202202_account_other_line_png,l202202_account_qq_png,l202202_account_start_btndel_png,l202202_account_start_btnzhanghao_png,l202202_account_start_icon_qq_png,l202202_account_start_icon_tm_png,l202202_account_start_icon_wechat_png,l202202_account_start_logo_png,l202202_account_wechat_png,l202202_child_dialog_title_png,l202202_maintain_pop_close_png,l202202_maintain_pop_maintain_title_png,l202202_maintain_pop_pop_up_bg_s_png,l202202_main_panel_bg_png,l202202_main_panel_btnchange_png,l202202_main_panel_btncustcare_png,l202202_main_panel_btnexchange_png,l202202_main_panel_btnnotice_png,l202202_main_panel_btnrepair_png,l202202_main_panel_btnstart_png,l202202_main_panel_child_tip_png,l202202_main_panel_icon_account_png,l202202_main_panel_icon_fire_png,l202202_main_panel_icon_free_png,l202202_main_panel_icon_hot_png,l202202_main_panel_idbg_png,l202202_main_panel_searchbg_kb_png,l202202_main_panel_select_png,l202202_main_panel_small_logo_png,l202202_main_panel_start_bg_png,l202202_pkg_update_btnupdate_png,l202202_pkg_update_update_bg_png,l202202_pkg_update_update_title_png,l202202_server_list_btnback_png,l202202_server_list_btngo_png,l202202_server_list_icon_fire_png,l202202_server_list_icon_free_png,l202202_server_list_icon_friend_online_png,l202202_server_list_icon_hot_png,l202202_server_list_item_bg_png,l202202_server_list_server_bg_png,l202202_server_list_server_buttom_bg_png,l202202_server_list_server_input_bg_png,l202202_server_list_server_title_png,l202202_server_list_tuli_png,l_maintain_pop_close_png,l_maintain_pop_maintain_bg_png"
+    }
+  ]
+}

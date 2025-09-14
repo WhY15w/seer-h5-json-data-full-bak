@@ -1,0 +1,16 @@
+{
+  "groups": [
+    {
+      "name": "nature_choose_panel",
+      "keys": "nature_choose_panel_sheet"
+    }
+  ],
+  "resources": [
+    {
+      "name": "nature_choose_panel_sheet",
+      "type": "sheet",
+      "url": "nature_choose_panel/nature_choose_panel_sheet.json",
+      "subkeys": "nature_choose_panel_bg_png,nature_choose_panel_btnclose_png,nature_choose_panel_btnconfirm_png,nature_choose_panel_select_png"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "resources": [
+    {
+      "type": "json",
+      "url": "442.json",
+      "name": "road_442"
+    },
+    {
+      "type": "text",
+      "url": "Map442Skin.exml",
+      "name": "exml_442"
+    },
+    {
+      "type": "image",
+      "url": "map_442_bg_mc.jpg",
+      "name": "map_442_bg_mc_jpg"
+    },
+    {
+      "type": "image",
+      "url": "map_442_lomg.png",
+      "name": "map_442_lomg_png"
+    },
+    {
+      "type": "image",
+      "url": "map_442_chazi.png",
+      "name": "map_442_chazi_png"
+    }
+  ],
+  "groups": [
+    {
+      "keys": "road_442,exml_442,map_442_bg_mc_jpg,map_442_lomg_png,map_442_chazi_png",
+      "name": "map_442"
+    }
+  ]
+}

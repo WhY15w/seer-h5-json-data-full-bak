@@ -1,0 +1,125 @@
+{
+  "file": "battleFirePanel_sheet.png",
+  "frames": {
+    "battleFirePanel_fireImg1_png": {
+      "x": 756,
+      "y": 337,
+      "w": 135,
+      "h": 112,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 135,
+      "sourceH": 112
+    },
+    "battleFirePanel_fireImg2_png": {
+      "x": 873,
+      "y": 451,
+      "w": 114,
+      "h": 105,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 114,
+      "sourceH": 105
+    },
+    "battleFirePanel_fireImg3_png": {
+      "x": 893,
+      "y": 337,
+      "w": 121,
+      "h": 112,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 121,
+      "sourceH": 112
+    },
+    "battleFirePanel_fireImg4_png": {
+      "x": 751,
+      "y": 451,
+      "w": 120,
+      "h": 112,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 120,
+      "sourceH": 112
+    },
+    "battlefirepanel_item_new_20220209_img1_png": {
+      "x": 756,
+      "y": 1,
+      "w": 161,
+      "h": 334,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 161,
+      "sourceH": 334
+    },
+    "battlefirepanel_item_new_20220209_imgbtnbg_png": {
+      "x": 1,
+      "y": 469,
+      "w": 134,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 134,
+      "sourceH": 46
+    },
+    "battlefirepanel_item_new_20220209_imgstar_png": {
+      "x": 987,
+      "y": 1,
+      "w": 26,
+      "h": 23,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 26,
+      "sourceH": 23
+    },
+    "battlefirepanel_item_new_20220209_imgusing_png": {
+      "x": 137,
+      "y": 469,
+      "w": 126,
+      "h": 38,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 126,
+      "sourceH": 38
+    },
+    "battlefirepanel_new_20220207_btnclose_png": {
+      "x": 919,
+      "y": 1,
+      "w": 33,
+      "h": 33,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 33,
+      "sourceH": 33
+    },
+    "battlefirepanel_new_20220207_img1_png": {
+      "x": 1,
+      "y": 1,
+      "w": 753,
+      "h": 430,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 753,
+      "sourceH": 430
+    },
+    "battlefirepanel_new_20220207_img2_png": {
+      "x": 1,
+      "y": 433,
+      "w": 748,
+      "h": 34,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 748,
+      "sourceH": 34
+    },
+    "battlefirepanel_new_20220207_img3_png": {
+      "x": 954,
+      "y": 1,
+      "w": 31,
+      "h": 28,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 31,
+      "sourceH": 28
+    }
+  }
+}

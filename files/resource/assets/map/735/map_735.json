@@ -1,0 +1,30 @@
+{
+  "groups": [
+    {
+      "keys": "road_735,exml_735,map_735_bg_mc_jpg,map_735_top_mc_png",
+      "name": "map_735"
+    }
+  ],
+  "resources": [
+    {
+      "type": "json",
+      "url": "735.json",
+      "name": "road_735"
+    },
+    {
+      "type": "text",
+      "url": "Map735Skin.exml",
+      "name": "exml_735"
+    },
+    {
+      "type": "image",
+      "url": "map_735_bg_mc.jpg",
+      "name": "map_735_bg_mc_jpg"
+    },
+    {
+      "type": "image",
+      "url": "map_735_top_mc.png",
+      "name": "map_735_top_mc_png"
+    }
+  ]
+}

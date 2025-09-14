@@ -1,0 +1,21 @@
+{
+  "groups": [
+    {
+      "name": "summer_sign",
+      "keys": "summer_sign_sheet,summer_sign_bg_png"
+    }
+  ],
+  "resources": [
+    {
+      "name": "summer_sign_bg_png",
+      "type": "image",
+      "url": "summer_sign/outside/summer_sign_bg.png"
+    },
+    {
+      "name": "summer_sign_sheet",
+      "type": "sheet",
+      "url": "summer_sign/summer_sign_sheet.json",
+      "subkeys": "summer_sign_btninfo_png,summer_sign_close_png,summer_sign_cur_png,summer_sign_cur2_png,summer_sign_got_png,summer_sign_got2_png,summer_sign_normal_png,summer_sign_normal2_png"
+    }
+  ]
+}

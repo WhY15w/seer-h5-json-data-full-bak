@@ -1,0 +1,71 @@
+{
+  "groups": [
+    {
+      "name": "girod_rabid_panel",
+      "keys": "girod_rabid_panel_sheet,girod_rabid_panel_3704_png,girod_rabid_panel_baioti_png,girod_rabid_panel_bg_jpg,girod_rabid_panel_get_item_img_1_png,girod_rabid_panel_get_item_itembg_png,girod_rabid_panel_level1_img_1_png,girod_rabid_panel_level1_pet1_png,girod_rabid_panel_level1_ratebg_s9_png,girod_rabid_panel_level1_rate_s9_png,girod_rabid_panel_level2_img_1_png,girod_rabid_panel_level2_pet1_png"
+    }
+  ],
+  "resources": [
+    {
+      "name": "girod_rabid_panel_3704_png",
+      "type": "image",
+      "url": "girod_rabid_panel/outside/girod_rabid_panel_3704.png"
+    },
+    {
+      "name": "girod_rabid_panel_baioti_png",
+      "type": "image",
+      "url": "girod_rabid_panel/outside/girod_rabid_panel_baioti.png"
+    },
+    {
+      "name": "girod_rabid_panel_bg_jpg",
+      "type": "image",
+      "url": "girod_rabid_panel/outside/girod_rabid_panel_bg.jpg"
+    },
+    {
+      "name": "girod_rabid_panel_get_item_img_1_png",
+      "type": "image",
+      "url": "girod_rabid_panel/outside/girod_rabid_panel_get_item_img_1.png"
+    },
+    {
+      "name": "girod_rabid_panel_get_item_itembg_png",
+      "type": "image",
+      "url": "girod_rabid_panel/outside/girod_rabid_panel_get_item_itembg.png"
+    },
+    {
+      "name": "girod_rabid_panel_level1_img_1_png",
+      "type": "image",
+      "url": "girod_rabid_panel/outside/girod_rabid_panel_level1_img_1.png"
+    },
+    {
+      "name": "girod_rabid_panel_level1_pet1_png",
+      "type": "image",
+      "url": "girod_rabid_panel/outside/girod_rabid_panel_level1_pet1.png"
+    },
+    {
+      "name": "girod_rabid_panel_level1_ratebg_s9_png",
+      "type": "image",
+      "url": "girod_rabid_panel/outside/girod_rabid_panel_level1_ratebg_s9.png"
+    },
+    {
+      "name": "girod_rabid_panel_level1_rate_s9_png",
+      "type": "image",
+      "url": "girod_rabid_panel/outside/girod_rabid_panel_level1_rate_s9.png"
+    },
+    {
+      "name": "girod_rabid_panel_level2_img_1_png",
+      "type": "image",
+      "url": "girod_rabid_panel/outside/girod_rabid_panel_level2_img_1.png"
+    },
+    {
+      "name": "girod_rabid_panel_level2_pet1_png",
+      "type": "image",
+      "url": "girod_rabid_panel/outside/girod_rabid_panel_level2_pet1.png"
+    },
+    {
+      "name": "girod_rabid_panel_sheet",
+      "type": "sheet",
+      "url": "girod_rabid_panel/girod_rabid_panel_sheet.json",
+      "subkeys": "girod_rabid_panel_btninfo_png,girod_rabid_panel_btnone1_png,girod_rabid_panel_btnone2_png,girod_rabid_panel_btnone3_png,girod_rabid_panel_get_item_btn2_png,girod_rabid_panel_get_item_dropbg_png,girod_rabid_panel_get_item_icon_png,girod_rabid_panel_get_item_item4bg_png,girod_rabid_panel_get_item_title1_png,girod_rabid_panel_get_item_txtbg2_png,girod_rabid_panel_got_png,girod_rabid_panel_hmzl_png,girod_rabid_panel_imaback_png,girod_rabid_panel_krzl_png,girod_rabid_panel_level1_btn21_png,girod_rabid_panel_level1_btnonekey_png,girod_rabid_panel_level1_imgbtn_cure_png,girod_rabid_panel_level1_imgbtn_pet_png,girod_rabid_panel_level1_rebg_png,girod_rabid_panel_level1_title1_png,girod_rabid_panel_level1_tuceng_5_png,girod_rabid_panel_level1_use_png,girod_rabid_panel_level2_btn1_png,girod_rabid_panel_level2_btn2_png,girod_rabid_panel_level2_btnonekey_png,girod_rabid_panel_level2_juxing_14_png,girod_rabid_panel_level2_numbg_png,girod_rabid_panel_level2_rec_png,girod_rabid_panel_level2_rec2_png,girod_rabid_panel_level2_title1_png,girod_rabid_panel_level2_tuceng_4_png,girod_rabid_panel_level2_xh_png,girod_rabid_panel_mas_png,girod_rabid_panel_up_add_png,girod_rabid_panel_up_bg_png,girod_rabid_panel_up_btneasy_png,girod_rabid_panel_up_btnhard_png,girod_rabid_panel_up_btnmid_png,girod_rabid_panel_up_exchange_png,girod_rabid_panel_up_got_png,girod_rabid_panel_up_icon_jinneg_png,girod_rabid_panel_up_icon_keyin_png,girod_rabid_panel_up_icon_texing_png,girod_rabid_panel_up_line1_png,girod_rabid_panel_up_line2_png,girod_rabid_panel_up_line3_png,girod_rabid_panel_up_rightbg_png,girod_rabid_panel_up_righttop_png,girod_rabid_panel_up_title1_png,girod_rabid_panel_up_txtbg1_png,girod_rabid_panel_up_txtbg2_png,girod_rabid_panel_up_txtbg3_png,girod_rabid_panel_up_txtbg4_png,girod_rabid_panel_up_txtbg5_png,girod_rabid_panel_up_vip_png"
+    }
+  ]
+}

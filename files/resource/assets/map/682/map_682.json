@@ -1,0 +1,40 @@
+{
+  "resources": [
+    {
+      "type": "json",
+      "url": "682.json",
+      "name": "road_682"
+    },
+    {
+      "type": "text",
+      "url": "Map682Skin.exml",
+      "name": "exml_682"
+    },
+    {
+      "type": "image",
+      "url": "map_682_bg_mc.jpg",
+      "name": "map_682_bg_mc_jpg"
+    },
+    {
+      "type": "image",
+      "url": "map_682_zhuzi1.png",
+      "name": "map_682_zhuzi1_png"
+    },
+    {
+      "type": "image",
+      "url": "map_682_zhuzi2.png",
+      "name": "map_682_zhuzi2_png"
+    },
+    {
+      "type": "image",
+      "url": "map_682_depth_mc.png",
+      "name": "map_682_depth_mc_png"
+    }
+  ],
+  "groups": [
+    {
+      "keys": "road_682,exml_682,map_682_bg_mc_jpg,map_682_zhuzi1_png,map_682_zhuzi2_png,map_682_depth_mc_png",
+      "name": "map_682"
+    }
+  ]
+}

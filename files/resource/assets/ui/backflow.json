@@ -1,0 +1,191 @@
+{
+  "groups": [
+    {
+      "name": "backflow",
+      "keys": "backflow_sheet,huiliu_p1_atlas,huiliu_p1_json,huiliu_p2_atlas,huiliu_p2_json,huiliu_p3_atlas,huiliu_p3_json,huiliu_p5_atlas,huiliu_p5_json,huiliu_p6_atlas,huiliu_p6_json,mh_p1_atlas,mh_p1_json,mh_p2_atlas,mh_p2_json,mh_p3_atlas,mh_p3_json,mh_p4_atlas,mh_p4_json,saierhao_atlas,saierhao_json,backflow_fire_pop_imgbg_png,backflow_open_pop2_imgbg_png,huiliu_p1_png,huiliu_p1_2_png,huiliu_p2_png,huiliu_p3_png,huiliu_p5_png,huiliu_p6_png,mh_p1_png,mh_p2_png,mh_p3_png,mh_p4_png,saierhao_png"
+    },
+    {
+      "keys": "backflow_group_another_sheet",
+      "name": "backflow_group_another"
+    }
+  ],
+  "resources": [
+    {
+      "name": "huiliu_p1_atlas",
+      "type": "text",
+      "url": "backflow/outside/huiliu_p1.atlas"
+    },
+    {
+      "name": "huiliu_p1_json",
+      "type": "json",
+      "url": "backflow/outside/huiliu_p1.json"
+    },
+    {
+      "name": "huiliu_p2_atlas",
+      "type": "text",
+      "url": "backflow/outside/huiliu_p2.atlas"
+    },
+    {
+      "name": "huiliu_p2_json",
+      "type": "json",
+      "url": "backflow/outside/huiliu_p2.json"
+    },
+    {
+      "name": "huiliu_p3_atlas",
+      "type": "text",
+      "url": "backflow/outside/huiliu_p3.atlas"
+    },
+    {
+      "name": "huiliu_p3_json",
+      "type": "json",
+      "url": "backflow/outside/huiliu_p3.json"
+    },
+    {
+      "name": "huiliu_p5_atlas",
+      "type": "text",
+      "url": "backflow/outside/huiliu_p5.atlas"
+    },
+    {
+      "name": "huiliu_p5_json",
+      "type": "json",
+      "url": "backflow/outside/huiliu_p5.json"
+    },
+    {
+      "name": "huiliu_p6_atlas",
+      "type": "text",
+      "url": "backflow/outside/huiliu_p6.atlas"
+    },
+    {
+      "name": "huiliu_p6_json",
+      "type": "json",
+      "url": "backflow/outside/huiliu_p6.json"
+    },
+    {
+      "name": "mh_p1_atlas",
+      "type": "text",
+      "url": "backflow/outside/mh_p1.atlas"
+    },
+    {
+      "name": "mh_p1_json",
+      "type": "json",
+      "url": "backflow/outside/mh_p1.json"
+    },
+    {
+      "name": "mh_p2_atlas",
+      "type": "text",
+      "url": "backflow/outside/mh_p2.atlas"
+    },
+    {
+      "name": "mh_p2_json",
+      "type": "json",
+      "url": "backflow/outside/mh_p2.json"
+    },
+    {
+      "name": "mh_p3_atlas",
+      "type": "text",
+      "url": "backflow/outside/mh_p3.atlas"
+    },
+    {
+      "name": "mh_p3_json",
+      "type": "json",
+      "url": "backflow/outside/mh_p3.json"
+    },
+    {
+      "name": "mh_p4_atlas",
+      "type": "text",
+      "url": "backflow/outside/mh_p4.atlas"
+    },
+    {
+      "name": "mh_p4_json",
+      "type": "json",
+      "url": "backflow/outside/mh_p4.json"
+    },
+    {
+      "name": "saierhao_atlas",
+      "type": "text",
+      "url": "backflow/outside/saierhao.atlas"
+    },
+    {
+      "name": "saierhao_json",
+      "type": "json",
+      "url": "backflow/outside/saierhao.json"
+    },
+    {
+      "name": "backflow_fire_pop_imgbg_png",
+      "type": "image",
+      "url": "backflow/outside/backflow_fire_pop_imgbg.png"
+    },
+    {
+      "name": "backflow_open_pop2_imgbg_png",
+      "type": "image",
+      "url": "backflow/outside/backflow_open_pop2_imgbg.png"
+    },
+    {
+      "name": "huiliu_p1_png",
+      "type": "image",
+      "url": "backflow/outside/huiliu_p1.png"
+    },
+    {
+      "name": "huiliu_p1_2_png",
+      "type": "image",
+      "url": "backflow/outside/huiliu_p1_2.png"
+    },
+    {
+      "name": "huiliu_p2_png",
+      "type": "image",
+      "url": "backflow/outside/huiliu_p2.png"
+    },
+    {
+      "name": "huiliu_p3_png",
+      "type": "image",
+      "url": "backflow/outside/huiliu_p3.png"
+    },
+    {
+      "name": "huiliu_p5_png",
+      "type": "image",
+      "url": "backflow/outside/huiliu_p5.png"
+    },
+    {
+      "name": "huiliu_p6_png",
+      "type": "image",
+      "url": "backflow/outside/huiliu_p6.png"
+    },
+    {
+      "name": "mh_p1_png",
+      "type": "image",
+      "url": "backflow/outside/mh_p1.png"
+    },
+    {
+      "name": "mh_p2_png",
+      "type": "image",
+      "url": "backflow/outside/mh_p2.png"
+    },
+    {
+      "name": "mh_p3_png",
+      "type": "image",
+      "url": "backflow/outside/mh_p3.png"
+    },
+    {
+      "name": "mh_p4_png",
+      "type": "image",
+      "url": "backflow/outside/mh_p4.png"
+    },
+    {
+      "name": "saierhao_png",
+      "type": "image",
+      "url": "backflow/outside/saierhao.png"
+    },
+    {
+      "name": "backflow_sheet",
+      "type": "sheet",
+      "url": "backflow/backflow_sheet.json",
+      "subkeys": "backflow_buy_gift_pop_imgleftbg_png,backflow_buy_gift_pop_imgtitle_png,backflow_buy_gift_pop_kuang_png,backflow_buy_pet_pop_btnbuy_png,backflow_buy_pet_pop_img1_png,backflow_buy_pet_pop_imghasuse_png,backflow_buy_pet_pop_imgnothas_png,backflow_buy_pet_pop_imgtitle_png,backflow_fire_pop_btnclose_png,backflow_fire_pop_btnget1_png,backflow_fire_pop_imgtitle_png,backflow_main_panel_imgtitle_png,backflow_open_pop2_btnclose_png,backflow_open_pop2_btngo_png,backflow_panel1_btnget_png,backflow_panel1_imgbtndown1_png,backflow_panel1_imgbtndown2_png,backflow_panel1_imgbtndown3_png,backflow_panel1_imgbtndown4_png,backflow_panel1_imgbtndown5_png,backflow_panel1_imgbtndown6_png,backflow_panel1_imgbtnup1_png,backflow_panel1_imgbtnup2_png,backflow_panel1_imgbtnup3_png,backflow_panel1_imgbtnup4_png,backflow_panel1_imgbtnup5_png,backflow_panel1_imgbtnup6_png,backflow_panel1_imghasget_png,backflow_panel1_imgitembg_png,backflow_panel1_imgrect_png,backflow_panel2_bg_png,backflow_panel2_btnfire_png,backflow_panel2_img1_png,backflow_panel2_img2_png,backflow_panel2_imgrect_png,backflow_panel3_btnget_png,backflow_panel3_btninfo_png,backflow_panel4_btnmark_png,backflow_panel4_btnpet_png,backflow_panel4_zuodi_png,backflow_panel5_btnget1_png,backflow_panel5_btnrecharge_png,backflow_panel5_imghasget1_png,backflow_panel5_imghaspet1_png,backflow_panel5_imgitembg_png,backflow_panel5_imgitemdown_png,backflow_panel5_imgitemup_png,backflow_panel5_imgleftbg_png,backflow_panel5_imgpetdown_png,backflow_panel5_imgpetup_png,backflow_panel6_btnmore_png,backflow_panel6_btnpvedown_png,backflow_panel6_btnpveup_png,backflow_panel6_btnpvpdown_png,backflow_panel6_btnpvpup_png,backflow_panel6_imghas_png,backflow_pet_pop_btnget1_png,backflow_pet_pop_img1_png,backflow_pet_pop_img2_png,backflow_pet_pop_img3_png,backflow_pet_pop_imghasget_png,backflow_pet_pop_imgmark1_png,backflow_pet_pop_imgmark2_png,backflow_pet_pop_imgmark3_png,backflow_pet_pop_imgtitle_png,backflow_pop1_imgrect_png,backflow_task_item_btngo_png,backflow_task_item_imgbg_png"
+    },
+    {
+      "name": "backflow_group_another_sheet",
+      "type": "sheet",
+      "url": "backflow/group_another_sheet.json",
+      "subkeys": "backflow_buy_pet_pop_imgpet1_png,backflow_buy_pet_pop_imgpet2_png,backflow_buy_pet_pop_imgpet3_png,backflow_buy_pet_pop_imgpet4_png,backflow_fire_pop_img1_png,backflow_fire_pop_img2_png,backflow_fire_pop_img3_png,backflow_fire_pop_img4_png,backflow_panel3_img1_png,backflow_panel3_img2_png,backflow_panel3_img3_png,backflow_panel3_img4_png,backflow_panel3_img5_png,backflow_panel3_img6_png,backflow_panel3_img7_png,backflow_panel3_img8_png,backflow_panel5_btngift1_png,backflow_panel5_btngift2_png,backflow_panel5_btngift3_png,backflow_panel5_btngift4_png,backflow_panel5_btnpet1_png,backflow_panel5_btnpet2_png,backflow_panel5_btnpet3_png,backflow_panel5_btnpet4_png,backflow_panel6_imgpet1_png,backflow_panel6_imgpet10_png,backflow_panel6_imgpet2_png,backflow_panel6_imgpet3_png,backflow_panel6_imgpet4_png,backflow_panel6_imgpet5_png,backflow_panel6_imgpet6_png,backflow_panel6_imgpet7_png,backflow_panel6_imgpet8_png,backflow_panel6_imgpet9_png"
+    }
+  ]
+}

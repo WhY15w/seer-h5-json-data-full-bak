@@ -1,0 +1,50 @@
+{
+  "resources": [
+    {
+      "type": "json",
+      "url": "671.json",
+      "name": "road_671"
+    },
+    {
+      "type": "text",
+      "url": "Map671Skin.exml",
+      "name": "exml_671"
+    },
+    {
+      "type": "image",
+      "url": "map_671_bg_mc.jpg",
+      "name": "map_671_bg_mc_jpg"
+    },
+    {
+      "type": "image",
+      "url": "map_671_d.png",
+      "name": "map_671_d_png"
+    },
+    {
+      "type": "image",
+      "url": "map_671_ff.png",
+      "name": "map_671_ff_png"
+    },
+    {
+      "type": "image",
+      "url": "map_671_dsdaf.png",
+      "name": "map_671_dsdaf_png"
+    },
+    {
+      "type": "image",
+      "url": "map_671_depth_mc.png",
+      "name": "map_671_depth_mc_png"
+    },
+    {
+      "type": "image",
+      "url": "map_671_top_mc.png",
+      "name": "map_671_top_mc_png"
+    }
+  ],
+  "groups": [
+    {
+      "keys": "road_671,exml_671,map_671_bg_mc_jpg,map_671_d_png,map_671_ff_png,map_671_dsdaf_png,map_671_depth_mc_png,map_671_top_mc_png",
+      "name": "map_671"
+    }
+  ]
+}

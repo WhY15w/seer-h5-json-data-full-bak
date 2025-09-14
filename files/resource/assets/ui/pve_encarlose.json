@@ -1,0 +1,101 @@
+{
+  "groups": [
+    {
+      "name": "pve_encarlose",
+      "keys": "pve_encarlose_sheet,pve_encarlose_bg_jpg,pve_encarlose_evo_view_bg_jpg,pve_encarlose_evo_view_img_base_png,pve_encarlose_evo_view_img_tl_png,pve_encarlose_justin_view_bg_jpg,pve_encarlose_justin_view_npc_png,pve_encarlose_pet_0_png,pve_encarlose_pet_1_png,pve_encarlose_task_bg_1_jpg,pve_encarlose_task_bg_2_jpg,pve_encarlose_task_bg_3_jpg,pve_encarlose_task_bg_4_jpg,pve_encarlose_task_pet_1_png,pve_encarlose_task_pet_2_png,pve_encarlose_task_pet_3_png,pve_encarlose_task_pet_4_png,pve_encarlose_task__mask_png"
+    }
+  ],
+  "resources": [
+    {
+      "name": "pve_encarlose_bg_jpg",
+      "type": "image",
+      "url": "pve_encarlose/outside/pve_encarlose_bg.jpg"
+    },
+    {
+      "name": "pve_encarlose_evo_view_bg_jpg",
+      "type": "image",
+      "url": "pve_encarlose/outside/pve_encarlose_evo_view_bg.jpg"
+    },
+    {
+      "name": "pve_encarlose_evo_view_img_base_png",
+      "type": "image",
+      "url": "pve_encarlose/outside/pve_encarlose_evo_view_img_base.png"
+    },
+    {
+      "name": "pve_encarlose_evo_view_img_tl_png",
+      "type": "image",
+      "url": "pve_encarlose/outside/pve_encarlose_evo_view_img_tl.png"
+    },
+    {
+      "name": "pve_encarlose_justin_view_bg_jpg",
+      "type": "image",
+      "url": "pve_encarlose/outside/pve_encarlose_justin_view_bg.jpg"
+    },
+    {
+      "name": "pve_encarlose_justin_view_npc_png",
+      "type": "image",
+      "url": "pve_encarlose/outside/pve_encarlose_justin_view_npc.png"
+    },
+    {
+      "name": "pve_encarlose_pet_0_png",
+      "type": "image",
+      "url": "pve_encarlose/outside/pve_encarlose_pet_0.png"
+    },
+    {
+      "name": "pve_encarlose_pet_1_png",
+      "type": "image",
+      "url": "pve_encarlose/outside/pve_encarlose_pet_1.png"
+    },
+    {
+      "name": "pve_encarlose_task_bg_1_jpg",
+      "type": "image",
+      "url": "pve_encarlose/outside/pve_encarlose_task_bg_1.jpg"
+    },
+    {
+      "name": "pve_encarlose_task_bg_2_jpg",
+      "type": "image",
+      "url": "pve_encarlose/outside/pve_encarlose_task_bg_2.jpg"
+    },
+    {
+      "name": "pve_encarlose_task_bg_3_jpg",
+      "type": "image",
+      "url": "pve_encarlose/outside/pve_encarlose_task_bg_3.jpg"
+    },
+    {
+      "name": "pve_encarlose_task_bg_4_jpg",
+      "type": "image",
+      "url": "pve_encarlose/outside/pve_encarlose_task_bg_4.jpg"
+    },
+    {
+      "name": "pve_encarlose_task_pet_1_png",
+      "type": "image",
+      "url": "pve_encarlose/outside/pve_encarlose_task_pet_1.png"
+    },
+    {
+      "name": "pve_encarlose_task_pet_2_png",
+      "type": "image",
+      "url": "pve_encarlose/outside/pve_encarlose_task_pet_2.png"
+    },
+    {
+      "name": "pve_encarlose_task_pet_3_png",
+      "type": "image",
+      "url": "pve_encarlose/outside/pve_encarlose_task_pet_3.png"
+    },
+    {
+      "name": "pve_encarlose_task_pet_4_png",
+      "type": "image",
+      "url": "pve_encarlose/outside/pve_encarlose_task_pet_4.png"
+    },
+    {
+      "name": "pve_encarlose_task__mask_png",
+      "type": "image",
+      "url": "pve_encarlose/outside/pve_encarlose_task__mask.png"
+    },
+    {
+      "name": "pve_encarlose_sheet",
+      "type": "sheet",
+      "url": "pve_encarlose/pve_encarlose_sheet.json",
+      "subkeys": "pve_encarlose_btnGo_png,pve_encarlose_btnGo_0_png,pve_encarlose_btnGo_1_png,pve_encarlose_btnInfo_png,pve_encarlose_evo_view_btnBalance_png,pve_encarlose_evo_view_btnEvo_png,pve_encarlose_evo_view_btnFast_png,pve_encarlose_evo_view_btnFight_png,pve_encarlose_evo_view_btnGo_png,pve_encarlose_evo_view_btnIn_png,pve_encarlose_evo_view_btnOne_png,pve_encarlose_evo_view_flag_done_png,pve_encarlose_evo_view_headbg_png,pve_encarlose_evo_view_head_124_png,pve_encarlose_evo_view_head_1758_png,pve_encarlose_evo_view_head_2311_png,pve_encarlose_evo_view_head_2924_png,pve_encarlose_evo_view_head_2944_png,pve_encarlose_evo_view_head_3044_png,pve_encarlose_evo_view_head_3045_png,pve_encarlose_evo_view_head_3456_png,pve_encarlose_evo_view_head_3464_png,pve_encarlose_evo_view_imgBtn_cure_png,pve_encarlose_evo_view_imgBtn_pet_png,pve_encarlose_evo_view_imgebtngo1_png,pve_encarlose_evo_view_imgedone_png,pve_encarlose_evo_view_imgetuijian1_png,pve_encarlose_evo_view_imgetuijian2_png,pve_encarlose_evo_view_imginit_png,pve_encarlose_evo_view_img_bar_0_png,pve_encarlose_evo_view_img_bar_1_png,pve_encarlose_evo_view_img_cj_png,pve_encarlose_evo_view_img_enegy_0_png,pve_encarlose_evo_view_img_enegy_1_png,pve_encarlose_evo_view_img_kr_png,pve_encarlose_evo_view_line_png,pve_encarlose_evo_view_line1_png,pve_encarlose_evo_view_powerbg_0_png,pve_encarlose_evo_view_powerbg_1_png,pve_encarlose_evo_view_powerbg_23232_png,pve_encarlose_evo_view_rightbg_png,pve_encarlose_evo_view_rightbg2_png,pve_encarlose_evo_view_title_png,pve_encarlose_flag_got_png,pve_encarlose_helpBtn_png_png,pve_encarlose_img_j_png,pve_encarlose_img_j_0_png,pve_encarlose_img_j_1_png,pve_encarlose_justin_pop_img_png,pve_encarlose_justin_pop_light_1_png,pve_encarlose_justin_pop_light_2_png,pve_encarlose_justin_pop_light_3_png,pve_encarlose_justin_pop_light_4_png,pve_encarlose_justin_pop_mask_1_png,pve_encarlose_justin_pop_mask_2_png,pve_encarlose_justin_pop_mask_3_png,pve_encarlose_justin_pop_mask_4_png,pve_encarlose_justin_view_btnPlus_png,pve_encarlose_justin_view_bubbleBg_png,pve_encarlose_justin_view_flag_tomorrow_png,pve_encarlose_justin_view_greenBtn_png,pve_encarlose_justin_view_img_selected_png,pve_encarlose_justin_view_img_signed_png,pve_encarlose_justin_view_item_1_png,pve_encarlose_justin_view_item_10_png,pve_encarlose_justin_view_item_2_png,pve_encarlose_justin_view_item_3_png,pve_encarlose_justin_view_item_4_png,pve_encarlose_justin_view_item_5_png,pve_encarlose_justin_view_item_6_png,pve_encarlose_justin_view_item_7_png,pve_encarlose_justin_view_item_8_png,pve_encarlose_justin_view_item_9_png,pve_encarlose_justin_view_npcbg_png,pve_encarlose_justin_view_orangeBtn_png,pve_encarlose_justin_view_title_png,pve_encarlose_justin_view_txtbg_png,pve_encarlose_sucai_png,pve_encarlose_task_candlebg_png,pve_encarlose_task_candle_off_png,pve_encarlose_task_candle_on_png,pve_encarlose_task_gem_png,pve_encarlose_task_light_png,pve_encarlose_task_numbg_png,pve_encarlose_task_timeBg_png,pve_encarlose_task_title_1_png,pve_encarlose_task_title_2_png,pve_encarlose_task_title_3_png,pve_encarlose_task_title_4_png,pve_encarlose_title_png,pve_encarlose_txtbg_png,pve_encarlose_up_bg_png"
+    }
+  ]
+}

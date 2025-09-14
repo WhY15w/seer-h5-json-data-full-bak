@@ -1,0 +1,30 @@
+{
+  "groups": [
+    {
+      "keys": "road_351,exml_351,map_351_bg_mc_jpg,map_351_top_mc_png",
+      "name": "map_351"
+    }
+  ],
+  "resources": [
+    {
+      "type": "json",
+      "url": "351.json",
+      "name": "road_351"
+    },
+    {
+      "type": "text",
+      "url": "Map351Skin.exml",
+      "name": "exml_351"
+    },
+    {
+      "type": "image",
+      "url": "map_351_bg_mc.jpg",
+      "name": "map_351_bg_mc_jpg"
+    },
+    {
+      "type": "image",
+      "url": "map_351_top_mc.png",
+      "name": "map_351_top_mc_png"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "groups": [
+    {
+      "name": "newWorld_219",
+      "keys": "group_star_sheet_219,posJson_219"
+    }
+  ],
+  "resources": [
+    {
+      "name": "group_star_sheet_219",
+      "type": "sheet",
+      "url": "group_star_sheet.json",
+      "subkeys": "map_start_21431_png,map_start_21430_png,map_start_21429_png,map_start_21428_png,map_startTitle_21430_png,map_startTitle_21431_png,map_startTitle_21429_png,map_startTitle_21428_png"
+    },
+    {
+      "name": "posJson_219",
+      "type": "json",
+      "url": "posJson.json"
+    }
+  ]
+}

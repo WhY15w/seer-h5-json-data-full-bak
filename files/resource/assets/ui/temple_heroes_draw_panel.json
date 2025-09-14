@@ -1,0 +1,56 @@
+{
+  "groups": [
+    {
+      "name": "temple_heroes_draw_panel",
+      "keys": "temple_heroes_draw_panel_sheet,12heroes_anima_atlas,12heroes_anima_json,12heroes_anima_png,temple_heroes_draw_panel_bg_1_jpg,temple_heroes_draw_panel_bg_2_jpg,temple_heroes_draw_panel_bg_3_jpg,temple_heroes_draw_panel_bg_4_jpg,temple_heroes_draw_panel_bg_5_jpg"
+    }
+  ],
+  "resources": [
+    {
+      "name": "12heroes_anima_atlas",
+      "type": "text",
+      "url": "temple_heroes_draw_panel/outside/12heroes_anima.atlas"
+    },
+    {
+      "name": "12heroes_anima_json",
+      "type": "json",
+      "url": "temple_heroes_draw_panel/outside/12heroes_anima.json"
+    },
+    {
+      "name": "12heroes_anima_png",
+      "type": "image",
+      "url": "temple_heroes_draw_panel/outside/12heroes_anima.png"
+    },
+    {
+      "name": "temple_heroes_draw_panel_bg_1_jpg",
+      "type": "image",
+      "url": "temple_heroes_draw_panel/outside/temple_heroes_draw_panel_bg_1.jpg"
+    },
+    {
+      "name": "temple_heroes_draw_panel_bg_2_jpg",
+      "type": "image",
+      "url": "temple_heroes_draw_panel/outside/temple_heroes_draw_panel_bg_2.jpg"
+    },
+    {
+      "name": "temple_heroes_draw_panel_bg_3_jpg",
+      "type": "image",
+      "url": "temple_heroes_draw_panel/outside/temple_heroes_draw_panel_bg_3.jpg"
+    },
+    {
+      "name": "temple_heroes_draw_panel_bg_4_jpg",
+      "type": "image",
+      "url": "temple_heroes_draw_panel/outside/temple_heroes_draw_panel_bg_4.jpg"
+    },
+    {
+      "name": "temple_heroes_draw_panel_bg_5_jpg",
+      "type": "image",
+      "url": "temple_heroes_draw_panel/outside/temple_heroes_draw_panel_bg_5.jpg"
+    },
+    {
+      "name": "temple_heroes_draw_panel_sheet",
+      "type": "sheet",
+      "url": "temple_heroes_draw_panel/temple_heroes_draw_panel_sheet.json",
+      "subkeys": "temple_heroes_draw_panel_backbg_png,temple_heroes_draw_panel_btnadd_png,temple_heroes_draw_panel_btnback_png,temple_heroes_draw_panel_btnzengjia1_kb_3_png,temple_heroes_draw_panel_done_png,temple_heroes_draw_panel_grp_bg_png,temple_heroes_draw_panel_icon_png,temple_heroes_draw_panel_icon_1_png,temple_heroes_draw_panel_icon_2_png,temple_heroes_draw_panel_icon_3_png,temple_heroes_draw_panel_icon_4_png,temple_heroes_draw_panel_icon_5_png,temple_heroes_draw_panel_icon_bg_1_png,temple_heroes_draw_panel_icon_bg_2_png,temple_heroes_draw_panel_icon_bg_3_png,temple_heroes_draw_panel_icon_bg_4_png,temple_heroes_draw_panel_icon_bg_5_png,temple_heroes_draw_panel_icon_gold_png,temple_heroes_draw_panel_itemnumbg_png,temple_heroes_draw_panel_tips_png"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "groups": [
+    {
+      "name": "temple_heroes_panel2016",
+      "keys": "temple_heroes_panel2016_sheet,temple_heroes_panel_2016_pop_bg_png,temple_heroes_panel_bg_2016_jpg,temple_heroes_panel_pet_2016_png,temple_heroes_panel_tabgroup4bg_2016_png"
+    }
+  ],
+  "resources": [
+    {
+      "name": "temple_heroes_panel_2016_pop_bg_png",
+      "type": "image",
+      "url": "temple_heroes_panel2016/outside/temple_heroes_panel_2016_pop_bg.png"
+    },
+    {
+      "name": "temple_heroes_panel_bg_2016_jpg",
+      "type": "image",
+      "url": "temple_heroes_panel2016/outside/temple_heroes_panel_bg_2016.jpg"
+    },
+    {
+      "name": "temple_heroes_panel_pet_2016_png",
+      "type": "image",
+      "url": "temple_heroes_panel2016/outside/temple_heroes_panel_pet_2016.png"
+    },
+    {
+      "name": "temple_heroes_panel_tabgroup4bg_2016_png",
+      "type": "image",
+      "url": "temple_heroes_panel2016/outside/temple_heroes_panel_tabgroup4bg_2016.png"
+    },
+    {
+      "name": "temple_heroes_panel2016_sheet",
+      "type": "sheet",
+      "url": "temple_heroes_panel2016/temple_heroes_panel2016_sheet.json",
+      "subkeys": "tab1_down_2016_png,tab1_up_2016_png,tab2_down_2016_png,tab2_up_2016_png,tab3_down_2016_png,tab3_up_2016_png,tab4_down_2016_png,tab4_up_2016_png,tab5_down_2016_png,tab5_up_2016_png,temple_heroes_panel_2016_pop_close_png,temple_heroes_panel_2016_pop_gap_png,temple_heroes_panel_2016_pop_img_left_png,temple_heroes_panel_2016_pop_img_right_png,temple_heroes_panel_backbg_2016_png,temple_heroes_panel_btnadd_2016_png,temple_heroes_panel_btnback_2016_png,temple_heroes_panel_btnbuyskin_2016_png,temple_heroes_panel_btnbuy_bg_2016_png,temple_heroes_panel_btncontrast_2016_png,temple_heroes_panel_btninfo_2016_png,temple_heroes_panel_btntips_2016_png,temple_heroes_panel_bundledbg_2016_png,temple_heroes_panel_find_2016_png,temple_heroes_panel_group5bg_2016_png,temple_heroes_panel_icon_type1_2016_png,temple_heroes_panel_icon_type2_2016_png,temple_heroes_panel_itembg_2016_png,temple_heroes_panel_itemnumbg_2016_png,temple_heroes_panel_petname_2016_png,temple_heroes_panel_rect_2016_png,temple_heroes_panel_tab5_btnbuy_bg_2016_png,temple_heroes_panel_tabbg_2016_png,temple_heroes_panel_tabgroup1iconbg_2016_png,temple_heroes_panel_tabgroup1namebg_2016_png,temple_heroes_panel_tabgroup1title1_2016_png,temple_heroes_panel_tabgroup1title2_2016_png,temple_heroes_panel_tabgroup1titlebg_2016_png,temple_heroes_panel_tabgroup2skinbg_2016_png,temple_heroes_panel_tabgroup5bg_2016_png"
+    }
+  ]
+}

@@ -1,0 +1,465 @@
+{
+  "file": "friend_sheet.png",
+  "frames": {
+    "friendapplylist_down_png": {
+      "x": 1,
+      "y": 829,
+      "w": 213,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 213,
+      "sourceH": 46
+    },
+    "friendapplylist_up_png": {
+      "x": 216,
+      "y": 777,
+      "w": 213,
+      "h": 50,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 213,
+      "sourceH": 50
+    },
+    "friendapply_down_png": {
+      "x": 431,
+      "y": 829,
+      "w": 213,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 213,
+      "sourceH": 46
+    },
+    "friendapply_up_png": {
+      "x": 431,
+      "y": 777,
+      "w": 213,
+      "h": 50,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 213,
+      "sourceH": 50
+    },
+    "friendblack_down_png": {
+      "x": 216,
+      "y": 829,
+      "w": 213,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 213,
+      "sourceH": 46
+    },
+    "friendblack_up_png": {
+      "x": 660,
+      "y": 745,
+      "w": 213,
+      "h": 50,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 213,
+      "sourceH": 50
+    },
+    "friendfriend_down_png": {
+      "x": 646,
+      "y": 797,
+      "w": 213,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 213,
+      "sourceH": 46
+    },
+    "friendfriend_up_png": {
+      "x": 1,
+      "y": 777,
+      "w": 213,
+      "h": 50,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 213,
+      "sourceH": 50
+    },
+    "friend_a1_png": {
+      "x": 606,
+      "y": 887,
+      "w": 87,
+      "h": 34,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 87,
+      "sourceH": 34
+    },
+    "friend_acceptBtn_png": {
+      "x": 1,
+      "y": 904,
+      "w": 42,
+      "h": 45,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 42,
+      "sourceH": 45
+    },
+    "friend_apply_list_item_btnagree_png": {
+      "x": 875,
+      "y": 745,
+      "w": 134,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 134,
+      "sourceH": 46
+    },
+    "friend_apply_list_item_btnreject_png": {
+      "x": 875,
+      "y": 793,
+      "w": 134,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 134,
+      "sourceH": 46
+    },
+    "friend_apply_title_png": {
+      "x": 752,
+      "y": 913,
+      "w": 79,
+      "h": 19,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 79,
+      "sourceH": 19
+    },
+    "friend_black_item_btnremovebg_png": {
+      "x": 861,
+      "y": 841,
+      "w": 134,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 134,
+      "sourceH": 46
+    },
+    "friend_black_item_imgbg_png": {
+      "x": 1,
+      "y": 550,
+      "w": 783,
+      "h": 84,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 783,
+      "sourceH": 84
+    },
+    "friend_black_item_imgheadbg_png": {
+      "x": 923,
+      "y": 615,
+      "w": 74,
+      "h": 74,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 74,
+      "sourceH": 74
+    },
+    "friend_btnAgree_png": {
+      "x": 360,
+      "y": 877,
+      "w": 90,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 90,
+      "sourceH": 40
+    },
+    "friend_btnApply_png": {
+      "x": 264,
+      "y": 877,
+      "w": 94,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 94,
+      "sourceH": 40
+    },
+    "friend_btnApply1_png": {
+      "x": 646,
+      "y": 845,
+      "w": 120,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 120,
+      "sourceH": 40
+    },
+    "friend_btnClose_png": {
+      "x": 133,
+      "y": 904,
+      "w": 33,
+      "h": 33,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 33,
+      "sourceH": 33
+    },
+    "friend_btnReject_png": {
+      "x": 170,
+      "y": 877,
+      "w": 92,
+      "h": 42,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 92,
+      "sourceH": 42
+    },
+    "friend_btnRemove_png": {
+      "x": 452,
+      "y": 877,
+      "w": 90,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 90,
+      "sourceH": 40
+    },
+    "friend_doneBtn_png": {
+      "x": 45,
+      "y": 904,
+      "w": 42,
+      "h": 45,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 42,
+      "sourceH": 45
+    },
+    "friend_fastgetBtn_png": {
+      "x": 959,
+      "y": 550,
+      "w": 61,
+      "h": 61,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 61,
+      "sourceH": 61
+    },
+    "friend_getBg_png": {
+      "x": 1,
+      "y": 636,
+      "w": 920,
+      "h": 65,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 920,
+      "sourceH": 65
+    },
+    "friend_head_png": {
+      "x": 768,
+      "y": 845,
+      "w": 64,
+      "h": 66,
+      "offX": 2,
+      "offY": 2,
+      "sourceW": 68,
+      "sourceH": 68
+    },
+    "friend_head_bg_png": {
+      "x": 544,
+      "y": 877,
+      "w": 60,
+      "h": 60,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 60,
+      "sourceH": 60
+    },
+    "friend_imgbg_png": {
+      "x": 1,
+      "y": 1,
+      "w": 1000,
+      "h": 547,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 1000,
+      "sourceH": 547
+    },
+    "friend_inputBg_png": {
+      "x": 660,
+      "y": 703,
+      "w": 339,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 339,
+      "sourceH": 40
+    },
+    "friend_itembg_png": {
+      "x": 1,
+      "y": 703,
+      "w": 657,
+      "h": 72,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 657,
+      "sourceH": 72
+    },
+    "friend_jubao_png": {
+      "x": 983,
+      "y": 916,
+      "w": 35,
+      "h": 42,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 35,
+      "sourceH": 42
+    },
+    "friend_line_yc_1_png": {
+      "x": 133,
+      "y": 939,
+      "w": 657,
+      "h": 1,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 657,
+      "sourceH": 1
+    },
+    "friend_list_item_btnaccept_png": {
+      "x": 695,
+      "y": 887,
+      "w": 55,
+      "h": 50,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 55,
+      "sourceH": 50
+    },
+    "friend_list_item_btnhassend_png": {
+      "x": 891,
+      "y": 889,
+      "w": 47,
+      "h": 47,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 47,
+      "sourceH": 47
+    },
+    "friend_list_item_btnsend_png": {
+      "x": 834,
+      "y": 889,
+      "w": 55,
+      "h": 50,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 55,
+      "sourceH": 50
+    },
+    "friend_list_item_imgofflinepoint_png": {
+      "x": 1003,
+      "y": 32,
+      "w": 9,
+      "h": 9,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 9,
+      "sourceH": 9
+    },
+    "friend_list_item_imgonlinepoint_png": {
+      "x": 1003,
+      "y": 19,
+      "w": 11,
+      "h": 11,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 11,
+      "sourceH": 11
+    },
+    "friend_menu_item_imgalarm_png": {
+      "x": 1003,
+      "y": 1,
+      "w": 15,
+      "h": 16,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 15,
+      "sourceH": 16
+    },
+    "friend_menu_item_imgmenuup_png": {
+      "x": 786,
+      "y": 550,
+      "w": 171,
+      "h": 63,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 171,
+      "sourceH": 63
+    },
+    "friend_noapply_png": {
+      "x": 786,
+      "y": 615,
+      "w": 108,
+      "h": 19,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 108,
+      "sourceH": 19
+    },
+    "friend_noblack_png": {
+      "x": 891,
+      "y": 938,
+      "w": 90,
+      "h": 19,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 90,
+      "sourceH": 19
+    },
+    "friend_offlinebg_png": {
+      "x": 1,
+      "y": 877,
+      "w": 167,
+      "h": 25,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 167,
+      "sourceH": 25
+    },
+    "friend_online_png": {
+      "x": 940,
+      "y": 889,
+      "w": 77,
+      "h": 25,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 77,
+      "sourceH": 25
+    },
+    "friend_sendBtn_png": {
+      "x": 89,
+      "y": 904,
+      "w": 42,
+      "h": 45,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 42,
+      "sourceH": 45
+    },
+    "friend_title_png": {
+      "x": 133,
+      "y": 942,
+      "w": 59,
+      "h": 26,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 59,
+      "sourceH": 26
+    },
+    "friend_vip_png": {
+      "x": 792,
+      "y": 941,
+      "w": 41,
+      "h": 41,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 41,
+      "sourceH": 41
+    }
+  }
+}

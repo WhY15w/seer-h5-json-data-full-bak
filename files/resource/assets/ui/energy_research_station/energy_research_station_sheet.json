@@ -1,0 +1,355 @@
+{
+  "file": "energy_research_station_sheet.png",
+  "frames": {
+    "energy_research_station_exchange_png": {
+      "x": 508,
+      "y": 237,
+      "w": 168,
+      "h": 51,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 168,
+      "sourceH": 51
+    },
+    "energy_research_station_img_get_png": {
+      "x": 273,
+      "y": 130,
+      "w": 231,
+      "h": 71,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 231,
+      "sourceH": 71
+    },
+    "energy_research_station_item_bg_png": {
+      "x": 203,
+      "y": 296,
+      "w": 217,
+      "h": 29,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 217,
+      "sourceH": 29
+    },
+    "energy_research_station_pop_buy1_png": {
+      "x": 508,
+      "y": 290,
+      "w": 122,
+      "h": 57,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 122,
+      "sourceH": 57
+    },
+    "energy_research_station_pop_buy10_png": {
+      "x": 847,
+      "y": 269,
+      "w": 122,
+      "h": 57,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 122,
+      "sourceH": 57
+    },
+    "energy_research_station_pop_buybtnbg_png": {
+      "x": 506,
+      "y": 130,
+      "w": 139,
+      "h": 31,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 139,
+      "sourceH": 31
+    },
+    "energy_research_station_pop_buyitembg_png": {
+      "x": 671,
+      "y": 1,
+      "w": 146,
+      "h": 173,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 146,
+      "sourceH": 173
+    },
+    "energy_research_station_pop_close_png": {
+      "x": 978,
+      "y": 92,
+      "w": 33,
+      "h": 32,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 33,
+      "sourceH": 32
+    },
+    "energy_research_station_pop_detailline_png": {
+      "x": 241,
+      "y": 373,
+      "w": 250,
+      "h": 2,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 250,
+      "sourceH": 2
+    },
+    "energy_research_station_pop_empty_tip_png": {
+      "x": 819,
+      "y": 1,
+      "w": 157,
+      "h": 135,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 157,
+      "sourceH": 135
+    },
+    "energy_research_station_pop_energytext_png": {
+      "x": 506,
+      "y": 176,
+      "w": 494,
+      "h": 28,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 494,
+      "sourceH": 28
+    },
+    "energy_research_station_pop_go_png": {
+      "x": 1,
+      "y": 215,
+      "w": 167,
+      "h": 57,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 167,
+      "sourceH": 57
+    },
+    "energy_research_station_pop_go1_png": {
+      "x": 339,
+      "y": 237,
+      "w": 167,
+      "h": 57,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 167,
+      "sourceH": 57
+    },
+    "energy_research_station_pop_ha_png": {
+      "x": 819,
+      "y": 138,
+      "w": 134,
+      "h": 27,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 134,
+      "sourceH": 27
+    },
+    "energy_research_station_pop_haveit_png": {
+      "x": 632,
+      "y": 321,
+      "w": 75,
+      "h": 75,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 75,
+      "sourceH": 75
+    },
+    "energy_research_station_pop_huishou_down_png": {
+      "x": 971,
+      "y": 269,
+      "w": 47,
+      "h": 89,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 47,
+      "sourceH": 89
+    },
+    "energy_research_station_pop_huishou_up_png": {
+      "x": 203,
+      "y": 327,
+      "w": 36,
+      "h": 89,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 36,
+      "sourceH": 89
+    },
+    "energy_research_station_pop_img100w_png": {
+      "x": 835,
+      "y": 328,
+      "w": 106,
+      "h": 28,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 106,
+      "sourceH": 28
+    },
+    "energy_research_station_pop_img10w_png": {
+      "x": 241,
+      "y": 327,
+      "w": 108,
+      "h": 28,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 108,
+      "sourceH": 28
+    },
+    "energy_research_station_pop_jiesuo_png": {
+      "x": 854,
+      "y": 206,
+      "w": 167,
+      "h": 61,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 167,
+      "sourceH": 61
+    },
+    "energy_research_station_pop_lockit_png": {
+      "x": 1004,
+      "y": 126,
+      "w": 18,
+      "h": 22,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 18,
+      "sourceH": 22
+    },
+    "energy_research_station_pop_no1_png": {
+      "x": 170,
+      "y": 237,
+      "w": 167,
+      "h": 57,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 167,
+      "sourceH": 57
+    },
+    "energy_research_station_pop_noit_png": {
+      "x": 709,
+      "y": 321,
+      "w": 75,
+      "h": 75,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 75,
+      "sourceH": 75
+    },
+    "energy_research_station_pop_numbg_png": {
+      "x": 1,
+      "y": 296,
+      "w": 200,
+      "h": 37,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 200,
+      "sourceH": 37
+    },
+    "energy_research_station_pop_re1_png": {
+      "x": 955,
+      "y": 138,
+      "w": 12,
+      "h": 12,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 12,
+      "sourceH": 12
+    },
+    "energy_research_station_pop_re2_png": {
+      "x": 647,
+      "y": 130,
+      "w": 12,
+      "h": 12,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 12,
+      "sourceH": 12
+    },
+    "energy_research_station_pop_re3_png": {
+      "x": 273,
+      "y": 206,
+      "w": 410,
+      "h": 29,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 410,
+      "sourceH": 29
+    },
+    "energy_research_station_pop_recover_title_png": {
+      "x": 1,
+      "y": 130,
+      "w": 270,
+      "h": 83,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 270,
+      "sourceH": 83
+    },
+    "energy_research_station_pop_sduoding_png": {
+      "x": 685,
+      "y": 206,
+      "w": 167,
+      "h": 61,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 167,
+      "sourceH": 61
+    },
+    "energy_research_station_pop_selectit_png": {
+      "x": 422,
+      "y": 296,
+      "w": 75,
+      "h": 75,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 75,
+      "sourceH": 75
+    },
+    "energy_research_station_pop_suoding_down_png": {
+      "x": 978,
+      "y": 1,
+      "w": 36,
+      "h": 89,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 36,
+      "sourceH": 89
+    },
+    "energy_research_station_pop_suoding_uo_png": {
+      "x": 786,
+      "y": 321,
+      "w": 47,
+      "h": 89,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 47,
+      "sourceH": 89
+    },
+    "energy_research_station_recover_png": {
+      "x": 678,
+      "y": 269,
+      "w": 167,
+      "h": 50,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 167,
+      "sourceH": 50
+    },
+    "energy_research_station_tips_png": {
+      "x": 978,
+      "y": 126,
+      "w": 24,
+      "h": 28,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 24,
+      "sourceH": 28
+    },
+    "energy_research_station_title_png": {
+      "x": 1,
+      "y": 1,
+      "w": 668,
+      "h": 127,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 668,
+      "sourceH": 127
+    }
+  }
+}

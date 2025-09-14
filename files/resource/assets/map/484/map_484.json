@@ -1,0 +1,30 @@
+{
+  "groups": [
+    {
+      "keys": "road_484,exml_484,map_484_bg_mc_jpg,map_484_animator_mc_png",
+      "name": "map_484"
+    }
+  ],
+  "resources": [
+    {
+      "type": "json",
+      "url": "484.json",
+      "name": "road_484"
+    },
+    {
+      "type": "text",
+      "url": "Map484Skin.exml",
+      "name": "exml_484"
+    },
+    {
+      "type": "image",
+      "url": "map_484_bg_mc.jpg",
+      "name": "map_484_bg_mc_jpg"
+    },
+    {
+      "type": "image",
+      "url": "map_484_animator_mc.png",
+      "name": "map_484_animator_mc_png"
+    }
+  ]
+}

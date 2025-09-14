@@ -1,0 +1,40 @@
+{
+  "resources": [
+    {
+      "type": "json",
+      "url": "717.json",
+      "name": "road_717"
+    },
+    {
+      "type": "text",
+      "url": "Map717Skin.exml",
+      "name": "exml_717"
+    },
+    {
+      "type": "image",
+      "url": "map_717_bg_mc.jpg",
+      "name": "map_717_bg_mc_jpg"
+    },
+    {
+      "type": "image",
+      "url": "map_717_diaoxiang.png",
+      "name": "map_717_diaoxiang_png"
+    },
+    {
+      "type": "image",
+      "url": "map_717_stone1.png",
+      "name": "map_717_stone1_png"
+    },
+    {
+      "type": "image",
+      "url": "map_717_top_mc.png",
+      "name": "map_717_top_mc_png"
+    }
+  ],
+  "groups": [
+    {
+      "keys": "road_717,exml_717,map_717_bg_mc_jpg,map_717_diaoxiang_png,map_717_stone1_png,map_717_top_mc_png",
+      "name": "map_717"
+    }
+  ]
+}

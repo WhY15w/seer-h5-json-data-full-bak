@@ -1,0 +1,25 @@
+{
+  "groups": [
+    {
+      "keys": "road_737,exml_737,map_737_bg_mc_png",
+      "name": "map_737"
+    }
+  ],
+  "resources": [
+    {
+      "type": "json",
+      "url": "737.json",
+      "name": "road_737"
+    },
+    {
+      "type": "text",
+      "url": "Map737Skin.exml",
+      "name": "exml_737"
+    },
+    {
+      "type": "image",
+      "url": "map_737_bg_mc.png",
+      "name": "map_737_bg_mc_png"
+    }
+  ]
+}

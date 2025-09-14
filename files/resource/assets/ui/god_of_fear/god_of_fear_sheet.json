@@ -1,0 +1,305 @@
+{
+  "file": "god_of_fear_sheet.png",
+  "frames": {
+    "godoffear_main_panel_add_y_png": {
+      "x": 2010,
+      "y": 141,
+      "w": 21,
+      "h": 21,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 21,
+      "sourceH": 21
+    },
+    "godoffear_main_panel_bg_png": {
+      "x": 1873,
+      "y": 514,
+      "w": 133,
+      "h": 43,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 133,
+      "sourceH": 43
+    },
+    "godoffear_main_panel_btn1_png": {
+      "x": 1952,
+      "y": 194,
+      "w": 87,
+      "h": 34,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 87,
+      "sourceH": 34
+    },
+    "godoffear_main_panel_btn2_png": {
+      "x": 1605,
+      "y": 431,
+      "w": 129,
+      "h": 124,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 129,
+      "sourceH": 124
+    },
+    "godoffear_main_panel_btn3_png": {
+      "x": 1474,
+      "y": 431,
+      "w": 129,
+      "h": 124,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 129,
+      "sourceH": 124
+    },
+    "godoffear_main_panel_btnback_png": {
+      "x": 2010,
+      "y": 108,
+      "w": 21,
+      "h": 31,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 21,
+      "sourceH": 31
+    },
+    "godoffear_main_panel_btnCure_png": {
+      "x": 1952,
+      "y": 136,
+      "w": 56,
+      "h": 56,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 56,
+      "sourceH": 56
+    },
+    "godoffear_main_panel_btnfight_png": {
+      "x": 184,
+      "y": 482,
+      "w": 181,
+      "h": 68,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 181,
+      "sourceH": 68
+    },
+    "godoffear_main_panel_btnhelp_png": {
+      "x": 2010,
+      "y": 78,
+      "w": 24,
+      "h": 28,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 24,
+      "sourceH": 28
+    },
+    "godoffear_main_panel_btninfo_png": {
+      "x": 1952,
+      "y": 1,
+      "w": 94,
+      "h": 75,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 94,
+      "sourceH": 75
+    },
+    "godoffear_main_panel_btnorange0_png": {
+      "x": 1736,
+      "y": 514,
+      "w": 135,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 135,
+      "sourceH": 46
+    },
+    "godoffear_main_panel_btnPet_png": {
+      "x": 1952,
+      "y": 78,
+      "w": 56,
+      "h": 56,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 56,
+      "sourceH": 56
+    },
+    "godoffear_main_panel_btnrerandom1_png": {
+      "x": 1,
+      "y": 482,
+      "w": 181,
+      "h": 68,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 181,
+      "sourceH": 68
+    },
+    "godoffear_main_panel_btnrerandom2_png": {
+      "x": 1254,
+      "y": 529,
+      "w": 106,
+      "h": 50,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 106,
+      "sourceH": 50
+    },
+    "godoffear_main_panel_bz_item_bg1_png": {
+      "x": 1,
+      "y": 368,
+      "w": 364,
+      "h": 112,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 364,
+      "sourceH": 112
+    },
+    "godoffear_main_panel_bz_item_bg2_png": {
+      "x": 1474,
+      "y": 317,
+      "w": 365,
+      "h": 112,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 365,
+      "sourceH": 112
+    },
+    "godoffear_main_panel_imgewai_png": {
+      "x": 986,
+      "y": 210,
+      "w": 281,
+      "h": 214,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 281,
+      "sourceH": 214
+    },
+    "godoffear_main_panel_imgget_png": {
+      "x": 1362,
+      "y": 529,
+      "w": 110,
+      "h": 22,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 110,
+      "sourceH": 22
+    },
+    "godoffear_main_panel_img_1_png": {
+      "x": 716,
+      "y": 210,
+      "w": 268,
+      "h": 344,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 268,
+      "sourceH": 344
+    },
+    "godoffear_main_panel_img_10_png": {
+      "x": 1,
+      "y": 1,
+      "w": 365,
+      "h": 365,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 365,
+      "sourceH": 365
+    },
+    "godoffear_main_panel_img_11_png": {
+      "x": 1636,
+      "y": 1,
+      "w": 314,
+      "h": 314,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 314,
+      "sourceH": 314
+    },
+    "godoffear_main_panel_img_12_png": {
+      "x": 368,
+      "y": 1,
+      "w": 346,
+      "h": 365,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 346,
+      "sourceH": 365
+    },
+    "godoffear_main_panel_img_2_png": {
+      "x": 1269,
+      "y": 317,
+      "w": 203,
+      "h": 210,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 203,
+      "sourceH": 210
+    },
+    "godoffear_main_panel_img_5_png": {
+      "x": 504,
+      "y": 368,
+      "w": 135,
+      "h": 195,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 135,
+      "sourceH": 195
+    },
+    "godoffear_main_panel_img_6_png": {
+      "x": 986,
+      "y": 426,
+      "w": 135,
+      "h": 195,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 135,
+      "sourceH": 195
+    },
+    "godoffear_main_panel_img_7_png": {
+      "x": 1841,
+      "y": 317,
+      "w": 135,
+      "h": 195,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 135,
+      "sourceH": 195
+    },
+    "godoffear_main_panel_img_8_png": {
+      "x": 367,
+      "y": 368,
+      "w": 135,
+      "h": 195,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 135,
+      "sourceH": 195
+    },
+    "godoffear_main_panel_img_9_png": {
+      "x": 1320,
+      "y": 1,
+      "w": 314,
+      "h": 314,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 314,
+      "sourceH": 314
+    },
+    "godoffear_main_panel_jx_4_kb_2_png": {
+      "x": 716,
+      "y": 1,
+      "w": 602,
+      "h": 207,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 602,
+      "sourceH": 207
+    },
+    "god_of_fear_btnbuypet_png": {
+      "x": 1123,
+      "y": 426,
+      "w": 129,
+      "h": 126,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 129,
+      "sourceH": 126
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "resources": [
+    {
+      "type": "json",
+      "url": "89.json",
+      "name": "road_89"
+    },
+    {
+      "type": "text",
+      "url": "Map89Skin.exml",
+      "name": "exml_89"
+    },
+    {
+      "type": "image",
+      "url": "map_89_bg_mc.jpg",
+      "name": "map_89_bg_mc_jpg"
+    },
+    {
+      "type": "image",
+      "url": "map_89_zhuangzhi1.png",
+      "name": "map_89_zhuangzhi1_png"
+    },
+    {
+      "type": "image",
+      "url": "map_89_pingi.png",
+      "name": "map_89_pingi_png"
+    },
+    {
+      "type": "image",
+      "url": "map_89_top_mc.png",
+      "name": "map_89_top_mc_png"
+    }
+  ],
+  "groups": [
+    {
+      "keys": "road_89,exml_89,map_89_bg_mc_jpg,map_89_zhuangzhi1_png,map_89_pingi_png,map_89_top_mc_png",
+      "name": "map_89"
+    }
+  ]
+}

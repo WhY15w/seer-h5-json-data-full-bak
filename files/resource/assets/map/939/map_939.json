@@ -1,0 +1,30 @@
+{
+  "resources": [
+    {
+      "type": "json",
+      "url": "939.json",
+      "name": "road_939"
+    },
+    {
+      "type": "text",
+      "url": "Map939Skin.exml",
+      "name": "exml_939"
+    },
+    {
+      "type": "image",
+      "url": "map_939_bg_mc.png",
+      "name": "map_939_bg_mc_png"
+    },
+    {
+      "type": "image",
+      "url": "map_939_abc.png",
+      "name": "map_939_abc_png"
+    }
+  ],
+  "groups": [
+    {
+      "keys": "road_939,exml_939,map_939_bg_mc_png,map_939_abc_png",
+      "name": "map_939"
+    }
+  ]
+}

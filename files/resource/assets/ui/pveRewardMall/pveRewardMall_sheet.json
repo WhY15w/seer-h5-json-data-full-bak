@@ -1,0 +1,675 @@
+{
+  "file": "pveRewardMall_sheet.png",
+  "frames": {
+    "05奖励兑换_btnsale_png": {
+      "x": 1,
+      "y": 1213,
+      "w": 134,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 134,
+      "sourceH": 46
+    },
+    "item_warehouse_icon_skill_png": {
+      "x": 949,
+      "y": 1047,
+      "w": 51,
+      "h": 54,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 51,
+      "sourceH": 54
+    },
+    "item_warehouse_pet_factor_a_png": {
+      "x": 1984,
+      "y": 1205,
+      "w": 44,
+      "h": 18,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 44,
+      "sourceH": 18
+    },
+    "item_warehouse_pet_factor_b_png": {
+      "x": 359,
+      "y": 1255,
+      "w": 44,
+      "h": 18,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 44,
+      "sourceH": 18
+    },
+    "item_warehouse_pet_factor_s_png": {
+      "x": 1085,
+      "y": 1259,
+      "w": 44,
+      "h": 18,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 44,
+      "sourceH": 18
+    },
+    "item_warehouse_pet_factor_ss_png": {
+      "x": 768,
+      "y": 971,
+      "w": 46,
+      "h": 18,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 46,
+      "sourceH": 18
+    },
+    "item_warehouse_render_frame_0_png": {
+      "x": 834,
+      "y": 898,
+      "w": 93,
+      "h": 93,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 93,
+      "sourceH": 93
+    },
+    "item_warehouse_txt_None_png": {
+      "x": 582,
+      "y": 957,
+      "w": 91,
+      "h": 92,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 91,
+      "sourceH": 92
+    },
+    "mark_item_limitBg_png": {
+      "x": 1411,
+      "y": 1242,
+      "w": 142,
+      "h": 27,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 142,
+      "sourceH": 27
+    },
+    "pveElvenKingTrialExchange_changeBg_png": {
+      "x": 582,
+      "y": 863,
+      "w": 250,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 250,
+      "sourceH": 40
+    },
+    "pveElvenKingTrialExchange_choosebg_png": {
+      "x": 632,
+      "y": 1205,
+      "w": 273,
+      "h": 24,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 273,
+      "sourceH": 24
+    },
+    "pveElvenKingTrialExchange_Efficon_png": {
+      "x": 2018,
+      "y": 583,
+      "w": 26,
+      "h": 26,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 26,
+      "sourceH": 26
+    },
+    "pveElvenKingTrialExchange_exchange_btn_png": {
+      "x": 1783,
+      "y": 1242,
+      "w": 90,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 90,
+      "sourceH": 40
+    },
+    "pveElvenKingTrialExchange_flg_png_png": {
+      "x": 904,
+      "y": 993,
+      "w": 97,
+      "h": 52,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 97,
+      "sourceH": 52
+    },
+    "pveElvenKingTrialExchange_iconbg_png": {
+      "x": 617,
+      "y": 814,
+      "w": 280,
+      "h": 47,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 280,
+      "sourceH": 47
+    },
+    "pveElvenKingTrialExchange_icon_0_png": {
+      "x": 1967,
+      "y": 1053,
+      "w": 57,
+      "h": 57,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 57,
+      "sourceH": 57
+    },
+    "pveElvenKingTrialExchange_icon_coin1_png": {
+      "x": 2018,
+      "y": 611,
+      "w": 26,
+      "h": 26,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 26,
+      "sourceH": 26
+    },
+    "pveElvenKingTrialExchange_img_reddot_png": {
+      "x": 2018,
+      "y": 554,
+      "w": 27,
+      "h": 27,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 27,
+      "sourceH": 27
+    },
+    "pveElvenKingTrialExchange_title_bg_png": {
+      "x": 1,
+      "y": 1180,
+      "w": 629,
+      "h": 31,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 629,
+      "sourceH": 31
+    },
+    "pveElvenKingTrialExchange_yinying_png": {
+      "x": 1007,
+      "y": 1,
+      "w": 977,
+      "h": 581,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 977,
+      "sourceH": 581
+    },
+    "pveRewardMall_btnInfo_png": {
+      "x": 929,
+      "y": 898,
+      "w": 74,
+      "h": 74,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 74,
+      "sourceH": 74
+    },
+    "pveRewardMall_gxMark_btnbg_png": {
+      "x": 137,
+      "y": 1213,
+      "w": 144,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 144,
+      "sourceH": 40
+    },
+    "pveRewardMall_gxMark_icon_png": {
+      "x": 768,
+      "y": 905,
+      "w": 63,
+      "h": 64,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 63,
+      "sourceH": 64
+    },
+    "pveRewardMall_gxMark_icon_coin1_png": {
+      "x": 968,
+      "y": 625,
+      "w": 26,
+      "h": 26,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 26,
+      "sourceH": 26
+    },
+    "pveRewardMall_gxMark_item_bg_png": {
+      "x": 617,
+      "y": 592,
+      "w": 144,
+      "h": 144,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 144,
+      "sourceH": 144
+    },
+    "pveRewardMall_gxMark_name_bg_png": {
+      "x": 1267,
+      "y": 1242,
+      "w": 142,
+      "h": 28,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 142,
+      "sourceH": 28
+    },
+    "pveRewardMall_gxMark_weekly_flag_png": {
+      "x": 984,
+      "y": 1259,
+      "w": 99,
+      "h": 26,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 100,
+      "sourceH": 26
+    },
+    "pveRewardMall_gxPet_headBg_png_png": {
+      "x": 878,
+      "y": 694,
+      "w": 100,
+      "h": 100,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 100,
+      "sourceH": 100
+    },
+    "pveRewardMall_gxPet_headIcon_png_png": {
+      "x": 866,
+      "y": 592,
+      "w": 100,
+      "h": 100,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 100,
+      "sourceH": 100
+    },
+    "pveRewardMall_gxPet_headsBg_png_png": {
+      "x": 1,
+      "y": 1059,
+      "w": 946,
+      "h": 119,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 946,
+      "sourceH": 119
+    },
+    "pveRewardMall_gxPet_head_noFull_bg_png": {
+      "x": 899,
+      "y": 796,
+      "w": 100,
+      "h": 100,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 100,
+      "sourceH": 100
+    },
+    "pveRewardMall_gxPet_icon_0_png": {
+      "x": 1984,
+      "y": 1165,
+      "w": 39,
+      "h": 38,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 39,
+      "sourceH": 38
+    },
+    "pveRewardMall_gxPet_icon_1_png": {
+      "x": 1984,
+      "y": 1112,
+      "w": 47,
+      "h": 51,
+      "offX": 4,
+      "offY": 4,
+      "sourceW": 55,
+      "sourceH": 55
+    },
+    "pveRewardMall_gxPet_icon_2_png": {
+      "x": 949,
+      "y": 1103,
+      "w": 46,
+      "h": 38,
+      "offX": 5,
+      "offY": 8,
+      "sourceW": 55,
+      "sourceH": 55
+    },
+    "pveRewardMall_gxPet_img_exchange_btn_png": {
+      "x": 582,
+      "y": 905,
+      "w": 174,
+      "h": 50,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 174,
+      "sourceH": 50
+    },
+    "pveRewardMall_gxPet_img_reddot_png": {
+      "x": 968,
+      "y": 592,
+      "w": 33,
+      "h": 31,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 33,
+      "sourceH": 31
+    },
+    "pveRewardMall_gxPet_itemIcon_png": {
+      "x": 907,
+      "y": 1205,
+      "w": 38,
+      "h": 22,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 38,
+      "sourceH": 22
+    },
+    "pveRewardMall_gxPet_namebg_png": {
+      "x": 1,
+      "y": 823,
+      "w": 579,
+      "h": 234,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 579,
+      "sourceH": 234
+    },
+    "pveRewardMall_gxPet_petBg_png": {
+      "x": 1007,
+      "y": 584,
+      "w": 958,
+      "h": 562,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 958,
+      "sourceH": 562
+    },
+    "pveRewardMall_gxPet_petName_0_png": {
+      "x": 617,
+      "y": 738,
+      "w": 259,
+      "h": 74,
+      "offX": 38,
+      "offY": 1,
+      "sourceW": 334,
+      "sourceH": 76
+    },
+    "pveRewardMall_gxPet_petName_Test_png": {
+      "x": 1,
+      "y": 592,
+      "w": 614,
+      "h": 229,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 614,
+      "sourceH": 229
+    },
+    "pveRewardMall_gxPet_pet_left_png": {
+      "x": 1986,
+      "y": 1,
+      "w": 53,
+      "h": 551,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 53,
+      "sourceH": 551
+    },
+    "pveRewardMall_gxPet_pet_test_png": {
+      "x": 1,
+      "y": 1,
+      "w": 1004,
+      "h": 589,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 1004,
+      "sourceH": 589
+    },
+    "pveRewardMall_icon_coin_png": {
+      "x": 2018,
+      "y": 639,
+      "w": 23,
+      "h": 24,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 23,
+      "sourceH": 24
+    },
+    "pveRewardMall_infobg_png": {
+      "x": 675,
+      "y": 957,
+      "w": 91,
+      "h": 91,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 91,
+      "sourceH": 91
+    },
+    "pveRewardMall_item_bg_png": {
+      "x": 425,
+      "y": 1244,
+      "w": 154,
+      "h": 24,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 154,
+      "sourceH": 24
+    },
+    "pveRewardMall_titleTx_png": {
+      "x": 857,
+      "y": 1242,
+      "w": 125,
+      "h": 36,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 125,
+      "sourceH": 36
+    },
+    "spt_achieve_view_item_btnBg_png": {
+      "x": 283,
+      "y": 1213,
+      "w": 140,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 140,
+      "sourceH": 40
+    },
+    "spt_achieve_view_item_headFrame_png": {
+      "x": 1894,
+      "y": 1148,
+      "w": 88,
+      "h": 88,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 88,
+      "sourceH": 88
+    },
+    "spt_achieve_view_item_Listbg_png": {
+      "x": 949,
+      "y": 1148,
+      "w": 943,
+      "h": 92,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 943,
+      "sourceH": 92
+    },
+    "spt_achieve_view_item_pointBg_png": {
+      "x": 137,
+      "y": 1255,
+      "w": 131,
+      "h": 24,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 131,
+      "sourceH": 24
+    },
+    "spt_pet_factor_item_view_img1_png": {
+      "x": 270,
+      "y": 1255,
+      "w": 87,
+      "h": 34,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 87,
+      "sourceH": 34
+    },
+    "spt_pet_factor_view_btndown1_png": {
+      "x": 763,
+      "y": 695,
+      "w": 112,
+      "h": 34,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 112,
+      "sourceH": 34
+    },
+    "spt_pet_factor_view_btndown2_png": {
+      "x": 1555,
+      "y": 1242,
+      "w": 112,
+      "h": 34,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 112,
+      "sourceH": 34
+    },
+    "spt_pet_factor_view_btndown3_png": {
+      "x": 1669,
+      "y": 1242,
+      "w": 112,
+      "h": 34,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 112,
+      "sourceH": 34
+    },
+    "spt_pet_factor_view_btnsynthetize_png": {
+      "x": 768,
+      "y": 993,
+      "w": 134,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 134,
+      "sourceH": 46
+    },
+    "spt_pet_factor_view_img1_png": {
+      "x": 425,
+      "y": 1213,
+      "w": 188,
+      "h": 29,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 188,
+      "sourceH": 29
+    },
+    "spt_pet_factor_view_imgheadbg_png": {
+      "x": 763,
+      "y": 592,
+      "w": 101,
+      "h": 101,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 101,
+      "sourceH": 101
+    },
+    "spt_pet_factor_view_imgprocess_png": {
+      "x": 984,
+      "y": 1242,
+      "w": 281,
+      "h": 15,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 281,
+      "sourceH": 15
+    },
+    "spt_pet_factor_view_imgunique_png": {
+      "x": 834,
+      "y": 863,
+      "w": 50,
+      "h": 17,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 50,
+      "sourceH": 17
+    },
+    "spt_pet_factor_view_imgup1_png": {
+      "x": 736,
+      "y": 1231,
+      "w": 119,
+      "h": 41,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 119,
+      "sourceH": 41
+    },
+    "spt_pet_factor_view_imgup2_png": {
+      "x": 1894,
+      "y": 1238,
+      "w": 119,
+      "h": 41,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 119,
+      "sourceH": 41
+    },
+    "spt_pet_factor_view_imgup3_png": {
+      "x": 615,
+      "y": 1231,
+      "w": 119,
+      "h": 41,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 119,
+      "sourceH": 41
+    },
+    "spt_pet_factor_view_img_jindu0_png": {
+      "x": 632,
+      "y": 1180,
+      "w": 303,
+      "h": 23,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 303,
+      "sourceH": 23
+    },
+    "spt_pet_factor_view_rightbg_png": {
+      "x": 1986,
+      "y": 554,
+      "w": 30,
+      "h": 497,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 30,
+      "sourceH": 497
+    },
+    "spt_pet_factor_view_txtnum_png": {
+      "x": 929,
+      "y": 974,
+      "w": 75,
+      "h": 17,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 75,
+      "sourceH": 17
+    },
+    "spt_pet_factor_view_xian_png": {
+      "x": 582,
+      "y": 1051,
+      "w": 332,
+      "h": 2,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 332,
+      "sourceH": 2
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "groups": [
+    {
+      "name": "year_vip2022",
+      "keys": "year_vip2022_sheet,mianban_atlas,mianban_json,vipnono_atlas,vipnono_json,mianban_png,vipnono_png,yearvip2022_main_bg_jpg,yearvip2022_yearpetview_bg_jpg,yearvip2022_yearpetview_imge_pet_jpg"
+    }
+  ],
+  "resources": [
+    {
+      "name": "mianban_atlas",
+      "type": "text",
+      "url": "year_vip2022/outside/mianban.atlas"
+    },
+    {
+      "name": "mianban_json",
+      "type": "json",
+      "url": "year_vip2022/outside/mianban.json"
+    },
+    {
+      "name": "vipnono_atlas",
+      "type": "text",
+      "url": "year_vip2022/outside/vipnono.atlas"
+    },
+    {
+      "name": "vipnono_json",
+      "type": "json",
+      "url": "year_vip2022/outside/vipnono.json"
+    },
+    {
+      "name": "mianban_png",
+      "type": "image",
+      "url": "year_vip2022/outside/mianban.png"
+    },
+    {
+      "name": "vipnono_png",
+      "type": "image",
+      "url": "year_vip2022/outside/vipnono.png"
+    },
+    {
+      "name": "yearvip2022_main_bg_jpg",
+      "type": "image",
+      "url": "year_vip2022/outside/yearvip2022_main_bg.jpg"
+    },
+    {
+      "name": "yearvip2022_yearpetview_bg_jpg",
+      "type": "image",
+      "url": "year_vip2022/outside/yearvip2022_yearpetview_bg.jpg"
+    },
+    {
+      "name": "yearvip2022_yearpetview_imge_pet_jpg",
+      "type": "image",
+      "url": "year_vip2022/outside/yearvip2022_yearpetview_imge_pet.jpg"
+    },
+    {
+      "name": "year_vip2022_sheet",
+      "type": "sheet",
+      "url": "year_vip2022/year_vip2022_sheet.json",
+      "subkeys": "yearvip2022_exclusivecapacityview_fangyu_png,yearvip2022_exclusivecapacityview_gongji_png,yearvip2022_exclusivecapacityview_imge_add_icon_png,yearvip2022_exclusivecapacityview_imge_add_title_png,yearvip2022_exclusivecapacityview_imge_btnmore_png,yearvip2022_exclusivecapacityview_imge_mark_icon_png,yearvip2022_exclusivecapacityview_imge_mark_title_png,yearvip2022_exclusivecapacityview_imge_smal_icon_0_png,yearvip2022_exclusivecapacityview_imge_smal_icon_1_png,yearvip2022_exclusivecapacityview_imge_smal_icon_2_png,yearvip2022_exclusivecapacityview_imge_smal_icon_3_png,yearvip2022_exclusivecapacityview_imge_smal_icon_4_png,yearvip2022_exclusivecapacityview_imge_smal_icon_5_png,yearvip2022_exclusivecapacityview_imge_title_tx_2_png,yearvip2022_exclusivecapacityview_imge_vip_icon_png,yearvip2022_exclusivecapacityview_sudu_png,yearvip2022_exclusivecapacityview_tefang_png,yearvip2022_exclusivecapacityview_tegong_png,yearvip2022_exclusivecapacityview_tili_png,yearvip2022_freejpview_ad2_img_up_png,yearvip2022_freejpview_imge_bag_bg_png,yearvip2022_freejpview_imge_btnjipin_png,yearvip2022_freejpview_imge_head_bg_png,yearvip2022_freejpview_imge_head_select_png,yearvip2022_freejpview_imge_icon_png,yearvip2022_freejpview_imge_icon_1_png,yearvip2022_freejpview_imge_icon_2_png,yearvip2022_freejpview_imge_icon_3_png,yearvip2022_freejpview_imge_icon_4_png,yearvip2022_freejpview_imge_info_bg_png,yearvip2022_freejpview_imge_line1_png,yearvip2022_freejpview_imge_pet_bg_png,yearvip2022_freejpview_imge_title_png,yearvip2022_freejpview_imge_title_1_png,yearvip2022_freejpview_imge_title_2_png,yearvip2022_freejpview_imge_title_3_png,yearvip2022_freejpview_imge_title_4_png,yearvip2022_freejpview_imge_tx_bag_title_png,yearvip2022_limitedcollectionview_imge_bg_png,yearvip2022_limitedcollectionview_imge_nono_icon_png,yearvip2022_limitedcollectionview_imge_suit_icon_png,yearvip2022_limitedcollectionview_imge_titile_icon_png,yearvip2022_limitedcollectionview_imge_title_tx_0_png,yearvip2022_limitedcollectionview_imge_title_tx_1_png,yearvip2022_limitedcollectionview_imge_title_tx_2_png,yearvip2022_limitedcollectionview_imge_txtbg_0_png,yearvip2022_main_di_kaobei_png,yearvip2022_main_imge_btnvipka_down_png,yearvip2022_main_imge_btnvipka_up_png,yearvip2022_main_imge_btn_help_png,yearvip2022_main_imge_btn_music_png,yearvip2022_main_imge_btn_open_vip_png,yearvip2022_main_imge_btn_petinfo_png,yearvip2022_main_imge_btn_story_png,yearvip2022_main_imge_leftbtn_0_down_png,yearvip2022_main_imge_leftbtn_0_up_png,yearvip2022_main_imge_leftbtn_1_down_png,yearvip2022_main_imge_leftbtn_1_up_png,yearvip2022_main_imge_leftbtn_2_down_png,yearvip2022_main_imge_leftbtn_2_up_png,yearvip2022_main_imge_leftbtn_3_down_png,yearvip2022_main_imge_leftbtn_3_up_png,yearvip2022_main_imge_leftbtn_4_down_png,yearvip2022_main_imge_leftbtn_4_up_png,yearvip2022_main_imge_leftbtn_5_down_png,yearvip2022_main_imge_leftbtn_5_up_png,yearvip2022_main_imge_leftbtn_6_down_png,yearvip2022_main_imge_leftbtn_6_up_png,yearvip2022_main_imge_left_bg_png,yearvip2022_main_imge_left_titile_png,yearvip2022_main_imge_ommon_pop_btn_close_png,yearvip2022_main_imge_title_png,yearvip2022_main_imge_tx_bg_png,yearvip2022_main_imge_tx_tips_png,yearvip2022_main_imge_tx_title_png,yearvip2022_main_lineline_0_png,yearvip2022_main_mask_png,yearvip2022_main_tale_png,yearvip2022_mouthgiftview_add_imge_tagget_png,yearvip2022_mouthgiftview_add_imge_tagguoqi_png,yearvip2022_mouthgiftview_imge_mounth_icon1_png,yearvip2022_mouthgiftview_imge_mounth_icon10_png,yearvip2022_mouthgiftview_imge_mounth_icon11_png,yearvip2022_mouthgiftview_imge_mounth_icon12_png,yearvip2022_mouthgiftview_imge_mounth_icon2_png,yearvip2022_mouthgiftview_imge_mounth_icon3_png,yearvip2022_mouthgiftview_imge_mounth_icon4_png,yearvip2022_mouthgiftview_imge_mounth_icon5_png,yearvip2022_mouthgiftview_imge_mounth_icon6_png,yearvip2022_mouthgiftview_imge_mounth_icon7_png,yearvip2022_mouthgiftview_imge_mounth_icon8_png,yearvip2022_mouthgiftview_imge_mounth_icon9_png,yearvip2022_mouthgiftview_imge_reward_item_bg_png,yearvip2022_mouthpetview_imge_btnget_png,yearvip2022_mouthpetview_imge_kuang_png,yearvip2022_mouthpetview_imge_linedone_png,yearvip2022_mouthpetview_imge_mask_png,yearvip2022_mouthpetview_imge_notopen_png,yearvip2022_mouthpetview_imge_top_bg_png,yearvip2022_yearpetview_btngetnow_png,yearvip2022_yearpetview_imge_btn_bg_png,yearvip2022_yearpetview_imge_item_bg_png,yearvip2022_yearpetview_imge_item_bg2_png,yearvip2022_yearpetview_imge_line_png,yearvip2022_yearpetview_imge_titile_png,yearvip2022_yuyuegiftview_dikuang2_png,yearvip2022_yuyuegiftview_imge_base_bg_png,yearvip2022_yuyuegiftview_imge_btnget_png,yearvip2022_yuyuegiftview_imge_done_png,yearvip2022_yuyuegiftview_imge_get_flag_png,yearvip2022_yuyuegiftview_imge_item_bg_png,yearvip2022_yuyuegiftview_imge_none_png,yearvip2022_yuyuegiftview_imge_title_png,yearvip2022_yuyuegiftview_imge_view_bg_png"
+    }
+  ]
+}

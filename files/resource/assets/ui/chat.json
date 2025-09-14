@@ -1,0 +1,16 @@
+{
+  "groups": [
+    {
+      "name": "chat",
+      "keys": "chat_sheet"
+    }
+  ],
+  "resources": [
+    {
+      "name": "chat_sheet",
+      "type": "sheet",
+      "url": "chat/chat_sheet.json",
+      "subkeys": "chatMain_tag1_png,chatMain_tag2_png,chatMain_tag3_png,chatMain_tag4_png,chat_private_user_item_imgdown_png,chat_private_user_item_imgup_png,chat_emoticon_imgbg1_png,chat_emoticon_imgbg2_png,chat_emoticon_imgline_png,chat_main_btnback_png,chat_main_btnemoticon_png,chat_main_btnsend_png,chat_main_btnset_png,chat_main_imgbg_png,chat_main_imgbgicon_png,chat_main_imgbgline_png,chat_main_imgcdbg_png,chat_main_imgdownbg_png,chat_main_imginputbg_png,chat_main_imgleftbg_png,chat_main_imgprivateline_png,chat_main_imgreddot2_png,chat_main_rballdown_png,chat_main_rballup_png,chat_main_rbprivatedown_png,chat_main_rbprivateup_png,chat_main_rbpublicdown_png,chat_main_rbpublicup_png,chat_main_rbsystemdown_png,chat_main_rbsystemup_png,chat_main_rbteamdown_png,chat_main_rbteamup_png,main_bottomBg_line_png,chat_setting_pop_btnclose_png,chat_setting_pop_img1_png,chat_setting_pop_imgbg_png,chat_setting_pop_imgbtn_png,chat_setting_pop_imggou1_png,chat_setting_pop_imgtitlebg_png,chaticon_chaticon_png,chatMainb1_down_png,chatMainb1_up_png,chatMain_chatbg1_png,chatMain_head_png,chatMain_infoBg_png,chatMain_jubao_png,chatMain_pChatCloseBtn_png,chatMain_txtbg1_png,chatSet_down_png,new_seer_lock2_png"
+    }
+  ]
+}

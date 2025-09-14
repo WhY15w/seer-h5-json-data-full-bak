@@ -1,0 +1,61 @@
+{
+  "groups": [
+    {
+      "name": "community_center",
+      "keys": "community_center_sheet,anniversary_celebration_bg_jpg,anniversary_celebration_imgline_png,latestRecommend_deco_png,subscribe_gift_bg_1_png,subscribe_gift_bg_2_png,subscribe_gift_bg_3_png,subscribe_title_1_png,subscribe_title_2_png,subscribe_title_3_png"
+    }
+  ],
+  "resources": [
+    {
+      "name": "anniversary_celebration_bg_jpg",
+      "type": "image",
+      "url": "community_center/outside/anniversary_celebration_bg.jpg"
+    },
+    {
+      "name": "anniversary_celebration_imgline_png",
+      "type": "image",
+      "url": "community_center/outside/anniversary_celebration_imgline.png"
+    },
+    {
+      "name": "latestRecommend_deco_png",
+      "type": "image",
+      "url": "community_center/outside/latestRecommend_deco.png"
+    },
+    {
+      "name": "subscribe_gift_bg_1_png",
+      "type": "image",
+      "url": "community_center/outside/subscribe_gift_bg_1.png"
+    },
+    {
+      "name": "subscribe_gift_bg_2_png",
+      "type": "image",
+      "url": "community_center/outside/subscribe_gift_bg_2.png"
+    },
+    {
+      "name": "subscribe_gift_bg_3_png",
+      "type": "image",
+      "url": "community_center/outside/subscribe_gift_bg_3.png"
+    },
+    {
+      "name": "subscribe_title_1_png",
+      "type": "image",
+      "url": "community_center/outside/subscribe_title_1.png"
+    },
+    {
+      "name": "subscribe_title_2_png",
+      "type": "image",
+      "url": "community_center/outside/subscribe_title_2.png"
+    },
+    {
+      "name": "subscribe_title_3_png",
+      "type": "image",
+      "url": "community_center/outside/subscribe_title_3.png"
+    },
+    {
+      "name": "community_center_sheet",
+      "type": "sheet",
+      "url": "community_center/community_center_sheet.json",
+      "subkeys": "blank_png,imgselect_short_png,sign_4399_png,sign_hykb_png,sign_taptap_png,subscribe_btnbg_png,subscribe_gift_btnGo_png,subscribe_gift_hasGot_png,subscribe_gift_itemBg_png,subscribe_line_png,subscribe_select_sign_png"
+    }
+  ]
+}

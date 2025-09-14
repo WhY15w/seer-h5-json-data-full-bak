@@ -1,0 +1,111 @@
+{
+  "groups": [
+    {
+      "name": "pve_spt",
+      "keys": "pve_spt_sheet,sptguankasaodang_atlas,sptguankasaodang_json,sptjingliang4.0_atlas,sptjingliang4.0_json,ps_advanced_task_advancedbg_png,ps_advanced_task_advanced_daliybg_png,ps_bounty_task_zu_29_png,ps_bounty_task_zu_37_png,ps_limited_shop_zu_38_png,ps_limited_shop_z_38_kb_png,pve_spt_bg_1_png,pve_spt_bg_2_png,pve_spt_fight_bg_png,pve_spt_galaxy_bottom_bg_png,pve_spt_item_img_lock_png,sptguankasaodang_png,sptjingliang4_0.png"
+    },
+    {
+      "keys": "pve_spt_group_galaxy_sheet",
+      "name": "pve_spt_group_galaxy"
+    }
+  ],
+  "resources": [
+    {
+      "name": "sptguankasaodang_atlas",
+      "type": "text",
+      "url": "pve_spt/outside/sptguankasaodang.atlas"
+    },
+    {
+      "name": "sptguankasaodang_json",
+      "type": "json",
+      "url": "pve_spt/outside/sptguankasaodang.json"
+    },
+    {
+      "name": "sptjingliang4.0_atlas",
+      "type": "text",
+      "url": "pve_spt/outside/sptjingliang4.0.atlas"
+    },
+    {
+      "name": "sptjingliang4.0_json",
+      "type": "json",
+      "url": "pve_spt/outside/sptjingliang4.0.json"
+    },
+    {
+      "name": "ps_advanced_task_advancedbg_png",
+      "type": "image",
+      "url": "pve_spt/outside/ps_advanced_task_advancedbg.png"
+    },
+    {
+      "name": "ps_advanced_task_advanced_daliybg_png",
+      "type": "image",
+      "url": "pve_spt/outside/ps_advanced_task_advanced_daliybg.png"
+    },
+    {
+      "name": "ps_bounty_task_zu_29_png",
+      "type": "image",
+      "url": "pve_spt/outside/ps_bounty_task_zu_29.png"
+    },
+    {
+      "name": "ps_bounty_task_zu_37_png",
+      "type": "image",
+      "url": "pve_spt/outside/ps_bounty_task_zu_37.png"
+    },
+    {
+      "name": "ps_limited_shop_zu_38_png",
+      "type": "image",
+      "url": "pve_spt/outside/ps_limited_shop_zu_38.png"
+    },
+    {
+      "name": "ps_limited_shop_z_38_kb_png",
+      "type": "image",
+      "url": "pve_spt/outside/ps_limited_shop_z_38_kb.png"
+    },
+    {
+      "name": "pve_spt_bg_1_png",
+      "type": "image",
+      "url": "pve_spt/outside/pve_spt_bg_1.png"
+    },
+    {
+      "name": "pve_spt_bg_2_png",
+      "type": "image",
+      "url": "pve_spt/outside/pve_spt_bg_2.png"
+    },
+    {
+      "name": "pve_spt_fight_bg_png",
+      "type": "image",
+      "url": "pve_spt/outside/pve_spt_fight_bg.png"
+    },
+    {
+      "name": "pve_spt_galaxy_bottom_bg_png",
+      "type": "image",
+      "url": "pve_spt/outside/pve_spt_galaxy_bottom_bg.png"
+    },
+    {
+      "name": "pve_spt_item_img_lock_png",
+      "type": "image",
+      "url": "pve_spt/outside/pve_spt_item_img_lock.png"
+    },
+    {
+      "name": "sptguankasaodang_png",
+      "type": "image",
+      "url": "pve_spt/outside/sptguankasaodang.png"
+    },
+    {
+      "name": "sptjingliang4_0.png",
+      "type": "image",
+      "url": "pve_spt/outside/sptjingliang4.0.png"
+    },
+    {
+      "name": "pve_spt_sheet",
+      "type": "sheet",
+      "url": "pve_spt/pve_spt_sheet.json",
+      "subkeys": "ps_advanced_task_A_png,ps_advanced_task_B_png,ps_advanced_task_btnget_png,ps_advanced_task_btnGo_png,ps_advanced_task_btnrefresh_png,ps_advanced_task_done_png,ps_advanced_task_juxing_903_png,ps_advanced_task_l_kb_115_png,ps_advanced_task_S_png,ps_advanced_task_SS_png,ps_advanced_task_zu_32_png,ps_bounty_task_1_png,ps_bounty_task_2_png,ps_bounty_task_3_png,ps_bounty_task_btnhecheng1_png,ps_bounty_task_btnhecheng2_png,ps_bounty_task_btnhecheng3_png,ps_bounty_task_icon1_png,ps_bounty_task_icon2_png,ps_bounty_task_iconbg_png,ps_bounty_task_img1_png,ps_bounty_task_img2_png,ps_bounty_task_img_di1_png,ps_bounty_task_img_di2_png,ps_bounty_task_zu_35_png,ps_bounty_task_zu_36_png,ps_buy_pop_btnadd_png,ps_buy_pop_btnbuy_png,ps_buy_pop_btnDuihuan_png,ps_buy_pop_btnmax_png,ps_buy_pop_btnmin_png,ps_buy_pop_btnreduce_png,ps_buy_pop_close_png,ps_buy_pop_itembg_png,ps_buy_pop_jx_2_kb_2_png,ps_buy_pop_petbg_png,ps_buy_pop_poptitle_png,ps_buy_pop_poptitle1_png,ps_buy_pop_searchbg_png,ps_buy_pop_tuceng_570_png,ps_buy_pop_zu_7_png,ps_galaxychallenge_btnback_png,ps_galaxychallenge_title_png,ps_item_achieve_num_10_png,ps_item_achieve_num_15_png,ps_item_achieve_num_20_png,ps_item_achieve_num_25_png,ps_item_achieve_num_30_png,ps_item_achieve_num_35_png,ps_item_achieve_num_40_png,ps_item_achieve_num_45_png,ps_item_achieve_num_50_png,ps_item_pop_topbg_png,ps_limited_shop_42175_png,ps_limited_shop_pet_png,ps_mall_petfactor_progress_wg_1_png,ps_mall_petfactor_progress_wg_2_png,ps_mall_petfactor_progress_wg_3_png,ps_mall_petfactor_progress_wg_4_png,ps_refresh_pop_btncancel_png,ps_refresh_pop_btncomfirm_png,ps_refresh_pop_di_kaobei_png,ps_sptpetitem_btncommon_png,ps_sptpetitem_down_png,ps_sptpetitem_img_di2_png,ps_sptpetitem_linedone_png,ps_sptpetitem_tuceng_569_png,ps_sptpetitem_tuceng_570_png,ps_sptpetitem_waikuang_xian_png,ps_sptpetitem_zu_30_png,ps_spt_imge_btn_jiangzhang_down_png,ps_spt_imge_btn_jiangzhang_up_png,ps_spt_imge_btn_qizhi_down_png,ps_spt_imge_btn_qizhi_up_png,ps_spt_item_icon1_png,ps_spt_item_icon2_png,ps_spt_item_icon3_png,ps_spt_item_iconbg_png,ps_spt_pet_pop_a_png,ps_spt_pet_pop_btninfo_png,ps_spt_pet_pop_close_png,ps_spt_pet_pop_juxing_634_png,ps_spt_pet_pop_jx_2_kb_2_png,ps_spt_pet_pop_petbg_png,ps_spt_pet_pop_tuceng_574_png,ps_spt_pet_pop_yhgg_png,ps_yinzi_40_kaobei_png,ps_yinzi_99t_kb_4_png,ps_yinzi_btncommon_png,ps_yinzi_btndown1_png,ps_yinzi_btndown2_png,ps_yinzi_btndown3_png,ps_yinzi_btnup1_png,ps_yinzi_btnup2_png,ps_yinzi_btnup3_png,ps_yinzi_buybg_png,ps_yinzi_img_di2_png,ps_yinzi_jx_892_kb_png,ps_yinzi_tag_png,ps_yinzi_tuceng_571_png,ps_yinzi_tuceng_572_png,pveRewardMall_gxPet_icon_1_png,pveRewardMall_gxPet_icon_2_png,pve_spt_award_first_title_png,pve_spt_award_title_png,pve_spt_award_title2_png,pve_spt_boss_title_png,pve_spt_btnSaodang_png,pve_spt_btnSaodang3_png,pve_spt_btnTiaozhan_png,pve_spt_btnTiaozhan2_png,pve_spt_btnTiaozhanQueren_png,pve_spt_condition_title_png,pve_spt_fight_btnGo_png,pve_spt_fight_btnOk_png,pve_spt_fight_di_png,pve_spt_fight_doneBg_png,pve_spt_fight_imgBtn_cure_png,pve_spt_fight_imgBtn_pet_png,pve_spt_fight_img_done_png,pve_spt_fight_img_line_png,pve_spt_fight_img_unkown_png,pve_spt_fight_Namebg_png,pve_spt_fight_progressBg_png,pve_spt_fight_progress_bg_png,pve_spt_fight_progress_empty_png,pve_spt_fight_progress_fill_png,pve_spt_fight_rect_down_png,pve_spt_fight_rect_up_png,pve_spt_fight_roundbg_png,pve_spt_fight_star_png,pve_spt_fight_targetBg_png,pve_spt_fight_target_3_bg_png,pve_spt_galaxy_arr_ending_png,pve_spt_galaxy_bag_png,pve_spt_galaxy_btnDifficult_png,pve_spt_galaxy_btnNormal_png,pve_spt_galaxy_btnStar_png,pve_spt_galaxy_cure_png,pve_spt_galaxy_flag_complete_png,pve_spt_galaxy_icon_0_1_png,pve_spt_galaxy_icon_0_2_png,pve_spt_galaxy_icon_1_png,pve_spt_galaxy_imgtask_png,pve_spt_galaxy_img_chosen_png,pve_spt_galaxy_img_reddot_png,pve_spt_galaxy_linexie_png,pve_spt_galaxy_task_bg_png,pve_spt_galaxy_task_compMask_png,pve_spt_galaxy_title_1_png,pve_spt_galaxy_title_2_png,pve_spt_galaxy_title_3_png,pve_spt_galaxy_title_4_png,pve_spt_galaxy_title_5_png,pve_spt_galaxy_title_6_png,pve_spt_galaxy_title_7_png,pve_spt_galaxy_title_8_png,pve_spt_galaxy_title_9_png,pve_spt_galaxy_txtbg_png,pve_spt_guanqiabg_png,pve_spt_img_award_png,pve_spt_img_task_png,pve_spt_item_galaxy_imgfastfight_png,pve_spt_item_img_bar_png,pve_spt_line_png,pve_spt_neirongbg_png,pve_spt_pet_png,pve_spt_pet_item_zhezhao_png,pve_spt_planet_hiddenbg_png,pve_spt_planet_img_planet_png,pve_spt_planet_linebranch_0_png,pve_spt_planet_linebranch_1_png,pve_spt_planet_linemain_0_png,pve_spt_planet_linemain_1_png,pve_spt_planet_planetbg_png,pve_spt_planet_planet_hidden_png,pve_spt_planet_stardark_png,pve_spt_planet_starlight_png,pve_spt_star_img_title_png,pve_spt_star_item_bg_png,pve_spt_star_item_btnGet_png,pve_spt_star_item_tag_got_png,pve_spt_target_title_png,pve_spt_task_item_level_s_1_png,pve_spt_task_item_level_s_2_png,pve_spt_task_item_level_s_3_png,pve_spt_titlebg_png"
+    },
+    {
+      "name": "pve_spt_group_galaxy_sheet",
+      "type": "sheet",
+      "url": "pve_spt/group_galaxy_sheet.json",
+      "subkeys": "pve_spt_item_galaxy_1_1_png,pve_spt_item_galaxy_1_2_png,pve_spt_item_galaxy_2_1_png,pve_spt_item_galaxy_2_2_png,pve_spt_item_galaxy_3_1_png,pve_spt_item_galaxy_3_2_png,pve_spt_item_galaxy_4_1_png,pve_spt_item_galaxy_4_2_png,pve_spt_item_galaxy_5_1_png,pve_spt_item_galaxy_5_2_png,pve_spt_item_galaxy_6_1_png,pve_spt_item_galaxy_6_2_png,pve_spt_item_galaxy_7_1_png,pve_spt_item_galaxy_7_2_png,pve_spt_item_galaxy_8_1_png,pve_spt_item_galaxy_8_2_png,pve_spt_item_galaxy_9_1_png,pve_spt_item_galaxy_9_2_png,pve_spt_item_lock_1_png,pve_spt_item_lock_2_png,pve_spt_item_lock_3_png,pve_spt_item_lock_4_png,pve_spt_item_lock_5_png,pve_spt_item_lock_6_png,pve_spt_item_lock_7_png,pve_spt_item_lock_8_png,pve_spt_item_lock_9_png"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "groups": [
+    {
+      "keys": "road_75,exml_75,map_75_bg_mc_jpg",
+      "name": "map_75"
+    }
+  ],
+  "resources": [
+    {
+      "type": "json",
+      "url": "75.json",
+      "name": "road_75"
+    },
+    {
+      "type": "text",
+      "url": "Map75Skin.exml",
+      "name": "exml_75"
+    },
+    {
+      "type": "image",
+      "url": "map_75_bg_mc.jpg",
+      "name": "map_75_bg_mc_jpg"
+    }
+  ]
+}

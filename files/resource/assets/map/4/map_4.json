@@ -1,0 +1,35 @@
+{
+  "resources": [
+    {
+      "url": "4.json",
+      "name": "road_4",
+      "type": "json"
+    },
+    {
+      "url": "Map4Skin.exml",
+      "name": "exml_4",
+      "type": "text"
+    },
+    {
+      "url": "map_4_bg_mc.jpg",
+      "name": "map_4_bg_mc_jpg",
+      "type": "image"
+    },
+    {
+      "url": "map_4_light.png",
+      "name": "map_4_light_png",
+      "type": "image"
+    },
+    {
+      "url": "map_4_men.png",
+      "name": "map_4_men_png",
+      "type": "image"
+    }
+  ],
+  "groups": [
+    {
+      "keys": "road_4,exml_4,map_4_bg_mc_jpg,map_4_light_png,map_4_men_png",
+      "name": "map_4"
+    }
+  ]
+}

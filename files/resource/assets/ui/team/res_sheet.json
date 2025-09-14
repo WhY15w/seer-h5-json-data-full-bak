@@ -1,0 +1,295 @@
+{
+  "file": "res_sheet.png",
+  "frames": {
+    "team_res_arrows_png": {
+      "x": 982,
+      "y": 216,
+      "w": 28,
+      "h": 43,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 28,
+      "sourceH": 43
+    },
+    "team_res_btnBuy_png": {
+      "x": 855,
+      "y": 146,
+      "w": 120,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 120,
+      "sourceH": 40
+    },
+    "team_res_btnMake_png": {
+      "x": 703,
+      "y": 304,
+      "w": 93,
+      "h": 42,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 93,
+      "sourceH": 42
+    },
+    "team_res_btnOpen_png": {
+      "x": 855,
+      "y": 1,
+      "w": 89,
+      "h": 89,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 89,
+      "sourceH": 89
+    },
+    "team_res_btnUp_png": {
+      "x": 798,
+      "y": 304,
+      "w": 93,
+      "h": 42,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 93,
+      "sourceH": 42
+    },
+    "team_res_countbg_png": {
+      "x": 703,
+      "y": 377,
+      "w": 98,
+      "h": 20,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 98,
+      "sourceH": 20
+    },
+    "team_res_flag_used_png": {
+      "x": 893,
+      "y": 304,
+      "w": 120,
+      "h": 28,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 120,
+      "sourceH": 28
+    },
+    "team_res_heikejibg_png": {
+      "x": 1,
+      "y": 418,
+      "w": 608,
+      "h": 131,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 608,
+      "sourceH": 131
+    },
+    "team_res_icon_drawing_2_png": {
+      "x": 930,
+      "y": 362,
+      "w": 53,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 53,
+      "sourceH": 40
+    },
+    "team_res_icon_drawing_3_png": {
+      "x": 952,
+      "y": 404,
+      "w": 53,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 53,
+      "sourceH": 40
+    },
+    "team_res_icon_drawing_4_png": {
+      "x": 952,
+      "y": 446,
+      "w": 53,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 53,
+      "sourceH": 40
+    },
+    "team_res_icon_drawing_5_png": {
+      "x": 952,
+      "y": 488,
+      "w": 53,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 53,
+      "sourceH": 40
+    },
+    "team_res_items_bg_png": {
+      "x": 1,
+      "y": 226,
+      "w": 700,
+      "h": 190,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 700,
+      "sourceH": 190
+    },
+    "team_res_line_png": {
+      "x": 1,
+      "y": 591,
+      "w": 574,
+      "h": 1,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 574,
+      "sourceH": 1
+    },
+    "team_res_needtxtbg_png": {
+      "x": 1,
+      "y": 551,
+      "w": 624,
+      "h": 38,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 624,
+      "sourceH": 38
+    },
+    "team_res_techIcon_png": {
+      "x": 946,
+      "y": 1,
+      "w": 55,
+      "h": 76,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 55,
+      "sourceH": 76
+    },
+    "team_res_textbg_png": {
+      "x": 611,
+      "y": 418,
+      "w": 339,
+      "h": 100,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 339,
+      "sourceH": 100
+    },
+    "team_res_title_png": {
+      "x": 855,
+      "y": 188,
+      "w": 168,
+      "h": 26,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 168,
+      "sourceH": 26
+    },
+    "team_res_titlebg_png": {
+      "x": 703,
+      "y": 348,
+      "w": 110,
+      "h": 27,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 110,
+      "sourceH": 27
+    },
+    "team_upgrade_exchenged_png": {
+      "x": 855,
+      "y": 92,
+      "w": 144,
+      "h": 52,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 144,
+      "sourceH": 52
+    },
+    "team_upgrade_flag_false_png": {
+      "x": 1001,
+      "y": 79,
+      "w": 22,
+      "h": 22,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 22,
+      "sourceH": 22
+    },
+    "team_upgrade_flag_max_png": {
+      "x": 703,
+      "y": 270,
+      "w": 251,
+      "h": 32,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 251,
+      "sourceH": 32
+    },
+    "team_upgrade_flag_true_png": {
+      "x": 1001,
+      "y": 103,
+      "w": 22,
+      "h": 22,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 22,
+      "sourceH": 22
+    },
+    "team_upgrade_iconLv_png": {
+      "x": 977,
+      "y": 167,
+      "w": 25,
+      "h": 16,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 25,
+      "sourceH": 16
+    },
+    "team_upgrade_icon_num_png": {
+      "x": 977,
+      "y": 146,
+      "w": 23,
+      "h": 19,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 23,
+      "sourceH": 19
+    },
+    "team_upgrade_rect_png": {
+      "x": 815,
+      "y": 362,
+      "w": 113,
+      "h": 22,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 113,
+      "sourceH": 22
+    },
+    "team_upgrade_setbg_s9_png": {
+      "x": 1,
+      "y": 1,
+      "w": 852,
+      "h": 223,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 852,
+      "sourceH": 223
+    },
+    "team_upgrade_title_png": {
+      "x": 893,
+      "y": 334,
+      "w": 114,
+      "h": 26,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 114,
+      "sourceH": 26
+    },
+    "team_upgrade_txtbg_png": {
+      "x": 703,
+      "y": 226,
+      "w": 277,
+      "h": 42,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 277,
+      "sourceH": 42
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "groups": [
+    {
+      "keys": "road_780,exml_780,map_780_bg_mc_jpg,map_780_depth_mc_png,map_780_top_mc_png",
+      "name": "map_780"
+    }
+  ],
+  "resources": [
+    {
+      "type": "json",
+      "url": "780.json",
+      "name": "road_780"
+    },
+    {
+      "type": "text",
+      "url": "Map780Skin.exml",
+      "name": "exml_780"
+    },
+    {
+      "type": "image",
+      "url": "map_780_bg_mc.jpg",
+      "name": "map_780_bg_mc_jpg"
+    },
+    {
+      "type": "image",
+      "url": "map_780_depth_mc.png",
+      "name": "map_780_depth_mc_png"
+    },
+    {
+      "type": "image",
+      "url": "map_780_top_mc.png",
+      "name": "map_780_top_mc_png"
+    }
+  ]
+}

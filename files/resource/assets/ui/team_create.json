@@ -1,0 +1,16 @@
+{
+  "groups": [
+    {
+      "name": "team_create",
+      "keys": "team_create_sheet"
+    }
+  ],
+  "resources": [
+    {
+      "name": "team_create_sheet",
+      "type": "sheet",
+      "url": "team_create/team_create_sheet.json",
+      "subkeys": "team_aply_btnApply_png,team_aply_logobg_png,team_aply_txtbg_png,team_aply_txtbg2_png,team_aply_txtbg3_png,team_createCreate_down_png,team_createCreate_up_png,team_createRecommend_down_png,team_createRecommend_up_png,team_createSearch_down_png,team_createSearch_up_png,team_create_arrow_png,team_create_bg_png,team_create_btnChange_png,team_create_btnClose_png,team_create_btnFlash_png,team_create_contentbg_png,team_create_iconbg_png,team_create_inputbg_png,team_create_line_png,team_create_page_btnCreate_png,team_create_page_rect_png,team_create_page_txtbg2_png,team_create_rb_frame_down_png,team_create_rb_frame_up_png,team_create_recommend_title_png,team_create_resultbg_png,team_create_resultbg_light_png,team_create_Searchbg_png,team_create_slogan_bg_png,team_create_slogan_drop_bg_png,team_create_title_png,team_create_type_rb_down_png,team_create_type_rb_up_png,team_icon_1_png,team_icon_2_png,team_icon_3_png,team_icon_4_png,team_logo_png,team_logo_bg_png,team_logo_create_content_bg_png,team_logo_create_iconbg2_png,team_logo_create_icon_bg_png,team_logo_create_input_bg_png,team_logo_create_line_png,team_logo_create_title_png,team_search_arrow_png,team_search_btnResearch_png,team_search_btnSearch_png,team_search_contentbg_png,team_search_icon_png,team_search_item_bg_png"
+    }
+  ]
+}

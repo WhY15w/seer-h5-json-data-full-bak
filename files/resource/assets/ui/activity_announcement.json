@@ -1,0 +1,16 @@
+{
+  "groups": [
+    {
+      "name": "activity_announcement",
+      "keys": "activity_announcement_sheet"
+    }
+  ],
+  "resources": [
+    {
+      "name": "activity_announcement_sheet",
+      "type": "sheet",
+      "url": "activity_announcement/activity_announcement_sheet.json",
+      "subkeys": "activity_announcement_btnclose_png,activity_announcement_icon_activity_png,activity_announcement_icon_announce_png,activity_announcement_img_reddot_png,activity_announcement_item_bg_down_png,activity_announcement_item_bg_up_png,activity_announcement_notice_bg_png,activity_announcement_notice_icon_png,activity_announcement_notice_item_down_png,activity_announcement_notice_red_png,activity_announcement_title_png,activity_announcement_title_bg_png,activity_announcement_watermark_png"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "groups": [
+    {
+      "keys": "road_48,exml_48,map_48_bg_mc_jpg",
+      "name": "map_48"
+    }
+  ],
+  "resources": [
+    {
+      "type": "json",
+      "url": "48.json",
+      "name": "road_48"
+    },
+    {
+      "type": "text",
+      "url": "Map48Skin.exml",
+      "name": "exml_48"
+    },
+    {
+      "type": "image",
+      "url": "map_48_bg_mc.jpg",
+      "name": "map_48_bg_mc_jpg"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "groups": [
+    {
+      "name": "dailyDiamondTask",
+      "keys": "dailyDiamondTask_weekReward_ske_json,dailyDiamondTask_weekReward_tex_json,dailyDiamondTask_sheet,dailyDiamondTask_bg_png,dailyDiamondTask_weekReward_tex_png"
+    }
+  ],
+  "resources": [
+    {
+      "name": "dailyDiamondTask_weekReward_ske_json",
+      "type": "json",
+      "url": "dailyDiamondTask/outside/dailyDiamondTask_weekReward_ske.json"
+    },
+    {
+      "name": "dailyDiamondTask_weekReward_tex_json",
+      "type": "json",
+      "url": "dailyDiamondTask/outside/dailyDiamondTask_weekReward_tex.json"
+    },
+    {
+      "name": "dailyDiamondTask_bg_png",
+      "type": "image",
+      "url": "dailyDiamondTask/outside/dailyDiamondTask_bg.png"
+    },
+    {
+      "name": "dailyDiamondTask_weekReward_tex_png",
+      "type": "image",
+      "url": "dailyDiamondTask/outside/dailyDiamondTask_weekReward_tex.png"
+    },
+    {
+      "name": "dailyDiamondTask_sheet",
+      "type": "sheet",
+      "url": "dailyDiamondTask/dailyDiamondTask_sheet.json",
+      "subkeys": "dailyDiamondTask_btnClose_png,dailyDiamondTask_icon_png,dailyDiamondTask_imgArrow_png,dailyDiamondTask_imgBar_png,dailyDiamondTask_imgBarBg_png,dailyDiamondTask_imgDailyBg_png,dailyDiamondTask_imgDailyFlag_png,dailyDiamondTask_imgRewardBox_png,dailyDiamondTask_imgTaskBar_png,dailyDiamondTask_imgTaskBarBg_png,dailyDiamondTask_imgTaskBg_png,dailyDiamondTask_imgTipsBg_png,dailyDiamondTask_imgWeekFlag_png,dailyDiamondTask_imgWeekReward_png,dailyDiamondTask_itembg_png,dailyDiamondTask_itemIcon_png,dailyDiamondTask_tiaozhanbg_png,dailyDiamondTask_title_png,dailyDiamondTask_week_bg_png"
+    }
+  ]
+}

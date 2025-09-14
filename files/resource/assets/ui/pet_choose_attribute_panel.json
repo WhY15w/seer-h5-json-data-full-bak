@@ -1,0 +1,16 @@
+{
+  "groups": [
+    {
+      "name": "pet_choose_attribute_panel",
+      "keys": "pet_choose_attribute_panel_sheet"
+    }
+  ],
+  "resources": [
+    {
+      "name": "pet_choose_attribute_panel_sheet",
+      "type": "sheet",
+      "url": "pet_choose_attribute_panel/pet_choose_attribute_panel_sheet.json",
+      "subkeys": "new_view_btndown_png,new_view_icon_dj_kb_png,new_view_img_selected_png,new_view_img_tipkuang_png,pet_choose_attribute_panel_double_btn_down_png,pet_choose_attribute_panel_double_btn_up_png,pet_choose_attribute_panel_img_cancel_png,pet_choose_attribute_panel_img_select_png,pet_choose_attribute_panel_kuang_png,pet_choose_attribute_panel_select_attribute_new_bg_s9_png,pet_choose_attribute_panel_single_btn_down_png,pet_choose_attribute_panel_single_btn_up_png"
+    }
+  ]
+}

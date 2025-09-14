@@ -1,0 +1,445 @@
+{
+  "file": "pve_main_pet_sheet.png",
+  "frames": {
+    "pve_main_pet_battlel_aliow_png": {
+      "x": 1966,
+      "y": 167,
+      "w": 57,
+      "h": 79,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 57,
+      "sourceH": 79
+    },
+    "pve_main_pet_battlel_aliow_3_png": {
+      "x": 1966,
+      "y": 248,
+      "w": 57,
+      "h": 79,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 57,
+      "sourceH": 79
+    },
+    "pve_main_pet_battlel_bg_png": {
+      "x": 1,
+      "y": 1,
+      "w": 1136,
+      "h": 640,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 1136,
+      "sourceH": 640
+    },
+    "pve_main_pet_battlel_btnBattle_png": {
+      "x": 1591,
+      "y": 1147,
+      "w": 174,
+      "h": 50,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 174,
+      "sourceH": 50
+    },
+    "pve_main_pet_battlel_btnClose_png": {
+      "x": 1099,
+      "y": 643,
+      "w": 32,
+      "h": 38,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 32,
+      "sourceH": 38
+    },
+    "pve_main_pet_battlel_btnCure_png": {
+      "x": 1966,
+      "y": 329,
+      "w": 57,
+      "h": 57,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 57,
+      "sourceH": 57
+    },
+    "pve_main_pet_battlel_btnPet_png": {
+      "x": 1966,
+      "y": 388,
+      "w": 57,
+      "h": 57,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 57,
+      "sourceH": 57
+    },
+    "pve_main_pet_battlel_btnTomorrow_png": {
+      "x": 1817,
+      "y": 1289,
+      "w": 174,
+      "h": 50,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 174,
+      "sourceH": 50
+    },
+    "pve_main_pet_battlel_helpBtn_png_png": {
+      "x": 2025,
+      "y": 167,
+      "w": 22,
+      "h": 25,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 22,
+      "sourceH": 25
+    },
+    "pve_main_pet_battlel_imgSelected_png": {
+      "x": 699,
+      "y": 643,
+      "w": 305,
+      "h": 471,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 305,
+      "sourceH": 471
+    },
+    "pve_main_pet_battlel_pet1_png": {
+      "x": 1617,
+      "y": 1,
+      "w": 347,
+      "h": 495,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 347,
+      "sourceH": 495
+    },
+    "pve_main_pet_battlel_pet2_png": {
+      "x": 350,
+      "y": 643,
+      "w": 347,
+      "h": 486,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 347,
+      "sourceH": 486
+    },
+    "pve_main_pet_battlel_pet3_png": {
+      "x": 1,
+      "y": 643,
+      "w": 347,
+      "h": 486,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 347,
+      "sourceH": 486
+    },
+    "pve_main_pet_battlel_texture_1_png": {
+      "x": 1217,
+      "y": 902,
+      "w": 320,
+      "h": 44,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 320,
+      "sourceH": 44
+    },
+    "pve_main_pet_battlel_title_png": {
+      "x": 1217,
+      "y": 948,
+      "w": 265,
+      "h": 36,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 265,
+      "sourceH": 36
+    },
+    "pve_main_pet_battlel_up_bg_png": {
+      "x": 1,
+      "y": 1202,
+      "w": 1136,
+      "h": 51,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 1136,
+      "sourceH": 51
+    },
+    "pve_main_pet_exchangecao_btn_cao_down_png": {
+      "x": 1793,
+      "y": 1123,
+      "w": 238,
+      "h": 112,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 238,
+      "sourceH": 112
+    },
+    "pve_main_pet_exchangecao_btn_cao_up_png": {
+      "x": 1591,
+      "y": 1237,
+      "w": 224,
+      "h": 112,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 224,
+      "sourceH": 112
+    },
+    "pve_main_pet_exchangehuo_btn_huo_down_png": {
+      "x": 1793,
+      "y": 1008,
+      "w": 238,
+      "h": 113,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 238,
+      "sourceH": 113
+    },
+    "pve_main_pet_exchangehuo_btn_huo_up_png": {
+      "x": 1365,
+      "y": 1147,
+      "w": 224,
+      "h": 113,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 224,
+      "sourceH": 113
+    },
+    "pve_main_pet_exchangeshui_btn_shui_down_png": {
+      "x": 1217,
+      "y": 787,
+      "w": 238,
+      "h": 113,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 238,
+      "sourceH": 113
+    },
+    "pve_main_pet_exchangeshui_btn_shui_up_png": {
+      "x": 1139,
+      "y": 1147,
+      "w": 224,
+      "h": 113,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 224,
+      "sourceH": 113
+    },
+    "pve_main_pet_exchange_btnduihuan_png": {
+      "x": 1315,
+      "y": 1262,
+      "w": 174,
+      "h": 50,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 174,
+      "sourceH": 50
+    },
+    "pve_main_pet_exchange_costicon_png": {
+      "x": 1957,
+      "y": 712,
+      "w": 24,
+      "h": 23,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 24,
+      "sourceH": 23
+    },
+    "pve_main_pet_exchange_iconBg_png": {
+      "x": 1006,
+      "y": 787,
+      "w": 209,
+      "h": 202,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 209,
+      "sourceH": 202
+    },
+    "pve_main_pet_exchange_iconCao_png": {
+      "x": 1006,
+      "y": 643,
+      "w": 91,
+      "h": 87,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 91,
+      "sourceH": 87
+    },
+    "pve_main_pet_exchange_iconHuo_png": {
+      "x": 1957,
+      "y": 498,
+      "w": 90,
+      "h": 85,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 90,
+      "sourceH": 85
+    },
+    "pve_main_pet_exchange_iconitem_png": {
+      "x": 1966,
+      "y": 447,
+      "w": 42,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 42,
+      "sourceH": 40
+    },
+    "pve_main_pet_exchange_iconitem2_png": {
+      "x": 1957,
+      "y": 670,
+      "w": 42,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 42,
+      "sourceH": 40
+    },
+    "pve_main_pet_exchange_iconitem3_png": {
+      "x": 2001,
+      "y": 670,
+      "w": 42,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 42,
+      "sourceH": 40
+    },
+    "pve_main_pet_exchange_iconShui_png": {
+      "x": 1957,
+      "y": 585,
+      "w": 88,
+      "h": 83,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 88,
+      "sourceH": 83
+    },
+    "pve_main_pet_exchange_iconskill_png": {
+      "x": 1966,
+      "y": 87,
+      "w": 70,
+      "h": 78,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 70,
+      "sourceH": 78
+    },
+    "pve_main_pet_exchange_icon_texiing_png": {
+      "x": 1966,
+      "y": 1,
+      "w": 73,
+      "h": 84,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 73,
+      "sourceH": 84
+    },
+    "pve_main_pet_exchange_img_di_png": {
+      "x": 1,
+      "y": 1147,
+      "w": 1133,
+      "h": 53,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 1133,
+      "sourceH": 53
+    },
+    "pve_main_pet_exchange_img_di_3_png": {
+      "x": 699,
+      "y": 1116,
+      "w": 162,
+      "h": 28,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 162,
+      "sourceH": 28
+    },
+    "pve_main_pet_exchange_pet1_png": {
+      "x": 1139,
+      "y": 1,
+      "w": 474,
+      "h": 396,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 474,
+      "sourceH": 396
+    },
+    "pve_main_pet_exchange_pet2_png": {
+      "x": 1139,
+      "y": 399,
+      "w": 476,
+      "h": 386,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 476,
+      "sourceH": 386
+    },
+    "pve_main_pet_exchange_pet3_png": {
+      "x": 1617,
+      "y": 498,
+      "w": 338,
+      "h": 508,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 338,
+      "sourceH": 508
+    },
+    "pve_main_pet_main_btnAdd_png": {
+      "x": 1099,
+      "y": 683,
+      "w": 29,
+      "h": 29,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 29,
+      "sourceH": 29
+    },
+    "pve_main_pet_main_btnBattle_png": {
+      "x": 1817,
+      "y": 1237,
+      "w": 174,
+      "h": 50,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 174,
+      "sourceH": 50
+    },
+    "pve_main_pet_main_btnClose_png": {
+      "x": 2010,
+      "y": 447,
+      "w": 32,
+      "h": 38,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 32,
+      "sourceH": 38
+    },
+    "pve_main_pet_main_btnExchange_png": {
+      "x": 1139,
+      "y": 1262,
+      "w": 174,
+      "h": 50,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 174,
+      "sourceH": 50
+    },
+    "pve_main_pet_main_title_png": {
+      "x": 1006,
+      "y": 1008,
+      "w": 785,
+      "h": 137,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 785,
+      "sourceH": 137
+    },
+    "pve_main_pet_main_up_bg_png": {
+      "x": 1,
+      "y": 1255,
+      "w": 1136,
+      "h": 51,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 1136,
+      "sourceH": 51
+    }
+  }
+}

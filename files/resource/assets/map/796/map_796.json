@@ -1,0 +1,30 @@
+{
+  "resources": [
+    {
+      "type": "json",
+      "url": "796.json",
+      "name": "road_796"
+    },
+    {
+      "type": "text",
+      "url": "Map796Skin.exml",
+      "name": "exml_796"
+    },
+    {
+      "type": "image",
+      "url": "map_796_bg_mc.jpg",
+      "name": "map_796_bg_mc_jpg"
+    },
+    {
+      "type": "image",
+      "url": "map_796_top_mc.png",
+      "name": "map_796_top_mc_png"
+    }
+  ],
+  "groups": [
+    {
+      "keys": "road_796,exml_796,map_796_bg_mc_jpg,map_796_top_mc_png",
+      "name": "map_796"
+    }
+  ]
+}

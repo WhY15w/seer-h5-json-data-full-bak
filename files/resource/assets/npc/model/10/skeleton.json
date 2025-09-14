@@ -1,0 +1,684 @@
+{
+  "frameRate": 24,
+  "name": "10",
+  "version": "5.5",
+  "compatibleVersion": "5.5",
+  "armature": [
+    {
+      "name": "anim",
+      "bone": [
+        {
+          "inheritScale": false,
+          "name": "补间 12",
+          "transform": {
+            "x": -24.25,
+            "y": -60.65,
+            "scX": 0.2842,
+            "scY": 0.2842
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "bagfawdascd",
+          "transform": {
+            "x": 8.45,
+            "y": -16.9,
+            "scX": 0.2842,
+            "scY": 0.2842
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "补间 8",
+          "transform": {
+            "x": -5.45,
+            "y": -53.85,
+            "scX": 0.2842,
+            "scY": 0.2842
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "补间 6",
+          "transform": {
+            "x": 0.65,
+            "y": -38.5,
+            "scX": 0.2842,
+            "scY": 0.2842
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "bagfawdascd_0",
+          "transform": {
+            "x": 2.25,
+            "y": -13.25,
+            "scX": 0.2842,
+            "scY": 0.2842
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "补间 5",
+          "transform": {
+            "x": -6.35,
+            "y": -38.1,
+            "scX": 0.2842,
+            "scY": 0.2842
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "补间 4 副本 2",
+          "transform": {
+            "x": -12.5,
+            "y": -58.55,
+            "scX": 0.2842,
+            "scY": 0.2842
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "补间 3 副本 2",
+          "transform": {
+            "x": -5.35,
+            "y": -48,
+            "scX": 0.2842,
+            "scY": 0.2842
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "补间 2 副本 3",
+          "transform": {
+            "x": -16.7,
+            "y": -57,
+            "scX": 0.2842,
+            "scY": 0.2842
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "bafadqawrqre",
+          "transform": {
+            "x": 2,
+            "y": -50,
+            "scX": 0.2842,
+            "scY": 0.2842
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "bafasfascfvz",
+          "transform": {
+            "x": -21.85,
+            "y": -48,
+            "scX": 0.2842,
+            "scY": 0.2842
+          }
+        }
+      ],
+      "slot": [
+        {
+          "name": "补间 12",
+          "parent": "补间 12"
+        },
+        {
+          "name": "bagfawdascd",
+          "parent": "bagfawdascd"
+        },
+        {
+          "name": "补间 8",
+          "parent": "补间 8"
+        },
+        {
+          "name": "补间 6",
+          "parent": "补间 6"
+        },
+        {
+          "name": "bagfawdascd_0",
+          "parent": "bagfawdascd_0"
+        },
+        {
+          "name": "补间 5",
+          "parent": "补间 5"
+        },
+        {
+          "name": "补间 4 副本 2",
+          "parent": "补间 4 副本 2"
+        },
+        {
+          "name": "补间 3 副本 2",
+          "parent": "补间 3 副本 2"
+        },
+        {
+          "name": "补间 2 副本 3",
+          "parent": "补间 2 副本 3"
+        },
+        {
+          "name": "bafadqawrqre",
+          "parent": "bafadqawrqre"
+        },
+        {
+          "name": "bafasfascfvz",
+          "parent": "bafasfascfvz"
+        }
+      ],
+      "skin": [
+        {
+          "slot": [
+            {
+              "name": "补间 12",
+              "display": [
+                {
+                  "name": "元件 57",
+                  "transform": {
+                    "x": 0.05,
+                    "y": 0.2
+                  }
+                }
+              ]
+            },
+            {
+              "name": "bagfawdascd",
+              "display": [
+                {
+                  "name": "元件 54",
+                  "transform": {
+                    "x": 24.9,
+                    "y": 58.05
+                  }
+                }
+              ]
+            },
+            {
+              "name": "补间 8",
+              "display": [
+                {
+                  "name": "元件 53",
+                  "transform": {
+                    "x": 7.75,
+                    "y": 4.75
+                  }
+                }
+              ]
+            },
+            {
+              "name": "补间 6",
+              "display": [
+                {
+                  "name": "元件 52",
+                  "transform": {
+                    "x": 11.9,
+                    "y": 32.65
+                  }
+                }
+              ]
+            },
+            {
+              "name": "bagfawdascd_0",
+              "display": [
+                {
+                  "name": "元件 48",
+                  "transform": {
+                    "x": -38.3,
+                    "y": 71.75
+                  }
+                }
+              ]
+            },
+            {
+              "name": "补间 5",
+              "display": [
+                {
+                  "name": "元件 51",
+                  "transform": {
+                    "x": 12.8,
+                    "y": 36.15
+                  }
+                }
+              ]
+            },
+            {
+              "name": "补间 4 副本 2",
+              "display": [
+                {
+                  "name": "元件 50",
+                  "transform": {
+                    "x": 2.85,
+                    "y": -25.5
+                  }
+                }
+              ]
+            },
+            {
+              "name": "补间 3 副本 2",
+              "display": [
+                {
+                  "name": "元件 49",
+                  "transform": {
+                    "x": -9.8,
+                    "y": 0.7
+                  }
+                }
+              ]
+            },
+            {
+              "name": "补间 2 副本 3",
+              "display": [
+                {
+                  "name": "元件 47",
+                  "transform": {
+                    "x": -5.8,
+                    "y": 15.05
+                  }
+                }
+              ]
+            },
+            {
+              "name": "bafadqawrqre",
+              "display": [
+                {
+                  "name": "元件 46",
+                  "transform": {
+                    "x": 139,
+                    "y": -3.2
+                  }
+                }
+              ]
+            },
+            {
+              "name": "bafasfascfvz",
+              "display": [
+                {
+                  "name": "元件 45",
+                  "transform": {
+                    "x": -32.8,
+                    "y": 16.9
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "animation": [
+        {
+          "duration": 31,
+          "name": "down",
+          "bone": [
+            {
+              "name": "补间 12",
+              "translateFrame": [
+                {
+                  "duration": 15,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 15,
+                  "tweenEasing": 0,
+                  "y": -3.71
+                },
+                {}
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 31
+                }
+              ]
+            },
+            {
+              "name": "bagfawdascd",
+              "translateFrame": [
+                {
+                  "duration": 15,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 15,
+                  "tweenEasing": 0,
+                  "x": -0.8,
+                  "y": -5.46
+                },
+                {}
+              ],
+              "rotateFrame": [
+                {
+                  "duration": 15,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 15,
+                  "tweenEasing": 0,
+                  "rotate": -0.06
+                },
+                {}
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 31
+                }
+              ]
+            },
+            {
+              "name": "补间 8",
+              "translateFrame": [
+                {
+                  "duration": 15,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 15,
+                  "tweenEasing": 0,
+                  "x": -0.19,
+                  "y": -5.44
+                },
+                {}
+              ],
+              "rotateFrame": [
+                {
+                  "duration": 15,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 15,
+                  "tweenEasing": 0,
+                  "rotate": 5.27
+                },
+                {}
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 15,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 15,
+                  "tweenEasing": 0,
+                  "x": 0.9996,
+                  "y": 0.9996
+                },
+                {}
+              ]
+            },
+            {
+              "name": "补间 6",
+              "translateFrame": [
+                {
+                  "duration": 15,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 15,
+                  "tweenEasing": 0,
+                  "x": 0.01,
+                  "y": -5.71
+                },
+                {}
+              ],
+              "rotateFrame": [
+                {
+                  "duration": 15,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 15,
+                  "tweenEasing": 0,
+                  "rotate": 1.81
+                },
+                {}
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 31
+                }
+              ]
+            },
+            {
+              "name": "bagfawdascd_0",
+              "translateFrame": [
+                {
+                  "duration": 15,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 15,
+                  "tweenEasing": 0,
+                  "x": 0.99,
+                  "y": -6.62
+                },
+                {}
+              ],
+              "rotateFrame": [
+                {
+                  "duration": 15,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 15,
+                  "tweenEasing": 0,
+                  "rotate": -4.78
+                },
+                {}
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 15,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 15,
+                  "tweenEasing": 0,
+                  "x": 0.9996,
+                  "y": 0.9996
+                },
+                {}
+              ]
+            },
+            {
+              "name": "补间 5",
+              "translateFrame": [
+                {
+                  "duration": 15,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 15,
+                  "tweenEasing": 0,
+                  "x": -0.15,
+                  "y": -6.06
+                },
+                {}
+              ],
+              "rotateFrame": [
+                {
+                  "duration": 15,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 15,
+                  "tweenEasing": 0,
+                  "rotate": -2.03
+                },
+                {}
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 31
+                }
+              ]
+            },
+            {
+              "name": "补间 4 副本 2",
+              "translateFrame": [
+                {
+                  "duration": 15,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 15,
+                  "tweenEasing": 0,
+                  "x": -0.02,
+                  "y": -5.64
+                },
+                {}
+              ],
+              "rotateFrame": [
+                {
+                  "duration": 15,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 15,
+                  "tweenEasing": 0,
+                  "rotate": -5.81
+                },
+                {}
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 15,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 15,
+                  "tweenEasing": 0,
+                  "x": 0.9996,
+                  "y": 0.9996
+                },
+                {}
+              ]
+            },
+            {
+              "name": "补间 3 副本 2",
+              "translateFrame": [
+                {
+                  "duration": 15,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 15,
+                  "tweenEasing": 0,
+                  "y": -5.66
+                },
+                {}
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 31
+                }
+              ]
+            },
+            {
+              "name": "补间 2 副本 3",
+              "translateFrame": [
+                {
+                  "duration": 15,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 15,
+                  "tweenEasing": 0,
+                  "x": 0.08,
+                  "y": -5.41
+                },
+                {}
+              ],
+              "rotateFrame": [
+                {
+                  "duration": 15,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 15,
+                  "tweenEasing": 0,
+                  "rotate": -3.78
+                },
+                {}
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 31
+                }
+              ]
+            },
+            {
+              "name": "bafadqawrqre",
+              "translateFrame": [
+                {
+                  "duration": 15,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 15,
+                  "tweenEasing": 0,
+                  "x": -0.62,
+                  "y": -4.94
+                },
+                {}
+              ],
+              "rotateFrame": [
+                {
+                  "duration": 15,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 15,
+                  "tweenEasing": 0,
+                  "rotate": 3.54
+                },
+                {}
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 31
+                }
+              ]
+            },
+            {
+              "name": "bafasfascfvz",
+              "translateFrame": [
+                {
+                  "duration": 15,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 15,
+                  "tweenEasing": 0,
+                  "x": 0.65,
+                  "y": -5.05
+                },
+                {}
+              ],
+              "rotateFrame": [
+                {
+                  "duration": 15,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 15,
+                  "tweenEasing": 0,
+                  "rotate": 0.3
+                },
+                {}
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 15,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 15,
+                  "tweenEasing": 0,
+                  "x": 1.0004,
+                  "y": 1.0004
+                },
+                {}
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

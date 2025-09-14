@@ -1,0 +1,4590 @@
+{
+  "frameRate": 24,
+  "name": "1300105",
+  "version": "5.5",
+  "compatibleVersion": "5.5",
+  "armature": [
+    {
+      "name": "1300105_Car",
+      "bone": [
+        {
+          "inheritScale": false,
+          "name": "none",
+          "transform": {
+            "y": 43.35,
+            "scX": 1.682,
+            "scY": 1.6247
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "layer2",
+          "transform": {
+            "x": 0.9,
+            "y": 16.15
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "boday",
+          "transform": {
+            "x": 0.1,
+            "y": 7.1
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "layer",
+          "transform": {
+            "x": -17.4,
+            "y": -33.6
+          }
+        }
+      ],
+      "slot": [
+        {
+          "name": "none",
+          "parent": "none"
+        },
+        {
+          "name": "layer2",
+          "parent": "layer2"
+        },
+        {
+          "name": "boday",
+          "parent": "boday"
+        },
+        {
+          "name": "layer",
+          "parent": "layer"
+        }
+      ],
+      "skin": [
+        {
+          "slot": [
+            {
+              "name": "none",
+              "display": [
+                {
+                  "name": "元件 1",
+                  "transform": {
+                    "x": 0.35
+                  }
+                }
+              ]
+            },
+            {
+              "name": "layer2",
+              "display": [
+                {
+                  "type": "armature",
+                  "name": "ox0001",
+                  "transform": {
+                    "y": 48.05
+                  }
+                },
+                {
+                  "type": "armature",
+                  "name": "ox0002",
+                  "transform": {
+                    "y": 54.45
+                  }
+                },
+                {
+                  "type": "armature",
+                  "name": "ox0003",
+                  "transform": {
+                    "y": 54.9
+                  }
+                },
+                {
+                  "type": "armature",
+                  "name": "ox0004",
+                  "transform": {
+                    "x": -14.1,
+                    "y": 51.35
+                  }
+                }
+              ]
+            },
+            {
+              "name": "boday"
+            },
+            {
+              "name": "layer",
+              "display": [
+                {
+                  "type": "armature",
+                  "name": "元件 2"
+                },
+                {
+                  "type": "armature",
+                  "name": "元件 6",
+                  "transform": {
+                    "x": -21,
+                    "y": -23.7
+                  }
+                },
+                {
+                  "type": "armature",
+                  "name": "元件 7",
+                  "transform": {
+                    "x": -24,
+                    "y": -19.5
+                  }
+                },
+                {
+                  "type": "armature",
+                  "name": "元件 8"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "animation": [
+        {
+          "duration": 33,
+          "name": "down",
+          "frame": [
+            {
+              "duration": 32
+            },
+            {}
+          ],
+          "bone": [
+            {
+              "name": "none",
+              "scaleFrame": [
+                {
+                  "duration": 33
+                }
+              ]
+            },
+            {
+              "name": "layer2",
+              "scaleFrame": [
+                {
+                  "duration": 33
+                }
+              ]
+            },
+            {
+              "name": "boday",
+              "scaleFrame": [
+                {
+                  "duration": 33
+                }
+              ]
+            },
+            {
+              "name": "layer",
+              "scaleFrame": [
+                {
+                  "duration": 33
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "duration": 32,
+          "name": "leftdown",
+          "frame": [
+            {
+              "duration": 31
+            },
+            {}
+          ],
+          "bone": [
+            {
+              "name": "none",
+              "translateFrame": [
+                {
+                  "duration": 32,
+                  "x": 35.75
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 32
+                }
+              ]
+            },
+            {
+              "name": "layer2",
+              "translateFrame": [
+                {
+                  "duration": 32,
+                  "x": 6.5,
+                  "y": 4
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 32
+                }
+              ]
+            },
+            {
+              "name": "boday",
+              "scaleFrame": [
+                {
+                  "duration": 32
+                }
+              ]
+            },
+            {
+              "name": "layer",
+              "translateFrame": [
+                {
+                  "duration": 32,
+                  "x": 21.8,
+                  "y": 27.9
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 32
+                }
+              ]
+            }
+          ],
+          "slot": [
+            {
+              "name": "layer2",
+              "displayFrame": [
+                {
+                  "duration": 32,
+                  "value": 1
+                }
+              ]
+            },
+            {
+              "name": "layer",
+              "displayFrame": [
+                {
+                  "duration": 32,
+                  "value": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "duration": 34,
+          "name": "left",
+          "frame": [
+            {
+              "duration": 33
+            },
+            {}
+          ],
+          "bone": [
+            {
+              "name": "none",
+              "translateFrame": [
+                {
+                  "duration": 34,
+                  "x": 27
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 34
+                }
+              ]
+            },
+            {
+              "name": "layer2",
+              "translateFrame": [
+                {
+                  "duration": 34,
+                  "x": 3.85,
+                  "y": 9.85
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 34
+                }
+              ]
+            },
+            {
+              "name": "boday",
+              "scaleFrame": [
+                {
+                  "duration": 34
+                }
+              ]
+            },
+            {
+              "name": "layer",
+              "translateFrame": [
+                {
+                  "duration": 34,
+                  "x": 22.15,
+                  "y": 26
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 34
+                }
+              ]
+            }
+          ],
+          "slot": [
+            {
+              "name": "layer2",
+              "displayFrame": [
+                {
+                  "duration": 34,
+                  "value": 2
+                }
+              ]
+            },
+            {
+              "name": "layer",
+              "displayFrame": [
+                {
+                  "duration": 34,
+                  "value": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "duration": 33,
+          "name": "leftup",
+          "frame": [
+            {
+              "duration": 32
+            },
+            {}
+          ],
+          "bone": [
+            {
+              "name": "none",
+              "translateFrame": [
+                {
+                  "duration": 33,
+                  "x": 23.5
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 33
+                }
+              ]
+            },
+            {
+              "name": "layer2",
+              "translateFrame": [
+                {
+                  "duration": 33,
+                  "x": 19.8,
+                  "y": 2.95
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 33
+                }
+              ]
+            },
+            {
+              "name": "boday",
+              "scaleFrame": [
+                {
+                  "duration": 33
+                }
+              ]
+            },
+            {
+              "name": "layer",
+              "translateFrame": [
+                {
+                  "duration": 33,
+                  "x": -7.5,
+                  "y": 12.05
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 33
+                }
+              ]
+            }
+          ],
+          "slot": [
+            {
+              "name": "layer2",
+              "displayFrame": [
+                {
+                  "duration": 33,
+                  "value": 3
+                }
+              ]
+            },
+            {
+              "name": "layer",
+              "displayFrame": [
+                {
+                  "duration": 33,
+                  "value": 3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "duration": 33,
+          "name": "up",
+          "frame": [
+            {
+              "duration": 32
+            },
+            {}
+          ],
+          "bone": [
+            {
+              "name": "none",
+              "scaleFrame": [
+                {
+                  "duration": 33
+                }
+              ]
+            },
+            {
+              "name": "layer2",
+              "scaleFrame": [
+                {
+                  "duration": 33
+                }
+              ]
+            },
+            {
+              "name": "boday",
+              "scaleFrame": [
+                {
+                  "duration": 33
+                }
+              ]
+            },
+            {
+              "name": "layer",
+              "scaleFrame": [
+                {
+                  "duration": 33
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "duration": 33,
+          "name": "rightup",
+          "frame": [
+            {
+              "duration": 32
+            },
+            {}
+          ],
+          "bone": [
+            {
+              "name": "none",
+              "translateFrame": [
+                {
+                  "duration": 33,
+                  "x": -4.5
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 33
+                }
+              ]
+            },
+            {
+              "name": "layer2",
+              "translateFrame": [
+                {
+                  "duration": 33,
+                  "x": -20.2,
+                  "y": 3.35
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 33,
+                  "x": -1
+                }
+              ]
+            },
+            {
+              "name": "boday",
+              "scaleFrame": [
+                {
+                  "duration": 33
+                }
+              ]
+            },
+            {
+              "name": "layer",
+              "translateFrame": [
+                {
+                  "duration": 33,
+                  "x": 44.2,
+                  "y": 12.45
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 33,
+                  "x": -1
+                }
+              ]
+            }
+          ],
+          "slot": [
+            {
+              "name": "layer2",
+              "displayFrame": [
+                {
+                  "duration": 33,
+                  "value": 3
+                }
+              ]
+            },
+            {
+              "name": "layer",
+              "displayFrame": [
+                {
+                  "duration": 33,
+                  "value": 3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "duration": 33,
+          "name": "right",
+          "frame": [
+            {
+              "duration": 32
+            },
+            {}
+          ],
+          "bone": [
+            {
+              "name": "none",
+              "translateFrame": [
+                {
+                  "duration": 33,
+                  "x": -16.75
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 33
+                }
+              ]
+            },
+            {
+              "name": "layer2",
+              "translateFrame": [
+                {
+                  "duration": 33,
+                  "x": -1.75,
+                  "y": 10.6
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 33,
+                  "x": -1
+                }
+              ]
+            },
+            {
+              "name": "boday",
+              "scaleFrame": [
+                {
+                  "duration": 33
+                }
+              ]
+            },
+            {
+              "name": "layer",
+              "translateFrame": [
+                {
+                  "duration": 33,
+                  "x": 16.55,
+                  "y": 26.75
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 33,
+                  "x": -1
+                }
+              ]
+            }
+          ],
+          "slot": [
+            {
+              "name": "layer2",
+              "displayFrame": [
+                {
+                  "duration": 33,
+                  "value": 2
+                }
+              ]
+            },
+            {
+              "name": "layer",
+              "displayFrame": [
+                {
+                  "duration": 33,
+                  "value": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "duration": 33,
+          "name": "rightdown",
+          "frame": [
+            {
+              "duration": 32
+            },
+            {}
+          ],
+          "bone": [
+            {
+              "name": "none",
+              "translateFrame": [
+                {
+                  "duration": 33,
+                  "x": -28.25
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 33
+                }
+              ]
+            },
+            {
+              "name": "layer2",
+              "translateFrame": [
+                {
+                  "duration": 33,
+                  "x": -5.35,
+                  "y": 4.25
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 33,
+                  "x": -1
+                }
+              ]
+            },
+            {
+              "name": "boday",
+              "scaleFrame": [
+                {
+                  "duration": 33
+                }
+              ]
+            },
+            {
+              "name": "layer",
+              "translateFrame": [
+                {
+                  "duration": 33,
+                  "x": 15.95,
+                  "y": 28.15
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 33,
+                  "x": -1
+                }
+              ]
+            }
+          ],
+          "slot": [
+            {
+              "name": "layer2",
+              "displayFrame": [
+                {
+                  "duration": 33,
+                  "value": 1
+                }
+              ]
+            },
+            {
+              "name": "layer",
+              "displayFrame": [
+                {
+                  "duration": 33,
+                  "value": 1
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ox0001",
+      "bone": [
+        {
+          "inheritScale": false,
+          "name": "1111111",
+          "transform": {
+            "x": 0.35,
+            "y": -105.4,
+            "scX": 0.5,
+            "scY": 0.5
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "111111",
+          "transform": {
+            "x": 0.1,
+            "y": -63.25,
+            "scX": 0.5,
+            "scY": 0.5
+          }
+        }
+      ],
+      "slot": [
+        {
+          "name": "1111111",
+          "parent": "1111111"
+        },
+        {
+          "name": "111111",
+          "parent": "111111"
+        }
+      ],
+      "skin": [
+        {
+          "slot": [
+            {
+              "name": "1111111",
+              "display": [
+                {
+                  "name": "补间 1"
+                },
+                {
+                  "name": "补间 2"
+                },
+                {
+                  "name": "补间 3"
+                },
+                {
+                  "name": "补间 4"
+                }
+              ]
+            },
+            {
+              "name": "111111",
+              "display": [
+                {
+                  "name": "元件 18"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "animation": [
+        {
+          "duration": 33,
+          "name": "unnamed",
+          "bone": [
+            {
+              "name": "1111111",
+              "translateFrame": [
+                {
+                  "duration": 2
+                },
+                {
+                  "duration": 2,
+                  "x": 0.25,
+                  "y": 0.05
+                },
+                {
+                  "duration": 2,
+                  "x": -0.05,
+                  "y": 0.2
+                },
+                {
+                  "duration": 2,
+                  "y": 0.1
+                },
+                {
+                  "duration": 2
+                },
+                {
+                  "duration": 2,
+                  "x": 0.25,
+                  "y": 0.05
+                },
+                {
+                  "duration": 2,
+                  "x": -0.05,
+                  "y": 0.2
+                },
+                {
+                  "duration": 2,
+                  "y": 0.1
+                },
+                {
+                  "duration": 2
+                },
+                {
+                  "duration": 2,
+                  "x": 0.25,
+                  "y": 0.05
+                },
+                {
+                  "duration": 2,
+                  "x": -0.05,
+                  "y": 0.2
+                },
+                {
+                  "duration": 2,
+                  "y": 0.1
+                },
+                {
+                  "duration": 2
+                },
+                {
+                  "duration": 2,
+                  "x": 0.25,
+                  "y": 0.05
+                },
+                {
+                  "duration": 2,
+                  "x": -0.05,
+                  "y": 0.2
+                },
+                {
+                  "duration": 2,
+                  "y": 0.1
+                },
+                {}
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 33
+                }
+              ]
+            },
+            {
+              "name": "111111",
+              "translateFrame": [
+                {
+                  "duration": 8,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 8,
+                  "tweenEasing": 0,
+                  "y": -1
+                },
+                {
+                  "duration": 8,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 8,
+                  "tweenEasing": 0,
+                  "y": -1
+                },
+                {
+                  "tweenEasing": 0
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 33
+                }
+              ]
+            }
+          ],
+          "slot": [
+            {
+              "name": "1111111",
+              "displayFrame": [
+                {
+                  "duration": 2
+                },
+                {
+                  "duration": 2,
+                  "value": 1
+                },
+                {
+                  "duration": 2,
+                  "value": 2
+                },
+                {
+                  "duration": 2,
+                  "value": 3
+                },
+                {
+                  "duration": 2
+                },
+                {
+                  "duration": 2,
+                  "value": 1
+                },
+                {
+                  "duration": 2,
+                  "value": 2
+                },
+                {
+                  "duration": 2,
+                  "value": 3
+                },
+                {
+                  "duration": 2
+                },
+                {
+                  "duration": 2,
+                  "value": 1
+                },
+                {
+                  "duration": 2,
+                  "value": 2
+                },
+                {
+                  "duration": 2,
+                  "value": 3
+                },
+                {
+                  "duration": 2
+                },
+                {
+                  "duration": 2,
+                  "value": 1
+                },
+                {
+                  "duration": 2,
+                  "value": 2
+                },
+                {
+                  "duration": 2,
+                  "value": 3
+                },
+                {}
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "元件 2",
+      "bone": [
+        {
+          "inheritScale": false,
+          "name": "1",
+          "transform": {
+            "x": 18,
+            "y": 26.45,
+            "scX": 0.5,
+            "scY": 0.5
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "11",
+          "transform": {
+            "x": 18,
+            "y": 26.45,
+            "scX": 0.5,
+            "scY": 0.5
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "1111",
+          "transform": {
+            "x": 19.75,
+            "y": 54.95
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "111",
+          "transform": {
+            "x": 20.6,
+            "y": 43.15
+          }
+        }
+      ],
+      "slot": [
+        {
+          "name": "1",
+          "parent": "1"
+        },
+        {
+          "name": "11",
+          "parent": "11"
+        },
+        {
+          "name": "1111",
+          "parent": "1111"
+        },
+        {
+          "name": "111",
+          "parent": "111"
+        }
+      ],
+      "skin": [
+        {
+          "slot": [
+            {
+              "name": "1",
+              "display": [
+                {
+                  "name": "元件 14"
+                }
+              ]
+            },
+            {
+              "name": "11",
+              "display": [
+                {
+                  "name": "元件 14"
+                }
+              ]
+            },
+            {
+              "name": "1111",
+              "display": [
+                {
+                  "name": "位图 46"
+                },
+                {
+                  "name": "位图 47"
+                },
+                {
+                  "name": "位图 48"
+                },
+                {
+                  "name": "位图 49"
+                },
+                {
+                  "name": "位图 50"
+                },
+                {
+                  "name": "位图 51"
+                },
+                {
+                  "name": "位图 52"
+                },
+                {
+                  "name": "位图 53"
+                },
+                {
+                  "name": "位图 54"
+                },
+                {
+                  "name": "位图 55"
+                },
+                {
+                  "name": "位图 56"
+                },
+                {
+                  "name": "位图 57"
+                },
+                {
+                  "name": "位图 58"
+                },
+                {
+                  "name": "位图 59"
+                },
+                {
+                  "name": "位图 60"
+                },
+                {
+                  "name": "位图 61"
+                },
+                {
+                  "name": "位图 62"
+                },
+                {
+                  "name": "位图 63"
+                },
+                {
+                  "name": "位图 64"
+                },
+                {
+                  "name": "位图 65"
+                },
+                {
+                  "name": "位图 66"
+                },
+                {
+                  "name": "位图 67"
+                },
+                {
+                  "name": "位图 68"
+                },
+                {
+                  "name": "位图 69"
+                },
+                {
+                  "name": "位图 70"
+                },
+                {
+                  "name": "位图 71"
+                },
+                {
+                  "name": "位图 72"
+                },
+                {
+                  "name": "位图 73"
+                },
+                {
+                  "name": "位图 74"
+                },
+                {
+                  "name": "位图 75"
+                },
+                {
+                  "name": "位图 76"
+                },
+                {
+                  "name": "位图 77"
+                },
+                {
+                  "name": "位图 78"
+                }
+              ]
+            },
+            {
+              "name": "111",
+              "display": [
+                {
+                  "name": "位图 29"
+                },
+                {
+                  "name": "位图 30"
+                },
+                {
+                  "name": "位图 31"
+                },
+                {
+                  "name": "位图 32"
+                },
+                {
+                  "name": "位图 33"
+                },
+                {
+                  "name": "位图 34"
+                },
+                {
+                  "name": "位图 35"
+                },
+                {
+                  "name": "位图 36"
+                },
+                {
+                  "name": "位图 37"
+                },
+                {
+                  "name": "位图 38"
+                },
+                {
+                  "name": "位图 39"
+                },
+                {
+                  "name": "位图 40"
+                },
+                {
+                  "name": "位图 41"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "animation": [
+        {
+          "duration": 33,
+          "name": "unnamed",
+          "bone": [
+            {
+              "name": "1",
+              "translateFrame": [
+                {
+                  "duration": 8,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 8,
+                  "tweenEasing": 0,
+                  "y": -1
+                },
+                {
+                  "duration": 8,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 8,
+                  "tweenEasing": 0,
+                  "y": -1
+                },
+                {
+                  "tweenEasing": 0
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 33
+                }
+              ]
+            },
+            {
+              "name": "11",
+              "translateFrame": [
+                {
+                  "duration": 8,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 8,
+                  "tweenEasing": 0,
+                  "y": -1
+                },
+                {
+                  "duration": 8,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 8,
+                  "tweenEasing": 0,
+                  "y": -1
+                },
+                {
+                  "tweenEasing": 0
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 33
+                }
+              ]
+            },
+            {
+              "name": "1111",
+              "translateFrame": [
+                {
+                  "duration": 3
+                },
+                {},
+                {
+                  "x": 11,
+                  "y": -21.45
+                },
+                {
+                  "duration": 4,
+                  "x": 11.05,
+                  "y": -33.8
+                },
+                {
+                  "x": 11.05,
+                  "y": -33.8
+                },
+                {
+                  "x": 7.4,
+                  "y": -45.2
+                },
+                {
+                  "x": 7.4,
+                  "y": -45.2
+                },
+                {
+                  "duration": 3,
+                  "x": 3.1,
+                  "y": -45.2
+                },
+                {
+                  "x": 3.1,
+                  "y": -45.2
+                },
+                {
+                  "x": 7.1,
+                  "y": -45.2
+                },
+                {
+                  "x": 7.1,
+                  "y": -90.8
+                },
+                {
+                  "duration": 3,
+                  "x": 7.5,
+                  "y": -91.3
+                },
+                {
+                  "x": 7.5,
+                  "y": -91.3
+                },
+                {
+                  "duration": 7,
+                  "x": 8,
+                  "y": -101.3
+                },
+                {
+                  "x": 8,
+                  "y": -101.3
+                },
+                {
+                  "x": 8,
+                  "y": -102.05
+                },
+                {
+                  "x": 8,
+                  "y": -102.05
+                },
+                {
+                  "x": 7.1,
+                  "y": -157.05
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 33
+                }
+              ]
+            },
+            {
+              "name": "111",
+              "translateFrame": [
+                {
+                  "duration": 4
+                },
+                {},
+                {
+                  "y": -7.5
+                },
+                {
+                  "duration": 3,
+                  "x": -2.7,
+                  "y": -6.1
+                },
+                {
+                  "x": -2.7,
+                  "y": -6.1
+                },
+                {
+                  "x": -2.7,
+                  "y": -13.6
+                },
+                {
+                  "x": -2.7,
+                  "y": -13.6
+                },
+                {
+                  "x": -2.7,
+                  "y": -21.1
+                },
+                {
+                  "duration": 4
+                },
+                {},
+                {
+                  "y": -7.5
+                },
+                {
+                  "duration": 3,
+                  "x": -2.7,
+                  "y": -6.1
+                },
+                {
+                  "x": -2.7,
+                  "y": -6.1
+                },
+                {
+                  "x": -2.7,
+                  "y": -13.6
+                },
+                {
+                  "x": -2.7,
+                  "y": -13.6
+                },
+                {
+                  "x": -2.7,
+                  "y": -21.1
+                },
+                {
+                  "duration": 4
+                },
+                {},
+                {
+                  "y": -7.5
+                },
+                {
+                  "x": -2.7,
+                  "y": -6.1
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 33
+                }
+              ]
+            }
+          ],
+          "slot": [
+            {
+              "name": "1111",
+              "displayFrame": [
+                {},
+                {
+                  "value": 1
+                },
+                {
+                  "value": 2
+                },
+                {
+                  "value": 3
+                },
+                {
+                  "value": 4
+                },
+                {
+                  "value": 5
+                },
+                {
+                  "value": 6
+                },
+                {
+                  "value": 7
+                },
+                {
+                  "value": 8
+                },
+                {
+                  "value": 9
+                },
+                {
+                  "value": 10
+                },
+                {
+                  "value": 11
+                },
+                {
+                  "value": 12
+                },
+                {
+                  "value": 13
+                },
+                {
+                  "value": 14
+                },
+                {
+                  "value": 15
+                },
+                {
+                  "value": 16
+                },
+                {
+                  "value": 17
+                },
+                {
+                  "value": 18
+                },
+                {
+                  "value": 19
+                },
+                {
+                  "value": 20
+                },
+                {
+                  "value": 21
+                },
+                {
+                  "value": 22
+                },
+                {
+                  "value": 23
+                },
+                {
+                  "value": 24
+                },
+                {
+                  "value": 25
+                },
+                {
+                  "value": 26
+                },
+                {
+                  "value": 27
+                },
+                {
+                  "value": 28
+                },
+                {
+                  "value": 29
+                },
+                {
+                  "value": 30
+                },
+                {
+                  "value": 31
+                },
+                {
+                  "value": 32
+                }
+              ]
+            },
+            {
+              "name": "111",
+              "displayFrame": [
+                {},
+                {
+                  "value": 1
+                },
+                {
+                  "value": 2
+                },
+                {
+                  "value": 3
+                },
+                {
+                  "value": 4
+                },
+                {
+                  "value": 5
+                },
+                {
+                  "value": 6
+                },
+                {
+                  "value": 7
+                },
+                {
+                  "value": 8
+                },
+                {
+                  "value": 9
+                },
+                {
+                  "value": 10
+                },
+                {
+                  "value": 11
+                },
+                {
+                  "value": 12
+                },
+                {},
+                {
+                  "value": 1
+                },
+                {
+                  "value": 2
+                },
+                {
+                  "value": 3
+                },
+                {
+                  "value": 4
+                },
+                {
+                  "value": 5
+                },
+                {
+                  "value": 6
+                },
+                {
+                  "value": 7
+                },
+                {
+                  "value": 8
+                },
+                {
+                  "value": 9
+                },
+                {
+                  "value": 10
+                },
+                {
+                  "value": 11
+                },
+                {
+                  "value": 12
+                },
+                {},
+                {
+                  "value": 1
+                },
+                {
+                  "value": 2
+                },
+                {
+                  "value": 3
+                },
+                {
+                  "value": 4
+                },
+                {
+                  "value": 5
+                },
+                {
+                  "value": 6
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ox0002",
+      "bone": [
+        {
+          "inheritScale": false,
+          "name": "22222222",
+          "transform": {
+            "x": 42.8,
+            "y": -101.05,
+            "scX": 0.5,
+            "scY": 0.5
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "2222222",
+          "transform": {
+            "x": 66,
+            "y": -83.9,
+            "scX": 0.5,
+            "scY": 0.5
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "22222",
+          "transform": {
+            "x": 26.2,
+            "y": -68.8,
+            "scX": 0.5,
+            "scY": 0.5
+          }
+        }
+      ],
+      "slot": [
+        {
+          "name": "22222222",
+          "parent": "22222222"
+        },
+        {
+          "name": "2222222",
+          "parent": "2222222"
+        },
+        {
+          "name": "22222",
+          "parent": "22222"
+        }
+      ],
+      "skin": [
+        {
+          "slot": [
+            {
+              "name": "22222222",
+              "display": [
+                {
+                  "name": "补间 1"
+                },
+                {
+                  "name": "补间 2"
+                },
+                {
+                  "name": "补间 3"
+                },
+                {
+                  "name": "补间 4"
+                }
+              ]
+            },
+            {
+              "name": "2222222",
+              "display": [
+                {
+                  "name": "补间 1"
+                },
+                {
+                  "name": "补间 2"
+                },
+                {
+                  "name": "补间 3"
+                },
+                {
+                  "name": "补间 4"
+                }
+              ]
+            },
+            {
+              "name": "22222",
+              "display": [
+                {
+                  "name": "元件 22"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "animation": [
+        {
+          "duration": 33,
+          "name": "unnamed",
+          "bone": [
+            {
+              "name": "22222222",
+              "translateFrame": [
+                {
+                  "duration": 2
+                },
+                {
+                  "duration": 2,
+                  "x": 0.25,
+                  "y": 0.05
+                },
+                {
+                  "duration": 2,
+                  "x": -0.05,
+                  "y": 0.2
+                },
+                {
+                  "duration": 2,
+                  "y": 0.1
+                },
+                {
+                  "duration": 2
+                },
+                {
+                  "duration": 2,
+                  "x": 0.25,
+                  "y": 0.05
+                },
+                {
+                  "duration": 2,
+                  "x": -0.05,
+                  "y": 0.2
+                },
+                {
+                  "duration": 2,
+                  "y": 0.1
+                },
+                {
+                  "duration": 2
+                },
+                {
+                  "duration": 2,
+                  "x": 0.25,
+                  "y": 0.05
+                },
+                {
+                  "duration": 2,
+                  "x": -0.05,
+                  "y": 0.2
+                },
+                {
+                  "duration": 2,
+                  "y": 0.1
+                },
+                {
+                  "duration": 2
+                },
+                {
+                  "duration": 2,
+                  "x": 0.25,
+                  "y": 0.05
+                },
+                {
+                  "duration": 2,
+                  "x": -0.05,
+                  "y": 0.2
+                },
+                {
+                  "duration": 2,
+                  "y": 0.1
+                },
+                {}
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 33
+                }
+              ]
+            },
+            {
+              "name": "2222222",
+              "translateFrame": [
+                {
+                  "duration": 2
+                },
+                {
+                  "duration": 2,
+                  "x": 0.25,
+                  "y": 0.05
+                },
+                {
+                  "duration": 2,
+                  "x": -0.05,
+                  "y": 0.2
+                },
+                {
+                  "duration": 2,
+                  "y": 0.1
+                },
+                {
+                  "duration": 2
+                },
+                {
+                  "duration": 2,
+                  "x": 0.25,
+                  "y": 0.05
+                },
+                {
+                  "duration": 2,
+                  "x": -0.05,
+                  "y": 0.2
+                },
+                {
+                  "duration": 2,
+                  "y": 0.1
+                },
+                {
+                  "duration": 2
+                },
+                {
+                  "duration": 2,
+                  "x": 0.25,
+                  "y": 0.05
+                },
+                {
+                  "duration": 2,
+                  "x": -0.05,
+                  "y": 0.2
+                },
+                {
+                  "duration": 2,
+                  "y": 0.1
+                },
+                {
+                  "duration": 2
+                },
+                {
+                  "duration": 2,
+                  "x": 0.25,
+                  "y": 0.05
+                },
+                {
+                  "duration": 2,
+                  "x": -0.05,
+                  "y": 0.2
+                },
+                {
+                  "duration": 2,
+                  "y": 0.1
+                },
+                {}
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 33
+                }
+              ]
+            },
+            {
+              "name": "22222",
+              "translateFrame": [
+                {
+                  "duration": 8,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 8,
+                  "tweenEasing": 0,
+                  "y": -2.5
+                },
+                {
+                  "duration": 8,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 8,
+                  "tweenEasing": 0,
+                  "y": -2.5
+                },
+                {}
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 33
+                }
+              ]
+            }
+          ],
+          "slot": [
+            {
+              "name": "22222222",
+              "displayFrame": [
+                {
+                  "duration": 2
+                },
+                {
+                  "duration": 2,
+                  "value": 1
+                },
+                {
+                  "duration": 2,
+                  "value": 2
+                },
+                {
+                  "duration": 2,
+                  "value": 3
+                },
+                {
+                  "duration": 2
+                },
+                {
+                  "duration": 2,
+                  "value": 1
+                },
+                {
+                  "duration": 2,
+                  "value": 2
+                },
+                {
+                  "duration": 2,
+                  "value": 3
+                },
+                {
+                  "duration": 2
+                },
+                {
+                  "duration": 2,
+                  "value": 1
+                },
+                {
+                  "duration": 2,
+                  "value": 2
+                },
+                {
+                  "duration": 2,
+                  "value": 3
+                },
+                {
+                  "duration": 2
+                },
+                {
+                  "duration": 2,
+                  "value": 1
+                },
+                {
+                  "duration": 2,
+                  "value": 2
+                },
+                {
+                  "duration": 2,
+                  "value": 3
+                },
+                {}
+              ]
+            },
+            {
+              "name": "2222222",
+              "displayFrame": [
+                {
+                  "duration": 2
+                },
+                {
+                  "duration": 2,
+                  "value": 1
+                },
+                {
+                  "duration": 2,
+                  "value": 2
+                },
+                {
+                  "duration": 2,
+                  "value": 3
+                },
+                {
+                  "duration": 2
+                },
+                {
+                  "duration": 2,
+                  "value": 1
+                },
+                {
+                  "duration": 2,
+                  "value": 2
+                },
+                {
+                  "duration": 2,
+                  "value": 3
+                },
+                {
+                  "duration": 2
+                },
+                {
+                  "duration": 2,
+                  "value": 1
+                },
+                {
+                  "duration": 2,
+                  "value": 2
+                },
+                {
+                  "duration": 2,
+                  "value": 3
+                },
+                {
+                  "duration": 2
+                },
+                {
+                  "duration": 2,
+                  "value": 1
+                },
+                {
+                  "duration": 2,
+                  "value": 2
+                },
+                {
+                  "duration": 2,
+                  "value": 3
+                },
+                {}
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "元件 6",
+      "bone": [
+        {
+          "inheritScale": false,
+          "name": "2",
+          "transform": {
+            "x": 21,
+            "y": 22.8,
+            "scX": 0.5,
+            "scY": 0.5
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "22",
+          "transform": {
+            "x": 1.55,
+            "y": 67.35,
+            "skX": 45,
+            "skY": 45
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "222",
+          "transform": {
+            "x": 35.35,
+            "y": 60.9
+          }
+        }
+      ],
+      "slot": [
+        {
+          "name": "2",
+          "parent": "2"
+        },
+        {
+          "name": "22",
+          "parent": "22"
+        },
+        {
+          "name": "222",
+          "parent": "222"
+        }
+      ],
+      "skin": [
+        {
+          "slot": [
+            {
+              "name": "2",
+              "display": [
+                {
+                  "name": "元件 20"
+                }
+              ]
+            },
+            {
+              "name": "22",
+              "display": [
+                {
+                  "name": "位图 46"
+                },
+                {
+                  "name": "位图 47"
+                },
+                {
+                  "name": "位图 48"
+                },
+                {
+                  "name": "位图 49"
+                },
+                {
+                  "name": "位图 50"
+                },
+                {
+                  "name": "位图 51"
+                },
+                {
+                  "name": "位图 52"
+                },
+                {
+                  "name": "位图 53"
+                },
+                {
+                  "name": "位图 54"
+                },
+                {
+                  "name": "位图 55"
+                },
+                {
+                  "name": "位图 56"
+                },
+                {
+                  "name": "位图 57"
+                },
+                {
+                  "name": "位图 58"
+                },
+                {
+                  "name": "位图 59"
+                },
+                {
+                  "name": "位图 60"
+                },
+                {
+                  "name": "位图 61"
+                },
+                {
+                  "name": "位图 62"
+                },
+                {
+                  "name": "位图 63"
+                },
+                {
+                  "name": "位图 64"
+                },
+                {
+                  "name": "位图 65"
+                },
+                {
+                  "name": "位图 66"
+                },
+                {
+                  "name": "位图 67"
+                },
+                {
+                  "name": "位图 68"
+                },
+                {
+                  "name": "位图 69"
+                },
+                {
+                  "name": "位图 70"
+                },
+                {
+                  "name": "位图 71"
+                },
+                {
+                  "name": "位图 72"
+                },
+                {
+                  "name": "位图 73"
+                },
+                {
+                  "name": "位图 74"
+                },
+                {
+                  "name": "位图 75"
+                },
+                {
+                  "name": "位图 76"
+                },
+                {
+                  "name": "位图 77"
+                },
+                {
+                  "name": "位图 78"
+                }
+              ]
+            },
+            {
+              "name": "222",
+              "display": [
+                {
+                  "name": "位图 29"
+                },
+                {
+                  "name": "位图 30"
+                },
+                {
+                  "name": "位图 31"
+                },
+                {
+                  "name": "位图 32"
+                },
+                {
+                  "name": "位图 33"
+                },
+                {
+                  "name": "位图 34"
+                },
+                {
+                  "name": "位图 35"
+                },
+                {
+                  "name": "位图 36"
+                },
+                {
+                  "name": "位图 37"
+                },
+                {
+                  "name": "位图 38"
+                },
+                {
+                  "name": "位图 39"
+                },
+                {
+                  "name": "位图 40"
+                },
+                {
+                  "name": "位图 41"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "animation": [
+        {
+          "duration": 33,
+          "name": "unnamed",
+          "bone": [
+            {
+              "name": "2",
+              "translateFrame": [
+                {
+                  "duration": 8,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 8,
+                  "tweenEasing": 0,
+                  "y": -2.5
+                },
+                {
+                  "duration": 8,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 8,
+                  "tweenEasing": 0,
+                  "y": -2.5
+                },
+                {
+                  "tweenEasing": 0
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 33
+                }
+              ]
+            },
+            {
+              "name": "22",
+              "translateFrame": [
+                {
+                  "duration": 3
+                },
+                {},
+                {
+                  "x": 22.9,
+                  "y": -7.4
+                },
+                {
+                  "duration": 4,
+                  "x": 31.65,
+                  "y": -16.15
+                },
+                {
+                  "x": 31.65,
+                  "y": -16.15
+                },
+                {
+                  "x": 37.15,
+                  "y": -26.75
+                },
+                {
+                  "x": 37.15,
+                  "y": -26.75
+                },
+                {
+                  "duration": 3,
+                  "x": 34.05,
+                  "y": -29.85
+                },
+                {
+                  "x": 34.05,
+                  "y": -29.85
+                },
+                {
+                  "x": 36.9,
+                  "y": -27
+                },
+                {
+                  "x": 69.2,
+                  "y": -59.3
+                },
+                {
+                  "duration": 3,
+                  "x": 69.8,
+                  "y": -59.35
+                },
+                {
+                  "x": 69.8,
+                  "y": -59.35
+                },
+                {
+                  "duration": 7,
+                  "x": 77.25,
+                  "y": -66.05
+                },
+                {
+                  "x": 77.25,
+                  "y": -66.05
+                },
+                {
+                  "x": 77.75,
+                  "y": -66.55
+                },
+                {
+                  "x": 77.75,
+                  "y": -66.55
+                },
+                {
+                  "x": 116,
+                  "y": -106.05
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 33
+                }
+              ]
+            },
+            {
+              "name": "222",
+              "translateFrame": [
+                {
+                  "duration": 4
+                },
+                {},
+                {
+                  "y": -7.5
+                },
+                {
+                  "duration": 3,
+                  "x": -2.7,
+                  "y": -6.1
+                },
+                {
+                  "x": -2.7,
+                  "y": -6.1
+                },
+                {
+                  "x": -2.7,
+                  "y": -13.6
+                },
+                {
+                  "x": -2.7,
+                  "y": -13.6
+                },
+                {
+                  "x": -2.7,
+                  "y": -21.1
+                },
+                {
+                  "duration": 4
+                },
+                {},
+                {
+                  "y": -7.5
+                },
+                {
+                  "duration": 3,
+                  "x": -2.7,
+                  "y": -6.1
+                },
+                {
+                  "x": -2.7,
+                  "y": -6.1
+                },
+                {
+                  "x": -2.7,
+                  "y": -13.6
+                },
+                {
+                  "x": -2.7,
+                  "y": -13.6
+                },
+                {
+                  "x": -2.7,
+                  "y": -21.1
+                },
+                {
+                  "duration": 4
+                },
+                {},
+                {
+                  "y": -7.5
+                },
+                {
+                  "x": -2.7,
+                  "y": -6.1
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 33
+                }
+              ]
+            }
+          ],
+          "slot": [
+            {
+              "name": "22",
+              "displayFrame": [
+                {},
+                {
+                  "value": 1
+                },
+                {
+                  "value": 2
+                },
+                {
+                  "value": 3
+                },
+                {
+                  "value": 4
+                },
+                {
+                  "value": 5
+                },
+                {
+                  "value": 6
+                },
+                {
+                  "value": 7
+                },
+                {
+                  "value": 8
+                },
+                {
+                  "value": 9
+                },
+                {
+                  "value": 10
+                },
+                {
+                  "value": 11
+                },
+                {
+                  "value": 12
+                },
+                {
+                  "value": 13
+                },
+                {
+                  "value": 14
+                },
+                {
+                  "value": 15
+                },
+                {
+                  "value": 16
+                },
+                {
+                  "value": 17
+                },
+                {
+                  "value": 18
+                },
+                {
+                  "value": 19
+                },
+                {
+                  "value": 20
+                },
+                {
+                  "value": 21
+                },
+                {
+                  "value": 22
+                },
+                {
+                  "value": 23
+                },
+                {
+                  "value": 24
+                },
+                {
+                  "value": 25
+                },
+                {
+                  "value": 26
+                },
+                {
+                  "value": 27
+                },
+                {
+                  "value": 28
+                },
+                {
+                  "value": 29
+                },
+                {
+                  "value": 30
+                },
+                {
+                  "value": 31
+                },
+                {
+                  "value": 32
+                }
+              ]
+            },
+            {
+              "name": "222",
+              "displayFrame": [
+                {},
+                {
+                  "value": 1
+                },
+                {
+                  "value": 2
+                },
+                {
+                  "value": 3
+                },
+                {
+                  "value": 4
+                },
+                {
+                  "value": 5
+                },
+                {
+                  "value": 6
+                },
+                {
+                  "value": 7
+                },
+                {
+                  "value": 8
+                },
+                {
+                  "value": 9
+                },
+                {
+                  "value": 10
+                },
+                {
+                  "value": 11
+                },
+                {
+                  "value": 12
+                },
+                {},
+                {
+                  "value": 1
+                },
+                {
+                  "value": 2
+                },
+                {
+                  "value": 3
+                },
+                {
+                  "value": 4
+                },
+                {
+                  "value": 5
+                },
+                {
+                  "value": 6
+                },
+                {
+                  "value": 7
+                },
+                {
+                  "value": 8
+                },
+                {
+                  "value": 9
+                },
+                {
+                  "value": 10
+                },
+                {
+                  "value": 11
+                },
+                {
+                  "value": 12
+                },
+                {},
+                {
+                  "value": 1
+                },
+                {
+                  "value": 2
+                },
+                {
+                  "value": 3
+                },
+                {
+                  "value": 4
+                },
+                {
+                  "value": 5
+                },
+                {
+                  "value": 6
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ox0003",
+      "bone": [
+        {
+          "inheritScale": false,
+          "name": "333333",
+          "transform": {
+            "x": 81,
+            "y": -71.8,
+            "scX": 0.5,
+            "scY": 0.5
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "3333",
+          "transform": {
+            "x": 15.7,
+            "y": -70.5,
+            "scX": 0.5,
+            "scY": 0.5
+          }
+        }
+      ],
+      "slot": [
+        {
+          "name": "333333",
+          "parent": "333333"
+        },
+        {
+          "name": "3333",
+          "parent": "3333"
+        }
+      ],
+      "skin": [
+        {
+          "slot": [
+            {
+              "name": "333333",
+              "display": [
+                {
+                  "name": "补间 1"
+                },
+                {
+                  "name": "补间 2"
+                },
+                {
+                  "name": "补间 3"
+                },
+                {
+                  "name": "补间 4"
+                }
+              ]
+            },
+            {
+              "name": "3333",
+              "display": [
+                {
+                  "name": "元件 25"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "animation": [
+        {
+          "duration": 33,
+          "name": "unnamed",
+          "bone": [
+            {
+              "name": "333333",
+              "translateFrame": [
+                {
+                  "duration": 2
+                },
+                {
+                  "duration": 2,
+                  "x": 0.25,
+                  "y": 0.05
+                },
+                {
+                  "duration": 2,
+                  "x": -0.05,
+                  "y": 0.2
+                },
+                {
+                  "duration": 2,
+                  "y": 0.1
+                },
+                {
+                  "duration": 2
+                },
+                {
+                  "duration": 2,
+                  "x": 0.25,
+                  "y": 0.05
+                },
+                {
+                  "duration": 2,
+                  "x": -0.05,
+                  "y": 0.2
+                },
+                {
+                  "duration": 2,
+                  "y": 0.1
+                },
+                {
+                  "duration": 2
+                },
+                {
+                  "duration": 2,
+                  "x": 0.25,
+                  "y": 0.05
+                },
+                {
+                  "duration": 2,
+                  "x": -0.05,
+                  "y": 0.2
+                },
+                {
+                  "duration": 2,
+                  "y": 0.1
+                },
+                {
+                  "duration": 2
+                },
+                {
+                  "duration": 2,
+                  "x": 0.25,
+                  "y": 0.05
+                },
+                {
+                  "duration": 2,
+                  "x": -0.05,
+                  "y": 0.2
+                },
+                {
+                  "duration": 2,
+                  "y": 0.1
+                },
+                {}
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 33
+                }
+              ]
+            },
+            {
+              "name": "3333",
+              "translateFrame": [
+                {
+                  "duration": 8,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 8,
+                  "tweenEasing": 0,
+                  "y": -2.5
+                },
+                {
+                  "duration": 8,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 8,
+                  "tweenEasing": 0,
+                  "y": -2.5
+                },
+                {
+                  "tweenEasing": 0
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 33
+                }
+              ]
+            }
+          ],
+          "slot": [
+            {
+              "name": "333333",
+              "displayFrame": [
+                {
+                  "duration": 2
+                },
+                {
+                  "duration": 2,
+                  "value": 1
+                },
+                {
+                  "duration": 2,
+                  "value": 2
+                },
+                {
+                  "duration": 2,
+                  "value": 3
+                },
+                {
+                  "duration": 2
+                },
+                {
+                  "duration": 2,
+                  "value": 1
+                },
+                {
+                  "duration": 2,
+                  "value": 2
+                },
+                {
+                  "duration": 2,
+                  "value": 3
+                },
+                {
+                  "duration": 2
+                },
+                {
+                  "duration": 2,
+                  "value": 1
+                },
+                {
+                  "duration": 2,
+                  "value": 2
+                },
+                {
+                  "duration": 2,
+                  "value": 3
+                },
+                {
+                  "duration": 2
+                },
+                {
+                  "duration": 2,
+                  "value": 1
+                },
+                {
+                  "duration": 2,
+                  "value": 2
+                },
+                {
+                  "duration": 2,
+                  "value": 3
+                },
+                {}
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "元件 7",
+      "bone": [
+        {
+          "inheritScale": false,
+          "name": "3",
+          "transform": {
+            "x": 24,
+            "y": 20.75
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "33",
+          "transform": {
+            "x": -3.45,
+            "y": 34.15,
+            "skX": 90,
+            "skY": 90
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "333",
+          "transform": {
+            "x": 35.35,
+            "y": 60.9
+          }
+        }
+      ],
+      "slot": [
+        {
+          "name": "3",
+          "parent": "3"
+        },
+        {
+          "name": "33",
+          "parent": "33"
+        },
+        {
+          "name": "333",
+          "parent": "333"
+        }
+      ],
+      "skin": [
+        {
+          "slot": [
+            {
+              "name": "3",
+              "display": [
+                {
+                  "name": "补间 8"
+                }
+              ]
+            },
+            {
+              "name": "33",
+              "display": [
+                {
+                  "name": "位图 46"
+                },
+                {
+                  "name": "位图 47"
+                },
+                {
+                  "name": "位图 48"
+                },
+                {
+                  "name": "位图 49"
+                },
+                {
+                  "name": "位图 50"
+                },
+                {
+                  "name": "位图 51"
+                },
+                {
+                  "name": "位图 52"
+                },
+                {
+                  "name": "位图 53"
+                },
+                {
+                  "name": "位图 54"
+                },
+                {
+                  "name": "位图 55"
+                },
+                {
+                  "name": "位图 56"
+                },
+                {
+                  "name": "位图 57"
+                },
+                {
+                  "name": "位图 58"
+                },
+                {
+                  "name": "位图 59"
+                },
+                {
+                  "name": "位图 60"
+                },
+                {
+                  "name": "位图 61"
+                },
+                {
+                  "name": "位图 62"
+                },
+                {
+                  "name": "位图 63"
+                },
+                {
+                  "name": "位图 64"
+                },
+                {
+                  "name": "位图 65"
+                },
+                {
+                  "name": "位图 66"
+                },
+                {
+                  "name": "位图 67"
+                },
+                {
+                  "name": "位图 68"
+                },
+                {
+                  "name": "位图 69"
+                },
+                {
+                  "name": "位图 70"
+                },
+                {
+                  "name": "位图 71"
+                },
+                {
+                  "name": "位图 72"
+                },
+                {
+                  "name": "位图 73"
+                },
+                {
+                  "name": "位图 74"
+                },
+                {
+                  "name": "位图 75"
+                },
+                {
+                  "name": "位图 76"
+                },
+                {
+                  "name": "位图 77"
+                },
+                {
+                  "name": "位图 78"
+                }
+              ]
+            },
+            {
+              "name": "333",
+              "display": [
+                {
+                  "name": "位图 29"
+                },
+                {
+                  "name": "位图 30"
+                },
+                {
+                  "name": "位图 31"
+                },
+                {
+                  "name": "位图 32"
+                },
+                {
+                  "name": "位图 33"
+                },
+                {
+                  "name": "位图 34"
+                },
+                {
+                  "name": "位图 35"
+                },
+                {
+                  "name": "位图 36"
+                },
+                {
+                  "name": "位图 37"
+                },
+                {
+                  "name": "位图 38"
+                },
+                {
+                  "name": "位图 39"
+                },
+                {
+                  "name": "位图 40"
+                },
+                {
+                  "name": "位图 41"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "animation": [
+        {
+          "duration": 33,
+          "name": "unnamed",
+          "bone": [
+            {
+              "name": "3",
+              "translateFrame": [
+                {
+                  "duration": 8,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 8,
+                  "tweenEasing": 0,
+                  "y": -2.5
+                },
+                {
+                  "duration": 8,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 8,
+                  "tweenEasing": 0,
+                  "y": -2.5
+                },
+                {
+                  "tweenEasing": 0
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 33
+                }
+              ]
+            },
+            {
+              "name": "33",
+              "translateFrame": [
+                {
+                  "duration": 3
+                },
+                {},
+                {
+                  "x": 21.45,
+                  "y": 11
+                },
+                {
+                  "duration": 4,
+                  "x": 33.8,
+                  "y": 11.05
+                },
+                {
+                  "x": 33.8,
+                  "y": 11.05
+                },
+                {
+                  "x": 45.2,
+                  "y": 7.4
+                },
+                {
+                  "x": 45.2,
+                  "y": 7.4
+                },
+                {
+                  "duration": 3,
+                  "x": 45.2,
+                  "y": 3.1
+                },
+                {
+                  "x": 45.2,
+                  "y": 3.1
+                },
+                {
+                  "x": 45.2,
+                  "y": 7.1
+                },
+                {
+                  "x": 90.8,
+                  "y": 7.1
+                },
+                {
+                  "duration": 3,
+                  "x": 91.3,
+                  "y": 7.5
+                },
+                {
+                  "x": 91.3,
+                  "y": 7.5
+                },
+                {
+                  "duration": 7,
+                  "x": 101.3,
+                  "y": 8
+                },
+                {
+                  "x": 101.3,
+                  "y": 8
+                },
+                {
+                  "x": 102.05,
+                  "y": 8
+                },
+                {
+                  "x": 102.05,
+                  "y": 8
+                },
+                {
+                  "x": 157.05,
+                  "y": 7.1
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 33
+                }
+              ]
+            },
+            {
+              "name": "333",
+              "translateFrame": [
+                {
+                  "duration": 4
+                },
+                {},
+                {
+                  "y": -7.5
+                },
+                {
+                  "duration": 3,
+                  "x": -2.7,
+                  "y": -6.1
+                },
+                {
+                  "x": -2.7,
+                  "y": -6.1
+                },
+                {
+                  "x": -2.7,
+                  "y": -13.6
+                },
+                {
+                  "x": -2.7,
+                  "y": -13.6
+                },
+                {
+                  "x": -2.7,
+                  "y": -21.1
+                },
+                {
+                  "duration": 4
+                },
+                {},
+                {
+                  "y": -7.5
+                },
+                {
+                  "duration": 3,
+                  "x": -2.7,
+                  "y": -6.1
+                },
+                {
+                  "x": -2.7,
+                  "y": -6.1
+                },
+                {
+                  "x": -2.7,
+                  "y": -13.6
+                },
+                {
+                  "x": -2.7,
+                  "y": -13.6
+                },
+                {
+                  "x": -2.7,
+                  "y": -21.1
+                },
+                {
+                  "duration": 4
+                },
+                {},
+                {
+                  "y": -7.5
+                },
+                {
+                  "x": -2.7,
+                  "y": -6.1
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 33
+                }
+              ]
+            }
+          ],
+          "slot": [
+            {
+              "name": "33",
+              "displayFrame": [
+                {},
+                {
+                  "value": 1
+                },
+                {
+                  "value": 2
+                },
+                {
+                  "value": 3
+                },
+                {
+                  "value": 4
+                },
+                {
+                  "value": 5
+                },
+                {
+                  "value": 6
+                },
+                {
+                  "value": 7
+                },
+                {
+                  "value": 8
+                },
+                {
+                  "value": 9
+                },
+                {
+                  "value": 10
+                },
+                {
+                  "value": 11
+                },
+                {
+                  "value": 12
+                },
+                {
+                  "value": 13
+                },
+                {
+                  "value": 14
+                },
+                {
+                  "value": 15
+                },
+                {
+                  "value": 16
+                },
+                {
+                  "value": 17
+                },
+                {
+                  "value": 18
+                },
+                {
+                  "value": 19
+                },
+                {
+                  "value": 20
+                },
+                {
+                  "value": 21
+                },
+                {
+                  "value": 22
+                },
+                {
+                  "value": 23
+                },
+                {
+                  "value": 24
+                },
+                {
+                  "value": 25
+                },
+                {
+                  "value": 26
+                },
+                {
+                  "value": 27
+                },
+                {
+                  "value": 28
+                },
+                {
+                  "value": 29
+                },
+                {
+                  "value": 30
+                },
+                {
+                  "value": 31
+                },
+                {
+                  "value": 32
+                }
+              ]
+            },
+            {
+              "name": "333",
+              "displayFrame": [
+                {},
+                {
+                  "value": 1
+                },
+                {
+                  "value": 2
+                },
+                {
+                  "value": 3
+                },
+                {
+                  "value": 4
+                },
+                {
+                  "value": 5
+                },
+                {
+                  "value": 6
+                },
+                {
+                  "value": 7
+                },
+                {
+                  "value": 8
+                },
+                {
+                  "value": 9
+                },
+                {
+                  "value": 10
+                },
+                {
+                  "value": 11
+                },
+                {
+                  "value": 12
+                },
+                {},
+                {
+                  "value": 1
+                },
+                {
+                  "value": 2
+                },
+                {
+                  "value": 3
+                },
+                {
+                  "value": 4
+                },
+                {
+                  "value": 5
+                },
+                {
+                  "value": 6
+                },
+                {
+                  "value": 7
+                },
+                {
+                  "value": 8
+                },
+                {
+                  "value": 9
+                },
+                {
+                  "value": 10
+                },
+                {
+                  "value": 11
+                },
+                {
+                  "value": 12
+                },
+                {},
+                {
+                  "value": 1
+                },
+                {
+                  "value": 2
+                },
+                {
+                  "value": 3
+                },
+                {
+                  "value": 4
+                },
+                {
+                  "value": 5
+                },
+                {
+                  "value": 6
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ox0004",
+      "bone": [
+        {
+          "inheritScale": false,
+          "name": "4444444",
+          "transform": {
+            "x": 12.85,
+            "y": -41.55,
+            "scX": 0.5,
+            "scY": 0.5
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "4444",
+          "transform": {
+            "x": 67.2,
+            "y": -25.45,
+            "scX": 0.5,
+            "scY": 0.5
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "444444",
+          "transform": {
+            "x": 42.2,
+            "y": -7.1,
+            "scX": 0.5,
+            "scY": 0.5
+          }
+        }
+      ],
+      "slot": [
+        {
+          "name": "4444444",
+          "parent": "4444444"
+        },
+        {
+          "name": "4444",
+          "parent": "4444"
+        },
+        {
+          "name": "444444",
+          "parent": "444444"
+        }
+      ],
+      "skin": [
+        {
+          "slot": [
+            {
+              "name": "4444444",
+              "display": [
+                {
+                  "name": "元件 29"
+                }
+              ]
+            },
+            {
+              "name": "4444",
+              "display": [
+                {
+                  "name": "补间 1"
+                },
+                {
+                  "name": "补间 2"
+                },
+                {
+                  "name": "补间 3"
+                },
+                {
+                  "name": "补间 4"
+                }
+              ]
+            },
+            {
+              "name": "444444",
+              "display": [
+                {
+                  "name": "补间 1"
+                },
+                {
+                  "name": "补间 2"
+                },
+                {
+                  "name": "补间 3"
+                },
+                {
+                  "name": "补间 4"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "animation": [
+        {
+          "duration": 33,
+          "name": "unnamed",
+          "bone": [
+            {
+              "name": "4444444",
+              "translateFrame": [
+                {
+                  "duration": 8,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 8,
+                  "tweenEasing": 0,
+                  "y": -1
+                },
+                {
+                  "duration": 8,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 8,
+                  "tweenEasing": 0,
+                  "y": -1
+                },
+                {
+                  "tweenEasing": 0
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 33
+                }
+              ]
+            },
+            {
+              "name": "4444",
+              "translateFrame": [
+                {
+                  "duration": 2
+                },
+                {
+                  "duration": 2,
+                  "x": 0.25,
+                  "y": 0.05
+                },
+                {
+                  "duration": 2,
+                  "x": -0.05,
+                  "y": 0.2
+                },
+                {
+                  "duration": 2,
+                  "y": 0.1
+                },
+                {
+                  "duration": 2
+                },
+                {
+                  "duration": 2,
+                  "x": 0.25,
+                  "y": 0.05
+                },
+                {
+                  "duration": 2,
+                  "x": -0.05,
+                  "y": 0.2
+                },
+                {
+                  "duration": 2,
+                  "y": 0.1
+                },
+                {
+                  "duration": 2
+                },
+                {
+                  "duration": 2,
+                  "x": 0.25,
+                  "y": 0.05
+                },
+                {
+                  "duration": 2,
+                  "x": -0.05,
+                  "y": 0.2
+                },
+                {
+                  "duration": 2,
+                  "y": 0.1
+                },
+                {
+                  "duration": 2
+                },
+                {
+                  "duration": 2,
+                  "x": 0.25,
+                  "y": 0.05
+                },
+                {
+                  "duration": 2,
+                  "x": -0.05,
+                  "y": 0.2
+                },
+                {
+                  "duration": 2,
+                  "y": 0.1
+                },
+                {}
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 33
+                }
+              ]
+            },
+            {
+              "name": "444444",
+              "translateFrame": [
+                {
+                  "duration": 2
+                },
+                {
+                  "duration": 2,
+                  "x": 0.25,
+                  "y": 0.05
+                },
+                {
+                  "duration": 2,
+                  "x": -0.05,
+                  "y": 0.2
+                },
+                {
+                  "duration": 2,
+                  "y": 0.1
+                },
+                {
+                  "duration": 2
+                },
+                {
+                  "duration": 2,
+                  "x": 0.25,
+                  "y": 0.05
+                },
+                {
+                  "duration": 2,
+                  "x": -0.05,
+                  "y": 0.2
+                },
+                {
+                  "duration": 2,
+                  "y": 0.1
+                },
+                {
+                  "duration": 2
+                },
+                {
+                  "duration": 2,
+                  "x": 0.25,
+                  "y": 0.05
+                },
+                {
+                  "duration": 2,
+                  "x": -0.05,
+                  "y": 0.2
+                },
+                {
+                  "duration": 2,
+                  "y": 0.1
+                },
+                {
+                  "duration": 2
+                },
+                {
+                  "duration": 2,
+                  "x": 0.25,
+                  "y": 0.05
+                },
+                {
+                  "duration": 2,
+                  "x": -0.05,
+                  "y": 0.2
+                },
+                {
+                  "duration": 2,
+                  "y": 0.1
+                },
+                {}
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 33
+                }
+              ]
+            }
+          ],
+          "slot": [
+            {
+              "name": "4444",
+              "displayFrame": [
+                {
+                  "duration": 2
+                },
+                {
+                  "duration": 2,
+                  "value": 1
+                },
+                {
+                  "duration": 2,
+                  "value": 2
+                },
+                {
+                  "duration": 2,
+                  "value": 3
+                },
+                {
+                  "duration": 2
+                },
+                {
+                  "duration": 2,
+                  "value": 1
+                },
+                {
+                  "duration": 2,
+                  "value": 2
+                },
+                {
+                  "duration": 2,
+                  "value": 3
+                },
+                {
+                  "duration": 2
+                },
+                {
+                  "duration": 2,
+                  "value": 1
+                },
+                {
+                  "duration": 2,
+                  "value": 2
+                },
+                {
+                  "duration": 2,
+                  "value": 3
+                },
+                {
+                  "duration": 2
+                },
+                {
+                  "duration": 2,
+                  "value": 1
+                },
+                {
+                  "duration": 2,
+                  "value": 2
+                },
+                {
+                  "duration": 2,
+                  "value": 3
+                },
+                {}
+              ]
+            },
+            {
+              "name": "444444",
+              "displayFrame": [
+                {
+                  "duration": 2
+                },
+                {
+                  "duration": 2,
+                  "value": 1
+                },
+                {
+                  "duration": 2,
+                  "value": 2
+                },
+                {
+                  "duration": 2,
+                  "value": 3
+                },
+                {
+                  "duration": 2
+                },
+                {
+                  "duration": 2,
+                  "value": 1
+                },
+                {
+                  "duration": 2,
+                  "value": 2
+                },
+                {
+                  "duration": 2,
+                  "value": 3
+                },
+                {
+                  "duration": 2
+                },
+                {
+                  "duration": 2,
+                  "value": 1
+                },
+                {
+                  "duration": 2,
+                  "value": 2
+                },
+                {
+                  "duration": 2,
+                  "value": 3
+                },
+                {
+                  "duration": 2
+                },
+                {
+                  "duration": 2,
+                  "value": 1
+                },
+                {
+                  "duration": 2,
+                  "value": 2
+                },
+                {
+                  "duration": 2,
+                  "value": 3
+                },
+                {}
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "元件 8",
+      "bone": [
+        {
+          "inheritScale": false,
+          "name": "4",
+          "transform": {
+            "x": 44.65,
+            "y": 19.7,
+            "scX": 0.5,
+            "scY": 0.5
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "44",
+          "transform": {
+            "x": 18.05,
+            "y": 14.95,
+            "skX": 135,
+            "skY": 135
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "444",
+          "transform": {
+            "x": 44.6,
+            "y": 70.65
+          }
+        }
+      ],
+      "slot": [
+        {
+          "name": "4",
+          "parent": "4"
+        },
+        {
+          "name": "44",
+          "parent": "44"
+        },
+        {
+          "name": "444",
+          "parent": "444"
+        }
+      ],
+      "skin": [
+        {
+          "slot": [
+            {
+              "name": "4",
+              "display": [
+                {
+                  "name": "元件 27"
+                }
+              ]
+            },
+            {
+              "name": "44",
+              "display": [
+                {
+                  "name": "位图 46"
+                },
+                {
+                  "name": "位图 47"
+                },
+                {
+                  "name": "位图 48"
+                },
+                {
+                  "name": "位图 49"
+                },
+                {
+                  "name": "位图 50"
+                },
+                {
+                  "name": "位图 51"
+                },
+                {
+                  "name": "位图 52"
+                },
+                {
+                  "name": "位图 53"
+                },
+                {
+                  "name": "位图 54"
+                },
+                {
+                  "name": "位图 55"
+                },
+                {
+                  "name": "位图 56"
+                },
+                {
+                  "name": "位图 57"
+                },
+                {
+                  "name": "位图 58"
+                },
+                {
+                  "name": "位图 59"
+                },
+                {
+                  "name": "位图 60"
+                },
+                {
+                  "name": "位图 61"
+                },
+                {
+                  "name": "位图 62"
+                },
+                {
+                  "name": "位图 63"
+                },
+                {
+                  "name": "位图 64"
+                },
+                {
+                  "name": "位图 65"
+                },
+                {
+                  "name": "位图 66"
+                },
+                {
+                  "name": "位图 67"
+                },
+                {
+                  "name": "位图 68"
+                },
+                {
+                  "name": "位图 69"
+                },
+                {
+                  "name": "位图 70"
+                },
+                {
+                  "name": "位图 71"
+                },
+                {
+                  "name": "位图 72"
+                },
+                {
+                  "name": "位图 73"
+                },
+                {
+                  "name": "位图 74"
+                },
+                {
+                  "name": "位图 75"
+                },
+                {
+                  "name": "位图 76"
+                },
+                {
+                  "name": "位图 77"
+                },
+                {
+                  "name": "位图 78"
+                }
+              ]
+            },
+            {
+              "name": "444",
+              "display": [
+                {
+                  "name": "位图 29"
+                },
+                {
+                  "name": "位图 30"
+                },
+                {
+                  "name": "位图 31"
+                },
+                {
+                  "name": "位图 32"
+                },
+                {
+                  "name": "位图 33"
+                },
+                {
+                  "name": "位图 34"
+                },
+                {
+                  "name": "位图 35"
+                },
+                {
+                  "name": "位图 36"
+                },
+                {
+                  "name": "位图 37"
+                },
+                {
+                  "name": "位图 38"
+                },
+                {
+                  "name": "位图 39"
+                },
+                {
+                  "name": "位图 40"
+                },
+                {
+                  "name": "位图 41"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "animation": [
+        {
+          "duration": 33,
+          "name": "unnamed",
+          "bone": [
+            {
+              "name": "4",
+              "translateFrame": [
+                {
+                  "duration": 8,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 8,
+                  "tweenEasing": 0,
+                  "y": -1
+                },
+                {
+                  "duration": 8,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 8,
+                  "tweenEasing": 0,
+                  "y": -1
+                },
+                {
+                  "tweenEasing": 0
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 33
+                }
+              ]
+            },
+            {
+              "name": "44",
+              "translateFrame": [
+                {
+                  "duration": 3
+                },
+                {},
+                {
+                  "x": 7.35,
+                  "y": 22.9
+                },
+                {
+                  "duration": 4,
+                  "x": 16.1,
+                  "y": 31.65
+                },
+                {
+                  "x": 16.1,
+                  "y": 31.65
+                },
+                {
+                  "x": 26.8,
+                  "y": 37.1
+                },
+                {
+                  "x": 26.8,
+                  "y": 37.1
+                },
+                {
+                  "duration": 3,
+                  "x": 29.8,
+                  "y": 34.05
+                },
+                {
+                  "x": 29.8,
+                  "y": 34.05
+                },
+                {
+                  "x": 27,
+                  "y": 36.9
+                },
+                {
+                  "x": 59.3,
+                  "y": 69.15
+                },
+                {
+                  "duration": 3,
+                  "x": 59.3,
+                  "y": 69.7
+                },
+                {
+                  "x": 59.3,
+                  "y": 69.7
+                },
+                {
+                  "duration": 7,
+                  "x": 66.05,
+                  "y": 77.15
+                },
+                {
+                  "x": 66.05,
+                  "y": 77.15
+                },
+                {
+                  "x": 66.55,
+                  "y": 77.75
+                },
+                {
+                  "x": 66.55,
+                  "y": 77.75
+                },
+                {
+                  "x": 106,
+                  "y": 116
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 33
+                }
+              ]
+            },
+            {
+              "name": "444",
+              "translateFrame": [
+                {
+                  "duration": 4
+                },
+                {},
+                {
+                  "y": -7.5
+                },
+                {
+                  "duration": 3,
+                  "x": -2.7,
+                  "y": -6.1
+                },
+                {
+                  "x": -2.7,
+                  "y": -6.1
+                },
+                {
+                  "x": -2.7,
+                  "y": -13.6
+                },
+                {
+                  "x": -2.7,
+                  "y": -13.6
+                },
+                {
+                  "x": -2.7,
+                  "y": -21.1
+                },
+                {
+                  "duration": 4
+                },
+                {},
+                {
+                  "y": -7.5
+                },
+                {
+                  "duration": 3,
+                  "x": -2.7,
+                  "y": -6.1
+                },
+                {
+                  "x": -2.7,
+                  "y": -6.1
+                },
+                {
+                  "x": -2.7,
+                  "y": -13.6
+                },
+                {
+                  "x": -2.7,
+                  "y": -13.6
+                },
+                {
+                  "x": -2.7,
+                  "y": -21.1
+                },
+                {
+                  "duration": 4
+                },
+                {},
+                {
+                  "y": -7.5
+                },
+                {
+                  "x": -2.7,
+                  "y": -6.1
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 33
+                }
+              ]
+            }
+          ],
+          "slot": [
+            {
+              "name": "44",
+              "displayFrame": [
+                {},
+                {
+                  "value": 1
+                },
+                {
+                  "value": 2
+                },
+                {
+                  "value": 3
+                },
+                {
+                  "value": 4
+                },
+                {
+                  "value": 5
+                },
+                {
+                  "value": 6
+                },
+                {
+                  "value": 7
+                },
+                {
+                  "value": 8
+                },
+                {
+                  "value": 9
+                },
+                {
+                  "value": 10
+                },
+                {
+                  "value": 11
+                },
+                {
+                  "value": 12
+                },
+                {
+                  "value": 13
+                },
+                {
+                  "value": 14
+                },
+                {
+                  "value": 15
+                },
+                {
+                  "value": 16
+                },
+                {
+                  "value": 17
+                },
+                {
+                  "value": 18
+                },
+                {
+                  "value": 19
+                },
+                {
+                  "value": 20
+                },
+                {
+                  "value": 21
+                },
+                {
+                  "value": 22
+                },
+                {
+                  "value": 23
+                },
+                {
+                  "value": 24
+                },
+                {
+                  "value": 25
+                },
+                {
+                  "value": 26
+                },
+                {
+                  "value": 27
+                },
+                {
+                  "value": 28
+                },
+                {
+                  "value": 29
+                },
+                {
+                  "value": 30
+                },
+                {
+                  "value": 31
+                },
+                {
+                  "value": 32
+                }
+              ]
+            },
+            {
+              "name": "444",
+              "displayFrame": [
+                {},
+                {
+                  "value": 1
+                },
+                {
+                  "value": 2
+                },
+                {
+                  "value": 3
+                },
+                {
+                  "value": 4
+                },
+                {
+                  "value": 5
+                },
+                {
+                  "value": 6
+                },
+                {
+                  "value": 7
+                },
+                {
+                  "value": 8
+                },
+                {
+                  "value": 9
+                },
+                {
+                  "value": 10
+                },
+                {
+                  "value": 11
+                },
+                {
+                  "value": 12
+                },
+                {},
+                {
+                  "value": 1
+                },
+                {
+                  "value": 2
+                },
+                {
+                  "value": 3
+                },
+                {
+                  "value": 4
+                },
+                {
+                  "value": 5
+                },
+                {
+                  "value": 6
+                },
+                {
+                  "value": 7
+                },
+                {
+                  "value": 8
+                },
+                {
+                  "value": 9
+                },
+                {
+                  "value": 10
+                },
+                {
+                  "value": 11
+                },
+                {
+                  "value": 12
+                },
+                {},
+                {
+                  "value": 1
+                },
+                {
+                  "value": 2
+                },
+                {
+                  "value": 3
+                },
+                {
+                  "value": 4
+                },
+                {
+                  "value": 5
+                },
+                {
+                  "value": 6
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

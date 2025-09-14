@@ -1,0 +1,915 @@
+{
+  "file": "pve_pet_yinzi_sheet.png",
+  "frames": {
+    "pvepetyinzi_level_jlbb_png": {
+      "x": 204,
+      "y": 1421,
+      "w": 73,
+      "h": 68,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 73,
+      "sourceH": 68
+    },
+    "pvepetyinzi_level_jlhf_png": {
+      "x": 128,
+      "y": 1421,
+      "w": 74,
+      "h": 68,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 74,
+      "sourceH": 68
+    },
+    "pvepetyinzi_level_rightbg_png": {
+      "x": 1533,
+      "y": 1,
+      "w": 303,
+      "h": 640,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 303,
+      "sourceH": 640
+    },
+    "pve_pet_yinzi_challenge_-_png": {
+      "x": 1496,
+      "y": 1110,
+      "w": 25,
+      "h": 29,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 25,
+      "sourceH": 29
+    },
+    "pve_pet_yinzi_challenge_btnblueadd_png": {
+      "x": 1496,
+      "y": 1167,
+      "w": 22,
+      "h": 22,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 22,
+      "sourceH": 22
+    },
+    "pve_pet_yinzi_challenge_btnContinue_png": {
+      "x": 1892,
+      "y": 1350,
+      "w": 134,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 134,
+      "sourceH": 46
+    },
+    "pve_pet_yinzi_challenge_btnGiveUp_png": {
+      "x": 766,
+      "y": 1351,
+      "w": 134,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 134,
+      "sourceH": 46
+    },
+    "pve_pet_yinzi_challenge_btnqueding_png": {
+      "x": 340,
+      "y": 1379,
+      "w": 134,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 134,
+      "sourceH": 46
+    },
+    "pve_pet_yinzi_challenge_btnsaodang_png": {
+      "x": 476,
+      "y": 1379,
+      "w": 134,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 134,
+      "sourceH": 46
+    },
+    "pve_pet_yinzi_challenge_btntiaozhan_png": {
+      "x": 1446,
+      "y": 1414,
+      "w": 134,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 134,
+      "sourceH": 46
+    },
+    "pve_pet_yinzi_challenge_chenhao_png": {
+      "x": 902,
+      "y": 1351,
+      "w": 45,
+      "h": 24,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 45,
+      "sourceH": 24
+    },
+    "pve_pet_yinzi_challenge_dese_png": {
+      "x": 767,
+      "y": 557,
+      "w": 764,
+      "h": 551,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 764,
+      "sourceH": 551
+    },
+    "pve_pet_yinzi_challenge_deyu_png": {
+      "x": 1,
+      "y": 1,
+      "w": 764,
+      "h": 554,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 764,
+      "sourceH": 554
+    },
+    "pve_pet_yinzi_challenge_diffTitle1_png": {
+      "x": 1759,
+      "y": 879,
+      "w": 74,
+      "h": 45,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 74,
+      "sourceH": 45
+    },
+    "pve_pet_yinzi_challenge_diffTitle2_png": {
+      "x": 1280,
+      "y": 1462,
+      "w": 74,
+      "h": 44,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 74,
+      "sourceH": 44
+    },
+    "pve_pet_yinzi_challenge_diffTitle3_png": {
+      "x": 664,
+      "y": 1446,
+      "w": 75,
+      "h": 44,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 75,
+      "sourceH": 44
+    },
+    "pve_pet_yinzi_challenge_easybg_png": {
+      "x": 1,
+      "y": 1238,
+      "w": 307,
+      "h": 123,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 307,
+      "sourceH": 123
+    },
+    "pve_pet_yinzi_challenge_hardbg_png": {
+      "x": 1,
+      "y": 1113,
+      "w": 307,
+      "h": 123,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 307,
+      "sourceH": 123
+    },
+    "pve_pet_yinzi_challenge_hellbg_png": {
+      "x": 310,
+      "y": 1113,
+      "w": 307,
+      "h": 123,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 307,
+      "sourceH": 123
+    },
+    "pve_pet_yinzi_challenge_img_di2_png": {
+      "x": 884,
+      "y": 1436,
+      "w": 183,
+      "h": 22,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 183,
+      "sourceH": 22
+    },
+    "pve_pet_yinzi_challenge_itembg1_png": {
+      "x": 1838,
+      "y": 1,
+      "w": 200,
+      "h": 261,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 200,
+      "sourceH": 261
+    },
+    "pve_pet_yinzi_challenge_itembg2_png": {
+      "x": 1838,
+      "y": 264,
+      "w": 200,
+      "h": 261,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 200,
+      "sourceH": 261
+    },
+    "pve_pet_yinzi_challenge_itembg3_png": {
+      "x": 1838,
+      "y": 527,
+      "w": 200,
+      "h": 261,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 200,
+      "sourceH": 261
+    },
+    "pve_pet_yinzi_challenge_jianchan_png": {
+      "x": 767,
+      "y": 1,
+      "w": 764,
+      "h": 554,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 764,
+      "sourceH": 554
+    },
+    "pve_pet_yinzi_challenge_jltz_png": {
+      "x": 963,
+      "y": 1460,
+      "w": 104,
+      "h": 31,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 104,
+      "sourceH": 31
+    },
+    "pve_pet_yinzi_challenge_kuang_png": {
+      "x": 1759,
+      "y": 643,
+      "w": 77,
+      "h": 77,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 77,
+      "sourceH": 77
+    },
+    "pve_pet_yinzi_challenge_kunnan_png": {
+      "x": 1,
+      "y": 557,
+      "w": 764,
+      "h": 554,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 764,
+      "sourceH": 554
+    },
+    "pve_pet_yinzi_challenge_line_png": {
+      "x": 108,
+      "y": 1496,
+      "w": 723,
+      "h": 2,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 723,
+      "sourceH": 2
+    },
+    "pve_pet_yinzi_challenge_sdfs_png": {
+      "x": 859,
+      "y": 1460,
+      "w": 102,
+      "h": 32,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 102,
+      "sourceH": 32
+    },
+    "pve_pet_yinzi_challenge_select2_png": {
+      "x": 1533,
+      "y": 643,
+      "w": 224,
+      "h": 288,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 224,
+      "sourceH": 288
+    },
+    "pve_pet_yinzi_challenge_selected_png": {
+      "x": 1533,
+      "y": 933,
+      "w": 323,
+      "h": 138,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 323,
+      "sourceH": 138
+    },
+    "pve_pet_yinzi_Diamond_png": {
+      "x": 1721,
+      "y": 1169,
+      "w": 98,
+      "h": 98,
+      "offX": 2,
+      "offY": 2,
+      "sourceW": 100,
+      "sourceH": 100
+    },
+    "pve_pet_yinzi_HEADBG_png": {
+      "x": 619,
+      "y": 1113,
+      "w": 102,
+      "h": 102,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 102,
+      "sourceH": 102
+    },
+    "pve_pet_yinzi_level_btncure_png": {
+      "x": 497,
+      "y": 1427,
+      "w": 60,
+      "h": 61,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 60,
+      "sourceH": 61
+    },
+    "pve_pet_yinzi_level_btnDone_png": {
+      "x": 1892,
+      "y": 1398,
+      "w": 134,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 134,
+      "sourceH": 46
+    },
+    "pve_pet_yinzi_level_btnpet_png": {
+      "x": 1759,
+      "y": 722,
+      "w": 61,
+      "h": 61,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 61,
+      "sourceH": 61
+    },
+    "pve_pet_yinzi_level_btnwait_png": {
+      "x": 748,
+      "y": 1399,
+      "w": 134,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 134,
+      "sourceH": 46
+    },
+    "pve_pet_yinzi_level_btnzhandou_png": {
+      "x": 1310,
+      "y": 1414,
+      "w": 134,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 134,
+      "sourceH": 46
+    },
+    "pve_pet_yinzi_level_cishudi_png": {
+      "x": 955,
+      "y": 1349,
+      "w": 373,
+      "h": 37,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 373,
+      "sourceH": 37
+    },
+    "pve_pet_yinzi_level_diff1_png": {
+      "x": 1858,
+      "y": 790,
+      "w": 186,
+      "h": 239,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 186,
+      "sourceH": 239
+    },
+    "pve_pet_yinzi_level_diff1locked_png": {
+      "x": 1858,
+      "y": 1031,
+      "w": 186,
+      "h": 239,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 186,
+      "sourceH": 239
+    },
+    "pve_pet_yinzi_level_diff2_png": {
+      "x": 1533,
+      "y": 1073,
+      "w": 186,
+      "h": 239,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 186,
+      "sourceH": 239
+    },
+    "pve_pet_yinzi_level_diff2locked_png": {
+      "x": 767,
+      "y": 1110,
+      "w": 186,
+      "h": 239,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 186,
+      "sourceH": 239
+    },
+    "pve_pet_yinzi_level_diff3_png": {
+      "x": 955,
+      "y": 1110,
+      "w": 186,
+      "h": 237,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 186,
+      "sourceH": 237
+    },
+    "pve_pet_yinzi_level_diff3locked_png": {
+      "x": 1143,
+      "y": 1110,
+      "w": 186,
+      "h": 237,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 186,
+      "sourceH": 237
+    },
+    "pve_pet_yinzi_level_done1_png": {
+      "x": 279,
+      "y": 1467,
+      "w": 105,
+      "h": 27,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 105,
+      "sourceH": 27
+    },
+    "pve_pet_yinzi_level_done2_png": {
+      "x": 1069,
+      "y": 1470,
+      "w": 105,
+      "h": 27,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 105,
+      "sourceH": 27
+    },
+    "pve_pet_yinzi_level_done3_png": {
+      "x": 1,
+      "y": 1471,
+      "w": 105,
+      "h": 27,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 105,
+      "sourceH": 27
+    },
+    "pve_pet_yinzi_level_dz_done_png": {
+      "x": 1892,
+      "y": 1272,
+      "w": 113,
+      "h": 76,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 113,
+      "sourceH": 76
+    },
+    "pve_pet_yinzi_level_dz_enter_png": {
+      "x": 1721,
+      "y": 1272,
+      "w": 169,
+      "h": 173,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 169,
+      "sourceH": 173
+    },
+    "pve_pet_yinzi_level_dz_wait_png": {
+      "x": 1721,
+      "y": 1073,
+      "w": 128,
+      "h": 94,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 128,
+      "sourceH": 94
+    },
+    "pve_pet_yinzi_level_enter1_png": {
+      "x": 1709,
+      "y": 1447,
+      "w": 116,
+      "h": 28,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 116,
+      "sourceH": 28
+    },
+    "pve_pet_yinzi_level_enter2_png": {
+      "x": 1892,
+      "y": 1446,
+      "w": 116,
+      "h": 28,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 116,
+      "sourceH": 28
+    },
+    "pve_pet_yinzi_level_enter3_png": {
+      "x": 741,
+      "y": 1447,
+      "w": 116,
+      "h": 28,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 116,
+      "sourceH": 28
+    },
+    "pve_pet_yinzi_level_line1_png": {
+      "x": 1582,
+      "y": 1414,
+      "w": 125,
+      "h": 49,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 125,
+      "sourceH": 49
+    },
+    "pve_pet_yinzi_level_line2_png": {
+      "x": 1,
+      "y": 1421,
+      "w": 125,
+      "h": 48,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 125,
+      "sourceH": 48
+    },
+    "pve_pet_yinzi_level_selected_png": {
+      "x": 1331,
+      "y": 1110,
+      "w": 163,
+      "h": 224,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 163,
+      "sourceH": 224
+    },
+    "pve_pet_yinzi_level_title_1_png": {
+      "x": 1175,
+      "y": 1436,
+      "w": 103,
+      "h": 32,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 103,
+      "sourceH": 32
+    },
+    "pve_pet_yinzi_level_title_2_png": {
+      "x": 559,
+      "y": 1446,
+      "w": 103,
+      "h": 32,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 103,
+      "sourceH": 32
+    },
+    "pve_pet_yinzi_level_title_3_png": {
+      "x": 1069,
+      "y": 1436,
+      "w": 104,
+      "h": 32,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 104,
+      "sourceH": 32
+    },
+    "pve_pet_yinzi_level_wait1_png": {
+      "x": 1685,
+      "y": 1477,
+      "w": 107,
+      "h": 22,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 107,
+      "sourceH": 22
+    },
+    "pve_pet_yinzi_level_wait2_png": {
+      "x": 1884,
+      "y": 1476,
+      "w": 107,
+      "h": 22,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 107,
+      "sourceH": 22
+    },
+    "pve_pet_yinzi_level_wait3_png": {
+      "x": 1461,
+      "y": 1462,
+      "w": 111,
+      "h": 27,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 111,
+      "sourceH": 27
+    },
+    "pve_pet_yinzi_main_14Year_png": {
+      "x": 1759,
+      "y": 790,
+      "w": 87,
+      "h": 87,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 87,
+      "sourceH": 87
+    },
+    "pve_pet_yinzi_main_14Year_btn2_png": {
+      "x": 677,
+      "y": 1309,
+      "w": 87,
+      "h": 87,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 87,
+      "sourceH": 87
+    },
+    "pve_pet_yinzi_main_btnback_png": {
+      "x": 723,
+      "y": 1113,
+      "w": 39,
+      "h": 48,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 39,
+      "sourceH": 48
+    },
+    "pve_pet_yinzi_main_btnDuihuan_png": {
+      "x": 902,
+      "y": 1388,
+      "w": 134,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 134,
+      "sourceH": 46
+    },
+    "pve_pet_yinzi_main_btnget_png": {
+      "x": 1038,
+      "y": 1388,
+      "w": 134,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 134,
+      "sourceH": 46
+    },
+    "pve_pet_yinzi_main_btninfo_png": {
+      "x": 1574,
+      "y": 1465,
+      "w": 54,
+      "h": 55,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 54,
+      "sourceH": 55
+    },
+    "pve_pet_yinzi_main_btnqianzhi_png": {
+      "x": 1618,
+      "y": 1314,
+      "w": 76,
+      "h": 76,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 76,
+      "sourceH": 76
+    },
+    "pve_pet_yinzi_main_btnsaodang_png": {
+      "x": 1174,
+      "y": 1388,
+      "w": 134,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 134,
+      "sourceH": 46
+    },
+    "pve_pet_yinzi_main_btnsc_png": {
+      "x": 1630,
+      "y": 1465,
+      "w": 53,
+      "h": 56,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 53,
+      "sourceH": 56
+    },
+    "pve_pet_yinzi_main_btntiaozhan_png": {
+      "x": 612,
+      "y": 1398,
+      "w": 134,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 134,
+      "sourceH": 46
+    },
+    "pve_pet_yinzi_main_btnysc_png": {
+      "x": 1827,
+      "y": 1447,
+      "w": 55,
+      "h": 56,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 55,
+      "sourceH": 56
+    },
+    "pve_pet_yinzi_main_diwujineng_png": {
+      "x": 1176,
+      "y": 1470,
+      "w": 51,
+      "h": 54,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 51,
+      "sourceH": 54
+    },
+    "pve_pet_yinzi_main_line_png": {
+      "x": 1,
+      "y": 1500,
+      "w": 508,
+      "h": 2,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 508,
+      "sourceH": 2
+    },
+    "pve_pet_yinzi_main_nenglibg_png": {
+      "x": 407,
+      "y": 1427,
+      "w": 88,
+      "h": 54,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 88,
+      "sourceH": 54
+    },
+    "pve_pet_yinzi_main_spbg_png": {
+      "x": 310,
+      "y": 1309,
+      "w": 365,
+      "h": 68,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 365,
+      "sourceH": 68
+    },
+    "pve_pet_yinzi_main_spbg_2_png": {
+      "x": 310,
+      "y": 1238,
+      "w": 440,
+      "h": 69,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 440,
+      "sourceH": 69
+    },
+    "pve_pet_yinzi_main_tag_png": {
+      "x": 1,
+      "y": 1379,
+      "w": 337,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 337,
+      "sourceH": 40
+    },
+    "pve_pet_yinzi_main_top_png": {
+      "x": 1331,
+      "y": 1336,
+      "w": 285,
+      "h": 76,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 285,
+      "sourceH": 76
+    },
+    "pve_pet_yinzi_main_yiduihuan_png": {
+      "x": 279,
+      "y": 1427,
+      "w": 126,
+      "h": 38,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 126,
+      "sourceH": 38
+    },
+    "pve_pet_yinzi_main_yzgk_png": {
+      "x": 1356,
+      "y": 1462,
+      "w": 103,
+      "h": 31,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 103,
+      "sourceH": 31
+    },
+    "pve_pet_yinzi_main_zstx_png": {
+      "x": 1229,
+      "y": 1470,
+      "w": 47,
+      "h": 39,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 47,
+      "sourceH": 39
+    },
+    "pve_pet_yinzi_type1_png": {
+      "x": 1821,
+      "y": 1169,
+      "w": 19,
+      "h": 24,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 19,
+      "sourceH": 24
+    },
+    "pve_pet_yinzi_type2_png": {
+      "x": 1496,
+      "y": 1191,
+      "w": 18,
+      "h": 24,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 18,
+      "sourceH": 24
+    },
+    "pve_pet_yinzi_type3_png": {
+      "x": 1835,
+      "y": 904,
+      "w": 19,
+      "h": 24,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 19,
+      "sourceH": 24
+    },
+    "pve_pet_yinzi_type4_png": {
+      "x": 1835,
+      "y": 879,
+      "w": 20,
+      "h": 23,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 20,
+      "sourceH": 23
+    },
+    "pve_pet_yinzi_type5_png": {
+      "x": 1821,
+      "y": 1195,
+      "w": 18,
+      "h": 24,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 18,
+      "sourceH": 24
+    },
+    "pve_pet_yinzi_type6_png": {
+      "x": 1496,
+      "y": 1141,
+      "w": 30,
+      "h": 24,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 30,
+      "sourceH": 24
+    },
+    "pve_pet_yinzi_wancheng_png": {
+      "x": 723,
+      "y": 1163,
+      "w": 41,
+      "h": 41,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 41,
+      "sourceH": 41
+    }
+  }
+}

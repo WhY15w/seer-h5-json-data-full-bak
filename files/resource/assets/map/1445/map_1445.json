@@ -1,0 +1,35 @@
+{
+  "resources": [
+    {
+      "type": "json",
+      "url": "1445.json",
+      "name": "road_1445"
+    },
+    {
+      "type": "text",
+      "url": "Map1445Skin.exml",
+      "name": "exml_1445"
+    },
+    {
+      "type": "image",
+      "url": "map_1445_bg_mc.jpg",
+      "name": "map_1445_bg_mc_jpg"
+    },
+    {
+      "type": "image",
+      "url": "map_1445_door.png",
+      "name": "map_1445_door_png"
+    },
+    {
+      "type": "image",
+      "url": "map_1445_depth_mc.png",
+      "name": "map_1445_depth_mc_png"
+    }
+  ],
+  "groups": [
+    {
+      "keys": "road_1445,exml_1445,map_1445_bg_mc_jpg,map_1445_door_png,map_1445_depth_mc_png",
+      "name": "map_1445"
+    }
+  ]
+}

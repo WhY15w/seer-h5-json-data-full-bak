@@ -1,0 +1,46 @@
+{
+  "groups": [
+    {
+      "name": "king_gaia",
+      "keys": "king_gaia_sheet,wanggaiya_atlas,wanggaiya_json,kg_mainpanel_bg_png,kg_panel1_bg_jpg,kg_panel2_bg_jpg,wanggaiya_png"
+    }
+  ],
+  "resources": [
+    {
+      "name": "wanggaiya_atlas",
+      "type": "text",
+      "url": "king_gaia/outside/wanggaiya.atlas"
+    },
+    {
+      "name": "wanggaiya_json",
+      "type": "json",
+      "url": "king_gaia/outside/wanggaiya.json"
+    },
+    {
+      "name": "kg_mainpanel_bg_png",
+      "type": "image",
+      "url": "king_gaia/outside/kg_mainpanel_bg.png"
+    },
+    {
+      "name": "kg_panel1_bg_jpg",
+      "type": "image",
+      "url": "king_gaia/outside/kg_panel1_bg.jpg"
+    },
+    {
+      "name": "kg_panel2_bg_jpg",
+      "type": "image",
+      "url": "king_gaia/outside/kg_panel2_bg.jpg"
+    },
+    {
+      "name": "wanggaiya_png",
+      "type": "image",
+      "url": "king_gaia/outside/wanggaiya.png"
+    },
+    {
+      "name": "king_gaia_sheet",
+      "type": "sheet",
+      "url": "king_gaia/king_gaia_sheet.json",
+      "subkeys": "kg_mainpanel_btnadd_png,kg_mainpanel_btncollect_png,kg_mainpanel_btncollected_png,kg_mainpanel_btninfo_png,kg_mainpanel_btninfo111_kb_2_png,kg_mainpanel_btninfo11_yhjp_png,kg_mainpanel_btninfo1_zzhd_png,kg_mainpanel_btnjuexing_png,kg_mainpanel_duihuan_png,kg_mainpanel_juxing_904_png,kg_mainpanel_juxing_908_png,kg_mainpanel_jx_908_kb_png,kg_mainpanel_lift_png,kg_mainpanel_title_png,kg_mainpanel_title1_png,kg_mainpanel_title5_png,kg_mainpanel_tuceng_18_png,kg_mainpanel_wanggaiya_png,kg_mainpanel_xz_18_png,kg_mainpanel_xz_18_kb_png,kg_mainpanel_yihuode_png,kg_onekeypop_bg_png,kg_onekeypop_btnadd_png,kg_onekeypop_btnbuy_png,kg_onekeypop_btnclose_png,kg_onekeypop_juxing_904_png,kg_onekeypop_title_png,kg_onekeypop_txtbg_png,kg_onekeypop_xz_1_png,kg_onekeypop_zu_1_png,kg_panel1_btnexchange_png,kg_panel1_btnjihuo_png,kg_panel1_btntiaozhan_png,kg_panel1_dbx_1_png,kg_panel1_jd_zndxz_png,kg_panel1_jindude1_png,kg_panel1_jlbb_png,kg_panel1_jlhf_png,kg_panel1_juxing_904_png,kg_panel1_jx_9041_png,kg_panel1_jx_9042_png,kg_panel1_jx_90421_kb_3_png,kg_panel1_jx_90422_kb_3_png,kg_panel1_jx_9042_kb_2_png,kg_panel1_jx_904_kb_png,kg_panel1_jx_904_kb_2_png,kg_panel1_tc_21_kb_png,kg_panel1_tc_22_kb_png,kg_panel1_tc_23_kb_png,kg_panel1_tipsbg_png,kg_panel1_title_png,kg_panel1_tuceng_18_png,kg_panel1_tuceng_21_png,kg_panel1_tuceng_22_png,kg_panel1_tuceng_23_png,kg_panel1_tuceng_24_png,kg_panel1_tuoyuan_1_png,kg_panel1_tuoyuan_2_png,kg_panel1_tux_png,kg_panel1_tzjd_png,kg_panel1_wzzx_png,kg_panel1_yijihuo_png,kg_panel1_zu_6_png,kg_panel2_3142_png,kg_panel2_3162_png,kg_panel2_3170_png,kg_panel2_3183_png,kg_panel2_3190_png,kg_panel2_3194_png,kg_panel2_3205_png,kg_panel2_3214_png,kg_panel2_btnadd_png,kg_panel2_btnjihuo_png,kg_panel2_btnonekey_png,kg_panel2_btntiaozhan_png,kg_panel2_di_png,kg_panel2_diwu_png,kg_panel2_diwujineng_png,kg_panel2_down1_png,kg_panel2_down2_png,kg_panel2_down3_png,kg_panel2_down4_png,kg_panel2_jindu_png,kg_panel2_juxing_904_png,kg_panel2_juxing_92_png,kg_panel2_jx_9042_png,kg_panel2_jx_9042_kb_png,kg_panel2_jx_9042_kb_2_png,kg_panel2_jx_9045_png,kg_panel2_kangxing_png,kg_panel2_keyin_png,kg_panel2_texing_png,kg_panel2_tipsbg_png,kg_panel2_title_png,kg_panel2_tuceng_15_png,kg_panel2_tuceng_16_png,kg_panel2_up1_png,kg_panel2_up2_png,kg_panel2_up3_png,kg_panel2_up4_png,kg_panel2_xz_18_png,kg_panel2_zstx_png,kg_panel2_zu_38_png,kg_winpop_btnclose_png,kg_winpop_dikuang_png,kg_winpop_jiangpai1_png,kg_winpop_jiangpai2_png,kg_winpop_jiangpai3_png,kg_winpop_jx_9043_png,kg_winpop_sljl_png,kg_winpop_title_kb_png,kg_winpop_zgpf_png,kg_winpop_zuijiajilu_png,kg_winpop_zu_11_png,kg_winpop_zu_18_png,kg_winpop_zu_19_png"
+    }
+  ]
+}

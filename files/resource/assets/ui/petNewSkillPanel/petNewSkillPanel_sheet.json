@@ -1,0 +1,255 @@
+{
+  "file": "petNewSkillPanel_sheet.png",
+  "frames": {
+    "imgtoopbg_png": {
+      "x": 495,
+      "y": 317,
+      "w": 407,
+      "h": 37,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 407,
+      "sourceH": 37
+    },
+    "new_skill_panel_img_btn_changeSkill_png": {
+      "x": 1,
+      "y": 346,
+      "w": 154,
+      "h": 44,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 154,
+      "sourceH": 44
+    },
+    "new_skill_panel_img_btn_OK_png": {
+      "x": 768,
+      "y": 194,
+      "w": 154,
+      "h": 44,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 154,
+      "sourceH": 44
+    },
+    "new_skill_panel_s9_1_png": {
+      "x": 495,
+      "y": 1,
+      "w": 452,
+      "h": 191,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 452,
+      "sourceH": 191
+    },
+    "new_skill_panel_s9_2_png": {
+      "x": 1,
+      "y": 1,
+      "w": 492,
+      "h": 343,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 492,
+      "sourceH": 343
+    },
+    "new_skill_panel_skill_icon_bg_png": {
+      "x": 904,
+      "y": 317,
+      "w": 100,
+      "h": 100,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 100,
+      "sourceH": 100
+    },
+    "new_tips_2021_11_btnchange_png": {
+      "x": 924,
+      "y": 194,
+      "w": 90,
+      "h": 25,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 90,
+      "sourceH": 25
+    },
+    "new_tips_2021_11_img1_png": {
+      "x": 992,
+      "y": 81,
+      "w": 3,
+      "h": 98,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 3,
+      "sourceH": 98
+    },
+    "new_tips_2021_11_img2_png": {
+      "x": 1016,
+      "y": 81,
+      "w": 3,
+      "h": 212,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 3,
+      "sourceH": 212
+    },
+    "new_tips_2021_11_img3_png": {
+      "x": 949,
+      "y": 57,
+      "w": 74,
+      "h": 22,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 74,
+      "sourceH": 22
+    },
+    "new_tips_2021_11_img4_png": {
+      "x": 1005,
+      "y": 1,
+      "w": 7,
+      "h": 33,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 7,
+      "sourceH": 33
+    },
+    "new_tips_2021_11_img5_png": {
+      "x": 1005,
+      "y": 36,
+      "w": 12,
+      "h": 12,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 12,
+      "sourceH": 12
+    },
+    "new_tips_2021_11_img7_png": {
+      "x": 949,
+      "y": 1,
+      "w": 54,
+      "h": 54,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 54,
+      "sourceH": 54
+    },
+    "new_tips_2021_11_imgnewskill_png": {
+      "x": 495,
+      "y": 272,
+      "w": 457,
+      "h": 43,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 457,
+      "sourceH": 43
+    },
+    "pet_info_manual_tag1_png": {
+      "x": 894,
+      "y": 240,
+      "w": 40,
+      "h": 17,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 40,
+      "sourceH": 17
+    },
+    "pet_info_manual_tag2_png": {
+      "x": 924,
+      "y": 221,
+      "w": 40,
+      "h": 17,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 40,
+      "sourceH": 17
+    },
+    "pet_info_manual_tag3_png": {
+      "x": 852,
+      "y": 240,
+      "w": 40,
+      "h": 17,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 40,
+      "sourceH": 17
+    },
+    "pet_info_manual_tag4_png": {
+      "x": 949,
+      "y": 120,
+      "w": 41,
+      "h": 17,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 41,
+      "sourceH": 17
+    },
+    "pet_info_manual_tag5_png": {
+      "x": 949,
+      "y": 158,
+      "w": 40,
+      "h": 17,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 40,
+      "sourceH": 17
+    },
+    "pet_info_manual_tag6_png": {
+      "x": 949,
+      "y": 139,
+      "w": 41,
+      "h": 17,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 41,
+      "sourceH": 17
+    },
+    "pet_info_manual_tag7_png": {
+      "x": 966,
+      "y": 221,
+      "w": 40,
+      "h": 17,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 40,
+      "sourceH": 17
+    },
+    "pet_info_manual_tag8_png": {
+      "x": 768,
+      "y": 240,
+      "w": 40,
+      "h": 17,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 40,
+      "sourceH": 17
+    },
+    "pet_info_manual_tag9_png": {
+      "x": 810,
+      "y": 240,
+      "w": 40,
+      "h": 17,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 40,
+      "sourceH": 17
+    },
+    "ppim_info_icon_attr_png": {
+      "x": 949,
+      "y": 81,
+      "w": 33,
+      "h": 37,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 33,
+      "sourceH": 37
+    },
+    "ppim_info_skill_item_bg1_png": {
+      "x": 495,
+      "y": 194,
+      "w": 271,
+      "h": 76,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 271,
+      "sourceH": 76
+    }
+  }
+}

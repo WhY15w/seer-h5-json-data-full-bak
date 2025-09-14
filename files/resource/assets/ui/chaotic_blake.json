@@ -1,0 +1,101 @@
+{
+  "groups": [
+    {
+      "name": "chaotic_blake",
+      "keys": "chaotic_blake_sheet,hundunbulaike_atlas,hundunbulaike_json,cb_mainpanel_3539_png,cb_mainpanel_bg_jpg,cb_panel1_bg_jpg,cb_panel2_xz_18_png,cb_panel5_1525_png,cb_panel5_1596_png,cb_panel5_1602_png,cb_panel5_2149_png,cb_panel5_2237_png,cb_panel5_2289_png,cb_panel5_2459_png,cb_panel5_2597_png,cb_panel5_2639_png,cb_panel5_3387_png,hundunbulaike_png"
+    }
+  ],
+  "resources": [
+    {
+      "name": "hundunbulaike_atlas",
+      "type": "text",
+      "url": "chaotic_blake/outside/hundunbulaike.atlas"
+    },
+    {
+      "name": "hundunbulaike_json",
+      "type": "json",
+      "url": "chaotic_blake/outside/hundunbulaike.json"
+    },
+    {
+      "name": "cb_mainpanel_3539_png",
+      "type": "image",
+      "url": "chaotic_blake/outside/cb_mainpanel_3539.png"
+    },
+    {
+      "name": "cb_mainpanel_bg_jpg",
+      "type": "image",
+      "url": "chaotic_blake/outside/cb_mainpanel_bg.jpg"
+    },
+    {
+      "name": "cb_panel1_bg_jpg",
+      "type": "image",
+      "url": "chaotic_blake/outside/cb_panel1_bg.jpg"
+    },
+    {
+      "name": "cb_panel2_xz_18_png",
+      "type": "image",
+      "url": "chaotic_blake/outside/cb_panel2_xz_18.png"
+    },
+    {
+      "name": "cb_panel5_1525_png",
+      "type": "image",
+      "url": "chaotic_blake/outside/cb_panel5_1525.png"
+    },
+    {
+      "name": "cb_panel5_1596_png",
+      "type": "image",
+      "url": "chaotic_blake/outside/cb_panel5_1596.png"
+    },
+    {
+      "name": "cb_panel5_1602_png",
+      "type": "image",
+      "url": "chaotic_blake/outside/cb_panel5_1602.png"
+    },
+    {
+      "name": "cb_panel5_2149_png",
+      "type": "image",
+      "url": "chaotic_blake/outside/cb_panel5_2149.png"
+    },
+    {
+      "name": "cb_panel5_2237_png",
+      "type": "image",
+      "url": "chaotic_blake/outside/cb_panel5_2237.png"
+    },
+    {
+      "name": "cb_panel5_2289_png",
+      "type": "image",
+      "url": "chaotic_blake/outside/cb_panel5_2289.png"
+    },
+    {
+      "name": "cb_panel5_2459_png",
+      "type": "image",
+      "url": "chaotic_blake/outside/cb_panel5_2459.png"
+    },
+    {
+      "name": "cb_panel5_2597_png",
+      "type": "image",
+      "url": "chaotic_blake/outside/cb_panel5_2597.png"
+    },
+    {
+      "name": "cb_panel5_2639_png",
+      "type": "image",
+      "url": "chaotic_blake/outside/cb_panel5_2639.png"
+    },
+    {
+      "name": "cb_panel5_3387_png",
+      "type": "image",
+      "url": "chaotic_blake/outside/cb_panel5_3387.png"
+    },
+    {
+      "name": "hundunbulaike_png",
+      "type": "image",
+      "url": "chaotic_blake/outside/hundunbulaike.png"
+    },
+    {
+      "name": "chaotic_blake_sheet",
+      "type": "sheet",
+      "url": "chaotic_blake/chaotic_blake_sheet.json",
+      "subkeys": "cb_mainpanel_btn1_png,cb_mainpanel_btn2_png,cb_mainpanel_btn3_png,cb_mainpanel_btnadd_png,cb_mainpanel_btncollect_png,cb_mainpanel_btncollected_png,cb_mainpanel_btnduihuan__png,cb_mainpanel_btninfo_png,cb_mainpanel_btnonekey_png,cb_mainpanel_btnup_png,cb_mainpanel_bulaike_png,cb_mainpanel_duihuanbg_png,cb_mainpanel_icon_png,cb_mainpanel_mingri_png,cb_mainpanel_tag_png,cb_mainpanel_title_png,cb_mainpanel_title1_png,cb_mainpanel_title2_png,cb_mainpanel_title3_png,cb_mainpanel_title4_png,cb_mainpanel_title5_png,cb_mainpanel_yihuode_png,cb_mainpanel_yiwancheng_png,cb_panel1_1_png,cb_panel1_2_png,cb_panel1_3_png,cb_panel1_4_png,cb_panel1_btnfight_png,cb_panel1_jibai_png,cb_panel1_jlbb_png,cb_panel1_jlhf_png,cb_panel1_jzdhx_png,cb_panel1_tipsbg_png,cb_panel1_yjzs_png,cb_panel2_btnchouqu_png,cb_panel2_btntiaozhan_png,cb_panel2_btnyijian_png,cb_panel2_jzdhx_png,cb_panel2_kuang_png,cb_panel2_tipsbg_png,cb_panel2_xuanzhong_png,cb_panel2_yijibai_png,cb_panel3pop_bg4_png,cb_panel3pop_btnclose_png,cb_panel3pop_dajiang_png,cb_panel3pop_icon_png,cb_panel3pop_img1_png,cb_panel3pop_img2_png,cb_panel3pop_img3_png,cb_panel3pop_img4_png,cb_panel3pop_juxing_16_png,cb_panel3pop_no_png,cb_panel3pop_smallicon_png,cb_panel3pop_yhgg_png,cb_panel3pop_yunqibucuo_png,cb_panel3_3392_png,cb_panel3_3442_png,cb_panel3_3446_png,cb_panel3_3464_png,cb_panel3_3516_png,cb_panel3_btnfangqi_png,cb_panel3_btnOnekey_png,cb_panel3_dizuo_png,cb_panel3_hddxz_png,cb_panel3_hundunzhi_png,cb_panel3_jindu1_png,cb_panel3_jindu2_png,cb_panel3_jindude1_png,cb_panel3_jindude2_png,cb_panel3_lizhizhi_png,cb_panel3_txtbg_png,cb_panel3_txtbg2_png,cb_panel3_weizhi_png,cb_panel4_11_png,cb_panel4_22_png,cb_panel4_33_png,cb_panel4_44_png,cb_panel4_jibai_png,cb_panel4_lmdyy_png,cb_panel5_1715442_png,cb_panel5_btnadd_png,cb_panel5_btnduihuan_png,cb_panel5_btnjixu_png,cb_panel5_btnkaishi_png,cb_panel5_cishudi_png,cb_panel5_di_png,cb_panel5_diwujineng_png,cb_panel5_juxing_913_png,cb_panel5_kuang_png,cb_panel5_nljj_png,cb_panel5_title1_png,cb_panel5_title2_png,cb_panel5_title3_png,cb_panel5_tuceng_35_png,cb_panel5_txtbg_png,cb_panel5_zstx_png,chaoticBlakepanel2Pop_3115da_png,chaoticBlakepanel2Pop_bg4_png,chaoticBlakepanel2Pop_close_png,chaoticBlakepanel2Pop_fxsmyds_png"
+    }
+  ]
+}

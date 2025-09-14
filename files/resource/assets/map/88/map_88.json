@@ -1,0 +1,35 @@
+{
+  "groups": [
+    {
+      "keys": "road_88,exml_88,map_88_bg_mc_jpg,map_88_mubei_png,map_88_control_mc_png",
+      "name": "map_88"
+    }
+  ],
+  "resources": [
+    {
+      "type": "json",
+      "url": "88.json",
+      "name": "road_88"
+    },
+    {
+      "type": "text",
+      "url": "Map88Skin.exml",
+      "name": "exml_88"
+    },
+    {
+      "type": "image",
+      "url": "map_88_bg_mc.jpg",
+      "name": "map_88_bg_mc_jpg"
+    },
+    {
+      "type": "image",
+      "url": "map_88_mubei.png",
+      "name": "map_88_mubei_png"
+    },
+    {
+      "type": "image",
+      "url": "map_88_control_mc.png",
+      "name": "map_88_control_mc_png"
+    }
+  ]
+}

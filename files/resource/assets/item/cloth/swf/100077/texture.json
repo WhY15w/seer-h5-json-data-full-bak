@@ -1,0 +1,76 @@
+{
+  "SubTexture": [
+    {
+      "name": "ar0",
+      "x": 22,
+      "width": 21,
+      "y": 25,
+      "height": 28
+    },
+    {
+      "name": "ar1",
+      "x": 85,
+      "width": 37,
+      "y": 29,
+      "height": 28
+    },
+    {
+      "name": "ar2",
+      "x": 47,
+      "width": 37,
+      "y": 0,
+      "height": 32
+    },
+    {
+      "name": "arm",
+      "x": 62,
+      "width": 15,
+      "y": 48,
+      "height": 14
+    },
+    {
+      "name": "ar3",
+      "x": 0,
+      "width": 21,
+      "y": 25,
+      "height": 45
+    },
+    {
+      "name": "arm-0",
+      "x": 22,
+      "width": 16,
+      "y": 54,
+      "height": 13
+    },
+    {
+      "name": "arm4",
+      "x": 0,
+      "width": 46,
+      "y": 0,
+      "height": 24
+    },
+    {
+      "name": "arm-1",
+      "x": 62,
+      "width": 17,
+      "y": 33,
+      "height": 14
+    },
+    {
+      "name": "ar5",
+      "x": 85,
+      "width": 38,
+      "y": 0,
+      "height": 28
+    },
+    {
+      "name": "ar6",
+      "x": 44,
+      "width": 17,
+      "y": 33,
+      "height": 20
+    }
+  ],
+  "name": 100077,
+  "imagePath": "texture.png"
+}

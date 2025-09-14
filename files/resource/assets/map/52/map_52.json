@@ -1,0 +1,30 @@
+{
+  "resources": [
+    {
+      "type": "json",
+      "url": "52.json",
+      "name": "road_52"
+    },
+    {
+      "type": "image",
+      "url": "map_52_bg_mc.png",
+      "name": "map_52_bg_mc_png"
+    },
+    {
+      "type": "image",
+      "url": "map_52_flower.png",
+      "name": "map_52_flower_png"
+    },
+    {
+      "name": "exml_52",
+      "type": "text",
+      "url": "Map52Skin.exml"
+    }
+  ],
+  "groups": [
+    {
+      "keys": "road_52,map_52_bg_mc_png,map_52_flower_png,exml_52",
+      "name": "map_52"
+    }
+  ]
+}

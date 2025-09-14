@@ -1,0 +1,36 @@
+{
+  "groups": [
+    {
+      "name": "fusion_monster",
+      "keys": "fusion_monster_sheet,fusion_monster_bg_jpg,fusion_monster_imgpet_png,fusion_monster_imgtext_png,fusion_monster_pop_imgbg_jpg"
+    }
+  ],
+  "resources": [
+    {
+      "name": "fusion_monster_bg_jpg",
+      "type": "image",
+      "url": "fusion_monster/outside/fusion_monster_bg.jpg"
+    },
+    {
+      "name": "fusion_monster_imgpet_png",
+      "type": "image",
+      "url": "fusion_monster/outside/fusion_monster_imgpet.png"
+    },
+    {
+      "name": "fusion_monster_imgtext_png",
+      "type": "image",
+      "url": "fusion_monster/outside/fusion_monster_imgtext.png"
+    },
+    {
+      "name": "fusion_monster_pop_imgbg_jpg",
+      "type": "image",
+      "url": "fusion_monster/outside/fusion_monster_pop_imgbg.jpg"
+    },
+    {
+      "name": "fusion_monster_sheet",
+      "type": "sheet",
+      "url": "fusion_monster/fusion_monster_sheet.json",
+      "subkeys": "fusion_monster_btnchallenge_png,fusion_monster_btnrank_png,fusion_monster_imgbottom_png,fusion_monster_imgend_png,fusion_monster_imgover_png,fusion_monster_imgrightbottom_png,fusion_monster_imgtime_png,fusion_monster_imgtitle_png,fusion_monster_item_imgbg_png,fusion_monster_pop_btnclose_png,fusion_monster_pop_btnhelp_png,fusion_monster_pop_btnstart_png,fusion_monster_pop_imgBox1_png,fusion_monster_pop_imgBox2_png,fusion_monster_pop_imgBox3_png,fusion_monster_pop_imgBox4_png,fusion_monster_pop_imgBox5_png,fusion_monster_pop_imgcure_png,fusion_monster_pop_imgpet_png,fusion_monster_pop_imgrank_png,fusion_monster_pop_imgreward_png,fusion_monster_changgui_png,fusion_monster_mingzide_png,fusion_monster_yichoudao_png"
+    }
+  ]
+}

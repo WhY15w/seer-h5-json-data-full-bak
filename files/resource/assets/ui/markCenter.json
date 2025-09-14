@@ -1,0 +1,41 @@
+{
+  "groups": [
+    {
+      "name": "markCenter",
+      "keys": "markCenter_sheet,markcenter_help_pop_contentbg_kb_png,markcenter_help_pop_left_di_png,markcenter_help_pop_page3_png,markcenter_help_pop_zu_28_png,markcenter_main_panel_bg_jpg"
+    }
+  ],
+  "resources": [
+    {
+      "name": "markcenter_help_pop_contentbg_kb_png",
+      "type": "image",
+      "url": "markCenter/outside/markcenter_help_pop_contentbg_kb.png"
+    },
+    {
+      "name": "markcenter_help_pop_left_di_png",
+      "type": "image",
+      "url": "markCenter/outside/markcenter_help_pop_left_di.png"
+    },
+    {
+      "name": "markcenter_help_pop_page3_png",
+      "type": "image",
+      "url": "markCenter/outside/markcenter_help_pop_page3.png"
+    },
+    {
+      "name": "markcenter_help_pop_zu_28_png",
+      "type": "image",
+      "url": "markCenter/outside/markcenter_help_pop_zu_28.png"
+    },
+    {
+      "name": "markcenter_main_panel_bg_jpg",
+      "type": "image",
+      "url": "markCenter/outside/markcenter_main_panel_bg.jpg"
+    },
+    {
+      "name": "markCenter_sheet",
+      "type": "sheet",
+      "url": "markCenter/markCenter_sheet.json",
+      "subkeys": "gemslectpop_juxing_17_png,gemslectpop_jx_17_kb_3_png,gemslectpop_jx_18_kb_png,gemslectpop_progress_png,gemslectpop_progress_di_png,gemSynthesisDetail_arrow_png,gemSynthesisDetail_btnClose_png,gemSynthesisDetail_mixAll_png,gemSynthesisDetail_mixOne_png,gem_detail_gem_line_png,gem_detail_imgInlay_png,gem_detail_imgMix_png,gem_list_cat_bg_png,gem_list_img_cat_png,gem_mix_detail_KeYinBaoShiHeCheng_png,markcenter_dbx_773_png,markcenter_gemUpPop_barbg_png,markcenter_gemUpPop_progressBar_png,markcenter_gemUpPop_Slider_png,markcenter_gem_panel_btn3down_png,markcenter_gem_panel_btn3up_png,markcenter_gem_panel_btnChong_png,markcenter_gem_panel_btnfen_png,markcenter_gem_panel_btnRong_png,markcenter_gem_panel_info_bg_png,markcenter_gem_up_pop_btnjia_png,markcenter_gem_up_pop_btnjian_png,markcenter_gem_up_pop_max_png,markcenter_gem_up_pop_searchbg_png,markcenter_gem_up_pop_title1_png,markcenter_gem_up_pop_title2_png,markcenter_gem_up_pop_title3_png,markcenter_gem_up_pop_title4_png,markcenter_gem_up_pop_txt_pethecheng_png,markcenter_help_pop_close_png,markcenter_help_pop_erdai_png,markcenter_help_pop_page2di_png,markcenter_help_pop_rb1down_png,markcenter_help_pop_rb1up_png,markcenter_help_pop_rb2down_png,markcenter_help_pop_rb2up_png,markcenter_help_pop_rb3down_png,markcenter_help_pop_rb3up_png,markcenter_help_pop_title_png,markcenter_help_pop_yidai_png,markcenter_main_panel_btnback_png,markcenter_main_panel_down_di_png,markcenter_main_panel_left1_png,markcenter_main_panel_title_png,markcenter_main_panel_top_png,markcenter_mark_panel_baoshi_png,markcenter_mark_panel_btn1down_png,markcenter_mark_panel_btn1up_png,markcenter_mark_panel_btn2down_png,markcenter_mark_panel_btn2up_png,markcenter_mark_panel_btn3down_png,markcenter_mark_panel_btn3up_png,markcenter_mark_panel_btn4down_png,markcenter_mark_panel_btn4up_png,markcenter_mark_panel_btnadd_png,markcenter_mark_panel_btnBack_png,markcenter_mark_panel_btnsearch_png,markcenter_mark_panel_btnSelect_png,markcenter_mark_panel_detailline_png,markcenter_mark_panel_empty_tip_png,markcenter_mark_panel_gemstoneicon_png,markcenter_mark_panel_iconbg_png,markcenter_mark_panel_imgdecompose_png,markcenter_mark_panel_imggemcenter_png,markcenter_mark_panel_imglvlup_png,markcenter_mark_panel_img_di2_png,markcenter_mark_panel_info_bg_png,markcenter_mark_panel_itembg_png,markcenter_mark_panel_item_bg_png,markcenter_mark_panel_keyin_png,markcenter_mark_panel_kuang_png,markcenter_mark_panel_markbg_png,markcenter_mark_panel_png_detailline_png,markcenter_mark_panel_searchbg_png,markcenter_mark_set_bsxk_png,markcenter_mark_set_btnerdown_png,markcenter_mark_set_btnerup_png,markcenter_mark_set_btnyidown_png,markcenter_mark_set_btnyiup_png,markcenter_mark_set_close_png,markcenter_mark_set_contentbg_kb_png,markcenter_mark_set_detailline_kb_2_png,markcenter_mark_set_zu_38_png,markcenter_tuceng_191_png,markselectpop_btncancel_png,markselectpop_btncomfirm_png,markselectpop_btndefault_png,markselectpop_gou_png,markselectpop_jx_17_kb_3_png,markselectpop_searchbg_png,markselectpop_xz_1_png,markuppop_juxing_10_png,markuppop_kysj_png,markuppop_txtlabel_png,markuppop_txtlabel1_png,markuppop_txtlabel2_png,mark_center_1400352_png,mark_center_imgDecompose_png,mark_center_imgGem_png,mark_center_imgGemBg_png,mark_center_imgGemCenter_png,mark_center_imgLvlup_png,mark_center_imgSearch_png,mark_center_pet_detailedInfo_bg_png,mark_center_select_png,mark_center_selected_bg_png,mark_center_select_btnPaixu_png,mark_center_select_btnQuxiao_png,mark_center_sure_png,mark_center_title_png,mark_item_bg_png,mark_item_name_bg_png,mark_up_btnUpAll_png,mark_up_btnUpOne_png,rarity_rect_0_png,rarity_rect_1_png,rarity_rect_2_png,rarity_rect_3_png,rarity_rect_4_png,rarity_rect_5_png,rarity_rect_6_png"
+    }
+  ]
+}

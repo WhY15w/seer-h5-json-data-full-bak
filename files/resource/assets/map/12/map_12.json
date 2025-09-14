@@ -1,0 +1,55 @@
+{
+  "groups": [
+    {
+      "keys": "road_12,exml_12,map_12_tengq5_png,map_12_bg_mc_jpg,map_12_control_mc_png,map_12_tengq1_png,map_12_tengq2_png,map_12_tengq4_png,map_12_tengq3_png",
+      "name": "map_12"
+    }
+  ],
+  "resources": [
+    {
+      "type": "json",
+      "url": "12.json",
+      "name": "road_12"
+    },
+    {
+      "type": "text",
+      "url": "Map12Skin.exml",
+      "name": "exml_12"
+    },
+    {
+      "type": "image",
+      "url": "map_12_tengq5.png",
+      "name": "map_12_tengq5_png"
+    },
+    {
+      "type": "image",
+      "url": "map_12_bg_mc.jpg",
+      "name": "map_12_bg_mc_jpg"
+    },
+    {
+      "type": "image",
+      "url": "map_12_control_mc.png",
+      "name": "map_12_control_mc_png"
+    },
+    {
+      "type": "image",
+      "url": "map_12_tengq1.png",
+      "name": "map_12_tengq1_png"
+    },
+    {
+      "type": "image",
+      "url": "map_12_tengq2.png",
+      "name": "map_12_tengq2_png"
+    },
+    {
+      "type": "image",
+      "url": "map_12_tengq4.png",
+      "name": "map_12_tengq4_png"
+    },
+    {
+      "type": "image",
+      "url": "map_12_tengq3.png",
+      "name": "map_12_tengq3_png"
+    }
+  ]
+}

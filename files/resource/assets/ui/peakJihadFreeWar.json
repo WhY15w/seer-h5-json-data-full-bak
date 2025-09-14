@@ -1,0 +1,36 @@
+{
+  "groups": [
+    {
+      "name": "peakJihadFreeWar",
+      "keys": "peakJihadFreeWar_sheet,peakjihadcreatearoompanel_right_bg1_png,peakjihadroompanel_bg_jpg,peakjihadroompanel_img2_png,peakjihadroompanel_select_png"
+    }
+  ],
+  "resources": [
+    {
+      "name": "peakjihadcreatearoompanel_right_bg1_png",
+      "type": "image",
+      "url": "peakJihadFreeWar/outside/peakjihadcreatearoompanel_right_bg1.png"
+    },
+    {
+      "name": "peakjihadroompanel_bg_jpg",
+      "type": "image",
+      "url": "peakJihadFreeWar/outside/peakjihadroompanel_bg.jpg"
+    },
+    {
+      "name": "peakjihadroompanel_img2_png",
+      "type": "image",
+      "url": "peakJihadFreeWar/outside/peakjihadroompanel_img2.png"
+    },
+    {
+      "name": "peakjihadroompanel_select_png",
+      "type": "image",
+      "url": "peakJihadFreeWar/outside/peakjihadroompanel_select.png"
+    },
+    {
+      "name": "peakJihadFreeWar_sheet",
+      "type": "sheet",
+      "url": "peakJihadFreeWar/peakJihadFreeWar_sheet.json",
+      "subkeys": "PeakJihadCreateARoomPanel_blacktoMainBtn_png,PeakJihadCreateARoomPanel_check_down_png,PeakJihadCreateARoomPanel_check_down1_png,PeakJihadCreateARoomPanel_check_up_png,PeakJihadCreateARoomPanel_check_up1_png,PeakJihadCreateARoomPanel_creatRoomBtn_png,PeakJihadCreateARoomPanel_img_duizhanguize_png,PeakJihadCreateARoomPanel_img_duizhanmoshi_png,PeakJihadCreateARoomPanel_img_peipeimoshi_png,peakjihadcreatearoompanel_leftbg_png,PeakJihadCreateARoomPanel_name_bg_png,PeakJihadCreateARoomPanel_right_bg_png,PeakJihadCreateARoomPanel_title_chuangjianfangjian_png,peakJihadFreeWar_arrow_png,peakJihadFreeWar_timerBg_png,peakJihadFreeWar_title_tiaofangzhu_png,peakJihadFreeWar_title_tiaozhanzhe_png,PeakJihadRoomPanel_blacktoMainBtn_png,PeakJihadRoomPanel_chatBg_png,PeakJihadRoomPanel_chatBtn_png,PeakJihadRoomPanel_checkDown_png,PeakJihadRoomPanel_checkUp_png,peakjihadroompanel_dibu_png,peakjihadroompanel_ima_1_png,peakjihadroompanel_ima_2_png,PeakJihadRoomPanel_kickedChallengerBtn_png,peakjihadroompanel_numbg_png,PeakJihadRoomPanel_readyBtn_png,PeakJihadRoomPanel_readyPng_png,PeakJihadRoomPanel_settingTeamBtn_0_png,PeakJihadRoomPanel_startBtn_png,PeakJihadRoomPanel_sysPg_png,PeakJihadRoomPanel_title_png"
+    }
+  ]
+}

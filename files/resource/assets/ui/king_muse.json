@@ -1,0 +1,46 @@
+{
+  "groups": [
+    {
+      "name": "king_muse",
+      "keys": "king_muse_sheet,km_mainpanel_bg_jpg,km_panel2_bg_jpg,km_panel2_levelbg_png,km_panel3_bg_jpg,km_panel3_levelbg_png,km_panel4_levelbg_png"
+    }
+  ],
+  "resources": [
+    {
+      "name": "km_mainpanel_bg_jpg",
+      "type": "image",
+      "url": "king_muse/outside/km_mainpanel_bg.jpg"
+    },
+    {
+      "name": "km_panel2_bg_jpg",
+      "type": "image",
+      "url": "king_muse/outside/km_panel2_bg.jpg"
+    },
+    {
+      "name": "km_panel2_levelbg_png",
+      "type": "image",
+      "url": "king_muse/outside/km_panel2_levelbg.png"
+    },
+    {
+      "name": "km_panel3_bg_jpg",
+      "type": "image",
+      "url": "king_muse/outside/km_panel3_bg.jpg"
+    },
+    {
+      "name": "km_panel3_levelbg_png",
+      "type": "image",
+      "url": "king_muse/outside/km_panel3_levelbg.png"
+    },
+    {
+      "name": "km_panel4_levelbg_png",
+      "type": "image",
+      "url": "king_muse/outside/km_panel4_levelbg.png"
+    },
+    {
+      "name": "king_muse_sheet",
+      "type": "sheet",
+      "url": "king_muse/king_muse_sheet.json",
+      "subkeys": "km_bar_gk_1db_kb_5_png,km_bar_gk_1db_kb_5Se_png,km_bar_jindu_png,km_bar_juxing_13_png,km_bar_juxing_778_png,km_bar_xzzt1_2_kb_png,km_exchangepop_1710511_png,km_exchangepop_1710512_png,km_exchangepop_1710513_png,km_exchangepop_1710513_kb_png,km_exchangepop_axc_png,km_exchangepop_btnadd_png,km_exchangepop_btnhecheng_png,km_exchangepop_btntiaozhan_png,km_exchangepop_juxing_914_png,km_exchangepop_jx_911_kb_2_png,km_exchangepop_pet_png,km_exchangepop_zu_119_png,km_mainpanel_ad_png,km_mainpanel_btndiscount_png,km_mainpanel_btnexchange_png,km_mainpanel_btninfo_png,km_mainpanel_btnopen_png,km_mainpanel_btnsuper_png,km_mainpanel_btnup_png,km_mainpanel_jx_3_kb_2_png,km_mainpanel_lihui_png,km_mainpanel_title_png,km_mainpanel_yihuode_png,km_mainpanel_zczs_png,km_mainpanel_zu_125_png,km_mainpanel_zu_66_png,km_mainpane_bulaike_muse_png,km_mainpane_title1_png,km_mainpane_title2_png,km_mainpane_title3_png,km_mainpane_title5_png,km_mainpane_title6_png,km_main_btncollect_png,km_main_btncollected_png,km_onekey_btnbuy_png,km_onekey_zu_124_png,km_onekey_zu_126_png,km_panel1_btnexcgange_png,km_panel1_btnhecheng_png,km_panel1_btnopen_png,km_panel1_juxing_904_png,km_panel1_jx_904_kb_png,km_panel1_jx_911_kb_2_png,km_panel1_jx_914_kb_5_png,km_panel1_tipsbg_png,km_panel1_zu_124_png,km_panel1_zu_125_png,km_panel1_zu_126_png,km_panel1_zu_77_png,km_panel2_1710511_png,km_panel2_btnFight_png,km_panel2_bt_kb_3_png,km_panel2_dishi_png,km_panel2_gk_1db_png,km_panel2_gk_2db_png,km_panel2_gk_2dbSe_png,km_panel2_jiantou_1_png,km_panel2_jiantou_2_png,km_panel2_jiantou_3_png,km_panel2_jiantou_4_png,km_panel2_jlbb_png,km_panel2_jlhf_png,km_panel2_jx_912_kb_4_png,km_panel2_wxzzt_2_png,km_panel2_xzzt_2_png,km_panel2_xz_1211_kb_2_png,km_panel2_yitongguo_png,km_panel2_yjjb_png,km_panel2_zu_122_png,km_panel2_z_211_kb_2_png,km_panel3_1710512_png,km_panel3_bt_kb_png,km_panel3_dishi_png,km_panel3_gk_2db_png,km_panel3_gk_2dbSe_png,km_panel3_jiantou_1_png,km_panel3_jiantou_2_png,km_panel3_jiantou_3_png,km_panel3_jiantou_4_png,km_panel3_jlbb_png,km_panel3_jlhf_png,km_panel3_wxzzt_2_png,km_panel3_xzzt_2_png,km_panel3_xz_121_kb_png,km_panel3_yitongguo_png,km_panel3_zu_21_png,km_panel3_zu_84_png,km_panel4_1710513_png,km_panel4_bt_kb_png,km_panel4_dishi_png,km_panel4_jiantou_2_png,km_panel4_jiantou_3_png,km_panel4_jlbb_png,km_panel4_jlhf_png,km_panel4_wxzzt_1_png,km_panel4_xz_1211_kb_2_png,km_panel4_yitongguo_png,km_panel4_yjqs_png,km_panel4_zu_84_png,km_panel4_z_212_kb_2_png,km_panel6_1710543_png,km_panel6_1710543_kb_png,km_panel6_2699_png,km_panel6_2847_png,km_panel6_3074_png,km_panel6_407171_png,km_panel6_btnadd_png,km_panel6_btnexchange_png,km_panel6_btnonekey_png,km_panel6_btntiaozhan_png,km_panel6_bt_kb_2_png,km_panel6_diwujineng_png,km_panel6_icon_gold_png,km_panel6_juxing_1_png,km_panel6_juxing_904_png,km_panel6_juxing_908_png,km_panel6_juxing_909_png,km_panel6_jx_907_kb_png,km_panel6_jx_908_kb_png,km_panel6_pet1_png,km_panel6_pet2_png,km_panel6_pet3_png,km_panel6_te_png,km_panel6_wu_png,km_panel6_xz_18_png,km_panel6_zsky_png,km_panel6_zstx_png,km_rewardpop_bcwhdjl_png,km_rewardpop_bg4_png,km_rewardpop_bljl_png,km_rewardpop_btntiaozhan_png,km_rewardpop_close1_png,km_rewardpop_kuang_png,km_rewardpop_pfdb_png,km_rewardpop_rwjs_png,km_rewardpop_s_png,km_rewardpop_ss_png,km_rewardpop_sss_png,km_rewardpop_z_45_kb_4_png"
+    }
+  ]
+}

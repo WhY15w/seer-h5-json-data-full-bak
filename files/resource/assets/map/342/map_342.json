@@ -1,0 +1,90 @@
+{
+  "groups": [
+    {
+      "keys": "road_342,exml_342,map_342_bg_mc_jpg,map_342_zhuzi1_png,map_342_yinying2_png,map_342_wuti1_png,map_342_xianrenzzzz_png,map_342_zhuzi123_png,map_342_zhuzi12_png,map_342_zhuaziziz_png,map_342_yinying3_png,map_342_hong01_png,map_342_di2_png,map_342_wupin2_png,map_342_di1_png,map_342_control_mc_png",
+      "name": "map_342"
+    }
+  ],
+  "resources": [
+    {
+      "type": "json",
+      "url": "342.json",
+      "name": "road_342"
+    },
+    {
+      "type": "text",
+      "url": "Map342Skin.exml",
+      "name": "exml_342"
+    },
+    {
+      "type": "image",
+      "url": "map_342_bg_mc.jpg",
+      "name": "map_342_bg_mc_jpg"
+    },
+    {
+      "type": "image",
+      "url": "map_342_zhuzi1.png",
+      "name": "map_342_zhuzi1_png"
+    },
+    {
+      "type": "image",
+      "url": "map_342_yinying2.png",
+      "name": "map_342_yinying2_png"
+    },
+    {
+      "type": "image",
+      "url": "map_342_wuti1.png",
+      "name": "map_342_wuti1_png"
+    },
+    {
+      "type": "image",
+      "url": "map_342_xianrenzzzz.png",
+      "name": "map_342_xianrenzzzz_png"
+    },
+    {
+      "type": "image",
+      "url": "map_342_zhuzi123.png",
+      "name": "map_342_zhuzi123_png"
+    },
+    {
+      "type": "image",
+      "url": "map_342_zhuzi12.png",
+      "name": "map_342_zhuzi12_png"
+    },
+    {
+      "type": "image",
+      "url": "map_342_zhuaziziz.png",
+      "name": "map_342_zhuaziziz_png"
+    },
+    {
+      "type": "image",
+      "url": "map_342_yinying3.png",
+      "name": "map_342_yinying3_png"
+    },
+    {
+      "type": "image",
+      "url": "map_342_hong01.png",
+      "name": "map_342_hong01_png"
+    },
+    {
+      "type": "image",
+      "url": "map_342_di2.png",
+      "name": "map_342_di2_png"
+    },
+    {
+      "type": "image",
+      "url": "map_342_wupin2.png",
+      "name": "map_342_wupin2_png"
+    },
+    {
+      "type": "image",
+      "url": "map_342_di1.png",
+      "name": "map_342_di1_png"
+    },
+    {
+      "type": "image",
+      "url": "map_342_control_mc.png",
+      "name": "map_342_control_mc_png"
+    }
+  ]
+}

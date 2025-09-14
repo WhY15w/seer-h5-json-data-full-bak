@@ -1,0 +1,445 @@
+{
+  "file": "pve_jiehuang_sheet.png",
+  "frames": {
+    "pve_jiehuang_btnBag_png": {
+      "x": 327,
+      "y": 530,
+      "w": 74,
+      "h": 74,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 74,
+      "sourceH": 74
+    },
+    "pve_jiehuang_btnBuy_0_png": {
+      "x": 614,
+      "y": 298,
+      "w": 275,
+      "h": 68,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 275,
+      "sourceH": 68
+    },
+    "pve_jiehuang_btnBuy_1_png": {
+      "x": 1,
+      "y": 353,
+      "w": 275,
+      "h": 68,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 275,
+      "sourceH": 68
+    },
+    "pve_jiehuang_btnClose_png": {
+      "x": 60,
+      "y": 557,
+      "w": 56,
+      "h": 56,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 56,
+      "sourceH": 56
+    },
+    "pve_jiehuang_btnEvo_0_png": {
+      "x": 456,
+      "y": 353,
+      "w": 87,
+      "h": 175,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 87,
+      "sourceH": 175
+    },
+    "pve_jiehuang_btnEvo_1_png": {
+      "x": 367,
+      "y": 353,
+      "w": 87,
+      "h": 175,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 87,
+      "sourceH": 175
+    },
+    "pve_jiehuang_btnFight_0_png": {
+      "x": 775,
+      "y": 171,
+      "w": 228,
+      "h": 68,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 228,
+      "sourceH": 68
+    },
+    "pve_jiehuang_btnFight_1_png": {
+      "x": 545,
+      "y": 368,
+      "w": 216,
+      "h": 68,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 216,
+      "sourceH": 68
+    },
+    "pve_jiehuang_btnInfo_0_png": {
+      "x": 403,
+      "y": 530,
+      "w": 74,
+      "h": 74,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 74,
+      "sourceH": 74
+    },
+    "pve_jiehuang_btnInfo_1_png": {
+      "x": 479,
+      "y": 542,
+      "w": 74,
+      "h": 74,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 74,
+      "sourceH": 74
+    },
+    "pve_jiehuang_btnPlus_png": {
+      "x": 940,
+      "y": 55,
+      "w": 34,
+      "h": 34,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 34,
+      "sourceH": 34
+    },
+    "pve_jiehuang_btnRule_png": {
+      "x": 555,
+      "y": 542,
+      "w": 74,
+      "h": 74,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 74,
+      "sourceH": 74
+    },
+    "pve_jiehuang_btnUp_0_png": {
+      "x": 891,
+      "y": 241,
+      "w": 87,
+      "h": 175,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 87,
+      "sourceH": 175
+    },
+    "pve_jiehuang_btnUp_1_png": {
+      "x": 278,
+      "y": 353,
+      "w": 87,
+      "h": 175,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 87,
+      "sourceH": 175
+    },
+    "pve_jiehuang_flag_got_0_png": {
+      "x": 452,
+      "y": 93,
+      "w": 264,
+      "h": 76,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 264,
+      "sourceH": 76
+    },
+    "pve_jiehuang_flag_got_1_png": {
+      "x": 718,
+      "y": 93,
+      "w": 264,
+      "h": 76,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 264,
+      "sourceH": 76
+    },
+    "pve_jiehuang_powerup_btnBuy_png": {
+      "x": 165,
+      "y": 530,
+      "w": 160,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 160,
+      "sourceH": 40
+    },
+    "pve_jiehuang_powerup_btnFast_png": {
+      "x": 545,
+      "y": 490,
+      "w": 174,
+      "h": 50,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 174,
+      "sourceH": 50
+    },
+    "pve_jiehuang_powerup_btnFight_png": {
+      "x": 839,
+      "y": 1,
+      "w": 176,
+      "h": 52,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 176,
+      "sourceH": 52
+    },
+    "pve_jiehuang_powerup_btnFreeze_png": {
+      "x": 775,
+      "y": 241,
+      "w": 110,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 110,
+      "sourceH": 40
+    },
+    "pve_jiehuang_powerup_btnGet_png": {
+      "x": 1,
+      "y": 513,
+      "w": 162,
+      "h": 42,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 162,
+      "sourceH": 42
+    },
+    "pve_jiehuang_powerup_btnPlus_png": {
+      "x": 984,
+      "y": 99,
+      "w": 26,
+      "h": 26,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 26,
+      "sourceH": 26
+    },
+    "pve_jiehuang_powerup_fire_png": {
+      "x": 980,
+      "y": 241,
+      "w": 40,
+      "h": 52,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 40,
+      "sourceH": 52
+    },
+    "pve_jiehuang_powerup_firebg_png": {
+      "x": 1,
+      "y": 1,
+      "w": 836,
+      "h": 90,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 836,
+      "sourceH": 90
+    },
+    "pve_jiehuang_powerup_fire_dark_png": {
+      "x": 984,
+      "y": 55,
+      "w": 31,
+      "h": 42,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 31,
+      "sourceH": 42
+    },
+    "pve_jiehuang_powerup_flag_got_png": {
+      "x": 868,
+      "y": 504,
+      "w": 110,
+      "h": 57,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 110,
+      "sourceH": 57
+    },
+    "pve_jiehuang_powerup_iconbg_png": {
+      "x": 1,
+      "y": 93,
+      "w": 449,
+      "h": 135,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 449,
+      "sourceH": 135
+    },
+    "pve_jiehuang_powerup_icon_characteristic_png": {
+      "x": 688,
+      "y": 171,
+      "w": 64,
+      "h": 56,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 64,
+      "sourceH": 56
+    },
+    "pve_jiehuang_powerup_icon_skill_png": {
+      "x": 732,
+      "y": 556,
+      "w": 57,
+      "h": 60,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 57,
+      "sourceH": 60
+    },
+    "pve_jiehuang_powerup_icon_token_png": {
+      "x": 850,
+      "y": 563,
+      "w": 54,
+      "h": 51,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 54,
+      "sourceH": 51
+    },
+    "pve_jiehuang_powerup_imgBtn_cure_png": {
+      "x": 791,
+      "y": 556,
+      "w": 57,
+      "h": 57,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 57,
+      "sourceH": 57
+    },
+    "pve_jiehuang_powerup_imgBtn_pet_png": {
+      "x": 1,
+      "y": 557,
+      "w": 57,
+      "h": 57,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 57,
+      "sourceH": 57
+    },
+    "pve_jiehuang_powerup_title_1_png": {
+      "x": 748,
+      "y": 466,
+      "w": 245,
+      "h": 36,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 245,
+      "sourceH": 36
+    },
+    "pve_jiehuang_powerup_title_2_png": {
+      "x": 1,
+      "y": 475,
+      "w": 245,
+      "h": 36,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 245,
+      "sourceH": 36
+    },
+    "pve_jiehuang_powerup_title_characteristic_png": {
+      "x": 763,
+      "y": 368,
+      "w": 100,
+      "h": 37,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 100,
+      "sourceH": 37
+    },
+    "pve_jiehuang_powerup_title_skill_png": {
+      "x": 839,
+      "y": 55,
+      "w": 99,
+      "h": 36,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 99,
+      "sourceH": 36
+    },
+    "pve_jiehuang_powerup_title_token_png": {
+      "x": 631,
+      "y": 556,
+      "w": 99,
+      "h": 37,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 99,
+      "sourceH": 37
+    },
+    "pve_jiehuang_powerup_txtbg_png": {
+      "x": 1,
+      "y": 230,
+      "w": 772,
+      "h": 66,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 772,
+      "sourceH": 66
+    },
+    "pve_jiehuang_timeBg_0_png": {
+      "x": 545,
+      "y": 438,
+      "w": 201,
+      "h": 50,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 201,
+      "sourceH": 50
+    },
+    "pve_jiehuang_timeBg_1_png": {
+      "x": 1,
+      "y": 423,
+      "w": 201,
+      "h": 50,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 201,
+      "sourceH": 50
+    },
+    "pve_jiehuang_timesBg_png": {
+      "x": 1,
+      "y": 298,
+      "w": 611,
+      "h": 53,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 611,
+      "sourceH": 53
+    },
+    "pve_jiehuang_txtBg_0_png": {
+      "x": 452,
+      "y": 171,
+      "w": 234,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 234,
+      "sourceH": 46
+    },
+    "pve_jiehuang_txtBg_1_png": {
+      "x": 763,
+      "y": 418,
+      "w": 234,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 234,
+      "sourceH": 46
+    },
+    "pve_jiehuang_up_bg_png": {
+      "x": 721,
+      "y": 504,
+      "w": 145,
+      "h": 50,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 145,
+      "sourceH": 50
+    }
+  }
+}

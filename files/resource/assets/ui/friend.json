@@ -1,0 +1,16 @@
+{
+  "groups": [
+    {
+      "name": "friend",
+      "keys": "friend_sheet"
+    }
+  ],
+  "resources": [
+    {
+      "name": "friend_sheet",
+      "type": "sheet",
+      "url": "friend/friend_sheet.json",
+      "subkeys": "friendapplylist_down_png,friendapplylist_up_png,friendapply_down_png,friendapply_up_png,friendblack_down_png,friendblack_up_png,friendfriend_down_png,friendfriend_up_png,friend_a1_png,friend_acceptBtn_png,friend_apply_list_item_btnagree_png,friend_apply_list_item_btnreject_png,friend_apply_title_png,friend_black_item_btnremovebg_png,friend_black_item_imgbg_png,friend_black_item_imgheadbg_png,friend_btnAgree_png,friend_btnApply_png,friend_btnApply1_png,friend_btnClose_png,friend_btnReject_png,friend_btnRemove_png,friend_doneBtn_png,friend_fastgetBtn_png,friend_getBg_png,friend_head_png,friend_head_bg_png,friend_imgbg_png,friend_inputBg_png,friend_itembg_png,friend_jubao_png,friend_line_yc_1_png,friend_list_item_btnaccept_png,friend_list_item_btnhassend_png,friend_list_item_btnsend_png,friend_list_item_imgofflinepoint_png,friend_list_item_imgonlinepoint_png,friend_menu_item_imgalarm_png,friend_menu_item_imgmenuup_png,friend_noapply_png,friend_noblack_png,friend_offlinebg_png,friend_online_png,friend_sendBtn_png,friend_title_png,friend_vip_png"
+    }
+  ]
+}

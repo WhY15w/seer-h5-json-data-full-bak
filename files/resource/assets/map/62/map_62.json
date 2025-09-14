@@ -1,0 +1,55 @@
+{
+  "groups": [
+    {
+      "keys": "road_62,exml_62,map_62_bg_mc_jpg,map_62_tukuai11_png,map_62_wupinn1_png,map_62_sdawq12_png,map_62_mvbd12_png,map_62_wesfaf1_png,map_62_control_mc_png",
+      "name": "map_62"
+    }
+  ],
+  "resources": [
+    {
+      "type": "json",
+      "url": "62.json",
+      "name": "road_62"
+    },
+    {
+      "type": "text",
+      "url": "Map62Skin.exml",
+      "name": "exml_62"
+    },
+    {
+      "type": "image",
+      "url": "map_62_bg_mc.jpg",
+      "name": "map_62_bg_mc_jpg"
+    },
+    {
+      "type": "image",
+      "url": "map_62_tukuai11.png",
+      "name": "map_62_tukuai11_png"
+    },
+    {
+      "type": "image",
+      "url": "map_62_wupinn1.png",
+      "name": "map_62_wupinn1_png"
+    },
+    {
+      "type": "image",
+      "url": "map_62_sdawq12.png",
+      "name": "map_62_sdawq12_png"
+    },
+    {
+      "type": "image",
+      "url": "map_62_mvbd12.png",
+      "name": "map_62_mvbd12_png"
+    },
+    {
+      "type": "image",
+      "url": "map_62_wesfaf1.png",
+      "name": "map_62_wesfaf1_png"
+    },
+    {
+      "type": "image",
+      "url": "map_62_control_mc.png",
+      "name": "map_62_control_mc_png"
+    }
+  ]
+}

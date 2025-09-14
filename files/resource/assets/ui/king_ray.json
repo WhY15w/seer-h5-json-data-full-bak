@@ -1,0 +1,71 @@
+{
+  "groups": [
+    {
+      "name": "king_ray",
+      "keys": "king_ray_sheet,leishengyongheng_atlas,leishengyongheng_json,wangleiyi_atlas,wangleiyi_json,kr_mainpanel_bg_jpg,kr_panel1_bg_jpg,kr_panel2pop_bg_png,kr_panel5_di_png,kr_panelextra1_bg1_png,leishengyongheng_png,wangleiyi_png"
+    }
+  ],
+  "resources": [
+    {
+      "name": "leishengyongheng_atlas",
+      "type": "text",
+      "url": "king_ray/outside/leishengyongheng.atlas"
+    },
+    {
+      "name": "leishengyongheng_json",
+      "type": "json",
+      "url": "king_ray/outside/leishengyongheng.json"
+    },
+    {
+      "name": "wangleiyi_atlas",
+      "type": "text",
+      "url": "king_ray/outside/wangleiyi.atlas"
+    },
+    {
+      "name": "wangleiyi_json",
+      "type": "json",
+      "url": "king_ray/outside/wangleiyi.json"
+    },
+    {
+      "name": "kr_mainpanel_bg_jpg",
+      "type": "image",
+      "url": "king_ray/outside/kr_mainpanel_bg.jpg"
+    },
+    {
+      "name": "kr_panel1_bg_jpg",
+      "type": "image",
+      "url": "king_ray/outside/kr_panel1_bg.jpg"
+    },
+    {
+      "name": "kr_panel2pop_bg_png",
+      "type": "image",
+      "url": "king_ray/outside/kr_panel2pop_bg.png"
+    },
+    {
+      "name": "kr_panel5_di_png",
+      "type": "image",
+      "url": "king_ray/outside/kr_panel5_di.png"
+    },
+    {
+      "name": "kr_panelextra1_bg1_png",
+      "type": "image",
+      "url": "king_ray/outside/kr_panelextra1_bg1.png"
+    },
+    {
+      "name": "leishengyongheng_png",
+      "type": "image",
+      "url": "king_ray/outside/leishengyongheng.png"
+    },
+    {
+      "name": "wangleiyi_png",
+      "type": "image",
+      "url": "king_ray/outside/wangleiyi.png"
+    },
+    {
+      "name": "king_ray_sheet",
+      "type": "sheet",
+      "url": "king_ray/king_ray_sheet.json",
+      "subkeys": "kr_mainpanel_btn1_png,kr_mainpanel_btn2_png,kr_mainpanel_btn3_png,kr_mainpanel_btn4_png,kr_mainpanel_btncollect_png,kr_mainpanel_btncollected_png,kr_mainpanel_btndiscount_png,kr_mainpanel_btninfo_png,kr_mainpanel_btnsuper_png,kr_mainpanel_btnup_png,kr_mainpanel_stms_png,kr_mainpanel_title_png,kr_mainpanel_yihuode_png,kr_mainpanel_yiwancheng_png,kr_mainpanel_zsch_png,kr_onekeypop_bg_png,kr_onekeypop_btnadd_png,kr_onekeypop_btnbuy_png,kr_onekeypop_btnclose_png,kr_onekeypop_zu_1_png,kr_panel1_btnonekey_png,kr_panel1_btntiaozhan_png,kr_panel1_jindu_png,kr_panel1_jindu_kb_png,kr_panel1_title1_png,kr_panel1_vs_png,kr_panel1_wenan_png,kr_panel1_xz_4_kb_png,kr_panel1_youlihui_png,kr_panel1_zuolihui_png,kr_panel1_zu_1_png,kr_panel2pop_147_png,kr_panel2pop_15_png,kr_panel2pop_21_png,kr_panel2pop_455_png,kr_panel2pop_709_png,kr_panel2pop_btnback_png,kr_panel2pop_btntiaozhan_png,kr_panel2pop_btnyijian_png,kr_panel2pop_cishubg_png,kr_panel2pop_zshd_png,kr_panel2pop_zu_2_png,kr_panel2_3133_png,kr_panel2_3142_png,kr_panel2_70_png,kr_panel2_btnonekey_png,kr_panel2_btntiaozhan_png,kr_panel2_btnyijian_png,kr_panel2_jindu_png,kr_panel2_jindu2_png,kr_panel2_jlbb_png,kr_panel2_jlhf_png,kr_panel2_kshf_png,kr_panel2_leftbg_png,kr_panel2_title2_png,kr_panel2_wa_kb_png,kr_panel2_xz_1_png,kr_panel2_yjjx_17_png,kr_panel2_zu_1_png,kr_panel2_zu_2_png,kr_panel2_zu_3_png,kr_panel2_zu_4_png,kr_panel2_zu_5_png,kr_panel2_z_kaobei_png,kr_panel3pop_1_png,kr_panel3pop_2_png,kr_panel3pop_3_png,kr_panel3pop_4_png,kr_panel3pop_5_png,kr_panel3pop_6_png,kr_panel3pop_7_png,kr_panel3pop_8_png,kr_panel3pop_btnback_png,kr_panel3pop_btntiaozhan_png,kr_panel3pop_daoju_png,kr_panel3pop_rad_png,kr_panel3_3142_png,kr_panel3_btnadd_png,kr_panel3_btnonekey_png,kr_panel3_btntiaozhan_png,kr_panel3_bx2844_png,kr_panel3_cishubg_png,kr_panel3_cyj2959_png,kr_panel3_fhj2988_png,kr_panel3_guang2787_png,kr_panel3_huo2739_png,kr_panel3_jx_24_kb_2_png,kr_panel3_long3036_png,kr_panel3_sbj3082_png,kr_panel3_shui3105_png,kr_panel3_title3_png,kr_panel3_tuceng_27_png,kr_panel3_wenan_png,kr_panel3_xz_1_png,kr_panel3_yiwancheng_png,kr_panel3__qwtz1_png,kr_panel3__qwtz2_png,kr_panel4_1_png,kr_panel4_1709601_png,kr_panel4_1709642_png,kr_panel4_1709643_png,kr_panel4_1709644_png,kr_panel4_1709645_png,kr_panel4_1709646_png,kr_panel4_1709647_png,kr_panel4_btnadd_png,kr_panel4_btnduihuan_png,kr_panel4_btnhuode_png,kr_panel4_btnjihuo_png,kr_panel4_btnonekey_png,kr_panel4_btntiaozhan_png,kr_panel4_dbx_1_kb_2_png,kr_panel4_dljy_png,kr_panel4_fazhen_png,kr_panel4_img1_png,kr_panel4_jlbb_png,kr_panel4_jlhf_png,kr_panel4_shengjian_png,kr_panel4_title4_png,kr_panel4_wenan_png,kr_panel4_yjjx_16_png,kr_panel5_bigRect_png,kr_panel5_btnFast_png,kr_panel5_btnGet_png,kr_panel5_btntiaozhan_png,kr_panel5_di10tian_png,kr_panel5_di11tian_png,kr_panel5_di12tian_png,kr_panel5_di13tian_png,kr_panel5_di14tian_png,kr_panel5_di15tian_png,kr_panel5_di16tian_png,kr_panel5_di17tian_png,kr_panel5_di18tian_png,kr_panel5_di19tian_png,kr_panel5_di1tian_png,kr_panel5_di20tian_png,kr_panel5_di21tian_png,kr_panel5_di2tian_png,kr_panel5_di3tian_png,kr_panel5_di4tian_png,kr_panel5_di5tian_png,kr_panel5_di6tian_png,kr_panel5_di7tian_png,kr_panel5_di8tian_png,kr_panel5_di9tian_png,kr_panel5_icon0_png,kr_panel5_icon1_png,kr_panel5_icon2_png,kr_panel5_line_png,kr_panel5_shu_png,kr_panel5_signed_png,kr_panel5_smallRect_png,kr_panel5_title5_png,kr_panel5_wenan_png,kr_panel5_yihuode_png,kr_panelextra1_3142_png,kr_panelextra1_bg_png,kr_panelextra1_bing_png,kr_panelextra1_btn1_png,kr_panelextra1_btnget_png,kr_panelextra1_btnonekey_png,kr_panelextra1_ciyuan_png,kr_panelextra1_fei_png,kr_panelextra1_guang_png,kr_panelextra1_huo_png,kr_panelextra1_jtleft_png,kr_panelextra1_long_png,kr_panelextra1_shenbi_png,kr_panelextra1_shui__png,kr_panelextra1_title_png,kr_panelextra1_weikaiqi_png,kr_panelextra1_xuanzhong_png,kr_panelextra1_yiwancheng_png,kr_panelextra1_zu_1_png,kr_panelextra1_zu_25_png,kr_panelextra2_1_png,kr_panelextra2_12_png,kr_panelextra2_2739_png,kr_panelextra2_2787_png,kr_panelextra2_2844_png,kr_panelextra2_2887_png,kr_panelextra2_2959_png,kr_panelextra2_2988_png,kr_panelextra2_3036_png,kr_panelextra2_3082_png,kr_panelextra2_bing_png,kr_panelextra2_btnfight_png,kr_panelextra2_btnonekey_png,kr_panelextra2_ciyuan_png,kr_panelextra2_fei_png,kr_panelextra2_guang_png,kr_panelextra2_huo_png,kr_panelextra2_jindbg_png,kr_panelextra2_jindu_kb_png,kr_panelextra2_jindu_kb_3_png,kr_panelextra2_juxing_906_png,kr_panelextra2_jx_906_kb_png,kr_panelextra2_jx_912_kb_png,kr_panelextra2_long_png,kr_panelextra2_mingzi1_png,kr_panelextra2_mingzi2_png,kr_panelextra2_mingzi3_png,kr_panelextra2_mingzi4_png,kr_panelextra2_mingzi5_png,kr_panelextra2_mingzi6_png,kr_panelextra2_mingzi7_png,kr_panelextra2_mingzi8_png,kr_panelextra2_shenbi_png,kr_panelextra2_shui_png,kr_panelextra2_tipsbg_png,kr_panelextra2_tuceng_16_png,kr_panelextra2_tuceng_5_png,kr_panelextra2_vs_png,kr_panelextra2_weikaiqi_png,kr_panelextra2_xuanzhong_png,kr_panelextra2_yhd_kb_3_png,kr_panelextra2_yiwancheng_png,kr_panelextra2_zu9_png,kr_panelextra2_zu_12_png,kr_panelextra2_zu_19_png,kr_panelextra2_zu_2_png,kr_panelextra2_zu_20_png,kr_panelextra2_zu_25_png,kr_panelextra2_zu_26_png,kr_panelextra2_zu_27_png,kr_panelextra2_zu_28_png,kr_panelextra2_zu_29_png,kr_panelextra2_zu_30_png,kr_panelextra2_zu_31_png,kr_panelextra2_zu_6_png,kr_panelextra2_z_191_kb_3_png,kr_panelextra2_z_192_kb_3_png"
+    }
+  ]
+}

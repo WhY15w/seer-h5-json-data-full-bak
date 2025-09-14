@@ -1,0 +1,21 @@
+{
+  "groups": [
+    {
+      "name": "six_realms_god_king_hall",
+      "keys": "six_realms_god_king_hall_sheet,six_realms_god_king_hall_main_panel_bg_jpg"
+    }
+  ],
+  "resources": [
+    {
+      "name": "six_realms_god_king_hall_main_panel_bg_jpg",
+      "type": "image",
+      "url": "six_realms_god_king_hall/outside/six_realms_god_king_hall_main_panel_bg.jpg"
+    },
+    {
+      "name": "six_realms_god_king_hall_sheet",
+      "type": "sheet",
+      "url": "six_realms_god_king_hall/six_realms_god_king_hall_sheet.json",
+      "subkeys": "imgPet1_png,imgPet2_png,imgPet3_png,imgPet4_png,imgPet5_png,imgPet6_png,imgPet7_png,six_realms_god_king_hall_challenge_panel_btnaddfighttime_png,six_realms_god_king_hall_challenge_panel_btncure_png,six_realms_god_king_hall_challenge_panel_btnfastbeat_png,six_realms_god_king_hall_challenge_panel_btnfight_png,six_realms_god_king_hall_challenge_panel_btnpet_png,six_realms_god_king_hall_challenge_panel_imgpet1_png,six_realms_god_king_hall_challenge_panel_imgpet2_png,six_realms_god_king_hall_challenge_panel_imgpet3_png,six_realms_god_king_hall_challenge_panel_imgpet4_png,six_realms_god_king_hall_challenge_panel_imgpet5_png,six_realms_god_king_hall_challenge_panel_imgpet6_png,six_realms_god_king_hall_challenge_panel_imgpet7_png,six_realms_god_king_hall_challenge_panel_imgstar1_png,six_realms_god_king_hall_challenge_panel_jiantou_png,six_realms_god_king_hall_challenge_panel_kuang_png,six_realms_god_king_hall_challenge_panel_rightbg_png,six_realms_god_king_hall_challenge_panel_txtbg_png,six_realms_god_king_hall_challenge_panel_txtcoin2_kb_png,six_realms_god_king_hall_challenge_panel_txttitle1_png,six_realms_god_king_hall_challenge_panel_txttitle2_png,six_realms_god_king_hall_challenge_panel_txttitle3_png,six_realms_god_king_hall_challenge_panel_zu_31_png,six_realms_god_king_hall_icon_png,six_realms_god_king_hall_main_panel_1721558_png,six_realms_god_king_hall_main_panel_btnclose_png,six_realms_god_king_hall_main_panel_btndifficult_png,six_realms_god_king_hall_main_panel_btneasy_png,six_realms_god_king_hall_main_panel_btnhelp_png,six_realms_god_king_hall_main_panel_btnnormal_png,six_realms_god_king_hall_main_panel_icon3_png,six_realms_god_king_hall_main_panel_icon4_png,six_realms_god_king_hall_main_panel_imgswitchoff_png,six_realms_god_king_hall_main_panel_imgswitchon_png,six_realms_god_king_hall_main_panel_img_di2_png,six_realms_god_king_hall_main_panel_line3_png,six_realms_god_king_hall_main_panel_pet_png,six_realms_god_king_hall_main_panel_top_png,six_realms_god_king_hall_main_panel_txtcoin2_kb_png,six_realms_god_king_hall_main_panel_txt_title_png"
+    }
+  ]
+}

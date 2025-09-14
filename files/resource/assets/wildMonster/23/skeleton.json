@@ -1,0 +1,453 @@
+{
+  "frameRate": 24,
+  "name": "23",
+  "version": "5.5",
+  "compatibleVersion": "5.5",
+  "armature": [
+    {
+      "name": "anim",
+      "bone": [
+        {
+          "inheritScale": false,
+          "name": "图层 4",
+          "transform": {
+            "x": 1.1,
+            "y": 26.05,
+            "scX": 0.2203,
+            "scY": 0.509
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "图层 5",
+          "transform": {
+            "x": -0.2,
+            "y": -10.3
+          }
+        }
+      ],
+      "slot": [
+        {
+          "name": "图层 4",
+          "parent": "图层 4"
+        },
+        {
+          "name": "图层 5",
+          "parent": "图层 5"
+        }
+      ],
+      "skin": [
+        {
+          "slot": [
+            {
+              "name": "图层 4",
+              "display": [
+                {
+                  "name": "SFGHGFGFGFFFF",
+                  "transform": {
+                    "x": 0.55
+                  }
+                }
+              ]
+            },
+            {
+              "name": "图层 5",
+              "display": [
+                {
+                  "name": "元件 6ll",
+                  "transform": {
+                    "y": 1.45
+                  }
+                },
+                {
+                  "name": "元件 12ll",
+                  "transform": {
+                    "x": 0.4,
+                    "y": 0.25
+                  }
+                },
+                {
+                  "name": "元件 10ll",
+                  "transform": {
+                    "x": 0.45,
+                    "y": 0.05
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "animation": [
+        {
+          "duration": 10,
+          "name": "down",
+          "bone": [
+            {
+              "name": "图层 4",
+              "scaleFrame": [
+                {
+                  "duration": 10
+                }
+              ]
+            },
+            {
+              "name": "图层 5",
+              "translateFrame": [
+                {
+                  "duration": 4,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 5,
+                  "tweenEasing": 0,
+                  "y": 1.2
+                },
+                {}
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 10
+                }
+              ]
+            }
+          ],
+          "slot": [
+            {
+              "name": "图层 4",
+              "colorFrame": [
+                {
+                  "duration": 10,
+                  "value": {
+                    "aM": 30
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "duration": 10,
+          "name": "rightdown",
+          "bone": [
+            {
+              "name": "图层 4",
+              "translateFrame": [
+                {
+                  "duration": 10,
+                  "x": -5.25,
+                  "y": 1.8
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 10
+                }
+              ]
+            },
+            {
+              "name": "图层 5",
+              "translateFrame": [
+                {
+                  "duration": 4,
+                  "tweenEasing": 0,
+                  "x": -5.45,
+                  "y": 5.7
+                },
+                {
+                  "duration": 5,
+                  "tweenEasing": 0,
+                  "x": -5.45,
+                  "y": 7.1
+                },
+                {
+                  "x": -5.45,
+                  "y": 5.7
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 10
+                }
+              ]
+            }
+          ],
+          "slot": [
+            {
+              "name": "图层 4",
+              "colorFrame": [
+                {
+                  "duration": 10,
+                  "value": {
+                    "aM": 30
+                  }
+                }
+              ]
+            },
+            {
+              "name": "图层 5",
+              "displayFrame": [
+                {
+                  "duration": 10,
+                  "value": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "duration": 10,
+          "name": "rightup",
+          "bone": [
+            {
+              "name": "图层 4",
+              "translateFrame": [
+                {
+                  "duration": 10,
+                  "y": 5.35
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 10
+                }
+              ]
+            },
+            {
+              "name": "图层 5",
+              "translateFrame": [
+                {
+                  "duration": 4,
+                  "tweenEasing": 0,
+                  "x": -3.55,
+                  "y": 7.9
+                },
+                {
+                  "duration": 5,
+                  "tweenEasing": 0,
+                  "x": -3.55,
+                  "y": 9.1
+                },
+                {
+                  "x": -3.55,
+                  "y": 7.9
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 10
+                }
+              ]
+            }
+          ],
+          "slot": [
+            {
+              "name": "图层 4",
+              "colorFrame": [
+                {
+                  "duration": 10,
+                  "value": {
+                    "aM": 30
+                  }
+                }
+              ]
+            },
+            {
+              "name": "图层 5",
+              "displayFrame": [
+                {
+                  "duration": 10,
+                  "value": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "duration": 10,
+          "name": "downWalk",
+          "bone": [
+            {
+              "name": "图层 4",
+              "scaleFrame": [
+                {
+                  "duration": 10
+                }
+              ]
+            },
+            {
+              "name": "图层 5",
+              "translateFrame": [
+                {
+                  "duration": 4,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 5,
+                  "tweenEasing": 0,
+                  "y": 1.2
+                },
+                {}
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 10
+                }
+              ]
+            }
+          ],
+          "slot": [
+            {
+              "name": "图层 4",
+              "colorFrame": [
+                {
+                  "duration": 10,
+                  "value": {
+                    "aM": 30
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "duration": 10,
+          "name": "rightdownWalk",
+          "bone": [
+            {
+              "name": "图层 4",
+              "translateFrame": [
+                {
+                  "duration": 10,
+                  "x": -5.25,
+                  "y": 1.8
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 10
+                }
+              ]
+            },
+            {
+              "name": "图层 5",
+              "translateFrame": [
+                {
+                  "duration": 4,
+                  "tweenEasing": 0,
+                  "x": -5.45,
+                  "y": 5.7
+                },
+                {
+                  "duration": 5,
+                  "tweenEasing": 0,
+                  "x": -5.45,
+                  "y": 7.1
+                },
+                {
+                  "x": -5.45,
+                  "y": 5.7
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 10
+                }
+              ]
+            }
+          ],
+          "slot": [
+            {
+              "name": "图层 4",
+              "colorFrame": [
+                {
+                  "duration": 10,
+                  "value": {
+                    "aM": 30
+                  }
+                }
+              ]
+            },
+            {
+              "name": "图层 5",
+              "displayFrame": [
+                {
+                  "duration": 10,
+                  "value": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "duration": 10,
+          "name": "rightupWalk",
+          "bone": [
+            {
+              "name": "图层 4",
+              "translateFrame": [
+                {
+                  "duration": 10,
+                  "y": 5.35
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 10
+                }
+              ]
+            },
+            {
+              "name": "图层 5",
+              "translateFrame": [
+                {
+                  "duration": 4,
+                  "tweenEasing": 0,
+                  "x": -3.55,
+                  "y": 7.9
+                },
+                {
+                  "duration": 5,
+                  "tweenEasing": 0,
+                  "x": -3.55,
+                  "y": 9.1
+                },
+                {
+                  "x": -3.55,
+                  "y": 7.9
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 10
+                }
+              ]
+            }
+          ],
+          "slot": [
+            {
+              "name": "图层 4",
+              "colorFrame": [
+                {
+                  "duration": 10,
+                  "value": {
+                    "aM": 30
+                  }
+                }
+              ]
+            },
+            {
+              "name": "图层 5",
+              "displayFrame": [
+                {
+                  "duration": 10,
+                  "value": 2
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

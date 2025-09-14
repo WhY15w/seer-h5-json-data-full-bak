@@ -1,0 +1,21 @@
+{
+  "groups": [
+    {
+      "name": "room_information_pop",
+      "keys": "room_information_pop_sheet,room_information_pop_bg_png"
+    }
+  ],
+  "resources": [
+    {
+      "name": "room_information_pop_bg_png",
+      "type": "image",
+      "url": "room_information_pop/outside/room_information_pop_bg.png"
+    },
+    {
+      "name": "room_information_pop_sheet",
+      "type": "sheet",
+      "url": "room_information_pop/room_information_pop_sheet.json",
+      "subkeys": "room_information_pop_close_png,room_information_pop_dot_png,room_information_pop_green_png,room_information_pop_open_visitor_png,room_information_pop_show_other_png"
+    }
+  ]
+}

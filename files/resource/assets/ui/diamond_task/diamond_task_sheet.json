@@ -1,0 +1,295 @@
+{
+  "file": "diamond_task_sheet.png",
+  "frames": {
+    "diamond_task_active_active_bg_png": {
+      "x": 592,
+      "y": 262,
+      "w": 218,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 218,
+      "sourceH": 46
+    },
+    "diamond_task_active_active_get_png": {
+      "x": 845,
+      "y": 174,
+      "w": 77,
+      "h": 34,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 77,
+      "sourceH": 34
+    },
+    "diamond_task_active_active_go_png": {
+      "x": 946,
+      "y": 348,
+      "w": 39,
+      "h": 44,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 39,
+      "sourceH": 44
+    },
+    "diamond_task_active_active_got_png": {
+      "x": 985,
+      "y": 246,
+      "w": 38,
+      "h": 39,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 38,
+      "sourceH": 39
+    },
+    "diamond_task_active_active_pro_png": {
+      "x": 1,
+      "y": 547,
+      "w": 950,
+      "h": 41,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 950,
+      "sourceH": 41
+    },
+    "diamond_task_active_active_pro_bg_png": {
+      "x": 1,
+      "y": 590,
+      "w": 939,
+      "h": 29,
+      "offX": 6,
+      "offY": 6,
+      "sourceW": 950,
+      "sourceH": 41
+    },
+    "diamond_task_active_active_title_png": {
+      "x": 592,
+      "y": 219,
+      "w": 315,
+      "h": 41,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 315,
+      "sourceH": 41
+    },
+    "diamond_task_active_close_1_png": {
+      "x": 909,
+      "y": 246,
+      "w": 74,
+      "h": 66,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 74,
+      "sourceH": 66
+    },
+    "diamond_task_active_close_2_png": {
+      "x": 929,
+      "y": 171,
+      "w": 75,
+      "h": 73,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 75,
+      "sourceH": 73
+    },
+    "diamond_task_active_close_3_png": {
+      "x": 665,
+      "y": 310,
+      "w": 74,
+      "h": 64,
+      "offX": 0,
+      "offY": 1,
+      "sourceW": 74,
+      "sourceH": 66
+    },
+    "diamond_task_active_open_1_png": {
+      "x": 592,
+      "y": 310,
+      "w": 71,
+      "h": 68,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 71,
+      "sourceH": 68
+    },
+    "diamond_task_active_open_2_png": {
+      "x": 929,
+      "y": 94,
+      "w": 75,
+      "h": 75,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 75,
+      "sourceH": 75
+    },
+    "diamond_task_active_open_3_png": {
+      "x": 812,
+      "y": 262,
+      "w": 71,
+      "h": 68,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 71,
+      "sourceH": 68
+    },
+    "diamond_task_back_1_png": {
+      "x": 1,
+      "y": 250,
+      "w": 589,
+      "h": 170,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 589,
+      "sourceH": 170
+    },
+    "diamond_task_back_2_png": {
+      "x": 1,
+      "y": 422,
+      "w": 612,
+      "h": 123,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 612,
+      "sourceH": 123
+    },
+    "diamond_task_btnadddiamond_png": {
+      "x": 987,
+      "y": 1,
+      "w": 21,
+      "h": 21,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 21,
+      "sourceH": 21
+    },
+    "diamond_task_center_bg_png": {
+      "x": 791,
+      "y": 332,
+      "w": 50,
+      "h": 50,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 50,
+      "sourceH": 50
+    },
+    "diamond_task_get_png": {
+      "x": 447,
+      "y": 94,
+      "w": 268,
+      "h": 91,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 268,
+      "sourceH": 91
+    },
+    "diamond_task_go_png": {
+      "x": 447,
+      "y": 1,
+      "w": 268,
+      "h": 91,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 268,
+      "sourceH": 91
+    },
+    "diamond_task_got_png": {
+      "x": 447,
+      "y": 210,
+      "w": 115,
+      "h": 34,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 115,
+      "sourceH": 34
+    },
+    "diamond_task_icon_bg_png": {
+      "x": 447,
+      "y": 187,
+      "w": 237,
+      "h": 21,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 237,
+      "sourceH": 21
+    },
+    "diamond_task_icon_btn_png": {
+      "x": 888,
+      "y": 348,
+      "w": 56,
+      "h": 32,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 56,
+      "sourceH": 32
+    },
+    "diamond_task_ima_btn_bg_png": {
+      "x": 717,
+      "y": 1,
+      "w": 268,
+      "h": 91,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 268,
+      "sourceH": 91
+    },
+    "diamond_task_item_bg_png": {
+      "x": 717,
+      "y": 94,
+      "w": 126,
+      "h": 123,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 126,
+      "sourceH": 123
+    },
+    "diamond_task_item_icon_png": {
+      "x": 845,
+      "y": 94,
+      "w": 82,
+      "h": 78,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 82,
+      "sourceH": 78
+    },
+    "diamond_task_none_png": {
+      "x": 1,
+      "y": 1,
+      "w": 444,
+      "h": 247,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 444,
+      "sourceH": 247
+    },
+    "diamond_task_reddot_png": {
+      "x": 843,
+      "y": 348,
+      "w": 43,
+      "h": 45,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 43,
+      "sourceH": 45
+    },
+    "diamond_task_tips_png": {
+      "x": 741,
+      "y": 310,
+      "w": 48,
+      "h": 53,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 48,
+      "sourceH": 53
+    },
+    "diamond_task_title_png": {
+      "x": 885,
+      "y": 314,
+      "w": 105,
+      "h": 32,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 105,
+      "sourceH": 32
+    }
+  }
+}

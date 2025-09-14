@@ -1,0 +1,55 @@
+{
+  "groups": [
+    {
+      "keys": "road_441,exml_441,map_441_bg_mc_jpg,map_441_tengtiao1_png,map_441_q1_png,map_441_q2_png,map_441_q3_png,map_441_q5_png,map_441_q4_png",
+      "name": "map_441"
+    }
+  ],
+  "resources": [
+    {
+      "type": "json",
+      "url": "441.json",
+      "name": "road_441"
+    },
+    {
+      "type": "text",
+      "url": "Map441Skin.exml",
+      "name": "exml_441"
+    },
+    {
+      "type": "image",
+      "url": "map_441_bg_mc.jpg",
+      "name": "map_441_bg_mc_jpg"
+    },
+    {
+      "type": "image",
+      "url": "map_441_tengtiao1.png",
+      "name": "map_441_tengtiao1_png"
+    },
+    {
+      "type": "image",
+      "url": "map_441_q1.png",
+      "name": "map_441_q1_png"
+    },
+    {
+      "type": "image",
+      "url": "map_441_q2.png",
+      "name": "map_441_q2_png"
+    },
+    {
+      "type": "image",
+      "url": "map_441_q3.png",
+      "name": "map_441_q3_png"
+    },
+    {
+      "type": "image",
+      "url": "map_441_q5.png",
+      "name": "map_441_q5_png"
+    },
+    {
+      "type": "image",
+      "url": "map_441_q4.png",
+      "name": "map_441_q4_png"
+    }
+  ]
+}

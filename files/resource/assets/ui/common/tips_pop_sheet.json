@@ -1,0 +1,225 @@
+{
+  "file": "tips_pop_sheet.png",
+  "frames": {
+    "common_tipsPop_suit_suitBg_png": {
+      "x": 1,
+      "y": 1,
+      "w": 272,
+      "h": 251,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 272,
+      "sourceH": 251
+    },
+    "common_tipsPop_suit_title_png": {
+      "x": 783,
+      "y": 137,
+      "w": 113,
+      "h": 26,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 113,
+      "sourceH": 26
+    },
+    "common_tips_pop_clothes_line_1_png": {
+      "x": 275,
+      "y": 154,
+      "w": 278,
+      "h": 1,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 279,
+      "sourceH": 1
+    },
+    "common_tips_pop_imgBtn_qh_png": {
+      "x": 459,
+      "y": 112,
+      "w": 90,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 90,
+      "sourceH": 40
+    },
+    "common_tips_pop_imgBtn_qwhd_png": {
+      "x": 863,
+      "y": 95,
+      "w": 130,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 130,
+      "sourceH": 40
+    },
+    "common_tips_pop_imgBtn_sj_png": {
+      "x": 904,
+      "y": 1,
+      "w": 90,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 90,
+      "sourceH": 40
+    },
+    "common_tips_pop_imgBtn_sy_png": {
+      "x": 599,
+      "y": 101,
+      "w": 90,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 90,
+      "sourceH": 40
+    },
+    "common_tips_pop_imgBtn_th_png": {
+      "x": 691,
+      "y": 101,
+      "w": 90,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 90,
+      "sourceH": 40
+    },
+    "common_tips_pop_imgBtn_xx_png": {
+      "x": 275,
+      "y": 112,
+      "w": 90,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 90,
+      "sourceH": 40
+    },
+    "common_tips_pop_imgBtn_zb_png": {
+      "x": 367,
+      "y": 112,
+      "w": 90,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 90,
+      "sourceH": 40
+    },
+    "common_tips_pop_title_titlebg_png": {
+      "x": 275,
+      "y": 36,
+      "w": 371,
+      "h": 32,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 371,
+      "sourceH": 32
+    },
+    "help_mulit_pop_bg_down_png": {
+      "x": 648,
+      "y": 53,
+      "w": 213,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 213,
+      "sourceH": 46
+    },
+    "help_mulit_pop_bg_up_png": {
+      "x": 689,
+      "y": 1,
+      "w": 213,
+      "h": 50,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 213,
+      "sourceH": 50
+    },
+    "help_mulit_pop_Img_titlebg_png": {
+      "x": 275,
+      "y": 1,
+      "w": 412,
+      "h": 33,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 412,
+      "sourceH": 33
+    },
+    "help_mulit_pop_line_yc_1_png": {
+      "x": 275,
+      "y": 165,
+      "w": 657,
+      "h": 1,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 657,
+      "sourceH": 1
+    },
+    "mark_lvlup_bar_png": {
+      "x": 904,
+      "y": 43,
+      "w": 69,
+      "h": 5,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 69,
+      "sourceH": 5
+    },
+    "mark_lvlup_btnBack_png": {
+      "x": 995,
+      "y": 95,
+      "w": 18,
+      "h": 101,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 18,
+      "sourceH": 101
+    },
+    "mark_lvlup_btnSj_png": {
+      "x": 863,
+      "y": 53,
+      "w": 160,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 160,
+      "sourceH": 40
+    },
+    "mark_lvlup_btnXiangqian_png": {
+      "x": 275,
+      "y": 70,
+      "w": 160,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 160,
+      "sourceH": 40
+    },
+    "mark_lvlup_btnYijian_png": {
+      "x": 437,
+      "y": 70,
+      "w": 160,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 160,
+      "sourceH": 40
+    },
+    "mark_lvlup_icon_png": {
+      "x": 783,
+      "y": 101,
+      "w": 29,
+      "h": 33,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 29,
+      "sourceH": 33
+    },
+    "mark_lvlup_img_bar_bg_png": {
+      "x": 551,
+      "y": 143,
+      "w": 216,
+      "h": 5,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 216,
+      "sourceH": 5
+    }
+  }
+}

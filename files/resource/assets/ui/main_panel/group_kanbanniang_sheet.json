@@ -1,0 +1,865 @@
+{
+  "file": "group_kanbanniang_sheet.png",
+  "frames": {
+    "newkanpan_addBtn_0_png": {
+      "x": 969,
+      "y": 195,
+      "w": 34,
+      "h": 34,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 34,
+      "sourceH": 34
+    },
+    "newkanpan_bottommask_png": {
+      "x": 1,
+      "y": 393,
+      "w": 125,
+      "h": 125,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 125,
+      "sourceH": 125
+    },
+    "newkanpan_btnbeijingdown_png": {
+      "x": 854,
+      "y": 385,
+      "w": 142,
+      "h": 117,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 142,
+      "sourceH": 117
+    },
+    "newkanpan_btnbeijingup_png": {
+      "x": 560,
+      "y": 683,
+      "w": 63,
+      "h": 49,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 63,
+      "sourceH": 49
+    },
+    "newkanpan_btnjingling_down_png": {
+      "x": 538,
+      "y": 435,
+      "w": 245,
+      "h": 47,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 245,
+      "sourceH": 47
+    },
+    "newkanpan_btnjingling_up_png": {
+      "x": 785,
+      "y": 504,
+      "w": 236,
+      "h": 42,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 236,
+      "sourceH": 42
+    },
+    "newkanpan_btnsaier_down_png": {
+      "x": 538,
+      "y": 484,
+      "w": 245,
+      "h": 47,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 245,
+      "sourceH": 47
+    },
+    "newkanpan_btnsaier_up_png": {
+      "x": 470,
+      "y": 533,
+      "w": 236,
+      "h": 42,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 236,
+      "sourceH": 42
+    },
+    "newkanpan_btnsave_png": {
+      "x": 619,
+      "y": 598,
+      "w": 134,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 134,
+      "sourceH": 46
+    },
+    "newkanpan_btnzaoxingdown_png": {
+      "x": 500,
+      "y": 289,
+      "w": 172,
+      "h": 88,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 172,
+      "sourceH": 88
+    },
+    "newkanpan_btnzaoxingup_png": {
+      "x": 942,
+      "y": 684,
+      "w": 63,
+      "h": 48,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 63,
+      "sourceH": 48
+    },
+    "newkanpan_hszz_png": {
+      "x": 1,
+      "y": 1,
+      "w": 429,
+      "h": 151,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 429,
+      "sourceH": 151
+    },
+    "newkanpan_jx_22_kb_2_png": {
+      "x": 1,
+      "y": 289,
+      "w": 497,
+      "h": 65,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 497,
+      "sourceH": 65
+    },
+    "newkanpan_seclectbg_png": {
+      "x": 398,
+      "y": 275,
+      "w": 12,
+      "h": 12,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 12,
+      "sourceH": 12
+    },
+    "newkanpan_seclectbg_kb_png": {
+      "x": 269,
+      "y": 746,
+      "w": 472,
+      "h": 1,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 472,
+      "sourceH": 1
+    },
+    "newkanpan_xzk_kb_png": {
+      "x": 779,
+      "y": 236,
+      "w": 122,
+      "h": 147,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 122,
+      "sourceH": 147
+    },
+    "newkanpan_zsz_png": {
+      "x": 470,
+      "y": 498,
+      "w": 65,
+      "h": 20,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 65,
+      "sourceH": 20
+    },
+    "newkanpan_zu_33_png": {
+      "x": 343,
+      "y": 621,
+      "w": 134,
+      "h": 45,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 134,
+      "sourceH": 45
+    },
+    "newkanpan_zu_36_png": {
+      "x": 499,
+      "y": 385,
+      "w": 353,
+      "h": 48,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 353,
+      "sourceH": 48
+    },
+    "newkanpan_z_24_kb_9_png": {
+      "x": 269,
+      "y": 743,
+      "w": 472,
+      "h": 1,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 472,
+      "sourceH": 1
+    },
+    "select_show_modepet_down_png": {
+      "x": 448,
+      "y": 577,
+      "w": 169,
+      "h": 42,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 169,
+      "sourceH": 42
+    },
+    "select_show_modepet_up_png": {
+      "x": 172,
+      "y": 597,
+      "w": 169,
+      "h": 42,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 169,
+      "sourceH": 42
+    },
+    "select_show_modeskin_down_png": {
+      "x": 277,
+      "y": 553,
+      "w": 169,
+      "h": 42,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 169,
+      "sourceH": 42
+    },
+    "select_show_modeskin_itembg_png": {
+      "x": 384,
+      "y": 275,
+      "w": 12,
+      "h": 12,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 12,
+      "sourceH": 12
+    },
+    "select_show_modeskin_up_png": {
+      "x": 1,
+      "y": 577,
+      "w": 169,
+      "h": 42,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 169,
+      "sourceH": 42
+    },
+    "select_show_mode_btnchangedown_png": {
+      "x": 560,
+      "y": 646,
+      "w": 109,
+      "h": 35,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 109,
+      "sourceH": 35
+    },
+    "select_show_mode_btnchangeup_png": {
+      "x": 218,
+      "y": 641,
+      "w": 109,
+      "h": 35,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 109,
+      "sourceH": 35
+    },
+    "select_show_mode_btncheck_png": {
+      "x": 674,
+      "y": 349,
+      "w": 101,
+      "h": 33,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 101,
+      "sourceH": 33
+    },
+    "select_show_mode_btnclose_png": {
+      "x": 218,
+      "y": 678,
+      "w": 102,
+      "h": 31,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 102,
+      "sourceH": 31
+    },
+    "select_show_mode_btnpet_png": {
+      "x": 459,
+      "y": 687,
+      "w": 94,
+      "h": 29,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 94,
+      "sourceH": 29
+    },
+    "select_show_mode_btnsave_png": {
+      "x": 290,
+      "y": 154,
+      "w": 134,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 134,
+      "sourceH": 46
+    },
+    "select_show_mode_btnSearch_png": {
+      "x": 833,
+      "y": 646,
+      "w": 29,
+      "h": 29,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 29,
+      "sourceH": 29
+    },
+    "select_show_mode_btnshuxing_down_png": {
+      "x": 1,
+      "y": 669,
+      "w": 101,
+      "h": 33,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 101,
+      "sourceH": 33
+    },
+    "select_show_mode_btnshuxing_up_png": {
+      "x": 730,
+      "y": 646,
+      "w": 101,
+      "h": 35,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 101,
+      "sourceH": 35
+    },
+    "select_show_mode_btnskin_png": {
+      "x": 322,
+      "y": 696,
+      "w": 94,
+      "h": 29,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 94,
+      "sourceH": 29
+    },
+    "select_show_mode_empty_tip_png": {
+      "x": 799,
+      "y": 1,
+      "w": 186,
+      "h": 135,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 186,
+      "sourceH": 135
+    },
+    "select_show_mode_empty_tip1_png": {
+      "x": 610,
+      "y": 1,
+      "w": 187,
+      "h": 135,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 187,
+      "sourceH": 135
+    },
+    "select_show_mode_gou5_png": {
+      "x": 1007,
+      "y": 115,
+      "w": 16,
+      "h": 12,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 16,
+      "sourceH": 12
+    },
+    "select_show_mode_imgsearchbg_png": {
+      "x": 322,
+      "y": 393,
+      "w": 160,
+      "h": 29,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 160,
+      "sourceH": 29
+    },
+    "select_show_mode_imgsetbg_png": {
+      "x": 906,
+      "y": 548,
+      "w": 40,
+      "h": 130,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 40,
+      "sourceH": 130
+    },
+    "select_show_mode_imgtop_png": {
+      "x": 1,
+      "y": 154,
+      "w": 287,
+      "h": 76,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 287,
+      "sourceH": 76
+    },
+    "select_show_mode_Info_bg_png": {
+      "x": 998,
+      "y": 374,
+      "w": 24,
+      "h": 30,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 24,
+      "sourceH": 30
+    },
+    "select_show_mode_juxing_25_png": {
+      "x": 1,
+      "y": 356,
+      "w": 496,
+      "h": 35,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 496,
+      "sourceH": 35
+    },
+    "select_show_mode_namebg_png": {
+      "x": 1,
+      "y": 232,
+      "w": 353,
+      "h": 48,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 353,
+      "sourceH": 48
+    },
+    "select_show_mode_nameicon1_png": {
+      "x": 987,
+      "y": 1,
+      "w": 35,
+      "h": 36,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 35,
+      "sourceH": 36
+    },
+    "select_show_mode_nameicon2_png": {
+      "x": 987,
+      "y": 77,
+      "w": 34,
+      "h": 36,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 34,
+      "sourceH": 36
+    },
+    "select_show_mode_nameicon3_png": {
+      "x": 987,
+      "y": 39,
+      "w": 34,
+      "h": 36,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 34,
+      "sourceH": 36
+    },
+    "select_show_mode_petItemBg_png": {
+      "x": 903,
+      "y": 236,
+      "w": 111,
+      "h": 136,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 111,
+      "sourceH": 136
+    },
+    "select_show_mode_searchbg_kb_png": {
+      "x": 998,
+      "y": 406,
+      "w": 23,
+      "h": 23,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 23,
+      "sourceH": 23
+    },
+    "select_show_mode_settitle_png": {
+      "x": 329,
+      "y": 668,
+      "w": 128,
+      "h": 26,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 128,
+      "sourceH": 26
+    },
+    "select_show_mode_showbg_png": {
+      "x": 149,
+      "y": 711,
+      "w": 75,
+      "h": 24,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 75,
+      "sourceH": 24
+    },
+    "select_show_mode_skinItemBg_png": {
+      "x": 432,
+      "y": 1,
+      "w": 176,
+      "h": 286,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 176,
+      "sourceH": 286
+    },
+    "select_show_mode_tab1_down_png": {
+      "x": 137,
+      "y": 641,
+      "w": 79,
+      "h": 64,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 79,
+      "sourceH": 64
+    },
+    "select_show_mode_tab1_up_png": {
+      "x": 969,
+      "y": 138,
+      "w": 51,
+      "h": 55,
+      "offX": 14,
+      "offY": 5,
+      "sourceW": 79,
+      "sourceH": 64
+    },
+    "select_show_mode_tab2_down_png": {
+      "x": 674,
+      "y": 283,
+      "w": 79,
+      "h": 64,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 79,
+      "sourceH": 64
+    },
+    "select_show_mode_tab2_up_png": {
+      "x": 625,
+      "y": 683,
+      "w": 42,
+      "h": 55,
+      "offX": 20,
+      "offY": 5,
+      "sourceW": 79,
+      "sourceH": 64
+    },
+    "select_show_mode_tab3_down_png": {
+      "x": 479,
+      "y": 621,
+      "w": 79,
+      "h": 64,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 79,
+      "sourceH": 64
+    },
+    "select_show_mode_tab3_up_png": {
+      "x": 106,
+      "y": 707,
+      "w": 41,
+      "h": 56,
+      "offX": 19,
+      "offY": 4,
+      "sourceW": 79,
+      "sourceH": 64
+    },
+    "select_show_scene_btncancel_png": {
+      "x": 785,
+      "y": 435,
+      "w": 57,
+      "h": 66,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 57,
+      "sourceH": 66
+    },
+    "select_show_scene_btnchangebg_png": {
+      "x": 730,
+      "y": 683,
+      "w": 63,
+      "h": 49,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 63,
+      "sourceH": 49
+    },
+    "select_show_scene_btnlookover_png": {
+      "x": 948,
+      "y": 548,
+      "w": 57,
+      "h": 66,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 57,
+      "sourceH": 66
+    },
+    "select_show_scene_btnsave_png": {
+      "x": 755,
+      "y": 598,
+      "w": 134,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 134,
+      "sourceH": 46
+    },
+    "select_show_scene_btnuse_png": {
+      "x": 1,
+      "y": 621,
+      "w": 134,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 134,
+      "sourceH": 46
+    },
+    "select_show_scene_btnusing_png": {
+      "x": 290,
+      "y": 202,
+      "w": 58,
+      "h": 20,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 58,
+      "sourceH": 20
+    },
+    "select_show_scene_imgtxt_png": {
+      "x": 1,
+      "y": 704,
+      "w": 103,
+      "h": 25,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 103,
+      "sourceH": 25
+    },
+    "select_show_scene_jiantou1_png": {
+      "x": 1005,
+      "y": 195,
+      "w": 14,
+      "h": 22,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 14,
+      "sourceH": 22
+    },
+    "select_show_scene_juxing_897_png": {
+      "x": 128,
+      "y": 435,
+      "w": 407,
+      "h": 31,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 407,
+      "sourceH": 31
+    },
+    "select_show_scene_juxing_898_png": {
+      "x": 356,
+      "y": 275,
+      "w": 12,
+      "h": 12,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 12,
+      "sourceH": 12
+    },
+    "select_show_scene_juxing_899_png": {
+      "x": 370,
+      "y": 275,
+      "w": 12,
+      "h": 12,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 12,
+      "sourceH": 12
+    },
+    "select_show_scene_jx_898_kb_png": {
+      "x": 128,
+      "y": 468,
+      "w": 408,
+      "h": 28,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 408,
+      "sourceH": 28
+    },
+    "select_show_scene_quxiao_png": {
+      "x": 948,
+      "y": 616,
+      "w": 57,
+      "h": 66,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 57,
+      "sourceH": 66
+    },
+    "select_show_scene_seclectbg_png": {
+      "x": 1005,
+      "y": 219,
+      "w": 12,
+      "h": 12,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 12,
+      "sourceH": 12
+    },
+    "select_show_scene_seclectbg_kb_png": {
+      "x": 269,
+      "y": 740,
+      "w": 472,
+      "h": 1,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 472,
+      "sourceH": 1
+    },
+    "select_show_scene_xzbj_png": {
+      "x": 833,
+      "y": 680,
+      "w": 107,
+      "h": 29,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 107,
+      "sourceH": 29
+    },
+    "select_show_scene_xzk_kb_png": {
+      "x": 226,
+      "y": 711,
+      "w": 41,
+      "h": 41,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 41,
+      "sourceH": 41
+    },
+    "select_show_scene_yulan_png": {
+      "x": 671,
+      "y": 646,
+      "w": 57,
+      "h": 66,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 57,
+      "sourceH": 66
+    },
+    "select_show_scene_zbz_png": {
+      "x": 343,
+      "y": 597,
+      "w": 58,
+      "h": 20,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 58,
+      "sourceH": 20
+    },
+    "s___seer_btnuse_png": {
+      "x": 1,
+      "y": 520,
+      "w": 120,
+      "h": 34,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 120,
+      "sourceH": 34
+    },
+    "s___seer_jialaimg_png": {
+      "x": 987,
+      "y": 115,
+      "w": 18,
+      "h": 18,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 18,
+      "sourceH": 18
+    },
+    "s___seer_juxing_32_png": {
+      "x": 356,
+      "y": 202,
+      "w": 71,
+      "h": 71,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 71,
+      "sourceH": 71
+    },
+    "s___seer_suiticonbigbg_0_png": {
+      "x": 610,
+      "y": 138,
+      "w": 167,
+      "h": 143,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 167,
+      "sourceH": 143
+    },
+    "s___seer_tuoyuan1_png": {
+      "x": 128,
+      "y": 498,
+      "w": 147,
+      "h": 77,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 147,
+      "sourceH": 77
+    },
+    "s___seer_tuoyuan2_png": {
+      "x": 779,
+      "y": 138,
+      "w": 188,
+      "h": 96,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 188,
+      "sourceH": 96
+    },
+    "s___seer_tuoyuan3_png": {
+      "x": 277,
+      "y": 498,
+      "w": 191,
+      "h": 53,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 191,
+      "sourceH": 53
+    },
+    "s___seer_tuoyuan4_png": {
+      "x": 128,
+      "y": 393,
+      "w": 192,
+      "h": 35,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 192,
+      "sourceH": 35
+    },
+    "s___seer_tuoyuan5_png": {
+      "x": 708,
+      "y": 548,
+      "w": 196,
+      "h": 48,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 196,
+      "sourceH": 48
+    }
+  }
+}

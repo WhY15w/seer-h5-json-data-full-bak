@@ -1,0 +1,1285 @@
+{
+  "file": "holy_puni_sheet.png",
+  "frames": {
+    "holy_puni_btnFight_png": {
+      "x": 1752,
+      "y": 986,
+      "w": 199,
+      "h": 126,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 199,
+      "sourceH": 126
+    },
+    "holy_puni_btnGet_png": {
+      "x": 257,
+      "y": 1108,
+      "w": 199,
+      "h": 126,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 199,
+      "sourceH": 126
+    },
+    "holy_puni_btnInfo_png": {
+      "x": 1602,
+      "y": 496,
+      "w": 74,
+      "h": 74,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 74,
+      "sourceH": 74
+    },
+    "holy_puni_btnPre_png": {
+      "x": 123,
+      "y": 1508,
+      "w": 100,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 100,
+      "sourceH": 40
+    },
+    "holy_puni_btnSale_png": {
+      "x": 1,
+      "y": 1320,
+      "w": 109,
+      "h": 109,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 109,
+      "sourceH": 109
+    },
+    "holy_puni_btnUnbind_png": {
+      "x": 1932,
+      "y": 1499,
+      "w": 100,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 100,
+      "sourceH": 40
+    },
+    "holy_puni_btnUp_png": {
+      "x": 131,
+      "y": 871,
+      "w": 110,
+      "h": 109,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 110,
+      "sourceH": 109
+    },
+    "holy_puni_flag_got_png": {
+      "x": 458,
+      "y": 1163,
+      "w": 199,
+      "h": 103,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 199,
+      "sourceH": 103
+    },
+    "holy_puni_flag_selected_png": {
+      "x": 983,
+      "y": 1159,
+      "w": 156,
+      "h": 144,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 156,
+      "sourceH": 144
+    },
+    "holy_puni_flag_win_png": {
+      "x": 389,
+      "y": 1394,
+      "w": 100,
+      "h": 100,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 100,
+      "sourceH": 100
+    },
+    "holy_puni_help_png": {
+      "x": 2015,
+      "y": 875,
+      "w": 31,
+      "h": 34,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 31,
+      "sourceH": 34
+    },
+    "holy_puni_img_puni_png": {
+      "x": 1,
+      "y": 871,
+      "w": 128,
+      "h": 256,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 128,
+      "sourceH": 256
+    },
+    "holy_puni_level_1_png": {
+      "x": 983,
+      "y": 1305,
+      "w": 146,
+      "h": 124,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 146,
+      "sourceH": 124
+    },
+    "holy_puni_level_1_btnGo_png": {
+      "x": 1448,
+      "y": 1505,
+      "w": 120,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 120,
+      "sourceH": 40
+    },
+    "holy_puni_level_1_btnOneTap_png": {
+      "x": 419,
+      "y": 892,
+      "w": 102,
+      "h": 102,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 102,
+      "sourceH": 102
+    },
+    "holy_puni_level_1_btnSummit_png": {
+      "x": 1695,
+      "y": 1179,
+      "w": 275,
+      "h": 77,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 275,
+      "sourceH": 77
+    },
+    "holy_puni_level_1_bubbleBg_png": {
+      "x": 977,
+      "y": 746,
+      "w": 375,
+      "h": 105,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 375,
+      "sourceH": 105
+    },
+    "holy_puni_level_1_flag_done_png": {
+      "x": 131,
+      "y": 1108,
+      "w": 124,
+      "h": 218,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 124,
+      "sourceH": 218
+    },
+    "holy_puni_level_1_flag_selected_png": {
+      "x": 829,
+      "y": 746,
+      "w": 146,
+      "h": 345,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 146,
+      "sourceH": 345
+    },
+    "holy_puni_level_1_imgBtn_cure_png": {
+      "x": 265,
+      "y": 433,
+      "w": 60,
+      "h": 60,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 60,
+      "sourceH": 60
+    },
+    "holy_puni_level_1_imgBtn_pet_png": {
+      "x": 265,
+      "y": 371,
+      "w": 60,
+      "h": 60,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 60,
+      "sourceH": 60
+    },
+    "holy_puni_level_1_item_0_png": {
+      "x": 977,
+      "y": 853,
+      "w": 152,
+      "h": 246,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 152,
+      "sourceH": 246
+    },
+    "holy_puni_level_1_item_1_png": {
+      "x": 1131,
+      "y": 853,
+      "w": 152,
+      "h": 246,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 152,
+      "sourceH": 246
+    },
+    "holy_puni_level_1_item_2_png": {
+      "x": 1354,
+      "y": 746,
+      "w": 152,
+      "h": 246,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 152,
+      "sourceH": 246
+    },
+    "holy_puni_level_1_item_3_png": {
+      "x": 265,
+      "y": 784,
+      "w": 152,
+      "h": 246,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 152,
+      "sourceH": 246
+    },
+    "holy_puni_level_1_title_png": {
+      "x": 112,
+      "y": 1401,
+      "w": 275,
+      "h": 36,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 275,
+      "sourceH": 36
+    },
+    "holy_puni_level_1_titleBg_png": {
+      "x": 131,
+      "y": 1032,
+      "w": 372,
+      "h": 74,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 372,
+      "sourceH": 74
+    },
+    "holy_puni_level_1_up_bg_png": {
+      "x": 2039,
+      "y": 1,
+      "w": 1,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 1,
+      "sourceH": 46
+    },
+    "holy_puni_level_2_png": {
+      "x": 1605,
+      "y": 1287,
+      "w": 146,
+      "h": 124,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 146,
+      "sourceH": 124
+    },
+    "holy_puni_level_2_boss_0_png": {
+      "x": 971,
+      "y": 1,
+      "w": 175,
+      "h": 493,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 175,
+      "sourceH": 493
+    },
+    "holy_puni_level_2_boss_1_png": {
+      "x": 1148,
+      "y": 1,
+      "w": 175,
+      "h": 493,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 175,
+      "sourceH": 493
+    },
+    "holy_puni_level_2_boss_2_png": {
+      "x": 1325,
+      "y": 1,
+      "w": 175,
+      "h": 493,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 175,
+      "sourceH": 493
+    },
+    "holy_puni_level_2_btnAdd_png": {
+      "x": 1285,
+      "y": 956,
+      "w": 36,
+      "h": 34,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 36,
+      "sourceH": 34
+    },
+    "holy_puni_level_2_btnDefeat_png": {
+      "x": 1285,
+      "y": 994,
+      "w": 275,
+      "h": 77,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 275,
+      "sourceH": 77
+    },
+    "holy_puni_level_2_btnFight_png": {
+      "x": 1418,
+      "y": 1179,
+      "w": 275,
+      "h": 77,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 275,
+      "sourceH": 77
+    },
+    "holy_puni_level_2_flag_beated_png": {
+      "x": 1502,
+      "y": 1,
+      "w": 175,
+      "h": 493,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 175,
+      "sourceH": 493
+    },
+    "holy_puni_level_2_flag_selected_png": {
+      "x": 331,
+      "y": 1,
+      "w": 213,
+      "h": 531,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 213,
+      "sourceH": 531
+    },
+    "holy_puni_level_2_label_png": {
+      "x": 1825,
+      "y": 1258,
+      "w": 200,
+      "h": 95,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 200,
+      "sourceH": 95
+    },
+    "holy_puni_level_2_nameBg_png": {
+      "x": 1752,
+      "y": 875,
+      "w": 261,
+      "h": 109,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 261,
+      "sourceH": 109
+    },
+    "holy_puni_level_2_timeBg_png": {
+      "x": 1087,
+      "y": 1467,
+      "w": 233,
+      "h": 32,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 233,
+      "sourceH": 32
+    },
+    "holy_puni_level_2_title_png": {
+      "x": 112,
+      "y": 1362,
+      "w": 275,
+      "h": 37,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 275,
+      "sourceH": 37
+    },
+    "holy_puni_level_3_png": {
+      "x": 761,
+      "y": 1313,
+      "w": 146,
+      "h": 124,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 146,
+      "sourceH": 124
+    },
+    "holy_puni_level_3_light_png": {
+      "x": 491,
+      "y": 1467,
+      "w": 137,
+      "h": 65,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 137,
+      "sourceH": 65
+    },
+    "holy_puni_level_3_ratebg_s9_png": {
+      "x": 1141,
+      "y": 1258,
+      "w": 682,
+      "h": 27,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 682,
+      "sourceH": 27
+    },
+    "holy_puni_level_3_rate_s9_png": {
+      "x": 780,
+      "y": 1505,
+      "w": 666,
+      "h": 11,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 666,
+      "sourceH": 11
+    },
+    "holy_puni_level_3_tips_png": {
+      "x": 1461,
+      "y": 1126,
+      "w": 548,
+      "h": 51,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 548,
+      "sourceH": 51
+    },
+    "holy_puni_level_3_title_png": {
+      "x": 1131,
+      "y": 1429,
+      "w": 275,
+      "h": 36,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 275,
+      "sourceH": 36
+    },
+    "holy_puni_level_4_png": {
+      "x": 613,
+      "y": 1309,
+      "w": 146,
+      "h": 124,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 146,
+      "sourceH": 124
+    },
+    "holy_puni_level_4_boss_0_png": {
+      "x": 529,
+      "y": 726,
+      "w": 148,
+      "h": 435,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 148,
+      "sourceH": 435
+    },
+    "holy_puni_level_4_boss_1_png": {
+      "x": 679,
+      "y": 746,
+      "w": 148,
+      "h": 435,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 148,
+      "sourceH": 435
+    },
+    "holy_puni_level_4_boss_2_png": {
+      "x": 1879,
+      "y": 1,
+      "w": 148,
+      "h": 435,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 148,
+      "sourceH": 435
+    },
+    "holy_puni_level_4_boss_3_png": {
+      "x": 1878,
+      "y": 438,
+      "w": 148,
+      "h": 435,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 148,
+      "sourceH": 435
+    },
+    "holy_puni_level_4_flag_beated_png": {
+      "x": 1602,
+      "y": 689,
+      "w": 148,
+      "h": 435,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 148,
+      "sourceH": 435
+    },
+    "holy_puni_level_4_flag_selected_png": {
+      "x": 783,
+      "y": 1,
+      "w": 186,
+      "h": 473,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 186,
+      "sourceH": 473
+    },
+    "holy_puni_level_4_icon_png": {
+      "x": 829,
+      "y": 1159,
+      "w": 152,
+      "h": 152,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 152,
+      "sourceH": 152
+    },
+    "holy_puni_level_4_light_png": {
+      "x": 257,
+      "y": 1268,
+      "w": 206,
+      "h": 92,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 206,
+      "sourceH": 92
+    },
+    "holy_puni_level_4_line_png": {
+      "x": 1752,
+      "y": 1121,
+      "w": 201,
+      "h": 1,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 201,
+      "sourceH": 1
+    },
+    "holy_puni_level_4_tips_png": {
+      "x": 829,
+      "y": 1101,
+      "w": 630,
+      "h": 56,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 630,
+      "sourceH": 56
+    },
+    "holy_puni_level_4_title_png": {
+      "x": 1131,
+      "y": 1391,
+      "w": 275,
+      "h": 36,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 275,
+      "sourceH": 36
+    },
+    "holy_puni_level_5_png": {
+      "x": 659,
+      "y": 1183,
+      "w": 146,
+      "h": 124,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 146,
+      "sourceH": 124
+    },
+    "holy_puni_level_5_boss_0_png": {
+      "x": 1679,
+      "y": 345,
+      "w": 197,
+      "h": 342,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 197,
+      "sourceH": 342
+    },
+    "holy_puni_level_5_boss_1_png": {
+      "x": 1679,
+      "y": 1,
+      "w": 198,
+      "h": 342,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 198,
+      "sourceH": 342
+    },
+    "holy_puni_level_5_btnActive_png": {
+      "x": 909,
+      "y": 1431,
+      "w": 176,
+      "h": 52,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 176,
+      "sourceH": 52
+    },
+    "holy_puni_level_5_btnFight_png": {
+      "x": 1141,
+      "y": 1159,
+      "w": 275,
+      "h": 77,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 275,
+      "sourceH": 77
+    },
+    "holy_puni_level_5_flag_selected_png": {
+      "x": 546,
+      "y": 1,
+      "w": 235,
+      "h": 380,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 235,
+      "sourceH": 380
+    },
+    "holy_puni_level_5_icon_0_png": {
+      "x": 1562,
+      "y": 982,
+      "w": 33,
+      "h": 33,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 33,
+      "sourceH": 33
+    },
+    "holy_puni_level_5_icon_1_png": {
+      "x": 2015,
+      "y": 911,
+      "w": 30,
+      "h": 35,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 30,
+      "sourceH": 35
+    },
+    "holy_puni_level_5_itemBg_png": {
+      "x": 1586,
+      "y": 1499,
+      "w": 173,
+      "h": 32,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 173,
+      "sourceH": 32
+    },
+    "holy_puni_level_5_numbg_png": {
+      "x": 1,
+      "y": 1474,
+      "w": 222,
+      "h": 32,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 222,
+      "sourceH": 32
+    },
+    "holy_puni_level_5_recordtips_png": {
+      "x": 546,
+      "y": 445,
+      "w": 214,
+      "h": 24,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 214,
+      "sourceH": 24
+    },
+    "holy_puni_level_5_ringBg_png": {
+      "x": 1,
+      "y": 1,
+      "w": 328,
+      "h": 368,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 328,
+      "sourceH": 368
+    },
+    "holy_puni_level_5_ringbtnlock_png": {
+      "x": 1554,
+      "y": 933,
+      "w": 46,
+      "h": 47,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 46,
+      "sourceH": 47
+    },
+    "holy_puni_level_5_ringdark_png": {
+      "x": 1508,
+      "y": 746,
+      "w": 89,
+      "h": 93,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 89,
+      "sourceH": 93
+    },
+    "holy_puni_level_5_ringlight_png": {
+      "x": 419,
+      "y": 784,
+      "w": 108,
+      "h": 106,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 108,
+      "sourceH": 106
+    },
+    "holy_puni_level_5_ringlocked_png": {
+      "x": 1586,
+      "y": 1451,
+      "w": 97,
+      "h": 43,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 97,
+      "sourceH": 43
+    },
+    "holy_puni_level_5_title_png": {
+      "x": 1753,
+      "y": 1407,
+      "w": 275,
+      "h": 36,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 275,
+      "sourceH": 36
+    },
+    "holy_puni_level_6_png": {
+      "x": 465,
+      "y": 1268,
+      "w": 146,
+      "h": 124,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 146,
+      "sourceH": 124
+    },
+    "holy_puni_level_6_imgcompose_png": {
+      "x": 1953,
+      "y": 986,
+      "w": 84,
+      "h": 83,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 84,
+      "sourceH": 83
+    },
+    "holy_puni_level_6_item_png": {
+      "x": 757,
+      "y": 383,
+      "w": 22,
+      "h": 32,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 22,
+      "sourceH": 32
+    },
+    "holy_puni_level_6_label_png": {
+      "x": 1461,
+      "y": 1073,
+      "w": 134,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 134,
+      "sourceH": 40
+    },
+    "holy_puni_level_6_level_0_png": {
+      "x": 1,
+      "y": 371,
+      "w": 262,
+      "h": 248,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 262,
+      "sourceH": 248
+    },
+    "holy_puni_level_6_level_1_png": {
+      "x": 546,
+      "y": 476,
+      "w": 262,
+      "h": 248,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 262,
+      "sourceH": 248
+    },
+    "holy_puni_level_6_level_2_png": {
+      "x": 810,
+      "y": 496,
+      "w": 262,
+      "h": 248,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 262,
+      "sourceH": 248
+    },
+    "holy_puni_level_6_level_3_png": {
+      "x": 1074,
+      "y": 496,
+      "w": 262,
+      "h": 248,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 262,
+      "sourceH": 248
+    },
+    "holy_puni_level_6_level_4_png": {
+      "x": 1338,
+      "y": 496,
+      "w": 262,
+      "h": 248,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 262,
+      "sourceH": 248
+    },
+    "holy_puni_level_6_level_5_png": {
+      "x": 265,
+      "y": 534,
+      "w": 262,
+      "h": 248,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 262,
+      "sourceH": 248
+    },
+    "holy_puni_level_6_level_6_png": {
+      "x": 1,
+      "y": 621,
+      "w": 262,
+      "h": 248,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 262,
+      "sourceH": 248
+    },
+    "holy_puni_level_6_line_png": {
+      "x": 780,
+      "y": 1485,
+      "w": 297,
+      "h": 2,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 297,
+      "sourceH": 2
+    },
+    "holy_puni_level_6_numbg_png": {
+      "x": 1761,
+      "y": 1499,
+      "w": 169,
+      "h": 32,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 169,
+      "sourceH": 32
+    },
+    "holy_puni_level_6_rate_png": {
+      "x": 1562,
+      "y": 1017,
+      "w": 32,
+      "h": 19,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 32,
+      "sourceH": 19
+    },
+    "holy_puni_level_6_rateBg_png": {
+      "x": 1141,
+      "y": 1238,
+      "w": 206,
+      "h": 13,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 206,
+      "sourceH": 13
+    },
+    "holy_puni_level_6_title_png": {
+      "x": 1408,
+      "y": 1413,
+      "w": 275,
+      "h": 36,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 275,
+      "sourceH": 36
+    },
+    "holy_puni_powerup_pop_41022_png": {
+      "x": 1285,
+      "y": 853,
+      "w": 54,
+      "h": 51,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 54,
+      "sourceH": 51
+    },
+    "holy_puni_powerup_pop_awardbg_png": {
+      "x": 1,
+      "y": 1439,
+      "w": 291,
+      "h": 33,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 291,
+      "sourceH": 33
+    },
+    "holy_puni_powerup_pop_btnExchange_png": {
+      "x": 131,
+      "y": 982,
+      "w": 120,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 120,
+      "sourceH": 40
+    },
+    "holy_puni_powerup_pop_btnFight_png": {
+      "x": 1685,
+      "y": 1445,
+      "w": 176,
+      "h": 52,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 176,
+      "sourceH": 52
+    },
+    "holy_puni_powerup_pop_btnOneTap_png": {
+      "x": 1,
+      "y": 1508,
+      "w": 120,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 120,
+      "sourceH": 40
+    },
+    "holy_puni_powerup_pop_flag_selected_png": {
+      "x": 1752,
+      "y": 689,
+      "w": 112,
+      "h": 180,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 112,
+      "sourceH": 180
+    },
+    "holy_puni_powerup_pop_icon_1_png": {
+      "x": 1953,
+      "y": 1071,
+      "w": 45,
+      "h": 48,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 45,
+      "sourceH": 48
+    },
+    "holy_puni_powerup_pop_icon_texing_png": {
+      "x": 1508,
+      "y": 933,
+      "w": 44,
+      "h": 50,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 44,
+      "sourceH": 50
+    },
+    "holy_puni_powerup_pop_itemBg_png": {
+      "x": 1,
+      "y": 1129,
+      "w": 122,
+      "h": 189,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 122,
+      "sourceH": 189
+    },
+    "holy_puni_powerup_pop_itemIcon_png": {
+      "x": 2000,
+      "y": 1071,
+      "w": 40,
+      "h": 45,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 40,
+      "sourceH": 45
+    },
+    "holy_puni_powerup_pop_numbg_png": {
+      "x": 225,
+      "y": 1496,
+      "w": 214,
+      "h": 32,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 214,
+      "sourceH": 32
+    },
+    "holy_puni_powerup_pop_title_png": {
+      "x": 630,
+      "y": 1467,
+      "w": 148,
+      "h": 60,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 148,
+      "sourceH": 60
+    },
+    "holy_puni_sell_pop_btnBuy_png": {
+      "x": 1401,
+      "y": 1329,
+      "w": 176,
+      "h": 52,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 176,
+      "sourceH": 52
+    },
+    "holy_puni_sell_pop_btnSet_png": {
+      "x": 1602,
+      "y": 630,
+      "w": 70,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 70,
+      "sourceH": 40
+    },
+    "holy_puni_sell_pop_delline_png": {
+      "x": 810,
+      "y": 476,
+      "w": 134,
+      "h": 2,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 134,
+      "sourceH": 2
+    },
+    "holy_puni_sell_pop_diamond_png": {
+      "x": 1323,
+      "y": 956,
+      "w": 26,
+      "h": 26,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 26,
+      "sourceH": 26
+    },
+    "holy_puni_sell_pop_line_png": {
+      "x": 780,
+      "y": 1501,
+      "w": 413,
+      "h": 1,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 413,
+      "sourceH": 1
+    },
+    "holy_puni_sell_pop_pricebg_png": {
+      "x": 491,
+      "y": 1439,
+      "w": 351,
+      "h": 26,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 351,
+      "sourceH": 26
+    },
+    "holy_puni_sell_pop_right_png": {
+      "x": 1285,
+      "y": 906,
+      "w": 49,
+      "h": 48,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 49,
+      "sourceH": 48
+    },
+    "holy_puni_sell_pop_title_png": {
+      "x": 1131,
+      "y": 1329,
+      "w": 268,
+      "h": 60,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 268,
+      "sourceH": 60
+    },
+    "holy_puni_unbind_pop_btnAdd_png": {
+      "x": 2015,
+      "y": 948,
+      "w": 26,
+      "h": 26,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 26,
+      "sourceH": 26
+    },
+    "holy_puni_unbind_pop_btnClose_png": {
+      "x": 1602,
+      "y": 572,
+      "w": 54,
+      "h": 56,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 54,
+      "sourceH": 56
+    },
+    "holy_puni_unbind_pop_btnDel_png": {
+      "x": 469,
+      "y": 996,
+      "w": 26,
+      "h": 26,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 26,
+      "sourceH": 26
+    },
+    "holy_puni_unbind_pop_btnUnbind_png": {
+      "x": 491,
+      "y": 1394,
+      "w": 120,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 120,
+      "sourceH": 40
+    },
+    "holy_puni_unbind_pop_title_png": {
+      "x": 546,
+      "y": 383,
+      "w": 209,
+      "h": 60,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 209,
+      "sourceH": 60
+    },
+    "holy_puni_unbind_pop_tokenBg_png": {
+      "x": 1508,
+      "y": 841,
+      "w": 90,
+      "h": 90,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 90,
+      "sourceH": 90
+    },
+    "holy_puni_up_bg_png": {
+      "x": 1753,
+      "y": 1355,
+      "w": 207,
+      "h": 50,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 207,
+      "sourceH": 50
+    },
+    "pet_info_view_texture_line_1_png": {
+      "x": 546,
+      "y": 471,
+      "w": 220,
+      "h": 1,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 220,
+      "sourceH": 1
+    },
+    "study_pet_attribute_bg2_png": {
+      "x": 1141,
+      "y": 1287,
+      "w": 462,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 462,
+      "sourceH": 40
+    },
+    "study_pet_attribute_btnMax_png": {
+      "x": 419,
+      "y": 996,
+      "w": 48,
+      "h": 24,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 48,
+      "sourceH": 24
+    },
+    "study_pet_attribute_btnMin_png": {
+      "x": 497,
+      "y": 996,
+      "w": 24,
+      "h": 24,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 24,
+      "sourceH": 24
+    },
+    "study_pet_attribute_btnPlus_png": {
+      "x": 757,
+      "y": 417,
+      "w": 24,
+      "h": 24,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 24,
+      "sourceH": 24
+    },
+    "study_pet_attribute_icon2_png": {
+      "x": 2029,
+      "y": 1,
+      "w": 8,
+      "h": 24,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 8,
+      "sourceH": 24
+    },
+    "study_pet_attribute_img_btnAssign_png": {
+      "x": 1863,
+      "y": 1445,
+      "w": 176,
+      "h": 52,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 176,
+      "sourceH": 52
+    },
+    "study_pet_attribute_img_btnReset_png": {
+      "x": 1408,
+      "y": 1451,
+      "w": 176,
+      "h": 52,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 176,
+      "sourceH": 52
+    },
+    "study_pet_attribute_tbg_png": {
+      "x": 265,
+      "y": 495,
+      "w": 58,
+      "h": 24,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 58,
+      "sourceH": 24
+    }
+  }
+}

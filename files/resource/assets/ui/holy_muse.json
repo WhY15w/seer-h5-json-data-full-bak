@@ -1,0 +1,36 @@
+{
+  "groups": [
+    {
+      "name": "holy_muse",
+      "keys": "holy_muse_sheet,hm_main_bg_jpg,hm_panel1_panel1bg_png,hm_panel2_bg_jpg,hm_panel5_bg_jpg"
+    }
+  ],
+  "resources": [
+    {
+      "name": "hm_main_bg_jpg",
+      "type": "image",
+      "url": "holy_muse/outside/hm_main_bg.jpg"
+    },
+    {
+      "name": "hm_panel1_panel1bg_png",
+      "type": "image",
+      "url": "holy_muse/outside/hm_panel1_panel1bg.png"
+    },
+    {
+      "name": "hm_panel2_bg_jpg",
+      "type": "image",
+      "url": "holy_muse/outside/hm_panel2_bg.jpg"
+    },
+    {
+      "name": "hm_panel5_bg_jpg",
+      "type": "image",
+      "url": "holy_muse/outside/hm_panel5_bg.jpg"
+    },
+    {
+      "name": "holy_muse_sheet",
+      "type": "sheet",
+      "url": "holy_muse/holy_muse_sheet.json",
+      "subkeys": "hm_main_btn1_png,hm_main_btn2_png,hm_main_btn3_png,hm_main_btn4_png,hm_main_btncollect_png,hm_main_btncollected_png,hm_main_btnGet_png,hm_main_btninfo_png,hm_main_btnzhi_png,hm_main_hasDone_png,hm_main_hasGet_png,hm_main_jfsm_png,hm_main_nlds_png,hm_main_nlts_png,hm_main_slzz_png,hm_main_stms_png,hm_main_stzl_png,hm_main_tuceng_1_png,hm_main_xmzz_png,hm_panel1_btnadd_png,hm_panel1_btnfight_png,hm_panel1_btnonekey_png,hm_panel1_cn_zl_png,hm_panel1_juxing_903_png,hm_panel1_juxing_905_png,hm_panel1_jx_903thumb_png,hm_panel1_tc_14_kb_png,hm_panel1__hd_zl_png,hm_panel2_1714496_png,hm_panel2_jian_chan_png,hm_panel2_jlbb_png,hm_panel2_jlhf_png,hm_panel2_juxing_904_png,hm_panel2_jx_903_kb_png,hm_panel2_jx_904_kb_png,hm_panel2_kun_nan_png,hm_panel2_nls_png,hm_panel2_panel2title_png,hm_panel2_tuceng_16_png,hm_panel2_tuceng_19_png,hm_panel2_tuceng_20_png,hm_panel2_txtlabel_png,hm_panel2_yjzs_png,hm_panel2_zhong_deng_png,hm_panel2_zu_8_png,hm_panel3_1714497_png,hm_panel3_1714498_png,hm_panel3_1714499_png,hm_panel3_1714500_png,hm_panel3_btnbeginfight_png,hm_panel3_fightbg1_png,hm_panel3_fightbg2_png,hm_panel3_fightbg3_png,hm_panel3_fightbg4_png,hm_panel3_juxing_909_png,hm_panel3_panel3title_png,hm_panel3_tuceng_25_png,hm_panel4_1714501_png,hm_panel4_1714502_png,hm_panel4_btnaction_png,hm_panel4_jhxh_png,hm_panel4_juxing_910_png,hm_panel4_panel4title_png,hm_panel4_tuceng_29_png,hm_panel4_zu_11_png,hm_panel4_zu_9_png,hm_panel5_btndraw_png,hm_panel5_btnfreeget_png,hm_panel5_diwujineng_png,hm_panel5_juxing_904_png,hm_panel5_jx_9041_png,hm_panel5_jx_904_kb_png,hm_panel5_jx_911_kb_2_png,hm_panel5_tuceng_35_png,hm_panel5_txtlabel_png,hm_panel5_yjzs_png,hm_panel5_zstx_png"
+    }
+  ]
+}

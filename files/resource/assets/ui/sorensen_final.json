@@ -1,0 +1,56 @@
+{
+  "groups": [
+    {
+      "name": "sorensen_final",
+      "keys": "sorensen_final_sheet,sorensen_final_bg_png,sorensen_final_level_1_bg_png,sorensen_final_level_1_bgimg_png,sorensen_final_level_1_pet_0_png,sorensen_final_level_1_pet_1_png,sorensen_final_level_3_pet_png,sorensen_final_sell_pop_bg_png,sorensen_final_sell_pop_pet_png"
+    }
+  ],
+  "resources": [
+    {
+      "name": "sorensen_final_bg_png",
+      "type": "image",
+      "url": "sorensen_final/outside/sorensen_final_bg.png"
+    },
+    {
+      "name": "sorensen_final_level_1_bg_png",
+      "type": "image",
+      "url": "sorensen_final/outside/sorensen_final_level_1_bg.png"
+    },
+    {
+      "name": "sorensen_final_level_1_bgimg_png",
+      "type": "image",
+      "url": "sorensen_final/outside/sorensen_final_level_1_bgimg.png"
+    },
+    {
+      "name": "sorensen_final_level_1_pet_0_png",
+      "type": "image",
+      "url": "sorensen_final/outside/sorensen_final_level_1_pet_0.png"
+    },
+    {
+      "name": "sorensen_final_level_1_pet_1_png",
+      "type": "image",
+      "url": "sorensen_final/outside/sorensen_final_level_1_pet_1.png"
+    },
+    {
+      "name": "sorensen_final_level_3_pet_png",
+      "type": "image",
+      "url": "sorensen_final/outside/sorensen_final_level_3_pet.png"
+    },
+    {
+      "name": "sorensen_final_sell_pop_bg_png",
+      "type": "image",
+      "url": "sorensen_final/outside/sorensen_final_sell_pop_bg.png"
+    },
+    {
+      "name": "sorensen_final_sell_pop_pet_png",
+      "type": "image",
+      "url": "sorensen_final/outside/sorensen_final_sell_pop_pet.png"
+    },
+    {
+      "name": "sorensen_final_sheet",
+      "type": "sheet",
+      "url": "sorensen_final/sorensen_final_sheet.json",
+      "subkeys": "1913_png,2151_png,2455_png,2586_png,2594_png,2606_png,2616_png,2698_png,2780_png,2809_png,2817_png,2833_png,2852_png,2876_png,2886_png,2887_png,2933_png,3022_png,3164_png,3227_png,3280_png,3289_png,3293_png,3297_png,3301_png,3308_png,3315_png,3318_png,3356_png,3368_png,3384_png,3397_png,3403_png,3405_png,3416_png,sorensen_final_attribute_bg2_png,sorensen_final_attribute_btnMax_png,sorensen_final_attribute_btnMin_png,sorensen_final_attribute_btnPlus_png,sorensen_final_attribute_icon2_png,sorensen_final_attribute_img_btnAssign_png,sorensen_final_attribute_img_btnReset_png,sorensen_final_attribute_tbg_png,sorensen_final_btnBuy_png,sorensen_final_btnEvo_png,sorensen_final_btnGo_png,sorensen_final_btnInfo_png,sorensen_final_btnOneTap_png,sorensen_final_btnPass_png,sorensen_final_btnUp_png,sorensen_final_flag_evo_png,sorensen_final_flag_passed_png,sorensen_final_img_j_png,sorensen_final_level_0_png,sorensen_final_level_1_png,sorensen_final_level_1_btnFight_png,sorensen_final_level_1_img_bar_png,sorensen_final_level_1_img_Jindubg_png,sorensen_final_level_1_img_thumb_png,sorensen_final_level_1_img_vs_png,sorensen_final_level_1_label_chaos_png,sorensen_final_level_1_label_holy_png,sorensen_final_level_1_light_png,sorensen_final_level_1_line_png,sorensen_final_level_1_numbg_png,sorensen_final_level_1_title_png,sorensen_final_level_1_txtbg_png,sorensen_final_level_1_up_bg_png,sorensen_final_level_2_png,sorensen_final_level_2_boss_0_png,sorensen_final_level_2_boss_1_png,sorensen_final_level_2_boss_2_png,sorensen_final_level_2_btnAdd_png,sorensen_final_level_2_imgBtn_cure_png,sorensen_final_level_2_imgBtn_pet_png,sorensen_final_level_2_infobg_png,sorensen_final_level_2_itemIcon_png,sorensen_final_level_2_title_png,sorensen_final_level_2_txtbg_png,sorensen_final_level_3_png,sorensen_final_level_3_btnFight_png,sorensen_final_level_3_btnOneTap_png,sorensen_final_level_3_flag_done_0_png,sorensen_final_level_3_flag_done_1_png,sorensen_final_level_3_flag_done_2_png,sorensen_final_level_3_flag_done_3_png,sorensen_final_level_3_flag_done_4_png,sorensen_final_level_3_flag_done_5_png,sorensen_final_level_3_flag_done_6_png,sorensen_final_level_3_img_level_0_png,sorensen_final_level_3_img_level_1_png,sorensen_final_level_3_img_level_2_png,sorensen_final_level_3_img_level_3_png,sorensen_final_level_3_img_level_4_png,sorensen_final_level_3_img_level_5_png,sorensen_final_level_3_img_level_6_png,sorensen_final_level_3_img_selected_png,sorensen_final_level_3_star_png,sorensen_final_level_3_starbg_png,sorensen_final_level_3_title_png,sorensen_final_level_4_banM_png,sorensen_final_level_4_banS_png,sorensen_final_level_4_beatmask_png,sorensen_final_level_4_bossLine_png,sorensen_final_level_4_btnOneTap_png,sorensen_final_level_4_flag_beated_png,sorensen_final_level_4_flag_close_png,sorensen_final_level_4_flag_win_png,sorensen_final_level_4_galaxy_0_png,sorensen_final_level_4_galaxy_1_png,sorensen_final_level_4_galaxy_2_png,sorensen_final_level_4_galaxy_3_png,sorensen_final_level_4_galaxy_4_png,sorensen_final_level_4_galaxy_5_png,sorensen_final_level_4_galaxy_6_png,sorensen_final_level_4_help_png,sorensen_final_level_4_img_selected_png,sorensen_final_level_4_labelbg_png,sorensen_final_level_4_lock_png,sorensen_final_level_4_title_png,sorensen_final_power_up_40988_png,sorensen_final_power_up_btnGet_png,sorensen_final_power_up_help_png,sorensen_final_power_up_iconBg_png,sorensen_final_power_up_icon_1_png,sorensen_final_power_up_icon_texing_png,sorensen_final_power_up_title_png,sorensen_final_power_up_txtbg_png,sorensen_final_sell_pop_btnBuy_png,sorensen_final_sell_pop_BtnClose_png,sorensen_final_sell_pop_btnSet_png,sorensen_final_sell_pop_delline_png,sorensen_final_sell_pop_diamond_png,sorensen_final_sell_pop_line_png,sorensen_final_sell_pop_pricebg_png,sorensen_final_sell_pop_right_png,sorensen_final_sell_pop_title_png,sorensen_final_texture_line_1_png,sorensen_final_up_bg_png"
+    }
+  ]
+}

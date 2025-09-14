@@ -1,0 +1,153 @@
+{
+  "SubTexture": [
+    {
+      "name": "正面手臂1",
+      "x": 90,
+      "width": 29,
+      "y": 0,
+      "height": 61
+    },
+    {
+      "name": "正面手臂发光1",
+      "x": 120,
+      "width": 29,
+      "y": 0,
+      "height": 61
+    },
+    {
+      "name": "手臂变色1",
+      "x": 60,
+      "width": 29,
+      "y": 0,
+      "height": 61
+    },
+    {
+      "name": "正面手臂发光2",
+      "x": 0,
+      "width": 29,
+      "y": 0,
+      "height": 61
+    },
+    {
+      "name": "正面手臂发光3",
+      "x": 30,
+      "width": 29,
+      "y": 0,
+      "height": 61
+    },
+    {
+      "name": "arm0",
+      "x": 79,
+      "width": 24,
+      "y": 62,
+      "height": 55
+    },
+    {
+      "name": "arm2",
+      "x": 54,
+      "width": 24,
+      "y": 62,
+      "height": 55
+    },
+    {
+      "name": "arm",
+      "x": 195,
+      "width": 24,
+      "y": 108,
+      "height": 34
+    },
+    {
+      "name": "arm1",
+      "x": 170,
+      "width": 24,
+      "y": 108,
+      "height": 34
+    },
+    {
+      "name": "右面元件",
+      "x": 188,
+      "width": 37,
+      "y": 0,
+      "height": 53
+    },
+    {
+      "name": "右面手臂发光1",
+      "x": 150,
+      "width": 37,
+      "y": 0,
+      "height": 53
+    },
+    {
+      "name": "右面手臂发光2",
+      "x": 188,
+      "width": 37,
+      "y": 54,
+      "height": 53
+    },
+    {
+      "name": "右面手臂发光3",
+      "x": 150,
+      "width": 37,
+      "y": 54,
+      "height": 53
+    },
+    {
+      "name": "arm4",
+      "x": 144,
+      "width": 25,
+      "y": 108,
+      "height": 51
+    },
+    {
+      "name": "arm6",
+      "x": 118,
+      "width": 25,
+      "y": 62,
+      "height": 51
+    },
+    {
+      "name": "arm5",
+      "x": 104,
+      "width": 12,
+      "y": 95,
+      "height": 32
+    },
+    {
+      "name": "arm7",
+      "x": 104,
+      "width": 12,
+      "y": 62,
+      "height": 32
+    },
+    {
+      "name": "正背面手臂1",
+      "x": 226,
+      "width": 26,
+      "y": 55,
+      "height": 54
+    },
+    {
+      "name": "背面手臂发光1",
+      "x": 0,
+      "width": 26,
+      "y": 62,
+      "height": 54
+    },
+    {
+      "name": "背面手臂发光2",
+      "x": 27,
+      "width": 26,
+      "y": 62,
+      "height": 54
+    },
+    {
+      "name": "背面手臂发光3",
+      "x": 226,
+      "width": 26,
+      "y": 0,
+      "height": 54
+    }
+  ],
+  "name": 100242,
+  "imagePath": "texture.png"
+}

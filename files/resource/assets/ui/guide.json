@@ -1,0 +1,31 @@
+{
+  "groups": [
+    {
+      "name": "guide",
+      "keys": "guide_sheet,H5_xinshoujiemian_ske_json,H5_xinshoujiemian_tex_json,H5_xinshoujiemian_tex_png"
+    }
+  ],
+  "resources": [
+    {
+      "name": "H5_xinshoujiemian_ske_json",
+      "type": "json",
+      "url": "guide/outside/H5_xinshoujiemian_ske.json"
+    },
+    {
+      "name": "H5_xinshoujiemian_tex_json",
+      "type": "json",
+      "url": "guide/outside/H5_xinshoujiemian_tex.json"
+    },
+    {
+      "name": "H5_xinshoujiemian_tex_png",
+      "type": "image",
+      "url": "guide/outside/H5_xinshoujiemian_tex.png"
+    },
+    {
+      "name": "guide_sheet",
+      "type": "sheet",
+      "url": "guide/guide_sheet.json",
+      "subkeys": "guide_arrow_png,guide_changan_cire_1_png,guide_changan_cire_bg_png,guide_click_hand_png,guide_dialog_npc_png,guide_npc_test_png,guide_talk_bg_1_png,guide_talk_bg_2_png,guide_talk_bg_3_png,guide_talk_next_btn_1_png,guide_talk_next_btn_2_png,guide_talk_next_btn_3_png,guide_talk_pic_jinglingbeibao_png,guide_talk_pic_kezhi1_png,guide_talk_pic_kezhi2_png,guide_talk_pic_kezhi3_png,guide_talk_pic_xuexili_png,new_guide_tip_bg_png,new_guide_tip_title_bg_png,new_seer_guide_img_next_png,new_seer_guide_point_png,new_seer_other_view_bzts_btnClose_png,new_seer_other_view_bzts_btnSure_png,new_seer_other_view_bzts_bz_title_png,new_seer_other_view_bzts_p1_png,new_seer_other_view_bzts_p2_png,new_seer_selecte_panel_btnNew_png,new_seer_selecte_panel_btnOld_png,guide_s9_box_bg_png,guide_s9_bubble_down_png,guide_s9_bubble_left_png,guide_s9_bubble_right_png,guide_s9_bubble_top_png"
+    }
+  ]
+}

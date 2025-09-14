@@ -1,0 +1,30 @@
+{
+  "resources": [
+    {
+      "type": "json",
+      "url": "814.json",
+      "name": "road_814"
+    },
+    {
+      "type": "text",
+      "url": "Map814Skin.exml",
+      "name": "exml_814"
+    },
+    {
+      "type": "image",
+      "url": "map_814_bg_mc.jpg",
+      "name": "map_814_bg_mc_jpg"
+    },
+    {
+      "type": "image",
+      "url": "map_814_top_mc.png",
+      "name": "map_814_top_mc_png"
+    }
+  ],
+  "groups": [
+    {
+      "keys": "road_814,exml_814,map_814_bg_mc_jpg,map_814_top_mc_png",
+      "name": "map_814"
+    }
+  ]
+}

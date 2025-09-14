@@ -1,0 +1,857 @@
+{
+  "frameRate": 24,
+  "name": "nonoPet_700802",
+  "version": "5.5",
+  "compatibleVersion": "5.5",
+  "armature": [
+    {
+      "name": "nono",
+      "bone": [
+        {
+          "inheritScale": false,
+          "name": "Layer 4",
+          "transform": {
+            "x": 40.75,
+            "y": 107.65,
+            "scX": -0.25,
+            "scY": 0.25
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "Layer 3",
+          "transform": {
+            "x": 53.95,
+            "y": 91.75
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "Layer 2",
+          "transform": {
+            "x": 26.35,
+            "y": 91.85
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "Layer 1",
+          "transform": {
+            "x": 39.75,
+            "y": 72.45
+          }
+        }
+      ],
+      "slot": [
+        {
+          "name": "Layer 4",
+          "parent": "Layer 4"
+        },
+        {
+          "name": "Layer 3",
+          "parent": "Layer 3"
+        },
+        {
+          "name": "Layer 2",
+          "parent": "Layer 2"
+        },
+        {
+          "name": "Layer 1",
+          "parent": "Layer 1"
+        }
+      ],
+      "skin": [
+        {
+          "slot": [
+            {
+              "name": "Layer 4",
+              "display": [
+                {
+                  "name": "shadow",
+                  "transform": {
+                    "x": -0.9,
+                    "y": 1.1
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Layer 3",
+              "display": [
+                {
+                  "name": "补间 17",
+                  "transform": {
+                    "x": 0.3,
+                    "y": 0.25
+                  }
+                },
+                {
+                  "name": "补间 19",
+                  "transform": {
+                    "x": 0.1,
+                    "y": 0.05
+                  }
+                },
+                {
+                  "name": "补间 20",
+                  "transform": {
+                    "x": 0.25,
+                    "y": 0.35
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Layer 2",
+              "display": [
+                {
+                  "name": "补间 13",
+                  "transform": {
+                    "x": 0.3,
+                    "y": 0.25
+                  }
+                },
+                {
+                  "name": "补间 15",
+                  "transform": {
+                    "x": 0.25,
+                    "y": 0.15
+                  }
+                },
+                {
+                  "name": "补间 16",
+                  "transform": {
+                    "x": 0.15,
+                    "y": 0.2
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Layer 1",
+              "display": [
+                {
+                  "name": "补间 21",
+                  "transform": {
+                    "x": 0.5,
+                    "y": 0.15
+                  }
+                },
+                {
+                  "name": "补间 23",
+                  "transform": {
+                    "x": 0.05,
+                    "y": 0.15
+                  }
+                },
+                {
+                  "name": "补间 24",
+                  "transform": {
+                    "x": 0.3,
+                    "y": 0.5
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "animation": [
+        {
+          "duration": 20,
+          "fadeInTime": 0.3,
+          "name": "down",
+          "bone": [
+            {
+              "name": "Layer 4",
+              "scaleFrame": [
+                {
+                  "duration": 20
+                }
+              ]
+            },
+            {
+              "name": "Layer 3",
+              "translateFrame": [
+                {
+                  "duration": 9,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "x": 2.3,
+                  "y": -9.2
+                },
+                {
+                  "tweenEasing": 0
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 20
+                }
+              ]
+            },
+            {
+              "name": "Layer 2",
+              "translateFrame": [
+                {
+                  "duration": 9,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "x": -2.3,
+                  "y": -9.2
+                },
+                {
+                  "tweenEasing": 0
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 20
+                }
+              ]
+            },
+            {
+              "name": "Layer 1",
+              "translateFrame": [
+                {
+                  "duration": 9,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "y": -9.2
+                },
+                {
+                  "tweenEasing": 0
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 20
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "duration": 20,
+          "fadeInTime": 0.3,
+          "name": "rightdown",
+          "bone": [
+            {
+              "name": "Layer 4",
+              "translateFrame": [
+                {
+                  "duration": 20,
+                  "x": 16.45,
+                  "y": 0.76
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 20
+                }
+              ]
+            },
+            {
+              "name": "Layer 3",
+              "translateFrame": [
+                {
+                  "duration": 9,
+                  "tweenEasing": 0,
+                  "x": 19.25,
+                  "y": -4.45
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "x": 21.55,
+                  "y": -13.65
+                },
+                {
+                  "tweenEasing": 0,
+                  "x": 19.25,
+                  "y": -4.45
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 20
+                }
+              ]
+            },
+            {
+              "name": "Layer 2",
+              "translateFrame": [
+                {
+                  "duration": 9,
+                  "tweenEasing": 0,
+                  "x": 21.3,
+                  "y": 5.45
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "x": 19,
+                  "y": -3.75
+                },
+                {
+                  "tweenEasing": 0,
+                  "x": 21.3,
+                  "y": 5.45
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 20
+                }
+              ]
+            },
+            {
+              "name": "Layer 1",
+              "translateFrame": [
+                {
+                  "duration": 9,
+                  "tweenEasing": 0,
+                  "x": 9.95,
+                  "y": 1.85
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "x": 9.95,
+                  "y": -7.35
+                },
+                {
+                  "tweenEasing": 0,
+                  "x": 9.95,
+                  "y": 1.85
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 20
+                }
+              ]
+            }
+          ],
+          "slot": [
+            {
+              "name": "Layer 3",
+              "displayFrame": [
+                {
+                  "duration": 20,
+                  "value": 1
+                }
+              ]
+            },
+            {
+              "name": "Layer 2",
+              "displayFrame": [
+                {
+                  "duration": 20,
+                  "value": 1
+                }
+              ]
+            },
+            {
+              "name": "Layer 1",
+              "displayFrame": [
+                {
+                  "duration": 20,
+                  "value": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "duration": 20,
+          "fadeInTime": 0.3,
+          "name": "rightup",
+          "bone": [
+            {
+              "name": "Layer 4",
+              "translateFrame": [
+                {
+                  "duration": 20,
+                  "x": 11.15,
+                  "y": 3.86
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 20
+                }
+              ]
+            },
+            {
+              "name": "Layer 3",
+              "translateFrame": [
+                {
+                  "duration": 9,
+                  "tweenEasing": 0,
+                  "x": 11.5,
+                  "y": 4.8
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "x": 13.8,
+                  "y": -4.4
+                },
+                {
+                  "tweenEasing": 0,
+                  "x": 11.5,
+                  "y": 4.8
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 20
+                }
+              ]
+            },
+            {
+              "name": "Layer 2",
+              "translateFrame": [
+                {
+                  "duration": 9,
+                  "tweenEasing": 0,
+                  "x": 14.85,
+                  "y": -5.2
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "x": 12.55,
+                  "y": -14.4
+                },
+                {
+                  "tweenEasing": 0,
+                  "x": 14.85,
+                  "y": -5.2
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 20
+                }
+              ]
+            },
+            {
+              "name": "Layer 1",
+              "translateFrame": [
+                {
+                  "duration": 9,
+                  "tweenEasing": 0,
+                  "x": 6.65,
+                  "y": 3
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "x": 6.65,
+                  "y": -6.2
+                },
+                {
+                  "tweenEasing": 0,
+                  "x": 6.65,
+                  "y": 3
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 20
+                }
+              ]
+            }
+          ],
+          "slot": [
+            {
+              "name": "Layer 3",
+              "displayFrame": [
+                {
+                  "duration": 20,
+                  "value": 2
+                }
+              ]
+            },
+            {
+              "name": "Layer 2",
+              "displayFrame": [
+                {
+                  "duration": 20,
+                  "value": 2
+                }
+              ]
+            },
+            {
+              "name": "Layer 1",
+              "displayFrame": [
+                {
+                  "duration": 20,
+                  "value": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "duration": 20,
+          "fadeInTime": 0.3,
+          "name": "downWalk",
+          "bone": [
+            {
+              "name": "Layer 4",
+              "scaleFrame": [
+                {
+                  "duration": 20
+                }
+              ]
+            },
+            {
+              "name": "Layer 3",
+              "translateFrame": [
+                {
+                  "duration": 9,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "x": 2.3,
+                  "y": -9.2
+                },
+                {
+                  "tweenEasing": 0
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 20
+                }
+              ]
+            },
+            {
+              "name": "Layer 2",
+              "translateFrame": [
+                {
+                  "duration": 9,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "x": -2.3,
+                  "y": -9.2
+                },
+                {
+                  "tweenEasing": 0
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 20
+                }
+              ]
+            },
+            {
+              "name": "Layer 1",
+              "translateFrame": [
+                {
+                  "duration": 9,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "y": -9.2
+                },
+                {
+                  "tweenEasing": 0
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 20
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "duration": 20,
+          "fadeInTime": 0.3,
+          "name": "rightdownWalk",
+          "bone": [
+            {
+              "name": "Layer 4",
+              "translateFrame": [
+                {
+                  "duration": 20,
+                  "x": 16.45,
+                  "y": 0.76
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 20
+                }
+              ]
+            },
+            {
+              "name": "Layer 3",
+              "translateFrame": [
+                {
+                  "duration": 9,
+                  "tweenEasing": 0,
+                  "x": 19.25,
+                  "y": -4.45
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "x": 21.55,
+                  "y": -13.65
+                },
+                {
+                  "tweenEasing": 0,
+                  "x": 19.25,
+                  "y": -4.45
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 20
+                }
+              ]
+            },
+            {
+              "name": "Layer 2",
+              "translateFrame": [
+                {
+                  "duration": 9,
+                  "tweenEasing": 0,
+                  "x": 21.3,
+                  "y": 5.45
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "x": 19,
+                  "y": -3.75
+                },
+                {
+                  "tweenEasing": 0,
+                  "x": 21.3,
+                  "y": 5.45
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 20
+                }
+              ]
+            },
+            {
+              "name": "Layer 1",
+              "translateFrame": [
+                {
+                  "duration": 9,
+                  "tweenEasing": 0,
+                  "x": 9.95,
+                  "y": 1.85
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "x": 9.95,
+                  "y": -7.35
+                },
+                {
+                  "tweenEasing": 0,
+                  "x": 9.95,
+                  "y": 1.85
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 20
+                }
+              ]
+            }
+          ],
+          "slot": [
+            {
+              "name": "Layer 3",
+              "displayFrame": [
+                {
+                  "duration": 20,
+                  "value": 1
+                }
+              ]
+            },
+            {
+              "name": "Layer 2",
+              "displayFrame": [
+                {
+                  "duration": 20,
+                  "value": 1
+                }
+              ]
+            },
+            {
+              "name": "Layer 1",
+              "displayFrame": [
+                {
+                  "duration": 20,
+                  "value": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "duration": 20,
+          "fadeInTime": 0.3,
+          "name": "rightupWalk",
+          "bone": [
+            {
+              "name": "Layer 4",
+              "translateFrame": [
+                {
+                  "duration": 20,
+                  "x": 11.15,
+                  "y": 3.86
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 20
+                }
+              ]
+            },
+            {
+              "name": "Layer 3",
+              "translateFrame": [
+                {
+                  "duration": 9,
+                  "tweenEasing": 0,
+                  "x": 11.5,
+                  "y": 4.8
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "x": 13.8,
+                  "y": -4.4
+                },
+                {
+                  "tweenEasing": 0,
+                  "x": 11.5,
+                  "y": 4.8
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 20
+                }
+              ]
+            },
+            {
+              "name": "Layer 2",
+              "translateFrame": [
+                {
+                  "duration": 9,
+                  "tweenEasing": 0,
+                  "x": 14.85,
+                  "y": -5.2
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "x": 12.55,
+                  "y": -14.4
+                },
+                {
+                  "tweenEasing": 0,
+                  "x": 14.85,
+                  "y": -5.2
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 20
+                }
+              ]
+            },
+            {
+              "name": "Layer 1",
+              "translateFrame": [
+                {
+                  "duration": 9,
+                  "tweenEasing": 0,
+                  "x": 6.65,
+                  "y": 3
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "x": 6.65,
+                  "y": -6.2
+                },
+                {
+                  "tweenEasing": 0,
+                  "x": 6.65,
+                  "y": 3
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 20
+                }
+              ]
+            }
+          ],
+          "slot": [
+            {
+              "name": "Layer 3",
+              "displayFrame": [
+                {
+                  "duration": 20,
+                  "value": 2
+                }
+              ]
+            },
+            {
+              "name": "Layer 2",
+              "displayFrame": [
+                {
+                  "duration": 20,
+                  "value": 2
+                }
+              ]
+            },
+            {
+              "name": "Layer 1",
+              "displayFrame": [
+                {
+                  "duration": 20,
+                  "value": 2
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

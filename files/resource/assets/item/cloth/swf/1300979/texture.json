@@ -1,0 +1,34 @@
+{
+  "name": 1300979,
+  "imagePath": "texture.png",
+  "SubTexture": [
+    {
+      "name": "元件 8",
+      "x": 0,
+      "width": 226,
+      "y": 0,
+      "height": 110
+    },
+    {
+      "name": "元件 10",
+      "x": 228,
+      "width": 178,
+      "y": 0,
+      "height": 110
+    },
+    {
+      "name": "元件 12",
+      "x": 180,
+      "width": 178,
+      "y": 112,
+      "height": 90
+    },
+    {
+      "name": "元件 14",
+      "x": 0,
+      "width": 178,
+      "y": 112,
+      "height": 90
+    }
+  ]
+}

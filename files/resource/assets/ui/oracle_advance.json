@@ -1,0 +1,51 @@
+{
+  "groups": [
+    {
+      "name": "oracle_advance",
+      "keys": "oracle_advance_sheet,shenyujinjie_atlas,shenyujinjie_json,oa_battlepanel_bg_jpg,oa_battlepanel_imgpet_png,oa_mainpanel_bg_png,oa_mainpanel_imgpet_png,shenyujinjie_png"
+    }
+  ],
+  "resources": [
+    {
+      "name": "shenyujinjie_atlas",
+      "type": "text",
+      "url": "oracle_advance/outside/shenyujinjie.atlas"
+    },
+    {
+      "name": "shenyujinjie_json",
+      "type": "json",
+      "url": "oracle_advance/outside/shenyujinjie.json"
+    },
+    {
+      "name": "oa_battlepanel_bg_jpg",
+      "type": "image",
+      "url": "oracle_advance/outside/oa_battlepanel_bg.jpg"
+    },
+    {
+      "name": "oa_battlepanel_imgpet_png",
+      "type": "image",
+      "url": "oracle_advance/outside/oa_battlepanel_imgpet.png"
+    },
+    {
+      "name": "oa_mainpanel_bg_png",
+      "type": "image",
+      "url": "oracle_advance/outside/oa_mainpanel_bg.png"
+    },
+    {
+      "name": "oa_mainpanel_imgpet_png",
+      "type": "image",
+      "url": "oracle_advance/outside/oa_mainpanel_imgpet.png"
+    },
+    {
+      "name": "shenyujinjie_png",
+      "type": "image",
+      "url": "oracle_advance/outside/shenyujinjie.png"
+    },
+    {
+      "name": "oracle_advance_sheet",
+      "type": "sheet",
+      "url": "oracle_advance/oracle_advance_sheet.json",
+      "subkeys": "oa_battlepanel_btnadd_png,oa_battlepanel_btnunlock_png,oa_battlepanel_btnyijian_png,oa_battlepanel_hasdone_png,oa_battlepanel_icon1_png,oa_battlepanel_icon2_png,oa_battlepanel_icon3_png,oa_battlepanel_icon4_png,oa_battlepanel_iconbg_png,oa_battlepanel_iconName_png,oa_battlepanel_icon_gold_png,oa_battlepanel_imghasDone_png,oa_battlepanel_img_di2_png,oa_battlepanel_jx_2_kb_png,oa_battlepanel_slan_png,oa_battlepanel_title_png,oa_battlepanel_wjs_fb_4_png,oa_battlepop_btnfight_png,oa_battlepop_btnStartfight_png,oa_battlepop_contentbg_kb_png,oa_battlepop_jlbb_png,oa_battlepop_jlhf_png,oa_battlepop_yhgg_png,oa_infopop1_down_1_png,oa_infopop1_jx_316_kb_png,oa_infopop1_kuang_png,oa_infopop1_turnpagesright_right_1_png,oa_infopop1_turnpagesright_right_2_png,oa_infopop_petImg1_png,oa_mainpanel_btnExchancge_png,oa_mainpanel_btnFastAdvanced_png,oa_mainpanel_btnget_png,oa_mainpanel_btngo_png,oa_mainpanel_btnturnpagesright_png,oa_mainpanel_contenbg_1_png,oa_mainpanel_contenbg_2_png,oa_mainpanel_czzds_png,oa_mainpanel_hasdone_png,oa_mainpanel_juxing_530_png,oa_mainpanel_jx_532_fb_2_png,oa_mainpanel_prop_png,oa_mainpanel_skillbg_png,oa_mainpanel_title1_png,oa_mainpanel_tuoyuan_1_png,oa_mainpanel_turnpagesright_right_1_png,oa_mainpanel_txjh_png,oa_mainpanel_xzjn_png"
+    }
+  ]
+}

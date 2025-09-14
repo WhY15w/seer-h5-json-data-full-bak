@@ -1,0 +1,226 @@
+{
+  "groups": [
+    {
+      "name": "battle",
+      "keys": "battle_sheet,baoji_ske_json,baoji_tex_json,battle_clock_num_fnt,bloodmovie_json,catch_mv_ske_json,catch_mv_tex_json,crisit2_json,crits_attack_hp_num_fnt,defend_num_fnt,duizhanjindutiao_ske_json,duizhanjindutiao_tex_json,fixed_damage_num_fnt,hp_damage_num_fnt,hp_damage_num2_fnt,hp_damage_num_small_fnt,hp_recovery_num_fnt,jiechuzhuangtai_ske_json,jiechuzhuangtai_tex_json,jinruduizhan_3_ske_json,jinruduizhan_3_tex_json,PPhuifu_1_ske_json,PPhuifu_1_tex_json,ppmovie_json,skeleton_json,zhiliao_ske_json,zhiliao_tex_json,baoji_tex_png,battle_bg_jpg,battle_item_itembg_png,battle_item_mask_png,battle_loding_leftBg_png,battle_loding_rightBg_png,battle_loding_vs_png,bloodmovie_png,catch_mv_tex_png,crisit2_png,duizhanjindutiao_tex_png,jiechuzhuangtai_tex_png,jinruduizhan_3_tex_png,PPhuifu_1_tex_png,ppmovie_png,zhiliao_tex_png"
+    }
+  ],
+  "resources": [
+    {
+      "name": "baoji_ske_json",
+      "type": "json",
+      "url": "battle/outside/baoji_ske.json"
+    },
+    {
+      "name": "baoji_tex_json",
+      "type": "json",
+      "url": "battle/outside/baoji_tex.json"
+    },
+    {
+      "name": "battle_clock_num_fnt",
+      "type": "font",
+      "url": "battle/outside/battle_clock_num.fnt"
+    },
+    {
+      "name": "bloodmovie_json",
+      "type": "json",
+      "url": "battle/outside/bloodmovie.json"
+    },
+    {
+      "name": "catch_mv_ske_json",
+      "type": "json",
+      "url": "battle/outside/catch_mv_ske.json"
+    },
+    {
+      "name": "catch_mv_tex_json",
+      "type": "json",
+      "url": "battle/outside/catch_mv_tex.json"
+    },
+    {
+      "name": "crisit2_json",
+      "type": "json",
+      "url": "battle/outside/crisit2.json"
+    },
+    {
+      "name": "crits_attack_hp_num_fnt",
+      "type": "font",
+      "url": "battle/outside/crits_attack_hp_num.fnt"
+    },
+    {
+      "name": "defend_num_fnt",
+      "type": "font",
+      "url": "battle/outside/defend_num.fnt"
+    },
+    {
+      "name": "duizhanjindutiao_ske_json",
+      "type": "json",
+      "url": "battle/outside/duizhanjindutiao_ske.json"
+    },
+    {
+      "name": "duizhanjindutiao_tex_json",
+      "type": "json",
+      "url": "battle/outside/duizhanjindutiao_tex.json"
+    },
+    {
+      "name": "fixed_damage_num_fnt",
+      "type": "font",
+      "url": "battle/outside/fixed_damage_num.fnt"
+    },
+    {
+      "name": "hp_damage_num_fnt",
+      "type": "font",
+      "url": "battle/outside/hp_damage_num.fnt"
+    },
+    {
+      "name": "hp_damage_num2_fnt",
+      "type": "font",
+      "url": "battle/outside/hp_damage_num2.fnt"
+    },
+    {
+      "name": "hp_damage_num_small_fnt",
+      "type": "font",
+      "url": "battle/outside/hp_damage_num_small.fnt"
+    },
+    {
+      "name": "hp_recovery_num_fnt",
+      "type": "font",
+      "url": "battle/outside/hp_recovery_num.fnt"
+    },
+    {
+      "name": "jiechuzhuangtai_ske_json",
+      "type": "json",
+      "url": "battle/outside/jiechuzhuangtai_ske.json"
+    },
+    {
+      "name": "jiechuzhuangtai_tex_json",
+      "type": "json",
+      "url": "battle/outside/jiechuzhuangtai_tex.json"
+    },
+    {
+      "name": "jinruduizhan_3_ske_json",
+      "type": "json",
+      "url": "battle/outside/jinruduizhan_3_ske.json"
+    },
+    {
+      "name": "jinruduizhan_3_tex_json",
+      "type": "json",
+      "url": "battle/outside/jinruduizhan_3_tex.json"
+    },
+    {
+      "name": "PPhuifu_1_ske_json",
+      "type": "json",
+      "url": "battle/outside/PPhuifu_1_ske.json"
+    },
+    {
+      "name": "PPhuifu_1_tex_json",
+      "type": "json",
+      "url": "battle/outside/PPhuifu_1_tex.json"
+    },
+    {
+      "name": "ppmovie_json",
+      "type": "json",
+      "url": "battle/outside/ppmovie.json"
+    },
+    {
+      "name": "skeleton_json",
+      "type": "json",
+      "url": "battle/outside/skeleton.json"
+    },
+    {
+      "name": "zhiliao_ske_json",
+      "type": "json",
+      "url": "battle/outside/zhiliao_ske.json"
+    },
+    {
+      "name": "zhiliao_tex_json",
+      "type": "json",
+      "url": "battle/outside/zhiliao_tex.json"
+    },
+    {
+      "name": "baoji_tex_png",
+      "type": "image",
+      "url": "battle/outside/baoji_tex.png"
+    },
+    {
+      "name": "battle_bg_jpg",
+      "type": "image",
+      "url": "battle/outside/battle_bg.jpg"
+    },
+    {
+      "name": "battle_item_itembg_png",
+      "type": "image",
+      "url": "battle/outside/battle_item_itembg.png"
+    },
+    {
+      "name": "battle_item_mask_png",
+      "type": "image",
+      "url": "battle/outside/battle_item_mask.png"
+    },
+    {
+      "name": "battle_loding_leftBg_png",
+      "type": "image",
+      "url": "battle/outside/battle_loding_leftBg.png"
+    },
+    {
+      "name": "battle_loding_rightBg_png",
+      "type": "image",
+      "url": "battle/outside/battle_loding_rightBg.png"
+    },
+    {
+      "name": "battle_loding_vs_png",
+      "type": "image",
+      "url": "battle/outside/battle_loding_vs.png"
+    },
+    {
+      "name": "bloodmovie_png",
+      "type": "image",
+      "url": "battle/outside/bloodmovie.png"
+    },
+    {
+      "name": "catch_mv_tex_png",
+      "type": "image",
+      "url": "battle/outside/catch_mv_tex.png"
+    },
+    {
+      "name": "crisit2_png",
+      "type": "image",
+      "url": "battle/outside/crisit2.png"
+    },
+    {
+      "name": "duizhanjindutiao_tex_png",
+      "type": "image",
+      "url": "battle/outside/duizhanjindutiao_tex.png"
+    },
+    {
+      "name": "jiechuzhuangtai_tex_png",
+      "type": "image",
+      "url": "battle/outside/jiechuzhuangtai_tex.png"
+    },
+    {
+      "name": "jinruduizhan_3_tex_png",
+      "type": "image",
+      "url": "battle/outside/jinruduizhan_3_tex.png"
+    },
+    {
+      "name": "PPhuifu_1_tex_png",
+      "type": "image",
+      "url": "battle/outside/PPhuifu_1_tex.png"
+    },
+    {
+      "name": "ppmovie_png",
+      "type": "image",
+      "url": "battle/outside/ppmovie.png"
+    },
+    {
+      "name": "zhiliao_tex_png",
+      "type": "image",
+      "url": "battle/outside/zhiliao_tex.png"
+    },
+    {
+      "name": "battle_sheet",
+      "type": "sheet",
+      "url": "battle/battle_sheet.json",
+      "subkeys": "battle_kide_skill_bg1_png,battle_kide_skill_bg2_png,battle_msg_battle_msg_btndown_png,battle_msg_battle_msg_btnup_png,battle_msg_msg_bg_png,battle_back_png,battle_blood_png,battle_blood_bg_png,battle_btnBag0_png,battle_btnBg_png,battle_btnCatch_png,battle_btnLose_png,battle_btnPet_png,battle_btnPetback_png,battle_btnReport1_png,battle_btnReport2_png,battle_btnRetreat_png,battle_chujue_1_png,battle_chujue_2_png,battle_clock_bg_png,battle_clock_bg2_png,battle_failed_png,battle_field_effect_leftBg_png,battle_field_effect_midBg_png,battle_field_effect_nullIcon_png,battle_field_effect_rightBg_png,battle_field_intro_pop_img_select_png,battle_field_intro_pop_img_select_1_png,battle_field_intro_pop_img_select_2_png,battle_field_intro_pop_title_1_png,battle_field_intro_pop_title_2_png,battle_head_bg_png,battle_hp1_down_png,battle_hp1_up_png,battle_hp2_down_png,battle_hp2_up_png,battle_hp3_down_png,battle_hp3_up_png,battle_hp4_down_png,battle_hp4_up_png,battle_image_btn_mask_0_png,battle_image_btn_mask_1_png,battle_imge_battle_pet_head_restraint_bg_0_png,battle_imge_currency_mask_png,battle_imge_item_mask_png,battle_imge_restraint_arrow_imge_0_png,battle_imge_restraint_arrow_imge_1_png,battle_imge_restraint_arrow_imge_2_png,battle_imge_restraint_arrow_imge_3_png,battle_imge_restraint_arrow_imge_4_png,battle_imge_restraint_words_imge_0_png,battle_imge_restraint_words_imge_1_png,battle_imge_restraint_words_imge_10_png,battle_imge_restraint_words_imge_11_png,battle_imge_restraint_words_imge_12_png,battle_imge_restraint_words_imge_13_png,battle_imge_restraint_words_imge_14_png,battle_imge_restraint_words_imge_15_png,battle_imge_restraint_words_imge_16_png,battle_imge_restraint_words_imge_17_png,battle_imge_restraint_words_imge_18_png,battle_imge_restraint_words_imge_19_png,battle_imge_restraint_words_imge_2_png,battle_imge_restraint_words_imge_20_png,battle_imge_restraint_words_imge_21_png,battle_imge_restraint_words_imge_22_png,battle_imge_restraint_words_imge_23_png,battle_imge_restraint_words_imge_24_png,battle_imge_restraint_words_imge_3_png,battle_imge_restraint_words_imge_3__png,battle_imge_restraint_words_imge_4_png,battle_imge_restraint_words_imge_5_png,battle_imge_restraint_words_imge_6_png,battle_imge_restraint_words_imge_7_png,battle_imge_restraint_words_imge_8_png,battle_imge_restraint_words_imge_9_png,battle_imprint_icon_png,battle_imprint_icon_1_png,battle_itemCatch_down_png,battle_itemCatch_up_png,battle_itemHp_down_png,battle_itemHp_up_png,battle_itemPp_down_png,battle_itemPp_up_png,battle_itemState_down_png,battle_itemState_up_png,battle_jiasu_png,battle_kide_skill_bg_png,battle_life_head_0_png,battle_lock_png,battle_lockedskill_imge_lockskillmask_1_png,battle_lockedskill_imge_lockskillmask_2_png,battle_lockedskill_imge_lockskillmask_3_png,battle_lockedskill_imge_lockskillmask_4_png,battle_loding_left_player_bg_png,battle_loding_pro1_png,battle_loding_proBg1_png,battle_loding_right_player_bg_png,battle_lvbg_png,battle_lvbg_1_png,battle_lvbg_2_png,battle_lvbg_3_png,battle_msg_btnzhanbao1_png,battle_msg_btnzhanbao2_png,battle_msg_imgreport_png,battle_msg_imgreport_bg_png,battle_msg_item_bg_png,battle_pet_item_bg_png,battle_pet_item_bg_sy_png,battle_player_info_bg1_png,battle_player_info_bg2_png,battle_player_info_bg3_png,battle_round_bg_png,battle_selected_png,battle_selected_item_png,battle_self_hp1_down_png,battle_self_hp1_up_png,battle_self_hp2_down_png,battle_self_hp2_up_png,battle_self_hp3_down_png,battle_self_hp3_up_png,battle_self_hp4_down_png,battle_self_hp4_up_png,battle_self_info_bg1_png,battle_self_info_bg2_png,battle_self_info_bg3_png,battle_sign_buff_info_pop_icon_png,battle_sign_buff_info_pop_imge_buffdes_bg_png,battle_sign_buff_info_pop_imge_buff_icon_bg_png,battle_sign_buff_info_pop_imge_list_bg_png,battle_sign_buff_info_pop_imge_slider_png,battle_sign_buff_info_pop_imge_track_png,battle_sign_buff_info_pop_selected_png,battle_sign_buff_info_pop_title_png,battle_skill_bar_bg_png,battle_skill_bar_bg2_png,battle_skill_bg_png,battle_skill_reslut_1_png,battle_skill_reslut_2_png,battle_skill_runawayIcon_png,battle_sp_head_kuang_png,battle_tip_bg_png,battle_type_icon_png,battle_type_icon_bg_png,battle_wait_png,buff_0_21_png,buff_1_0_png,buff_1_1_png,crisit_png,fight_loading_pet_item_chuzhan_png,fight_loading_pet_item_shoufa_png,fight_msg_countdown_imgblueline_png,fight_msg_countdown_imgredline_png,priority_png"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "file": "seer_complain_sheet.png",
+  "frames": {
+    "seer_complain_btncancel_png": {
+      "x": 870,
+      "y": 1,
+      "w": 134,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 134,
+      "sourceH": 46
+    },
+    "seer_complain_btnok_png": {
+      "x": 645,
+      "y": 34,
+      "w": 134,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 134,
+      "sourceH": 46
+    },
+    "seer_complain_imggou1_png": {
+      "x": 1006,
+      "y": 1,
+      "w": 16,
+      "h": 12,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 16,
+      "sourceH": 12
+    },
+    "seer_complain_imggoubg1_png": {
+      "x": 781,
+      "y": 34,
+      "w": 23,
+      "h": 23,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 23,
+      "sourceH": 23
+    },
+    "seer_complain_imgtitle_png": {
+      "x": 645,
+      "y": 1,
+      "w": 223,
+      "h": 31,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 223,
+      "sourceH": 31
+    },
+    "seer_complain_imgtxtbg_png": {
+      "x": 1,
+      "y": 1,
+      "w": 642,
+      "h": 98,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 642,
+      "sourceH": 98
+    }
+  }
+}

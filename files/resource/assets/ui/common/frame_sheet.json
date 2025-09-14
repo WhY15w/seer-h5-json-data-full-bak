@@ -1,0 +1,315 @@
+{
+  "file": "frame_sheet.png",
+  "frames": {
+    "common_avatar_bg_size_100_100_png": {
+      "x": 362,
+      "y": 577,
+      "w": 100,
+      "h": 100,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 100,
+      "sourceH": 100
+    },
+    "common_avatar_bg_size_110_110_png": {
+      "x": 103,
+      "y": 480,
+      "w": 110,
+      "h": 110,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 110,
+      "sourceH": 110
+    },
+    "common_first_pet_icon_png": {
+      "x": 457,
+      "y": 142,
+      "w": 48,
+      "h": 26,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 48,
+      "sourceH": 26
+    },
+    "common_head_frame_main_select_png": {
+      "x": 142,
+      "y": 362,
+      "w": 116,
+      "h": 116,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 116,
+      "sourceH": 116
+    },
+    "common_hexagon_head_mask_png": {
+      "x": 297,
+      "y": 176,
+      "w": 141,
+      "h": 151,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 141,
+      "sourceH": 151
+    },
+    "common_icon_bg_no_icon_png": {
+      "x": 269,
+      "y": 223,
+      "w": 22,
+      "h": 23,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 22,
+      "sourceH": 23
+    },
+    "common_icon_bg_style_66_66_png": {
+      "x": 440,
+      "y": 176,
+      "w": 64,
+      "h": 64,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 64,
+      "sourceH": 64
+    },
+    "common_icon_name_bg_105_105_png": {
+      "x": 315,
+      "y": 679,
+      "w": 103,
+      "h": 24,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 103,
+      "sourceH": 24
+    },
+    "common_icon_name_bg_80_80_png": {
+      "x": 113,
+      "y": 659,
+      "w": 76,
+      "h": 16,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 76,
+      "sourceH": 16
+    },
+    "common_item_bg_style_40_40_png": {
+      "x": 457,
+      "y": 1,
+      "w": 46,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 46,
+      "sourceH": 46
+    },
+    "common_lock_icon_png": {
+      "x": 142,
+      "y": 223,
+      "w": 125,
+      "h": 137,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 125,
+      "sourceH": 137
+    },
+    "common_name_bg_144_144_png": {
+      "x": 1,
+      "y": 629,
+      "w": 142,
+      "h": 28,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 142,
+      "sourceH": 28
+    },
+    "common_pet_half_bg_size_146_220_png": {
+      "x": 1,
+      "y": 1,
+      "w": 146,
+      "h": 220,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 146,
+      "sourceH": 220
+    },
+    "common_pet_half_mask_size_146_220_png": {
+      "x": 149,
+      "y": 1,
+      "w": 146,
+      "h": 220,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 146,
+      "sourceH": 220
+    },
+    "common_pet_headIcon_png": {
+      "x": 215,
+      "y": 588,
+      "w": 98,
+      "h": 98,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 98,
+      "sourceH": 98
+    },
+    "common_pet_head_bg_null_size_100_100_png": {
+      "x": 1,
+      "y": 497,
+      "w": 100,
+      "h": 100,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 100,
+      "sourceH": 100
+    },
+    "common_pet_head_bg_null_size_100_121_png": {
+      "x": 260,
+      "y": 465,
+      "w": 100,
+      "h": 121,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 100,
+      "sourceH": 121
+    },
+    "common_pet_head_bg_null_size_110_134_png": {
+      "x": 269,
+      "y": 329,
+      "w": 110,
+      "h": 134,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 110,
+      "sourceH": 134
+    },
+    "common_pet_head_bg_size_100_121_png": {
+      "x": 1,
+      "y": 374,
+      "w": 100,
+      "h": 121,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 100,
+      "sourceH": 121
+    },
+    "common_pet_head_bg_size_110_110_png": {
+      "x": 362,
+      "y": 465,
+      "w": 110,
+      "h": 110,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 110,
+      "sourceH": 110
+    },
+    "common_pet_head_bg_size_110_134_png": {
+      "x": 381,
+      "y": 329,
+      "w": 110,
+      "h": 134,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 110,
+      "sourceH": 134
+    },
+    "common_pet_head_empty_png": {
+      "x": 457,
+      "y": 97,
+      "w": 32,
+      "h": 43,
+      "offX": 33,
+      "offY": 30,
+      "sourceW": 100,
+      "sourceH": 100
+    },
+    "common_pet_head_name_bg_110_134_png": {
+      "x": 1,
+      "y": 659,
+      "w": 110,
+      "h": 25,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 110,
+      "sourceH": 25
+    },
+    "common_pet_hexagon_selected_png": {
+      "x": 297,
+      "y": 1,
+      "w": 158,
+      "h": 173,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 158,
+      "sourceH": 173
+    },
+    "common_pet_hp_bar_png": {
+      "x": 113,
+      "y": 684,
+      "w": 98,
+      "h": 4,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 98,
+      "sourceH": 4
+    },
+    "common_pet_hp_bar_110_134_png": {
+      "x": 1,
+      "y": 686,
+      "w": 110,
+      "h": 5,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 110,
+      "sourceH": 5
+    },
+    "common_pet_hp_bg_bar_png": {
+      "x": 113,
+      "y": 677,
+      "w": 98,
+      "h": 5,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 98,
+      "sourceH": 5
+    },
+    "common_pet_hp_bg_bar_110_134_png": {
+      "x": 103,
+      "y": 592,
+      "w": 110,
+      "h": 5,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 110,
+      "sourceH": 5
+    },
+    "common_pet_icon_null_png": {
+      "x": 1,
+      "y": 223,
+      "w": 139,
+      "h": 149,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 139,
+      "sourceH": 149
+    },
+    "common_pet_name_146_220_png": {
+      "x": 1,
+      "y": 599,
+      "w": 146,
+      "h": 28,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 146,
+      "sourceH": 28
+    },
+    "common_pet_skin_icon_png": {
+      "x": 457,
+      "y": 49,
+      "w": 46,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 46,
+      "sourceH": 46
+    }
+  }
+}

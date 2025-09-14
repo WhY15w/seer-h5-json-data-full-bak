@@ -1,0 +1,55 @@
+{
+  "resources": [
+    {
+      "type": "json",
+      "url": "788.json",
+      "name": "road_788"
+    },
+    {
+      "type": "text",
+      "url": "Map788Skin.exml",
+      "name": "exml_788"
+    },
+    {
+      "type": "image",
+      "url": "map_788_bg_mc.jpg",
+      "name": "map_788_bg_mc_jpg"
+    },
+    {
+      "type": "image",
+      "url": "map_788_shizijia.png",
+      "name": "map_788_shizijia_png"
+    },
+    {
+      "type": "image",
+      "url": "map_788_hand.png",
+      "name": "map_788_hand_png"
+    },
+    {
+      "type": "image",
+      "url": "map_788_a.png",
+      "name": "map_788_a_png"
+    },
+    {
+      "type": "image",
+      "url": "map_788_b.png",
+      "name": "map_788_b_png"
+    },
+    {
+      "type": "image",
+      "url": "map_788_c.png",
+      "name": "map_788_c_png"
+    },
+    {
+      "type": "image",
+      "url": "map_788_mubei.png",
+      "name": "map_788_mubei_png"
+    }
+  ],
+  "groups": [
+    {
+      "keys": "road_788,exml_788,map_788_bg_mc_jpg,map_788_shizijia_png,map_788_hand_png,map_788_a_png,map_788_b_png,map_788_c_png,map_788_mubei_png",
+      "name": "map_788"
+    }
+  ]
+}

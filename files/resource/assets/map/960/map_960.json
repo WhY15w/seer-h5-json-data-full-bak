@@ -1,0 +1,25 @@
+{
+  "resources": [
+    {
+      "type": "json",
+      "url": "960.json",
+      "name": "road_960"
+    },
+    {
+      "type": "text",
+      "url": "Map960Skin.exml",
+      "name": "exml_960"
+    },
+    {
+      "type": "image",
+      "url": "map_960_bg_mc.jpg",
+      "name": "map_960_bg_mc_jpg"
+    }
+  ],
+  "groups": [
+    {
+      "keys": "road_960,exml_960,map_960_bg_mc_jpg",
+      "name": "map_960"
+    }
+  ]
+}

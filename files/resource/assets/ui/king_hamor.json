@@ -1,0 +1,61 @@
+{
+  "groups": [
+    {
+      "name": "king_hamor",
+      "keys": "king_hamor_sheet,king_hamor_fetters_bg_png,king_hamor_level_bg_0_jpg,king_hamor_level_bg_1_jpg,king_hamor_level_bg_2_jpg,king_hamor_level_bg_3_jpg,king_hamor_level_bg_4_jpg,king_hamor_pop_bg_jpg,king_hamor_pop_bg1_png,king_hamor_three_pop_bg_png"
+    }
+  ],
+  "resources": [
+    {
+      "name": "king_hamor_fetters_bg_png",
+      "type": "image",
+      "url": "king_hamor/outside/king_hamor_fetters_bg.png"
+    },
+    {
+      "name": "king_hamor_level_bg_0_jpg",
+      "type": "image",
+      "url": "king_hamor/outside/king_hamor_level_bg_0.jpg"
+    },
+    {
+      "name": "king_hamor_level_bg_1_jpg",
+      "type": "image",
+      "url": "king_hamor/outside/king_hamor_level_bg_1.jpg"
+    },
+    {
+      "name": "king_hamor_level_bg_2_jpg",
+      "type": "image",
+      "url": "king_hamor/outside/king_hamor_level_bg_2.jpg"
+    },
+    {
+      "name": "king_hamor_level_bg_3_jpg",
+      "type": "image",
+      "url": "king_hamor/outside/king_hamor_level_bg_3.jpg"
+    },
+    {
+      "name": "king_hamor_level_bg_4_jpg",
+      "type": "image",
+      "url": "king_hamor/outside/king_hamor_level_bg_4.jpg"
+    },
+    {
+      "name": "king_hamor_pop_bg_jpg",
+      "type": "image",
+      "url": "king_hamor/outside/king_hamor_pop_bg.jpg"
+    },
+    {
+      "name": "king_hamor_pop_bg1_png",
+      "type": "image",
+      "url": "king_hamor/outside/king_hamor_pop_bg1.png"
+    },
+    {
+      "name": "king_hamor_three_pop_bg_png",
+      "type": "image",
+      "url": "king_hamor/outside/king_hamor_three_pop_bg.png"
+    },
+    {
+      "name": "king_hamor_sheet",
+      "type": "sheet",
+      "url": "king_hamor/king_hamor_sheet.json",
+      "subkeys": "king_hamor_comic_pop_bg_png,king_hamor_comic_pop_btnWatch_png,king_hamor_fetters_btnGo_0_png,king_hamor_fetters_btnGo_1_png,king_hamor_fetters_btnOpen_png,king_hamor_fetters_bubble_png,king_hamor_grp_level_btnPass_png,king_hamor_grp_level_comic_0_png,king_hamor_grp_level_comic_1_png,king_hamor_grp_level_comic_2_png,king_hamor_grp_level_comic_3_png,king_hamor_grp_level_comic_4_png,king_hamor_grp_level_flag_selected_png,king_hamor_grp_level_level_0_png,king_hamor_grp_level_level_1_png,king_hamor_grp_level_level_2_png,king_hamor_grp_level_level_3_png,king_hamor_grp_level_line_0_png,king_hamor_grp_level_line_1_png,king_hamor_grp_level_line_3_png,king_hamor_grp_level_line_5_png,king_hamor_grp_level_line_7_png,king_hamor_level_0_beat_png,king_hamor_level_0_bg_png,king_hamor_level_0_btnAdd_png,king_hamor_level_0_btnChallenge1_png,king_hamor_level_0_btnChallenge2_png,king_hamor_level_0_btnChallenge3_png,king_hamor_level_0_img_png,king_hamor_level_0_imgBtn_cure_png,king_hamor_level_0_imgBtn_pet_png,king_hamor_level_0_numbg_png,king_hamor_level_0_title_png,king_hamor_level_1_bg1_png,king_hamor_level_1_bg2_png,king_hamor_level_1_btnFight_png,king_hamor_level_1_btnSearch_png,king_hamor_level_1_btnStrong_png,king_hamor_level_1_head0_png,king_hamor_level_1_head1_png,king_hamor_level_1_head2_png,king_hamor_level_1_icon_png,king_hamor_level_1_img_vs_png,king_hamor_level_1_line_png,king_hamor_level_1_numbg_png,king_hamor_level_1_star_dark_png,king_hamor_level_1_star_light_png,king_hamor_level_1_title_png,king_hamor_level_2_bar_png,king_hamor_level_2_barBg_png,king_hamor_level_2_btnChallenge_png,king_hamor_level_2_btnCompose_png,king_hamor_level_2_flag_clear_png,king_hamor_level_2_head0_png,king_hamor_level_2_head1_png,king_hamor_level_2_head2_png,king_hamor_level_2_title_png,king_hamor_level_3_ball_0_dark_png,king_hamor_level_3_ball_0_light_png,king_hamor_level_3_ball_1_dark_png,king_hamor_level_3_ball_1_light_png,king_hamor_level_3_ball_2_dark_png,king_hamor_level_3_ball_2_light_png,king_hamor_level_3_ball_3_dark_png,king_hamor_level_3_ball_3_light_png,king_hamor_level_3_ball_4_dark_png,king_hamor_level_3_ball_4_light_png,king_hamor_level_3_ball_5_dark_png,king_hamor_level_3_ball_5_light_png,king_hamor_level_3_ball_6_dark_png,king_hamor_level_3_ball_6_light_png,king_hamor_level_3_btnDragon1_png,king_hamor_level_3_btnDragon2_png,king_hamor_level_3_btnSynthesis_png,king_hamor_level_3_Dragonballbg_png,king_hamor_level_3_icon_png,king_hamor_level_3_title_png,king_hamor_level_3_xingxiebg_png,king_hamor_level_4_boss_0_png,king_hamor_level_4_boss_1_png,king_hamor_level_4_boss_2_png,king_hamor_level_4_btnAdd_0_png,king_hamor_level_4_btnChallenge_0_png,king_hamor_level_4_btnCoronation_png,king_hamor_level_4_btnGet_png,king_hamor_level_4_btnSummit_png,king_hamor_level_4_corwn_png,king_hamor_level_4_flag_got_png,king_hamor_level_4_item_0_png,king_hamor_level_4_item_1_png,king_hamor_level_4_item_2_png,king_hamor_level_4_line_png,king_hamor_level_4_title_png,king_hamor_level_btnBack_png,king_hamor_level_flag_pass_png,king_hamor_pop_btnClose_png,king_hamor_pop_btnFetters_png,king_hamor_pop_btnFree_png,king_hamor_pop_btnInfo_png,king_hamor_pop_btnKing_png,king_hamor_pop_btnOneTap_png,king_hamor_pop_btnThree_png,king_hamor_pop_bubble_png,king_hamor_pop_flag_got_png,king_hamor_pop_up_bg_png,king_hamor_sign_bigTitle_png,king_hamor_sign_btnCompensate_png,king_hamor_sign_btnGet_png,king_hamor_sign_btnOneTap_png,king_hamor_sign_btnSign_png,king_hamor_sign_day_1_png,king_hamor_sign_day_10_png,king_hamor_sign_day_11_png,king_hamor_sign_day_12_png,king_hamor_sign_day_13_png,king_hamor_sign_day_14_png,king_hamor_sign_day_15_png,king_hamor_sign_day_16_png,king_hamor_sign_day_17_png,king_hamor_sign_day_18_png,king_hamor_sign_day_19_png,king_hamor_sign_day_2_png,king_hamor_sign_day_20_png,king_hamor_sign_day_21_png,king_hamor_sign_day_3_png,king_hamor_sign_day_4_png,king_hamor_sign_day_5_png,king_hamor_sign_day_6_png,king_hamor_sign_day_7_png,king_hamor_sign_day_8_png,king_hamor_sign_day_9_png,king_hamor_sign_di_png,king_hamor_sign_flag_got_png,king_hamor_sign_flag_signed_png,king_hamor_sign_line_0_png,king_hamor_sign_line_1_png,king_hamor_sign_rect_0_png,king_hamor_sign_rect_1_png,king_hamor_sign_title_png,king_hamor_sign_txtbg_png,king_hamor_sign_up_bg_png,king_hamor_three_pop_btnBuy_png,king_hamor_three_pop_icon_0_png,king_hamor_three_pop_icon_1_png,king_hamor_three_pop_icon_2_png,king_hamor_three_pop_line_png,king_hamor_three_pop_rect_png"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "groups": [
+    {
+      "keys": "road_967,exml_967,map_967_bg_mc_jpg",
+      "name": "map_967"
+    }
+  ],
+  "resources": [
+    {
+      "type": "json",
+      "url": "967.json",
+      "name": "road_967"
+    },
+    {
+      "type": "text",
+      "url": "Map967Skin.exml",
+      "name": "exml_967"
+    },
+    {
+      "type": "image",
+      "url": "map_967_bg_mc.jpg",
+      "name": "map_967_bg_mc_jpg"
+    }
+  ]
+}

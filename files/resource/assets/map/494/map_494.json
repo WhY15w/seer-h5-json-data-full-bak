@@ -1,0 +1,35 @@
+{
+  "groups": [
+    {
+      "keys": "road_494,exml_494,map_494_bg_mc_jpg,map_494_animator_mc_png,map_494_top_mc_png",
+      "name": "map_494"
+    }
+  ],
+  "resources": [
+    {
+      "type": "json",
+      "url": "494.json",
+      "name": "road_494"
+    },
+    {
+      "type": "text",
+      "url": "Map494Skin.exml",
+      "name": "exml_494"
+    },
+    {
+      "type": "image",
+      "url": "map_494_bg_mc.jpg",
+      "name": "map_494_bg_mc_jpg"
+    },
+    {
+      "type": "image",
+      "url": "map_494_animator_mc.png",
+      "name": "map_494_animator_mc_png"
+    },
+    {
+      "type": "image",
+      "url": "map_494_top_mc.png",
+      "name": "map_494_top_mc_png"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "groups": [
+    {
+      "name": "red_pupil_muse",
+      "keys": "red_pupil_muse_sheet,chitongdonghua1_atlas,chitongdonghua1_json,chitongdonghua2_atlas,chitongdonghua2_json,chitongdonghua1_png,chitongdonghua2_png,rpm_mainpanel_bg_jpg,rpm_mainpanel_tuceng_1_png,rpm_panel1_bg_jpg"
+    }
+  ],
+  "resources": [
+    {
+      "name": "chitongdonghua1_atlas",
+      "type": "text",
+      "url": "red_pupil_muse/outside/chitongdonghua1.atlas"
+    },
+    {
+      "name": "chitongdonghua1_json",
+      "type": "json",
+      "url": "red_pupil_muse/outside/chitongdonghua1.json"
+    },
+    {
+      "name": "chitongdonghua2_atlas",
+      "type": "text",
+      "url": "red_pupil_muse/outside/chitongdonghua2.atlas"
+    },
+    {
+      "name": "chitongdonghua2_json",
+      "type": "json",
+      "url": "red_pupil_muse/outside/chitongdonghua2.json"
+    },
+    {
+      "name": "chitongdonghua1_png",
+      "type": "image",
+      "url": "red_pupil_muse/outside/chitongdonghua1.png"
+    },
+    {
+      "name": "chitongdonghua2_png",
+      "type": "image",
+      "url": "red_pupil_muse/outside/chitongdonghua2.png"
+    },
+    {
+      "name": "rpm_mainpanel_bg_jpg",
+      "type": "image",
+      "url": "red_pupil_muse/outside/rpm_mainpanel_bg.jpg"
+    },
+    {
+      "name": "rpm_mainpanel_tuceng_1_png",
+      "type": "image",
+      "url": "red_pupil_muse/outside/rpm_mainpanel_tuceng_1.png"
+    },
+    {
+      "name": "rpm_panel1_bg_jpg",
+      "type": "image",
+      "url": "red_pupil_muse/outside/rpm_panel1_bg.jpg"
+    },
+    {
+      "name": "red_pupil_muse_sheet",
+      "type": "sheet",
+      "url": "red_pupil_muse/red_pupil_muse_sheet.json",
+      "subkeys": "rpm_choosepop_1_png,rpm_choosepop_bg4_png,rpm_choosepop_btntiaozhan_kb_2_png,rpm_choosepop_close1_png,rpm_choosepop_icon_gold_png,rpm_choosepop_jx_904_kb_2_png,rpm_choosepop_tuceng_16_png,rpm_choosepop_tuceng_17_png,rpm_choosepop_tuceng_18_png,rpm_choosepop_tuceng_19_png,rpm_choosepop_tuceng_20_png,rpm_choosepop_xuanzhong_png,rpm_choosepop_xzhy_png,rpm_choosepop_yijibai_png,rpm_choosepop_zu_2_png,rpm_mainpanel_biaoti_png,rpm_mainpanel_btn1_png,rpm_mainpanel_btn2_png,rpm_mainpanel_btn3_png,rpm_mainpanel_btn4_png,rpm_mainpanel_btncollect_png,rpm_mainpanel_btncollected_png,rpm_mainpanel_btnGet_png,rpm_mainpanel_btninfo_png,rpm_mainpanel_btnsuper_png,rpm_mainpanel_btnup_png,rpm_mainpanel_stms_png,rpm_mainpanel_ti_png,rpm_mainpanel_ti1_png,rpm_mainpanel_ti2_png,rpm_mainpanel_yihuode_png,rpm_mainpanel_yiwancheng_png,rpm_panel1_1_png,rpm_panel1_2_png,rpm_panel1_3_png,rpm_panel1_4_png,rpm_panel1_5_png,rpm_panel1_6_png,rpm_panel1_btnadd_png,rpm_panel1_btnonekey_png,rpm_panel1_jlbb_png,rpm_panel1_jlhf_png,rpm_panel1_jx_904_kb_2_png,rpm_panel1_stms_png,rpm_panel1_tipsbg_png,rpm_panel1_youlingwu_png,rpm_panel1_zuolingwu_png,rpm_panel2_btnadd_png,rpm_panel2_jiangdi_png,rpm_panel2_juxing_2_png,rpm_panel2_jx_904_kb_2_png,rpm_panel2_tipsbg_png,rpm_panel2_tuceng_8_png,rpm_panel2_zu_52_png,rpm_panel2_zu_53_png,rpm_panel2_zu_54_png,rpm_panel2_zu_55_png,rpm_panel2_zu_6_png,rpm_panel3_1_png,rpm_panel3_1068_png,rpm_panel3_1230_png,rpm_panel3_1947_png,rpm_panel3_2788_png,rpm_panel3_2797_png,rpm_panel3_2804_png,rpm_panel3_2811_png,rpm_panel3_2814_png,rpm_panel3_2815_png,rpm_panel3_2823_png,rpm_panel3_2834_png,rpm_panel3_2841_png,rpm_panel3_2849_png,rpm_panel3_438_png,rpm_panel3_957_png,rpm_panel3_btnadd_png,rpm_panel3_btnonekey_png,rpm_panel3_btnTiaozhan_png,rpm_panel3_btnTiaozhan_kb_png,rpm_panel3_di_png,rpm_panel3_headBg_png,rpm_panel3_icon_star_bg_kb_png,rpm_panel3_jlbb_png,rpm_panel3_jlhf_png,rpm_panel3_juxing_2_png,rpm_panel3_jx_904_kb_2_png,rpm_panel3_qianghua_png,rpm_panel3_stms_png,rpm_panel3_tiao_png,rpm_panel3_tipsbg_png,rpm_panel3_tuceng_8_png,rpm_panel3_xuanzhong_png,rpm_panel3_yijibai_png,rpm_panel3_zu_1_png,rpm_panel3_zu_52_png,rpm_panel3_zu_58_png,rpm_panel4_1_png,rpm_panel4_2_png,rpm_panel4_3_png,rpm_panel4_4_png,rpm_panel4_5_png,rpm_panel4_6_png,rpm_panel4_btnadd_png,rpm_panel4_btnget_png,rpm_panel4_btnonekey_png,rpm_panel4_btnup_png,rpm_panel4_di_png,rpm_panel4_dikuang_an_png,rpm_panel4_dikuang_liang_png,rpm_panel4_genghuan_png,rpm_panel4_jihuo_png,rpm_panel4_jx_904_kb_2_png,rpm_panel4_kuaisu_png,rpm_panel4_stms_png,rpm_panel4_tipsbg_png,rpm_panel4_tuceng_8_png,rpm_panel4_yihuode_png,rpm_panel4_zhiding_png,rpm_panel4_zu_1_png,rpm_uppop_btnadd_png,rpm_uppop_btnexchange_png,rpm_uppop_btngo_png,rpm_uppop_btnhasEx_png,rpm_uppop_close1_png,rpm_uppop_diwu_png,rpm_uppop_diwujineng_png,rpm_uppop_nlds_png,rpm_uppop_tuceng_59_png,rpm_uppop_tuceng_60_png,rpm_uppop_zhuanshu_png,rpm_uppop_zsky_png,rpm_uppop_zstx_png,rpm_uppop_zu_2_png"
+    }
+  ]
+}

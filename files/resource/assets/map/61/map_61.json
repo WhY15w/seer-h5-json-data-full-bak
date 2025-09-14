@@ -1,0 +1,60 @@
+{
+  "groups": [
+    {
+      "keys": "road_61,exml_61,map_61_bg_mc_jpg,map_61_tukuai11_png,map_61_wupinn1_png,map_61_door_1_png,map_61_doorEffect_png,map_61_gfhdrd2_png,map_61_gfdrw121_png,map_61_gougougou_png",
+      "name": "map_61"
+    }
+  ],
+  "resources": [
+    {
+      "type": "json",
+      "url": "61.json",
+      "name": "road_61"
+    },
+    {
+      "type": "text",
+      "url": "Map61Skin.exml",
+      "name": "exml_61"
+    },
+    {
+      "type": "image",
+      "url": "map_61_bg_mc.jpg",
+      "name": "map_61_bg_mc_jpg"
+    },
+    {
+      "type": "image",
+      "url": "map_61_tukuai11.png",
+      "name": "map_61_tukuai11_png"
+    },
+    {
+      "type": "image",
+      "url": "map_61_wupinn1.png",
+      "name": "map_61_wupinn1_png"
+    },
+    {
+      "type": "image",
+      "url": "map_61_door_1.png",
+      "name": "map_61_door_1_png"
+    },
+    {
+      "type": "image",
+      "url": "map_61_doorEffect.png",
+      "name": "map_61_doorEffect_png"
+    },
+    {
+      "type": "image",
+      "url": "map_61_gfhdrd2.png",
+      "name": "map_61_gfhdrd2_png"
+    },
+    {
+      "type": "image",
+      "url": "map_61_gfdrw121.png",
+      "name": "map_61_gfdrw121_png"
+    },
+    {
+      "type": "image",
+      "url": "map_61_gougougou.png",
+      "name": "map_61_gougougou_png"
+    }
+  ]
+}

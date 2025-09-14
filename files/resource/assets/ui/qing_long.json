@@ -1,0 +1,81 @@
+{
+  "groups": [
+    {
+      "name": "qing_long",
+      "keys": "qing_long_sheet,shuiwo_atlas,shuiwo_json,qing_long_best_pop_img_png,qing_long_level_panel_bg_jpg,qing_long_level_panel_imgpet_png,qing_long_main_panel_bg_jpg,qing_long_main_panel_imgpet_png,qing_long_second_level_main_panel_imgpet_png,qing_long_second_level_prepare_panel_imgleftbg_png,qing_long_second_level_prepare_pop_leftbg_png,qing_long_third_level_panel_imgfightbg_png,qing_long_third_level_panel_imgpet_png,shuiwo_png"
+    }
+  ],
+  "resources": [
+    {
+      "name": "shuiwo_atlas",
+      "type": "text",
+      "url": "qing_long/outside/shuiwo.atlas"
+    },
+    {
+      "name": "shuiwo_json",
+      "type": "json",
+      "url": "qing_long/outside/shuiwo.json"
+    },
+    {
+      "name": "qing_long_best_pop_img_png",
+      "type": "image",
+      "url": "qing_long/outside/qing_long_best_pop_img.png"
+    },
+    {
+      "name": "qing_long_level_panel_bg_jpg",
+      "type": "image",
+      "url": "qing_long/outside/qing_long_level_panel_bg.jpg"
+    },
+    {
+      "name": "qing_long_level_panel_imgpet_png",
+      "type": "image",
+      "url": "qing_long/outside/qing_long_level_panel_imgpet.png"
+    },
+    {
+      "name": "qing_long_main_panel_bg_jpg",
+      "type": "image",
+      "url": "qing_long/outside/qing_long_main_panel_bg.jpg"
+    },
+    {
+      "name": "qing_long_main_panel_imgpet_png",
+      "type": "image",
+      "url": "qing_long/outside/qing_long_main_panel_imgpet.png"
+    },
+    {
+      "name": "qing_long_second_level_main_panel_imgpet_png",
+      "type": "image",
+      "url": "qing_long/outside/qing_long_second_level_main_panel_imgpet.png"
+    },
+    {
+      "name": "qing_long_second_level_prepare_panel_imgleftbg_png",
+      "type": "image",
+      "url": "qing_long/outside/qing_long_second_level_prepare_panel_imgleftbg.png"
+    },
+    {
+      "name": "qing_long_second_level_prepare_pop_leftbg_png",
+      "type": "image",
+      "url": "qing_long/outside/qing_long_second_level_prepare_pop_leftbg.png"
+    },
+    {
+      "name": "qing_long_third_level_panel_imgfightbg_png",
+      "type": "image",
+      "url": "qing_long/outside/qing_long_third_level_panel_imgfightbg.png"
+    },
+    {
+      "name": "qing_long_third_level_panel_imgpet_png",
+      "type": "image",
+      "url": "qing_long/outside/qing_long_third_level_panel_imgpet.png"
+    },
+    {
+      "name": "shuiwo_png",
+      "type": "image",
+      "url": "qing_long/outside/shuiwo.png"
+    },
+    {
+      "name": "qing_long_sheet",
+      "type": "sheet",
+      "url": "qing_long/qing_long_sheet.json",
+      "subkeys": "qing_long_best_pop_btnbest_png,qing_long_best_pop_btnclose_png,qing_long_get_panel_btnadditem_png,qing_long_get_panel_btnevo_png,qing_long_get_panel_btngetitem_png,qing_long_get_panel_btngetpet_png,qing_long_get_panel_btnup_png,qing_long_get_panel_imgevo_png,qing_long_get_panel_imghasevo_png,qing_long_get_panel_imghasup_png,qing_long_get_panel_imgitem_png,qing_long_get_panel_imgitembg_png,qing_long_get_panel_imgtitle_png,qing_long_get_panel_imgup_png,qing_long_first_level_item_hlimg_png,qing_long_first_level_item_imgbg_png,qing_long_first_level_panel_btnaddfighttimes_png,qing_long_first_level_panel_btnenter_png,qing_long_first_level_panel_btnopen_png,qing_long_first_level_panel_imgcountdownbg1_png,qing_long_first_level_panel_imgcountdownbg2_png,qing_long_first_level_panel_imgheadbg_png,qing_long_first_level_panel_imgline1_png,qing_long_first_level_panel_imgrightbg_png,qing_long_first_level_panel_imgroundbg_png,qing_long_first_level_panel_imgtitle_png,qing_long_first_level_panel_imgtypebg_png,qing_long_second_level_main_panel_btncontinue_png,qing_long_second_level_main_panel_btnreset_png,qing_long_second_level_main_panel_btnstart_png,qing_long_second_level_main_panel_imgtitle_png,qing_long_second_level_prepare_panel_btnattr_png,qing_long_second_level_prepare_panel_btnonekeydown_png,qing_long_second_level_prepare_panel_btnonekeyup_png,qing_long_second_level_prepare_panel_btnstart_png,qing_long_second_level_prepare_panel_img1_png,qing_long_second_level_prepare_panel_img2_png,qing_long_second_level_prepare_panel_imgpage1down_png,qing_long_second_level_prepare_panel_imgpage1up_png,qing_long_second_level_prepare_panel_imgpage2down_png,qing_long_second_level_prepare_panel_imgpage2up_png,qing_long_second_level_prepare_panel_imgpage3down_png,qing_long_second_level_prepare_panel_imgpage3up_png,qing_long_second_level_prepare_panel_imgpage4down_png,qing_long_second_level_prepare_panel_imgpage4up_png,qing_long_second_level_prepare_panel_imgsort_png,qing_long_second_level_prepare_panel_imgsort_iddown_down_png,qing_long_second_level_prepare_panel_imgsort_iddown_up_png,qing_long_second_level_prepare_panel_imgsort_idup_down_png,qing_long_second_level_prepare_panel_imgsort_idup_up_png,qing_long_second_level_prepare_panel_imgsort_lvdown_down_png,qing_long_second_level_prepare_panel_imgsort_lvdown_up_png,qing_long_second_level_prepare_panel_imgsort_lvup_down_png,qing_long_second_level_prepare_panel_imgsort_lvup_up_png,qing_long_second_level_prepare_panel_imgsort_timedown_down_png,qing_long_second_level_prepare_panel_imgsort_timedown_up_png,qing_long_second_level_prepare_panel_imgsort_timeup_down_png,qing_long_second_level_prepare_panel_imgsort_timeup_up_png,qing_long_second_level_prepare_panel_imgtitle_png,qing_long_second_level_prepare_panel_img_down_png,qing_long_second_level_prepare_panel_img_up_png,qing_long_second_level_fight_panel_imgarrow_png,qing_long_second_level_fight_panel_imgcurrent_png,qing_long_second_level_fight_panel_imghas_png,qing_long_second_level_fight_panel_imghead3017_png,qing_long_second_level_fight_panel_imghead3022_png,qing_long_second_level_fight_panel_imghead3050_png,qing_long_second_level_fight_panel_imghead3059_png,qing_long_second_level_fight_panel_imghead3088_png,qing_long_second_level_fight_panel_imghead3128_png,qing_long_second_level_fight_panel_imghead3134_png,qing_long_second_level_fight_panel_imghead3142_png,qing_long_second_level_fight_panel_imghead3162_png,qing_long_second_level_fight_panel_imghead3194_png,qing_long_second_level_fight_panel_imghead3227_png,qing_long_second_level_fight_panel_imghead3237_png,qing_long_second_level_fight_panel_imghead3251_png,qing_long_second_level_fight_panel_imghead3273_png,qing_long_second_level_fight_panel_itembg_png,qing_long_second_level_fight_pop_btnfight_png,qing_long_second_level_fight_pop_imgtitle_png,qing_long_second_level_prepare_pop_btndown_png,qing_long_second_level_prepare_pop_btnfight_png,qing_long_second_level_prepare_pop_btnfirst_png,qing_long_second_level_prepare_pop_btnup_png,qing_long_second_level_prepare_pop_imgbg_png,qing_long_second_level_prepare_pop_imgprocess_png,qing_long_second_level_prepare_pop_imgprogressbg_png,qing_long_second_level_prepare_pop_imgrect_png,qing_long_second_level_prepare_pop_imgskillrect_png,qing_long_second_level_prepare_pop_imgtitle_png,qing_long_second_level_prepare_pop_imgtitlebg_png,qing_long_skill_item_btnchange_png,qing_long_third_level_panel_btnroll_png,qing_long_third_level_panel_comp_1_png,qing_long_third_level_panel_comp_2_png,qing_long_third_level_panel_comp_3_png,qing_long_third_level_panel_comp_4_png,qing_long_third_level_panel_comp_6_png,qing_long_third_level_panel_imgfight_png,qing_long_third_level_panel_imgsmall1_png,qing_long_third_level_panel_imgsmall2_png,qing_long_third_level_panel_imgsmall3_png,qing_long_third_level_panel_imgsmall4_png,qing_long_third_level_panel_imgsmall6_png,qing_long_third_level_panel_imgtitle_png,qing_long_level_panel_btncure_png,qing_long_level_panel_btnlevel1_png,qing_long_level_panel_btnlevel2_png,qing_long_level_panel_btnlevel3_png,qing_long_level_panel_btnpet_png,qing_long_level_panel_complete_png,qing_long_level_panel_finish_png,qing_long_level_panel_imgbg_png,qing_long_level_panel_imgtxtbg1_png,qing_long_level_panel_imgtxtbg2_png,qing_long_main_panel_btnbest_png,qing_long_main_panel_btnbless_png,qing_long_main_panel_btnevo_png,qing_long_main_panel_btnevolveneed_png,qing_long_main_panel_btnget_png,qing_long_main_panel_btninfo_png,qing_long_main_panel_img1_png,qing_long_main_panel_imghas_png,qing_long_main_panel_imgtitle1_png,qing_long_main_panel_imgtitle2_png,qing_long_main_panel_imgtitlebg_png,qing_long_pet_item_imgbg_png,qing_long_pet_item_imgdie_png,qing_long_pet_item_imgfirst_png,qing_long_pet_item_imgup_png"
+    }
+  ]
+}

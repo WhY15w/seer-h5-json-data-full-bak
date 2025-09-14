@@ -1,0 +1,21 @@
+{
+  "groups": [
+    {
+      "name": "petNewSkillPanel",
+      "keys": "petNewSkillPanel_sheet,bbg_png"
+    }
+  ],
+  "resources": [
+    {
+      "name": "bbg_png",
+      "type": "image",
+      "url": "petNewSkillPanel/outside/bbg.png"
+    },
+    {
+      "name": "petNewSkillPanel_sheet",
+      "type": "sheet",
+      "url": "petNewSkillPanel/petNewSkillPanel_sheet.json",
+      "subkeys": "imgtoopbg_png,new_skill_panel_img_btn_changeSkill_png,new_skill_panel_img_btn_OK_png,new_skill_panel_s9_1_png,new_skill_panel_s9_2_png,new_skill_panel_skill_icon_bg_png,new_tips_2021_11_btnchange_png,new_tips_2021_11_img1_png,new_tips_2021_11_img2_png,new_tips_2021_11_img3_png,new_tips_2021_11_img4_png,new_tips_2021_11_img5_png,new_tips_2021_11_img7_png,new_tips_2021_11_imgnewskill_png,pet_info_manual_tag1_png,pet_info_manual_tag2_png,pet_info_manual_tag3_png,pet_info_manual_tag4_png,pet_info_manual_tag5_png,pet_info_manual_tag6_png,pet_info_manual_tag7_png,pet_info_manual_tag8_png,pet_info_manual_tag9_png,ppim_info_icon_attr_png,ppim_info_skill_item_bg1_png"
+    }
+  ]
+}

@@ -1,0 +1,364 @@
+{
+  "frameRate": 24,
+  "name": "1301087",
+  "version": "5.5",
+  "compatibleVersion": "5.5",
+  "armature": [
+    {
+      "name": "cloth_1301087",
+      "bone": [
+        {
+          "inheritScale": false,
+          "name": "lab_1",
+          "transform": {
+            "x": 16.3,
+            "y": 7.45,
+            "scX": 0.372,
+            "scY": 0.372
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "lab_2",
+          "transform": {
+            "x": 17.7,
+            "y": 12.35,
+            "scX": 0.3672,
+            "scY": 0.3672
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "lab_3",
+          "transform": {
+            "x": 18.15,
+            "y": 4.7,
+            "scX": 0.372,
+            "scY": 0.372
+          }
+        }
+      ],
+      "slot": [
+        {
+          "name": "lab_3",
+          "parent": "lab_3"
+        },
+        {
+          "name": "lab_2",
+          "parent": "lab_2"
+        },
+        {
+          "name": "lab_1",
+          "parent": "lab_1"
+        }
+      ],
+      "skin": [
+        {
+          "slot": [
+            {
+              "name": "lab_3",
+              "display": [
+                {
+                  "name": "元件 4",
+                  "transform": {
+                    "x": 0.35
+                  }
+                }
+              ]
+            },
+            {
+              "name": "lab_2",
+              "display": [
+                {
+                  "name": "漆黑天使-八面.psd 资源 2/beimian45/图层139",
+                  "transform": {
+                    "x": -2.35,
+                    "y": -13.35
+                  }
+                }
+              ]
+            },
+            {
+              "name": "lab_1",
+              "display": [
+                {
+                  "name": "元件 3",
+                  "transform": {
+                    "x": -0.5,
+                    "y": -0.15
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "animation": [
+        {
+          "name": "down",
+          "bone": [
+            {
+              "name": "lab_1",
+              "scaleFrame": [
+                {}
+              ]
+            }
+          ],
+          "slot": [
+            {
+              "name": "lab_3",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_2",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "duration": 12,
+          "name": "down_walk",
+          "bone": [
+            {
+              "name": "lab_1",
+              "translateFrame": [
+                {
+                  "duration": 2,
+                  "y": 0.22
+                },
+                {
+                  "duration": 2,
+                  "y": 1.52
+                },
+                {
+                  "duration": 2,
+                  "y": -0.05
+                },
+                {
+                  "duration": 2,
+                  "y": 0.25
+                },
+                {
+                  "duration": 2,
+                  "y": 1.52
+                },
+                {
+                  "duration": 2
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 12
+                }
+              ]
+            }
+          ],
+          "slot": [
+            {
+              "name": "lab_3",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_2",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "rightup",
+          "bone": [
+            {
+              "name": "lab_2",
+              "scaleFrame": [
+                {}
+              ]
+            }
+          ],
+          "slot": [
+            {
+              "name": "lab_3",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_1",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "duration": 12,
+          "name": "rightup_walk",
+          "bone": [
+            {
+              "name": "lab_2",
+              "translateFrame": [
+                {
+                  "duration": 2
+                },
+                {
+                  "duration": 2,
+                  "y": 1.5
+                },
+                {
+                  "duration": 2,
+                  "y": 0.45
+                },
+                {
+                  "duration": 2,
+                  "y": 0.05
+                },
+                {
+                  "duration": 2,
+                  "y": 1.5
+                },
+                {
+                  "duration": 2,
+                  "y": 0.45
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 12
+                }
+              ]
+            }
+          ],
+          "slot": [
+            {
+              "name": "lab_3",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_1",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "rightdown",
+          "bone": [
+            {
+              "name": "lab_3",
+              "scaleFrame": [
+                {}
+              ]
+            }
+          ],
+          "slot": [
+            {
+              "name": "lab_2",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_1",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "duration": 12,
+          "name": "rightdown_walk",
+          "bone": [
+            {
+              "name": "lab_3",
+              "translateFrame": [
+                {
+                  "duration": 2,
+                  "x": 1.25
+                },
+                {
+                  "duration": 2,
+                  "x": 1.25,
+                  "y": 2.15
+                },
+                {
+                  "duration": 2,
+                  "x": 1.25,
+                  "y": 1.4
+                },
+                {
+                  "duration": 2,
+                  "x": 1.25,
+                  "y": -0.05
+                },
+                {
+                  "duration": 2,
+                  "x": 1.25,
+                  "y": 2.15
+                },
+                {
+                  "duration": 2,
+                  "x": 1.25,
+                  "y": 1.4
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 12
+                }
+              ]
+            }
+          ],
+          "slot": [
+            {
+              "name": "lab_2",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_1",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

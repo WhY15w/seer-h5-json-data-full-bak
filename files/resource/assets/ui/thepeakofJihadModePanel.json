@@ -1,0 +1,16 @@
+{
+  "groups": [
+    {
+      "name": "thepeakofJihadModePanel",
+      "keys": "thepeakofJihadModePanel_sheet"
+    }
+  ],
+  "resources": [
+    {
+      "name": "thepeakofJihadModePanel_sheet",
+      "type": "sheet",
+      "url": "thepeakofJihadModePanel/thepeakofJihadModePanel_sheet.json",
+      "subkeys": "banwei_pop_view_guanfangbanwei_png,banwei_pop_view_item_bg_png,banwei_pop_view_item_bg_1_png,banwei_pop_view_quanjubanwei_png,banwei_pop_view_title_banwei_png,thepeakofJihadModePanel_btnBanwei_png,thepeakofJihadModePanel_btnNewRule_png,thepeakofJihadModePanel_btnZhuChang_png,thepeakofJihadModePanel_Count_bg_png,thepeakofJihadModePanel_fightBtn_png,thepeakofJihadModePanel_icon_png,thepeakofJihadModePanel_icon_coin0_png,thepeakofJihadModePanel_icon_coin1_png,thepeakofJihadModePanel_mode0_png,thepeakofJihadModePanel_mode0_benyuezhuchang_png,thepeakofJihadModePanel_mode1_png,thepeakofJihadModePanel_nameBg_png,thepeakofJihadModePanel_rankListBtn_png,thepeakofJihadModePanel_right_bg_png,thepeakofJihadModePanel_star_png,thepeakofJihadModePanel_starBg_png,thepeakofJihadModePanel_suitIcon_png,thepeakofJihadModePanel_titlePng_png"
+    }
+  ]
+}

@@ -1,0 +1,1475 @@
+{
+  "file": "pve_trek_sheet.png",
+  "frames": {
+    "level_tips_pop_btnOk_png": {
+      "x": 1396,
+      "y": 1253,
+      "w": 176,
+      "h": 52,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 176,
+      "sourceH": 52
+    },
+    "level_tips_pop_title_zdzt_png": {
+      "x": 1823,
+      "y": 1548,
+      "w": 112,
+      "h": 26,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 112,
+      "sourceH": 26
+    },
+    "pveTrekAllPop_bg2_png": {
+      "x": 1253,
+      "y": 253,
+      "w": 456,
+      "h": 280,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 456,
+      "sourceH": 280
+    },
+    "pveTrekAllPop_d_png": {
+      "x": 1253,
+      "y": 1,
+      "w": 717,
+      "h": 250,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 717,
+      "sourceH": 250
+    },
+    "pveTrekAllPop_dispatch_item_bg_png": {
+      "x": 847,
+      "y": 1215,
+      "w": 222,
+      "h": 74,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 222,
+      "sourceH": 74
+    },
+    "pveTrekAllPop_flag_kong_png": {
+      "x": 2017,
+      "y": 1207,
+      "w": 29,
+      "h": 29,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 29,
+      "sourceH": 29
+    },
+    "pveTrekAllPop_flag_selcted_png": {
+      "x": 1653,
+      "y": 1336,
+      "w": 25,
+      "h": 24,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 25,
+      "sourceH": 24
+    },
+    "pveTrekAllPop_flag_select_png": {
+      "x": 2017,
+      "y": 1238,
+      "w": 29,
+      "h": 29,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 29,
+      "sourceH": 29
+    },
+    "pveTrekAllPop_img_df_png": {
+      "x": 1439,
+      "y": 1382,
+      "w": 359,
+      "h": 30,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 359,
+      "sourceH": 30
+    },
+    "pveTrekAllPop_img_wf_png": {
+      "x": 1073,
+      "y": 1059,
+      "w": 359,
+      "h": 30,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 359,
+      "sourceH": 30
+    },
+    "pveTrekAllPop_p_point_png": {
+      "x": 951,
+      "y": 1472,
+      "w": 12,
+      "h": 12,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 12,
+      "sourceH": 12
+    },
+    "pveTrekAllPop_shop_itemBg_png": {
+      "x": 1,
+      "y": 1489,
+      "w": 506,
+      "h": 56,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 506,
+      "sourceH": 56
+    },
+    "pveTrekAllPop_t1_png": {
+      "x": 1376,
+      "y": 1609,
+      "w": 1,
+      "h": 250,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 1,
+      "sourceH": 250
+    },
+    "pveTrekAllPop_texture_123asd_png": {
+      "x": 1197,
+      "y": 1336,
+      "w": 427,
+      "h": 26,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 427,
+      "sourceH": 26
+    },
+    "pveTrekAllPop_title_fmg_png": {
+      "x": 1502,
+      "y": 1570,
+      "w": 83,
+      "h": 26,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 83,
+      "sourceH": 26
+    },
+    "pveTrekAllPop_title_jytz_png": {
+      "x": 533,
+      "y": 558,
+      "w": 114,
+      "h": 27,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 114,
+      "sourceH": 27
+    },
+    "pveTrekAllPop_title_pqcg_png": {
+      "x": 241,
+      "y": 1434,
+      "w": 451,
+      "h": 31,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 451,
+      "sourceH": 31
+    },
+    "pveTrekAllPop_title_pttz_png": {
+      "x": 1709,
+      "y": 1528,
+      "w": 112,
+      "h": 26,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 112,
+      "sourceH": 26
+    },
+    "pveTrekAllPop_title_sb_png": {
+      "x": 1026,
+      "y": 1364,
+      "w": 411,
+      "h": 27,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 411,
+      "sourceH": 27
+    },
+    "pveTrekAllPop_title_shop_png": {
+      "x": 1258,
+      "y": 1487,
+      "w": 58,
+      "h": 27,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 58,
+      "sourceH": 27
+    },
+    "pveTrekAllPop_title_sjxz_png": {
+      "x": 1594,
+      "y": 1528,
+      "w": 113,
+      "h": 26,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 113,
+      "sourceH": 26
+    },
+    "pveTrekAllPop_title_wkg_png": {
+      "x": 1800,
+      "y": 1382,
+      "w": 85,
+      "h": 26,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 85,
+      "sourceH": 26
+    },
+    "pveTrekAllPop_title_xlg_png": {
+      "x": 1290,
+      "y": 1647,
+      "w": 84,
+      "h": 26,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 84,
+      "sourceH": 26
+    },
+    "pveTrekAllPop_title_zdzt_png": {
+      "x": 847,
+      "y": 1291,
+      "w": 113,
+      "h": 26,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 113,
+      "sourceH": 26
+    },
+    "pveTrekBoss_boss_line_png": {
+      "x": 951,
+      "y": 1490,
+      "w": 183,
+      "h": 37,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 183,
+      "sourceH": 37
+    },
+    "pveTrekBoss_btnReady_png": {
+      "x": 1499,
+      "y": 1442,
+      "w": 176,
+      "h": 42,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 176,
+      "sourceH": 42
+    },
+    "pveTrekBoss_itemGrp_png": {
+      "x": 1439,
+      "y": 1414,
+      "w": 361,
+      "h": 26,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 361,
+      "sourceH": 26
+    },
+    "pveTrekBoss_my_line_png": {
+      "x": 1321,
+      "y": 1486,
+      "w": 183,
+      "h": 37,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 183,
+      "sourceH": 37
+    },
+    "pveTrekBoss_namebg_png": {
+      "x": 1677,
+      "y": 1456,
+      "w": 223,
+      "h": 32,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 223,
+      "sourceH": 32
+    },
+    "pveTrekBoss_title_zzgk_png": {
+      "x": 1228,
+      "y": 1609,
+      "w": 125,
+      "h": 36,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 125,
+      "sourceH": 36
+    },
+    "pveTrekBoss_vs_png": {
+      "x": 692,
+      "y": 1,
+      "w": 559,
+      "h": 584,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 559,
+      "sourceH": 584
+    },
+    "pveTrekLevel_flag_selcted_level_png": {
+      "x": 1575,
+      "y": 1215,
+      "w": 114,
+      "h": 119,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 114,
+      "sourceH": 119
+    },
+    "pveTrekLevel_flag_ywc_level_png": {
+      "x": 2017,
+      "y": 1175,
+      "w": 30,
+      "h": 30,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 30,
+      "sourceH": 30
+    },
+    "pveTrekLevel_iconBoss_png": {
+      "x": 685,
+      "y": 1508,
+      "w": 79,
+      "h": 90,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 79,
+      "sourceH": 90
+    },
+    "pveTrekLevel_iconBox_png": {
+      "x": 766,
+      "y": 1508,
+      "w": 79,
+      "h": 90,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 79,
+      "sourceH": 90
+    },
+    "pveTrekLevel_iconMonster_png": {
+      "x": 1890,
+      "y": 1317,
+      "w": 79,
+      "h": 90,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 79,
+      "sourceH": 90
+    },
+    "pveTrekLevel_iconRandom_png": {
+      "x": 1940,
+      "y": 1041,
+      "w": 79,
+      "h": 90,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 79,
+      "sourceH": 90
+    },
+    "pveTrekLevel_iconShop_png": {
+      "x": 870,
+      "y": 1456,
+      "w": 79,
+      "h": 90,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 79,
+      "sourceH": 90
+    },
+    "pveTrekLevel_iconTask_png": {
+      "x": 1902,
+      "y": 1456,
+      "w": 79,
+      "h": 90,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 79,
+      "sourceH": 90
+    },
+    "pveTrekLevel_level_line_1_png": {
+      "x": 1,
+      "y": 514,
+      "w": 530,
+      "h": 63,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 530,
+      "sourceH": 63
+    },
+    "pveTrekLevel_title_gk1_png": {
+      "x": 595,
+      "y": 1054,
+      "w": 125,
+      "h": 36,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 125,
+      "sourceH": 36
+    },
+    "pveTrekLevel_title_gk2_png": {
+      "x": 847,
+      "y": 1573,
+      "w": 125,
+      "h": 36,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 125,
+      "sourceH": 36
+    },
+    "pveTrekLevel_title_gk3_png": {
+      "x": 974,
+      "y": 1590,
+      "w": 125,
+      "h": 36,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 125,
+      "sourceH": 36
+    },
+    "pveTrekLevel_title_gk4_png": {
+      "x": 1101,
+      "y": 1590,
+      "w": 125,
+      "h": 36,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 125,
+      "sourceH": 36
+    },
+    "pveTrekMain_btnContinue_png": {
+      "x": 1885,
+      "y": 667,
+      "w": 152,
+      "h": 152,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 152,
+      "sourceH": 152
+    },
+    "pveTrekMain_btnRest_png": {
+      "x": 1885,
+      "y": 513,
+      "w": 152,
+      "h": 152,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 152,
+      "sourceH": 152
+    },
+    "pveTrekMain_btnStart_png": {
+      "x": 1,
+      "y": 822,
+      "w": 252,
+      "h": 472,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 252,
+      "sourceH": 472
+    },
+    "pveTrekMain_down_mask_png": {
+      "x": 1,
+      "y": 587,
+      "w": 1136,
+      "h": 233,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 1136,
+      "sourceH": 233
+    },
+    "pveTrekMain_flagYwc_png": {
+      "x": 1613,
+      "y": 847,
+      "w": 167,
+      "h": 167,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 167,
+      "sourceH": 167
+    },
+    "pveTrekMain_texture_bg_down_png": {
+      "x": 595,
+      "y": 1095,
+      "w": 1136,
+      "h": 65,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 1136,
+      "sourceH": 65
+    },
+    "pveTrekMain_tgjl_png": {
+      "x": 1725,
+      "y": 555,
+      "w": 152,
+      "h": 29,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 152,
+      "sourceH": 29
+    },
+    "pveTrekMain_up_bg_png": {
+      "x": 595,
+      "y": 1162,
+      "w": 1136,
+      "h": 51,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 1136,
+      "sourceH": 51
+    },
+    "pveTrekMode_btnBg_png": {
+      "x": 1321,
+      "y": 1442,
+      "w": 176,
+      "h": 42,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 176,
+      "sourceH": 42
+    },
+    "pveTrekMode_flag_clear_png": {
+      "x": 1885,
+      "y": 821,
+      "w": 91,
+      "h": 24,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 91,
+      "sourceH": 24
+    },
+    "pveTrekMode_flag_tanhao_png": {
+      "x": 1026,
+      "y": 1317,
+      "w": 39,
+      "h": 39,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 39,
+      "sourceH": 39
+    },
+    "pveTrekMode_lock_1_png": {
+      "x": 1733,
+      "y": 1185,
+      "w": 140,
+      "h": 130,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 140,
+      "sourceH": 130
+    },
+    "pveTrekMode_lock_5_png": {
+      "x": 1073,
+      "y": 847,
+      "w": 201,
+      "h": 208,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 201,
+      "sourceH": 208
+    },
+    "pveTrekMode_mode_line_png": {
+      "x": 1139,
+      "y": 587,
+      "w": 744,
+      "h": 258,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 744,
+      "sourceH": 258
+    },
+    "pveTrekMode_rect_left_down_png": {
+      "x": 1073,
+      "y": 822,
+      "w": 25,
+      "h": 23,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 25,
+      "sourceH": 23
+    },
+    "pveTrekMode_rect_left_top_png": {
+      "x": 649,
+      "y": 558,
+      "w": 27,
+      "h": 25,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 27,
+      "sourceH": 25
+    },
+    "pveTrekMode_rect_right_down_png": {
+      "x": 2017,
+      "y": 1269,
+      "w": 27,
+      "h": 25,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 27,
+      "sourceH": 25
+    },
+    "pveTrekMode_rect_right_top_png": {
+      "x": 1691,
+      "y": 1292,
+      "w": 25,
+      "h": 23,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 25,
+      "sourceH": 23
+    },
+    "pveTrekMode_star_1_png": {
+      "x": 1875,
+      "y": 1185,
+      "w": 140,
+      "h": 130,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 140,
+      "sourceH": 130
+    },
+    "pveTrekMode_star_5_png": {
+      "x": 1711,
+      "y": 253,
+      "w": 309,
+      "h": 258,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 309,
+      "sourceH": 258
+    },
+    "pveTrekMode_tiile_xjmh_png": {
+      "x": 847,
+      "y": 1611,
+      "w": 125,
+      "h": 36,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 125,
+      "sourceH": 36
+    },
+    "pveTrekMode_zdzt_png": {
+      "x": 1594,
+      "y": 1556,
+      "w": 89,
+      "h": 29,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 89,
+      "sourceH": 29
+    },
+    "pveTrekSetPets_btnBack_png": {
+      "x": 509,
+      "y": 1467,
+      "w": 174,
+      "h": 50,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 174,
+      "sourceH": 50
+    },
+    "pveTrekSetPets_btnChangeSkill_png": {
+      "x": 951,
+      "y": 1529,
+      "w": 112,
+      "h": 42,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 112,
+      "sourceH": 42
+    },
+    "pveTrekSetPets_btnCz_png": {
+      "x": 974,
+      "y": 1628,
+      "w": 110,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 110,
+      "sourceH": 40
+    },
+    "pveTrekSetPets_btnSelectdAttr_png": {
+      "x": 1668,
+      "y": 1362,
+      "w": 18,
+      "h": 18,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 18,
+      "sourceH": 18
+    },
+    "pveTrekSetPets_btnSerach_png": {
+      "x": 1691,
+      "y": 1215,
+      "w": 38,
+      "h": 38,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 38,
+      "sourceH": 38
+    },
+    "pveTrekSetPets_btnStart_png": {
+      "x": 1145,
+      "y": 1435,
+      "w": 174,
+      "h": 50,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 174,
+      "sourceH": 50
+    },
+    "pveTrekSetPets_btnXz_png": {
+      "x": 1086,
+      "y": 1628,
+      "w": 110,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 110,
+      "sourceH": 40
+    },
+    "pveTrekSetPets_changeSkillBg_png": {
+      "x": 255,
+      "y": 822,
+      "w": 476,
+      "h": 230,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 476,
+      "sourceH": 230
+    },
+    "pveTrekSetPets_cz_bg_png": {
+      "x": 255,
+      "y": 1054,
+      "w": 338,
+      "h": 271,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 338,
+      "sourceH": 271
+    },
+    "pveTrekSetPets_dm_bg_png": {
+      "x": 733,
+      "y": 822,
+      "w": 338,
+      "h": 271,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 338,
+      "sourceH": 271
+    },
+    "pveTrekSetPets_icon_png": {
+      "x": 1972,
+      "y": 193,
+      "w": 58,
+      "h": 56,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 58,
+      "sourceH": 56
+    },
+    "pveTrekSetPets_icon_attr_png": {
+      "x": 1228,
+      "y": 1587,
+      "w": 20,
+      "h": 20,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 20,
+      "sourceH": 20
+    },
+    "pveTrekSetPets_icon_type_png": {
+      "x": 2023,
+      "y": 1385,
+      "w": 22,
+      "h": 23,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 22,
+      "sourceH": 23
+    },
+    "pveTrekSetPets_id_sort_down_down_png": {
+      "x": 1380,
+      "y": 1567,
+      "w": 120,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 120,
+      "sourceH": 40
+    },
+    "pveTrekSetPets_id_sort_down_up_png": {
+      "x": 1258,
+      "y": 1525,
+      "w": 120,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 120,
+      "sourceH": 40
+    },
+    "pveTrekSetPets_id_sort_up_down_png": {
+      "x": 1380,
+      "y": 1525,
+      "w": 120,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 120,
+      "sourceH": 40
+    },
+    "pveTrekSetPets_id_sort_up_up_png": {
+      "x": 1258,
+      "y": 1567,
+      "w": 120,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 120,
+      "sourceH": 40
+    },
+    "pveTrekSetPets_img_btn_close_png": {
+      "x": 1182,
+      "y": 1529,
+      "w": 56,
+      "h": 56,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 56,
+      "sourceH": 56
+    },
+    "pveTrekSetPets_img_down_png": {
+      "x": 1413,
+      "y": 1422,
+      "w": 18,
+      "h": 18,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 18,
+      "sourceH": 18
+    },
+    "pveTrekSetPets_img_up_png": {
+      "x": 1870,
+      "y": 1528,
+      "w": 18,
+      "h": 18,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 18,
+      "sourceH": 18
+    },
+    "pveTrekSetPets_info_title_png": {
+      "x": 1452,
+      "y": 1046,
+      "w": 483,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 483,
+      "sourceH": 40
+    },
+    "pveTrekSetPets_line2_png": {
+      "x": 1800,
+      "y": 1411,
+      "w": 220,
+      "h": 1,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 220,
+      "sourceH": 1
+    },
+    "pveTrekSetPets_lvl_sort_down_down_png": {
+      "x": 1380,
+      "y": 1609,
+      "w": 120,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 120,
+      "sourceH": 40
+    },
+    "pveTrekSetPets_lvl_sort_down_up_png": {
+      "x": 1725,
+      "y": 513,
+      "w": 120,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 120,
+      "sourceH": 40
+    },
+    "pveTrekSetPets_lvl_sort_up_down_png": {
+      "x": 509,
+      "y": 1519,
+      "w": 120,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 120,
+      "sourceH": 40
+    },
+    "pveTrekSetPets_lvl_sort_up_up_png": {
+      "x": 1136,
+      "y": 1487,
+      "w": 120,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 120,
+      "sourceH": 40
+    },
+    "pveTrekSetPets_noJl_png": {
+      "x": 1276,
+      "y": 847,
+      "w": 174,
+      "h": 210,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 174,
+      "sourceH": 210
+    },
+    "pveTrekSetPets_page_down_png": {
+      "x": 2014,
+      "y": 1,
+      "w": 32,
+      "h": 32,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 32,
+      "sourceH": 32
+    },
+    "pveTrekSetPets_page_up_png": {
+      "x": 2023,
+      "y": 1359,
+      "w": 24,
+      "h": 24,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 24,
+      "sourceH": 24
+    },
+    "pveTrekSetPets_pet_bg_png": {
+      "x": 1,
+      "y": 1,
+      "w": 689,
+      "h": 511,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 689,
+      "sourceH": 511
+    },
+    "pveTrekSetPets_skill5_typeIcon_png": {
+      "x": 1847,
+      "y": 513,
+      "w": 35,
+      "h": 39,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 35,
+      "sourceH": 39
+    },
+    "pveTrekSetPets_skill_bg_png": {
+      "x": 1197,
+      "y": 1253,
+      "w": 197,
+      "h": 63,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 197,
+      "sourceH": 63
+    },
+    "pveTrekSetPets_texture_001_png": {
+      "x": 1065,
+      "y": 1548,
+      "w": 115,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 115,
+      "sourceH": 40
+    },
+    "pveTrekSetPets_texture_1_png": {
+      "x": 1197,
+      "y": 1215,
+      "w": 376,
+      "h": 36,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 376,
+      "sourceH": 36
+    },
+    "pveTrekSetPets_texture_allow_png": {
+      "x": 1,
+      "y": 1296,
+      "w": 238,
+      "h": 191,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 238,
+      "sourceH": 191
+    },
+    "pveTrekSetPets_texture_czjl_png": {
+      "x": 962,
+      "y": 1291,
+      "w": 103,
+      "h": 24,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 103,
+      "sourceH": 24
+    },
+    "pveTrekSetPets_texture_line_png": {
+      "x": 951,
+      "y": 1487,
+      "w": 179,
+      "h": 1,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 179,
+      "sourceH": 1
+    },
+    "pveTrekSetPets_texture_point_png": {
+      "x": 951,
+      "y": 1456,
+      "w": 14,
+      "h": 14,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 14,
+      "sourceH": 14
+    },
+    "pveTrekSetPets_texture_top_png": {
+      "x": 1253,
+      "y": 535,
+      "w": 470,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 470,
+      "sourceH": 40
+    },
+    "pveTrekSetPets_title_unequipSkill_png": {
+      "x": 847,
+      "y": 1548,
+      "w": 79,
+      "h": 19,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 79,
+      "sourceH": 19
+    },
+    "pveTrekSetPets_tm_sort_down_down_png": {
+      "x": 969,
+      "y": 1393,
+      "w": 220,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 220,
+      "sourceH": 40
+    },
+    "pveTrekSetPets_tm_sort_down_up_png": {
+      "x": 747,
+      "y": 1414,
+      "w": 220,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 220,
+      "sourceH": 40
+    },
+    "pveTrekSetPets_tm_sort_up_down_png": {
+      "x": 1191,
+      "y": 1393,
+      "w": 220,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 220,
+      "sourceH": 40
+    },
+    "pveTrekSetPets_tm_sort_up_up_png": {
+      "x": 747,
+      "y": 1372,
+      "w": 220,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 220,
+      "sourceH": 40
+    },
+    "pveTrekSetPets_xing_png": {
+      "x": 1626,
+      "y": 1336,
+      "w": 25,
+      "h": 24,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 25,
+      "sourceH": 24
+    },
+    "pveTrekSetPet_title_xzyhjl_png": {
+      "x": 1693,
+      "y": 1490,
+      "w": 185,
+      "h": 36,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 185,
+      "sourceH": 36
+    },
+    "pveTrekSetSeerInfo_addBtn_png": {
+      "x": 1937,
+      "y": 1548,
+      "w": 35,
+      "h": 34,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 35,
+      "sourceH": 34
+    },
+    "pveTrekSetSeerInfo_btnDressAll_png": {
+      "x": 694,
+      "y": 1456,
+      "w": 174,
+      "h": 50,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 174,
+      "sourceH": 50
+    },
+    "pveTrekSetSeerInfo_btnNext_png": {
+      "x": 533,
+      "y": 514,
+      "w": 136,
+      "h": 42,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 136,
+      "sourceH": 42
+    },
+    "pveTrekSetSeerInfo_btnTitleChange_png": {
+      "x": 1971,
+      "y": 1317,
+      "w": 72,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 72,
+      "sourceH": 40
+    },
+    "pveTrekSetSeerInfo_img_title_png": {
+      "x": 1506,
+      "y": 1490,
+      "w": 185,
+      "h": 36,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 185,
+      "sourceH": 36
+    },
+    "pveTrekSetSeerInfo_lineIcon_0_png": {
+      "x": 1782,
+      "y": 847,
+      "w": 250,
+      "h": 104,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 250,
+      "sourceH": 104
+    },
+    "pveTrekSetSeerInfo_lineIcon_1_png": {
+      "x": 595,
+      "y": 1215,
+      "w": 250,
+      "h": 104,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 250,
+      "sourceH": 104
+    },
+    "pveTrekSetSeerInfo_lineIcon_2_png": {
+      "x": 1782,
+      "y": 953,
+      "w": 250,
+      "h": 86,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 250,
+      "sourceH": 86
+    },
+    "pveTrekSetSeerInfo_lineIcon_3_png": {
+      "x": 494,
+      "y": 1327,
+      "w": 251,
+      "h": 105,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 251,
+      "sourceH": 105
+    },
+    "pveTrekSetSeerInfo_lineIcon_4_png": {
+      "x": 241,
+      "y": 1327,
+      "w": 251,
+      "h": 105,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 251,
+      "sourceH": 105
+    },
+    "pveTrekSetSeerInfo_suitIconBigBg_0_png": {
+      "x": 1733,
+      "y": 1088,
+      "w": 205,
+      "h": 95,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 205,
+      "sourceH": 95
+    },
+    "pveTrekSetSeerInfo_suitIcon_0_png": {
+      "x": 1971,
+      "y": 1359,
+      "w": 50,
+      "h": 50,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 50,
+      "sourceH": 50
+    },
+    "pveTrekSetSeerInfo_title_bg_png": {
+      "x": 747,
+      "y": 1321,
+      "w": 277,
+      "h": 49,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 277,
+      "sourceH": 49
+    },
+    "pveTrek_img_allow_png": {
+      "x": 1691,
+      "y": 1255,
+      "w": 37,
+      "h": 35,
+      "offX": 2,
+      "offY": 5,
+      "sourceW": 40,
+      "sourceH": 40
+    },
+    "pveTrek_sort_bg_png": {
+      "x": 928,
+      "y": 1548,
+      "w": 20,
+      "h": 20,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 20,
+      "sourceH": 20
+    },
+    "pveTrek_warehouse_img_all_png": {
+      "x": 1198,
+      "y": 1628,
+      "w": 25,
+      "h": 15,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 25,
+      "sourceH": 15
+    },
+    "pve_star_trek_event_pop_hp_bar2_png": {
+      "x": 1439,
+      "y": 1364,
+      "w": 227,
+      "h": 16,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 227,
+      "sourceH": 16
+    },
+    "pve_star_trek_event_pop_hp_bg2_png": {
+      "x": 1197,
+      "y": 1318,
+      "w": 323,
+      "h": 16,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 323,
+      "sourceH": 16
+    },
+    "pve_star_trek_event_pop_icon_jlxq_png": {
+      "x": 1452,
+      "y": 847,
+      "w": 159,
+      "h": 197,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 159,
+      "sourceH": 197
+    },
+    "pve_star_trek_event_pop_imgBtn_battle_png": {
+      "x": 969,
+      "y": 1435,
+      "w": 174,
+      "h": 50,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 174,
+      "sourceH": 50
+    },
+    "pve_star_trek_event_pop_imgBtn_bg_png": {
+      "x": 1802,
+      "y": 1414,
+      "w": 240,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 240,
+      "sourceH": 40
+    },
+    "pve_star_trek_event_pop_imgBtn_sf_png": {
+      "x": 1502,
+      "y": 1528,
+      "w": 90,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 90,
+      "sourceH": 40
+    },
+    "pve_star_trek_event_pop_imgBtn_sz1_png": {
+      "x": 1940,
+      "y": 1133,
+      "w": 90,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 90,
+      "sourceH": 40
+    },
+    "pve_star_trek_event_pop_imgBtn_xz1_png": {
+      "x": 1198,
+      "y": 1647,
+      "w": 90,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 90,
+      "sourceH": 40
+    },
+    "pve_star_trek_event_pop_img_cz_png": {
+      "x": 1972,
+      "y": 1,
+      "w": 40,
+      "h": 190,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 40,
+      "sourceH": 190
+    },
+    "pve_star_trek_event_pop_img_jy_png": {
+      "x": 1823,
+      "y": 1528,
+      "w": 45,
+      "h": 18,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 45,
+      "sourceH": 18
+    },
+    "pve_star_trek_event_pop_img_pq_png": {
+      "x": 694,
+      "y": 1434,
+      "w": 45,
+      "h": 18,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 45,
+      "sourceH": 18
+    },
+    "pve_star_trek_event_pop_img_sz_png": {
+      "x": 969,
+      "y": 1372,
+      "w": 45,
+      "h": 18,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 45,
+      "sourceH": 18
+    },
+    "pve_star_trek_event_pop_img_yh_png": {
+      "x": 1983,
+      "y": 1456,
+      "w": 40,
+      "h": 160,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 40,
+      "sourceH": 160
+    },
+    "pve_star_trek_event_pop_img_zw_png": {
+      "x": 1728,
+      "y": 1016,
+      "w": 45,
+      "h": 18,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 45,
+      "sourceH": 18
+    },
+    "pve_star_trek_event_pop_lock_png": {
+      "x": 1413,
+      "y": 1393,
+      "w": 22,
+      "h": 27,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 22,
+      "sourceH": 27
+    },
+    "pve_star_trek_event_pop_title_zdzb_png": {
+      "x": 1613,
+      "y": 1016,
+      "w": 113,
+      "h": 26,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 113,
+      "sourceH": 26
+    },
+    "pve_star_trek_petInfo_pop_skill_bg_png": {
+      "x": 1691,
+      "y": 1317,
+      "w": 197,
+      "h": 63,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 197,
+      "sourceH": 63
+    },
+    "pve_star_trek_pet_head_selected_png": {
+      "x": 1071,
+      "y": 1215,
+      "w": 124,
+      "h": 124,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 124,
+      "sourceH": 124
+    },
+    "pve_star_trek_sf_png": {
+      "x": 1522,
+      "y": 1307,
+      "w": 48,
+      "h": 26,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 48,
+      "sourceH": 26
+    }
+  }
+}

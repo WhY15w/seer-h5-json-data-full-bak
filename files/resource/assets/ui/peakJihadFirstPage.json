@@ -1,0 +1,211 @@
+{
+  "groups": [
+    {
+      "name": "peakJihadFirstPage",
+      "keys": "peakJihadFirstPage_sheet,2023_zjcx_spine_atlas,2023_zjcx_spine_json,2023_zjcx_spinebg_atlas,2023_zjcx_spinebg_json,2024dianfeng_atlas,2024dianfeng_json,2024dianfengbg_atlas,2024dianfengbg_json,dianfengshengzhanbeijing_atlas,dianfengshengzhanbeijing_json,dianfeng_2_ske_json,dianfeng_2_tex_json,2023_zjcx_spine_png,2023_zjcx_spinebg_png,2024dianfeng_png,2024dianfengbg_png,dianfengshengzhanbeijing_png,dianfengshengzhanbeijing_2_png,dianfengshengzhanbeijing_3_png,dianfeng_2_tex_png,PeakJihad6V6_jjBtn_png,PeakJihad6V6_monBtn_png,peakjihadfirstpage_train_popbg_png,PeakJihadFree_cBtn_png,PeakJihadFree_dJoinBtn_png,PeakJihadFree_sJoinBtn_png,peakjihadladder_reward_bg_png,PeakJihadStatic_bg_jpg,peakjihad_anniubg_png,peakjihad_leisure_mode_ima3_png,peakjihad_leisure_mode_ima6_png,peakjihad_leisure_mode_ima6_wild_png,peakjihad_leisure_mode_imaTest_png,peakjihad_leisure_mode_none_png,peakjihad_sports_mode_bg_jpg,peakjihad_sports_mode_rightbg_png,peakjihad_sports_pool_vote_pop_imgepetbg_png,peakjihad_sports_pool_vote_pop_imgepetbg2_png,pea_jihad_sport_line_png"
+    }
+  ],
+  "resources": [
+    {
+      "name": "2023_zjcx_spine_atlas",
+      "type": "text",
+      "url": "peakJihadFirstPage/outside/2023_zjcx_spine.atlas"
+    },
+    {
+      "name": "2023_zjcx_spine_json",
+      "type": "json",
+      "url": "peakJihadFirstPage/outside/2023_zjcx_spine.json"
+    },
+    {
+      "name": "2023_zjcx_spinebg_atlas",
+      "type": "text",
+      "url": "peakJihadFirstPage/outside/2023_zjcx_spinebg.atlas"
+    },
+    {
+      "name": "2023_zjcx_spinebg_json",
+      "type": "json",
+      "url": "peakJihadFirstPage/outside/2023_zjcx_spinebg.json"
+    },
+    {
+      "name": "2024dianfeng_atlas",
+      "type": "text",
+      "url": "peakJihadFirstPage/outside/2024dianfeng.atlas"
+    },
+    {
+      "name": "2024dianfeng_json",
+      "type": "json",
+      "url": "peakJihadFirstPage/outside/2024dianfeng.json"
+    },
+    {
+      "name": "2024dianfengbg_atlas",
+      "type": "text",
+      "url": "peakJihadFirstPage/outside/2024dianfengbg.atlas"
+    },
+    {
+      "name": "2024dianfengbg_json",
+      "type": "json",
+      "url": "peakJihadFirstPage/outside/2024dianfengbg.json"
+    },
+    {
+      "name": "dianfengshengzhanbeijing_atlas",
+      "type": "text",
+      "url": "peakJihadFirstPage/outside/dianfengshengzhanbeijing.atlas"
+    },
+    {
+      "name": "dianfengshengzhanbeijing_json",
+      "type": "json",
+      "url": "peakJihadFirstPage/outside/dianfengshengzhanbeijing.json"
+    },
+    {
+      "name": "dianfeng_2_ske_json",
+      "type": "json",
+      "url": "peakJihadFirstPage/outside/dianfeng_2_ske.json"
+    },
+    {
+      "name": "dianfeng_2_tex_json",
+      "type": "json",
+      "url": "peakJihadFirstPage/outside/dianfeng_2_tex.json"
+    },
+    {
+      "name": "2023_zjcx_spine_png",
+      "type": "image",
+      "url": "peakJihadFirstPage/outside/2023_zjcx_spine.png"
+    },
+    {
+      "name": "2023_zjcx_spinebg_png",
+      "type": "image",
+      "url": "peakJihadFirstPage/outside/2023_zjcx_spinebg.png"
+    },
+    {
+      "name": "2024dianfeng_png",
+      "type": "image",
+      "url": "peakJihadFirstPage/outside/2024dianfeng.png"
+    },
+    {
+      "name": "2024dianfengbg_png",
+      "type": "image",
+      "url": "peakJihadFirstPage/outside/2024dianfengbg.png"
+    },
+    {
+      "name": "dianfengshengzhanbeijing_png",
+      "type": "image",
+      "url": "peakJihadFirstPage/outside/dianfengshengzhanbeijing.png"
+    },
+    {
+      "name": "dianfengshengzhanbeijing_2_png",
+      "type": "image",
+      "url": "peakJihadFirstPage/outside/dianfengshengzhanbeijing_2.png"
+    },
+    {
+      "name": "dianfengshengzhanbeijing_3_png",
+      "type": "image",
+      "url": "peakJihadFirstPage/outside/dianfengshengzhanbeijing_3.png"
+    },
+    {
+      "name": "dianfeng_2_tex_png",
+      "type": "image",
+      "url": "peakJihadFirstPage/outside/dianfeng_2_tex.png"
+    },
+    {
+      "name": "PeakJihad6V6_jjBtn_png",
+      "type": "image",
+      "url": "peakJihadFirstPage/outside/PeakJihad6V6_jjBtn.png"
+    },
+    {
+      "name": "PeakJihad6V6_monBtn_png",
+      "type": "image",
+      "url": "peakJihadFirstPage/outside/PeakJihad6V6_monBtn.png"
+    },
+    {
+      "name": "peakjihadfirstpage_train_popbg_png",
+      "type": "image",
+      "url": "peakJihadFirstPage/outside/peakjihadfirstpage_train_popbg.png"
+    },
+    {
+      "name": "PeakJihadFree_cBtn_png",
+      "type": "image",
+      "url": "peakJihadFirstPage/outside/PeakJihadFree_cBtn.png"
+    },
+    {
+      "name": "PeakJihadFree_dJoinBtn_png",
+      "type": "image",
+      "url": "peakJihadFirstPage/outside/PeakJihadFree_dJoinBtn.png"
+    },
+    {
+      "name": "PeakJihadFree_sJoinBtn_png",
+      "type": "image",
+      "url": "peakJihadFirstPage/outside/PeakJihadFree_sJoinBtn.png"
+    },
+    {
+      "name": "peakjihadladder_reward_bg_png",
+      "type": "image",
+      "url": "peakJihadFirstPage/outside/peakjihadladder_reward_bg.png"
+    },
+    {
+      "name": "PeakJihadStatic_bg_jpg",
+      "type": "image",
+      "url": "peakJihadFirstPage/outside/PeakJihadStatic_bg.jpg"
+    },
+    {
+      "name": "peakjihad_anniubg_png",
+      "type": "image",
+      "url": "peakJihadFirstPage/outside/peakjihad_anniubg.png"
+    },
+    {
+      "name": "peakjihad_leisure_mode_ima3_png",
+      "type": "image",
+      "url": "peakJihadFirstPage/outside/peakjihad_leisure_mode_ima3.png"
+    },
+    {
+      "name": "peakjihad_leisure_mode_ima6_png",
+      "type": "image",
+      "url": "peakJihadFirstPage/outside/peakjihad_leisure_mode_ima6.png"
+    },
+    {
+      "name": "peakjihad_leisure_mode_ima6_wild_png",
+      "type": "image",
+      "url": "peakJihadFirstPage/outside/peakjihad_leisure_mode_ima6_wild.png"
+    },
+    {
+      "name": "peakjihad_leisure_mode_imaTest_png",
+      "type": "image",
+      "url": "peakJihadFirstPage/outside/peakjihad_leisure_mode_imaTest.png"
+    },
+    {
+      "name": "peakjihad_leisure_mode_none_png",
+      "type": "image",
+      "url": "peakJihadFirstPage/outside/peakjihad_leisure_mode_none.png"
+    },
+    {
+      "name": "peakjihad_sports_mode_bg_jpg",
+      "type": "image",
+      "url": "peakJihadFirstPage/outside/peakjihad_sports_mode_bg.jpg"
+    },
+    {
+      "name": "peakjihad_sports_mode_rightbg_png",
+      "type": "image",
+      "url": "peakJihadFirstPage/outside/peakjihad_sports_mode_rightbg.png"
+    },
+    {
+      "name": "peakjihad_sports_pool_vote_pop_imgepetbg_png",
+      "type": "image",
+      "url": "peakJihadFirstPage/outside/peakjihad_sports_pool_vote_pop_imgepetbg.png"
+    },
+    {
+      "name": "peakjihad_sports_pool_vote_pop_imgepetbg2_png",
+      "type": "image",
+      "url": "peakJihadFirstPage/outside/peakjihad_sports_pool_vote_pop_imgepetbg2.png"
+    },
+    {
+      "name": "pea_jihad_sport_line_png",
+      "type": "image",
+      "url": "peakJihadFirstPage/outside/pea_jihad_sport_line.png"
+    },
+    {
+      "name": "peakJihadFirstPage_sheet",
+      "type": "sheet",
+      "url": "peakJihadFirstPage/peakJihadFirstPage_sheet.json",
+      "subkeys": "high_ladder_rank_reward_view_close_png,PeakJihad3V3_closeBtn_png,PeakJihad3V3_matchBtn_png,PeakJihad6V6_bg7_png,PeakJihadFirstPage_bg_png,PeakJihadFirstPage_bg2_png,PeakJihadFirstPage_icon0_png,PeakJihadFirstPage_icon1_png,peakjihadfirstpage_imgtitle_png,PeakJihadFirstPage_rankBtn_png,PeakJihadFirstPage_title_png,peakjihadfirstpage_train_done_png,peakjihadfirstpage_train_icon_png,peakjihadfirstpage_train_itembg_png,peakjihadfirstpage_train_levelname1_png,peakjihadfirstpage_train_levelname2_png,peakjihadfirstpage_train_levelname3_png,peakjihadfirstpage_train_start_png,peakjihadfirstpage_train_title1_png,peakjihadfirstpage_train_txtBg_png,PeakJiHadFreeInputPopView_bg4_png,PeakJiHadFreeInputPopView_btn0_png,PeakJiHadFreeInputPopView_btn1_png,PeakJiHadFreeInputPopView_btn2_png,PeakJiHadFreeInputPopView_btn3_png,PeakJiHadFreeInputPopView_btn4_png,PeakJiHadFreeInputPopView_btn5_png,PeakJiHadFreeInputPopView_btn6_png,PeakJiHadFreeInputPopView_btn7_png,PeakJiHadFreeInputPopView_btn8_png,PeakJiHadFreeInputPopView_btn9_png,PeakJiHadFreeInputPopView_delBtn_png,PeakJiHadFreeInputPopView_enterBtn_png,PeakJiHadFreeInputPopView_InputBg_png,peakjihadladder_reward_get_png,peakjihadladder_reward_got_png,peakjihadladder_reward_itembg_png,peakjihadladder_reward_itemnumbg_png,peakjihad_btnjiangli_png,peakjihad_btnjingji_png,peakjihad_btnjingjichi_png,peakjihad_btnpaihang_png,peakjihad_btntask_png,peakjihad_btnxiuxian_png,peakjihad_btnziyou_png,peakjihad_free_mode_title_png,peakjihad_item_num_bg_png,peakjihad_leisure_mode_title_png,PeakJihad_rule_title_png,peakjihad_sports_mode_btnbeibao_png,peakjihad_sports_mode_btnduanwei_png,peakjihad_sports_mode_btnjiangli_png,peakjihad_sports_mode_btnjingji_png,peakjihad_sports_mode_btnmeiri_png,peakjihad_sports_mode_btnzhuangban_png,peakjihad_sports_mode_exp_png,peakjihad_sports_mode_title_png,peakjihad_sports_pool_imgattr_png,peakjihad_sports_pool_imgattrbg_png,peakjihad_sports_pool_itembg_png,peakjihad_sports_pool_numbg_png,peakjihad_sports_pool_rec_png,peakjihad_sports_pool_rule_title_png,peakjihad_sports_pool_title_png,peakjihad_sports_pool_voteresult_pop_imgebtnresult_png,peakjihad_sports_pool_voteresult_pop_imgevoteresult_title_0_png,peakjihad_sports_pool_voteresult_pop_imgevoteresult_title_1_png,peakjihad_sports_pool_vote_imgbtnvote_png,peakjihad_sports_pool_vote_imgeempty_tip_png,peakjihad_sports_pool_vote_imgheadbg_png,peakjihad_sports_pool_vote_imgtimebg_png,peakjihad_sports_pool_vote_imgwinbg_png,peakjihad_sports_pool_vote_pop_imgbtnnext_png,peakjihad_sports_pool_vote_pop_imgbtnpre_png,peakjihad_sports_pool_vote_pop_imgchooseflag_png,peakjihad_sports_pool_vote_pop_imgetitle_0_png,peakjihad_sports_pool_vote_pop_imgetitle_1_png,peakjihad_sports_pool_vote_pop_imgflag_png,peakjihad_sports_pool_vote_pop_imgheadbg_png,peakjihad_wild_mode_btnjingji_png,peakjihad_wild_mode_rightbg_png,peakjihad_wild_mode_title_png,peak_jihad_order_task_panel_go1_png,peak_jihad_order_task_panel_itemgot_png,pea_jihad_achieve_pop_achieveitembg_png,pea_jihad_achieve_pop_btnchengjiu_png,pea_jihad_achieve_pop_title_png,pea_jihad_sport_btnpractice_png,pea_jihad_sport_cantbg_png,pea_jihad_sport_exppro_png,pea_jihad_sport_head__png,pea_jihad_sport_none__png"
+    }
+  ]
+}

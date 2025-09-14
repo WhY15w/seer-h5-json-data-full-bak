@@ -1,0 +1,1483 @@
+{
+  "frameRate": 24,
+  "name": "4476",
+  "version": "5.5",
+  "compatibleVersion": "5.5",
+  "armature": [
+    {
+      "name": "anim",
+      "bone": [
+        {
+          "inheritScale": false,
+          "name": "图层 24",
+          "transform": {
+            "x": 9,
+            "y": 15.15,
+            "scX": -0.3349,
+            "scY": 0.3349
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "图层 23",
+          "transform": {
+            "x": -4.5,
+            "y": -52.35,
+            "scX": -0.3349,
+            "scY": 0.3349
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "图层 22",
+          "transform": {
+            "x": 0.45,
+            "y": -93.65,
+            "scX": -0.3349,
+            "scY": 0.3349
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "图层 21",
+          "transform": {
+            "x": 0.45,
+            "y": -93.65,
+            "scX": -0.3349,
+            "scY": 0.3349
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "cvbbcbvds",
+          "transform": {
+            "x": 18,
+            "y": -40.3,
+            "scX": -0.3349,
+            "scY": 0.3349
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "sdfsdf",
+          "transform": {
+            "x": 44,
+            "y": -31.5,
+            "scX": -0.3349,
+            "scY": 0.3349
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "xcxvxvxcvss",
+          "transform": {
+            "y": -44.85,
+            "scX": -0.3349,
+            "scY": 0.3349
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "fghfhjkyu",
+          "transform": {
+            "x": 14.9,
+            "y": -79.35,
+            "scX": -0.3349,
+            "scY": 0.3349
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "sdfsdfghjj",
+          "transform": {
+            "x": 18,
+            "y": -61.35,
+            "scX": -0.3349,
+            "scY": 0.3349
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "sdfsdfgggyukl2",
+          "transform": {
+            "x": 9,
+            "y": 8,
+            "scX": -0.3349,
+            "scY": 0.3349
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "fgfgdfgtyuop",
+          "transform": {
+            "x": 13.5,
+            "y": -45.9,
+            "scX": -0.3349,
+            "scY": 0.3349
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "sdfsfghdhdr1",
+          "transform": {
+            "x": -9,
+            "y": 18.1,
+            "scX": -0.3349,
+            "scY": 0.3349
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "uiuyis1",
+          "transform": {
+            "x": 4.5,
+            "y": -54.35,
+            "scX": -0.3349,
+            "scY": 0.3349
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "sdfsdffg",
+          "transform": {
+            "x": 7.45,
+            "y": -43.35,
+            "scX": -0.3349,
+            "scY": 0.3349
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "sdfsdfsdff",
+          "transform": {
+            "x": -10.75,
+            "y": -79.35,
+            "scX": -0.3349,
+            "scY": 0.3349
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "sdfsdfsdfg",
+          "transform": {
+            "x": -15.25,
+            "y": -54.45,
+            "scX": -0.3349,
+            "scY": 0.3349
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "ghfghfger",
+          "transform": {
+            "x": 4.5,
+            "y": -87.35,
+            "scX": -0.3349,
+            "scY": 0.3349
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "图层 5",
+          "transform": {
+            "x": 18,
+            "y": -61.35,
+            "scX": -0.3349,
+            "scY": 0.3349
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "图层 4",
+          "transform": {
+            "x": -7.5,
+            "y": -56.85,
+            "scX": -0.3349,
+            "scY": 0.3349
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "图层 3",
+          "transform": {
+            "x": -4.5,
+            "y": 24.15,
+            "scX": -0.3349,
+            "scY": 0.3349
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "图层 2",
+          "transform": {
+            "x": -7.65,
+            "y": -47.75,
+            "scX": -0.3349,
+            "scY": 0.3349
+          }
+        }
+      ],
+      "slot": [
+        {
+          "name": "图层 24",
+          "parent": "图层 24"
+        },
+        {
+          "name": "图层 23",
+          "parent": "图层 23"
+        },
+        {
+          "name": "图层 22",
+          "parent": "图层 22"
+        },
+        {
+          "name": "图层 21",
+          "parent": "图层 21"
+        },
+        {
+          "name": "cvbbcbvds",
+          "parent": "cvbbcbvds"
+        },
+        {
+          "name": "sdfsdf",
+          "parent": "sdfsdf"
+        },
+        {
+          "name": "xcxvxvxcvss",
+          "parent": "xcxvxvxcvss"
+        },
+        {
+          "name": "fghfhjkyu",
+          "parent": "fghfhjkyu"
+        },
+        {
+          "name": "sdfsdfghjj",
+          "parent": "sdfsdfghjj"
+        },
+        {
+          "name": "sdfsdfgggyukl2",
+          "parent": "sdfsdfgggyukl2"
+        },
+        {
+          "name": "fgfgdfgtyuop",
+          "parent": "fgfgdfgtyuop"
+        },
+        {
+          "name": "sdfsfghdhdr1",
+          "parent": "sdfsfghdhdr1"
+        },
+        {
+          "name": "uiuyis1",
+          "parent": "uiuyis1"
+        },
+        {
+          "name": "sdfsdffg",
+          "parent": "sdfsdffg"
+        },
+        {
+          "name": "sdfsdfsdff",
+          "parent": "sdfsdfsdff"
+        },
+        {
+          "name": "sdfsdfsdfg",
+          "parent": "sdfsdfsdfg"
+        },
+        {
+          "name": "ghfghfger",
+          "parent": "ghfghfger"
+        },
+        {
+          "name": "图层 5",
+          "parent": "图层 5"
+        },
+        {
+          "name": "图层 4",
+          "parent": "图层 4"
+        },
+        {
+          "name": "图层 3",
+          "parent": "图层 3"
+        },
+        {
+          "name": "图层 2",
+          "parent": "图层 2"
+        }
+      ],
+      "skin": [
+        {
+          "slot": [
+            {
+              "name": "图层 24",
+              "display": [
+                {
+                  "name": "残晓星纹对战八面用.psd 资源/rtwertfgdfg",
+                  "transform": {
+                    "x": -5.95,
+                    "y": -60.7
+                  }
+                }
+              ]
+            },
+            {
+              "name": "图层 23",
+              "display": [
+                {
+                  "name": "残晓星纹对战八面用.psd 资源/dfgbgbfghf",
+                  "transform": {
+                    "x": 31.7,
+                    "y": -78.75
+                  }
+                }
+              ]
+            },
+            {
+              "name": "图层 22",
+              "display": [
+                {
+                  "name": "残晓星纹对战八面用.psd 资源/vccbddfgdg"
+                }
+              ]
+            },
+            {
+              "name": "图层 21",
+              "display": [
+                {
+                  "name": "残晓星纹对战八面用.psd 资源/vccbddfgdg"
+                }
+              ]
+            },
+            {
+              "name": "cvbbcbvds",
+              "display": [
+                {
+                  "name": "残晓星纹对战八面用.psd 资源/cvbbcbvds",
+                  "transform": {
+                    "x": 43.4,
+                    "y": -11.2
+                  }
+                }
+              ]
+            },
+            {
+              "name": "sdfsdf",
+              "display": [
+                {
+                  "name": "残晓星纹对战八面用.psd 资源/sdfsdf",
+                  "transform": {
+                    "x": 1.15,
+                    "y": 15.9
+                  }
+                }
+              ]
+            },
+            {
+              "name": "xcxvxvxcvss",
+              "display": [
+                {
+                  "name": "残晓星纹对战八面用.psd 资源/xcxvxvxcvss",
+                  "transform": {
+                    "x": 59.1,
+                    "y": 54.4
+                  }
+                }
+              ]
+            },
+            {
+              "name": "fghfhjkyu",
+              "display": [
+                {
+                  "name": "残晓星纹对战八面用.psd 资源/fghfhjkyu",
+                  "transform": {
+                    "x": -5.35,
+                    "y": 27.85
+                  }
+                }
+              ]
+            },
+            {
+              "name": "sdfsdfghjj",
+              "display": [
+                {
+                  "name": "残晓星纹对战八面用.psd 资源/sdfsdfghjj",
+                  "transform": {
+                    "x": -2.5,
+                    "y": 31.5
+                  }
+                }
+              ]
+            },
+            {
+              "name": "sdfsdfgggyukl2",
+              "display": [
+                {
+                  "name": "残晓星纹对战八面用.psd 资源/sdfsdfgggyukl2",
+                  "transform": {
+                    "x": -1.8,
+                    "y": -45.5
+                  }
+                }
+              ]
+            },
+            {
+              "name": "fgfgdfgtyuop",
+              "display": [
+                {
+                  "name": "残晓星纹对战八面用.psd 资源/fgfgdfgtyuop",
+                  "transform": {
+                    "x": 10.05,
+                    "y": 37.95
+                  }
+                }
+              ]
+            },
+            {
+              "name": "sdfsfghdhdr1",
+              "display": [
+                {
+                  "name": "残晓星纹对战八面用.psd 资源/sdfsfghdhdr1",
+                  "transform": {
+                    "x": -11.1,
+                    "y": -62.15
+                  }
+                }
+              ]
+            },
+            {
+              "name": "uiuyis1",
+              "display": [
+                {
+                  "name": "残晓星纹对战八面用.psd 资源/uiuyis1",
+                  "transform": {
+                    "x": 15.75,
+                    "y": 53.8
+                  }
+                }
+              ]
+            },
+            {
+              "name": "sdfsdffg",
+              "display": [
+                {
+                  "name": "残晓星纹对战八面用.psd 资源/sdfsdffg",
+                  "transform": {
+                    "x": 20,
+                    "y": -55.1
+                  }
+                }
+              ]
+            },
+            {
+              "name": "sdfsdfsdff",
+              "display": [
+                {
+                  "name": "残晓星纹对战八面用.psd 资源/sdfsdfsdff",
+                  "transform": {
+                    "x": 5.55,
+                    "y": 40.8
+                  }
+                }
+              ]
+            },
+            {
+              "name": "sdfsdfsdfg",
+              "display": [
+                {
+                  "name": "残晓星纹对战八面用.psd 资源/sdfsdfsdfg",
+                  "transform": {
+                    "x": -14.4,
+                    "y": 12.6
+                  }
+                }
+              ]
+            },
+            {
+              "name": "ghfghfger",
+              "display": [
+                {
+                  "name": "残晓星纹对战八面用.psd 资源/ghfghfger",
+                  "transform": {
+                    "x": -0.8,
+                    "y": -29.65
+                  }
+                }
+              ]
+            },
+            {
+              "name": "图层 5",
+              "display": [
+                {
+                  "name": "残晓星纹对战八面用.psd 资源/sdfsffgdv",
+                  "transform": {
+                    "x": -7.4,
+                    "y": -40.5
+                  }
+                }
+              ]
+            },
+            {
+              "name": "图层 4",
+              "display": [
+                {
+                  "name": "残晓星纹对战八面用.psd 资源/yuiyuwcb",
+                  "transform": {
+                    "x": 48.85,
+                    "y": -40.85
+                  }
+                }
+              ]
+            },
+            {
+              "name": "图层 3",
+              "display": [
+                {
+                  "name": "残晓星纹对战八面用.psd 资源/dfgdfgdfgert",
+                  "transform": {
+                    "x": 39.7,
+                    "y": -76.25
+                  }
+                }
+              ]
+            },
+            {
+              "name": "图层 2",
+              "display": [
+                {
+                  "name": "残晓星纹对战八面用.psd 资源/sdgsgg",
+                  "transform": {
+                    "x": -0.15,
+                    "y": 0.15
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "animation": [
+        {
+          "duration": 30,
+          "name": "down",
+          "bone": [
+            {
+              "name": "图层 24",
+              "translateFrame": [
+                {
+                  "duration": 15,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 14,
+                  "tweenEasing": 0,
+                  "x": -0.02,
+                  "y": -0.02
+                },
+                {
+                  "tweenEasing": 0
+                }
+              ],
+              "rotateFrame": [
+                {
+                  "duration": 15,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 14,
+                  "tweenEasing": 0,
+                  "skew": 3.73
+                },
+                {
+                  "tweenEasing": 0
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 15,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 14,
+                  "tweenEasing": 0,
+                  "x": 1.0755,
+                  "y": 0.9245
+                },
+                {
+                  "tweenEasing": 0
+                }
+              ]
+            },
+            {
+              "name": "图层 23",
+              "translateFrame": [
+                {
+                  "duration": 15,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 14,
+                  "tweenEasing": 0,
+                  "x": -0.05,
+                  "y": 2.82
+                },
+                {
+                  "tweenEasing": 0
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 15,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 14,
+                  "tweenEasing": 0,
+                  "x": 1.0161,
+                  "y": 1.0161
+                },
+                {
+                  "tweenEasing": 0
+                }
+              ]
+            },
+            {
+              "name": "图层 22",
+              "translateFrame": [
+                {
+                  "duration": 15,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 14,
+                  "tweenEasing": 0,
+                  "y": 2.85
+                },
+                {
+                  "tweenEasing": 0
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 30
+                }
+              ]
+            },
+            {
+              "name": "图层 21",
+              "translateFrame": [
+                {
+                  "duration": 6,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 11,
+                  "tweenEasing": 0,
+                  "x": 0.03,
+                  "y": 0.97
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "x": 0.01,
+                  "y": 1.1
+                },
+                {
+                  "y": 1.13
+                },
+                {
+                  "duration": 2,
+                  "x": -0.45,
+                  "y": 93.65
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 6,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 11,
+                  "tweenEasing": 0,
+                  "x": 1.6724,
+                  "y": 1.6724
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "x": 1.7256,
+                  "y": 1.7256
+                },
+                {
+                  "x": 1.7641,
+                  "y": 1.7641
+                },
+                {
+                  "duration": 2,
+                  "x": -2.986,
+                  "y": 2.986
+                }
+              ]
+            },
+            {
+              "name": "cvbbcbvds",
+              "translateFrame": [
+                {
+                  "duration": 15,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 14,
+                  "tweenEasing": 0,
+                  "x": -1.82,
+                  "y": 1.45
+                },
+                {
+                  "tweenEasing": 0
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 30
+                }
+              ]
+            },
+            {
+              "name": "sdfsdf",
+              "translateFrame": [
+                {
+                  "duration": 8,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 7,
+                  "tweenEasing": 0,
+                  "x": -1.03,
+                  "y": 0.65
+                },
+                {
+                  "duration": 7,
+                  "tweenEasing": 0,
+                  "x": -1.92,
+                  "y": 1.32
+                },
+                {
+                  "duration": 7,
+                  "tweenEasing": 0,
+                  "x": -0.98,
+                  "y": 0.63
+                },
+                {
+                  "tweenEasing": 0
+                }
+              ],
+              "rotateFrame": [
+                {
+                  "duration": 8,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 7,
+                  "tweenEasing": 0,
+                  "rotate": -11.2
+                },
+                {
+                  "duration": 7,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 7,
+                  "tweenEasing": 0,
+                  "rotate": 6.43
+                },
+                {
+                  "tweenEasing": 0
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 30
+                }
+              ]
+            },
+            {
+              "name": "xcxvxvxcvss",
+              "translateFrame": [
+                {
+                  "duration": 8,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 7,
+                  "tweenEasing": 0,
+                  "x": -0.02,
+                  "y": 0.43
+                },
+                {
+                  "duration": 7,
+                  "tweenEasing": 0,
+                  "y": 0.85
+                },
+                {
+                  "duration": 7,
+                  "tweenEasing": 0,
+                  "x": -0.05,
+                  "y": 0.45
+                },
+                {
+                  "tweenEasing": 0
+                }
+              ],
+              "rotateFrame": [
+                {
+                  "duration": 8,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 7,
+                  "tweenEasing": 0,
+                  "rotate": 3.23
+                },
+                {
+                  "duration": 7,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 7,
+                  "tweenEasing": 0,
+                  "rotate": -4.19
+                },
+                {
+                  "tweenEasing": 0
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 30
+                }
+              ]
+            },
+            {
+              "name": "fghfhjkyu",
+              "translateFrame": [
+                {
+                  "duration": 15,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 14,
+                  "tweenEasing": 0,
+                  "x": 0.02,
+                  "y": 2.03
+                },
+                {
+                  "tweenEasing": 0
+                }
+              ],
+              "rotateFrame": [
+                {
+                  "duration": 15,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 14,
+                  "tweenEasing": 0,
+                  "rotate": -0.32,
+                  "skew": 3.24
+                },
+                {
+                  "tweenEasing": 0
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 15,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 14,
+                  "tweenEasing": 0,
+                  "y": 1.0015
+                },
+                {
+                  "tweenEasing": 0
+                }
+              ]
+            },
+            {
+              "name": "sdfsdfghjj",
+              "translateFrame": [
+                {
+                  "duration": 15,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 14,
+                  "tweenEasing": 0,
+                  "x": -0.6,
+                  "y": 2.02
+                },
+                {
+                  "tweenEasing": 0
+                }
+              ],
+              "rotateFrame": [
+                {
+                  "duration": 15,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 14,
+                  "tweenEasing": 0,
+                  "rotate": 2.72
+                },
+                {
+                  "tweenEasing": 0
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 30
+                }
+              ]
+            },
+            {
+              "name": "sdfsdfgggyukl2",
+              "translateFrame": [
+                {
+                  "duration": 15,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 14,
+                  "tweenEasing": 0,
+                  "x": 0.47,
+                  "y": 0.38
+                },
+                {
+                  "tweenEasing": 0
+                }
+              ],
+              "rotateFrame": [
+                {
+                  "duration": 15,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 14,
+                  "tweenEasing": 0,
+                  "skew": 1.91
+                },
+                {
+                  "tweenEasing": 0
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 15,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 14,
+                  "tweenEasing": 0,
+                  "y": 0.9734
+                },
+                {
+                  "tweenEasing": 0
+                }
+              ]
+            },
+            {
+              "name": "fgfgdfgtyuop",
+              "translateFrame": [
+                {
+                  "duration": 15,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 14,
+                  "tweenEasing": 0,
+                  "x": -0.02,
+                  "y": 0.92
+                },
+                {
+                  "tweenEasing": 0
+                }
+              ],
+              "rotateFrame": [
+                {
+                  "duration": 15,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 14,
+                  "tweenEasing": 0,
+                  "skew": -1.85
+                },
+                {
+                  "tweenEasing": 0
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 15,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 14,
+                  "tweenEasing": 0,
+                  "y": 1.0003
+                },
+                {
+                  "tweenEasing": 0
+                }
+              ]
+            },
+            {
+              "name": "sdfsfghdhdr1",
+              "translateFrame": [
+                {
+                  "duration": 15,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 14,
+                  "tweenEasing": 0,
+                  "x": 0.18,
+                  "y": 0.12
+                },
+                {
+                  "tweenEasing": 0
+                }
+              ],
+              "rotateFrame": [
+                {
+                  "duration": 15,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 14,
+                  "tweenEasing": 0,
+                  "skew": 1.91
+                },
+                {
+                  "tweenEasing": 0
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 15,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 14,
+                  "tweenEasing": 0,
+                  "y": 0.9734
+                },
+                {
+                  "tweenEasing": 0
+                }
+              ]
+            },
+            {
+              "name": "uiuyis1",
+              "translateFrame": [
+                {
+                  "duration": 15,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 14,
+                  "tweenEasing": 0,
+                  "x": 0.02,
+                  "y": 0.9
+                },
+                {
+                  "tweenEasing": 0
+                }
+              ],
+              "rotateFrame": [
+                {
+                  "duration": 15,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 14,
+                  "tweenEasing": 0,
+                  "skew": -1.41
+                },
+                {
+                  "tweenEasing": 0
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 15,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 14,
+                  "tweenEasing": 0,
+                  "y": 1.0003
+                },
+                {
+                  "tweenEasing": 0
+                }
+              ]
+            },
+            {
+              "name": "sdfsdffg",
+              "translateFrame": [
+                {
+                  "duration": 15,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 14,
+                  "tweenEasing": 0,
+                  "y": 2.05
+                },
+                {
+                  "tweenEasing": 0
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 30
+                }
+              ]
+            },
+            {
+              "name": "sdfsdfsdff",
+              "translateFrame": [
+                {
+                  "duration": 15,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 14,
+                  "tweenEasing": 0,
+                  "x": 0.02,
+                  "y": 2.02
+                },
+                {
+                  "tweenEasing": 0
+                }
+              ],
+              "rotateFrame": [
+                {
+                  "duration": 15,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 14,
+                  "tweenEasing": 0,
+                  "rotate": 1.95
+                },
+                {
+                  "tweenEasing": 0
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 30
+                }
+              ]
+            },
+            {
+              "name": "sdfsdfsdfg",
+              "translateFrame": [
+                {
+                  "duration": 15,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 14,
+                  "tweenEasing": 0,
+                  "x": -0.7,
+                  "y": 1.77
+                },
+                {
+                  "tweenEasing": 0
+                }
+              ],
+              "rotateFrame": [
+                {
+                  "duration": 15,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 14,
+                  "tweenEasing": 0,
+                  "rotate": -2.45
+                },
+                {
+                  "tweenEasing": 0
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 30
+                }
+              ]
+            },
+            {
+              "name": "ghfghfger",
+              "translateFrame": [
+                {
+                  "duration": 15,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 14,
+                  "tweenEasing": 0,
+                  "y": 2
+                },
+                {
+                  "tweenEasing": 0
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 30
+                }
+              ]
+            },
+            {
+              "name": "图层 5",
+              "translateFrame": [
+                {
+                  "duration": 15,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 14,
+                  "tweenEasing": 0,
+                  "x": 0.02,
+                  "y": 1.78
+                },
+                {
+                  "tweenEasing": 0
+                }
+              ],
+              "rotateFrame": [
+                {
+                  "duration": 15,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 14,
+                  "tweenEasing": 0,
+                  "rotate": -1.86,
+                  "skew": 6.47
+                },
+                {
+                  "tweenEasing": 0
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 15,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 14,
+                  "tweenEasing": 0,
+                  "x": 1.0003,
+                  "y": 1.0057
+                },
+                {
+                  "tweenEasing": 0
+                }
+              ]
+            },
+            {
+              "name": "图层 4",
+              "translateFrame": [
+                {
+                  "duration": 15,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 14,
+                  "tweenEasing": 0,
+                  "x": -0.62,
+                  "y": 2.08
+                },
+                {
+                  "tweenEasing": 0
+                }
+              ],
+              "rotateFrame": [
+                {
+                  "duration": 15,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 14,
+                  "tweenEasing": 0,
+                  "rotate": 2.81,
+                  "skew": -7.07
+                },
+                {
+                  "tweenEasing": 0
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 15,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 14,
+                  "tweenEasing": 0,
+                  "x": 1.0048,
+                  "y": 1.0027
+                },
+                {
+                  "tweenEasing": 0
+                }
+              ]
+            },
+            {
+              "name": "图层 3",
+              "translateFrame": [
+                {
+                  "duration": 15,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 14,
+                  "tweenEasing": 0,
+                  "x": -1.12,
+                  "y": -0.55
+                },
+                {
+                  "tweenEasing": 0
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 15,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 14,
+                  "tweenEasing": 0,
+                  "x": 1.0908,
+                  "y": 0.9418
+                },
+                {
+                  "tweenEasing": 0
+                }
+              ]
+            },
+            {
+              "name": "图层 2",
+              "translateFrame": [
+                {
+                  "duration": 15,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 14,
+                  "tweenEasing": 0,
+                  "x": -0.55,
+                  "y": 1.68
+                },
+                {
+                  "tweenEasing": 0
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 30
+                }
+              ]
+            }
+          ],
+          "slot": [
+            {
+              "name": "图层 21",
+              "displayFrame": [
+                {
+                  "duration": 28
+                },
+                {
+                  "duration": 2,
+                  "value": -1
+                }
+              ],
+              "colorFrame": [
+                {
+                  "duration": 6,
+                  "tweenEasing": 0,
+                  "value": {
+                    "aM": 0
+                  }
+                },
+                {
+                  "duration": 11,
+                  "tweenEasing": 0,
+                  "value": {
+                    "aM": 54
+                  }
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "value": {
+                    "aM": 5
+                  }
+                },
+                {
+                  "value": {
+                    "aM": 0
+                  }
+                },
+                {
+                  "duration": 2
+                }
+              ]
+            },
+            {
+              "name": "图层 5",
+              "colorFrame": [
+                {
+                  "duration": 15,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 14,
+                  "tweenEasing": 0,
+                  "value": {
+                    "aM": 81
+                  }
+                },
+                {
+                  "tweenEasing": 0
+                }
+              ]
+            },
+            {
+              "name": "图层 4",
+              "colorFrame": [
+                {
+                  "duration": 15,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 14,
+                  "tweenEasing": 0,
+                  "value": {
+                    "aM": 81
+                  }
+                },
+                {
+                  "tweenEasing": 0
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

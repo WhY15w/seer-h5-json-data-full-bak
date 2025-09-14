@@ -1,0 +1,275 @@
+{
+  "file": "egg_warehouse_sheet.png",
+  "frames": {
+    "egg_warehouse_close_png": {
+      "x": 970,
+      "y": 158,
+      "w": 33,
+      "h": 33,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 33,
+      "sourceH": 33
+    },
+    "egg_warehouse_imgBtn_act_png": {
+      "x": 799,
+      "y": 31,
+      "w": 134,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 134,
+      "sourceH": 46
+    },
+    "egg_warehouse_imgBtn_lq_png": {
+      "x": 527,
+      "y": 79,
+      "w": 134,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 134,
+      "sourceH": 46
+    },
+    "egg_warehouse_imgBtn_putJh_png": {
+      "x": 663,
+      "y": 79,
+      "w": 134,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 134,
+      "sourceH": 46
+    },
+    "egg_warehouse_imgBtn_putjy_png": {
+      "x": 799,
+      "y": 79,
+      "w": 134,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 134,
+      "sourceH": 46
+    },
+    "egg_warehouse_imgBtn_putysz_png": {
+      "x": 527,
+      "y": 31,
+      "w": 134,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 134,
+      "sourceH": 46
+    },
+    "egg_warehouse_imgBtn_rightNow_png": {
+      "x": 663,
+      "y": 31,
+      "w": 134,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 134,
+      "sourceH": 46
+    },
+    "egg_warehouse_imgBtn_vip_png": {
+      "x": 665,
+      "y": 164,
+      "w": 60,
+      "h": 27,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 60,
+      "sourceH": 27
+    },
+    "egg_warehouse_selected_pet_pop_bg_mask_1_png": {
+      "x": 445,
+      "y": 31,
+      "w": 80,
+      "h": 80,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 80,
+      "sourceH": 80
+    },
+    "egg_warehouse_selected_pet_pop_item_bg_png": {
+      "x": 935,
+      "y": 31,
+      "w": 72,
+      "h": 72,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 72,
+      "sourceH": 72
+    },
+    "egg_warehouse_selected_pet_pop_titleTx_1_png": {
+      "x": 865,
+      "y": 161,
+      "w": 103,
+      "h": 31,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 103,
+      "sourceH": 31
+    },
+    "egg_warehouse_selected_pet_pop_titleTx_2_png": {
+      "x": 456,
+      "y": 164,
+      "w": 103,
+      "h": 31,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 103,
+      "sourceH": 31
+    },
+    "egg_warehouse_selected_pet_pop_titleTx_3_png": {
+      "x": 865,
+      "y": 127,
+      "w": 103,
+      "h": 32,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 103,
+      "sourceH": 32
+    },
+    "egg_warehouse_szy_line_png": {
+      "x": 247,
+      "y": 1,
+      "w": 738,
+      "h": 28,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 738,
+      "sourceH": 28
+    },
+    "egg_warehouse_texture_11_png": {
+      "x": 247,
+      "y": 81,
+      "w": 180,
+      "h": 32,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 180,
+      "sourceH": 32
+    },
+    "egg_warehouse_texture_12_png": {
+      "x": 247,
+      "y": 31,
+      "w": 196,
+      "h": 48,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 196,
+      "sourceH": 48
+    },
+    "egg_warehouse_texture_13_png": {
+      "x": 1,
+      "y": 1,
+      "w": 244,
+      "h": 429,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 244,
+      "sourceH": 429
+    },
+    "egg_warehouse_texture_add_png": {
+      "x": 970,
+      "y": 105,
+      "w": 51,
+      "h": 51,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 51,
+      "sourceH": 51
+    },
+    "egg_warehouse_title_1_png": {
+      "x": 351,
+      "y": 164,
+      "w": 103,
+      "h": 31,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 103,
+      "sourceH": 31
+    },
+    "egg_warehouse_title_2_png": {
+      "x": 561,
+      "y": 164,
+      "w": 102,
+      "h": 31,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 102,
+      "sourceH": 31
+    },
+    "egg_warehouse_title_3_png": {
+      "x": 247,
+      "y": 152,
+      "w": 102,
+      "h": 32,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 102,
+      "sourceH": 32
+    },
+    "egg_warehouse_typeBtn_down_1_png": {
+      "x": 247,
+      "y": 115,
+      "w": 101,
+      "h": 35,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 101,
+      "sourceH": 35
+    },
+    "egg_warehouse_typeBtn_down_2_png": {
+      "x": 350,
+      "y": 115,
+      "w": 101,
+      "h": 35,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 101,
+      "sourceH": 35
+    },
+    "egg_warehouse_typeBtn_down_3_png": {
+      "x": 453,
+      "y": 127,
+      "w": 101,
+      "h": 35,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 101,
+      "sourceH": 35
+    },
+    "egg_warehouse_typeBtn_up_1_png": {
+      "x": 556,
+      "y": 127,
+      "w": 101,
+      "h": 35,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 101,
+      "sourceH": 35
+    },
+    "egg_warehouse_typeBtn_up_2_png": {
+      "x": 659,
+      "y": 127,
+      "w": 101,
+      "h": 35,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 101,
+      "sourceH": 35
+    },
+    "egg_warehouse_typeBtn_up_3_png": {
+      "x": 762,
+      "y": 127,
+      "w": 101,
+      "h": 35,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 101,
+      "sourceH": 35
+    }
+  }
+}

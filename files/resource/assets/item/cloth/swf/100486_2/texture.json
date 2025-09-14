@@ -1,0 +1,62 @@
+{
+  "SubTexture": [
+    {
+      "name": "正面元件",
+      "x": 107,
+      "width": 38,
+      "y": 0,
+      "height": 83
+    },
+    {
+      "name": "左下元件01附件",
+      "x": 47,
+      "width": 59,
+      "y": 0,
+      "height": 70
+    },
+    {
+      "name": "右面元件01附件",
+      "x": 199,
+      "width": 28,
+      "y": 0,
+      "height": 69
+    },
+    {
+      "name": "afsdg46",
+      "x": 0,
+      "width": 46,
+      "y": 0,
+      "height": 85
+    },
+    {
+      "name": "背面元件",
+      "x": 146,
+      "width": 52,
+      "y": 0,
+      "height": 65
+    },
+    {
+      "name": "右上元件01",
+      "x": 146,
+      "width": 30,
+      "y": 66,
+      "height": 66
+    },
+    {
+      "name": "右面元件01",
+      "x": 228,
+      "width": 20,
+      "y": 59,
+      "height": 32
+    },
+    {
+      "name": "左下元件01",
+      "x": 228,
+      "width": 21,
+      "y": 0,
+      "height": 58
+    }
+  ],
+  "name": "100486_2",
+  "imagePath": "texture.png"
+}

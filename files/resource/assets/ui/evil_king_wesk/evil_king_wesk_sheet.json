@@ -1,0 +1,645 @@
+{
+  "file": "evil_king_wesk_sheet.png",
+  "frames": {
+    "ekw_fight_succes_pop_chengyi_png": {
+      "x": 984,
+      "y": 565,
+      "w": 37,
+      "h": 37,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 37,
+      "sourceH": 37
+    },
+    "ekw_fight_succes_pop_combine_score_bg_png": {
+      "x": 166,
+      "y": 261,
+      "w": 851,
+      "h": 34,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 851,
+      "sourceH": 34
+    },
+    "ekw_fight_succes_pop_dengyu_png": {
+      "x": 862,
+      "y": 660,
+      "w": 37,
+      "h": 23,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 37,
+      "sourceH": 23
+    },
+    "ekw_fight_succes_pop_icon_1_1_png": {
+      "x": 1001,
+      "y": 453,
+      "w": 22,
+      "h": 53,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 22,
+      "sourceH": 53
+    },
+    "ekw_fight_succes_pop_icon_1_2_png": {
+      "x": 574,
+      "y": 622,
+      "w": 58,
+      "h": 53,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 58,
+      "sourceH": 53
+    },
+    "ekw_fight_succes_pop_icon_1_3_png": {
+      "x": 515,
+      "y": 622,
+      "w": 57,
+      "h": 54,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 57,
+      "sourceH": 54
+    },
+    "ekw_fight_succes_pop_icon_jin_png": {
+      "x": 941,
+      "y": 1,
+      "w": 75,
+      "h": 76,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 75,
+      "sourceH": 76
+    },
+    "ekw_fight_succes_pop_icon_tong_png": {
+      "x": 698,
+      "y": 592,
+      "w": 63,
+      "h": 74,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 63,
+      "sourceH": 74
+    },
+    "ekw_fight_succes_pop_icon_yin_png": {
+      "x": 763,
+      "y": 592,
+      "w": 63,
+      "h": 74,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 63,
+      "sourceH": 74
+    },
+    "ekw_fight_succes_pop_item_1710639_png": {
+      "x": 694,
+      "y": 384,
+      "w": 45,
+      "h": 61,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 45,
+      "sourceH": 61
+    },
+    "ekw_fight_succes_pop_result_bg_png": {
+      "x": 1,
+      "y": 261,
+      "w": 163,
+      "h": 218,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 163,
+      "sourceH": 218
+    },
+    "ekw_fight_succes_pop_result_title_0_png": {
+      "x": 1,
+      "y": 481,
+      "w": 129,
+      "h": 21,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 129,
+      "sourceH": 21
+    },
+    "ekw_fight_succes_pop_result_title_1_png": {
+      "x": 490,
+      "y": 514,
+      "w": 111,
+      "h": 21,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 111,
+      "sourceH": 21
+    },
+    "ekw_fight_succes_pop_reward_kuang_png": {
+      "x": 889,
+      "y": 453,
+      "w": 110,
+      "h": 110,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 110,
+      "sourceH": 110
+    },
+    "ekw_fight_succes_pop_title_png": {
+      "x": 861,
+      "y": 217,
+      "w": 113,
+      "h": 26,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 113,
+      "sourceH": 26
+    },
+    "ekw_fight_succes_pop_zu_1_png": {
+      "x": 96,
+      "y": 627,
+      "w": 93,
+      "h": 21,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 93,
+      "sourceH": 21
+    },
+    "ekw_fight_succes_pop_zu_2_png": {
+      "x": 191,
+      "y": 642,
+      "w": 93,
+      "h": 21,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 93,
+      "sourceH": 21
+    },
+    "ekw_fight_succes_pop_zu_3_png": {
+      "x": 1,
+      "y": 627,
+      "w": 93,
+      "h": 21,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 93,
+      "sourceH": 21
+    },
+    "ekw_fight_west_panel_1710639_png": {
+      "x": 217,
+      "y": 555,
+      "w": 24,
+      "h": 33,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 24,
+      "sourceH": 33
+    },
+    "ekw_fight_west_panel_btnadd_png": {
+      "x": 109,
+      "y": 650,
+      "w": 37,
+      "h": 34,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 37,
+      "sourceH": 34
+    },
+    "ekw_fight_west_panel_btnbag_png": {
+      "x": 145,
+      "y": 555,
+      "w": 70,
+      "h": 70,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 70,
+      "sourceH": 70
+    },
+    "ekw_fight_west_panel_btnclose_png": {
+      "x": 828,
+      "y": 660,
+      "w": 32,
+      "h": 38,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 32,
+      "sourceH": 38
+    },
+    "ekw_fight_west_panel_btncure_png": {
+      "x": 941,
+      "y": 79,
+      "w": 70,
+      "h": 70,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 70,
+      "sourceH": 70
+    },
+    "ekw_fight_west_panel_btnexchange_png": {
+      "x": 166,
+      "y": 384,
+      "w": 262,
+      "h": 76,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 262,
+      "sourceH": 76
+    },
+    "ekw_fight_west_panel_btnfight_png": {
+      "x": 430,
+      "y": 384,
+      "w": 262,
+      "h": 76,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 262,
+      "sourceH": 76
+    },
+    "ekw_fight_west_panel_btnhelp_png": {
+      "x": 1,
+      "y": 650,
+      "w": 34,
+      "h": 38,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 34,
+      "sourceH": 38
+    },
+    "ekw_fight_west_panel_need_png": {
+      "x": 619,
+      "y": 103,
+      "w": 304,
+      "h": 55,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 304,
+      "sourceH": 55
+    },
+    "ekw_fight_west_panel_numbg_png": {
+      "x": 490,
+      "y": 540,
+      "w": 241,
+      "h": 32,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 241,
+      "sourceH": 32
+    },
+    "ekw_fight_west_panel_up_bg_png": {
+      "x": 733,
+      "y": 540,
+      "w": 145,
+      "h": 50,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 145,
+      "sourceH": 50
+    },
+    "ekw_main_panel_btnbuy_png": {
+      "x": 619,
+      "y": 1,
+      "w": 320,
+      "h": 100,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 320,
+      "sourceH": 100
+    },
+    "ekw_main_panel_btnclose_png": {
+      "x": 634,
+      "y": 659,
+      "w": 32,
+      "h": 38,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 32,
+      "sourceH": 38
+    },
+    "ekw_main_panel_btnget_png": {
+      "x": 166,
+      "y": 297,
+      "w": 292,
+      "h": 85,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 292,
+      "sourceH": 85
+    },
+    "ekw_main_panel_btnhelp_png": {
+      "x": 73,
+      "y": 650,
+      "w": 34,
+      "h": 38,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 34,
+      "sourceH": 38
+    },
+    "ekw_main_panel_btninfo_png": {
+      "x": 394,
+      "y": 543,
+      "w": 94,
+      "h": 75,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 94,
+      "sourceH": 75
+    },
+    "ekw_main_panel_btnupgrade_png": {
+      "x": 460,
+      "y": 297,
+      "w": 282,
+      "h": 85,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 282,
+      "sourceH": 85
+    },
+    "ekw_main_panel_title_png": {
+      "x": 1,
+      "y": 1,
+      "w": 616,
+      "h": 170,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 616,
+      "sourceH": 170
+    },
+    "ekw_main_panel_up_bg_png": {
+      "x": 490,
+      "y": 462,
+      "w": 145,
+      "h": 50,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 145,
+      "sourceH": 50
+    },
+    "ekw_pp_done_png": {
+      "x": 1,
+      "y": 509,
+      "w": 244,
+      "h": 44,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 244,
+      "sourceH": 44
+    },
+    "ekw_upgrade_ability_panel_btnadd_png": {
+      "x": 148,
+      "y": 650,
+      "w": 37,
+      "h": 34,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 37,
+      "sourceH": 34
+    },
+    "ekw_upgrade_ability_panel_btnbag_png": {
+      "x": 1,
+      "y": 555,
+      "w": 70,
+      "h": 70,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 70,
+      "sourceH": 70
+    },
+    "ekw_upgrade_ability_panel_btnclose_png": {
+      "x": 286,
+      "y": 642,
+      "w": 32,
+      "h": 38,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 32,
+      "sourceH": 38
+    },
+    "ekw_upgrade_ability_panel_btncure_png": {
+      "x": 73,
+      "y": 555,
+      "w": 70,
+      "h": 70,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 70,
+      "sourceH": 70
+    },
+    "ekw_upgrade_ability_panel_btnfight_0_png": {
+      "x": 744,
+      "y": 297,
+      "w": 262,
+      "h": 76,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 262,
+      "sourceH": 76
+    },
+    "ekw_upgrade_ability_panel_btnfight_1_png": {
+      "x": 744,
+      "y": 375,
+      "w": 262,
+      "h": 76,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 262,
+      "sourceH": 76
+    },
+    "ekw_upgrade_ability_panel_btnhelp_png": {
+      "x": 37,
+      "y": 650,
+      "w": 34,
+      "h": 38,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 34,
+      "sourceH": 38
+    },
+    "ekw_upgrade_ability_panel_btn_exchange_bg_png": {
+      "x": 861,
+      "y": 160,
+      "w": 143,
+      "h": 55,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 143,
+      "sourceH": 55
+    },
+    "ekw_upgrade_ability_panel_buy_icon_png": {
+      "x": 387,
+      "y": 620,
+      "w": 61,
+      "h": 61,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 61,
+      "sourceH": 61
+    },
+    "ekw_upgrade_ability_panel_icon_0_png": {
+      "x": 694,
+      "y": 453,
+      "w": 193,
+      "h": 85,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 193,
+      "sourceH": 85
+    },
+    "ekw_upgrade_ability_panel_icon_got_png": {
+      "x": 1,
+      "y": 173,
+      "w": 428,
+      "h": 86,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 428,
+      "sourceH": 86
+    },
+    "ekw_upgrade_ability_panel_icon_mark_png": {
+      "x": 450,
+      "y": 622,
+      "w": 63,
+      "h": 59,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 63,
+      "sourceH": 59
+    },
+    "ekw_upgrade_ability_panel_icon_skill_png": {
+      "x": 321,
+      "y": 595,
+      "w": 64,
+      "h": 66,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 64,
+      "sourceH": 66
+    },
+    "ekw_upgrade_ability_panel_icon_texing_png": {
+      "x": 932,
+      "y": 613,
+      "w": 58,
+      "h": 66,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 58,
+      "sourceH": 66
+    },
+    "ekw_upgrade_ability_panel_icon_yao_png": {
+      "x": 637,
+      "y": 462,
+      "w": 50,
+      "h": 57,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 50,
+      "sourceH": 57
+    },
+    "ekw_upgrade_ability_panel_items_bg_png": {
+      "x": 431,
+      "y": 173,
+      "w": 428,
+      "h": 86,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 428,
+      "sourceH": 86
+    },
+    "ekw_upgrade_ability_panel_item_1710671_png": {
+      "x": 976,
+      "y": 217,
+      "w": 36,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 36,
+      "sourceH": 40
+    },
+    "ekw_upgrade_ability_panel_item_1710672_png": {
+      "x": 634,
+      "y": 622,
+      "w": 38,
+      "h": 35,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 38,
+      "sourceH": 35
+    },
+    "ekw_upgrade_ability_panel_numbg_png": {
+      "x": 247,
+      "y": 509,
+      "w": 241,
+      "h": 32,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 241,
+      "sourceH": 32
+    },
+    "ekw_upgrade_ability_panel_tipsbg_png": {
+      "x": 166,
+      "y": 462,
+      "w": 304,
+      "h": 45,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 304,
+      "sourceH": 45
+    },
+    "ekw_upgrade_ability_panel_title_0_png": {
+      "x": 217,
+      "y": 595,
+      "w": 102,
+      "h": 45,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 102,
+      "sourceH": 45
+    },
+    "ekw_upgrade_ability_panel_title_1_png": {
+      "x": 828,
+      "y": 613,
+      "w": 102,
+      "h": 45,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 102,
+      "sourceH": 45
+    },
+    "ekw_upgrade_ability_panel_title_2_png": {
+      "x": 594,
+      "y": 574,
+      "w": 102,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 102,
+      "sourceH": 46
+    },
+    "ekw_upgrade_ability_panel_title_3_png": {
+      "x": 880,
+      "y": 565,
+      "w": 102,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 102,
+      "sourceH": 46
+    },
+    "ekw_upgrade_ability_panel_title_4_png": {
+      "x": 490,
+      "y": 574,
+      "w": 102,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 102,
+      "sourceH": 46
+    },
+    "ekw_upgrade_ability_panel_up_bg_png": {
+      "x": 247,
+      "y": 543,
+      "w": 145,
+      "h": 50,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 145,
+      "sourceH": 50
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "groups": [
+    {
+      "keys": "road_1273,exml_1273,map_1273_bg_mc_jpg",
+      "name": "map_1273"
+    }
+  ],
+  "resources": [
+    {
+      "type": "json",
+      "url": "1273.json",
+      "name": "road_1273"
+    },
+    {
+      "type": "text",
+      "url": "Map1273Skin.exml",
+      "name": "exml_1273"
+    },
+    {
+      "type": "image",
+      "url": "map_1273_bg_mc.jpg",
+      "name": "map_1273_bg_mc_jpg"
+    }
+  ]
+}

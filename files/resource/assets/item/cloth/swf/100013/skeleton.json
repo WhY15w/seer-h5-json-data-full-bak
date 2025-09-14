@@ -1,0 +1,4228 @@
+{
+  "frameRate": 24,
+  "name": "100013",
+  "version": "5.5",
+  "compatibleVersion": "5.5",
+  "armature": [
+    {
+      "name": "cloth_100013",
+      "bone": [
+        {
+          "inheritScale": false,
+          "name": "lab_2",
+          "transform": {
+            "x": 10.15,
+            "y": 46.2,
+            "scX": -1
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "lab_1",
+          "transform": {
+            "x": 22.85,
+            "y": 46.2
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "lab_4",
+          "transform": {
+            "x": 15.85,
+            "y": 43.9
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "lab_3",
+          "transform": {
+            "x": 21.9,
+            "y": 39.6
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "lab_6",
+          "transform": {
+            "x": 15.85,
+            "y": 42.7
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "lab_5",
+          "transform": {
+            "x": 15.8,
+            "y": 38.25
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "lab_8",
+          "transform": {
+            "x": 18.35,
+            "y": 42.8
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "lab_7",
+          "transform": {
+            "x": 12,
+            "y": 38.75
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "lab_10",
+          "transform": {
+            "x": 22.6,
+            "y": 38.75
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "lab_9",
+          "transform": {
+            "x": 11.35,
+            "y": 38.75
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "lab_12",
+          "transform": {
+            "x": 18.35,
+            "y": 42.8
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "lab_11",
+          "transform": {
+            "x": 12,
+            "y": 38.75
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "lab_14",
+          "transform": {
+            "x": 15.85,
+            "y": 42.7
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "lab_13",
+          "transform": {
+            "x": 15.8,
+            "y": 38.25
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "lab_16",
+          "transform": {
+            "x": 15.85,
+            "y": 43.9
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "lab_15",
+          "transform": {
+            "x": 21.9,
+            "y": 39.6
+          }
+        }
+      ],
+      "slot": [
+        {
+          "name": "lab_16",
+          "parent": "lab_16"
+        },
+        {
+          "name": "lab_15",
+          "parent": "lab_15"
+        },
+        {
+          "name": "lab_14",
+          "parent": "lab_14"
+        },
+        {
+          "name": "lab_13",
+          "parent": "lab_13"
+        },
+        {
+          "name": "lab_12",
+          "parent": "lab_12"
+        },
+        {
+          "name": "lab_11",
+          "parent": "lab_11"
+        },
+        {
+          "name": "lab_10",
+          "parent": "lab_10"
+        },
+        {
+          "name": "lab_9",
+          "parent": "lab_9"
+        },
+        {
+          "name": "lab_8",
+          "parent": "lab_8"
+        },
+        {
+          "name": "lab_7",
+          "parent": "lab_7"
+        },
+        {
+          "name": "lab_6",
+          "parent": "lab_6"
+        },
+        {
+          "name": "lab_5",
+          "parent": "lab_5"
+        },
+        {
+          "name": "lab_4",
+          "parent": "lab_4"
+        },
+        {
+          "name": "lab_3",
+          "parent": "lab_3"
+        },
+        {
+          "name": "lab_2",
+          "parent": "lab_2"
+        },
+        {
+          "name": "lab_1",
+          "parent": "lab_1"
+        }
+      ],
+      "skin": [
+        {
+          "slot": [
+            {
+              "name": "lab_16",
+              "display": [
+                {
+                  "name": "__dbTextures/cloth_100013/lab_16_91",
+                  "transform": {
+                    "x": 0.05,
+                    "y": 0.45
+                  }
+                },
+                {
+                  "name": "sdfgdfgfjhhjkhjh",
+                  "transform": {
+                    "x": 0.65,
+                    "y": 0.05
+                  }
+                },
+                {
+                  "name": "asddfgncvbcvb342",
+                  "transform": {
+                    "x": -0.2,
+                    "y": 0.65
+                  }
+                },
+                {
+                  "name": "__dbTextures/cloth_100013/lab_16_96",
+                  "transform": {
+                    "x": 0.45
+                  }
+                },
+                {
+                  "name": "__dbTextures/cloth_100013/lab_16_98",
+                  "transform": {
+                    "x": 0.3,
+                    "y": 0.45
+                  }
+                },
+                {
+                  "name": "__dbTextures/cloth_100013/lab_16_100",
+                  "transform": {
+                    "x": 0.15,
+                    "y": 0.3
+                  }
+                },
+                {
+                  "name": "__dbTextures/cloth_100013/lab_16_102",
+                  "transform": {
+                    "x": 0.35,
+                    "y": 0.3
+                  }
+                }
+              ]
+            },
+            {
+              "name": "lab_15",
+              "display": [
+                {
+                  "name": "__dbTextures/cloth_100013/lab_15_91",
+                  "transform": {
+                    "x": 0.05,
+                    "y": 0.5
+                  }
+                },
+                {
+                  "name": "腿",
+                  "transform": {
+                    "x": -4.45,
+                    "y": 5.4
+                  }
+                },
+                {
+                  "name": "__dbTextures/cloth_100013/lab_15_94",
+                  "transform": {
+                    "x": 0.4,
+                    "y": 0.5
+                  }
+                },
+                {
+                  "name": "__dbTextures/cloth_100013/lab_15_96",
+                  "transform": {
+                    "x": 0.3,
+                    "y": 0.15
+                  }
+                },
+                {
+                  "name": "__dbTextures/cloth_100013/lab_15_98",
+                  "transform": {
+                    "x": 0.1,
+                    "y": 0.4
+                  }
+                },
+                {
+                  "name": "__dbTextures/cloth_100013/lab_15_100",
+                  "transform": {
+                    "x": 0.25,
+                    "y": 0.1
+                  }
+                },
+                {
+                  "name": "sdfgdfgfjhhjkhjh",
+                  "transform": {
+                    "x": 0.7,
+                    "y": -0.15
+                  }
+                }
+              ]
+            },
+            {
+              "name": "lab_14",
+              "display": [
+                {
+                  "name": "__dbTextures/cloth_100013/lab_14_78",
+                  "transform": {
+                    "x": 0.45,
+                    "y": 0.4
+                  }
+                },
+                {
+                  "name": "__dbTextures/cloth_100013/lab_14_79",
+                  "transform": {
+                    "x": 0.2,
+                    "y": 0.45
+                  }
+                },
+                {
+                  "name": "__dbTextures/cloth_100013/lab_14_81",
+                  "transform": {
+                    "x": 0.05,
+                    "y": 0.45
+                  }
+                },
+                {
+                  "name": "__dbTextures/cloth_100013/lab_14_83",
+                  "transform": {
+                    "x": 0.25,
+                    "y": 0.4
+                  }
+                },
+                {
+                  "name": "__dbTextures/cloth_100013/lab_14_85",
+                  "transform": {
+                    "x": 0.1,
+                    "y": 0.15
+                  }
+                },
+                {
+                  "name": "__dbTextures/cloth_100013/lab_14_87",
+                  "transform": {
+                    "x": 0.25,
+                    "y": 0.45
+                  }
+                },
+                {
+                  "name": "__dbTextures/cloth_100013/lab_14_89",
+                  "transform": {
+                    "x": 0.45,
+                    "y": 0.45
+                  }
+                }
+              ]
+            },
+            {
+              "name": "lab_13",
+              "display": [
+                {
+                  "name": "__dbTextures/cloth_100013/lab_13_78",
+                  "transform": {
+                    "x": 0.35,
+                    "y": 0.05
+                  }
+                },
+                {
+                  "name": "__dbTextures/cloth_100013/lab_13_79",
+                  "transform": {
+                    "x": 0.4,
+                    "y": 0.2
+                  }
+                },
+                {
+                  "name": "__dbTextures/cloth_100013/lab_13_81",
+                  "transform": {
+                    "x": 0.5,
+                    "y": 0.1
+                  }
+                },
+                {
+                  "name": "__dbTextures/cloth_100013/lab_13_83",
+                  "transform": {
+                    "x": 0.45,
+                    "y": 0.45
+                  }
+                },
+                {
+                  "name": "__dbTextures/cloth_100013/lab_13_85",
+                  "transform": {
+                    "x": 0.25,
+                    "y": 0.4
+                  }
+                },
+                {
+                  "name": "__dbTextures/cloth_100013/lab_13_87",
+                  "transform": {
+                    "x": 0.15,
+                    "y": 0.4
+                  }
+                },
+                {
+                  "name": "__dbTextures/cloth_100013/lab_13_89",
+                  "transform": {
+                    "x": 0.35,
+                    "y": 0.05
+                  }
+                }
+              ]
+            },
+            {
+              "name": "lab_12",
+              "display": [
+                {
+                  "name": "__dbTextures/cloth_100013/lab_12_65",
+                  "transform": {
+                    "x": 0.45,
+                    "y": 0.1
+                  }
+                },
+                {
+                  "name": "__dbTextures/cloth_100013/lab_12_66",
+                  "transform": {
+                    "x": 0.1,
+                    "y": 0.45
+                  }
+                },
+                {
+                  "name": "__dbTextures/cloth_100013/lab_12_68",
+                  "transform": {
+                    "x": 0.1,
+                    "y": 0.15
+                  }
+                },
+                {
+                  "name": "__dbTextures/cloth_100013/lab_12_70",
+                  "transform": {
+                    "x": 0.25,
+                    "y": 0.05
+                  }
+                },
+                {
+                  "name": "__dbTextures/cloth_100013/lab_12_72",
+                  "transform": {
+                    "x": 0.35,
+                    "y": 0.1
+                  }
+                },
+                {
+                  "name": "__dbTextures/cloth_100013/lab_12_74",
+                  "transform": {
+                    "x": 0.05,
+                    "y": 0.15
+                  }
+                },
+                {
+                  "name": "__dbTextures/cloth_100013/lab_12_76",
+                  "transform": {
+                    "x": 0.3,
+                    "y": 0.5
+                  }
+                }
+              ]
+            },
+            {
+              "name": "lab_11",
+              "display": [
+                {
+                  "name": "__dbTextures/cloth_100013/lab_11_65",
+                  "transform": {
+                    "x": 0.3,
+                    "y": 0.15
+                  }
+                },
+                {
+                  "name": "__dbTextures/cloth_100013/lab_11_66",
+                  "transform": {
+                    "x": 0.25,
+                    "y": 0.2
+                  }
+                },
+                {
+                  "name": "__dbTextures/cloth_100013/lab_11_68",
+                  "transform": {
+                    "x": 0.25,
+                    "y": 0.15
+                  }
+                },
+                {
+                  "name": "__dbTextures/cloth_100013/lab_11_70",
+                  "transform": {
+                    "x": 0.3,
+                    "y": 0.1
+                  }
+                },
+                {
+                  "name": "__dbTextures/cloth_100013/lab_11_72",
+                  "transform": {
+                    "x": 0.4,
+                    "y": 0.3
+                  }
+                },
+                {
+                  "name": "__dbTextures/cloth_100013/lab_11_74",
+                  "transform": {
+                    "x": 0.1,
+                    "y": 0.15
+                  }
+                },
+                {
+                  "name": "__dbTextures/cloth_100013/lab_11_76",
+                  "transform": {
+                    "x": 0.25,
+                    "y": 0.2
+                  }
+                }
+              ]
+            },
+            {
+              "name": "lab_10",
+              "display": [
+                {
+                  "name": "__dbTextures/cloth_100013/lab_10_52",
+                  "transform": {
+                    "x": 0.35,
+                    "y": 0.1
+                  }
+                },
+                {
+                  "name": "__dbTextures/cloth_100013/lab_10_53",
+                  "transform": {
+                    "x": 0.35,
+                    "y": 0.35
+                  }
+                },
+                {
+                  "name": "SDFGDVBNERTT456445632",
+                  "transform": {
+                    "x": 1.05,
+                    "y": 0.55
+                  }
+                },
+                {
+                  "name": "__dbTextures/cloth_100013/lab_10_57",
+                  "transform": {
+                    "x": 0.2
+                  }
+                },
+                {
+                  "name": "__dbTextures/cloth_100013/lab_10_61",
+                  "transform": {
+                    "x": 0.4,
+                    "y": 0.25
+                  }
+                },
+                {
+                  "name": "__dbTextures/cloth_100013/lab_10_63",
+                  "transform": {
+                    "x": 0.35,
+                    "y": 0.4
+                  }
+                }
+              ]
+            },
+            {
+              "name": "lab_9",
+              "display": [
+                {
+                  "name": "__dbTextures/cloth_100013/lab_9_52",
+                  "transform": {
+                    "x": 0.35,
+                    "y": 0.1
+                  }
+                },
+                {
+                  "name": "__dbTextures/cloth_100013/lab_9_55",
+                  "transform": {
+                    "x": 0.4,
+                    "y": 0.25
+                  }
+                },
+                {
+                  "name": "__dbTextures/cloth_100013/lab_9_57",
+                  "transform": {
+                    "x": 0.35,
+                    "y": 0.3
+                  }
+                },
+                {
+                  "name": "__dbTextures/cloth_100013/lab_9_59",
+                  "transform": {
+                    "x": 0.35,
+                    "y": 0.5
+                  }
+                },
+                {
+                  "name": "SDFGDVBNERTT456445632",
+                  "transform": {
+                    "x": 1.05,
+                    "y": 0.55
+                  }
+                },
+                {
+                  "name": "__dbTextures/cloth_100013/lab_9_63",
+                  "transform": {
+                    "x": 0.2
+                  }
+                }
+              ]
+            },
+            {
+              "name": "lab_8",
+              "display": [
+                {
+                  "name": "__dbTextures/cloth_100013/lab_8_39",
+                  "transform": {
+                    "x": 0.45,
+                    "y": 0.1
+                  }
+                },
+                {
+                  "name": "__dbTextures/cloth_100013/lab_8_40",
+                  "transform": {
+                    "x": 0.1,
+                    "y": 0.45
+                  }
+                },
+                {
+                  "name": "__dbTextures/cloth_100013/lab_8_42",
+                  "transform": {
+                    "x": 0.1,
+                    "y": 0.15
+                  }
+                },
+                {
+                  "name": "__dbTextures/cloth_100013/lab_8_44",
+                  "transform": {
+                    "x": 0.25,
+                    "y": 0.05
+                  }
+                },
+                {
+                  "name": "__dbTextures/cloth_100013/lab_8_46",
+                  "transform": {
+                    "x": 0.35,
+                    "y": 0.1
+                  }
+                },
+                {
+                  "name": "__dbTextures/cloth_100013/lab_8_48",
+                  "transform": {
+                    "x": 0.05,
+                    "y": 0.15
+                  }
+                },
+                {
+                  "name": "__dbTextures/cloth_100013/lab_8_50",
+                  "transform": {
+                    "x": 0.3,
+                    "y": 0.5
+                  }
+                }
+              ]
+            },
+            {
+              "name": "lab_7",
+              "display": [
+                {
+                  "name": "__dbTextures/cloth_100013/lab_7_39",
+                  "transform": {
+                    "x": 0.3,
+                    "y": 0.15
+                  }
+                },
+                {
+                  "name": "__dbTextures/cloth_100013/lab_7_40",
+                  "transform": {
+                    "x": 0.25,
+                    "y": 0.2
+                  }
+                },
+                {
+                  "name": "__dbTextures/cloth_100013/lab_7_42",
+                  "transform": {
+                    "x": 0.25,
+                    "y": 0.15
+                  }
+                },
+                {
+                  "name": "__dbTextures/cloth_100013/lab_7_44",
+                  "transform": {
+                    "x": 0.3,
+                    "y": 0.1
+                  }
+                },
+                {
+                  "name": "__dbTextures/cloth_100013/lab_7_46",
+                  "transform": {
+                    "x": 0.4,
+                    "y": 0.3
+                  }
+                },
+                {
+                  "name": "__dbTextures/cloth_100013/lab_7_48",
+                  "transform": {
+                    "x": 0.1,
+                    "y": 0.15
+                  }
+                },
+                {
+                  "name": "__dbTextures/cloth_100013/lab_7_50",
+                  "transform": {
+                    "x": 0.25,
+                    "y": 0.2
+                  }
+                }
+              ]
+            },
+            {
+              "name": "lab_6",
+              "display": [
+                {
+                  "name": "__dbTextures/cloth_100013/lab_6_26",
+                  "transform": {
+                    "x": 0.45,
+                    "y": 0.4
+                  }
+                },
+                {
+                  "name": "__dbTextures/cloth_100013/lab_6_27",
+                  "transform": {
+                    "x": 0.2,
+                    "y": 0.45
+                  }
+                },
+                {
+                  "name": "__dbTextures/cloth_100013/lab_6_29",
+                  "transform": {
+                    "x": 0.05,
+                    "y": 0.45
+                  }
+                },
+                {
+                  "name": "__dbTextures/cloth_100013/lab_6_31",
+                  "transform": {
+                    "x": 0.25,
+                    "y": 0.4
+                  }
+                },
+                {
+                  "name": "__dbTextures/cloth_100013/lab_6_33",
+                  "transform": {
+                    "x": 0.1,
+                    "y": 0.15
+                  }
+                },
+                {
+                  "name": "__dbTextures/cloth_100013/lab_6_35",
+                  "transform": {
+                    "x": 0.25,
+                    "y": 0.45
+                  }
+                },
+                {
+                  "name": "__dbTextures/cloth_100013/lab_6_37",
+                  "transform": {
+                    "x": 0.45,
+                    "y": 0.45
+                  }
+                }
+              ]
+            },
+            {
+              "name": "lab_5",
+              "display": [
+                {
+                  "name": "__dbTextures/cloth_100013/lab_5_26",
+                  "transform": {
+                    "x": 0.35,
+                    "y": 0.05
+                  }
+                },
+                {
+                  "name": "__dbTextures/cloth_100013/lab_5_27",
+                  "transform": {
+                    "x": 0.4,
+                    "y": 0.2
+                  }
+                },
+                {
+                  "name": "__dbTextures/cloth_100013/lab_5_29",
+                  "transform": {
+                    "x": 0.5,
+                    "y": 0.1
+                  }
+                },
+                {
+                  "name": "__dbTextures/cloth_100013/lab_5_31",
+                  "transform": {
+                    "x": 0.45,
+                    "y": 0.45
+                  }
+                },
+                {
+                  "name": "__dbTextures/cloth_100013/lab_5_33",
+                  "transform": {
+                    "x": 0.25,
+                    "y": 0.4
+                  }
+                },
+                {
+                  "name": "__dbTextures/cloth_100013/lab_5_35",
+                  "transform": {
+                    "x": 0.15,
+                    "y": 0.4
+                  }
+                },
+                {
+                  "name": "__dbTextures/cloth_100013/lab_5_37",
+                  "transform": {
+                    "x": 0.35,
+                    "y": 0.05
+                  }
+                }
+              ]
+            },
+            {
+              "name": "lab_4",
+              "display": [
+                {
+                  "name": "__dbTextures/cloth_100013/lab_4_13",
+                  "transform": {
+                    "x": 0.05,
+                    "y": 0.45
+                  }
+                },
+                {
+                  "name": "sdfgdfgfjhhjkhjh",
+                  "transform": {
+                    "x": 0.65,
+                    "y": 0.05
+                  }
+                },
+                {
+                  "name": "asddfgncvbcvb342",
+                  "transform": {
+                    "x": -0.2,
+                    "y": 0.65
+                  }
+                },
+                {
+                  "name": "__dbTextures/cloth_100013/lab_4_18",
+                  "transform": {
+                    "x": 0.45
+                  }
+                },
+                {
+                  "name": "__dbTextures/cloth_100013/lab_4_20",
+                  "transform": {
+                    "x": 0.3,
+                    "y": 0.45
+                  }
+                },
+                {
+                  "name": "__dbTextures/cloth_100013/lab_4_22",
+                  "transform": {
+                    "x": 0.15,
+                    "y": 0.3
+                  }
+                },
+                {
+                  "name": "__dbTextures/cloth_100013/lab_4_24",
+                  "transform": {
+                    "x": 0.35,
+                    "y": 0.3
+                  }
+                }
+              ]
+            },
+            {
+              "name": "lab_3",
+              "display": [
+                {
+                  "name": "__dbTextures/cloth_100013/lab_3_13",
+                  "transform": {
+                    "x": 0.05,
+                    "y": 0.5
+                  }
+                },
+                {
+                  "name": "腿",
+                  "transform": {
+                    "x": -4.45,
+                    "y": 5.4
+                  }
+                },
+                {
+                  "name": "__dbTextures/cloth_100013/lab_3_16",
+                  "transform": {
+                    "x": 0.4,
+                    "y": 0.5
+                  }
+                },
+                {
+                  "name": "__dbTextures/cloth_100013/lab_3_18",
+                  "transform": {
+                    "x": 0.3,
+                    "y": 0.15
+                  }
+                },
+                {
+                  "name": "__dbTextures/cloth_100013/lab_3_20",
+                  "transform": {
+                    "x": 0.1,
+                    "y": 0.4
+                  }
+                },
+                {
+                  "name": "__dbTextures/cloth_100013/lab_3_22",
+                  "transform": {
+                    "x": 0.25,
+                    "y": 0.1
+                  }
+                },
+                {
+                  "name": "sdfgdfgfjhhjkhjh",
+                  "transform": {
+                    "x": 0.7,
+                    "y": -0.15
+                  }
+                }
+              ]
+            },
+            {
+              "name": "lab_2",
+              "display": [
+                {
+                  "name": "asdfsdfsdfsdd2222",
+                  "transform": {
+                    "x": 0.45,
+                    "y": 0.6
+                  }
+                },
+                {
+                  "name": "zsfxcvcccc",
+                  "transform": {
+                    "x": 0.7,
+                    "y": -2.05
+                  }
+                },
+                {
+                  "name": "__dbTextures/cloth_100013/lab_2_3",
+                  "transform": {
+                    "x": 0.5,
+                    "y": 0.5
+                  }
+                },
+                {
+                  "name": "__dbTextures/cloth_100013/lab_2_5",
+                  "transform": {
+                    "x": 0.35,
+                    "y": 0.45
+                  }
+                },
+                {
+                  "name": "__dbTextures/cloth_100013/lab_2_9",
+                  "transform": {
+                    "x": 0.1,
+                    "y": 0.1
+                  }
+                }
+              ]
+            },
+            {
+              "name": "lab_1",
+              "display": [
+                {
+                  "name": "asdfsdfsdfsdd2222",
+                  "transform": {
+                    "x": 0.45,
+                    "y": 0.6
+                  }
+                },
+                {
+                  "name": "asdfsdfsdfsdf",
+                  "transform": {
+                    "x": 1.35,
+                    "y": -0.35
+                  }
+                },
+                {
+                  "name": "zsfxcvcccc",
+                  "transform": {
+                    "x": 0.7,
+                    "y": -2.05
+                  }
+                },
+                {
+                  "name": "__dbTextures/cloth_100013/lab_1_9",
+                  "transform": {
+                    "x": 0.5,
+                    "y": 0.5
+                  }
+                },
+                {
+                  "name": "__dbTextures/cloth_100013/lab_1_11",
+                  "transform": {
+                    "x": 0.15,
+                    "y": 0.35
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "animation": [
+        {
+          "name": "down",
+          "bone": [
+            {
+              "name": "lab_2",
+              "scaleFrame": [
+                {}
+              ]
+            },
+            {
+              "name": "lab_1",
+              "scaleFrame": [
+                {}
+              ]
+            }
+          ],
+          "slot": [
+            {
+              "name": "lab_16",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_15",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_14",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_13",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_12",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_11",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_10",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_9",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_8",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_7",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_6",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_5",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_4",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_3",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "duration": 12,
+          "name": "down_walk",
+          "bone": [
+            {
+              "name": "lab_2",
+              "translateFrame": [
+                {
+                  "duration": 2,
+                  "x": 1.75,
+                  "y": -10.25
+                },
+                {
+                  "duration": 2,
+                  "x": -3.65,
+                  "y": 9.8
+                },
+                {
+                  "duration": 2,
+                  "x": 2,
+                  "y": -0.7
+                },
+                {
+                  "duration": 2,
+                  "y": 1.75
+                },
+                {
+                  "duration": 2,
+                  "x": 1.1,
+                  "y": -4
+                },
+                {
+                  "duration": 2,
+                  "x": 1.75,
+                  "y": -4.25
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 2
+                },
+                {
+                  "duration": 2,
+                  "x": -1
+                },
+                {
+                  "duration": 2,
+                  "x": -1
+                },
+                {
+                  "duration": 2
+                },
+                {
+                  "duration": 2,
+                  "x": -1
+                },
+                {
+                  "duration": 2
+                }
+              ]
+            },
+            {
+              "name": "lab_1",
+              "translateFrame": [
+                {
+                  "duration": 2,
+                  "y": 1.75
+                },
+                {
+                  "duration": 2,
+                  "x": -1.35,
+                  "y": -1.3
+                },
+                {
+                  "duration": 2,
+                  "x": -0.85,
+                  "y": -4.25
+                },
+                {
+                  "duration": 2,
+                  "x": -0.85,
+                  "y": -9.55
+                },
+                {
+                  "duration": 2,
+                  "x": 3.3,
+                  "y": 9.8
+                },
+                {
+                  "duration": 2,
+                  "x": -1.35,
+                  "y": -0.8
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 12
+                }
+              ]
+            }
+          ],
+          "slot": [
+            {
+              "name": "lab_2",
+              "displayFrame": [
+                {
+                  "duration": 2,
+                  "value": 1
+                },
+                {
+                  "duration": 2,
+                  "value": 2
+                },
+                {
+                  "duration": 2,
+                  "value": 3
+                },
+                {
+                  "duration": 2
+                },
+                {
+                  "duration": 2,
+                  "value": 4
+                },
+                {
+                  "duration": 2,
+                  "value": 1
+                }
+              ]
+            },
+            {
+              "name": "lab_1",
+              "displayFrame": [
+                {
+                  "duration": 2
+                },
+                {
+                  "duration": 2,
+                  "value": 1
+                },
+                {
+                  "duration": 4,
+                  "value": 2
+                },
+                {
+                  "duration": 2,
+                  "value": 3
+                },
+                {
+                  "duration": 2,
+                  "value": 4
+                }
+              ]
+            },
+            {
+              "name": "lab_16",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_15",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_14",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_13",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_12",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_11",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_10",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_9",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_8",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_7",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_6",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_5",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_4",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_3",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "leftdown",
+          "bone": [
+            {
+              "name": "lab_4",
+              "scaleFrame": [
+                {}
+              ]
+            },
+            {
+              "name": "lab_3",
+              "scaleFrame": [
+                {}
+              ]
+            }
+          ],
+          "slot": [
+            {
+              "name": "lab_16",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_15",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_14",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_13",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_12",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_11",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_10",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_9",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_8",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_7",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_6",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_5",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_2",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_1",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "duration": 12,
+          "name": "leftdown_walk",
+          "bone": [
+            {
+              "name": "lab_4",
+              "translateFrame": [
+                {
+                  "duration": 2,
+                  "x": -8.15,
+                  "y": 0.8
+                },
+                {
+                  "duration": 2,
+                  "x": -9.75,
+                  "y": -4.05
+                },
+                {
+                  "duration": 2,
+                  "x": -3.7,
+                  "y": -3.4
+                },
+                {
+                  "duration": 2,
+                  "x": -0.65,
+                  "y": -6.5
+                },
+                {
+                  "duration": 2,
+                  "x": 1.2,
+                  "y": 1.3
+                },
+                {
+                  "duration": 2,
+                  "x": -4.1,
+                  "y": -2.2
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 2
+                },
+                {
+                  "duration": 2,
+                  "x": 0.8947,
+                  "y": 0.8947
+                },
+                {
+                  "duration": 8
+                }
+              ]
+            },
+            {
+              "name": "lab_3",
+              "translateFrame": [
+                {
+                  "duration": 2,
+                  "x": -2.45,
+                  "y": -10.75
+                },
+                {
+                  "duration": 2,
+                  "x": 1.3,
+                  "y": 2.25
+                },
+                {
+                  "duration": 2,
+                  "x": -1.85,
+                  "y": -0.15
+                },
+                {
+                  "duration": 2,
+                  "x": -6.7,
+                  "y": -2.9
+                },
+                {
+                  "duration": 2,
+                  "x": -1.5,
+                  "y": -0.05
+                },
+                {
+                  "duration": 2,
+                  "x": 4.95,
+                  "y": 0.2
+                }
+              ],
+              "rotateFrame": [
+                {
+                  "duration": 2,
+                  "rotate": -63.16
+                },
+                {
+                  "duration": 6
+                },
+                {
+                  "duration": 2
+                },
+                {
+                  "duration": 2,
+                  "rotate": -32.37
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 2,
+                  "x": 0.9962,
+                  "y": 0.9962
+                },
+                {
+                  "duration": 6
+                },
+                {
+                  "duration": 2
+                },
+                {
+                  "duration": 2,
+                  "x": 0.9472,
+                  "y": 0.9472
+                }
+              ]
+            }
+          ],
+          "slot": [
+            {
+              "name": "lab_4",
+              "displayFrame": [
+                {
+                  "duration": 2,
+                  "value": 1
+                },
+                {
+                  "duration": 2,
+                  "value": 2
+                },
+                {
+                  "duration": 2,
+                  "value": 3
+                },
+                {
+                  "duration": 2,
+                  "value": 4
+                },
+                {
+                  "duration": 2,
+                  "value": 5
+                },
+                {
+                  "duration": 2,
+                  "value": 6
+                }
+              ]
+            },
+            {
+              "name": "lab_3",
+              "displayFrame": [
+                {
+                  "duration": 2,
+                  "value": 1
+                },
+                {
+                  "duration": 2,
+                  "value": 2
+                },
+                {
+                  "duration": 2,
+                  "value": 3
+                },
+                {
+                  "duration": 2,
+                  "value": 4
+                },
+                {
+                  "duration": 2,
+                  "value": 5
+                },
+                {
+                  "duration": 2,
+                  "value": 6
+                }
+              ]
+            },
+            {
+              "name": "lab_16",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_15",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_14",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_13",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_12",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_11",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_10",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_9",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_8",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_7",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_6",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_5",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_2",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_1",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "left",
+          "bone": [
+            {
+              "name": "lab_6",
+              "scaleFrame": [
+                {}
+              ]
+            },
+            {
+              "name": "lab_5",
+              "scaleFrame": [
+                {}
+              ]
+            }
+          ],
+          "slot": [
+            {
+              "name": "lab_16",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_15",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_14",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_13",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_12",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_11",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_10",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_9",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_8",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_7",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_4",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_3",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_2",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_1",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "duration": 12,
+          "name": "left_walk",
+          "bone": [
+            {
+              "name": "lab_6",
+              "translateFrame": [
+                {
+                  "duration": 2,
+                  "x": -5.75,
+                  "y": 0.55
+                },
+                {
+                  "duration": 2,
+                  "x": -7.8,
+                  "y": 0.6
+                },
+                {
+                  "duration": 2,
+                  "x": 1.5,
+                  "y": -3.15
+                },
+                {
+                  "duration": 2,
+                  "x": 11.55,
+                  "y": -3.55
+                },
+                {
+                  "duration": 2,
+                  "x": 4.5,
+                  "y": 1.6
+                },
+                {
+                  "duration": 2,
+                  "x": -1,
+                  "y": 0.15
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 12
+                }
+              ]
+            },
+            {
+              "name": "lab_5",
+              "translateFrame": [
+                {
+                  "duration": 2,
+                  "x": 9.7,
+                  "y": 0.05
+                },
+                {
+                  "duration": 2,
+                  "x": 4,
+                  "y": 0.85
+                },
+                {
+                  "duration": 2,
+                  "x": -0.6,
+                  "y": 0.05
+                },
+                {
+                  "duration": 2,
+                  "x": -5.95,
+                  "y": 2.4
+                },
+                {
+                  "duration": 2,
+                  "x": -7.15,
+                  "y": 0.15
+                },
+                {
+                  "duration": 2,
+                  "x": 1.45,
+                  "y": -3.5
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 12
+                }
+              ]
+            }
+          ],
+          "slot": [
+            {
+              "name": "lab_6",
+              "displayFrame": [
+                {
+                  "duration": 2,
+                  "value": 1
+                },
+                {
+                  "duration": 2,
+                  "value": 2
+                },
+                {
+                  "duration": 2,
+                  "value": 3
+                },
+                {
+                  "duration": 2,
+                  "value": 4
+                },
+                {
+                  "duration": 2,
+                  "value": 5
+                },
+                {
+                  "duration": 2,
+                  "value": 6
+                }
+              ]
+            },
+            {
+              "name": "lab_5",
+              "displayFrame": [
+                {
+                  "duration": 2,
+                  "value": 1
+                },
+                {
+                  "duration": 2,
+                  "value": 2
+                },
+                {
+                  "duration": 2,
+                  "value": 3
+                },
+                {
+                  "duration": 2,
+                  "value": 4
+                },
+                {
+                  "duration": 2,
+                  "value": 5
+                },
+                {
+                  "duration": 2,
+                  "value": 6
+                }
+              ]
+            },
+            {
+              "name": "lab_16",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_15",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_14",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_13",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_12",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_11",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_10",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_9",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_8",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_7",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_4",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_3",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_2",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_1",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "leftup",
+          "bone": [
+            {
+              "name": "lab_8",
+              "scaleFrame": [
+                {}
+              ]
+            },
+            {
+              "name": "lab_7",
+              "scaleFrame": [
+                {}
+              ]
+            }
+          ],
+          "slot": [
+            {
+              "name": "lab_16",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_15",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_14",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_13",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_12",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_11",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_10",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_9",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_6",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_5",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_4",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_3",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_2",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_1",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "duration": 12,
+          "name": "leftup_walk",
+          "bone": [
+            {
+              "name": "lab_8",
+              "translateFrame": [
+                {
+                  "duration": 2,
+                  "x": -4.7,
+                  "y": 1.8
+                },
+                {
+                  "duration": 2,
+                  "x": -5.55,
+                  "y": 0.25
+                },
+                {
+                  "duration": 2,
+                  "x": 3.9,
+                  "y": -6.3
+                },
+                {
+                  "duration": 2,
+                  "x": 8.5,
+                  "y": -10.6
+                },
+                {
+                  "duration": 2,
+                  "x": -0.15,
+                  "y": -1.1
+                },
+                {
+                  "duration": 2,
+                  "x": -2.55,
+                  "y": 1.3
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 12
+                }
+              ]
+            },
+            {
+              "name": "lab_7",
+              "translateFrame": [
+                {
+                  "duration": 2,
+                  "x": 7.8,
+                  "y": -6.75
+                },
+                {
+                  "duration": 2,
+                  "x": 1.8,
+                  "y": -1.85
+                },
+                {
+                  "duration": 2,
+                  "x": -2.5,
+                  "y": 1.45
+                },
+                {
+                  "duration": 2,
+                  "x": -4.5,
+                  "y": 1.65
+                },
+                {
+                  "duration": 2,
+                  "x": -4.55,
+                  "y": 0.9
+                },
+                {
+                  "duration": 2,
+                  "x": 0.05,
+                  "y": -4.5
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 12
+                }
+              ]
+            }
+          ],
+          "slot": [
+            {
+              "name": "lab_8",
+              "displayFrame": [
+                {
+                  "duration": 2,
+                  "value": 1
+                },
+                {
+                  "duration": 2,
+                  "value": 2
+                },
+                {
+                  "duration": 2,
+                  "value": 3
+                },
+                {
+                  "duration": 2,
+                  "value": 4
+                },
+                {
+                  "duration": 2,
+                  "value": 5
+                },
+                {
+                  "duration": 2,
+                  "value": 6
+                }
+              ]
+            },
+            {
+              "name": "lab_7",
+              "displayFrame": [
+                {
+                  "duration": 2,
+                  "value": 1
+                },
+                {
+                  "duration": 2,
+                  "value": 2
+                },
+                {
+                  "duration": 2,
+                  "value": 3
+                },
+                {
+                  "duration": 2,
+                  "value": 4
+                },
+                {
+                  "duration": 2,
+                  "value": 5
+                },
+                {
+                  "duration": 2,
+                  "value": 6
+                }
+              ]
+            },
+            {
+              "name": "lab_16",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_15",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_14",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_13",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_12",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_11",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_10",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_9",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_6",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_5",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_4",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_3",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_2",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_1",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "up",
+          "bone": [
+            {
+              "name": "lab_10",
+              "scaleFrame": [
+                {}
+              ]
+            },
+            {
+              "name": "lab_9",
+              "scaleFrame": [
+                {}
+              ]
+            }
+          ],
+          "slot": [
+            {
+              "name": "lab_16",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_15",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_14",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_13",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_12",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_11",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_8",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_7",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_6",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_5",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_4",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_3",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_2",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_1",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "duration": 12,
+          "name": "up_walk",
+          "bone": [
+            {
+              "name": "lab_10",
+              "translateFrame": [
+                {
+                  "duration": 2
+                },
+                {
+                  "duration": 2,
+                  "x": -1.95,
+                  "y": 2.6
+                },
+                {
+                  "duration": 2,
+                  "x": -1.55,
+                  "y": -5.95
+                },
+                {
+                  "duration": 2,
+                  "x": -22.6,
+                  "y": -38.75
+                },
+                {
+                  "duration": 2,
+                  "x": -1.65,
+                  "y": -6.5
+                },
+                {
+                  "duration": 2,
+                  "x": -1.5,
+                  "y": -2.55
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 12
+                }
+              ]
+            },
+            {
+              "name": "lab_9",
+              "translateFrame": [
+                {
+                  "duration": 2,
+                  "x": -11.35,
+                  "y": -38.75
+                },
+                {
+                  "duration": 2,
+                  "x": -1.6,
+                  "y": -6.5
+                },
+                {
+                  "duration": 2,
+                  "x": -1,
+                  "y": -2.45
+                },
+                {
+                  "duration": 2,
+                  "x": -0.5,
+                  "y": 0.85
+                },
+                {
+                  "duration": 2,
+                  "x": -0.25,
+                  "y": 2.6
+                },
+                {
+                  "duration": 2,
+                  "x": -1.7,
+                  "y": -5.95
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 12
+                }
+              ]
+            }
+          ],
+          "slot": [
+            {
+              "name": "lab_10",
+              "displayFrame": [
+                {
+                  "duration": 2,
+                  "value": 1
+                },
+                {
+                  "duration": 2,
+                  "value": 2
+                },
+                {
+                  "duration": 2,
+                  "value": 3
+                },
+                {
+                  "duration": 2,
+                  "value": -1
+                },
+                {
+                  "duration": 2,
+                  "value": 4
+                },
+                {
+                  "duration": 2,
+                  "value": 5
+                }
+              ]
+            },
+            {
+              "name": "lab_9",
+              "displayFrame": [
+                {
+                  "duration": 2,
+                  "value": -1
+                },
+                {
+                  "duration": 2,
+                  "value": 1
+                },
+                {
+                  "duration": 2,
+                  "value": 2
+                },
+                {
+                  "duration": 2,
+                  "value": 3
+                },
+                {
+                  "duration": 2,
+                  "value": 4
+                },
+                {
+                  "duration": 2,
+                  "value": 5
+                }
+              ]
+            },
+            {
+              "name": "lab_16",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_15",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_14",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_13",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_12",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_11",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_8",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_7",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_6",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_5",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_4",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_3",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_2",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_1",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "rightup",
+          "bone": [
+            {
+              "name": "lab_12",
+              "scaleFrame": [
+                {}
+              ]
+            },
+            {
+              "name": "lab_11",
+              "scaleFrame": [
+                {}
+              ]
+            }
+          ],
+          "slot": [
+            {
+              "name": "lab_16",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_15",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_14",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_13",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_10",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_9",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_8",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_7",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_6",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_5",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_4",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_3",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_2",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_1",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "duration": 12,
+          "name": "rightup_walk",
+          "bone": [
+            {
+              "name": "lab_12",
+              "translateFrame": [
+                {
+                  "duration": 2,
+                  "x": -4.7,
+                  "y": 1.8
+                },
+                {
+                  "duration": 2,
+                  "x": -5.55,
+                  "y": 0.25
+                },
+                {
+                  "duration": 2,
+                  "x": 3.9,
+                  "y": -6.3
+                },
+                {
+                  "duration": 2,
+                  "x": 8.5,
+                  "y": -10.6
+                },
+                {
+                  "duration": 2,
+                  "x": -0.15,
+                  "y": -1.1
+                },
+                {
+                  "duration": 2,
+                  "x": -2.55,
+                  "y": 1.3
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 12
+                }
+              ]
+            },
+            {
+              "name": "lab_11",
+              "translateFrame": [
+                {
+                  "duration": 2,
+                  "x": 7.8,
+                  "y": -6.75
+                },
+                {
+                  "duration": 2,
+                  "x": 1.8,
+                  "y": -1.85
+                },
+                {
+                  "duration": 2,
+                  "x": -2.5,
+                  "y": 1.45
+                },
+                {
+                  "duration": 2,
+                  "x": -4.5,
+                  "y": 1.65
+                },
+                {
+                  "duration": 2,
+                  "x": -4.55,
+                  "y": 0.9
+                },
+                {
+                  "duration": 2,
+                  "x": 0.05,
+                  "y": -4.5
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 12
+                }
+              ]
+            }
+          ],
+          "slot": [
+            {
+              "name": "lab_12",
+              "displayFrame": [
+                {
+                  "duration": 2,
+                  "value": 1
+                },
+                {
+                  "duration": 2,
+                  "value": 2
+                },
+                {
+                  "duration": 2,
+                  "value": 3
+                },
+                {
+                  "duration": 2,
+                  "value": 4
+                },
+                {
+                  "duration": 2,
+                  "value": 5
+                },
+                {
+                  "duration": 2,
+                  "value": 6
+                }
+              ]
+            },
+            {
+              "name": "lab_11",
+              "displayFrame": [
+                {
+                  "duration": 2,
+                  "value": 1
+                },
+                {
+                  "duration": 2,
+                  "value": 2
+                },
+                {
+                  "duration": 2,
+                  "value": 3
+                },
+                {
+                  "duration": 2,
+                  "value": 4
+                },
+                {
+                  "duration": 2,
+                  "value": 5
+                },
+                {
+                  "duration": 2,
+                  "value": 6
+                }
+              ]
+            },
+            {
+              "name": "lab_16",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_15",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_14",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_13",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_10",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_9",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_8",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_7",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_6",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_5",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_4",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_3",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_2",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_1",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "right",
+          "bone": [
+            {
+              "name": "lab_14",
+              "scaleFrame": [
+                {}
+              ]
+            },
+            {
+              "name": "lab_13",
+              "scaleFrame": [
+                {}
+              ]
+            }
+          ],
+          "slot": [
+            {
+              "name": "lab_16",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_15",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_12",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_11",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_10",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_9",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_8",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_7",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_6",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_5",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_4",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_3",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_2",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_1",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "duration": 12,
+          "name": "right_walk",
+          "bone": [
+            {
+              "name": "lab_14",
+              "translateFrame": [
+                {
+                  "duration": 2,
+                  "x": -5.75,
+                  "y": 0.55
+                },
+                {
+                  "duration": 2,
+                  "x": -7.8,
+                  "y": 0.6
+                },
+                {
+                  "duration": 2,
+                  "x": 1.5,
+                  "y": -3.15
+                },
+                {
+                  "duration": 2,
+                  "x": 11.55,
+                  "y": -3.55
+                },
+                {
+                  "duration": 2,
+                  "x": 4.5,
+                  "y": 1.6
+                },
+                {
+                  "duration": 2,
+                  "x": -1,
+                  "y": 0.15
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 12
+                }
+              ]
+            },
+            {
+              "name": "lab_13",
+              "translateFrame": [
+                {
+                  "duration": 2,
+                  "x": 9.7,
+                  "y": 0.05
+                },
+                {
+                  "duration": 2,
+                  "x": 4,
+                  "y": 0.85
+                },
+                {
+                  "duration": 2,
+                  "x": -0.6,
+                  "y": 0.05
+                },
+                {
+                  "duration": 2,
+                  "x": -5.95,
+                  "y": 2.4
+                },
+                {
+                  "duration": 2,
+                  "x": -7.15,
+                  "y": 0.15
+                },
+                {
+                  "duration": 2,
+                  "x": 1.45,
+                  "y": -3.5
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 12
+                }
+              ]
+            }
+          ],
+          "slot": [
+            {
+              "name": "lab_14",
+              "displayFrame": [
+                {
+                  "duration": 2,
+                  "value": 1
+                },
+                {
+                  "duration": 2,
+                  "value": 2
+                },
+                {
+                  "duration": 2,
+                  "value": 3
+                },
+                {
+                  "duration": 2,
+                  "value": 4
+                },
+                {
+                  "duration": 2,
+                  "value": 5
+                },
+                {
+                  "duration": 2,
+                  "value": 6
+                }
+              ]
+            },
+            {
+              "name": "lab_13",
+              "displayFrame": [
+                {
+                  "duration": 2,
+                  "value": 1
+                },
+                {
+                  "duration": 2,
+                  "value": 2
+                },
+                {
+                  "duration": 2,
+                  "value": 3
+                },
+                {
+                  "duration": 2,
+                  "value": 4
+                },
+                {
+                  "duration": 2,
+                  "value": 5
+                },
+                {
+                  "duration": 2,
+                  "value": 6
+                }
+              ]
+            },
+            {
+              "name": "lab_16",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_15",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_12",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_11",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_10",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_9",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_8",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_7",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_6",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_5",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_4",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_3",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_2",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_1",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "rightdown",
+          "bone": [
+            {
+              "name": "lab_16",
+              "scaleFrame": [
+                {}
+              ]
+            },
+            {
+              "name": "lab_15",
+              "scaleFrame": [
+                {}
+              ]
+            }
+          ],
+          "slot": [
+            {
+              "name": "lab_14",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_13",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_12",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_11",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_10",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_9",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_8",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_7",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_6",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_5",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_4",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_3",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_2",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_1",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "duration": 12,
+          "name": "rightdown_walk",
+          "bone": [
+            {
+              "name": "lab_16",
+              "translateFrame": [
+                {
+                  "duration": 2,
+                  "x": -8.15,
+                  "y": 0.8
+                },
+                {
+                  "duration": 2,
+                  "x": -9.75,
+                  "y": -4.05
+                },
+                {
+                  "duration": 2,
+                  "x": -3.7,
+                  "y": -3.4
+                },
+                {
+                  "duration": 2,
+                  "x": -0.65,
+                  "y": -6.5
+                },
+                {
+                  "duration": 2,
+                  "x": 1.2,
+                  "y": 1.3
+                },
+                {
+                  "duration": 2,
+                  "x": -4.1,
+                  "y": -2.2
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 2
+                },
+                {
+                  "duration": 2,
+                  "x": 0.8947,
+                  "y": 0.8947
+                },
+                {
+                  "duration": 8
+                }
+              ]
+            },
+            {
+              "name": "lab_15",
+              "translateFrame": [
+                {
+                  "duration": 2,
+                  "x": -2.45,
+                  "y": -10.75
+                },
+                {
+                  "duration": 2,
+                  "x": 1.3,
+                  "y": 2.25
+                },
+                {
+                  "duration": 2,
+                  "x": -1.85,
+                  "y": -0.15
+                },
+                {
+                  "duration": 2,
+                  "x": -6.7,
+                  "y": -2.9
+                },
+                {
+                  "duration": 2,
+                  "x": -1.5,
+                  "y": -0.05
+                },
+                {
+                  "duration": 2,
+                  "x": 4.95,
+                  "y": 0.2
+                }
+              ],
+              "rotateFrame": [
+                {
+                  "duration": 2,
+                  "rotate": -63.16
+                },
+                {
+                  "duration": 6
+                },
+                {
+                  "duration": 2
+                },
+                {
+                  "duration": 2,
+                  "rotate": -32.37
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 2,
+                  "x": 0.9962,
+                  "y": 0.9962
+                },
+                {
+                  "duration": 6
+                },
+                {
+                  "duration": 2
+                },
+                {
+                  "duration": 2,
+                  "x": 0.9472,
+                  "y": 0.9472
+                }
+              ]
+            }
+          ],
+          "slot": [
+            {
+              "name": "lab_16",
+              "displayFrame": [
+                {
+                  "duration": 2,
+                  "value": 1
+                },
+                {
+                  "duration": 2,
+                  "value": 2
+                },
+                {
+                  "duration": 2,
+                  "value": 3
+                },
+                {
+                  "duration": 2,
+                  "value": 4
+                },
+                {
+                  "duration": 2,
+                  "value": 5
+                },
+                {
+                  "duration": 2,
+                  "value": 6
+                }
+              ]
+            },
+            {
+              "name": "lab_15",
+              "displayFrame": [
+                {
+                  "duration": 2,
+                  "value": 1
+                },
+                {
+                  "duration": 2,
+                  "value": 2
+                },
+                {
+                  "duration": 2,
+                  "value": 3
+                },
+                {
+                  "duration": 2,
+                  "value": 4
+                },
+                {
+                  "duration": 2,
+                  "value": 5
+                },
+                {
+                  "duration": 2,
+                  "value": 6
+                }
+              ]
+            },
+            {
+              "name": "lab_14",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_13",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_12",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_11",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_10",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_9",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_8",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_7",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_6",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_5",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_4",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_3",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_2",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            },
+            {
+              "name": "lab_1",
+              "displayFrame": [
+                {
+                  "value": -1
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

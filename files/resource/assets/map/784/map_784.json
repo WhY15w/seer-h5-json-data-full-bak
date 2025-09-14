@@ -1,0 +1,25 @@
+{
+  "groups": [
+    {
+      "keys": "road_784,exml_784,map_784_bg_mc_jpg",
+      "name": "map_784"
+    }
+  ],
+  "resources": [
+    {
+      "type": "json",
+      "url": "784.json",
+      "name": "road_784"
+    },
+    {
+      "type": "text",
+      "url": "Map784Skin.exml",
+      "name": "exml_784"
+    },
+    {
+      "type": "image",
+      "url": "map_784_bg_mc.jpg",
+      "name": "map_784_bg_mc_jpg"
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "file": "room_shop_sheet.png",
+  "frames": {
+    "room_shop_buybg_png": {
+      "x": 1,
+      "y": 1,
+      "w": 145,
+      "h": 174,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 145,
+      "sourceH": 174
+    },
+    "room_shop_buy_bn_png": {
+      "x": 1,
+      "y": 177,
+      "w": 142,
+      "h": 32,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 142,
+      "sourceH": 32
+    },
+    "room_shop_close_png": {
+      "x": 145,
+      "y": 196,
+      "w": 104,
+      "h": 31,
+      "offX": 1,
+      "offY": 4,
+      "sourceW": 105,
+      "sourceH": 39
+    },
+    "room_shop_icon_png": {
+      "x": 148,
+      "y": 1,
+      "w": 75,
+      "h": 53,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 75,
+      "sourceH": 53
+    },
+    "room_shop_icon_gold_png": {
+      "x": 225,
+      "y": 1,
+      "w": 27,
+      "h": 27,
+      "offX": 0,
+      "offY": 2,
+      "sourceW": 27,
+      "sourceH": 29
+    },
+    "room_shop_img_di2_png": {
+      "x": 1,
+      "y": 211,
+      "w": 133,
+      "h": 21,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 133,
+      "sourceH": 21
+    },
+    "room_shop_tab_item_1_down_png": {
+      "x": 148,
+      "y": 56,
+      "w": 101,
+      "h": 33,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 101,
+      "sourceH": 33
+    },
+    "room_shop_tab_item_1_up_png": {
+      "x": 148,
+      "y": 91,
+      "w": 101,
+      "h": 33,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 101,
+      "sourceH": 33
+    },
+    "room_shop_tab_item_2_down_png": {
+      "x": 148,
+      "y": 126,
+      "w": 101,
+      "h": 33,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 101,
+      "sourceH": 33
+    },
+    "room_shop_tab_item_2_up_png": {
+      "x": 148,
+      "y": 161,
+      "w": 101,
+      "h": 33,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 101,
+      "sourceH": 33
+    },
+    "room_shop_tag_bg_png": {
+      "x": 206,
+      "y": 229,
+      "w": 40,
+      "h": 20,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 40,
+      "sourceH": 20
+    },
+    "room_shop_time_bg_png": {
+      "x": 136,
+      "y": 229,
+      "w": 68,
+      "h": 18,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 68,
+      "sourceH": 18
+    }
+  }
+}

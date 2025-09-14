@@ -1,0 +1,30 @@
+{
+  "groups": [
+    {
+      "keys": "road_30,exml_30,map_30_bg_mc_png,map_30_control_mc_png",
+      "name": "map_30"
+    }
+  ],
+  "resources": [
+    {
+      "type": "json",
+      "url": "30.json",
+      "name": "road_30"
+    },
+    {
+      "type": "text",
+      "url": "Map30Skin.exml",
+      "name": "exml_30"
+    },
+    {
+      "type": "image",
+      "url": "map_30_bg_mc.png",
+      "name": "map_30_bg_mc_png"
+    },
+    {
+      "type": "image",
+      "url": "map_30_control_mc.png",
+      "name": "map_30_control_mc_png"
+    }
+  ]
+}

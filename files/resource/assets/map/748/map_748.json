@@ -1,0 +1,30 @@
+{
+  "resources": [
+    {
+      "type": "json",
+      "url": "748.json",
+      "name": "road_748"
+    },
+    {
+      "type": "text",
+      "url": "Map748Skin.exml",
+      "name": "exml_748"
+    },
+    {
+      "type": "image",
+      "url": "map_748_bg_mc.jpg",
+      "name": "map_748_bg_mc_jpg"
+    },
+    {
+      "type": "image",
+      "url": "map_748_top_mc.png",
+      "name": "map_748_top_mc_png"
+    }
+  ],
+  "groups": [
+    {
+      "keys": "road_748,exml_748,map_748_bg_mc_jpg,map_748_top_mc_png",
+      "name": "map_748"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "resources": [
+    {
+      "type": "json",
+      "url": "39.json",
+      "name": "road_39"
+    },
+    {
+      "type": "text",
+      "url": "Map39Skin.exml",
+      "name": "exml_39"
+    },
+    {
+      "type": "image",
+      "url": "map_39_bg_mc.jpg",
+      "name": "map_39_bg_mc_jpg"
+    },
+    {
+      "type": "image",
+      "url": "map_39_tengman3.png",
+      "name": "map_39_tengman3_png"
+    },
+    {
+      "type": "image",
+      "url": "map_39_tengman1.png",
+      "name": "map_39_tengman1_png"
+    },
+    {
+      "type": "image",
+      "url": "map_39_tengman2.png",
+      "name": "map_39_tengman2_png"
+    },
+    {
+      "type": "image",
+      "url": "map_39_stone.png",
+      "name": "map_39_stone_png"
+    }
+  ],
+  "groups": [
+    {
+      "keys": "road_39,exml_39,map_39_bg_mc_jpg,map_39_tengman3_png,map_39_tengman1_png,map_39_tengman2_png,map_39_stone_png",
+      "name": "map_39"
+    }
+  ]
+}

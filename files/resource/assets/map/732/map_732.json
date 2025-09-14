@@ -1,0 +1,40 @@
+{
+  "groups": [
+    {
+      "keys": "road_732,exml_732,map_732_mc_png,map_732_bg_mc_jpg,map_732_stone_png,map_732_top_mc_png",
+      "name": "map_732"
+    }
+  ],
+  "resources": [
+    {
+      "type": "json",
+      "url": "732.json",
+      "name": "road_732"
+    },
+    {
+      "type": "text",
+      "url": "Map732Skin.exml",
+      "name": "exml_732"
+    },
+    {
+      "type": "image",
+      "url": "map_732_mc.png",
+      "name": "map_732_mc_png"
+    },
+    {
+      "type": "image",
+      "url": "map_732_bg_mc.jpg",
+      "name": "map_732_bg_mc_jpg"
+    },
+    {
+      "type": "image",
+      "url": "map_732_stone.png",
+      "name": "map_732_stone_png"
+    },
+    {
+      "type": "image",
+      "url": "map_732_top_mc.png",
+      "name": "map_732_top_mc_png"
+    }
+  ]
+}

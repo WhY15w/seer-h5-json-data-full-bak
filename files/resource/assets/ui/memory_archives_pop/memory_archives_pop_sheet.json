@@ -1,0 +1,45 @@
+{
+  "file": "memory_archives_pop_sheet.png",
+  "frames": {
+    "memory_archives_pop_bg_png": {
+      "x": 1,
+      "y": 1,
+      "w": 748,
+      "h": 482,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 748,
+      "sourceH": 482
+    },
+    "memory_archives_pop_close_png": {
+      "x": 831,
+      "y": 85,
+      "w": 33,
+      "h": 33,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 33,
+      "sourceH": 33
+    },
+    "memory_archives_pop_other_png": {
+      "x": 751,
+      "y": 85,
+      "w": 78,
+      "h": 72,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 78,
+      "sourceH": 72
+    },
+    "memory_archives_pop_title_png": {
+      "x": 751,
+      "y": 1,
+      "w": 261,
+      "h": 82,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 261,
+      "sourceH": 82
+    }
+  }
+}

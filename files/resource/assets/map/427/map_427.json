@@ -1,0 +1,25 @@
+{
+  "groups": [
+    {
+      "keys": "road_427,exml_427,map_427_bg_mc_jpg",
+      "name": "map_427"
+    }
+  ],
+  "resources": [
+    {
+      "type": "json",
+      "url": "427.json",
+      "name": "road_427"
+    },
+    {
+      "type": "text",
+      "url": "Map427Skin.exml",
+      "name": "exml_427"
+    },
+    {
+      "type": "image",
+      "url": "map_427_bg_mc.jpg",
+      "name": "map_427_bg_mc_jpg"
+    }
+  ]
+}

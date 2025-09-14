@@ -1,0 +1,48 @@
+{
+  "SubTexture": [
+    {
+      "name": "正右手",
+      "x": 75,
+      "width": 27,
+      "y": 46,
+      "height": 45
+    },
+    {
+      "name": "正左手",
+      "x": 75,
+      "width": 27,
+      "y": 0,
+      "height": 45
+    },
+    {
+      "name": "侧右手",
+      "x": 103,
+      "width": 21,
+      "y": 0,
+      "height": 46
+    },
+    {
+      "name": "侧左手",
+      "x": 43,
+      "width": 31,
+      "y": 0,
+      "height": 48
+    },
+    {
+      "name": "背右手",
+      "x": 103,
+      "width": 15,
+      "y": 47,
+      "height": 36
+    },
+    {
+      "name": "背左手",
+      "x": 0,
+      "width": 42,
+      "y": 0,
+      "height": 49
+    }
+  ],
+  "name": 1300916,
+  "imagePath": "texture.png"
+}

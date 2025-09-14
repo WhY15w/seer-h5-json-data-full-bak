@@ -1,0 +1,475 @@
+{
+  "file": "divine_domain4_kings_sheet.png",
+  "frames": {
+    "dd4k_main_panel_btnclose_png": {
+      "x": 2014,
+      "y": 221,
+      "w": 32,
+      "h": 38,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 32,
+      "sourceH": 38
+    },
+    "dd4k_main_panel_btninfo_png": {
+      "x": 1901,
+      "y": 643,
+      "w": 113,
+      "h": 110,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 113,
+      "sourceH": 110
+    },
+    "dd4k_main_panel_btnone_png": {
+      "x": 627,
+      "y": 668,
+      "w": 113,
+      "h": 110,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 113,
+      "sourceH": 110
+    },
+    "dd4k_main_panel_help_png": {
+      "x": 1978,
+      "y": 221,
+      "w": 34,
+      "h": 38,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 34,
+      "sourceH": 38
+    },
+    "dd4k_main_panel_pet_0_png": {
+      "x": 1430,
+      "y": 1,
+      "w": 272,
+      "h": 640,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 272,
+      "sourceH": 640
+    },
+    "dd4k_main_panel_pet_1_png": {
+      "x": 1101,
+      "y": 352,
+      "w": 272,
+      "h": 622,
+      "offX": 0,
+      "offY": 1,
+      "sourceW": 272,
+      "sourceH": 623
+    },
+    "dd4k_main_panel_pet_2_png": {
+      "x": 827,
+      "y": 352,
+      "w": 272,
+      "h": 622,
+      "offX": 0,
+      "offY": 1,
+      "sourceW": 272,
+      "sourceH": 623
+    },
+    "dd4k_main_panel_pet_3_png": {
+      "x": 1704,
+      "y": 1,
+      "w": 272,
+      "h": 640,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 272,
+      "sourceH": 640
+    },
+    "dd4k_main_panel_pet_lock_png": {
+      "x": 1,
+      "y": 1135,
+      "w": 173,
+      "h": 29,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 173,
+      "sourceH": 29
+    },
+    "dd4k_main_panel_title_png": {
+      "x": 746,
+      "y": 976,
+      "w": 543,
+      "h": 130,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 543,
+      "sourceH": 130
+    },
+    "dd4k_main_panel_up_bg_png": {
+      "x": 799,
+      "y": 1164,
+      "w": 145,
+      "h": 50,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 145,
+      "sourceH": 50
+    },
+    "dd4k_modissis_exchange_pop_bg_png": {
+      "x": 1,
+      "y": 1,
+      "w": 824,
+      "h": 387,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 824,
+      "sourceH": 387
+    },
+    "dd4k_modissis_exchange_pop_btnbuy_png": {
+      "x": 1681,
+      "y": 1160,
+      "w": 147,
+      "h": 54,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 147,
+      "sourceH": 54
+    },
+    "dd4k_modissis_exchange_pop_btnbuyitem_png": {
+      "x": 627,
+      "y": 780,
+      "w": 126,
+      "h": 42,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 126,
+      "sourceH": 42
+    },
+    "dd4k_modissis_exchange_pop_btnbuy_0_png": {
+      "x": 1784,
+      "y": 1104,
+      "w": 147,
+      "h": 54,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 147,
+      "sourceH": 54
+    },
+    "dd4k_modissis_exchange_pop_btnbuy_1_png": {
+      "x": 746,
+      "y": 1108,
+      "w": 147,
+      "h": 54,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 147,
+      "sourceH": 54
+    },
+    "dd4k_modissis_exchange_pop_btnbuy_2_png": {
+      "x": 895,
+      "y": 1108,
+      "w": 147,
+      "h": 54,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 147,
+      "sourceH": 54
+    },
+    "dd4k_modissis_exchange_pop_btnbuy_3_png": {
+      "x": 1044,
+      "y": 1108,
+      "w": 147,
+      "h": 54,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 147,
+      "sourceH": 54
+    },
+    "dd4k_modissis_exchange_pop_btnclose_png": {
+      "x": 1978,
+      "y": 175,
+      "w": 44,
+      "h": 44,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 44,
+      "sourceH": 44
+    },
+    "dd4k_modissis_exchange_pop_exchange_icon_png": {
+      "x": 167,
+      "y": 1046,
+      "w": 144,
+      "h": 52,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 144,
+      "sourceH": 52
+    },
+    "dd4k_modissis_exchange_pop_item_0_png": {
+      "x": 1682,
+      "y": 994,
+      "w": 100,
+      "h": 117,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 100,
+      "sourceH": 117
+    },
+    "dd4k_modissis_exchange_pop_item_1_png": {
+      "x": 1901,
+      "y": 866,
+      "w": 101,
+      "h": 117,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 101,
+      "sourceH": 117
+    },
+    "dd4k_modissis_exchange_pop_item_2_png": {
+      "x": 184,
+      "y": 906,
+      "w": 101,
+      "h": 117,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 101,
+      "sourceH": 117
+    },
+    "dd4k_modissis_exchange_pop_item_3_png": {
+      "x": 1901,
+      "y": 985,
+      "w": 101,
+      "h": 117,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 101,
+      "sourceH": 117
+    },
+    "dd4k_modissis_panel_btnadd_png": {
+      "x": 1978,
+      "y": 261,
+      "w": 36,
+      "h": 34,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 36,
+      "sourceH": 34
+    },
+    "dd4k_modissis_panel_btnaward_png": {
+      "x": 627,
+      "y": 390,
+      "w": 147,
+      "h": 148,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 147,
+      "sourceH": 148
+    },
+    "dd4k_modissis_panel_btnbag_png": {
+      "x": 1978,
+      "y": 59,
+      "w": 56,
+      "h": 56,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 56,
+      "sourceH": 56
+    },
+    "dd4k_modissis_panel_btnbuy_png": {
+      "x": 627,
+      "y": 540,
+      "w": 115,
+      "h": 126,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 115,
+      "sourceH": 126
+    },
+    "dd4k_modissis_panel_btncure_png": {
+      "x": 1978,
+      "y": 1,
+      "w": 56,
+      "h": 56,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 56,
+      "sourceH": 56
+    },
+    "dd4k_modissis_panel_btnexchange_png": {
+      "x": 1901,
+      "y": 755,
+      "w": 110,
+      "h": 109,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 110,
+      "sourceH": 109
+    },
+    "dd4k_modissis_panel_btnfight_png": {
+      "x": 1,
+      "y": 976,
+      "w": 181,
+      "h": 68,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 181,
+      "sourceH": 68
+    },
+    "dd4k_modissis_panel_btnrandom_png": {
+      "x": 1,
+      "y": 832,
+      "w": 211,
+      "h": 72,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 211,
+      "sourceH": 72
+    },
+    "dd4k_modissis_panel_btnrerandom_png": {
+      "x": 1,
+      "y": 906,
+      "w": 181,
+      "h": 68,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 181,
+      "sourceH": 68
+    },
+    "dd4k_modissis_panel_bz_item_bg_png": {
+      "x": 1291,
+      "y": 1085,
+      "w": 388,
+      "h": 113,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 388,
+      "sourceH": 113
+    },
+    "dd4k_modissis_panel_numbg_png": {
+      "x": 1,
+      "y": 1100,
+      "w": 242,
+      "h": 33,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 242,
+      "sourceH": 33
+    },
+    "dd4k_modissis_panel_pet_0_png": {
+      "x": 313,
+      "y": 824,
+      "w": 220,
+      "h": 344,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 220,
+      "sourceH": 344
+    },
+    "dd4k_modissis_panel_pet_1_png": {
+      "x": 1682,
+      "y": 643,
+      "w": 217,
+      "h": 349,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 217,
+      "sourceH": 349
+    },
+    "dd4k_modissis_panel_pet_2_png": {
+      "x": 535,
+      "y": 824,
+      "w": 209,
+      "h": 348,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 209,
+      "sourceH": 348
+    },
+    "dd4k_modissis_panel_pet_select_0_png": {
+      "x": 313,
+      "y": 390,
+      "w": 312,
+      "h": 432,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 312,
+      "sourceH": 432
+    },
+    "dd4k_modissis_panel_pet_select_1_png": {
+      "x": 1,
+      "y": 390,
+      "w": 310,
+      "h": 440,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 310,
+      "sourceH": 440
+    },
+    "dd4k_modissis_panel_pet_select_2_png": {
+      "x": 1375,
+      "y": 643,
+      "w": 305,
+      "h": 440,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 305,
+      "sourceH": 440
+    },
+    "dd4k_modissis_panel_title_png": {
+      "x": 1830,
+      "y": 1160,
+      "w": 151,
+      "h": 50,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 151,
+      "sourceH": 50
+    },
+    "dd4k_modissis_panel_title_2_png": {
+      "x": 1,
+      "y": 1174,
+      "w": 796,
+      "h": 35,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 796,
+      "sourceH": 35
+    },
+    "dd4k_modissis_panel_up_bg_png": {
+      "x": 946,
+      "y": 1164,
+      "w": 145,
+      "h": 50,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 145,
+      "sourceH": 50
+    },
+    "dd4k_modissis_reward_pop_mrzl_png": {
+      "x": 1,
+      "y": 1046,
+      "w": 164,
+      "h": 52,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 164,
+      "sourceH": 52
+    },
+    "dd4k_reward_pop_bg_png": {
+      "x": 827,
+      "y": 1,
+      "w": 601,
+      "h": 349,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 601,
+      "sourceH": 349
+    },
+    "dd4k_reward_pop_btnclose_1_png": {
+      "x": 1978,
+      "y": 117,
+      "w": 54,
+      "h": 56,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 54,
+      "sourceH": 56
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "groups": [
+    {
+      "keys": "road_789,exml_789,map_789_bg_mc_jpg,map_789_top_mc_png",
+      "name": "map_789"
+    }
+  ],
+  "resources": [
+    {
+      "type": "json",
+      "url": "789.json",
+      "name": "road_789"
+    },
+    {
+      "type": "text",
+      "url": "Map789Skin.exml",
+      "name": "exml_789"
+    },
+    {
+      "type": "image",
+      "url": "map_789_bg_mc.jpg",
+      "name": "map_789_bg_mc_jpg"
+    },
+    {
+      "type": "image",
+      "url": "map_789_top_mc.png",
+      "name": "map_789_top_mc_png"
+    }
+  ]
+}

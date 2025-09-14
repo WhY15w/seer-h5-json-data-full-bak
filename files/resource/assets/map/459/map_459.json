@@ -1,0 +1,25 @@
+{
+  "resources": [
+    {
+      "type": "json",
+      "url": "459.json",
+      "name": "road_459"
+    },
+    {
+      "type": "text",
+      "url": "Map459Skin.exml",
+      "name": "exml_459"
+    },
+    {
+      "type": "image",
+      "url": "map_459_bg_mc.jpg",
+      "name": "map_459_bg_mc_jpg"
+    }
+  ],
+  "groups": [
+    {
+      "keys": "road_459,exml_459,map_459_bg_mc_jpg",
+      "name": "map_459"
+    }
+  ]
+}

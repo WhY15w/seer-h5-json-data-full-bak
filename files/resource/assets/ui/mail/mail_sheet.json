@@ -1,0 +1,265 @@
+{
+  "file": "mail_sheet.png",
+  "frames": {
+    "mailmainviewnew_btnclose_png": {
+      "x": 989,
+      "y": 202,
+      "w": 33,
+      "h": 33,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 33,
+      "sourceH": 33
+    },
+    "mailmainviewnew_head_bg_png": {
+      "x": 951,
+      "y": 74,
+      "w": 62,
+      "h": 62,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 62,
+      "sourceH": 62
+    },
+    "mailmainviewnew_head_icon_png": {
+      "x": 951,
+      "y": 138,
+      "w": 61,
+      "h": 62,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 61,
+      "sourceH": 62
+    },
+    "mailmainviewnew_img_all_delet_png": {
+      "x": 905,
+      "y": 315,
+      "w": 105,
+      "h": 34,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 105,
+      "sourceH": 34
+    },
+    "mailmainviewnew_img_all_read_png": {
+      "x": 798,
+      "y": 315,
+      "w": 105,
+      "h": 34,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 105,
+      "sourceH": 34
+    },
+    "mailmainviewnew_img_delet_png": {
+      "x": 548,
+      "y": 315,
+      "w": 123,
+      "h": 34,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 123,
+      "sourceH": 34
+    },
+    "mailmainviewnew_img_getaward_png": {
+      "x": 673,
+      "y": 315,
+      "w": 123,
+      "h": 34,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 123,
+      "sourceH": 34
+    },
+    "mailmainviewnew_img_ljqw_png": {
+      "x": 423,
+      "y": 315,
+      "w": 123,
+      "h": 34,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 123,
+      "sourceH": 34
+    },
+    "mailmainviewnew_img_noemail_png": {
+      "x": 423,
+      "y": 1,
+      "w": 229,
+      "h": 248,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 229,
+      "sourceH": 248
+    },
+    "mailmainviewnew_img_star_1_png": {
+      "x": 994,
+      "y": 1,
+      "w": 22,
+      "h": 21,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 22,
+      "sourceH": 21
+    },
+    "mailmainviewnew_img_star_2_png": {
+      "x": 994,
+      "y": 24,
+      "w": 22,
+      "h": 21,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 22,
+      "sourceH": 21
+    },
+    "mailmainviewnew_leftbg_png": {
+      "x": 1,
+      "y": 1,
+      "w": 420,
+      "h": 509,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 420,
+      "sourceH": 509
+    },
+    "mailmainviewnew_line_0_png": {
+      "x": 1,
+      "y": 512,
+      "w": 644,
+      "h": 1,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 644,
+      "sourceH": 1
+    },
+    "mailmainviewnew_texture_0_png": {
+      "x": 654,
+      "y": 1,
+      "w": 265,
+      "h": 112,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 265,
+      "sourceH": 112
+    },
+    "mailmainviewnew_title_png": {
+      "x": 423,
+      "y": 351,
+      "w": 102,
+      "h": 31,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 102,
+      "sourceH": 31
+    },
+    "mailmainviewnew_wjs_kb_png": {
+      "x": 921,
+      "y": 1,
+      "w": 71,
+      "h": 71,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 71,
+      "sourceH": 71
+    },
+    "mainitemnew_fj_png": {
+      "x": 568,
+      "y": 351,
+      "w": 39,
+      "h": 33,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 39,
+      "sourceH": 33
+    },
+    "mainitemnew_line_png": {
+      "x": 650,
+      "y": 351,
+      "w": 292,
+      "h": 1,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 292,
+      "sourceH": 1
+    },
+    "mainitemnew_listbg0_png": {
+      "x": 423,
+      "y": 252,
+      "w": 292,
+      "h": 61,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 292,
+      "sourceH": 61
+    },
+    "mainitemnew_listbg1_png": {
+      "x": 717,
+      "y": 252,
+      "w": 292,
+      "h": 61,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 292,
+      "sourceH": 61
+    },
+    "mainitemnew_listbg2_png": {
+      "x": 654,
+      "y": 188,
+      "w": 292,
+      "h": 62,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 292,
+      "sourceH": 62
+    },
+    "mainitemnew_read_png": {
+      "x": 948,
+      "y": 202,
+      "w": 39,
+      "h": 33,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 39,
+      "sourceH": 33
+    },
+    "mainitemnew_read_star_png": {
+      "x": 527,
+      "y": 351,
+      "w": 39,
+      "h": 33,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 39,
+      "sourceH": 33
+    },
+    "mainitemnew_selected_png": {
+      "x": 654,
+      "y": 115,
+      "w": 295,
+      "h": 71,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 295,
+      "sourceH": 71
+    },
+    "mainitemnew_unfj_png": {
+      "x": 609,
+      "y": 351,
+      "w": 39,
+      "h": 33,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 39,
+      "sourceH": 33
+    },
+    "mainitemnew_unread_png": {
+      "x": 994,
+      "y": 47,
+      "w": 20,
+      "h": 14,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 20,
+      "sourceH": 14
+    }
+  }
+}

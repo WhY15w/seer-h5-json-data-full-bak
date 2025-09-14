@@ -1,0 +1,505 @@
+{
+  "file": "login202202_sheet.png",
+  "frames": {
+    "l202202_account_bg_png": {
+      "x": 1139,
+      "y": 1,
+      "w": 523,
+      "h": 310,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 523,
+      "sourceH": 310
+    },
+    "l202202_account_exchange_btnlogin_png": {
+      "x": 1850,
+      "y": 332,
+      "w": 134,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 134,
+      "sourceH": 46
+    },
+    "l202202_account_exchange_name_input_bg_png": {
+      "x": 1139,
+      "y": 554,
+      "w": 430,
+      "h": 41,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 430,
+      "sourceH": 41
+    },
+    "l202202_account_other_line_png": {
+      "x": 634,
+      "y": 571,
+      "w": 476,
+      "h": 14,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 476,
+      "sourceH": 14
+    },
+    "l202202_account_qq_png": {
+      "x": 1996,
+      "y": 93,
+      "w": 46,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 46,
+      "sourceH": 46
+    },
+    "l202202_account_start_btndel_png": {
+      "x": 1694,
+      "y": 283,
+      "w": 17,
+      "h": 16,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 17,
+      "sourceH": 16
+    },
+    "l202202_account_start_btnzhanghao_png": {
+      "x": 1664,
+      "y": 79,
+      "w": 317,
+      "h": 44,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 317,
+      "sourceH": 44
+    },
+    "l202202_account_start_icon_qq_png": {
+      "x": 1824,
+      "y": 432,
+      "w": 22,
+      "h": 24,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 22,
+      "sourceH": 24
+    },
+    "l202202_account_start_icon_tm_png": {
+      "x": 1996,
+      "y": 141,
+      "w": 20,
+      "h": 23,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 20,
+      "sourceH": 23
+    },
+    "l202202_account_start_icon_wechat_png": {
+      "x": 1856,
+      "y": 410,
+      "w": 24,
+      "h": 23,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 24,
+      "sourceH": 23
+    },
+    "l202202_account_start_logo_png": {
+      "x": 1664,
+      "y": 1,
+      "w": 215,
+      "h": 76,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 215,
+      "sourceH": 76
+    },
+    "l202202_account_wechat_png": {
+      "x": 1986,
+      "y": 45,
+      "w": 46,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 46,
+      "sourceH": 46
+    },
+    "l202202_child_dialog_title_png": {
+      "x": 1881,
+      "y": 45,
+      "w": 103,
+      "h": 31,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 103,
+      "sourceH": 31
+    },
+    "l202202_maintain_pop_close_png": {
+      "x": 2010,
+      "y": 318,
+      "w": 33,
+      "h": 33,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 33,
+      "sourceH": 33
+    },
+    "l202202_maintain_pop_maintain_title_png": {
+      "x": 1881,
+      "y": 1,
+      "w": 161,
+      "h": 42,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 161,
+      "sourceH": 42
+    },
+    "l202202_maintain_pop_pop_up_bg_s_png": {
+      "x": 1571,
+      "y": 554,
+      "w": 476,
+      "h": 34,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 476,
+      "sourceH": 34
+    },
+    "l202202_main_panel_bg_png": {
+      "x": 2034,
+      "y": 60,
+      "w": 12,
+      "h": 12,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 12,
+      "sourceH": 12
+    },
+    "l202202_main_panel_btnchange_png": {
+      "x": 1986,
+      "y": 332,
+      "w": 19,
+      "h": 18,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 19,
+      "sourceH": 18
+    },
+    "l202202_main_panel_btncustcare_png": {
+      "x": 1850,
+      "y": 251,
+      "w": 74,
+      "h": 63,
+      "offX": 8,
+      "offY": 10,
+      "sourceW": 90,
+      "sourceH": 83
+    },
+    "l202202_main_panel_btnexchange_png": {
+      "x": 1838,
+      "y": 167,
+      "w": 92,
+      "h": 82,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 92,
+      "sourceH": 82
+    },
+    "l202202_main_panel_btnnotice_png": {
+      "x": 1932,
+      "y": 167,
+      "w": 85,
+      "h": 79,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 85,
+      "sourceH": 79
+    },
+    "l202202_main_panel_btnrepair_png": {
+      "x": 1932,
+      "y": 248,
+      "w": 76,
+      "h": 82,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 76,
+      "sourceH": 82
+    },
+    "l202202_main_panel_btnstart_png": {
+      "x": 1664,
+      "y": 234,
+      "w": 139,
+      "h": 47,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 139,
+      "sourceH": 47
+    },
+    "l202202_main_panel_child_tip_png": {
+      "x": 1916,
+      "y": 380,
+      "w": 65,
+      "h": 83,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 65,
+      "sourceH": 83
+    },
+    "l202202_main_panel_icon_account_png": {
+      "x": 2034,
+      "y": 45,
+      "w": 12,
+      "h": 13,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 12,
+      "sourceH": 13
+    },
+    "l202202_main_panel_icon_fire_png": {
+      "x": 1986,
+      "y": 353,
+      "w": 23,
+      "h": 47,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 23,
+      "sourceH": 47
+    },
+    "l202202_main_panel_icon_free_png": {
+      "x": 2011,
+      "y": 353,
+      "w": 23,
+      "h": 47,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 23,
+      "sourceH": 47
+    },
+    "l202202_main_panel_icon_hot_png": {
+      "x": 1983,
+      "y": 402,
+      "w": 23,
+      "h": 47,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 23,
+      "sourceH": 47
+    },
+    "l202202_main_panel_idbg_png": {
+      "x": 1714,
+      "y": 410,
+      "w": 140,
+      "h": 20,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 140,
+      "sourceH": 20
+    },
+    "l202202_main_panel_searchbg_kb_png": {
+      "x": 1882,
+      "y": 410,
+      "w": 23,
+      "h": 23,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 23,
+      "sourceH": 23
+    },
+    "l202202_main_panel_select_png": {
+      "x": 1805,
+      "y": 234,
+      "w": 16,
+      "h": 12,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 16,
+      "sourceH": 12
+    },
+    "l202202_main_panel_small_logo_png": {
+      "x": 1664,
+      "y": 167,
+      "w": 172,
+      "h": 65,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 172,
+      "sourceH": 65
+    },
+    "l202202_main_panel_start_bg_png": {
+      "x": 1,
+      "y": 463,
+      "w": 1068,
+      "h": 65,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 1068,
+      "sourceH": 65
+    },
+    "l202202_pkg_update_btnupdate_png": {
+      "x": 1714,
+      "y": 283,
+      "w": 134,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 134,
+      "sourceH": 46
+    },
+    "l202202_pkg_update_update_bg_png": {
+      "x": 2008,
+      "y": 402,
+      "w": 30,
+      "h": 30,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 30,
+      "sourceH": 30
+    },
+    "l202202_pkg_update_update_title_png": {
+      "x": 1,
+      "y": 571,
+      "w": 631,
+      "h": 26,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 631,
+      "sourceH": 26
+    },
+    "l202202_server_list_btnback_png": {
+      "x": 1664,
+      "y": 283,
+      "w": 28,
+      "h": 22,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 28,
+      "sourceH": 22
+    },
+    "l202202_server_list_btngo_png": {
+      "x": 2008,
+      "y": 434,
+      "w": 22,
+      "h": 23,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 22,
+      "sourceH": 23
+    },
+    "l202202_server_list_icon_fire_png": {
+      "x": 2010,
+      "y": 259,
+      "w": 22,
+      "h": 57,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 22,
+      "sourceH": 57
+    },
+    "l202202_server_list_icon_free_png": {
+      "x": 2019,
+      "y": 141,
+      "w": 22,
+      "h": 57,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 22,
+      "sourceH": 57
+    },
+    "l202202_server_list_icon_friend_online_png": {
+      "x": 1805,
+      "y": 251,
+      "w": 38,
+      "h": 29,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 38,
+      "sourceH": 29
+    },
+    "l202202_server_list_icon_hot_png": {
+      "x": 2019,
+      "y": 200,
+      "w": 22,
+      "h": 57,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 22,
+      "sourceH": 57
+    },
+    "l202202_server_list_item_bg_png": {
+      "x": 1664,
+      "y": 125,
+      "w": 330,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 330,
+      "sourceH": 40
+    },
+    "l202202_server_list_server_bg_png": {
+      "x": 1,
+      "y": 1,
+      "w": 1136,
+      "h": 460,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 1136,
+      "sourceH": 460
+    },
+    "l202202_server_list_server_buttom_bg_png": {
+      "x": 1,
+      "y": 530,
+      "w": 1136,
+      "h": 39,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 1136,
+      "sourceH": 39
+    },
+    "l202202_server_list_server_input_bg_png": {
+      "x": 2034,
+      "y": 74,
+      "w": 12,
+      "h": 12,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 12,
+      "sourceH": 12
+    },
+    "l202202_server_list_server_title_png": {
+      "x": 1714,
+      "y": 432,
+      "w": 108,
+      "h": 19,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 108,
+      "sourceH": 19
+    },
+    "l202202_server_list_tuli_png": {
+      "x": 1714,
+      "y": 380,
+      "w": 200,
+      "h": 28,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 200,
+      "sourceH": 28
+    },
+    "l_maintain_pop_close_png": {
+      "x": 1714,
+      "y": 331,
+      "w": 134,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 134,
+      "sourceH": 46
+    },
+    "l_maintain_pop_maintain_bg_png": {
+      "x": 1139,
+      "y": 313,
+      "w": 573,
+      "h": 239,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 573,
+      "sourceH": 239
+    }
+  }
+}

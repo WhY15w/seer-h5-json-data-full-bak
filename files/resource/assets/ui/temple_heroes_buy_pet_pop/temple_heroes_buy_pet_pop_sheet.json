@@ -1,0 +1,95 @@
+{
+  "file": "temple_heroes_buy_pet_pop_sheet.png",
+  "frames": {
+    "temple_heroes_buy_pet_pop_btnbuy_png": {
+      "x": 1,
+      "y": 1,
+      "w": 176,
+      "h": 57,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 176,
+      "sourceH": 57
+    },
+    "temple_heroes_buy_pet_pop_btnclose_png": {
+      "x": 179,
+      "y": 57,
+      "w": 45,
+      "h": 43,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 45,
+      "sourceH": 43
+    },
+    "temple_heroes_buy_pet_pop_giftbg_png": {
+      "x": 1,
+      "y": 95,
+      "w": 115,
+      "h": 50,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 115,
+      "sourceH": 50
+    },
+    "temple_heroes_buy_pet_pop_icon_type1_png": {
+      "x": 118,
+      "y": 95,
+      "w": 46,
+      "h": 38,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 46,
+      "sourceH": 38
+    },
+    "temple_heroes_buy_pet_pop_icon_type2_png": {
+      "x": 179,
+      "y": 1,
+      "w": 51,
+      "h": 54,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 51,
+      "sourceH": 54
+    },
+    "temple_heroes_buy_pet_pop_line1_png": {
+      "x": 232,
+      "y": 1,
+      "w": 12,
+      "h": 100,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 12,
+      "sourceH": 100
+    },
+    "temple_heroes_buy_pet_pop_line2_png": {
+      "x": 118,
+      "y": 135,
+      "w": 100,
+      "h": 11,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 100,
+      "sourceH": 11
+    },
+    "temple_heroes_buy_pet_pop_numbg_png": {
+      "x": 1,
+      "y": 60,
+      "w": 174,
+      "h": 33,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 174,
+      "sourceH": 33
+    },
+    "temple_heroes_panel_itembg_png": {
+      "x": 166,
+      "y": 102,
+      "w": 20,
+      "h": 20,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 20,
+      "sourceH": 20
+    }
+  }
+}

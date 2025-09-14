@@ -1,0 +1,975 @@
+{
+  "file": "pet_recruit_sheet.png",
+  "frames": {
+    "mall_gift_item_img2_png": {
+      "x": 1044,
+      "y": 392,
+      "w": 139,
+      "h": 30,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 139,
+      "sourceH": 30
+    },
+    "mall_gift_item_img3_png": {
+      "x": 586,
+      "y": 119,
+      "w": 146,
+      "h": 173,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 146,
+      "sourceH": 173
+    },
+    "mall_recharge_item_img4_png": {
+      "x": 1147,
+      "y": 444,
+      "w": 133,
+      "h": 21,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 133,
+      "sourceH": 21
+    },
+    "mall_skin_item_imgbg_png": {
+      "x": 2020,
+      "y": 110,
+      "w": 20,
+      "h": 50,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 20,
+      "sourceH": 50
+    },
+    "pet_recruit_detail_item_imgarect_png": {
+      "x": 734,
+      "y": 288,
+      "w": 111,
+      "h": 136,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 111,
+      "sourceH": 136
+    },
+    "pet_recruit_detail_item_imgbrect_png": {
+      "x": 847,
+      "y": 288,
+      "w": 111,
+      "h": 136,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 111,
+      "sourceH": 136
+    },
+    "pet_recruit_detail_item_imgsrect_png": {
+      "x": 1606,
+      "y": 270,
+      "w": 111,
+      "h": 136,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 111,
+      "sourceH": 136
+    },
+    "pet_recruit_detail_item_imgssrect_png": {
+      "x": 1192,
+      "y": 271,
+      "w": 111,
+      "h": 136,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 111,
+      "sourceH": 136
+    },
+    "pet_recruit_detail_item_jx_903_kb_png": {
+      "x": 1339,
+      "y": 311,
+      "w": 29,
+      "h": 30,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 29,
+      "sourceH": 30
+    },
+    "pet_recruit_detail_panel_btnadown_png": {
+      "x": 1518,
+      "y": 439,
+      "w": 101,
+      "h": 33,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 101,
+      "sourceH": 33
+    },
+    "pet_recruit_detail_panel_btnaup_png": {
+      "x": 158,
+      "y": 444,
+      "w": 101,
+      "h": 33,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 101,
+      "sourceH": 33
+    },
+    "pet_recruit_detail_panel_btnbdown_png": {
+      "x": 1185,
+      "y": 409,
+      "w": 101,
+      "h": 33,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 101,
+      "sourceH": 33
+    },
+    "pet_recruit_detail_panel_btnbup_png": {
+      "x": 1708,
+      "y": 415,
+      "w": 101,
+      "h": 33,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 101,
+      "sourceH": 33
+    },
+    "pet_recruit_detail_panel_btnsdown_png": {
+      "x": 1811,
+      "y": 415,
+      "w": 101,
+      "h": 33,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 101,
+      "sourceH": 33
+    },
+    "pet_recruit_detail_panel_btnsearch_png": {
+      "x": 1546,
+      "y": 343,
+      "w": 29,
+      "h": 29,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 29,
+      "sourceH": 29
+    },
+    "pet_recruit_detail_panel_btnssdown_png": {
+      "x": 1914,
+      "y": 415,
+      "w": 101,
+      "h": 33,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 101,
+      "sourceH": 33
+    },
+    "pet_recruit_detail_panel_btnssup_png": {
+      "x": 1044,
+      "y": 424,
+      "w": 101,
+      "h": 33,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 101,
+      "sourceH": 33
+    },
+    "pet_recruit_detail_panel_btnsup_png": {
+      "x": 1415,
+      "y": 426,
+      "w": 101,
+      "h": 33,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 101,
+      "sourceH": 33
+    },
+    "pet_recruit_detail_panel_imggou_png": {
+      "x": 1487,
+      "y": 250,
+      "w": 16,
+      "h": 12,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 16,
+      "sourceH": 12
+    },
+    "pet_recruit_detail_panel_imggoubg_png": {
+      "x": 2020,
+      "y": 187,
+      "w": 23,
+      "h": 23,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 23,
+      "sourceH": 23
+    },
+    "pet_recruit_detail_panel_imgpooldown_png": {
+      "x": 158,
+      "y": 329,
+      "w": 157,
+      "h": 60,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 157,
+      "sourceH": 60
+    },
+    "pet_recruit_detail_panel_imgpoolup_png": {
+      "x": 261,
+      "y": 444,
+      "w": 117,
+      "h": 28,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 117,
+      "sourceH": 28
+    },
+    "pet_recruit_detail_panel_imgrecorddown_png": {
+      "x": 1706,
+      "y": 450,
+      "w": 111,
+      "h": 25,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 111,
+      "sourceH": 25
+    },
+    "pet_recruit_detail_panel_imgrecordup_png": {
+      "x": 1719,
+      "y": 323,
+      "w": 157,
+      "h": 60,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 157,
+      "sourceH": 60
+    },
+    "pet_recruit_detail_panel_imgruledown_png": {
+      "x": 1878,
+      "y": 323,
+      "w": 157,
+      "h": 60,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 157,
+      "sourceH": 60
+    },
+    "pet_recruit_detail_panel_imgruleup_png": {
+      "x": 1282,
+      "y": 445,
+      "w": 113,
+      "h": 25,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 113,
+      "sourceH": 25
+    },
+    "pet_recruit_detail_panel_imgsearchbg_png": {
+      "x": 1546,
+      "y": 408,
+      "w": 160,
+      "h": 29,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 160,
+      "sourceH": 29
+    },
+    "pet_recruit_detail_panel_imgsubtitlebg_png": {
+      "x": 586,
+      "y": 57,
+      "w": 944,
+      "h": 29,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 944,
+      "sourceH": 29
+    },
+    "pet_recruit_detail_panel_imgtitle_png": {
+      "x": 586,
+      "y": 88,
+      "w": 943,
+      "h": 29,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 943,
+      "sourceH": 29
+    },
+    "pet_recruit_detail_panel_line2_png": {
+      "x": 158,
+      "y": 439,
+      "w": 874,
+      "h": 3,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 874,
+      "sourceH": 3
+    },
+    "pet_recruit_detail_record_item_imgaicon_png": {
+      "x": 2020,
+      "y": 258,
+      "w": 21,
+      "h": 21,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 21,
+      "sourceH": 21
+    },
+    "pet_recruit_detail_record_item_imgbicon_png": {
+      "x": 2020,
+      "y": 212,
+      "w": 21,
+      "h": 21,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 21,
+      "sourceH": 21
+    },
+    "pet_recruit_detail_record_item_imgline_png": {
+      "x": 261,
+      "y": 477,
+      "w": 941,
+      "h": 1,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 941,
+      "sourceH": 1
+    },
+    "pet_recruit_detail_record_item_imgsicon_png": {
+      "x": 2020,
+      "y": 281,
+      "w": 21,
+      "h": 21,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 21,
+      "sourceH": 21
+    },
+    "pet_recruit_detail_record_item_imgssicon_png": {
+      "x": 1305,
+      "y": 305,
+      "w": 32,
+      "h": 28,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 32,
+      "sourceH": 28
+    },
+    "pet_recruit_detial_panel_btnhelp_png": {
+      "x": 1505,
+      "y": 119,
+      "w": 24,
+      "h": 28,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 24,
+      "sourceH": 28
+    },
+    "pet_recruit_detial_panel_imgleftbg_png": {
+      "x": 1,
+      "y": 1,
+      "w": 155,
+      "h": 595,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 155,
+      "sourceH": 595
+    },
+    "pet_recruit_detial_panel_imgtitle_png": {
+      "x": 495,
+      "y": 444,
+      "w": 105,
+      "h": 31,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 105,
+      "sourceH": 31
+    },
+    "pet_recruit_main_panel_btnclose_png": {
+      "x": 1346,
+      "y": 271,
+      "w": 29,
+      "h": 38,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 29,
+      "sourceH": 38
+    },
+    "pet_recruit_main_panel_btninfo_png": {
+      "x": 1305,
+      "y": 405,
+      "w": 108,
+      "h": 38,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 108,
+      "sourceH": 38
+    },
+    "pet_recruit_main_panel_btnstore_png": {
+      "x": 1140,
+      "y": 119,
+      "w": 279,
+      "h": 74,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 279,
+      "sourceH": 74
+    },
+    "pet_recruit_main_panel_imgadditem1_png": {
+      "x": 2020,
+      "y": 235,
+      "w": 21,
+      "h": 21,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 21,
+      "sourceH": 21
+    },
+    "pet_recruit_main_panel_imgadditem2_png": {
+      "x": 1103,
+      "y": 247,
+      "w": 21,
+      "h": 21,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 21,
+      "sourceH": 21
+    },
+    "pet_recruit_main_panel_imgbtnonebg_png": {
+      "x": 158,
+      "y": 214,
+      "w": 238,
+      "h": 74,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 238,
+      "sourceH": 74
+    },
+    "pet_recruit_main_panel_imgbtntenbg_png": {
+      "x": 1140,
+      "y": 195,
+      "w": 238,
+      "h": 74,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 238,
+      "sourceH": 74
+    },
+    "pet_recruit_main_panel_imgcheckbox_png": {
+      "x": 1719,
+      "y": 300,
+      "w": 20,
+      "h": 20,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 20,
+      "sourceH": 20
+    },
+    "pet_recruit_main_panel_imgendlinebg_png": {
+      "x": 1719,
+      "y": 385,
+      "w": 261,
+      "h": 28,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 261,
+      "sourceH": 28
+    },
+    "pet_recruit_main_panel_imgitem1bg_png": {
+      "x": 966,
+      "y": 247,
+      "w": 135,
+      "h": 22,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 135,
+      "sourceH": 22
+    },
+    "pet_recruit_main_panel_imgitem2bg_png": {
+      "x": 1819,
+      "y": 450,
+      "w": 123,
+      "h": 22,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 123,
+      "sourceH": 22
+    },
+    "pet_recruit_main_panel_imgitemicon1_png": {
+      "x": 534,
+      "y": 265,
+      "w": 30,
+      "h": 24,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 30,
+      "sourceH": 24
+    },
+    "pet_recruit_main_panel_imgitemicon2_png": {
+      "x": 1546,
+      "y": 374,
+      "w": 30,
+      "h": 24,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 30,
+      "sourceH": 24
+    },
+    "pet_recruit_main_panel_imgonecoinicon_png": {
+      "x": 1505,
+      "y": 176,
+      "w": 24,
+      "h": 23,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 24,
+      "sourceH": 23
+    },
+    "pet_recruit_main_panel_imgpool1_png": {
+      "x": 966,
+      "y": 271,
+      "w": 224,
+      "h": 71,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 224,
+      "sourceH": 71
+    },
+    "pet_recruit_main_panel_imgpool2_png": {
+      "x": 1380,
+      "y": 270,
+      "w": 224,
+      "h": 71,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 224,
+      "sourceH": 71
+    },
+    "pet_recruit_main_panel_imgpool2timebg_png": {
+      "x": 1380,
+      "y": 250,
+      "w": 105,
+      "h": 18,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 105,
+      "sourceH": 18
+    },
+    "pet_recruit_main_panel_imgredpoint_png": {
+      "x": 556,
+      "y": 202,
+      "w": 22,
+      "h": 22,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 22,
+      "sourceH": 22
+    },
+    "pet_recruit_main_panel_imgselected_png": {
+      "x": 734,
+      "y": 214,
+      "w": 230,
+      "h": 72,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 230,
+      "sourceH": 72
+    },
+    "pet_recruit_main_panel_imgSkipCheck_png": {
+      "x": 556,
+      "y": 180,
+      "w": 27,
+      "h": 20,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 27,
+      "sourceH": 20
+    },
+    "pet_recruit_main_panel_imgtencoinicon_png": {
+      "x": 2020,
+      "y": 162,
+      "w": 24,
+      "h": 23,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 24,
+      "sourceH": 23
+    },
+    "pet_recruit_main_panel_imgtime_png": {
+      "x": 1792,
+      "y": 1,
+      "w": 248,
+      "h": 107,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 248,
+      "sourceH": 107
+    },
+    "pet_recruit_main_panel_imgtimes_png": {
+      "x": 158,
+      "y": 391,
+      "w": 252,
+      "h": 27,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 252,
+      "sourceH": 27
+    },
+    "pet_recruit_main_panel_imgtimesbg1_png": {
+      "x": 1189,
+      "y": 1,
+      "w": 601,
+      "h": 54,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 601,
+      "sourceH": 54
+    },
+    "pet_recruit_main_panel_imgtimesbg2_png": {
+      "x": 586,
+      "y": 1,
+      "w": 601,
+      "h": 54,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 601,
+      "sourceH": 54
+    },
+    "pet_recruit_main_panel_imgtitle_png": {
+      "x": 602,
+      "y": 444,
+      "w": 105,
+      "h": 31,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 105,
+      "sourceH": 31
+    },
+    "pet_recruit_main_panel_imgupbg_png": {
+      "x": 158,
+      "y": 1,
+      "w": 426,
+      "h": 123,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 426,
+      "sourceH": 123
+    },
+    "pet_recruit_main_panel_imgupicon1_png": {
+      "x": 1421,
+      "y": 119,
+      "w": 82,
+      "h": 81,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 82,
+      "sourceH": 81
+    },
+    "pet_recruit_main_panel_imgupicon2_png": {
+      "x": 631,
+      "y": 294,
+      "w": 82,
+      "h": 81,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 82,
+      "sourceH": 81
+    },
+    "pet_recruit_main_panel_imgupicon3_png": {
+      "x": 1462,
+      "y": 343,
+      "w": 82,
+      "h": 81,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 82,
+      "sourceH": 81
+    },
+    "pet_recruit_main_panel_imgupicon4_png": {
+      "x": 960,
+      "y": 344,
+      "w": 82,
+      "h": 81,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 82,
+      "sourceH": 81
+    },
+    "pet_recruit_main_panel_time_kb_png": {
+      "x": 398,
+      "y": 126,
+      "w": 156,
+      "h": 107,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 156,
+      "sourceH": 107
+    },
+    "pet_recruit_main_panel_txtname1_png": {
+      "x": 734,
+      "y": 119,
+      "w": 234,
+      "h": 93,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 234,
+      "sourceH": 93
+    },
+    "pet_recruit_main_panel_txtname2_png": {
+      "x": 158,
+      "y": 126,
+      "w": 238,
+      "h": 86,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 238,
+      "sourceH": 86
+    },
+    "pet_recruit_mall_panel_imgdown1_png": {
+      "x": 317,
+      "y": 329,
+      "w": 155,
+      "h": 60,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 155,
+      "sourceH": 60
+    },
+    "pet_recruit_mall_panel_imgdown2_png": {
+      "x": 474,
+      "y": 329,
+      "w": 155,
+      "h": 60,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 155,
+      "sourceH": 60
+    },
+    "pet_recruit_mall_panel_imgdown3_png": {
+      "x": 1305,
+      "y": 343,
+      "w": 155,
+      "h": 60,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 155,
+      "sourceH": 60
+    },
+    "pet_recruit_mall_panel_imgendlinebg_png": {
+      "x": 158,
+      "y": 294,
+      "w": 469,
+      "h": 33,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 469,
+      "sourceH": 33
+    },
+    "pet_recruit_mall_panel_imgtitle_png": {
+      "x": 548,
+      "y": 391,
+      "w": 154,
+      "h": 31,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 154,
+      "sourceH": 31
+    },
+    "pet_recruit_mall_panel_imgup1_png": {
+      "x": 709,
+      "y": 444,
+      "w": 117,
+      "h": 27,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 117,
+      "sourceH": 27
+    },
+    "pet_recruit_mall_panel_imgup2_png": {
+      "x": 828,
+      "y": 444,
+      "w": 113,
+      "h": 26,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 113,
+      "sourceH": 26
+    },
+    "pet_recruit_mall_panel_imgup3_png": {
+      "x": 380,
+      "y": 444,
+      "w": 113,
+      "h": 29,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 113,
+      "sourceH": 29
+    },
+    "pet_recruit_mall_pet_item_imgline_png": {
+      "x": 158,
+      "y": 290,
+      "w": 157,
+      "h": 1,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 157,
+      "sourceH": 1
+    },
+    "pet_recruit_mall_pet_item_zhezhao_png": {
+      "x": 970,
+      "y": 119,
+      "w": 168,
+      "h": 126,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 168,
+      "sourceH": 126
+    },
+    "pet_recruit_result_item_btnget_png": {
+      "x": 1380,
+      "y": 202,
+      "w": 134,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 134,
+      "sourceH": 46
+    },
+    "pet_recruit_result_item_btnonceget_png": {
+      "x": 534,
+      "y": 235,
+      "w": 48,
+      "h": 28,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 48,
+      "sourceH": 28
+    },
+    "pet_recruit_result_item_btnoncereturn_png": {
+      "x": 1719,
+      "y": 270,
+      "w": 48,
+      "h": 28,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 48,
+      "sourceH": 28
+    },
+    "pet_recruit_result_item_btnreturn_png": {
+      "x": 398,
+      "y": 235,
+      "w": 134,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 134,
+      "sourceH": 46
+    },
+    "pet_recruit_result_item_fha_kb_png": {
+      "x": 1532,
+      "y": 57,
+      "w": 120,
+      "h": 211,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 120,
+      "sourceH": 211
+    },
+    "pet_recruit_result_item_fhb_kb_png": {
+      "x": 1654,
+      "y": 57,
+      "w": 120,
+      "h": 211,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 120,
+      "sourceH": 211
+    },
+    "pet_recruit_result_item_fhss_kb_png": {
+      "x": 1776,
+      "y": 110,
+      "w": 120,
+      "h": 211,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 120,
+      "sourceH": 211
+    },
+    "pet_recruit_result_item_fhs_kb_png": {
+      "x": 1898,
+      "y": 110,
+      "w": 120,
+      "h": 211,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 120,
+      "sourceH": 211
+    },
+    "pet_recruit_result_item_imgalevel_png": {
+      "x": 556,
+      "y": 153,
+      "w": 25,
+      "h": 25,
+      "offX": 7,
+      "offY": 3,
+      "sourceW": 39,
+      "sourceH": 32
+    },
+    "pet_recruit_result_item_imgblevel_png": {
+      "x": 556,
+      "y": 126,
+      "w": 25,
+      "h": 25,
+      "offX": 7,
+      "offY": 3,
+      "sourceW": 39,
+      "sourceH": 32
+    },
+    "pet_recruit_result_item_imgslevel_png": {
+      "x": 1505,
+      "y": 149,
+      "w": 25,
+      "h": 25,
+      "offX": 7,
+      "offY": 3,
+      "sourceW": 39,
+      "sourceH": 32
+    },
+    "pet_recruit_result_item_imgsslevel_png": {
+      "x": 1305,
+      "y": 271,
+      "w": 39,
+      "h": 32,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 39,
+      "sourceH": 32
+    },
+    "pet_recruit_result_item_xinhuode_png": {
+      "x": 1621,
+      "y": 439,
+      "w": 83,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 83,
+      "sourceH": 40
+    },
+    "pet_recruit_result_panel_btnonekeyget_png": {
+      "x": 1044,
+      "y": 344,
+      "w": 134,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 134,
+      "sourceH": 46
+    },
+    "pet_recruit_result_panel_btnonekeyreturn_png": {
+      "x": 412,
+      "y": 391,
+      "w": 134,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 134,
+      "sourceH": 46
+    }
+  }
+}

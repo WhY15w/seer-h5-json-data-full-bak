@@ -1,0 +1,25 @@
+{
+  "groups": [
+    {
+      "keys": "road_736,exml_736,map_736_bg_mc_jpg",
+      "name": "map_736"
+    }
+  ],
+  "resources": [
+    {
+      "type": "json",
+      "url": "736.json",
+      "name": "road_736"
+    },
+    {
+      "type": "text",
+      "url": "Map736Skin.exml",
+      "name": "exml_736"
+    },
+    {
+      "type": "image",
+      "url": "map_736_bg_mc.jpg",
+      "name": "map_736_bg_mc_jpg"
+    }
+  ]
+}

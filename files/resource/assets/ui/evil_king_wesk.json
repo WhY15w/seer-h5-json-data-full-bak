@@ -1,0 +1,36 @@
+{
+  "groups": [
+    {
+      "name": "evil_king_wesk",
+      "keys": "evil_king_wesk_sheet,ekw_fight_west_panel_pet_png,ekw_main_panel_bg_jpg,ekw_main_panel_pet_png,ekw_upgrade_ability_panel_pet_png"
+    }
+  ],
+  "resources": [
+    {
+      "name": "ekw_fight_west_panel_pet_png",
+      "type": "image",
+      "url": "evil_king_wesk/outside/ekw_fight_west_panel_pet.png"
+    },
+    {
+      "name": "ekw_main_panel_bg_jpg",
+      "type": "image",
+      "url": "evil_king_wesk/outside/ekw_main_panel_bg.jpg"
+    },
+    {
+      "name": "ekw_main_panel_pet_png",
+      "type": "image",
+      "url": "evil_king_wesk/outside/ekw_main_panel_pet.png"
+    },
+    {
+      "name": "ekw_upgrade_ability_panel_pet_png",
+      "type": "image",
+      "url": "evil_king_wesk/outside/ekw_upgrade_ability_panel_pet.png"
+    },
+    {
+      "name": "evil_king_wesk_sheet",
+      "type": "sheet",
+      "url": "evil_king_wesk/evil_king_wesk_sheet.json",
+      "subkeys": "ekw_fight_succes_pop_chengyi_png,ekw_fight_succes_pop_combine_score_bg_png,ekw_fight_succes_pop_dengyu_png,ekw_fight_succes_pop_icon_1_1_png,ekw_fight_succes_pop_icon_1_2_png,ekw_fight_succes_pop_icon_1_3_png,ekw_fight_succes_pop_icon_jin_png,ekw_fight_succes_pop_icon_tong_png,ekw_fight_succes_pop_icon_yin_png,ekw_fight_succes_pop_item_1710639_png,ekw_fight_succes_pop_result_bg_png,ekw_fight_succes_pop_result_title_0_png,ekw_fight_succes_pop_result_title_1_png,ekw_fight_succes_pop_reward_kuang_png,ekw_fight_succes_pop_title_png,ekw_fight_succes_pop_zu_1_png,ekw_fight_succes_pop_zu_2_png,ekw_fight_succes_pop_zu_3_png,ekw_fight_west_panel_1710639_png,ekw_fight_west_panel_btnadd_png,ekw_fight_west_panel_btnbag_png,ekw_fight_west_panel_btnclose_png,ekw_fight_west_panel_btncure_png,ekw_fight_west_panel_btnexchange_png,ekw_fight_west_panel_btnfight_png,ekw_fight_west_panel_btnhelp_png,ekw_fight_west_panel_need_png,ekw_fight_west_panel_numbg_png,ekw_fight_west_panel_up_bg_png,ekw_main_panel_btnbuy_png,ekw_main_panel_btnclose_png,ekw_main_panel_btnget_png,ekw_main_panel_btnhelp_png,ekw_main_panel_btninfo_png,ekw_main_panel_btnupgrade_png,ekw_main_panel_title_png,ekw_main_panel_up_bg_png,ekw_pp_done_png,ekw_upgrade_ability_panel_btnadd_png,ekw_upgrade_ability_panel_btnbag_png,ekw_upgrade_ability_panel_btnclose_png,ekw_upgrade_ability_panel_btncure_png,ekw_upgrade_ability_panel_btnfight_0_png,ekw_upgrade_ability_panel_btnfight_1_png,ekw_upgrade_ability_panel_btnhelp_png,ekw_upgrade_ability_panel_btn_exchange_bg_png,ekw_upgrade_ability_panel_buy_icon_png,ekw_upgrade_ability_panel_icon_0_png,ekw_upgrade_ability_panel_icon_got_png,ekw_upgrade_ability_panel_icon_mark_png,ekw_upgrade_ability_panel_icon_skill_png,ekw_upgrade_ability_panel_icon_texing_png,ekw_upgrade_ability_panel_icon_yao_png,ekw_upgrade_ability_panel_items_bg_png,ekw_upgrade_ability_panel_item_1710671_png,ekw_upgrade_ability_panel_item_1710672_png,ekw_upgrade_ability_panel_numbg_png,ekw_upgrade_ability_panel_tipsbg_png,ekw_upgrade_ability_panel_title_0_png,ekw_upgrade_ability_panel_title_1_png,ekw_upgrade_ability_panel_title_2_png,ekw_upgrade_ability_panel_title_3_png,ekw_upgrade_ability_panel_title_4_png,ekw_upgrade_ability_panel_up_bg_png"
+    }
+  ]
+}

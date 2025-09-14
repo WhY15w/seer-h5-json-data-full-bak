@@ -1,0 +1,151 @@
+{
+  "SubTexture": [
+    {
+      "frameX": -1,
+      "frameHeight": 158,
+      "y": 334,
+      "frameY": -1,
+      "frameWidth": 135,
+      "width": 133,
+      "height": 156,
+      "name": "BS_jiantou",
+      "x": 684
+    },
+    {
+      "frameX": -1,
+      "frameHeight": 158,
+      "y": 334,
+      "frameY": -1,
+      "frameWidth": 135,
+      "width": 133,
+      "height": 151,
+      "name": "YS_jiantou",
+      "x": 819
+    },
+    {
+      "frameX": -1,
+      "frameHeight": 100,
+      "y": 345,
+      "frameY": -1,
+      "frameWidth": 100,
+      "width": 98,
+      "height": 98,
+      "name": "B_O",
+      "x": 456
+    },
+    {
+      "frameX": -1,
+      "frameHeight": 69,
+      "y": 1,
+      "frameY": -1,
+      "frameWidth": 69,
+      "width": 67,
+      "height": 67,
+      "name": "L_O",
+      "x": 954
+    },
+    {
+      "frameX": -1,
+      "frameHeight": 30,
+      "y": 375,
+      "frameY": -1,
+      "frameWidth": 455,
+      "width": 453,
+      "height": 28,
+      "name": "BL_chang",
+      "x": 1
+    },
+    {
+      "frameX": -1,
+      "frameHeight": 30,
+      "y": 345,
+      "frameY": -1,
+      "frameWidth": 455,
+      "width": 453,
+      "height": 28,
+      "name": "BY_chang",
+      "x": 1
+    },
+    {
+      "frameX": -1,
+      "frameHeight": 64,
+      "y": 134,
+      "frameY": -1,
+      "frameWidth": 54,
+      "width": 52,
+      "height": 62,
+      "name": "BL_jiantou",
+      "x": 954
+    },
+    {
+      "frameX": -1,
+      "frameHeight": 64,
+      "y": 70,
+      "frameY": -1,
+      "frameWidth": 54,
+      "width": 52,
+      "height": 62,
+      "name": "BY_jiantou",
+      "x": 954
+    },
+    {
+      "frameX": -1,
+      "frameHeight": 82,
+      "y": 1,
+      "frameY": -1,
+      "frameWidth": 519,
+      "width": 517,
+      "height": 80,
+      "name": "BY_guang",
+      "x": 1
+    },
+    {
+      "frameX": -1,
+      "frameHeight": 82,
+      "y": 83,
+      "frameY": -1,
+      "frameWidth": 519,
+      "width": 517,
+      "height": 80,
+      "name": "BL_guang",
+      "x": 1
+    },
+    {
+      "frameX": -1,
+      "frameHeight": 344,
+      "y": 1,
+      "frameY": -1,
+      "frameWidth": 82,
+      "width": 80,
+      "height": 342,
+      "name": "YS_guang",
+      "x": 520
+    },
+    {
+      "frameX": -1,
+      "frameHeight": 325,
+      "y": 165,
+      "frameY": -1,
+      "frameWidth": 82,
+      "width": 80,
+      "height": 323,
+      "name": "BS_guang",
+      "x": 602
+    },
+    {
+      "frameX": -1,
+      "frameHeight": 169,
+      "y": 165,
+      "frameY": -1,
+      "frameWidth": 153,
+      "width": 151,
+      "height": 167,
+      "name": "L_hand",
+      "x": 684
+    }
+  ],
+  "width": 1024,
+  "height": 512,
+  "name": "H5_xinshoujiemian",
+  "imagePath": "H5_xinshoujiemian_tex.png"
+}

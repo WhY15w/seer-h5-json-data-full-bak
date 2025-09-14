@@ -1,0 +1,30 @@
+{
+  "resources": [
+    {
+      "type": "json",
+      "url": "419.json",
+      "name": "road_419"
+    },
+    {
+      "type": "text",
+      "url": "Map419Skin.exml",
+      "name": "exml_419"
+    },
+    {
+      "type": "image",
+      "url": "map_419_bg_mc.jpg",
+      "name": "map_419_bg_mc_jpg"
+    },
+    {
+      "type": "image",
+      "url": "map_419_top_mc.png",
+      "name": "map_419_top_mc_png"
+    }
+  ],
+  "groups": [
+    {
+      "keys": "road_419,exml_419,map_419_bg_mc_jpg,map_419_top_mc_png",
+      "name": "map_419"
+    }
+  ]
+}

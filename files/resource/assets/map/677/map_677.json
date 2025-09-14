@@ -1,0 +1,65 @@
+{
+  "groups": [
+    {
+      "keys": "road_677,exml_677,map_677_bg_mc_jpg,map_677_dasd_png,map_677_dfger_png,map_677_hstr_png,map_677_htrh_png,map_677_jyth_png,map_677_hythr_png,map_677_trh_png,map_677_top_mc_png",
+      "name": "map_677"
+    }
+  ],
+  "resources": [
+    {
+      "type": "json",
+      "url": "677.json",
+      "name": "road_677"
+    },
+    {
+      "type": "text",
+      "url": "Map677Skin.exml",
+      "name": "exml_677"
+    },
+    {
+      "type": "image",
+      "url": "map_677_bg_mc.jpg",
+      "name": "map_677_bg_mc_jpg"
+    },
+    {
+      "type": "image",
+      "url": "map_677_dasd.png",
+      "name": "map_677_dasd_png"
+    },
+    {
+      "type": "image",
+      "url": "map_677_dfger.png",
+      "name": "map_677_dfger_png"
+    },
+    {
+      "type": "image",
+      "url": "map_677_hstr.png",
+      "name": "map_677_hstr_png"
+    },
+    {
+      "type": "image",
+      "url": "map_677_htrh.png",
+      "name": "map_677_htrh_png"
+    },
+    {
+      "type": "image",
+      "url": "map_677_jyth.png",
+      "name": "map_677_jyth_png"
+    },
+    {
+      "type": "image",
+      "url": "map_677_hythr.png",
+      "name": "map_677_hythr_png"
+    },
+    {
+      "type": "image",
+      "url": "map_677_trh.png",
+      "name": "map_677_trh_png"
+    },
+    {
+      "type": "image",
+      "url": "map_677_top_mc.png",
+      "name": "map_677_top_mc_png"
+    }
+  ]
+}

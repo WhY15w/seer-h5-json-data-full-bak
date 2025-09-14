@@ -1,0 +1,30 @@
+{
+  "groups": [
+    {
+      "keys": "road_782,exml_782,map_782_bg_mc_jpg,map_782_top_mc_png",
+      "name": "map_782"
+    }
+  ],
+  "resources": [
+    {
+      "type": "json",
+      "url": "782.json",
+      "name": "road_782"
+    },
+    {
+      "type": "text",
+      "url": "Map782Skin.exml",
+      "name": "exml_782"
+    },
+    {
+      "type": "image",
+      "url": "map_782_bg_mc.jpg",
+      "name": "map_782_bg_mc_jpg"
+    },
+    {
+      "type": "image",
+      "url": "map_782_top_mc.png",
+      "name": "map_782_top_mc_png"
+    }
+  ]
+}

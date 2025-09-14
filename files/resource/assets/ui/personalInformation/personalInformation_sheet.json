@@ -1,0 +1,2975 @@
+{
+  "file": "personalInformation_sheet.png",
+  "frames": {
+    "change_name_pop_btnclose_png": {
+      "x": 1581,
+      "y": 795,
+      "w": 33,
+      "h": 33,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 33,
+      "sourceH": 33
+    },
+    "change_name_pop_imgbtnbg_png": {
+      "x": 192,
+      "y": 531,
+      "w": 134,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 134,
+      "sourceH": 46
+    },
+    "new_clothes_warehouse_pop_btnsearch_png": {
+      "x": 75,
+      "y": 824,
+      "w": 29,
+      "h": 29,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 29,
+      "sourceH": 29
+    },
+    "new_clothes_warehouse_pop_close_png": {
+      "x": 1285,
+      "y": 694,
+      "w": 33,
+      "h": 33,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 33,
+      "sourceH": 33
+    },
+    "new_clothes_warehouse_pop_img1_png": {
+      "x": 1682,
+      "y": 225,
+      "w": 95,
+      "h": 1,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 95,
+      "sourceH": 1
+    },
+    "new_clothes_warehouse_pop_img2_png": {
+      "x": 1682,
+      "y": 222,
+      "w": 95,
+      "h": 1,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 95,
+      "sourceH": 1
+    },
+    "new_clothes_warehouse_pop_img3_png": {
+      "x": 656,
+      "y": 225,
+      "w": 95,
+      "h": 1,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 95,
+      "sourceH": 1
+    },
+    "new_clothes_warehouse_pop_img4_png": {
+      "x": 1461,
+      "y": 309,
+      "w": 112,
+      "h": 163,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 112,
+      "sourceH": 163
+    },
+    "new_clothes_warehouse_pop_img5_png": {
+      "x": 137,
+      "y": 579,
+      "w": 73,
+      "h": 73,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 73,
+      "sourceH": 73
+    },
+    "new_clothes_warehouse_pop_img6_png": {
+      "x": 464,
+      "y": 558,
+      "w": 214,
+      "h": 28,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 214,
+      "sourceH": 28
+    },
+    "new_clothes_warehouse_pop_img8_png": {
+      "x": 1624,
+      "y": 761,
+      "w": 112,
+      "h": 31,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 112,
+      "sourceH": 31
+    },
+    "new_clothes_warehouse_pop_imgarrow_png": {
+      "x": 194,
+      "y": 788,
+      "w": 28,
+      "h": 20,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 28,
+      "sourceH": 20
+    },
+    "new_clothes_warehouse_pop_imgbtn1_png": {
+      "x": 1,
+      "y": 537,
+      "w": 134,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 134,
+      "sourceH": 46
+    },
+    "new_clothes_warehouse_pop_imgbtn2_png": {
+      "x": 1633,
+      "y": 551,
+      "w": 134,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 134,
+      "sourceH": 46
+    },
+    "new_clothes_warehouse_pop_imgeye_png": {
+      "x": 610,
+      "y": 771,
+      "w": 102,
+      "h": 32,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 102,
+      "sourceH": 32
+    },
+    "new_clothes_warehouse_pop_imgfoot_png": {
+      "x": 1206,
+      "y": 766,
+      "w": 102,
+      "h": 32,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 102,
+      "sourceH": 32
+    },
+    "new_clothes_warehouse_pop_imghand_png": {
+      "x": 1,
+      "y": 767,
+      "w": 102,
+      "h": 32,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 102,
+      "sourceH": 32
+    },
+    "new_clothes_warehouse_pop_imghead_png": {
+      "x": 506,
+      "y": 771,
+      "w": 102,
+      "h": 32,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 102,
+      "sourceH": 32
+    },
+    "new_clothes_warehouse_pop_imgicon_png": {
+      "x": 756,
+      "y": 575,
+      "w": 73,
+      "h": 73,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 73,
+      "sourceH": 73
+    },
+    "new_clothes_warehouse_pop_imgitembg_png": {
+      "x": 1,
+      "y": 352,
+      "w": 104,
+      "h": 131,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 104,
+      "sourceH": 131
+    },
+    "new_clothes_warehouse_pop_imgline1_png": {
+      "x": 287,
+      "y": 857,
+      "w": 332,
+      "h": 1,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 332,
+      "sourceH": 1
+    },
+    "new_clothes_warehouse_pop_imgline2_png": {
+      "x": 287,
+      "y": 860,
+      "w": 332,
+      "h": 1,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 332,
+      "sourceH": 1
+    },
+    "new_clothes_warehouse_pop_imgquality_png": {
+      "x": 672,
+      "y": 836,
+      "w": 40,
+      "h": 17,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 40,
+      "sourceH": 17
+    },
+    "new_clothes_warehouse_pop_imgselect_png": {
+      "x": 1019,
+      "y": 312,
+      "w": 121,
+      "h": 148,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 121,
+      "sourceH": 148
+    },
+    "new_clothes_warehouse_pop_imgup_png": {
+      "x": 1425,
+      "y": 315,
+      "w": 33,
+      "h": 37,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 33,
+      "sourceH": 37
+    },
+    "new_clothes_warehouse_pop_imgwaist_png": {
+      "x": 402,
+      "y": 769,
+      "w": 102,
+      "h": 32,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 102,
+      "sourceH": 32
+    },
+    "new_clothes_warehouse_pop_searchbg_png": {
+      "x": 1555,
+      "y": 520,
+      "w": 237,
+      "h": 29,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 237,
+      "sourceH": 29
+    },
+    "new_suit_pop_view_btnsearch_png": {
+      "x": 335,
+      "y": 821,
+      "w": 29,
+      "h": 29,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 29,
+      "sourceH": 29
+    },
+    "new_suit_pop_view_close_png": {
+      "x": 402,
+      "y": 713,
+      "w": 33,
+      "h": 33,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 33,
+      "sourceH": 33
+    },
+    "new_suit_pop_view_di_png": {
+      "x": 779,
+      "y": 120,
+      "w": 10,
+      "h": 10,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 10,
+      "sourceH": 10
+    },
+    "new_suit_pop_view_empty_tip_png": {
+      "x": 860,
+      "y": 228,
+      "w": 157,
+      "h": 135,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 157,
+      "sourceH": 135
+    },
+    "new_suit_pop_view_img1_png": {
+      "x": 1682,
+      "y": 231,
+      "w": 85,
+      "h": 1,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 85,
+      "sourceH": 1
+    },
+    "new_suit_pop_view_img2_png": {
+      "x": 1769,
+      "y": 231,
+      "w": 85,
+      "h": 1,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 85,
+      "sourceH": 1
+    },
+    "new_suit_pop_view_img3_png": {
+      "x": 656,
+      "y": 100,
+      "w": 97,
+      "h": 123,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 97,
+      "sourceH": 123
+    },
+    "new_suit_pop_view_img4_png": {
+      "x": 1219,
+      "y": 612,
+      "w": 55,
+      "h": 31,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 55,
+      "sourceH": 31
+    },
+    "new_suit_pop_view_img6_png": {
+      "x": 1142,
+      "y": 714,
+      "w": 62,
+      "h": 62,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 62,
+      "sourceH": 62
+    },
+    "new_suit_pop_view_img8_png": {
+      "x": 1763,
+      "y": 672,
+      "w": 160,
+      "h": 29,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 160,
+      "sourceH": 29
+    },
+    "new_suit_pop_view_img9_png": {
+      "x": 1915,
+      "y": 784,
+      "w": 97,
+      "h": 31,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 97,
+      "sourceH": 31
+    },
+    "new_suit_pop_view_imgarrow_png": {
+      "x": 669,
+      "y": 730,
+      "w": 28,
+      "h": 20,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 28,
+      "sourceH": 20
+    },
+    "new_suit_pop_view_imgdress_png": {
+      "x": 1794,
+      "y": 550,
+      "w": 134,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 134,
+      "sourceH": 46
+    },
+    "new_suit_pop_view_imgicon_png": {
+      "x": 1974,
+      "y": 817,
+      "w": 43,
+      "h": 43,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 43,
+      "sourceH": 43
+    },
+    "new_suit_pop_view_imgnamebg_png": {
+      "x": 192,
+      "y": 498,
+      "w": 263,
+      "h": 31,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 263,
+      "sourceH": 31
+    },
+    "new_suit_pop_view_imgnothave_png": {
+      "x": 1886,
+      "y": 713,
+      "w": 63,
+      "h": 63,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 63,
+      "sourceH": 63
+    },
+    "new_suit_pop_view_imgselected_png": {
+      "x": 1142,
+      "y": 315,
+      "w": 281,
+      "h": 63,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 281,
+      "sourceH": 63
+    },
+    "new_suit_pop_view_juxing_24_png": {
+      "x": 179,
+      "y": 824,
+      "w": 1,
+      "h": 189,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 1,
+      "sourceH": 189
+    },
+    "new_suit_pop_view_jx_24_kb_png": {
+      "x": 1682,
+      "y": 228,
+      "w": 189,
+      "h": 1,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 189,
+      "sourceH": 1
+    },
+    "new_suit_pop_view_yzb_png": {
+      "x": 1738,
+      "y": 761,
+      "w": 86,
+      "h": 37,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 86,
+      "sourceH": 37
+    },
+    "personalinformationidcardcardpop_btngenghuan_png": {
+      "x": 1399,
+      "y": 780,
+      "w": 87,
+      "h": 35,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 87,
+      "sourceH": 35
+    },
+    "personalinformationidcardcardpop_btnqianwang_png": {
+      "x": 1826,
+      "y": 778,
+      "w": 87,
+      "h": 35,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 87,
+      "sourceH": 35
+    },
+    "personalinformationidcardcardpop_dekuang_png": {
+      "x": 845,
+      "y": 344,
+      "w": 12,
+      "h": 12,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 12,
+      "sourceH": 12
+    },
+    "personalinformationidcardcardpop_jindu_png": {
+      "x": 1466,
+      "y": 191,
+      "w": 3,
+      "h": 83,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 3,
+      "sourceH": 83
+    },
+    "personalinformationidcardcardpop_jindude_png": {
+      "x": 2042,
+      "y": 474,
+      "w": 3,
+      "h": 353,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 3,
+      "sourceH": 353
+    },
+    "personalinformationidcardcardpop_locked_png": {
+      "x": 1682,
+      "y": 234,
+      "w": 202,
+      "h": 113,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 202,
+      "sourceH": 113
+    },
+    "personalinformationidcardcardpop_mingpian_png": {
+      "x": 1472,
+      "y": 188,
+      "w": 208,
+      "h": 119,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 208,
+      "sourceH": 119
+    },
+    "personalinformationidcardcardpop_new_png": {
+      "x": 573,
+      "y": 730,
+      "w": 46,
+      "h": 20,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 46,
+      "sourceH": 20
+    },
+    "personalinformationidcardcardpop_selected_png": {
+      "x": 428,
+      "y": 100,
+      "w": 226,
+      "h": 135,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 226,
+      "sourceH": 135
+    },
+    "personalinformationidcardcardpop_titlebg_png": {
+      "x": 1,
+      "y": 245,
+      "w": 220,
+      "h": 30,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 220,
+      "sourceH": 30
+    },
+    "personalinformationidcardcardpop_yigenghuan_png": {
+      "x": 1310,
+      "y": 780,
+      "w": 87,
+      "h": 35,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 87,
+      "sourceH": 35
+    },
+    "personalinformationidcardcardpop_zbz_png": {
+      "x": 290,
+      "y": 755,
+      "w": 46,
+      "h": 20,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 46,
+      "sourceH": 20
+    },
+    "personalinformationidcardpetshow_3_png": {
+      "x": 1144,
+      "y": 578,
+      "w": 73,
+      "h": 73,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 73,
+      "sourceH": 73
+    },
+    "personalinformationidcardpetshow_btngenghuan_png": {
+      "x": 1991,
+      "y": 1,
+      "w": 56,
+      "h": 70,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 56,
+      "sourceH": 70
+    },
+    "personalinformationidcardpetshow_btnquxiao_png": {
+      "x": 1951,
+      "y": 713,
+      "w": 57,
+      "h": 69,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 57,
+      "sourceH": 69
+    },
+    "personalinformationidcardpetshow_btnShuXingSwitch_png": {
+      "x": 1855,
+      "y": 1,
+      "w": 22,
+      "h": 57,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 22,
+      "sourceH": 57
+    },
+    "personalinformationidcardpetshow_btntexingswitch_png": {
+      "x": 755,
+      "y": 100,
+      "w": 22,
+      "h": 57,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 22,
+      "sourceH": 57
+    },
+    "personalinformationidcardpetshow_btntihuan_png": {
+      "x": 1827,
+      "y": 703,
+      "w": 57,
+      "h": 70,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 57,
+      "sourceH": 70
+    },
+    "personalinformationidcardpetshow_btnzhanshi_png": {
+      "x": 343,
+      "y": 713,
+      "w": 57,
+      "h": 70,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 57,
+      "sourceH": 70
+    },
+    "personalinformationidcardpetshow_icon_sh_0_png": {
+      "x": 75,
+      "y": 801,
+      "w": 20,
+      "h": 20,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 20,
+      "sourceH": 20
+    },
+    "personalinformationidcardpetshow_icon_sh_1_png": {
+      "x": 832,
+      "y": 527,
+      "w": 20,
+      "h": 20,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 20,
+      "sourceH": 20
+    },
+    "personalinformationidcardpetshow_icon_sh_2_png": {
+      "x": 2019,
+      "y": 799,
+      "w": 20,
+      "h": 20,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 20,
+      "sourceH": 20
+    },
+    "personalinformationidcardpetshow_icon_star_png": {
+      "x": 288,
+      "y": 579,
+      "w": 26,
+      "h": 24,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 26,
+      "sourceH": 24
+    },
+    "personalinformationidcardpetshow_icon_star_bg_png": {
+      "x": 2014,
+      "y": 775,
+      "w": 24,
+      "h": 22,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 24,
+      "sourceH": 22
+    },
+    "personalinformationidcardpetshow_icon_type_png": {
+      "x": 1067,
+      "y": 549,
+      "w": 23,
+      "h": 24,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 23,
+      "sourceH": 24
+    },
+    "personalinformationidcardpetshow_imgclose_png": {
+      "x": 927,
+      "y": 365,
+      "w": 89,
+      "h": 99,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 89,
+      "sourceH": 99
+    },
+    "personalinformationidcardpetshow_imgmark1bg_png": {
+      "x": 1228,
+      "y": 530,
+      "w": 75,
+      "h": 80,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 75,
+      "sourceH": 80
+    },
+    "personalinformationidcardpetshow_imgShuxingSwitchBg_png": {
+      "x": 2010,
+      "y": 371,
+      "w": 36,
+      "h": 54,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 36,
+      "sourceH": 54
+    },
+    "personalinformationidcardpetshow_imgtebg_png": {
+      "x": 1879,
+      "y": 1,
+      "w": 110,
+      "h": 231,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 110,
+      "sourceH": 231
+    },
+    "personalinformationidcardpetshow_imgtexingswitchbg_png": {
+      "x": 1019,
+      "y": 228,
+      "w": 36,
+      "h": 55,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 36,
+      "sourceH": 55
+    },
+    "personalinformationidcardpetshow_infodi_png": {
+      "x": 1472,
+      "y": 68,
+      "w": 405,
+      "h": 118,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 405,
+      "sourceH": 118
+    },
+    "personalinformationidcardpetshow_juxing_64_png": {
+      "x": 861,
+      "y": 514,
+      "w": 229,
+      "h": 33,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 229,
+      "sourceH": 33
+    },
+    "personalinformationidcardpetshow_jx_9_kb_8_png": {
+      "x": 2012,
+      "y": 503,
+      "w": 26,
+      "h": 26,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 26,
+      "sourceH": 26
+    },
+    "personalinformationidcardpetshow_texture_star_png": {
+      "x": 636,
+      "y": 309,
+      "w": 12,
+      "h": 11,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 12,
+      "sourceH": 11
+    },
+    "personalinformationidcardpetshow_titlebg_png": {
+      "x": 417,
+      "y": 427,
+      "w": 348,
+      "h": 27,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 348,
+      "sourceH": 27
+    },
+    "personalinformationidcardpetshow_titlename1_png": {
+      "x": 1488,
+      "y": 795,
+      "w": 91,
+      "h": 32,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 91,
+      "sourceH": 32
+    },
+    "personalinformationidcardpetshow_titlename2_png": {
+      "x": 1185,
+      "y": 800,
+      "w": 91,
+      "h": 32,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 91,
+      "sourceH": 32
+    },
+    "personalInformationMetaozhuang1_down_png": {
+      "x": 1530,
+      "y": 599,
+      "w": 71,
+      "h": 70,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 71,
+      "sourceH": 70
+    },
+    "personalInformationMetaozhuang1_up_png": {
+      "x": 508,
+      "y": 703,
+      "w": 63,
+      "h": 64,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 63,
+      "sourceH": 64
+    },
+    "personalInformationMetaozhuang2_down_png": {
+      "x": 1603,
+      "y": 599,
+      "w": 71,
+      "h": 70,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 71,
+      "sourceH": 70
+    },
+    "personalInformationMetaozhuang2_up_png": {
+      "x": 443,
+      "y": 703,
+      "w": 63,
+      "h": 64,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 63,
+      "sourceH": 64
+    },
+    "personalInformationMetaozhuang3_down_png": {
+      "x": 1457,
+      "y": 599,
+      "w": 71,
+      "h": 70,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 71,
+      "sourceH": 70
+    },
+    "personalInformationMetaozhuang3_up_png": {
+      "x": 1077,
+      "y": 694,
+      "w": 63,
+      "h": 64,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 63,
+      "sourceH": 64
+    },
+    "personalInformationMe_addBtn_0_png": {
+      "x": 962,
+      "y": 703,
+      "w": 34,
+      "h": 34,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 34,
+      "sourceH": 34
+    },
+    "personalInformationMe_btnJunxie_png": {
+      "x": 1420,
+      "y": 817,
+      "w": 45,
+      "h": 45,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 45,
+      "sourceH": 45
+    },
+    "personalinformationme_btnkefu_png": {
+      "x": 1395,
+      "y": 746,
+      "w": 114,
+      "h": 32,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 114,
+      "sourceH": 32
+    },
+    "personalInformationMe_btnSave_png": {
+      "x": 290,
+      "y": 785,
+      "w": 87,
+      "h": 34,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 87,
+      "sourceH": 34
+    },
+    "personalInformationMe_btnSet_png": {
+      "x": 277,
+      "y": 352,
+      "w": 38,
+      "h": 52,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 38,
+      "sourceH": 52
+    },
+    "personalInformationMe_btnUse_png": {
+      "x": 1624,
+      "y": 794,
+      "w": 87,
+      "h": 34,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 87,
+      "sourceH": 34
+    },
+    "personalinformationme_btnyinsi_png": {
+      "x": 1007,
+      "y": 760,
+      "w": 115,
+      "h": 31,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 115,
+      "sourceH": 31
+    },
+    "personalinformationme_btnzhanghu_png": {
+      "x": 1511,
+      "y": 761,
+      "w": 111,
+      "h": 32,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 111,
+      "sourceH": 32
+    },
+    "personalInformationMe_changeBtn_png": {
+      "x": 379,
+      "y": 803,
+      "w": 72,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 72,
+      "sourceH": 40
+    },
+    "personalInformationMe_detailsBtn_png": {
+      "x": 453,
+      "y": 805,
+      "w": 72,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 72,
+      "sourceH": 40
+    },
+    "personalInformationMe_doneWearBtn_png": {
+      "x": 212,
+      "y": 579,
+      "w": 74,
+      "h": 72,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 74,
+      "sourceH": 72
+    },
+    "personalInformationMe_exchangeCode_img_btn_exchangeCode_png": {
+      "x": 1276,
+      "y": 612,
+      "w": 26,
+      "h": 26,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 26,
+      "sourceH": 26
+    },
+    "personalInformationMe_genghuan_png": {
+      "x": 404,
+      "y": 531,
+      "w": 49,
+      "h": 20,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 49,
+      "sourceH": 20
+    },
+    "personalInformationMe_gotoSuitBtn_png": {
+      "x": 1067,
+      "y": 578,
+      "w": 75,
+      "h": 72,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 75,
+      "sourceH": 72
+    },
+    "personalInformationMe_headBg_png": {
+      "x": 1798,
+      "y": 371,
+      "w": 105,
+      "h": 105,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 105,
+      "sourceH": 105
+    },
+    "personalInformationMe_icon_001_png": {
+      "x": 1434,
+      "y": 399,
+      "w": 25,
+      "h": 26,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 25,
+      "sourceH": 26
+    },
+    "personalInformationMe_icon_002_png": {
+      "x": 111,
+      "y": 730,
+      "w": 26,
+      "h": 22,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 26,
+      "sourceH": 22
+    },
+    "personalInformationMe_icon_003_png": {
+      "x": 1434,
+      "y": 427,
+      "w": 24,
+      "h": 25,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 24,
+      "sourceH": 25
+    },
+    "personalInformationMe_icon_004_png": {
+      "x": 441,
+      "y": 606,
+      "w": 21,
+      "h": 23,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 21,
+      "sourceH": 23
+    },
+    "personalInformationMe_img_btn_close_png": {
+      "x": 2007,
+      "y": 587,
+      "w": 29,
+      "h": 38,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 29,
+      "sourceH": 38
+    },
+    "personalInformationMe_img_corner_png": {
+      "x": 636,
+      "y": 322,
+      "w": 18,
+      "h": 18,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 18,
+      "sourceH": 18
+    },
+    "personalInformationMe_img_corner_r_png": {
+      "x": 1555,
+      "y": 474,
+      "w": 18,
+      "h": 18,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 18,
+      "sourceH": 18
+    },
+    "personalInformationMe_joinTeamBtn_png": {
+      "x": 714,
+      "y": 804,
+      "w": 72,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 72,
+      "sourceH": 40
+    },
+    "personalInformationMe_kb_115_png": {
+      "x": 831,
+      "y": 597,
+      "w": 72,
+      "h": 72,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 72,
+      "sourceH": 72
+    },
+    "personalinformationme_line3_png": {
+      "x": 2045,
+      "y": 208,
+      "w": 2,
+      "h": 26,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 2,
+      "sourceH": 26
+    },
+    "personalInformationMe_line_2312313_png": {
+      "x": 989,
+      "y": 834,
+      "w": 287,
+      "h": 1,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 287,
+      "sourceH": 1
+    },
+    "personalInformationMe_line_34324324_png": {
+      "x": 1467,
+      "y": 842,
+      "w": 305,
+      "h": 2,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 305,
+      "sourceH": 2
+    },
+    "personalInformationMe_line_343243245_png": {
+      "x": 1434,
+      "y": 354,
+      "w": 18,
+      "h": 43,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 18,
+      "sourceH": 43
+    },
+    "personalInformationMe_lookTeamBtn_png": {
+      "x": 1,
+      "y": 801,
+      "w": 72,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 72,
+      "sourceH": 40
+    },
+    "personalInformationMe_military_icon_png": {
+      "x": 1457,
+      "y": 570,
+      "w": 31,
+      "h": 25,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 31,
+      "sourceH": 25
+    },
+    "personalInformationMe_modifyBtn_png": {
+      "x": 1769,
+      "y": 551,
+      "w": 22,
+      "h": 22,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 22,
+      "sourceH": 22
+    },
+    "personalInformationMe_nonoIcon_png": {
+      "x": 860,
+      "y": 671,
+      "w": 31,
+      "h": 29,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 31,
+      "sourceH": 29
+    },
+    "personalInformationMe_NotVip_png": {
+      "x": 756,
+      "y": 650,
+      "w": 54,
+      "h": 18,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 54,
+      "sourceH": 18
+    },
+    "personalInformationMe_ownerInfoBtn_png": {
+      "x": 464,
+      "y": 588,
+      "w": 74,
+      "h": 71,
+      "offX": 1,
+      "offY": 1,
+      "sourceW": 75,
+      "sourceH": 72
+    },
+    "personalInformationMe_qianwang_png": {
+      "x": 1497,
+      "y": 522,
+      "w": 50,
+      "h": 20,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 50,
+      "sourceH": 20
+    },
+    "personalInformationMe_selected_png": {
+      "x": 1925,
+      "y": 672,
+      "w": 115,
+      "h": 39,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 115,
+      "sourceH": 39
+    },
+    "personalInformationMe_selected_1_png": {
+      "x": 1326,
+      "y": 688,
+      "w": 115,
+      "h": 39,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 115,
+      "sourceH": 39
+    },
+    "personalInformationMe_suitIconBg_0_png": {
+      "x": 1011,
+      "y": 694,
+      "w": 64,
+      "h": 64,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 64,
+      "sourceH": 64
+    },
+    "personalInformationMe_suitIconBigBg_0_png": {
+      "x": 428,
+      "y": 237,
+      "w": 206,
+      "h": 97,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 206,
+      "sourceH": 97
+    },
+    "personalInformationMe_suitInfoLine_png": {
+      "x": 1467,
+      "y": 846,
+      "w": 301,
+      "h": 1,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 301,
+      "sourceH": 1
+    },
+    "personalInformationMe_teamIcon_png": {
+      "x": 137,
+      "y": 537,
+      "w": 38,
+      "h": 34,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 38,
+      "sourceH": 34
+    },
+    "personalInformationMe_texture_7_png": {
+      "x": 714,
+      "y": 771,
+      "w": 104,
+      "h": 31,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 104,
+      "sourceH": 31
+    },
+    "personalInformationMe_unloadBtn_png": {
+      "x": 328,
+      "y": 558,
+      "w": 134,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 134,
+      "sourceH": 46
+    },
+    "personalInformationMe_vipBtn_png": {
+      "x": 1713,
+      "y": 800,
+      "w": 72,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 72,
+      "sourceH": 40
+    },
+    "personalInformationMe_VIPIcon_png": {
+      "x": 277,
+      "y": 406,
+      "w": 35,
+      "h": 16,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 35,
+      "sourceH": 16
+    },
+    "personalInformationMe_vipNum_png": {
+      "x": 779,
+      "y": 100,
+      "w": 11,
+      "h": 18,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 11,
+      "sourceH": 18
+    },
+    "personalInformationMe_wearBtn_png": {
+      "x": 696,
+      "y": 527,
+      "w": 134,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 134,
+      "sourceH": 46
+    },
+    "personalinformationme_xiafangdi_png": {
+      "x": 1062,
+      "y": 1,
+      "w": 791,
+      "h": 65,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 791,
+      "sourceH": 65
+    },
+    "personalInformationMe_xiangqing_png": {
+      "x": 1991,
+      "y": 208,
+      "w": 50,
+      "h": 20,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 50,
+      "sourceH": 20
+    },
+    "personalInformationOther_add_btn_png": {
+      "x": 240,
+      "y": 817,
+      "w": 45,
+      "h": 51,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 45,
+      "sourceH": 51
+    },
+    "personalInformationOther_applyBtn_png": {
+      "x": 2012,
+      "y": 474,
+      "w": 27,
+      "h": 27,
+      "offX": 1,
+      "offY": 0,
+      "sourceW": 28,
+      "sourceH": 28
+    },
+    "personalInformationOther_block_btn_png": {
+      "x": 895,
+      "y": 812,
+      "w": 45,
+      "h": 52,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 45,
+      "sourceH": 52
+    },
+    "personalInformationOther_chat_btn_png": {
+      "x": 860,
+      "y": 703,
+      "w": 100,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 100,
+      "sourceH": 40
+    },
+    "personalInformationOther_combatTeamBtn_png": {
+      "x": 139,
+      "y": 713,
+      "w": 100,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 100,
+      "sourceH": 40
+    },
+    "personalInformationOther_delete_btn_png": {
+      "x": 1278,
+      "y": 817,
+      "w": 45,
+      "h": 51,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 45,
+      "sourceH": 51
+    },
+    "personalInformationOther_fight_Btn_png": {
+      "x": 710,
+      "y": 713,
+      "w": 100,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 100,
+      "sourceH": 40
+    },
+    "personalInformationOther_headBg_png": {
+      "x": 1575,
+      "y": 423,
+      "w": 95,
+      "h": 95,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 95,
+      "sourceH": 95
+    },
+    "personalInformationOther_icon_001_png": {
+      "x": 1118,
+      "y": 462,
+      "w": 22,
+      "h": 27,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 22,
+      "sourceH": 27
+    },
+    "personalInformationOther_icon_002_png": {
+      "x": 390,
+      "y": 473,
+      "w": 23,
+      "h": 23,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 23,
+      "sourceH": 23
+    },
+    "personalInformationOther_icon_003_png": {
+      "x": 1769,
+      "y": 575,
+      "w": 23,
+      "h": 21,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 23,
+      "sourceH": 21
+    },
+    "personalInformationOther_invitation_btn_png": {
+      "x": 1725,
+      "y": 703,
+      "w": 100,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 100,
+      "sourceH": 40
+    },
+    "personalInformationOther_iteamIcon_png": {
+      "x": 38,
+      "y": 658,
+      "w": 36,
+      "h": 33,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 36,
+      "sourceH": 33
+    },
+    "personalInformationOther_line_png": {
+      "x": 782,
+      "y": 132,
+      "w": 1,
+      "h": 24,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 1,
+      "sourceH": 24
+    },
+    "personalInformationOther_line232323_png": {
+      "x": 779,
+      "y": 132,
+      "w": 1,
+      "h": 24,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 1,
+      "sourceH": 24
+    },
+    "personalInformationOther_militaryInfoBg_png": {
+      "x": 1,
+      "y": 696,
+      "w": 136,
+      "h": 32,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 136,
+      "sourceH": 32
+    },
+    "personalInformationOther_military_icon_png": {
+      "x": 1019,
+      "y": 285,
+      "w": 31,
+      "h": 25,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 31,
+      "sourceH": 25
+    },
+    "personalInformationOther_organizeTeamBtn_png": {
+      "x": 241,
+      "y": 713,
+      "w": 100,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 100,
+      "sourceH": 40
+    },
+    "personalInformationOther_partsIconBg_0_png": {
+      "x": 1219,
+      "y": 694,
+      "w": 64,
+      "h": 64,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 64,
+      "sourceH": 64
+    },
+    "personalInformationOther_remove_black_png": {
+      "x": 942,
+      "y": 812,
+      "w": 45,
+      "h": 52,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 45,
+      "sourceH": 52
+    },
+    "personalInformationOther_report_btn_png": {
+      "x": 2010,
+      "y": 427,
+      "w": 37,
+      "h": 45,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 37,
+      "sourceH": 45
+    },
+    "personalInformationOther_rightInfo_bg_png": {
+      "x": 223,
+      "y": 245,
+      "w": 12,
+      "h": 12,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 12,
+      "sourceH": 12
+    },
+    "personalInformationOther_teamInfobg_png": {
+      "x": 1118,
+      "y": 496,
+      "w": 241,
+      "h": 32,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 241,
+      "sourceH": 32
+    },
+    "personalInformationOther_titleNameBg_png": {
+      "x": 288,
+      "y": 640,
+      "w": 165,
+      "h": 29,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 165,
+      "sourceH": 29
+    },
+    "personalInformationOther_titleTxpng_png": {
+      "x": 639,
+      "y": 456,
+      "w": 112,
+      "h": 26,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 112,
+      "sourceH": 26
+    },
+    "personalInformationOther_vip_png": {
+      "x": 577,
+      "y": 661,
+      "w": 31,
+      "h": 30,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 31,
+      "sourceH": 30
+    },
+    "personalInformationOther_visit_btn_png": {
+      "x": 1443,
+      "y": 704,
+      "w": 100,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 100,
+      "sourceH": 40
+    },
+    "personalinformation_achievepop_selectmark_png": {
+      "x": 2012,
+      "y": 531,
+      "w": 19,
+      "h": 16,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 20,
+      "sourceH": 17
+    },
+    "personalInformation_btnfire0_png": {
+      "x": 1991,
+      "y": 73,
+      "w": 56,
+      "h": 66,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 56,
+      "sourceH": 66
+    },
+    "personalInformation_btnfire6_png": {
+      "x": 827,
+      "y": 745,
+      "w": 58,
+      "h": 65,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 58,
+      "sourceH": 65
+    },
+    "personalInformation_btnfire7_png": {
+      "x": 887,
+      "y": 745,
+      "w": 58,
+      "h": 65,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 58,
+      "sourceH": 65
+    },
+    "personalInformation_btnfire8_png": {
+      "x": 947,
+      "y": 745,
+      "w": 58,
+      "h": 65,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 58,
+      "sourceH": 65
+    },
+    "personalInformation_btnfire9_png": {
+      "x": 77,
+      "y": 585,
+      "w": 58,
+      "h": 65,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 58,
+      "sourceH": 65
+    },
+    "personalInformation_btnfiremix_png": {
+      "x": 1991,
+      "y": 141,
+      "w": 56,
+      "h": 65,
+      "offX": 1,
+      "offY": 0,
+      "sourceW": 58,
+      "sourceH": 65
+    },
+    "personalInformation_btnKefu_png": {
+      "x": 1844,
+      "y": 598,
+      "w": 73,
+      "h": 71,
+      "offX": 1,
+      "offY": 1,
+      "sourceW": 75,
+      "sourceH": 72
+    },
+    "personalInformation_btnResource_png": {
+      "x": 540,
+      "y": 588,
+      "w": 74,
+      "h": 71,
+      "offX": 0,
+      "offY": 1,
+      "sourceW": 75,
+      "sourceH": 72
+    },
+    "personalInformation_btnYinsi_png": {
+      "x": 1769,
+      "y": 598,
+      "w": 73,
+      "h": 71,
+      "offX": 2,
+      "offY": 1,
+      "sourceW": 75,
+      "sourceH": 72
+    },
+    "personalInformation_btnZhanghu_png": {
+      "x": 1,
+      "y": 585,
+      "w": 74,
+      "h": 71,
+      "offX": 0,
+      "offY": 1,
+      "sourceW": 75,
+      "sourceH": 72
+    },
+    "personalInformation_card_get_pop_btnGotoExchange_png": {
+      "x": 577,
+      "y": 693,
+      "w": 131,
+      "h": 35,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 131,
+      "sourceH": 35
+    },
+    "personalInformation_card_get_pop_cardHasGet_png": {
+      "x": 457,
+      "y": 498,
+      "w": 104,
+      "h": 21,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 104,
+      "sourceH": 21
+    },
+    "personalInformation_card_get_pop_carEquipt_png": {
+      "x": 287,
+      "y": 821,
+      "w": 46,
+      "h": 20,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 46,
+      "sourceH": 20
+    },
+    "personalInformation_card_get_pop_hasShow_png": {
+      "x": 812,
+      "y": 713,
+      "w": 46,
+      "h": 20,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 46,
+      "sourceH": 20
+    },
+    "personalInformation_card_get_pop_title_png": {
+      "x": 1575,
+      "y": 309,
+      "w": 102,
+      "h": 32,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 102,
+      "sourceH": 32
+    },
+    "personalinformation_id_cardpop_15_png": {
+      "x": 261,
+      "y": 428,
+      "w": 51,
+      "h": 50,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 51,
+      "sourceH": 50
+    },
+    "personalinformation_id_cardpop_21_png": {
+      "x": 840,
+      "y": 812,
+      "w": 53,
+      "h": 45,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 53,
+      "sourceH": 45
+    },
+    "personalinformation_id_cardpop_add_png": {
+      "x": 1371,
+      "y": 817,
+      "w": 47,
+      "h": 47,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 47,
+      "sourceH": 47
+    },
+    "personalinformation_id_cardpop_btnbianji_png": {
+      "x": 2010,
+      "y": 713,
+      "w": 29,
+      "h": 29,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 29,
+      "sourceH": 29
+    },
+    "personalinformation_id_cardpop_btnfuzhi__png": {
+      "x": 2010,
+      "y": 744,
+      "w": 29,
+      "h": 29,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 29,
+      "sourceH": 29
+    },
+    "personalinformation_id_cardpop_btnjubao_png": {
+      "x": 194,
+      "y": 817,
+      "w": 44,
+      "h": 53,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 44,
+      "sourceH": 53
+    },
+    "personalinformation_id_cardpop_btnlahei_png": {
+      "x": 1834,
+      "y": 815,
+      "w": 44,
+      "h": 53,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 44,
+      "sourceH": 53
+    },
+    "personalinformation_id_cardpop_btnreplace_png": {
+      "x": 1880,
+      "y": 817,
+      "w": 45,
+      "h": 45,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 45,
+      "sourceH": 45
+    },
+    "personalinformation_id_cardpop_btnshanchu_png": {
+      "x": 1787,
+      "y": 815,
+      "w": 45,
+      "h": 52,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 45,
+      "sourceH": 52
+    },
+    "personalinformation_id_cardpop_btntianjia_png": {
+      "x": 1325,
+      "y": 817,
+      "w": 44,
+      "h": 52,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 44,
+      "sourceH": 52
+    },
+    "personalinformation_id_cardpop_btnyaoqing_png": {
+      "x": 1927,
+      "y": 817,
+      "w": 45,
+      "h": 44,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 45,
+      "sourceH": 44
+    },
+    "personalinformation_id_cardpop_chzs_png": {
+      "x": 905,
+      "y": 655,
+      "w": 104,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 104,
+      "sourceH": 46
+    },
+    "personalinformation_id_cardpop_dfsz_png": {
+      "x": 527,
+      "y": 805,
+      "w": 91,
+      "h": 31,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 91,
+      "sourceH": 31
+    },
+    "personalinformation_id_cardpop_di_1_png": {
+      "x": 1905,
+      "y": 476,
+      "w": 105,
+      "h": 72,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 105,
+      "sourceH": 72
+    },
+    "personalinformation_id_cardpop_di_2_png": {
+      "x": 1601,
+      "y": 702,
+      "w": 122,
+      "h": 33,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 122,
+      "sourceH": 33
+    },
+    "personalinformation_id_cardpop_headbg_png": {
+      "x": 1905,
+      "y": 371,
+      "w": 103,
+      "h": 103,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 103,
+      "sourceH": 103
+    },
+    "personalinformation_id_cardpop_icon_id_png": {
+      "x": 755,
+      "y": 196,
+      "w": 35,
+      "h": 30,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 35,
+      "sourceH": 30
+    },
+    "personalinformation_id_cardpop_icon_jx_png": {
+      "x": 755,
+      "y": 159,
+      "w": 35,
+      "h": 35,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 35,
+      "sourceH": 35
+    },
+    "personalinformation_id_cardpop_icon_nc_png": {
+      "x": 2007,
+      "y": 550,
+      "w": 33,
+      "h": 35,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 33,
+      "sourceH": 35
+    },
+    "personalinformation_id_cardpop_icon_riji_png": {
+      "x": 1545,
+      "y": 704,
+      "w": 33,
+      "h": 33,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 33,
+      "sourceH": 33
+    },
+    "personalinformation_id_cardpop_icon_vip_png": {
+      "x": 1,
+      "y": 658,
+      "w": 35,
+      "h": 35,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 35,
+      "sourceH": 35
+    },
+    "personalinformation_id_cardpop_icon_zd_png": {
+      "x": 1305,
+      "y": 530,
+      "w": 42,
+      "h": 37,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 42,
+      "sourceH": 37
+    },
+    "personalinformation_id_cardpop_imgshu_png": {
+      "x": 636,
+      "y": 237,
+      "w": 12,
+      "h": 70,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 12,
+      "sourceH": 70
+    },
+    "personalinformation_id_cardpop_jlzs_png": {
+      "x": 1219,
+      "y": 646,
+      "w": 105,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 105,
+      "sourceH": 46
+    },
+    "personalinformation_id_cardpop_jrzs_png": {
+      "x": 620,
+      "y": 805,
+      "w": 50,
+      "h": 50,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 50,
+      "sourceH": 50
+    },
+    "personalinformation_id_cardpop_jx_519_kb_png": {
+      "x": 1020,
+      "y": 610,
+      "w": 35,
+      "h": 35,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 35,
+      "sourceH": 35
+    },
+    "personalinformation_id_cardpop_kong_png": {
+      "x": 788,
+      "y": 812,
+      "w": 50,
+      "h": 50,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 50,
+      "sourceH": 50
+    },
+    "personalinformation_id_cardpop_kuang_png": {
+      "x": 1305,
+      "y": 570,
+      "w": 74,
+      "h": 74,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 74,
+      "sourceH": 74
+    },
+    "personalinformation_id_cardpop_line2_png": {
+      "x": 1142,
+      "y": 312,
+      "w": 65,
+      "h": 1,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 65,
+      "sourceH": 1
+    },
+    "personalinformation_id_cardpop_null_png": {
+      "x": 1381,
+      "y": 570,
+      "w": 74,
+      "h": 74,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 74,
+      "sourceH": 74
+    },
+    "personalinformation_id_cardpop_peakjihad_sport_title_png": {
+      "x": 288,
+      "y": 606,
+      "w": 151,
+      "h": 32,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 151,
+      "sourceH": 32
+    },
+    "personalinformation_id_cardpop_peakjihad_wild_title_png": {
+      "x": 1682,
+      "y": 188,
+      "w": 152,
+      "h": 32,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 152,
+      "sourceH": 32
+    },
+    "personalinformation_id_cardpop_refresh_png": {
+      "x": 1870,
+      "y": 520,
+      "w": 29,
+      "h": 28,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 29,
+      "sourceH": 28
+    },
+    "personalinformation_id_cardpop_showBg_png": {
+      "x": 1062,
+      "y": 68,
+      "w": 408,
+      "h": 121,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 408,
+      "sourceH": 121
+    },
+    "personalinformation_id_cardpop_sjjc_png": {
+      "x": 1672,
+      "y": 423,
+      "w": 106,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 106,
+      "sourceH": 46
+    },
+    "personalinformation_id_cardpop_sport_cur_bg_png": {
+      "x": 1575,
+      "y": 349,
+      "w": 221,
+      "h": 72,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 221,
+      "sourceH": 72
+    },
+    "personalinformation_id_cardpop_sport_history_bg_png": {
+      "x": 1288,
+      "y": 380,
+      "w": 144,
+      "h": 72,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 144,
+      "sourceH": 72
+    },
+    "personalinformation_id_cardpop_wild_cur_bg_png": {
+      "x": 602,
+      "y": 344,
+      "w": 221,
+      "h": 72,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 221,
+      "sourceH": 72
+    },
+    "personalinformation_id_cardpop_wild_history_bg_png": {
+      "x": 1142,
+      "y": 380,
+      "w": 144,
+      "h": 72,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 144,
+      "sourceH": 72
+    },
+    "personalinformation_id_cardpop_xzsk_png": {
+      "x": 767,
+      "y": 418,
+      "w": 51,
+      "h": 50,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 51,
+      "sourceH": 50
+    },
+    "personalInformation_ID_Card_cardPop_dck_png": {
+      "x": 317,
+      "y": 278,
+      "w": 98,
+      "h": 193,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 98,
+      "sourceH": 193
+    },
+    "personalInformation_ID_Card_cardPop_dekuang_png": {
+      "x": 223,
+      "y": 259,
+      "w": 12,
+      "h": 12,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 12,
+      "sourceH": 12
+    },
+    "personalInformation_ID_Card_cardPop_jindu_png": {
+      "x": 1461,
+      "y": 191,
+      "w": 3,
+      "h": 83,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 3,
+      "sourceH": 83
+    },
+    "personalInformation_ID_Card_cardPop_locked_png": {
+      "x": 656,
+      "y": 228,
+      "w": 202,
+      "h": 114,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 202,
+      "sourceH": 114
+    },
+    "personalInformation_ID_Card_cardPop_mingpian_png": {
+      "x": 1062,
+      "y": 191,
+      "w": 208,
+      "h": 119,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 208,
+      "sourceH": 119
+    },
+    "personalInformation_ID_Card_cardPop_selected_png": {
+      "x": 1,
+      "y": 100,
+      "w": 235,
+      "h": 143,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 235,
+      "sourceH": 143
+    },
+    "personalInformation_ID_Card_cardPop_xzzsjs_png": {
+      "x": 905,
+      "y": 610,
+      "w": 113,
+      "h": 43,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 113,
+      "sourceH": 43
+    },
+    "personalInformation_ID_Card_cardPop_yqzd_png": {
+      "x": 1676,
+      "y": 599,
+      "w": 75,
+      "h": 64,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 75,
+      "sourceH": 64
+    },
+    "personalInformation_ID_Card_cardPop_zudui_png": {
+      "x": 1142,
+      "y": 653,
+      "w": 75,
+      "h": 59,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 75,
+      "sourceH": 59
+    },
+    "personalInformation_ID_Card_petShow_3_png": {
+      "x": 1930,
+      "y": 550,
+      "w": 75,
+      "h": 75,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 75,
+      "sourceH": 75
+    },
+    "personalInformation_ID_Card_petShow_petShowBg_png": {
+      "x": 1,
+      "y": 1,
+      "w": 789,
+      "h": 97,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 789,
+      "sourceH": 97
+    },
+    "personalinformation_id_choosepetpop_btnsearch_png": {
+      "x": 106,
+      "y": 824,
+      "w": 29,
+      "h": 29,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 29,
+      "sourceH": 29
+    },
+    "personalinformation_id_choosepetpop_btnZhanshi_png": {
+      "x": 1497,
+      "y": 551,
+      "w": 134,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 134,
+      "sourceH": 46
+    },
+    "personalinformation_id_choosepetpop_isshowing_png": {
+      "x": 621,
+      "y": 730,
+      "w": 46,
+      "h": 20,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 46,
+      "sourceH": 20
+    },
+    "personalinformation_id_choosepetpop_jindu_png": {
+      "x": 650,
+      "y": 237,
+      "w": 3,
+      "h": 83,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 3,
+      "sourceH": 83
+    },
+    "personalinformation_id_choosepetpop_kuang_png": {
+      "x": 680,
+      "y": 575,
+      "w": 74,
+      "h": 74,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 74,
+      "sourceH": 74
+    },
+    "personalinformation_id_choosepetpop_searchbg_png": {
+      "x": 1601,
+      "y": 671,
+      "w": 160,
+      "h": 29,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 160,
+      "sourceH": 29
+    },
+    "personalinformation_id_choosepetpop_selected__png": {
+      "x": 825,
+      "y": 365,
+      "w": 100,
+      "h": 118,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 100,
+      "sourceH": 118
+    },
+    "personalinformation_id_choosepetpop_xzzsjs_png": {
+      "x": 1919,
+      "y": 627,
+      "w": 113,
+      "h": 43,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 113,
+      "sourceH": 43
+    },
+    "personalInformation_img0_png": {
+      "x": 1798,
+      "y": 349,
+      "w": 73,
+      "h": 20,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 73,
+      "sourceH": 20
+    },
+    "personalInformation_img6_png": {
+      "x": 563,
+      "y": 498,
+      "w": 74,
+      "h": 21,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 74,
+      "sourceH": 21
+    },
+    "personalInformation_img7_png": {
+      "x": 1794,
+      "y": 520,
+      "w": 74,
+      "h": 21,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 74,
+      "sourceH": 21
+    },
+    "personalInformation_img8_png": {
+      "x": 328,
+      "y": 531,
+      "w": 74,
+      "h": 21,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 74,
+      "sourceH": 21
+    },
+    "personalInformation_img9_png": {
+      "x": 314,
+      "y": 473,
+      "w": 74,
+      "h": 21,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 74,
+      "sourceH": 21
+    },
+    "personalinformation_name_frame_pop_btnget_png": {
+      "x": 105,
+      "y": 788,
+      "w": 87,
+      "h": 34,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 87,
+      "sourceH": 34
+    },
+    "personalinformation_name_frame_pop_btnuse_png": {
+      "x": 1007,
+      "y": 793,
+      "w": 87,
+      "h": 34,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 87,
+      "sourceH": 34
+    },
+    "personalinformation_name_frame_pop_btnusing_png": {
+      "x": 1096,
+      "y": 793,
+      "w": 87,
+      "h": 34,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 87,
+      "sourceH": 34
+    },
+    "personalinformation_name_frame_pop_framebg_png": {
+      "x": 107,
+      "y": 352,
+      "w": 168,
+      "h": 74,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 168,
+      "sourceH": 74
+    },
+    "personalinformation_name_frame_pop_img_btn_yes_png": {
+      "x": 1361,
+      "y": 522,
+      "w": 134,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 134,
+      "sourceH": 46
+    },
+    "personalinformation_name_frame_pop_lock_png": {
+      "x": 107,
+      "y": 428,
+      "w": 152,
+      "h": 59,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 152,
+      "sourceH": 59
+    },
+    "personalinformation_name_frame_pop_select_png": {
+      "x": 417,
+      "y": 336,
+      "w": 183,
+      "h": 89,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 183,
+      "sourceH": 89
+    },
+    "personalinformation_name_frame_pop_title_png": {
+      "x": 1448,
+      "y": 671,
+      "w": 151,
+      "h": 31,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 151,
+      "sourceH": 31
+    },
+    "personalinformation_name_frame_pop_using_png": {
+      "x": 261,
+      "y": 480,
+      "w": 44,
+      "h": 16,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 44,
+      "sourceH": 16
+    },
+    "personalinformation_peakJiHad_itemBg_png": {
+      "x": 602,
+      "y": 336,
+      "w": 29,
+      "h": 6,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 29,
+      "sourceH": 6
+    },
+    "personalinformation_policy_pop_imayinsi_png": {
+      "x": 111,
+      "y": 755,
+      "w": 115,
+      "h": 31,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 115,
+      "sourceH": 31
+    },
+    "personalinformation_policy_pop_person_png": {
+      "x": 927,
+      "y": 466,
+      "w": 189,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 189,
+      "sourceH": 46
+    },
+    "personalinformation_policy_pop_protect_png": {
+      "x": 1364,
+      "y": 474,
+      "w": 189,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 189,
+      "sourceH": 46
+    },
+    "personalinformation_policy_pop_three_png": {
+      "x": 1,
+      "y": 489,
+      "w": 189,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 189,
+      "sourceH": 46
+    },
+    "personalinformation_suo_png": {
+      "x": 1,
+      "y": 278,
+      "w": 314,
+      "h": 72,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 314,
+      "sourceH": 72
+    },
+    "personalInformation_taozhuangbg_png": {
+      "x": 1272,
+      "y": 191,
+      "w": 187,
+      "h": 122,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 187,
+      "sourceH": 122
+    },
+    "personalInformation_timebg_png": {
+      "x": 1364,
+      "y": 454,
+      "w": 71,
+      "h": 18,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 71,
+      "sourceH": 18
+    },
+    "playerInfo_title_pop_btnSearch_png": {
+      "x": 1836,
+      "y": 188,
+      "w": 38,
+      "h": 38,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 38,
+      "sourceH": 38
+    },
+    "playerInfo_title_pop_img_png": {
+      "x": 968,
+      "y": 549,
+      "w": 97,
+      "h": 59,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 97,
+      "sourceH": 59
+    },
+    "playerInfo_title_pop_item_Img_used_png": {
+      "x": 2019,
+      "y": 829,
+      "w": 22,
+      "h": 22,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 22,
+      "sourceH": 22
+    },
+    "playerInfo_title_pop_tile_title_png": {
+      "x": 861,
+      "y": 485,
+      "w": 59,
+      "h": 26,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 59,
+      "sourceH": 26
+    },
+    "resource_center_act_red_progress_png": {
+      "x": 1545,
+      "y": 745,
+      "w": 252,
+      "h": 14,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 252,
+      "sourceH": 14
+    },
+    "resource_center_act_yellow_progress_png": {
+      "x": 573,
+      "y": 755,
+      "w": 252,
+      "h": 14,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 252,
+      "sourceH": 14
+    },
+    "select_car_pop_addcar_png": {
+      "x": 616,
+      "y": 588,
+      "w": 61,
+      "h": 61,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 61,
+      "sourceH": 61
+    },
+    "select_car_pop_btnsearch_png": {
+      "x": 672,
+      "y": 805,
+      "w": 29,
+      "h": 29,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 29,
+      "sourceH": 29
+    },
+    "select_car_pop_carbg_png": {
+      "x": 238,
+      "y": 100,
+      "w": 188,
+      "h": 176,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 188,
+      "sourceH": 176
+    },
+    "select_car_pop_desccarbg_png": {
+      "x": 792,
+      "y": 1,
+      "w": 268,
+      "h": 225,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 268,
+      "sourceH": 225
+    },
+    "select_car_pop_descline_png": {
+      "x": 1467,
+      "y": 830,
+      "w": 241,
+      "h": 1,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 241,
+      "sourceH": 1
+    },
+    "select_car_pop_dress_png": {
+      "x": 1092,
+      "y": 530,
+      "w": 134,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 134,
+      "sourceH": 46
+    },
+    "select_car_pop_none_png": {
+      "x": 1886,
+      "y": 234,
+      "w": 157,
+      "h": 135,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 157,
+      "sourceH": 135
+    },
+    "select_car_pop_quality_png": {
+      "x": 137,
+      "y": 824,
+      "w": 40,
+      "h": 17,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 40,
+      "sourceH": 17
+    },
+    "select_car_pop_searchbg_png": {
+      "x": 457,
+      "y": 527,
+      "w": 237,
+      "h": 29,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 237,
+      "sourceH": 29
+    },
+    "select_car_pop_selected_png": {
+      "x": 228,
+      "y": 755,
+      "w": 60,
+      "h": 60,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 60,
+      "sourceH": 60
+    },
+    "select_car_pop_unDress_png": {
+      "x": 832,
+      "y": 549,
+      "w": 134,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 134,
+      "sourceH": 46
+    },
+    "warehouseid_sort_down_down_png": {
+      "x": 455,
+      "y": 661,
+      "w": 120,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 120,
+      "sourceH": 40
+    },
+    "warehouseid_sort_down_up_png": {
+      "x": 199,
+      "y": 671,
+      "w": 120,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 120,
+      "sourceH": 40
+    },
+    "warehouseid_sort_up_down_png": {
+      "x": 321,
+      "y": 671,
+      "w": 120,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 120,
+      "sourceH": 40
+    },
+    "warehouseid_sort_up_up_png": {
+      "x": 738,
+      "y": 671,
+      "w": 120,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 120,
+      "sourceH": 40
+    },
+    "warehouselvl_sort_down_down_png": {
+      "x": 1326,
+      "y": 646,
+      "w": 120,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 120,
+      "sourceH": 40
+    },
+    "warehouselvl_sort_down_up_png": {
+      "x": 616,
+      "y": 651,
+      "w": 120,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 120,
+      "sourceH": 40
+    },
+    "warehouselvl_sort_up_down_png": {
+      "x": 1020,
+      "y": 652,
+      "w": 120,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 120,
+      "sourceH": 40
+    },
+    "warehouselvl_sort_up_up_png": {
+      "x": 77,
+      "y": 654,
+      "w": 120,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 120,
+      "sourceH": 40
+    },
+    "warehousenew_btnattr_png": {
+      "x": 1285,
+      "y": 729,
+      "w": 108,
+      "h": 35,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 108,
+      "sourceH": 35
+    },
+    "WarehouseNew_petfactor_cbg_png": {
+      "x": 1,
+      "y": 730,
+      "w": 108,
+      "h": 35,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 108,
+      "sourceH": 35
+    },
+    "warehousetm_sort_down_down_png": {
+      "x": 1142,
+      "y": 454,
+      "w": 220,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 220,
+      "sourceH": 40
+    },
+    "warehousetm_sort_down_up_png": {
+      "x": 417,
+      "y": 456,
+      "w": 220,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 220,
+      "sourceH": 40
+    },
+    "warehousetm_sort_up_down_png": {
+      "x": 1672,
+      "y": 478,
+      "w": 220,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 220,
+      "sourceH": 40
+    },
+    "warehousetm_sort_up_up_png": {
+      "x": 639,
+      "y": 485,
+      "w": 220,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 220,
+      "sourceH": 40
+    },
+    "warehouse_img_down_png": {
+      "x": 825,
+      "y": 344,
+      "w": 18,
+      "h": 18,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 18,
+      "sourceH": 18
+    },
+    "warehouse_img_up_png": {
+      "x": 1437,
+      "y": 454,
+      "w": 18,
+      "h": 18,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 18,
+      "sourceH": 18
+    },
+    "warehouse_sort_bg_png": {
+      "x": 989,
+      "y": 837,
+      "w": 20,
+      "h": 20,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 20,
+      "sourceH": 20
+    }
+  }
+}

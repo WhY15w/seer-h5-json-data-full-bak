@@ -1,0 +1,16 @@
+{
+  "groups": [
+    {
+      "name": "peakJihadVote",
+      "keys": "peakJihadVote_sheet"
+    }
+  ],
+  "resources": [
+    {
+      "name": "peakJihadVote_sheet",
+      "type": "sheet",
+      "url": "peakJihadVote/peakJihadVote_sheet.json",
+      "subkeys": "PeakJihadVoteItem_bg_png,peakJihadVotePop_bg_png,peakJihadVotePop_bg4_png,peakJihadVotePop_btn0_png,peakJihadVotePop_btn1_png,peakJihadVotePop_btn2_png,peakJihadVotePop_btn3_png,peakJihadVotePop_btn4_png,peakJihadVotePop_btn5_png,peakJihadVotePop_btn6_png,peakJihadVotePop_btn7_png,peakJihadVotePop_btn8_png,peakJihadVotePop_btn9_png,peakJihadVotePop_delBtn_png,peakJihadVotePop_empty_png,peakJihadVotePop_searchBtn_png,peakJihadVotePop_texture_1_png,peakJihadVotePop_voteBtn_png,PeakJihadVote_bg2_png,PeakJihadVote_bg_big_png,PeakJihadVote_bg_small_png,PeakJihadVote_btnClose_png,PeakJihadVote_icon_1_png,PeakJihadVote_icon_10_png,PeakJihadVote_icon_2_png,PeakJihadVote_icon_3_png,PeakJihadVote_icon_4_png,PeakJihadVote_icon_5_png,PeakJihadVote_icon_6_png,PeakJihadVote_icon_7_png,PeakJihadVote_icon_8_png,PeakJihadVote_icon_9_png,PeakJihadVote_img_null_data_png,PeakJihadVote_progress_png,PeakJihadVote_progress_bg_png,PeakJihadVote_queBtn_png,PeakJihadVote_rankBtn_png,PeakJihadVote_texture_1_png,PeakJihadVote_title_quanjubanwei_png,PeakJihadVote_txt2_png,PeakJihadVote_voteBtn_png,PeakJihadVote_vote_bg_png,peak_jihad_confirm_pop_btnBack_png,peak_jihad_confirm_pop_btnVote_png,peak_jihad_confirm_pop_title_png,peak_jihad_vote_item_bg_png,peak_jihad_vote_item_iconbg_down_png,peak_jihad_vote_item_iconbg_up_png,peak_jihad_vote_item_icon_null_png"
+    }
+  ]
+}

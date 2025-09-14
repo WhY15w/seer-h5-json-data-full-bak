@@ -1,0 +1,21 @@
+{
+  "groups": [
+    {
+      "name": "national_day_sign_in2023",
+      "keys": "national_day_sign_in2023_sheet,national_day_sign_in2023_bg_png"
+    }
+  ],
+  "resources": [
+    {
+      "name": "national_day_sign_in2023_bg_png",
+      "type": "image",
+      "url": "national_day_sign_in2023/outside/national_day_sign_in2023_bg.png"
+    },
+    {
+      "name": "national_day_sign_in2023_sheet",
+      "type": "sheet",
+      "url": "national_day_sign_in2023/national_day_sign_in2023_sheet.json",
+      "subkeys": "national_day_sign_in2023_btnclose_png,national_day_sign_in2023_btnget_png,national_day_sign_in2023_btnget_7_png,national_day_sign_in2023_day1_png,national_day_sign_in2023_day2_png,national_day_sign_in2023_day3_png,national_day_sign_in2023_day4_png,national_day_sign_in2023_day5_png,national_day_sign_in2023_day6_png,national_day_sign_in2023_day7_png,national_day_sign_in2023_daybg_png,national_day_sign_in2023_default_png,national_day_sign_in2023_default_7_png,national_day_sign_in2023_hasgot_png,national_day_sign_in2023_hasgot_7_png,national_day_sign_in2023_iconbg_png,national_day_sign_in2023_skin_png,national_day_sign_in2023_tomorrow_png"
+    }
+  ]
+}

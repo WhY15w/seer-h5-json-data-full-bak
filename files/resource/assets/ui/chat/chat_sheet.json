@@ -1,0 +1,505 @@
+{
+  "file": "chat_sheet.png",
+  "frames": {
+    "chaticon_chaticon_png": {
+      "x": 1,
+      "y": 229,
+      "w": 98,
+      "h": 54,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 98,
+      "sourceH": 54
+    },
+    "chatMainb1_down_png": {
+      "x": 410,
+      "y": 190,
+      "w": 50,
+      "h": 32,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 50,
+      "sourceH": 32
+    },
+    "chatMainb1_up_png": {
+      "x": 451,
+      "y": 325,
+      "w": 23,
+      "h": 23,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 23,
+      "sourceH": 23
+    },
+    "chatMain_chatbg1_png": {
+      "x": 235,
+      "y": 357,
+      "w": 38,
+      "h": 35,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 38,
+      "sourceH": 35
+    },
+    "chatMain_head_png": {
+      "x": 410,
+      "y": 49,
+      "w": 56,
+      "h": 56,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 56,
+      "sourceH": 56
+    },
+    "chatMain_infoBg_png": {
+      "x": 495,
+      "y": 108,
+      "w": 12,
+      "h": 12,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 12,
+      "sourceH": 12
+    },
+    "chatMain_jubao_png": {
+      "x": 101,
+      "y": 262,
+      "w": 42,
+      "h": 22,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 42,
+      "sourceH": 22
+    },
+    "chatMain_pChatCloseBtn_png": {
+      "x": 422,
+      "y": 224,
+      "w": 40,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 40,
+      "sourceH": 40
+    },
+    "chatMain_tag1_png": {
+      "x": 421,
+      "y": 384,
+      "w": 40,
+      "h": 17,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 40,
+      "sourceH": 17
+    },
+    "chatMain_tag2_png": {
+      "x": 341,
+      "y": 385,
+      "w": 40,
+      "h": 17,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 40,
+      "sourceH": 17
+    },
+    "chatMain_tag3_png": {
+      "x": 185,
+      "y": 387,
+      "w": 40,
+      "h": 17,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 40,
+      "sourceH": 17
+    },
+    "chatMain_tag4_png": {
+      "x": 421,
+      "y": 365,
+      "w": 40,
+      "h": 17,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 40,
+      "sourceH": 17
+    },
+    "chatMain_txtbg1_png": {
+      "x": 495,
+      "y": 94,
+      "w": 12,
+      "h": 12,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 12,
+      "sourceH": 12
+    },
+    "chatSet_down_png": {
+      "x": 453,
+      "y": 107,
+      "w": 24,
+      "h": 24,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 24,
+      "sourceH": 24
+    },
+    "chat_emoticon_imgbg1_png": {
+      "x": 1,
+      "y": 325,
+      "w": 408,
+      "h": 30,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 408,
+      "sourceH": 30
+    },
+    "chat_emoticon_imgbg2_png": {
+      "x": 410,
+      "y": 156,
+      "w": 50,
+      "h": 32,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 50,
+      "sourceH": 32
+    },
+    "chat_emoticon_imgline_png": {
+      "x": 1,
+      "y": 426,
+      "w": 387,
+      "h": 1,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 387,
+      "sourceH": 1
+    },
+    "chat_main_btnback_png": {
+      "x": 454,
+      "y": 1,
+      "w": 20,
+      "h": 45,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 20,
+      "sourceH": 45
+    },
+    "chat_main_btnemoticon_png": {
+      "x": 310,
+      "y": 357,
+      "w": 29,
+      "h": 28,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 29,
+      "sourceH": 28
+    },
+    "chat_main_btnsend_png": {
+      "x": 185,
+      "y": 357,
+      "w": 48,
+      "h": 28,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 48,
+      "sourceH": 28
+    },
+    "chat_main_btnset_png": {
+      "x": 411,
+      "y": 325,
+      "w": 38,
+      "h": 38,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 38,
+      "sourceH": 38
+    },
+    "chat_main_imgbg_png": {
+      "x": 453,
+      "y": 133,
+      "w": 20,
+      "h": 20,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 20,
+      "sourceH": 20
+    },
+    "chat_main_imgbgicon_png": {
+      "x": 1,
+      "y": 1,
+      "w": 226,
+      "h": 226,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 226,
+      "sourceH": 226
+    },
+    "chat_main_imgbgline_png": {
+      "x": 480,
+      "y": 1,
+      "w": 13,
+      "h": 412,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 13,
+      "sourceH": 412
+    },
+    "chat_main_imgcdbg_png": {
+      "x": 495,
+      "y": 122,
+      "w": 12,
+      "h": 12,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 12,
+      "sourceH": 12
+    },
+    "chat_main_imgdownbg_png": {
+      "x": 495,
+      "y": 136,
+      "w": 12,
+      "h": 12,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 12,
+      "sourceH": 12
+    },
+    "chat_main_imginputbg_png": {
+      "x": 495,
+      "y": 61,
+      "w": 14,
+      "h": 17,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 14,
+      "sourceH": 17
+    },
+    "chat_main_imgleftbg_png": {
+      "x": 229,
+      "y": 1,
+      "w": 87,
+      "h": 286,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 87,
+      "sourceH": 286
+    },
+    "chat_main_imgprivateline_png": {
+      "x": 1,
+      "y": 423,
+      "w": 387,
+      "h": 1,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 387,
+      "sourceH": 1
+    },
+    "chat_main_imgreddot2_png": {
+      "x": 495,
+      "y": 43,
+      "w": 16,
+      "h": 16,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 16,
+      "sourceH": 16
+    },
+    "chat_main_rballdown_png": {
+      "x": 1,
+      "y": 357,
+      "w": 90,
+      "h": 64,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 90,
+      "sourceH": 64
+    },
+    "chat_main_rballup_png": {
+      "x": 381,
+      "y": 365,
+      "w": 38,
+      "h": 18,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 38,
+      "sourceH": 18
+    },
+    "chat_main_rbprivatedown_png": {
+      "x": 93,
+      "y": 357,
+      "w": 90,
+      "h": 64,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 90,
+      "sourceH": 64
+    },
+    "chat_main_rbprivateup_png": {
+      "x": 341,
+      "y": 357,
+      "w": 38,
+      "h": 18,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 38,
+      "sourceH": 18
+    },
+    "chat_main_rbpublicdown_png": {
+      "x": 318,
+      "y": 49,
+      "w": 90,
+      "h": 64,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 90,
+      "sourceH": 64
+    },
+    "chat_main_rbpublicup_png": {
+      "x": 145,
+      "y": 262,
+      "w": 38,
+      "h": 19,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 38,
+      "sourceH": 19
+    },
+    "chat_main_rbsystemdown_png": {
+      "x": 318,
+      "y": 115,
+      "w": 90,
+      "h": 64,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 90,
+      "sourceH": 64
+    },
+    "chat_main_rbsystemup_png": {
+      "x": 422,
+      "y": 266,
+      "w": 38,
+      "h": 18,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 38,
+      "sourceH": 18
+    },
+    "chat_main_rbteamdown_png": {
+      "x": 318,
+      "y": 181,
+      "w": 90,
+      "h": 64,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 90,
+      "sourceH": 64
+    },
+    "chat_main_rbteamup_png": {
+      "x": 185,
+      "y": 262,
+      "w": 38,
+      "h": 19,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 38,
+      "sourceH": 19
+    },
+    "chat_private_user_item_imgdown_png": {
+      "x": 101,
+      "y": 229,
+      "w": 102,
+      "h": 31,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 102,
+      "sourceH": 31
+    },
+    "chat_private_user_item_imgup_png": {
+      "x": 318,
+      "y": 247,
+      "w": 102,
+      "h": 31,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 102,
+      "sourceH": 31
+    },
+    "chat_setting_pop_btnclose_png": {
+      "x": 275,
+      "y": 357,
+      "w": 33,
+      "h": 33,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 33,
+      "sourceH": 33
+    },
+    "chat_setting_pop_img1_png": {
+      "x": 383,
+      "y": 385,
+      "w": 23,
+      "h": 23,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 23,
+      "sourceH": 23
+    },
+    "chat_setting_pop_imgbg_png": {
+      "x": 205,
+      "y": 229,
+      "w": 20,
+      "h": 25,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 20,
+      "sourceH": 25
+    },
+    "chat_setting_pop_imgbtn_png": {
+      "x": 318,
+      "y": 1,
+      "w": 134,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 134,
+      "sourceH": 46
+    },
+    "chat_setting_pop_imggou1_png": {
+      "x": 495,
+      "y": 80,
+      "w": 16,
+      "h": 12,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 16,
+      "sourceH": 12
+    },
+    "chat_setting_pop_imgtitlebg_png": {
+      "x": 1,
+      "y": 289,
+      "w": 477,
+      "h": 34,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 477,
+      "sourceH": 34
+    },
+    "main_bottomBg_line_png": {
+      "x": 495,
+      "y": 1,
+      "w": 13,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 13,
+      "sourceH": 40
+    },
+    "new_seer_lock2_png": {
+      "x": 410,
+      "y": 107,
+      "w": 41,
+      "h": 47,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 41,
+      "sourceH": 47
+    }
+  }
+}

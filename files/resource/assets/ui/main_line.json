@@ -1,0 +1,61 @@
+{
+  "groups": [
+    {
+      "name": "main_line",
+      "keys": "main_line_sheet,all_chapters_panel_atlas,all_chapters_panel_json,juqingguodu_atlas,juqingguodu_json,juqingwancheng_atlas,juqingwancheng_json,all_chapters_panel_png,juqingguodu_png,juqingwancheng_png"
+    }
+  ],
+  "resources": [
+    {
+      "name": "all_chapters_panel_atlas",
+      "type": "text",
+      "url": "main_line/outside/all_chapters_panel.atlas"
+    },
+    {
+      "name": "all_chapters_panel_json",
+      "type": "json",
+      "url": "main_line/outside/all_chapters_panel.json"
+    },
+    {
+      "name": "juqingguodu_atlas",
+      "type": "text",
+      "url": "main_line/outside/juqingguodu.atlas"
+    },
+    {
+      "name": "juqingguodu_json",
+      "type": "json",
+      "url": "main_line/outside/juqingguodu.json"
+    },
+    {
+      "name": "juqingwancheng_atlas",
+      "type": "text",
+      "url": "main_line/outside/juqingwancheng.atlas"
+    },
+    {
+      "name": "juqingwancheng_json",
+      "type": "json",
+      "url": "main_line/outside/juqingwancheng.json"
+    },
+    {
+      "name": "all_chapters_panel_png",
+      "type": "image",
+      "url": "main_line/outside/all_chapters_panel.png"
+    },
+    {
+      "name": "juqingguodu_png",
+      "type": "image",
+      "url": "main_line/outside/juqingguodu.png"
+    },
+    {
+      "name": "juqingwancheng_png",
+      "type": "image",
+      "url": "main_line/outside/juqingwancheng.png"
+    },
+    {
+      "name": "main_line_sheet",
+      "type": "sheet",
+      "url": "main_line/main_line_sheet.json",
+      "subkeys": "all_chapters_panel_btnback_png,all_chapters_panel_btnstart_png,all_chapters_panel_btnyongye_png,all_chapters_panel_img1_png,all_chapters_panel_img2_png,all_chapters_panel_img3_png,all_chapters_panel_img4_png,all_chapters_panel_img5_png,all_chapters_panel_img6_png,all_chapters_panel_img7_png,all_chapters_panel_imgoff_png,all_chapters_panel_imgreddot_png,all_chapters_panel_title_png,chapter_progress_item_img3_png,chapter_progress_item_imghas_png,chapter_progress_item_imgprocess_png,chapter_progress_pop_img1_png,chapter_progress_pop_img2_png,reward_collect_pop_imgcan_png,reward_collect_pop_imgmore_png,choice_item_imgbg_png,dialog_panel_btnhide_png,dialog_panel_btnreview_png,dialog_panel_btnshow_png,dialog_panel_img1_png,dialog_panel_img2_png,dialog_panel_img3_png,dialog_panel_imgauto_png,dialog_panel_imgline_png,dialog_panel_imgnamebg_png,dialog_panel_imgnext_png,dialog_panel_imgnotauto_png,dialog_panel_topright_png,dialog_panel_txtauto_png,main_line_btnreview_png,history_panel_btnclose_png,history_panel_img1_png,history_panel_img2_png,history_panel_imgbg_png,reward_collect_pop_imghasfirst_png,story_confirm_pop_btnstart_png,story_confirm_pop_img1_png,story_item_imgblue_png,story_item_imggrey_png,story_item_imgorange_png,story_overview_panel_img2_png,story_overview_panel_img3_png,story_overview_panel_img4_png,story_overview_panel_imgdottedline_png,story_overview_panel_imgline_png,story_overview_panel_imgpoint_png"
+    }
+  ]
+}

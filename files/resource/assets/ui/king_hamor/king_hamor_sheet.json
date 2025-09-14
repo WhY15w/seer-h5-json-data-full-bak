@@ -1,0 +1,1475 @@
+{
+  "file": "king_hamor_sheet.png",
+  "frames": {
+    "king_hamor_comic_pop_bg_png": {
+      "x": 1441,
+      "y": 394,
+      "w": 414,
+      "h": 104,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 414,
+      "sourceH": 104
+    },
+    "king_hamor_comic_pop_btnWatch_png": {
+      "x": 695,
+      "y": 971,
+      "w": 91,
+      "h": 91,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 91,
+      "sourceH": 91
+    },
+    "king_hamor_fetters_btnGo_0_png": {
+      "x": 1605,
+      "y": 676,
+      "w": 279,
+      "h": 83,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 279,
+      "sourceH": 83
+    },
+    "king_hamor_fetters_btnGo_1_png": {
+      "x": 1324,
+      "y": 676,
+      "w": 279,
+      "h": 83,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 279,
+      "sourceH": 83
+    },
+    "king_hamor_fetters_btnOpen_png": {
+      "x": 1885,
+      "y": 866,
+      "w": 130,
+      "h": 147,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 130,
+      "sourceH": 147
+    },
+    "king_hamor_fetters_bubble_png": {
+      "x": 1139,
+      "y": 394,
+      "w": 300,
+      "h": 155,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 300,
+      "sourceH": 155
+    },
+    "king_hamor_grp_level_btnPass_png": {
+      "x": 898,
+      "y": 1006,
+      "w": 156,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 156,
+      "sourceH": 40
+    },
+    "king_hamor_grp_level_comic_0_png": {
+      "x": 1535,
+      "y": 761,
+      "w": 172,
+      "h": 126,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 172,
+      "sourceH": 126
+    },
+    "king_hamor_grp_level_comic_1_png": {
+      "x": 1,
+      "y": 748,
+      "w": 171,
+      "h": 128,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 171,
+      "sourceH": 128
+    },
+    "king_hamor_grp_level_comic_2_png": {
+      "x": 931,
+      "y": 745,
+      "w": 172,
+      "h": 128,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 172,
+      "sourceH": 128
+    },
+    "king_hamor_grp_level_comic_3_png": {
+      "x": 757,
+      "y": 736,
+      "w": 172,
+      "h": 128,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 172,
+      "sourceH": 128
+    },
+    "king_hamor_grp_level_comic_4_png": {
+      "x": 347,
+      "y": 816,
+      "w": 171,
+      "h": 123,
+      "offX": 0,
+      "offY": 5,
+      "sourceW": 171,
+      "sourceH": 128
+    },
+    "king_hamor_grp_level_flag_selected_png": {
+      "x": 1709,
+      "y": 761,
+      "w": 174,
+      "h": 124,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 174,
+      "sourceH": 124
+    },
+    "king_hamor_grp_level_level_0_png": {
+      "x": 1105,
+      "y": 745,
+      "w": 171,
+      "h": 128,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 171,
+      "sourceH": 128
+    },
+    "king_hamor_grp_level_level_1_png": {
+      "x": 1278,
+      "y": 848,
+      "w": 171,
+      "h": 123,
+      "offX": 0,
+      "offY": 5,
+      "sourceW": 171,
+      "sourceH": 128
+    },
+    "king_hamor_grp_level_level_2_png": {
+      "x": 174,
+      "y": 814,
+      "w": 171,
+      "h": 125,
+      "offX": 0,
+      "offY": 3,
+      "sourceW": 171,
+      "sourceH": 128
+    },
+    "king_hamor_grp_level_level_3_png": {
+      "x": 520,
+      "y": 816,
+      "w": 171,
+      "h": 123,
+      "offX": 0,
+      "offY": 5,
+      "sourceW": 171,
+      "sourceH": 128
+    },
+    "king_hamor_grp_level_line_0_png": {
+      "x": 1278,
+      "y": 373,
+      "w": 63,
+      "h": 8,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 63,
+      "sourceH": 8
+    },
+    "king_hamor_grp_level_line_1_png": {
+      "x": 788,
+      "y": 971,
+      "w": 108,
+      "h": 72,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 108,
+      "sourceH": 72
+    },
+    "king_hamor_grp_level_line_3_png": {
+      "x": 1886,
+      "y": 676,
+      "w": 119,
+      "h": 188,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 119,
+      "sourceH": 188
+    },
+    "king_hamor_grp_level_line_5_png": {
+      "x": 1834,
+      "y": 500,
+      "w": 8,
+      "h": 72,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 8,
+      "sourceH": 72
+    },
+    "king_hamor_grp_level_line_7_png": {
+      "x": 131,
+      "y": 971,
+      "w": 135,
+      "h": 114,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 135,
+      "sourceH": 114
+    },
+    "king_hamor_level_0_beat_png": {
+      "x": 319,
+      "y": 646,
+      "w": 155,
+      "h": 166,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 155,
+      "sourceH": 166
+    },
+    "king_hamor_level_0_bg_png": {
+      "x": 2017,
+      "y": 620,
+      "w": 20,
+      "h": 640,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 20,
+      "sourceH": 640
+    },
+    "king_hamor_level_0_btnAdd_png": {
+      "x": 2000,
+      "y": 125,
+      "w": 36,
+      "h": 34,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 36,
+      "sourceH": 34
+    },
+    "king_hamor_level_0_btnChallenge1_png": {
+      "x": 787,
+      "y": 542,
+      "w": 177,
+      "h": 192,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 177,
+      "sourceH": 192
+    },
+    "king_hamor_level_0_btnChallenge2_png": {
+      "x": 966,
+      "y": 551,
+      "w": 177,
+      "h": 192,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 177,
+      "sourceH": 192
+    },
+    "king_hamor_level_0_btnChallenge3_png": {
+      "x": 1145,
+      "y": 551,
+      "w": 177,
+      "h": 192,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 177,
+      "sourceH": 192
+    },
+    "king_hamor_level_0_img_png": {
+      "x": 1027,
+      "y": 1,
+      "w": 355,
+      "h": 336,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 355,
+      "sourceH": 336
+    },
+    "king_hamor_level_0_imgBtn_cure_png": {
+      "x": 1419,
+      "y": 1094,
+      "w": 60,
+      "h": 60,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 60,
+      "sourceH": 60
+    },
+    "king_hamor_level_0_imgBtn_pet_png": {
+      "x": 1357,
+      "y": 1092,
+      "w": 60,
+      "h": 60,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 60,
+      "sourceH": 60
+    },
+    "king_hamor_level_0_numbg_png": {
+      "x": 1137,
+      "y": 339,
+      "w": 233,
+      "h": 32,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 233,
+      "sourceH": 32
+    },
+    "king_hamor_level_0_title_png": {
+      "x": 292,
+      "y": 1096,
+      "w": 110,
+      "h": 25,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 110,
+      "sourceH": 25
+    },
+    "king_hamor_level_1_bg1_png": {
+      "x": 681,
+      "y": 1134,
+      "w": 387,
+      "h": 6,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 387,
+      "sourceH": 6
+    },
+    "king_hamor_level_1_bg2_png": {
+      "x": 292,
+      "y": 1129,
+      "w": 387,
+      "h": 6,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 387,
+      "sourceH": 6
+    },
+    "king_hamor_level_1_btnFight_png": {
+      "x": 174,
+      "y": 748,
+      "w": 120,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 120,
+      "sourceH": 40
+    },
+    "king_hamor_level_1_btnSearch_png": {
+      "x": 426,
+      "y": 1006,
+      "w": 160,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 160,
+      "sourceH": 40
+    },
+    "king_hamor_level_1_btnStrong_png": {
+      "x": 268,
+      "y": 1054,
+      "w": 120,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 120,
+      "sourceH": 40
+    },
+    "king_hamor_level_1_head0_png": {
+      "x": 1451,
+      "y": 889,
+      "w": 129,
+      "h": 129,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 129,
+      "sourceH": 129
+    },
+    "king_hamor_level_1_head1_png": {
+      "x": 1049,
+      "y": 875,
+      "w": 129,
+      "h": 129,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 129,
+      "sourceH": 129
+    },
+    "king_hamor_level_1_head2_png": {
+      "x": 1709,
+      "y": 887,
+      "w": 129,
+      "h": 129,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 129,
+      "sourceH": 129
+    },
+    "king_hamor_level_1_icon_png": {
+      "x": 1840,
+      "y": 922,
+      "w": 23,
+      "h": 37,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 23,
+      "sourceH": 37
+    },
+    "king_hamor_level_1_img_vs_png": {
+      "x": 1481,
+      "y": 1094,
+      "w": 88,
+      "h": 38,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 88,
+      "sourceH": 38
+    },
+    "king_hamor_level_1_line_png": {
+      "x": 292,
+      "y": 1142,
+      "w": 435,
+      "h": 2,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 435,
+      "sourceH": 2
+    },
+    "king_hamor_level_1_numbg_png": {
+      "x": 1180,
+      "y": 984,
+      "w": 222,
+      "h": 32,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 222,
+      "sourceH": 32
+    },
+    "king_hamor_level_1_star_dark_png": {
+      "x": 2000,
+      "y": 161,
+      "w": 35,
+      "h": 32,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 35,
+      "sourceH": 32
+    },
+    "king_hamor_level_1_star_light_png": {
+      "x": 2000,
+      "y": 1,
+      "w": 47,
+      "h": 43,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 47,
+      "sourceH": 43
+    },
+    "king_hamor_level_1_title_png": {
+      "x": 1768,
+      "y": 1125,
+      "w": 110,
+      "h": 24,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 110,
+      "sourceH": 24
+    },
+    "king_hamor_level_2_bar_png": {
+      "x": 1137,
+      "y": 373,
+      "w": 139,
+      "h": 9,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 139,
+      "sourceH": 9
+    },
+    "king_hamor_level_2_barBg_png": {
+      "x": 1324,
+      "y": 604,
+      "w": 248,
+      "h": 11,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 248,
+      "sourceH": 11
+    },
+    "king_hamor_level_2_btnChallenge_png": {
+      "x": 1153,
+      "y": 1092,
+      "w": 100,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 100,
+      "sourceH": 40
+    },
+    "king_hamor_level_2_btnCompose_png": {
+      "x": 1324,
+      "y": 551,
+      "w": 102,
+      "h": 42,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 102,
+      "sourceH": 42
+    },
+    "king_hamor_level_2_flag_clear_png": {
+      "x": 1582,
+      "y": 889,
+      "w": 105,
+      "h": 105,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 105,
+      "sourceH": 105
+    },
+    "king_hamor_level_2_head0_png": {
+      "x": 1384,
+      "y": 132,
+      "w": 391,
+      "h": 129,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 391,
+      "sourceH": 129
+    },
+    "king_hamor_level_2_head1_png": {
+      "x": 1384,
+      "y": 263,
+      "w": 391,
+      "h": 129,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 391,
+      "sourceH": 129
+    },
+    "king_hamor_level_2_head2_png": {
+      "x": 1384,
+      "y": 1,
+      "w": 391,
+      "h": 129,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 391,
+      "sourceH": 129
+    },
+    "king_hamor_level_2_title_png": {
+      "x": 1768,
+      "y": 1098,
+      "w": 110,
+      "h": 25,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 110,
+      "sourceH": 25
+    },
+    "king_hamor_level_3_ball_0_dark_png": {
+      "x": 693,
+      "y": 816,
+      "w": 48,
+      "h": 48,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 48,
+      "sourceH": 48
+    },
+    "king_hamor_level_3_ball_0_light_png": {
+      "x": 588,
+      "y": 1006,
+      "w": 72,
+      "h": 72,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 72,
+      "sourceH": 72
+    },
+    "king_hamor_level_3_ball_1_dark_png": {
+      "x": 1056,
+      "y": 1006,
+      "w": 72,
+      "h": 72,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 72,
+      "sourceH": 72
+    },
+    "king_hamor_level_3_ball_1_light_png": {
+      "x": 1130,
+      "y": 1018,
+      "w": 72,
+      "h": 72,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 72,
+      "sourceH": 72
+    },
+    "king_hamor_level_3_ball_2_dark_png": {
+      "x": 1204,
+      "y": 1018,
+      "w": 72,
+      "h": 72,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 72,
+      "sourceH": 72
+    },
+    "king_hamor_level_3_ball_2_light_png": {
+      "x": 1278,
+      "y": 1018,
+      "w": 72,
+      "h": 72,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 72,
+      "sourceH": 72
+    },
+    "king_hamor_level_3_ball_3_dark_png": {
+      "x": 1352,
+      "y": 1018,
+      "w": 72,
+      "h": 72,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 72,
+      "sourceH": 72
+    },
+    "king_hamor_level_3_ball_3_light_png": {
+      "x": 1656,
+      "y": 1018,
+      "w": 72,
+      "h": 72,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 72,
+      "sourceH": 72
+    },
+    "king_hamor_level_3_ball_4_dark_png": {
+      "x": 1730,
+      "y": 1018,
+      "w": 72,
+      "h": 72,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 72,
+      "sourceH": 72
+    },
+    "king_hamor_level_3_ball_4_light_png": {
+      "x": 1426,
+      "y": 1020,
+      "w": 72,
+      "h": 72,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 72,
+      "sourceH": 72
+    },
+    "king_hamor_level_3_ball_5_dark_png": {
+      "x": 1500,
+      "y": 1020,
+      "w": 72,
+      "h": 72,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 72,
+      "sourceH": 72
+    },
+    "king_hamor_level_3_ball_5_light_png": {
+      "x": 788,
+      "y": 1045,
+      "w": 72,
+      "h": 72,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 72,
+      "sourceH": 72
+    },
+    "king_hamor_level_3_ball_6_dark_png": {
+      "x": 426,
+      "y": 1048,
+      "w": 72,
+      "h": 72,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 72,
+      "sourceH": 72
+    },
+    "king_hamor_level_3_ball_6_light_png": {
+      "x": 1582,
+      "y": 996,
+      "w": 72,
+      "h": 72,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 72,
+      "sourceH": 72
+    },
+    "king_hamor_level_3_btnDragon1_png": {
+      "x": 1857,
+      "y": 423,
+      "w": 180,
+      "h": 195,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 180,
+      "sourceH": 195
+    },
+    "king_hamor_level_3_btnDragon2_png": {
+      "x": 1857,
+      "y": 224,
+      "w": 180,
+      "h": 197,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 180,
+      "sourceH": 197
+    },
+    "king_hamor_level_3_btnSynthesis_png": {
+      "x": 1676,
+      "y": 1092,
+      "w": 90,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 90,
+      "sourceH": 40
+    },
+    "king_hamor_level_3_Dragonballbg_png": {
+      "x": 1777,
+      "y": 1,
+      "w": 221,
+      "h": 221,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 221,
+      "sourceH": 221
+    },
+    "king_hamor_level_3_icon_png": {
+      "x": 1840,
+      "y": 961,
+      "w": 28,
+      "h": 30,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 28,
+      "sourceH": 30
+    },
+    "king_hamor_level_3_title_png": {
+      "x": 1880,
+      "y": 1116,
+      "w": 109,
+      "h": 25,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 109,
+      "sourceH": 25
+    },
+    "king_hamor_level_3_xingxiebg_png": {
+      "x": 426,
+      "y": 971,
+      "w": 267,
+      "h": 33,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 267,
+      "sourceH": 33
+    },
+    "king_hamor_level_4_boss_0_png": {
+      "x": 1,
+      "y": 542,
+      "w": 391,
+      "h": 102,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 391,
+      "sourceH": 102
+    },
+    "king_hamor_level_4_boss_1_png": {
+      "x": 394,
+      "y": 542,
+      "w": 391,
+      "h": 102,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 391,
+      "sourceH": 102
+    },
+    "king_hamor_level_4_boss_2_png": {
+      "x": 1441,
+      "y": 500,
+      "w": 391,
+      "h": 102,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 391,
+      "sourceH": 102
+    },
+    "king_hamor_level_4_btnAdd_0_png": {
+      "x": 2000,
+      "y": 46,
+      "w": 36,
+      "h": 36,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 36,
+      "sourceH": 36
+    },
+    "king_hamor_level_4_btnChallenge_0_png": {
+      "x": 566,
+      "y": 1080,
+      "w": 90,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 90,
+      "sourceH": 40
+    },
+    "king_hamor_level_4_btnCoronation_png": {
+      "x": 1255,
+      "y": 1092,
+      "w": 100,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 100,
+      "sourceH": 40
+    },
+    "king_hamor_level_4_btnGet_png": {
+      "x": 1574,
+      "y": 1092,
+      "w": 100,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 100,
+      "sourceH": 40
+    },
+    "king_hamor_level_4_btnSummit_png": {
+      "x": 1804,
+      "y": 1054,
+      "w": 102,
+      "h": 42,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 102,
+      "sourceH": 42
+    },
+    "king_hamor_level_4_corwn_png": {
+      "x": 1027,
+      "y": 339,
+      "w": 108,
+      "h": 121,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 108,
+      "sourceH": 121
+    },
+    "king_hamor_level_4_flag_got_png": {
+      "x": 1840,
+      "y": 1015,
+      "w": 150,
+      "h": 37,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 150,
+      "sourceH": 37
+    },
+    "king_hamor_level_4_item_0_png": {
+      "x": 148,
+      "y": 878,
+      "w": 22,
+      "h": 43,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 22,
+      "sourceH": 43
+    },
+    "king_hamor_level_4_item_1_png": {
+      "x": 1840,
+      "y": 887,
+      "w": 29,
+      "h": 33,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 29,
+      "sourceH": 33
+    },
+    "king_hamor_level_4_item_2_png": {
+      "x": 2000,
+      "y": 84,
+      "w": 33,
+      "h": 39,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 33,
+      "sourceH": 39
+    },
+    "king_hamor_level_4_line_png": {
+      "x": 1574,
+      "y": 604,
+      "w": 195,
+      "h": 1,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 195,
+      "sourceH": 1
+    },
+    "king_hamor_level_4_title_png": {
+      "x": 98,
+      "y": 1129,
+      "w": 109,
+      "h": 24,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 109,
+      "sourceH": 24
+    },
+    "king_hamor_level_btnBack_png": {
+      "x": 729,
+      "y": 1064,
+      "w": 55,
+      "h": 61,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 55,
+      "sourceH": 61
+    },
+    "king_hamor_level_flag_pass_png": {
+      "x": 268,
+      "y": 971,
+      "w": 156,
+      "h": 81,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 156,
+      "sourceH": 81
+    },
+    "king_hamor_pop_btnClose_png": {
+      "x": 234,
+      "y": 1096,
+      "w": 56,
+      "h": 56,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 56,
+      "sourceH": 56
+    },
+    "king_hamor_pop_btnFetters_png": {
+      "x": 1,
+      "y": 971,
+      "w": 128,
+      "h": 128,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 128,
+      "sourceH": 128
+    },
+    "king_hamor_pop_btnFree_png": {
+      "x": 476,
+      "y": 646,
+      "w": 288,
+      "h": 83,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 288,
+      "sourceH": 83
+    },
+    "king_hamor_pop_btnInfo_png": {
+      "x": 1777,
+      "y": 312,
+      "w": 74,
+      "h": 74,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 74,
+      "sourceH": 74
+    },
+    "king_hamor_pop_btnKing_png": {
+      "x": 914,
+      "y": 875,
+      "w": 133,
+      "h": 128,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 133,
+      "sourceH": 128
+    },
+    "king_hamor_pop_btnOneTap_png": {
+      "x": 1,
+      "y": 646,
+      "w": 316,
+      "h": 100,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 316,
+      "sourceH": 100
+    },
+    "king_hamor_pop_btnThree_png": {
+      "x": 476,
+      "y": 731,
+      "w": 279,
+      "h": 83,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 279,
+      "sourceH": 83
+    },
+    "king_hamor_pop_bubble_png": {
+      "x": 1278,
+      "y": 761,
+      "w": 255,
+      "h": 85,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 255,
+      "sourceH": 85
+    },
+    "king_hamor_pop_flag_got_png": {
+      "x": 713,
+      "y": 866,
+      "w": 199,
+      "h": 103,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 199,
+      "sourceH": 103
+    },
+    "king_hamor_pop_up_bg_png": {
+      "x": 1,
+      "y": 878,
+      "w": 145,
+      "h": 50,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 145,
+      "sourceH": 50
+    },
+    "king_hamor_sign_bigTitle_png": {
+      "x": 1324,
+      "y": 620,
+      "w": 604,
+      "h": 54,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 604,
+      "sourceH": 54
+    },
+    "king_hamor_sign_btnCompensate_png": {
+      "x": 1050,
+      "y": 1092,
+      "w": 101,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 101,
+      "sourceH": 40
+    },
+    "king_hamor_sign_btnGet_png": {
+      "x": 131,
+      "y": 1087,
+      "w": 101,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 101,
+      "sourceH": 40
+    },
+    "king_hamor_sign_btnOneTap_png": {
+      "x": 862,
+      "y": 1090,
+      "w": 101,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 101,
+      "sourceH": 40
+    },
+    "king_hamor_sign_btnSign_png": {
+      "x": 1930,
+      "y": 620,
+      "w": 80,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 80,
+      "sourceH": 40
+    },
+    "king_hamor_sign_day_1_png": {
+      "x": 1933,
+      "y": 1143,
+      "w": 51,
+      "h": 21,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 51,
+      "sourceH": 21
+    },
+    "king_hamor_sign_day_10_png": {
+      "x": 793,
+      "y": 1142,
+      "w": 62,
+      "h": 21,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 62,
+      "sourceH": 21
+    },
+    "king_hamor_sign_day_11_png": {
+      "x": 857,
+      "y": 1142,
+      "w": 62,
+      "h": 21,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 62,
+      "sourceH": 21
+    },
+    "king_hamor_sign_day_12_png": {
+      "x": 174,
+      "y": 790,
+      "w": 62,
+      "h": 21,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 62,
+      "sourceH": 21
+    },
+    "king_hamor_sign_day_13_png": {
+      "x": 238,
+      "y": 790,
+      "w": 62,
+      "h": 21,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 62,
+      "sourceH": 21
+    },
+    "king_hamor_sign_day_14_png": {
+      "x": 1,
+      "y": 1132,
+      "w": 62,
+      "h": 21,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 62,
+      "sourceH": 21
+    },
+    "king_hamor_sign_day_15_png": {
+      "x": 1176,
+      "y": 1134,
+      "w": 62,
+      "h": 21,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 62,
+      "sourceH": 21
+    },
+    "king_hamor_sign_day_16_png": {
+      "x": 1240,
+      "y": 1134,
+      "w": 62,
+      "h": 21,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 62,
+      "sourceH": 21
+    },
+    "king_hamor_sign_day_17_png": {
+      "x": 1481,
+      "y": 1134,
+      "w": 62,
+      "h": 21,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 62,
+      "sourceH": 21
+    },
+    "king_hamor_sign_day_18_png": {
+      "x": 1545,
+      "y": 1134,
+      "w": 62,
+      "h": 21,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 62,
+      "sourceH": 21
+    },
+    "king_hamor_sign_day_19_png": {
+      "x": 1609,
+      "y": 1134,
+      "w": 62,
+      "h": 21,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 62,
+      "sourceH": 21
+    },
+    "king_hamor_sign_day_2_png": {
+      "x": 292,
+      "y": 1146,
+      "w": 51,
+      "h": 21,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 51,
+      "sourceH": 21
+    },
+    "king_hamor_sign_day_20_png": {
+      "x": 1673,
+      "y": 1134,
+      "w": 62,
+      "h": 21,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 62,
+      "sourceH": 21
+    },
+    "king_hamor_sign_day_21_png": {
+      "x": 729,
+      "y": 1142,
+      "w": 62,
+      "h": 21,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 62,
+      "sourceH": 21
+    },
+    "king_hamor_sign_day_3_png": {
+      "x": 345,
+      "y": 1146,
+      "w": 51,
+      "h": 21,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 51,
+      "sourceH": 21
+    },
+    "king_hamor_sign_day_4_png": {
+      "x": 398,
+      "y": 1146,
+      "w": 51,
+      "h": 21,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 51,
+      "sourceH": 21
+    },
+    "king_hamor_sign_day_5_png": {
+      "x": 451,
+      "y": 1146,
+      "w": 51,
+      "h": 21,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 51,
+      "sourceH": 21
+    },
+    "king_hamor_sign_day_6_png": {
+      "x": 1304,
+      "y": 1134,
+      "w": 51,
+      "h": 21,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 51,
+      "sourceH": 21
+    },
+    "king_hamor_sign_day_7_png": {
+      "x": 921,
+      "y": 1142,
+      "w": 51,
+      "h": 21,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 51,
+      "sourceH": 21
+    },
+    "king_hamor_sign_day_8_png": {
+      "x": 974,
+      "y": 1142,
+      "w": 51,
+      "h": 21,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 51,
+      "sourceH": 21
+    },
+    "king_hamor_sign_day_9_png": {
+      "x": 1880,
+      "y": 1143,
+      "w": 51,
+      "h": 21,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 51,
+      "sourceH": 21
+    },
+    "king_hamor_sign_di_png": {
+      "x": 1,
+      "y": 1,
+      "w": 1024,
+      "h": 465,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 1024,
+      "sourceH": 465
+    },
+    "king_hamor_sign_flag_got_png": {
+      "x": 1,
+      "y": 1101,
+      "w": 95,
+      "h": 29,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 95,
+      "sourceH": 29
+    },
+    "king_hamor_sign_flag_signed_png": {
+      "x": 1451,
+      "y": 848,
+      "w": 72,
+      "h": 29,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 72,
+      "sourceH": 29
+    },
+    "king_hamor_sign_line_0_png": {
+      "x": 1278,
+      "y": 383,
+      "w": 65,
+      "h": 7,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 65,
+      "sourceH": 7
+    },
+    "king_hamor_sign_line_1_png": {
+      "x": 2039,
+      "y": 423,
+      "w": 7,
+      "h": 89,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 7,
+      "sourceH": 89
+    },
+    "king_hamor_sign_rect_0_png": {
+      "x": 500,
+      "y": 1048,
+      "w": 64,
+      "h": 73,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 64,
+      "sourceH": 73
+    },
+    "king_hamor_sign_rect_1_png": {
+      "x": 1180,
+      "y": 875,
+      "w": 93,
+      "h": 107,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 93,
+      "sourceH": 107
+    },
+    "king_hamor_sign_title_png": {
+      "x": 1070,
+      "y": 1134,
+      "w": 104,
+      "h": 24,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 104,
+      "sourceH": 24
+    },
+    "king_hamor_sign_txtbg_png": {
+      "x": 1,
+      "y": 941,
+      "w": 710,
+      "h": 28,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 710,
+      "sourceH": 28
+    },
+    "king_hamor_sign_up_bg_png": {
+      "x": 1,
+      "y": 468,
+      "w": 1136,
+      "h": 72,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 1136,
+      "sourceH": 72
+    },
+    "king_hamor_three_pop_btnBuy_png": {
+      "x": 862,
+      "y": 1048,
+      "w": 120,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 120,
+      "sourceH": 40
+    },
+    "king_hamor_three_pop_icon_0_png": {
+      "x": 662,
+      "y": 1064,
+      "w": 65,
+      "h": 63,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 65,
+      "sourceH": 63
+    },
+    "king_hamor_three_pop_icon_1_png": {
+      "x": 984,
+      "y": 1048,
+      "w": 64,
+      "h": 67,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 64,
+      "sourceH": 67
+    },
+    "king_hamor_three_pop_icon_2_png": {
+      "x": 1908,
+      "y": 1054,
+      "w": 69,
+      "h": 60,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 69,
+      "sourceH": 60
+    },
+    "king_hamor_three_pop_line_png": {
+      "x": 2039,
+      "y": 46,
+      "w": 2,
+      "h": 375,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 2,
+      "sourceH": 375
+    },
+    "king_hamor_three_pop_rect_png": {
+      "x": 1777,
+      "y": 224,
+      "w": 75,
+      "h": 86,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 75,
+      "sourceH": 86
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "resources": [
+    {
+      "type": "json",
+      "url": "29.json",
+      "name": "road_29"
+    },
+    {
+      "type": "text",
+      "url": "Map29Skin.exml",
+      "name": "exml_29"
+    },
+    {
+      "type": "image",
+      "url": "map_29_bg_mc.jpg",
+      "name": "map_29_bg_mc_jpg"
+    },
+    {
+      "type": "image",
+      "url": "map_29_a.png",
+      "name": "map_29_a_png"
+    },
+    {
+      "type": "image",
+      "url": "map_29_top_mc.png",
+      "name": "map_29_top_mc_png"
+    }
+  ],
+  "groups": [
+    {
+      "keys": "road_29,exml_29,map_29_bg_mc_jpg,map_29_a_png,map_29_top_mc_png",
+      "name": "map_29"
+    }
+  ]
+}

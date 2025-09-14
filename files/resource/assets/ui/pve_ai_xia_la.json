@@ -1,0 +1,71 @@
+{
+  "groups": [
+    {
+      "name": "pve_ai_xia_la",
+      "keys": "pve_ai_xia_la_sheet,aixiala_ske_json,aixiala_tex_json,aixiala_tex_png,pve_ai_xia_la-main_pet_png,pve_ai_xia_la_battle_pop_bg2_png,pve_ai_xia_la_battle_pop_fightbg_png,pve_ai_xia_la_battle_pop_petStyle_png,pve_ai_xia_la_level1_pet_png,pve_ai_xia_la_level3_bg_png,pve_ai_xia_la_level3_pet_png,pve_ai_xia_la_leveltask_zu_6_png"
+    }
+  ],
+  "resources": [
+    {
+      "name": "aixiala_ske_json",
+      "type": "json",
+      "url": "pve_ai_xia_la/outside/aixiala_ske.json"
+    },
+    {
+      "name": "aixiala_tex_json",
+      "type": "json",
+      "url": "pve_ai_xia_la/outside/aixiala_tex.json"
+    },
+    {
+      "name": "aixiala_tex_png",
+      "type": "image",
+      "url": "pve_ai_xia_la/outside/aixiala_tex.png"
+    },
+    {
+      "name": "pve_ai_xia_la-main_pet_png",
+      "type": "image",
+      "url": "pve_ai_xia_la/outside/pve_ai_xia_la-main_pet.png"
+    },
+    {
+      "name": "pve_ai_xia_la_battle_pop_bg2_png",
+      "type": "image",
+      "url": "pve_ai_xia_la/outside/pve_ai_xia_la_battle_pop_bg2.png"
+    },
+    {
+      "name": "pve_ai_xia_la_battle_pop_fightbg_png",
+      "type": "image",
+      "url": "pve_ai_xia_la/outside/pve_ai_xia_la_battle_pop_fightbg.png"
+    },
+    {
+      "name": "pve_ai_xia_la_battle_pop_petStyle_png",
+      "type": "image",
+      "url": "pve_ai_xia_la/outside/pve_ai_xia_la_battle_pop_petStyle.png"
+    },
+    {
+      "name": "pve_ai_xia_la_level1_pet_png",
+      "type": "image",
+      "url": "pve_ai_xia_la/outside/pve_ai_xia_la_level1_pet.png"
+    },
+    {
+      "name": "pve_ai_xia_la_level3_bg_png",
+      "type": "image",
+      "url": "pve_ai_xia_la/outside/pve_ai_xia_la_level3_bg.png"
+    },
+    {
+      "name": "pve_ai_xia_la_level3_pet_png",
+      "type": "image",
+      "url": "pve_ai_xia_la/outside/pve_ai_xia_la_level3_pet.png"
+    },
+    {
+      "name": "pve_ai_xia_la_leveltask_zu_6_png",
+      "type": "image",
+      "url": "pve_ai_xia_la/outside/pve_ai_xia_la_leveltask_zu_6.png"
+    },
+    {
+      "name": "pve_ai_xia_la_sheet",
+      "type": "sheet",
+      "url": "pve_ai_xia_la/pve_ai_xia_la_sheet.json",
+      "subkeys": "pve_ai_xia_la-main_btnBuy_png,pve_ai_xia_la-main_btnClose_png,pve_ai_xia_la-main_btnInfo_png,pve_ai_xia_la-main_done_png,pve_ai_xia_la-main_help_png,pve_ai_xia_la-main_level1_png,pve_ai_xia_la-main_level2_png,pve_ai_xia_la-main_level3_png,pve_ai_xia_la-main_level4_png,pve_ai_xia_la-main_title_png,pve_ai_xia_la-main_tm_png,pve_ai_xia_la-main_up_bg_png,pve_ai_xia_la_battle_pop_btnClose_png,pve_ai_xia_la_battle_pop_imgBtn_cure_png,pve_ai_xia_la_battle_pop_imgBtn_pet_png,pve_ai_xia_la_battle_pop_imgtitle_png,pve_ai_xia_la_battle_pop_titlebg_png,pve_ai_xia_la_enery_level1_mrzl_png,pve_ai_xia_la_enery_level1_yhd_png,pve_ai_xia_la_enery_up_panel_flagYhd_png,pve_ai_xia_la_level1_btnClose_png,pve_ai_xia_la_level1_desc_png,pve_ai_xia_la_level1_juxing_5_png,pve_ai_xia_la_level1_task1_png,pve_ai_xia_la_level1_task2_png,pve_ai_xia_la_level1_task3_png,pve_ai_xia_la_level1_title_png,pve_ai_xia_la_level1_up_bg_png,pve_ai_xia_la_level2_b1_png,pve_ai_xia_la_level2_b2_png,pve_ai_xia_la_level2_b3_png,pve_ai_xia_la_level2_b4_png,pve_ai_xia_la_level2_b5_png,pve_ai_xia_la_level2_b6_png,pve_ai_xia_la_level2_b7_png,pve_ai_xia_la_level2_b8_png,pve_ai_xia_la_level2_btnClose_png,pve_ai_xia_la_level2_btnFight_png,pve_ai_xia_la_level2_daifaxian_png,pve_ai_xia_la_level2_dot_png,pve_ai_xia_la_level2_icon_png,pve_ai_xia_la_level2_infobg_png,pve_ai_xia_la_level2_itemkuang_png,pve_ai_xia_la_level2_juxing_5_png,pve_ai_xia_la_level2_juxing_asd_png,pve_ai_xia_la_level2_numbg_png,pve_ai_xia_la_level2_selected_png,pve_ai_xia_la_level2_t_png,pve_ai_xia_la_level2_title_png,pve_ai_xia_la_level2_up_bg_png,pve_ai_xia_la_level2_xiansuo_1_png,pve_ai_xia_la_level2_xiansuo_2_png,pve_ai_xia_la_level2_xiansuo_3_png,pve_ai_xia_la_level2_xiansuo_4_png,pve_ai_xia_la_level2_xinwubg_png,pve_ai_xia_la_level3_btnClose_png,pve_ai_xia_la_level3_btnFight_png,pve_ai_xia_la_level3_btnOnefight_png,pve_ai_xia_la_level3_dot_png,pve_ai_xia_la_level3_imgBtn_cure_png,pve_ai_xia_la_level3_imgBtn_pet_png,pve_ai_xia_la_level3_imgNand_png,pve_ai_xia_la_level3_star_png,pve_ai_xia_la_level3_title_png,pve_ai_xia_la_level3_tt_png,pve_ai_xia_la_level3_unstar__png,pve_ai_xia_la_level3_up_bg_png,pve_ai_xia_la_level4_1d_png,pve_ai_xia_la_level4_1l_png,pve_ai_xia_la_level4_2d_png,pve_ai_xia_la_level4_2l_png,pve_ai_xia_la_level4_3d_png,pve_ai_xia_la_level4_3l_png,pve_ai_xia_la_level4_4d_png,pve_ai_xia_la_level4_4l_png,pve_ai_xia_la_level4_5d_png,pve_ai_xia_la_level4_5l_png,pve_ai_xia_la_level4_6d_png,pve_ai_xia_la_level4_6l_png,pve_ai_xia_la_level4_btnClose_png,pve_ai_xia_la_level4_info_png,pve_ai_xia_la_level4_juxing_5_png,pve_ai_xia_la_level4_shuijing_png,pve_ai_xia_la_level4_title_png,pve_ai_xia_la_level4_unshuijing_png,pve_ai_xia_la_level4_up_bg_png,pve_ai_xia_la_level5_title_png,pve_ai_xia_la_leveltask_2_png,pve_ai_xia_la_leveltask_btnClose_1_png,pve_ai_xia_la_leveltask_jiantou_png,pve_ai_xia_la_leveltask_mubiaobg_2_png,pve_ai_xia_la_leveltask_s_png,pve_ai_xia_la_leveltask_t1_png,pve_ai_xia_la_leveltask_t2_png,pve_ai_xia_la_leveltask_t3_png,pve_ai_xia_la_leveltask_yzs_png,pve_ai_xia_la_upEnergy_btnAdd_png,pve_ai_xia_la_upEnergy_btnClose_png,pve_ai_xia_la_upEnergy_ckyn_png,pve_ai_xia_la_upEnergy_icon_png,pve_ai_xia_la_upEnergy_icon_1_png,pve_ai_xia_la_upEnergy_icon_mark_png,pve_ai_xia_la_upEnergy_icon_texing_png,pve_ai_xia_la_upEnergy_imgBtn_cure_png,pve_ai_xia_la_upEnergy_imgBtn_pet_png,pve_ai_xia_la_upEnergy_itemkuang_png,pve_ai_xia_la_upEnergy_leftbg_png,pve_ai_xia_la_upEnergy_numbg_png,pve_ai_xia_la_upEnergy_pet_png,pve_ai_xia_la_upEnergy_petbg_png,pve_ai_xia_la_upEnergy_roundbg_png,pve_ai_xia_la_upEnergy_t2_png,pve_ai_xia_la_upEnergy_tipsbg_png,pve_ai_xia_la_upEnergy_titlebg_png,pve_ai_xia_la_upEnergy_up_bg_png"
+    }
+  ]
+}

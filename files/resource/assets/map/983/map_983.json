@@ -1,0 +1,25 @@
+{
+  "groups": [
+    {
+      "keys": "road_983,exml_983,map_983_bg_mc_jpg",
+      "name": "map_983"
+    }
+  ],
+  "resources": [
+    {
+      "type": "json",
+      "url": "983.json",
+      "name": "road_983"
+    },
+    {
+      "type": "text",
+      "url": "Map983Skin.exml",
+      "name": "exml_983"
+    },
+    {
+      "type": "image",
+      "url": "map_983_bg_mc.jpg",
+      "name": "map_983_bg_mc_jpg"
+    }
+  ]
+}

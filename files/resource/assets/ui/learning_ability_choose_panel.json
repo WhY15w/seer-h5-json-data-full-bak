@@ -1,0 +1,16 @@
+{
+  "groups": [
+    {
+      "name": "learning_ability_choose_panel",
+      "keys": "learning_ability_choose_panel_sheet"
+    }
+  ],
+  "resources": [
+    {
+      "name": "learning_ability_choose_panel_sheet",
+      "type": "sheet",
+      "url": "learning_ability_choose_panel/learning_ability_choose_panel_sheet.json",
+      "subkeys": "study_attribute_select_pop_bg_png,study_attribute_select_pop_btn1_png,study_attribute_select_pop_btn1up_png,study_attribute_select_pop_btn2_png,study_attribute_select_pop_btn2up_png,study_attribute_select_pop_btn3_png,study_attribute_select_pop_btn3up_png,study_attribute_select_pop_btn4_png,study_attribute_select_pop_btn4up_png,study_attribute_select_pop_btn5_png,study_attribute_select_pop_btn5up_png,study_attribute_select_pop_btn6_png,study_attribute_select_pop_btn6up_png,study_attribute_select_pop_btnclose_png,study_attribute_select_pop_btnconfirm_png"
+    }
+  ]
+}

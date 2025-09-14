@@ -1,0 +1,111 @@
+{
+  "groups": [
+    {
+      "name": "god_of_earth_cassius",
+      "keys": "god_of_earth_cassius_sheet,dadizhishenka_atlas,dadizhishenka_json,huodedaoju_atlas,huodedaoju_json,star_atlas,star_json,dadizhishenka_png,goec_mainpanel_bg_jpg,goec_panel1_bg_jpg,goec_panel2_pet1_png,goec_panel2_pet2_png,goec_panel2_pet3_png,goec_panel2_pet4_png,goec_panel2_pet5_png,goec_panel2_pet6_png,goec_panel2_pet7_png,goec_panel3_bg_jpg,huodedaoju_png,star_png"
+    }
+  ],
+  "resources": [
+    {
+      "name": "dadizhishenka_atlas",
+      "type": "text",
+      "url": "god_of_earth_cassius/outside/dadizhishenka.atlas"
+    },
+    {
+      "name": "dadizhishenka_json",
+      "type": "json",
+      "url": "god_of_earth_cassius/outside/dadizhishenka.json"
+    },
+    {
+      "name": "huodedaoju_atlas",
+      "type": "text",
+      "url": "god_of_earth_cassius/outside/huodedaoju.atlas"
+    },
+    {
+      "name": "huodedaoju_json",
+      "type": "json",
+      "url": "god_of_earth_cassius/outside/huodedaoju.json"
+    },
+    {
+      "name": "star_atlas",
+      "type": "text",
+      "url": "god_of_earth_cassius/outside/star.atlas"
+    },
+    {
+      "name": "star_json",
+      "type": "json",
+      "url": "god_of_earth_cassius/outside/star.json"
+    },
+    {
+      "name": "dadizhishenka_png",
+      "type": "image",
+      "url": "god_of_earth_cassius/outside/dadizhishenka.png"
+    },
+    {
+      "name": "goec_mainpanel_bg_jpg",
+      "type": "image",
+      "url": "god_of_earth_cassius/outside/goec_mainpanel_bg.jpg"
+    },
+    {
+      "name": "goec_panel1_bg_jpg",
+      "type": "image",
+      "url": "god_of_earth_cassius/outside/goec_panel1_bg.jpg"
+    },
+    {
+      "name": "goec_panel2_pet1_png",
+      "type": "image",
+      "url": "god_of_earth_cassius/outside/goec_panel2_pet1.png"
+    },
+    {
+      "name": "goec_panel2_pet2_png",
+      "type": "image",
+      "url": "god_of_earth_cassius/outside/goec_panel2_pet2.png"
+    },
+    {
+      "name": "goec_panel2_pet3_png",
+      "type": "image",
+      "url": "god_of_earth_cassius/outside/goec_panel2_pet3.png"
+    },
+    {
+      "name": "goec_panel2_pet4_png",
+      "type": "image",
+      "url": "god_of_earth_cassius/outside/goec_panel2_pet4.png"
+    },
+    {
+      "name": "goec_panel2_pet5_png",
+      "type": "image",
+      "url": "god_of_earth_cassius/outside/goec_panel2_pet5.png"
+    },
+    {
+      "name": "goec_panel2_pet6_png",
+      "type": "image",
+      "url": "god_of_earth_cassius/outside/goec_panel2_pet6.png"
+    },
+    {
+      "name": "goec_panel2_pet7_png",
+      "type": "image",
+      "url": "god_of_earth_cassius/outside/goec_panel2_pet7.png"
+    },
+    {
+      "name": "goec_panel3_bg_jpg",
+      "type": "image",
+      "url": "god_of_earth_cassius/outside/goec_panel3_bg.jpg"
+    },
+    {
+      "name": "huodedaoju_png",
+      "type": "image",
+      "url": "god_of_earth_cassius/outside/huodedaoju.png"
+    },
+    {
+      "name": "star_png",
+      "type": "image",
+      "url": "god_of_earth_cassius/outside/star.png"
+    },
+    {
+      "name": "god_of_earth_cassius_sheet",
+      "type": "sheet",
+      "url": "god_of_earth_cassius/god_of_earth_cassius_sheet.json",
+      "subkeys": "goec_mainpanel_btncollect_png,goec_mainpanel_btncollected_png,goec_mainpanel_btnInfo_png,goec_mainpanel_btnjuexing_png,goec_mainpanel_btnlingqu_png,goec_mainpanel_btnsuper_png,goec_mainpanel_dsmy_png,goec_mainpanel_dszn_png,goec_mainpanel_stms_png,goec_mainpanel_ti1_png,goec_mainpanel_ti2_png,goec_mainpanel_yiwancheng_png,goec_mainpanel_zu_2_png,goec_panel1_1705202_png,goec_panel1_a_png,goec_panel1_add_png,goec_panel1_btnfight_png,goec_panel1_btngo2_png,goec_panel1_btnonekey_png,goec_panel1_hasSign_png,goec_panel1_img_blue_reddot_png,goec_panel1_jlbb_png,goec_panel1_jlhf_png,goec_panel1_juxing_904_png,goec_panel1_juxing_907_png,goec_panel1_jx_20_kb_2_png,goec_panel1_jx_907_kb_png,goec_panel1_mrqd_png,goec_panel1_SE_png,goec_panel1_stms_png,goec_panel1_tuceng_19_png,goec_panel1_tzkxs_png,goec_panel1_xz_1_png,goec_panel1_xz_2_png,goec_panel1_xz_3_png,goec_panel1_xz_4_png,goec_panel1_xz_7_png,goec_panel1_xz_9_png,goec_panel1_yitongguo_png,goec_panel1_zu_2_png,goec_panel1_zu_4_png,goec_panel1_zu_6_png,goec_panel1_zu_7_png,goec_panel2_1_png,goec_panel2_1705202_png,goec_panel2_2_png,goec_panel2_3_png,goec_panel2_4_png,goec_panel2_5_png,goec_panel2_6_png,goec_panel2_7_png,goec_panel2_add_png,goec_panel2_benfast_png,goec_panel2_btnfight_png,goec_panel2_dbx_2_png,goec_panel2_gou_png,goec_panel2_goup_star_png,goec_panel2_icon_gold_png,goec_panel2_jlbb_png,goec_panel2_jlhf_png,goec_panel2_juxing_904_png,goec_panel2_jx_20_kb_2_png,goec_panel2_jx_904_kb_png,goec_panel2_kuang_png,goec_panel2_starbg2_png,goec_panel2_stms_png,goec_panel2_tuoyuan_1_png,goec_panel2_txtlabel_png,goec_panel2_tzhd_png,goec_panel2_zu_2_png,goec_panel2_zu_7_png,goec_panel3_40406_png,goec_panel3_btnbuy_png,goec_panel3_btnfight_png,goec_panel3_btnonekey_png,goec_panel3_di_png,goec_panel3_diwujineng_png,goec_panel3_jindu_png,goec_panel3_jlbb_png,goec_panel3_jlhf_png,goec_panel3_juxing_904_png,goec_panel3_jx_907_kb_png,goec_panel3_kejihuo_png,goec_panel3_kjh_kb_png,goec_panel3_stms_png,goec_panel3_txtlabel_png,goec_panel3_zstx_png,goec_panel3_zu_8_png,goec_panel3_zu_9_png"
+    }
+  ]
+}

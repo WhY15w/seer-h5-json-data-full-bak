@@ -1,0 +1,51 @@
+{
+  "groups": [
+    {
+      "name": "battleResultPanel",
+      "keys": "battleResultPanel_sheet,battleResult_atlas,battleResult_json,H5_shengli_ske_json,H5_shengli_tex_json,battleResult_png,battleResult_title_png,H5_shengli_tex_png"
+    }
+  ],
+  "resources": [
+    {
+      "name": "battleResult_atlas",
+      "type": "text",
+      "url": "battleResultPanel/outside/battleResult.atlas"
+    },
+    {
+      "name": "battleResult_json",
+      "type": "json",
+      "url": "battleResultPanel/outside/battleResult.json"
+    },
+    {
+      "name": "H5_shengli_ske_json",
+      "type": "json",
+      "url": "battleResultPanel/outside/H5_shengli_ske.json"
+    },
+    {
+      "name": "H5_shengli_tex_json",
+      "type": "json",
+      "url": "battleResultPanel/outside/H5_shengli_tex.json"
+    },
+    {
+      "name": "battleResult_png",
+      "type": "image",
+      "url": "battleResultPanel/outside/battleResult.png"
+    },
+    {
+      "name": "battleResult_title_png",
+      "type": "image",
+      "url": "battleResultPanel/outside/battleResult_title.png"
+    },
+    {
+      "name": "H5_shengli_tex_png",
+      "type": "image",
+      "url": "battleResultPanel/outside/H5_shengli_tex.png"
+    },
+    {
+      "name": "battleResultPanel_sheet",
+      "type": "sheet",
+      "url": "battleResultPanel/battleResultPanel_sheet.json",
+      "subkeys": "battleFailResult_bg_png,battleFailResult_bg1_png,battleFailResult_bg2_png,battleFailResult_bg3_png,battleFailResult_bg4_png,battleFailResult_btn0_png,battleFailResult_btn1_png,battleFailResult_btn2_png,battleFailResult_btn3_png,battleFailResult_sub_title_png,battleResultPeakJiHadPanel_bg1_png,battleResultPeakJiHadPanel_bg2_png,battleResultPeakJiHadPanel_draw_png,battleResultPeakJiHadPanel_fail_png,battleResultPeakJiHadPanel_icon_png,battleResultPeakJiHadPanel_iconbg_png,battleResultPeakJiHadPanel_star_png,battleResultPeakJiHadPanel_star_empty_png,battleResultSpItem_exp_png,battleResultSpItem_hp_png,battleResultSpItem_hpbg_png,battleResultSpItem_icon_up_png,battleResultSpItem_pro_png,battleResultSpItem_proBg_png,battleResultSpItem_pro_blue_png,battleResultSpItem_texture_star_png,battleResultSpItem_up_png,battleResult_bg1_png,battleResult_iconbg_png,battleResult_item_title_png,battleResult_resultbg_png,battleResult_title_png,battleResult_titlebg_png,battle_result_test_machine_frame_blue_png,battle_result_test_machine_frame_gold_png,battle_result_test_machine_titleBg_png"
+    }
+  ]
+}

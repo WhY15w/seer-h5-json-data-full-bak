@@ -1,0 +1,25 @@
+{
+  "groups": [
+    {
+      "keys": "road_452,exml_452,map_452_bg_mc_jpg",
+      "name": "map_452"
+    }
+  ],
+  "resources": [
+    {
+      "type": "json",
+      "url": "452.json",
+      "name": "road_452"
+    },
+    {
+      "type": "text",
+      "url": "Map452Skin.exml",
+      "name": "exml_452"
+    },
+    {
+      "type": "image",
+      "url": "map_452_bg_mc.jpg",
+      "name": "map_452_bg_mc_jpg"
+    }
+  ]
+}

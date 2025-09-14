@@ -1,0 +1,50 @@
+{
+  "groups": [
+    {
+      "keys": "road_688,exml_688,map_688_bg_mc_jpg,map_688_control_mc_png,map_688_fangzi_png,map_688_mogu1_png,map_688_cao_png,map_688_top_mc_png",
+      "name": "map_688"
+    }
+  ],
+  "resources": [
+    {
+      "type": "json",
+      "url": "688.json",
+      "name": "road_688"
+    },
+    {
+      "type": "text",
+      "url": "Map688Skin.exml",
+      "name": "exml_688"
+    },
+    {
+      "type": "image",
+      "url": "map_688_bg_mc.jpg",
+      "name": "map_688_bg_mc_jpg"
+    },
+    {
+      "type": "image",
+      "url": "map_688_control_mc.png",
+      "name": "map_688_control_mc_png"
+    },
+    {
+      "type": "image",
+      "url": "map_688_fangzi.png",
+      "name": "map_688_fangzi_png"
+    },
+    {
+      "type": "image",
+      "url": "map_688_mogu1.png",
+      "name": "map_688_mogu1_png"
+    },
+    {
+      "type": "image",
+      "url": "map_688_cao.png",
+      "name": "map_688_cao_png"
+    },
+    {
+      "type": "image",
+      "url": "map_688_top_mc.png",
+      "name": "map_688_top_mc_png"
+    }
+  ]
+}

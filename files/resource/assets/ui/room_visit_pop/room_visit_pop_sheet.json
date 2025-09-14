@@ -1,0 +1,85 @@
+{
+  "file": "room_visit_pop_sheet.png",
+  "frames": {
+    "room_visit_pop_bu_png": {
+      "x": 444,
+      "y": 1,
+      "w": 62,
+      "h": 17,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 62,
+      "sourceH": 17
+    },
+    "room_visit_pop_headbg_png": {
+      "x": 281,
+      "y": 1,
+      "w": 72,
+      "h": 72,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 72,
+      "sourceH": 72
+    },
+    "room_visit_pop_no_friend_png": {
+      "x": 1,
+      "y": 1,
+      "w": 278,
+      "h": 344,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 278,
+      "sourceH": 344
+    },
+    "room_visit_pop_tab_1_down_png": {
+      "x": 355,
+      "y": 1,
+      "w": 87,
+      "h": 34,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 87,
+      "sourceH": 34
+    },
+    "room_visit_pop_tab_1_up_png": {
+      "x": 355,
+      "y": 37,
+      "w": 87,
+      "h": 34,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 87,
+      "sourceH": 34
+    },
+    "room_visit_pop_tab_2_down_png": {
+      "x": 355,
+      "y": 73,
+      "w": 87,
+      "h": 34,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 87,
+      "sourceH": 34
+    },
+    "room_visit_pop_tab_2_up_png": {
+      "x": 281,
+      "y": 109,
+      "w": 87,
+      "h": 34,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 87,
+      "sourceH": 34
+    },
+    "room_visit_pop_visit_png": {
+      "x": 370,
+      "y": 109,
+      "w": 87,
+      "h": 34,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 87,
+      "sourceH": 34
+    }
+  }
+}

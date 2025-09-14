@@ -1,0 +1,31 @@
+{
+  "groups": [
+    {
+      "name": "military_book",
+      "keys": "military_book_sheet,junxian_ske_json,junxian_tex_json,junxian_tex_png"
+    }
+  ],
+  "resources": [
+    {
+      "name": "junxian_ske_json",
+      "type": "json",
+      "url": "military_book/outside/junxian_ske.json"
+    },
+    {
+      "name": "junxian_tex_json",
+      "type": "json",
+      "url": "military_book/outside/junxian_tex.json"
+    },
+    {
+      "name": "junxian_tex_png",
+      "type": "image",
+      "url": "military_book/outside/junxian_tex.png"
+    },
+    {
+      "name": "military_book_sheet",
+      "type": "sheet",
+      "url": "military_book/military_book_sheet.json",
+      "subkeys": "militaryBook_bg_png,militaryBook_downBg_png,militaryBook_Gottag_png,militaryBook_helpBtn_png_png,militaryBook_line232323_png,militaryBook_line_131jd_png,militaryBook_militaryInfoBg_png,militaryBook_no_suitIcon_png,militaryBook_suit_bg_png,militaryBook_texture_123mjsa_png,militaryBook_texture_aj34123k_png,militaryBook_upBg_png,military_bookHelp_texture_help_png,military_bookHelp_title_png,military_book_btnClose_png,military_reward_bg_png,military_reward_next_png"
+    }
+  ]
+}

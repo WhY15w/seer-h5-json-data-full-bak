@@ -1,0 +1,35 @@
+{
+  "groups": [
+    {
+      "keys": "road_726,exml_726,map_726_bg_mc_jpg,map_726_mushroom_png,map_726_top_mc_png",
+      "name": "map_726"
+    }
+  ],
+  "resources": [
+    {
+      "type": "json",
+      "url": "726.json",
+      "name": "road_726"
+    },
+    {
+      "type": "text",
+      "url": "Map726Skin.exml",
+      "name": "exml_726"
+    },
+    {
+      "type": "image",
+      "url": "map_726_bg_mc.jpg",
+      "name": "map_726_bg_mc_jpg"
+    },
+    {
+      "type": "image",
+      "url": "map_726_mushroom.png",
+      "name": "map_726_mushroom_png"
+    },
+    {
+      "type": "image",
+      "url": "map_726_top_mc.png",
+      "name": "map_726_top_mc_png"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "resources": [
+    {
+      "type": "json",
+      "url": "1402.json",
+      "name": "road_1402"
+    },
+    {
+      "type": "text",
+      "url": "Map1402Skin.exml",
+      "name": "exml_1402"
+    },
+    {
+      "type": "image",
+      "url": "map_1402_bg_mc.jpg",
+      "name": "map_1402_bg_mc_jpg"
+    },
+    {
+      "type": "image",
+      "url": "map_1402_mc.png",
+      "name": "map_1402_mc_png"
+    },
+    {
+      "type": "image",
+      "url": "map_1402_control_mc.png",
+      "name": "map_1402_control_mc_png"
+    }
+  ],
+  "groups": [
+    {
+      "keys": "road_1402,exml_1402,map_1402_bg_mc_jpg,map_1402_mc_png,map_1402_control_mc_png",
+      "name": "map_1402"
+    }
+  ]
+}

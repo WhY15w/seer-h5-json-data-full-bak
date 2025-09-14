@@ -1,0 +1,595 @@
+{
+  "file": "cassius_super_evo_sheet.png",
+  "frames": {
+    "cassius_super_evo_btnDoing_png": {
+      "x": 404,
+      "y": 815,
+      "w": 130,
+      "h": 42,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 130,
+      "sourceH": 42
+    },
+    "cassius_super_evo_btnget_png": {
+      "x": 536,
+      "y": 814,
+      "w": 130,
+      "h": 42,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 130,
+      "sourceH": 42
+    },
+    "cassius_super_evo_btninfo_png": {
+      "x": 964,
+      "y": 716,
+      "w": 53,
+      "h": 55,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 53,
+      "sourceH": 55
+    },
+    "cassius_super_evo_btnsuper_png": {
+      "x": 603,
+      "y": 355,
+      "w": 260,
+      "h": 110,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 260,
+      "sourceH": 110
+    },
+    "cassius_super_evo_buyitem_png": {
+      "x": 832,
+      "y": 854,
+      "w": 79,
+      "h": 62,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 79,
+      "sourceH": 62
+    },
+    "cassius_super_evo_collect_png": {
+      "x": 964,
+      "y": 658,
+      "w": 53,
+      "h": 56,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 53,
+      "sourceH": 56
+    },
+    "cassius_super_evo_collected_png": {
+      "x": 964,
+      "y": 600,
+      "w": 55,
+      "h": 56,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 55,
+      "sourceH": 56
+    },
+    "cassius_super_evo_evo_png": {
+      "x": 137,
+      "y": 807,
+      "w": 80,
+      "h": 62,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 80,
+      "sourceH": 62
+    },
+    "cassius_super_evo_fight_panel_dia1_png": {
+      "x": 1,
+      "y": 699,
+      "w": 117,
+      "h": 106,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 117,
+      "sourceH": 106
+    },
+    "cassius_super_evo_fight_panel_fight_png": {
+      "x": 789,
+      "y": 806,
+      "w": 134,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 134,
+      "sourceH": 46
+    },
+    "cassius_super_evo_fight_panel_floorbg_png": {
+      "x": 1,
+      "y": 612,
+      "w": 229,
+      "h": 42,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 229,
+      "sourceH": 42
+    },
+    "cassius_super_evo_fight_panel_go_png": {
+      "x": 1,
+      "y": 258,
+      "w": 299,
+      "h": 352,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 299,
+      "sourceH": 352
+    },
+    "cassius_super_evo_fight_panel_go1_png": {
+      "x": 593,
+      "y": 1,
+      "w": 382,
+      "h": 352,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 382,
+      "sourceH": 352
+    },
+    "cassius_super_evo_fight_panel_ima1_png": {
+      "x": 603,
+      "y": 467,
+      "w": 224,
+      "h": 44,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 224,
+      "sourceH": 44
+    },
+    "cassius_super_evo_fight_panel_ima_boss_png": {
+      "x": 239,
+      "y": 805,
+      "w": 163,
+      "h": 55,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 163,
+      "sourceH": 55
+    },
+    "cassius_super_evo_fight_panel_ima_enemy_png": {
+      "x": 789,
+      "y": 749,
+      "w": 163,
+      "h": 55,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 163,
+      "sourceH": 55
+    },
+    "cassius_super_evo_fight_panel_mark_png": {
+      "x": 750,
+      "y": 854,
+      "w": 80,
+      "h": 62,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 80,
+      "sourceH": 62
+    },
+    "cassius_super_evo_fight_panel_no_png": {
+      "x": 302,
+      "y": 355,
+      "w": 299,
+      "h": 299,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 299,
+      "sourceH": 299
+    },
+    "cassius_super_evo_fight_panel_petbg_png": {
+      "x": 239,
+      "y": 699,
+      "w": 104,
+      "h": 104,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 104,
+      "sourceH": 104
+    },
+    "cassius_super_evo_fight_panel_text_png": {
+      "x": 1,
+      "y": 656,
+      "w": 702,
+      "h": 41,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 702,
+      "sourceH": 41
+    },
+    "cassius_super_evo_gotevo_png": {
+      "x": 404,
+      "y": 859,
+      "w": 97,
+      "h": 33,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 97,
+      "sourceH": 33
+    },
+    "cassius_super_evo_gotevo1_png": {
+      "x": 1,
+      "y": 855,
+      "w": 97,
+      "h": 33,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 97,
+      "sourceH": 33
+    },
+    "cassius_super_evo_gotitem_png": {
+      "x": 536,
+      "y": 858,
+      "w": 97,
+      "h": 33,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 97,
+      "sourceH": 33
+    },
+    "cassius_super_evo_gotpet_png": {
+      "x": 302,
+      "y": 258,
+      "w": 180,
+      "h": 56,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 180,
+      "sourceH": 56
+    },
+    "cassius_super_evo_item1_png": {
+      "x": 536,
+      "y": 699,
+      "w": 83,
+      "h": 113,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 83,
+      "sourceH": 113
+    },
+    "cassius_super_evo_item2_png": {
+      "x": 621,
+      "y": 699,
+      "w": 82,
+      "h": 112,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 82,
+      "sourceH": 112
+    },
+    "cassius_super_evo_item3_png": {
+      "x": 705,
+      "y": 737,
+      "w": 82,
+      "h": 112,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 82,
+      "sourceH": 112
+    },
+    "cassius_super_evo_item4_png": {
+      "x": 451,
+      "y": 699,
+      "w": 83,
+      "h": 114,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 83,
+      "sourceH": 114
+    },
+    "cassius_super_evo_itembg_png": {
+      "x": 603,
+      "y": 530,
+      "w": 316,
+      "h": 79,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 316,
+      "sourceH": 79
+    },
+    "cassius_super_evo_mark_png": {
+      "x": 668,
+      "y": 851,
+      "w": 80,
+      "h": 62,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 80,
+      "sourceH": 62
+    },
+    "cassius_super_evo_name1_png": {
+      "x": 219,
+      "y": 862,
+      "w": 84,
+      "h": 37,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 84,
+      "sourceH": 37
+    },
+    "cassius_super_evo_name2_png": {
+      "x": 305,
+      "y": 862,
+      "w": 84,
+      "h": 37,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 84,
+      "sourceH": 37
+    },
+    "cassius_super_evo_name3_png": {
+      "x": 100,
+      "y": 871,
+      "w": 84,
+      "h": 37,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 84,
+      "sourceH": 37
+    },
+    "cassius_super_evo_name4_png": {
+      "x": 913,
+      "y": 876,
+      "w": 83,
+      "h": 37,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 83,
+      "sourceH": 37
+    },
+    "cassius_super_evo_pop_add_png": {
+      "x": 977,
+      "y": 162,
+      "w": 29,
+      "h": 29,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 29,
+      "sourceH": 29
+    },
+    "cassius_super_evo_pop_bag_png": {
+      "x": 925,
+      "y": 806,
+      "w": 73,
+      "h": 68,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 73,
+      "sourceH": 68
+    },
+    "cassius_super_evo_pop_btnbuy_png": {
+      "x": 503,
+      "y": 893,
+      "w": 87,
+      "h": 34,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 87,
+      "sourceH": 34
+    },
+    "cassius_super_evo_pop_btnstart_png": {
+      "x": 1,
+      "y": 890,
+      "w": 87,
+      "h": 34,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 87,
+      "sourceH": 34
+    },
+    "cassius_super_evo_pop_btnyijian_png": {
+      "x": 1,
+      "y": 807,
+      "w": 134,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 134,
+      "sourceH": 46
+    },
+    "cassius_super_evo_pop_buybg_png": {
+      "x": 1,
+      "y": 1,
+      "w": 590,
+      "h": 255,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 590,
+      "sourceH": 255
+    },
+    "cassius_super_evo_pop_close_png": {
+      "x": 977,
+      "y": 91,
+      "w": 33,
+      "h": 33,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 33,
+      "sourceH": 33
+    },
+    "cassius_super_evo_pop_cure_png": {
+      "x": 921,
+      "y": 530,
+      "w": 74,
+      "h": 68,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 74,
+      "sourceH": 68
+    },
+    "cassius_super_evo_pop_dark_png": {
+      "x": 977,
+      "y": 193,
+      "w": 21,
+      "h": 22,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 21,
+      "sourceH": 22
+    },
+    "cassius_super_evo_pop_dark1_png": {
+      "x": 977,
+      "y": 126,
+      "w": 31,
+      "h": 34,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 31,
+      "sourceH": 34
+    },
+    "cassius_super_evo_pop_getbg_png": {
+      "x": 843,
+      "y": 611,
+      "w": 119,
+      "h": 136,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 119,
+      "sourceH": 136
+    },
+    "cassius_super_evo_pop_got_png": {
+      "x": 603,
+      "y": 611,
+      "w": 100,
+      "h": 36,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 100,
+      "sourceH": 36
+    },
+    "cassius_super_evo_pop_gotbg_png": {
+      "x": 865,
+      "y": 355,
+      "w": 151,
+      "h": 173,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 151,
+      "sourceH": 173
+    },
+    "cassius_super_evo_pop_light_png": {
+      "x": 977,
+      "y": 49,
+      "w": 38,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 38,
+      "sourceH": 40
+    },
+    "cassius_super_evo_pop_light1_png": {
+      "x": 977,
+      "y": 1,
+      "w": 44,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 44,
+      "sourceH": 46
+    },
+    "cassius_super_evo_pop_markicon_png": {
+      "x": 484,
+      "y": 258,
+      "w": 73,
+      "h": 74,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 73,
+      "sourceH": 74
+    },
+    "cassius_super_evo_pop_mas_png": {
+      "x": 345,
+      "y": 699,
+      "w": 104,
+      "h": 104,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 104,
+      "sourceH": 104
+    },
+    "cassius_super_evo_pop_mas5_png": {
+      "x": 705,
+      "y": 611,
+      "w": 136,
+      "h": 124,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 136,
+      "sourceH": 124
+    },
+    "cassius_super_evo_pop_notopen_png": {
+      "x": 592,
+      "y": 915,
+      "w": 95,
+      "h": 24,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 95,
+      "sourceH": 24
+    },
+    "cassius_super_evo_sign_png": {
+      "x": 120,
+      "y": 699,
+      "w": 117,
+      "h": 106,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 117,
+      "sourceH": 106
+    },
+    "cassius_super_evo_title_png": {
+      "x": 302,
+      "y": 316,
+      "w": 150,
+      "h": 31,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 150,
+      "sourceH": 31
+    },
+    "cassius_super_evo_title1_png": {
+      "x": 186,
+      "y": 901,
+      "w": 78,
+      "h": 31,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 78,
+      "sourceH": 31
+    },
+    "cassius_super_evo_title2_png": {
+      "x": 391,
+      "y": 894,
+      "w": 79,
+      "h": 32,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 79,
+      "sourceH": 32
+    },
+    "cassius_super_evo_title3_png": {
+      "x": 90,
+      "y": 910,
+      "w": 78,
+      "h": 30,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 78,
+      "sourceH": 30
+    },
+    "cassius_super_evo_title4_png": {
+      "x": 266,
+      "y": 901,
+      "w": 78,
+      "h": 31,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 78,
+      "sourceH": 31
+    }
+  }
+}

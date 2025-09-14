@@ -1,0 +1,115 @@
+{
+  "file": "new_seer_gift_sheet.png",
+  "frames": {
+    "new_seer_gift_btnadddiamond_png": {
+      "x": 411,
+      "y": 1,
+      "w": 21,
+      "h": 21,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 21,
+      "sourceH": 21
+    },
+    "new_seer_gift_btnbuy1_png": {
+      "x": 195,
+      "y": 166,
+      "w": 208,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 208,
+      "sourceH": 46
+    },
+    "new_seer_gift_btnbuy2_png": {
+      "x": 195,
+      "y": 214,
+      "w": 208,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 208,
+      "sourceH": 46
+    },
+    "new_seer_gift_btninfo1_png": {
+      "x": 1,
+      "y": 92,
+      "w": 131,
+      "h": 41,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 131,
+      "sourceH": 41
+    },
+    "new_seer_gift_btninfo2_png": {
+      "x": 1,
+      "y": 245,
+      "w": 131,
+      "h": 41,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 131,
+      "sourceH": 41
+    },
+    "new_seer_gift_imgdiamond_png": {
+      "x": 383,
+      "y": 1,
+      "w": 26,
+      "h": 29,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 26,
+      "sourceH": 29
+    },
+    "new_seer_gift_imgdiamondbg_png": {
+      "x": 1,
+      "y": 135,
+      "w": 133,
+      "h": 21,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 133,
+      "sourceH": 21
+    },
+    "new_seer_gift_imgitem1_png": {
+      "x": 1,
+      "y": 1,
+      "w": 189,
+      "h": 89,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 189,
+      "sourceH": 89
+    },
+    "new_seer_gift_imgitem2_png": {
+      "x": 192,
+      "y": 1,
+      "w": 189,
+      "h": 83,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 189,
+      "sourceH": 83
+    },
+    "new_seer_gift_imgtxt1_png": {
+      "x": 1,
+      "y": 166,
+      "w": 192,
+      "h": 77,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 192,
+      "sourceH": 77
+    },
+    "new_seer_gift_imgtxt2_png": {
+      "x": 192,
+      "y": 86,
+      "w": 192,
+      "h": 78,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 192,
+      "sourceH": 78
+    }
+  }
+}

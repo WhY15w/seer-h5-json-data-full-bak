@@ -1,0 +1,55 @@
+{
+  "SubTexture": [
+    {
+      "name": "正面元件",
+      "x": 0,
+      "width": 96,
+      "y": 0,
+      "height": 88
+    },
+    {
+      "name": "半侧面胳膊01",
+      "x": 194,
+      "width": 39,
+      "y": 0,
+      "height": 107
+    },
+    {
+      "name": "左下元件01",
+      "x": 39,
+      "width": 27,
+      "y": 89,
+      "height": 72
+    },
+    {
+      "name": "left_01",
+      "x": 0,
+      "width": 38,
+      "y": 89,
+      "height": 86
+    },
+    {
+      "name": "右面元件01",
+      "x": 93,
+      "width": 31,
+      "y": 89,
+      "height": 38
+    },
+    {
+      "name": "右上元件01",
+      "x": 67,
+      "width": 25,
+      "y": 89,
+      "height": 71
+    },
+    {
+      "name": "背面元件",
+      "x": 97,
+      "width": 96,
+      "y": 0,
+      "height": 88
+    }
+  ],
+  "name": 100994,
+  "imagePath": "texture.png"
+}

@@ -1,0 +1,21 @@
+{
+  "groups": [
+    {
+      "name": "studytraining",
+      "keys": "studytraining_sheet,Studytraining_bg_jpg"
+    }
+  ],
+  "resources": [
+    {
+      "name": "Studytraining_bg_jpg",
+      "type": "image",
+      "url": "studytraining/outside/Studytraining_bg.jpg"
+    },
+    {
+      "name": "studytraining_sheet",
+      "type": "sheet",
+      "url": "studytraining/studytraining_sheet.json",
+      "subkeys": "pve_study_training_boss_item_imgbg_png,Studytraining_boss_item_imgboss_png,Studytraining_boss_item_imgdefeated_png,Studytraining_boss_item_imglocked_png,Studytraining_boss_item_imgselected_png,Studytraining_level_menu_item_imgdefeated_png,Studytraining_level_menu_item_imgfastfight_png,Studytraining_level_menu_item_imgisfighting_png,Studytraining_level_menu_item_imglock_png,Studytraining_level_menu_item_imgselected_png,Studytraining_level_menu_item_imgunlock_png,Studytraining_btnback_png,Studytraining_btncure_png,Studytraining_btnfastfight_png,Studytraining_btnfight_png,Studytraining_btnhelp_png,Studytraining_btnpet_png,Studytraining_imgbox_png,Studytraining_imgboxbg_png,Studytraining_imgitem1_png,Studytraining_imgitem1bg_png,Studytraining_imgitem2_png,Studytraining_imgitem2bg_png,Studytraining_imglevelbg_png,Studytraining_imglevelmenubg_png,Studytraining_imgrightbg_png,Studytraining_imgswitchoff_png,Studytraining_imgswitchon_png,Studytraining_rewarditem_png,Studytraining_txttitle1_png,Studytraining_txttitle2_png,Studytraining_txttitle3_png,study_training_imgtitle_png,study_training_imgtitlebg_png,Studytraining_xianlu1_png,Studytraining_xianlu2_png,Studytraining_xianlu3_png"
+    }
+  ]
+}

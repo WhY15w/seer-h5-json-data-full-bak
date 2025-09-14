@@ -1,0 +1,21 @@
+{
+  "groups": [
+    {
+      "name": "god_emperor_huting",
+      "keys": "god_emperor_huting_sheet,geh_main_panel_bg_jpg"
+    }
+  ],
+  "resources": [
+    {
+      "name": "geh_main_panel_bg_jpg",
+      "type": "image",
+      "url": "god_emperor_huting/geh_main_panel_bg.jpg"
+    },
+    {
+      "name": "god_emperor_huting_sheet",
+      "type": "sheet",
+      "url": "god_emperor_huting/god_emperor_huting_sheet.json",
+      "subkeys": "geh_chong_su_jian_ling_beat_png,geh_chong_su_jian_ling_btn1_png,geh_chong_su_jian_ling_btn2_png,geh_chong_su_jian_ling_btn3_png,geh_chong_su_jian_ling_btn4_png,geh_chong_su_jian_ling_btnadd_png,geh_chong_su_jian_ling_btncure_png,geh_chong_su_jian_ling_btnfight_png,geh_chong_su_jian_ling_btnpet_png,geh_chong_su_jian_ling_btnvip_png,geh_chong_su_jian_ling_numbg_png,geh_chong_su_jian_ling_selected_png,geh_chong_su_jian_ling_title_png,geh_lie_huang_chu_ling_battle_png,geh_lie_huang_chu_ling_btnfight_png,geh_lie_huang_chu_ling_btnyijian_png,geh_main_panel_beat_png,geh_main_panel_btn1_png,geh_main_panel_btn2_png,geh_main_panel_btn3_png,geh_main_panel_btn4_png,geh_main_panel_btnclose_png,geh_main_panel_btngetPet_png,geh_main_panel_btninfo_png,geh_main_panel_btnup_png,geh_main_panel_btnyijian_png,geh_main_panel_pet_png,geh_main_panel_up_bg_png,geh_shi_shen_zhi_lu_btnbuy_png,geh_shi_shen_zhi_lu_btnreduce_png,geh_shi_shen_zhi_lu_help_png,geh_shi_shen_zhi_lu_nandubg_png,geh_shi_shen_zhi_lu_pet_1_png,geh_shi_shen_zhi_lu_pet_2_png,geh_shi_shen_zhi_lu_pet_3_png,geh_shi_shen_zhi_lu_pet_3492_png,geh_shi_shen_zhi_lu_pet_3496_png,geh_shi_shen_zhi_lu_pet_3504_png,geh_shi_shen_zhi_lu_pet_3507_png,geh_shi_shen_zhi_lu_pet_4_png,geh_shi_shen_zhi_lu_pet_mask_png,geh_shi_shen_zhi_lu_selected_png,geh_shi_shen_zhi_lu_title_png,geh_shou_lie_zai_qi_bg_png,geh_shou_lie_zai_qi_content_png,geh_shou_lie_zai_qi_rate_png,geh_shou_lie_zai_qi_ratebg_png,geh_upgrade_ability_panel_btndifficultyse_1_png,geh_upgrade_ability_panel_btndifficultyse_2_png,geh_upgrade_ability_panel_btndifficultyse_3_png,geh_upgrade_ability_panel_btndifficulty_1_png,geh_upgrade_ability_panel_btndifficulty_2_png,geh_upgrade_ability_panel_btndifficulty_3_png,geh_upgrade_ability_panel_btndui_png,geh_upgrade_ability_panel_btnke_png,geh_upgrade_ability_panel_btnte_png,geh_upgrade_ability_panel_btnwu_png,geh_upgrade_ability_panel_content_png,geh_upgrade_ability_panel_imgitem_png,geh_upgrade_ability_panel_itembg_png"
+    }
+  ]
+}

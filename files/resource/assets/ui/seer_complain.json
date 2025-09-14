@@ -1,0 +1,16 @@
+{
+  "groups": [
+    {
+      "name": "seer_complain",
+      "keys": "seer_complain_sheet"
+    }
+  ],
+  "resources": [
+    {
+      "name": "seer_complain_sheet",
+      "type": "sheet",
+      "url": "seer_complain/seer_complain_sheet.json",
+      "subkeys": "seer_complain_btncancel_png,seer_complain_btnok_png,seer_complain_imggou1_png,seer_complain_imggoubg1_png,seer_complain_imgtitle_png,seer_complain_imgtxtbg_png"
+    }
+  ]
+}

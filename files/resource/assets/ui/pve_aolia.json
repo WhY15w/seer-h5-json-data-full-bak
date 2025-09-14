@@ -1,0 +1,51 @@
+{
+  "groups": [
+    {
+      "name": "pve_aolia",
+      "keys": "pve_aolia_sheet,pve_aolia_aliya_pop_0_battlebg_png,pve_aolia_aya_pop_2_pet_png,pve_aolia_aya_pop_3_pet_png,pve_aolia_panel_aolia_pet_png,pve_aolia_panel_aya_rightbg_png,pve_aolia_pop_bg_png,pve_aolia_pop_bg1_png"
+    }
+  ],
+  "resources": [
+    {
+      "name": "pve_aolia_aliya_pop_0_battlebg_png",
+      "type": "image",
+      "url": "pve_aolia/outside/pve_aolia_aliya_pop_0_battlebg.png"
+    },
+    {
+      "name": "pve_aolia_aya_pop_2_pet_png",
+      "type": "image",
+      "url": "pve_aolia/outside/pve_aolia_aya_pop_2_pet.png"
+    },
+    {
+      "name": "pve_aolia_aya_pop_3_pet_png",
+      "type": "image",
+      "url": "pve_aolia/outside/pve_aolia_aya_pop_3_pet.png"
+    },
+    {
+      "name": "pve_aolia_panel_aolia_pet_png",
+      "type": "image",
+      "url": "pve_aolia/outside/pve_aolia_panel_aolia_pet.png"
+    },
+    {
+      "name": "pve_aolia_panel_aya_rightbg_png",
+      "type": "image",
+      "url": "pve_aolia/outside/pve_aolia_panel_aya_rightbg.png"
+    },
+    {
+      "name": "pve_aolia_pop_bg_png",
+      "type": "image",
+      "url": "pve_aolia/outside/pve_aolia_pop_bg.png"
+    },
+    {
+      "name": "pve_aolia_pop_bg1_png",
+      "type": "image",
+      "url": "pve_aolia/outside/pve_aolia_pop_bg1.png"
+    },
+    {
+      "name": "pve_aolia_sheet",
+      "type": "sheet",
+      "url": "pve_aolia/pve_aolia_sheet.json",
+      "subkeys": "pve_aolia_aliya_pop_0_boss_0_png,pve_aolia_aliya_pop_0_boss_1_png,pve_aolia_aliya_pop_0_boss_2_png,pve_aolia_aliya_pop_0_boss_3_png,pve_aolia_aliya_pop_0_boss_4_png,pve_aolia_aliya_pop_0_flag_win_png,pve_aolia_aliya_pop_0_img_box_png,pve_aolia_aliya_pop_0_title_png,pve_aolia_aliya_pop_1_boss_0_png,pve_aolia_aliya_pop_1_boss_1_png,pve_aolia_aliya_pop_1_boss_2_png,pve_aolia_aliya_pop_1_boss_3_png,pve_aolia_aliya_pop_1_title_png,pve_aolia_aliya_pop_2_boss_0_png,pve_aolia_aliya_pop_2_boss_1_png,pve_aolia_aliya_pop_2_boss_2_png,pve_aolia_aliya_pop_2_condition_0_png,pve_aolia_aliya_pop_2_condition_1_png,pve_aolia_aliya_pop_2_condition_2_png,pve_aolia_aliya_pop_2_title_png,pve_aolia_aya_pop_0_btnAdd_png,pve_aolia_aya_pop_0_btnFight_0_png,pve_aolia_aya_pop_0_btnMake_png,pve_aolia_aya_pop_0_btnOnetap_png,pve_aolia_aya_pop_0_fight0_png,pve_aolia_aya_pop_0_fight1_png,pve_aolia_aya_pop_0_iconbg_png,pve_aolia_aya_pop_0_imgBtn_cure_png,pve_aolia_aya_pop_0_imgBtn_pet_png,pve_aolia_aya_pop_0_successbg_png,pve_aolia_aya_pop_0_title_png,pve_aolia_aya_pop_1_fight0_png,pve_aolia_aya_pop_1_fight1_png,pve_aolia_aya_pop_1_flag_win_png,pve_aolia_aya_pop_1_icon_png,pve_aolia_aya_pop_1_title_png,pve_aolia_aya_pop_2_btnFight_png,pve_aolia_aya_pop_2_dark_png,pve_aolia_aya_pop_2_leftbg_png,pve_aolia_aya_pop_2_light_png,pve_aolia_aya_pop_2_title_png,pve_aolia_aya_pop_3_beatbg_png,pve_aolia_aya_pop_3_title_png,pve_aolia_btnInfo_png,pve_aolia_panel_aliya_aolia_btnGo_png,pve_aolia_panel_aliya_btnExchange_png,pve_aolia_panel_aliya_btnGo_png,pve_aolia_panel_aliya_btnOnetap_png,pve_aolia_panel_aliya_countbg_png,pve_aolia_panel_aliya_flag_win_png,pve_aolia_panel_aliya_img_boss_0_png,pve_aolia_panel_aliya_img_boss_1_png,pve_aolia_panel_aliya_img_boss_2_png,pve_aolia_panel_aliya_img_j_png,pve_aolia_panel_aliya_itemIcon_png,pve_aolia_panel_aliya_pet_png,pve_aolia_panel_aliya_title_png,pve_aolia_panel_aolia_awardbg_png,pve_aolia_panel_aolia_boxTitle_png,pve_aolia_panel_aolia_box_close_png,pve_aolia_panel_aolia_box_open_png,pve_aolia_panel_aolia_btnBg_png,pve_aolia_panel_aolia_btnCompose_png,pve_aolia_panel_aolia_fight_btnFastbeat_png,pve_aolia_panel_aolia_fight_btnFight_png,pve_aolia_panel_aolia_fight_btnGet_png,pve_aolia_panel_aolia_fight_btnReroll_png,pve_aolia_panel_aolia_fight_btnRoll_png,pve_aolia_panel_aolia_fight_fightBg_png,pve_aolia_panel_aolia_fight_flag_tomorrow_png,pve_aolia_panel_aolia_fight_img_box_png,pve_aolia_panel_aolia_fight_infoTitle_png,pve_aolia_panel_aolia_fight_rollBg_png,pve_aolia_panel_aolia_fight_taskTitle_png,pve_aolia_panel_aolia_fight_tiaozhanbg_png,pve_aolia_panel_aolia_itemIcon_0_png,pve_aolia_panel_aolia_itemIcon_1_png,pve_aolia_panel_aolia_opened_png,pve_aolia_panel_aolia_opening_png,pve_aolia_panel_aolia_rewardIconbg_png,pve_aolia_panel_aolia_rewardTitle_png,pve_aolia_panel_aolia_title_png,pve_aolia_panel_aya_btnGet_png,pve_aolia_panel_aya_btnMake_0_png,pve_aolia_panel_aya_btnMake_1_png,pve_aolia_panel_aya_btnMake_2_png,pve_aolia_panel_aya_btnMake_3_png,pve_aolia_panel_aya_flag_got_png,pve_aolia_panel_aya_flag_made_0_png,pve_aolia_panel_aya_flag_made_1_png,pve_aolia_panel_aya_flag_made_2_png,pve_aolia_panel_aya_flag_made_3_png,pve_aolia_panel_aya_icon_0_png,pve_aolia_panel_aya_icon_1_png,pve_aolia_panel_aya_icon_2_png,pve_aolia_panel_aya_img_free_png,pve_aolia_panel_aya_img_rect_png,pve_aolia_panel_aya_intro_png,pve_aolia_panel_aya_makeBg_png,pve_aolia_panel_aya_pet_aya_png,pve_aolia_panel_aya_title_png,pve_aolia_panel_flag_got_pet_png,pve_aolia_pop_btnClose_png,pve_aolia_pop_btnFight_png,pve_aolia_pop_flag_got_png,pve_aolia_pop_shadow1_png,pve_aolia_pop_shadow2_png,pve_aolia_pop_shadow3_png,pve_aolia_pop_up_bg_png"
+    }
+  ]
+}

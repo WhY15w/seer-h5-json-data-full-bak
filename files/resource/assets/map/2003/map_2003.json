@@ -1,0 +1,35 @@
+{
+  "groups": [
+    {
+      "name": "map_2003",
+      "keys": "map_2003_bg_png,map_2003_equip_1_png,map_2003_type_png,road_2003,exml_2003"
+    }
+  ],
+  "resources": [
+    {
+      "name": "map_2003_bg_png",
+      "type": "image",
+      "url": "map_2003_bg.png"
+    },
+    {
+      "name": "road_2003",
+      "type": "json",
+      "url": "2003.json"
+    },
+    {
+      "name": "map_2003_equip_1_png",
+      "type": "image",
+      "url": "map_2003_equip_1.png"
+    },
+    {
+      "name": "map_2003_type_png",
+      "type": "image",
+      "url": "map_2003_type.png"
+    },
+    {
+      "name": "exml_2003",
+      "type": "text",
+      "url": "Map2003Skin.exml"
+    }
+  ]
+}

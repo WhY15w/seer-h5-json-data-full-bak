@@ -1,0 +1,30 @@
+{
+  "resources": [
+    {
+      "type": "json",
+      "url": "454.json",
+      "name": "road_454"
+    },
+    {
+      "type": "text",
+      "url": "Map454Skin.exml",
+      "name": "exml_454"
+    },
+    {
+      "type": "image",
+      "url": "map_454_bg_mc.jpg",
+      "name": "map_454_bg_mc_jpg"
+    },
+    {
+      "type": "image",
+      "url": "map_454_top_mc.png",
+      "name": "map_454_top_mc_png"
+    }
+  ],
+  "groups": [
+    {
+      "keys": "road_454,exml_454,map_454_bg_mc_jpg,map_454_top_mc_png",
+      "name": "map_454"
+    }
+  ]
+}

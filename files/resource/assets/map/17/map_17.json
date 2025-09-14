@@ -1,0 +1,30 @@
+{
+  "groups": [
+    {
+      "keys": "road_17,exml_17,map_17_bg_mc_jpg,map_17_control_mc_png",
+      "name": "map_17"
+    }
+  ],
+  "resources": [
+    {
+      "type": "json",
+      "url": "17.json",
+      "name": "road_17"
+    },
+    {
+      "type": "text",
+      "url": "Map17Skin.exml",
+      "name": "exml_17"
+    },
+    {
+      "type": "image",
+      "url": "map_17_bg_mc.jpg",
+      "name": "map_17_bg_mc_jpg"
+    },
+    {
+      "type": "image",
+      "url": "map_17_control_mc.png",
+      "name": "map_17_control_mc_png"
+    }
+  ]
+}

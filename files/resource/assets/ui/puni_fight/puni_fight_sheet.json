@@ -1,0 +1,395 @@
+{
+  "file": "puni_fight_sheet.png",
+  "frames": {
+    "puni_fight_btnHelp_png": {
+      "x": 1999,
+      "y": 1,
+      "w": 30,
+      "h": 34,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 30,
+      "sourceH": 34
+    },
+    "puni_fight_dialog_icon_bg_png": {
+      "x": 1799,
+      "y": 355,
+      "w": 150,
+      "h": 150,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 150,
+      "sourceH": 150
+    },
+    "puni_fight_dialog_title_png": {
+      "x": 1900,
+      "y": 173,
+      "w": 58,
+      "h": 26,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 58,
+      "sourceH": 26
+    },
+    "puni_fight_dialog_title_1_png": {
+      "x": 1840,
+      "y": 173,
+      "w": 58,
+      "h": 26,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 58,
+      "sourceH": 26
+    },
+    "puni_fight_dialog_unlock_mark_png": {
+      "x": 1383,
+      "y": 505,
+      "w": 176,
+      "h": 52,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 176,
+      "sourceH": 52
+    },
+    "puni_fight_fighted_1_png": {
+      "x": 835,
+      "y": 457,
+      "w": 137,
+      "h": 156,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 137,
+      "sourceH": 156
+    },
+    "puni_fight_fighted_2_png": {
+      "x": 1,
+      "y": 427,
+      "w": 137,
+      "h": 156,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 137,
+      "sourceH": 156
+    },
+    "puni_fight_fighted_3_png": {
+      "x": 140,
+      "y": 427,
+      "w": 137,
+      "h": 156,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 137,
+      "sourceH": 156
+    },
+    "puni_fight_fighted_4_png": {
+      "x": 279,
+      "y": 451,
+      "w": 137,
+      "h": 156,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 137,
+      "sourceH": 156
+    },
+    "puni_fight_fighted_5_png": {
+      "x": 418,
+      "y": 451,
+      "w": 137,
+      "h": 156,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 137,
+      "sourceH": 156
+    },
+    "puni_fight_fighted_6_png": {
+      "x": 557,
+      "y": 451,
+      "w": 137,
+      "h": 156,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 137,
+      "sourceH": 156
+    },
+    "puni_fight_fighted_7_png": {
+      "x": 696,
+      "y": 451,
+      "w": 137,
+      "h": 156,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 137,
+      "sourceH": 156
+    },
+    "puni_fight_img_fight_png": {
+      "x": 1763,
+      "y": 205,
+      "w": 236,
+      "h": 148,
+      "offX": 19,
+      "offY": 0,
+      "sourceW": 255,
+      "sourceH": 148
+    },
+    "puni_fight_img_finalFight_png": {
+      "x": 1224,
+      "y": 205,
+      "w": 255,
+      "h": 148,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 255,
+      "sourceH": 148
+    },
+    "puni_fight_img_unfight_png": {
+      "x": 1481,
+      "y": 205,
+      "w": 280,
+      "h": 126,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 280,
+      "sourceH": 126
+    },
+    "puni_fight_infotxt_png": {
+      "x": 1224,
+      "y": 1,
+      "w": 614,
+      "h": 202,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 614,
+      "sourceH": 202
+    },
+    "puni_fight_left_bg_png": {
+      "x": 869,
+      "y": 373,
+      "w": 314,
+      "h": 82,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 314,
+      "sourceH": 82
+    },
+    "puni_fight_line_png": {
+      "x": 1,
+      "y": 1,
+      "w": 389,
+      "h": 424,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 389,
+      "sourceH": 424
+    },
+    "puni_fight_lock_1_png": {
+      "x": 974,
+      "y": 457,
+      "w": 131,
+      "h": 151,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 131,
+      "sourceH": 151
+    },
+    "puni_fight_mark_bg_1_png": {
+      "x": 1224,
+      "y": 355,
+      "w": 157,
+      "h": 170,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 157,
+      "sourceH": 170
+    },
+    "puni_fight_mark_bg_2_png": {
+      "x": 1640,
+      "y": 355,
+      "w": 157,
+      "h": 170,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 157,
+      "sourceH": 170
+    },
+    "puni_fight_mark_bg_3_png": {
+      "x": 1840,
+      "y": 1,
+      "w": 157,
+      "h": 170,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 157,
+      "sourceH": 170
+    },
+    "puni_fight_mark_bg_4_png": {
+      "x": 392,
+      "y": 279,
+      "w": 157,
+      "h": 170,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 157,
+      "sourceH": 170
+    },
+    "puni_fight_mark_bg_5_png": {
+      "x": 551,
+      "y": 279,
+      "w": 157,
+      "h": 170,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 157,
+      "sourceH": 170
+    },
+    "puni_fight_mark_bg_6_png": {
+      "x": 710,
+      "y": 279,
+      "w": 157,
+      "h": 170,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 157,
+      "sourceH": 170
+    },
+    "puni_fight_mark_bg_7_png": {
+      "x": 1481,
+      "y": 333,
+      "w": 157,
+      "h": 170,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 157,
+      "sourceH": 170
+    },
+    "puni_fight_mark_title_1_png": {
+      "x": 1219,
+      "y": 527,
+      "w": 110,
+      "h": 35,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 110,
+      "sourceH": 35
+    },
+    "puni_fight_mark_title_2_png": {
+      "x": 1561,
+      "y": 527,
+      "w": 110,
+      "h": 35,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 110,
+      "sourceH": 35
+    },
+    "puni_fight_mark_title_3_png": {
+      "x": 1673,
+      "y": 527,
+      "w": 110,
+      "h": 35,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 110,
+      "sourceH": 35
+    },
+    "puni_fight_mark_title_4_png": {
+      "x": 1107,
+      "y": 457,
+      "w": 110,
+      "h": 35,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 110,
+      "sourceH": 35
+    },
+    "puni_fight_mark_title_5_png": {
+      "x": 1107,
+      "y": 494,
+      "w": 110,
+      "h": 35,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 110,
+      "sourceH": 35
+    },
+    "puni_fight_mark_title_6_png": {
+      "x": 1799,
+      "y": 507,
+      "w": 110,
+      "h": 35,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 110,
+      "sourceH": 35
+    },
+    "puni_fight_mark_title_7_png": {
+      "x": 1911,
+      "y": 507,
+      "w": 110,
+      "h": 35,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 110,
+      "sourceH": 35
+    },
+    "puni_fight_panel_btnInfo_png": {
+      "x": 1383,
+      "y": 355,
+      "w": 74,
+      "h": 74,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 74,
+      "sourceH": 74
+    },
+    "puni_fight_panel_imgBtn_cure_png": {
+      "x": 1951,
+      "y": 355,
+      "w": 60,
+      "h": 60,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 60,
+      "sourceH": 60
+    },
+    "puni_fight_panel_imgBtn_pet_png": {
+      "x": 1951,
+      "y": 417,
+      "w": 60,
+      "h": 60,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 60,
+      "sourceH": 60
+    },
+    "puni_fight_shadow_png": {
+      "x": 872,
+      "y": 1,
+      "w": 350,
+      "h": 370,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 350,
+      "sourceH": 370
+    },
+    "puni_fight_title_png": {
+      "x": 392,
+      "y": 1,
+      "w": 478,
+      "h": 276,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 478,
+      "sourceH": 276
+    },
+    "puni_fight_up_bg_png": {
+      "x": 1383,
+      "y": 431,
+      "w": 75,
+      "h": 45,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 75,
+      "sourceH": 45
+    }
+  }
+}

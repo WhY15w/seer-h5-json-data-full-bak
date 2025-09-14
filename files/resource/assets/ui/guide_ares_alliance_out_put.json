@@ -1,0 +1,31 @@
+{
+  "groups": [
+    {
+      "name": "guide_ares_alliance_out_put",
+      "keys": "huodezhanlian_atlas,huodezhanlian_json,huodezhanlian_png"
+    }
+  ],
+  "resources": [
+    {
+      "name": "huodezhanlian_atlas",
+      "type": "text",
+      "url": "guide_ares_alliance_out_put/huodezhanlian.atlas"
+    },
+    {
+      "name": "huodezhanlian_json",
+      "type": "json",
+      "url": "guide_ares_alliance_out_put/huodezhanlian.json"
+    },
+    {
+      "name": "huodezhanlian_png",
+      "type": "image",
+      "url": "guide_ares_alliance_out_put/huodezhanlian.png"
+    },
+    {
+      "name": "guide_ares_alliance_out_put_sheet",
+      "type": "sheet",
+      "url": "guide_ares_alliance_out_put/guide_ares_alliance_out_put_sheet.json",
+      "subkeys": ""
+    }
+  ]
+}

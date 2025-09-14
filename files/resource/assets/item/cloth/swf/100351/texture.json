@@ -1,0 +1,83 @@
+{
+  "SubTexture": [
+    {
+      "name": "Symbol 2",
+      "x": 97,
+      "width": 22,
+      "y": 0,
+      "height": 54
+    },
+    {
+      "name": "左下元件",
+      "x": 17,
+      "width": 27,
+      "y": 0,
+      "height": 63
+    },
+    {
+      "name": "arm",
+      "x": 72,
+      "width": 14,
+      "y": 54,
+      "height": 51
+    },
+    {
+      "name": "arm-",
+      "x": 96,
+      "width": 13,
+      "y": 55,
+      "height": 50
+    },
+    {
+      "name": "右面元件",
+      "x": 0,
+      "width": 16,
+      "y": 0,
+      "height": 78
+    },
+    {
+      "name": "arm-2",
+      "x": 87,
+      "width": 8,
+      "y": 54,
+      "height": 26
+    },
+    {
+      "name": "右上元件",
+      "x": 45,
+      "width": 26,
+      "y": 0,
+      "height": 64
+    },
+    {
+      "name": "arm-0",
+      "x": 110,
+      "width": 13,
+      "y": 55,
+      "height": 49
+    },
+    {
+      "name": "arm0",
+      "x": 17,
+      "width": 12,
+      "y": 64,
+      "height": 49
+    },
+    {
+      "name": "arm1",
+      "x": 30,
+      "width": 12,
+      "y": 64,
+      "height": 49
+    },
+    {
+      "name": "正背面手臂1",
+      "x": 72,
+      "width": 24,
+      "y": 0,
+      "height": 53
+    }
+  ],
+  "name": 100351,
+  "imagePath": "texture.png"
+}

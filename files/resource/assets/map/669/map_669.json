@@ -1,0 +1,30 @@
+{
+  "resources": [
+    {
+      "type": "json",
+      "url": "669.json",
+      "name": "road_669"
+    },
+    {
+      "type": "text",
+      "url": "Map669Skin.exml",
+      "name": "exml_669"
+    },
+    {
+      "type": "image",
+      "url": "map_669_bg_mc.jpg",
+      "name": "map_669_bg_mc_jpg"
+    },
+    {
+      "type": "image",
+      "url": "map_669_a.png",
+      "name": "map_669_a_png"
+    }
+  ],
+  "groups": [
+    {
+      "keys": "road_669,exml_669,map_669_bg_mc_jpg,map_669_a_png",
+      "name": "map_669"
+    }
+  ]
+}

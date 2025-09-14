@@ -1,0 +1,25 @@
+{
+  "groups": [
+    {
+      "keys": "road_999,exml_999,map_999_bg_mc_jpg",
+      "name": "map_999"
+    }
+  ],
+  "resources": [
+    {
+      "type": "json",
+      "url": "999.json",
+      "name": "road_999"
+    },
+    {
+      "type": "text",
+      "url": "Map999Skin.exml",
+      "name": "exml_999"
+    },
+    {
+      "type": "image",
+      "url": "map_999_bg_mc.jpg",
+      "name": "map_999_bg_mc_jpg"
+    }
+  ]
+}

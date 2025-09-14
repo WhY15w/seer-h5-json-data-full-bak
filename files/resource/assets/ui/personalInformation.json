@@ -1,0 +1,236 @@
+{
+  "groups": [
+    {
+      "name": "personalInformation",
+      "keys": "personalInformation_sheet,tubiao_atlas,tubiao_json,change_name_pop_imgbg_png,change_name_pop_imginputbg_png,new_clothes_warehouse_pop_img7_png,new_clothes_warehouse_pop_imgbg_png,new_suit_pop_view_img5_png,new_suit_pop_view_img7_png,new_suit_pop_view_top_png,personalinformationidcardpetshow_jlzs_png,personalInformationMe_bg_0_png,personalInformationMe_bg_1_png,personalInformationMe_cloth_item_bg_png,personalInformationMe_cloth_item_bg_r_png,personalInformationMe_dz1111_png,personalInformationMe_exchangeCode_exchangeCode_panel_bg_png,personalInformationMe_exchangeCode_inputbg_png,personalInformationMe_ground_back_jpg,personalInformationMe_lineIcon_png,personalInformationMe_lineIcon_0_png,personalInformationMe_lineIcon_1_png,personalInformationMe_lineIcon_2_png,personalInformationMe_lineIcon_3_png,personalInformationMe_lineIcon_4_png,personalInformationMe_pet_detailedInfo_bg_png,personalInformationMe_up_bg_png,personalInformationOther_bookNumBg_png,personalInformationOther_dz1111_png,personalInformationOther_infoBg_png,personalinformation_id_cardpop_mpdk_png,personalinformation_id_cardpop_other_png,personalinformation_id_cardpop_userinfobg_png,personalInformation_ID_Card_cardPop_jindude_png,personalInformation_ID_Card_petShow_infodi_png,personalinformation_id_choosepetpop_jindude_png,personalinformation_name_frame_pop_bg_png,personalinformation_name_frame_pop_bg1_png,personalinformation_policy_pop_bbbg_png,playerInfo_title_pop_Searchbg_png,resource_center_act_bg_png,resource_center_act_item_bg_png,select_car_pop_bg_png,select_car_pop_itembg_png,tubiao_png"
+    }
+  ],
+  "resources": [
+    {
+      "name": "tubiao_atlas",
+      "type": "text",
+      "url": "personalInformation/outside/tubiao.atlas"
+    },
+    {
+      "name": "tubiao_json",
+      "type": "json",
+      "url": "personalInformation/outside/tubiao.json"
+    },
+    {
+      "name": "change_name_pop_imgbg_png",
+      "type": "image",
+      "url": "personalInformation/outside/change_name_pop_imgbg.png"
+    },
+    {
+      "name": "change_name_pop_imginputbg_png",
+      "type": "image",
+      "url": "personalInformation/outside/change_name_pop_imginputbg.png"
+    },
+    {
+      "name": "new_clothes_warehouse_pop_img7_png",
+      "type": "image",
+      "url": "personalInformation/outside/new_clothes_warehouse_pop_img7.png"
+    },
+    {
+      "name": "new_clothes_warehouse_pop_imgbg_png",
+      "type": "image",
+      "url": "personalInformation/outside/new_clothes_warehouse_pop_imgbg.png"
+    },
+    {
+      "name": "new_suit_pop_view_img5_png",
+      "type": "image",
+      "url": "personalInformation/outside/new_suit_pop_view_img5.png"
+    },
+    {
+      "name": "new_suit_pop_view_img7_png",
+      "type": "image",
+      "url": "personalInformation/outside/new_suit_pop_view_img7.png"
+    },
+    {
+      "name": "new_suit_pop_view_top_png",
+      "type": "image",
+      "url": "personalInformation/outside/new_suit_pop_view_top.png"
+    },
+    {
+      "name": "personalinformationidcardpetshow_jlzs_png",
+      "type": "image",
+      "url": "personalInformation/outside/personalinformationidcardpetshow_jlzs.png"
+    },
+    {
+      "name": "personalInformationMe_bg_0_png",
+      "type": "image",
+      "url": "personalInformation/outside/personalInformationMe_bg_0.png"
+    },
+    {
+      "name": "personalInformationMe_bg_1_png",
+      "type": "image",
+      "url": "personalInformation/outside/personalInformationMe_bg_1.png"
+    },
+    {
+      "name": "personalInformationMe_cloth_item_bg_png",
+      "type": "image",
+      "url": "personalInformation/outside/personalInformationMe_cloth_item_bg.png"
+    },
+    {
+      "name": "personalInformationMe_cloth_item_bg_r_png",
+      "type": "image",
+      "url": "personalInformation/outside/personalInformationMe_cloth_item_bg_r.png"
+    },
+    {
+      "name": "personalInformationMe_dz1111_png",
+      "type": "image",
+      "url": "personalInformation/outside/personalInformationMe_dz1111.png"
+    },
+    {
+      "name": "personalInformationMe_exchangeCode_exchangeCode_panel_bg_png",
+      "type": "image",
+      "url": "personalInformation/outside/personalInformationMe_exchangeCode_exchangeCode_panel_bg.png"
+    },
+    {
+      "name": "personalInformationMe_exchangeCode_inputbg_png",
+      "type": "image",
+      "url": "personalInformation/outside/personalInformationMe_exchangeCode_inputbg.png"
+    },
+    {
+      "name": "personalInformationMe_ground_back_jpg",
+      "type": "image",
+      "url": "personalInformation/outside/personalInformationMe_ground_back.jpg"
+    },
+    {
+      "name": "personalInformationMe_lineIcon_png",
+      "type": "image",
+      "url": "personalInformation/outside/personalInformationMe_lineIcon.png"
+    },
+    {
+      "name": "personalInformationMe_lineIcon_0_png",
+      "type": "image",
+      "url": "personalInformation/outside/personalInformationMe_lineIcon_0.png"
+    },
+    {
+      "name": "personalInformationMe_lineIcon_1_png",
+      "type": "image",
+      "url": "personalInformation/outside/personalInformationMe_lineIcon_1.png"
+    },
+    {
+      "name": "personalInformationMe_lineIcon_2_png",
+      "type": "image",
+      "url": "personalInformation/outside/personalInformationMe_lineIcon_2.png"
+    },
+    {
+      "name": "personalInformationMe_lineIcon_3_png",
+      "type": "image",
+      "url": "personalInformation/outside/personalInformationMe_lineIcon_3.png"
+    },
+    {
+      "name": "personalInformationMe_lineIcon_4_png",
+      "type": "image",
+      "url": "personalInformation/outside/personalInformationMe_lineIcon_4.png"
+    },
+    {
+      "name": "personalInformationMe_pet_detailedInfo_bg_png",
+      "type": "image",
+      "url": "personalInformation/outside/personalInformationMe_pet_detailedInfo_bg.png"
+    },
+    {
+      "name": "personalInformationMe_up_bg_png",
+      "type": "image",
+      "url": "personalInformation/outside/personalInformationMe_up_bg.png"
+    },
+    {
+      "name": "personalInformationOther_bookNumBg_png",
+      "type": "image",
+      "url": "personalInformation/outside/personalInformationOther_bookNumBg.png"
+    },
+    {
+      "name": "personalInformationOther_dz1111_png",
+      "type": "image",
+      "url": "personalInformation/outside/personalInformationOther_dz1111.png"
+    },
+    {
+      "name": "personalInformationOther_infoBg_png",
+      "type": "image",
+      "url": "personalInformation/outside/personalInformationOther_infoBg.png"
+    },
+    {
+      "name": "personalinformation_id_cardpop_mpdk_png",
+      "type": "image",
+      "url": "personalInformation/outside/personalinformation_id_cardpop_mpdk.png"
+    },
+    {
+      "name": "personalinformation_id_cardpop_other_png",
+      "type": "image",
+      "url": "personalInformation/outside/personalinformation_id_cardpop_other.png"
+    },
+    {
+      "name": "personalinformation_id_cardpop_userinfobg_png",
+      "type": "image",
+      "url": "personalInformation/outside/personalinformation_id_cardpop_userinfobg.png"
+    },
+    {
+      "name": "personalInformation_ID_Card_cardPop_jindude_png",
+      "type": "image",
+      "url": "personalInformation/outside/personalInformation_ID_Card_cardPop_jindude.png"
+    },
+    {
+      "name": "personalInformation_ID_Card_petShow_infodi_png",
+      "type": "image",
+      "url": "personalInformation/outside/personalInformation_ID_Card_petShow_infodi.png"
+    },
+    {
+      "name": "personalinformation_id_choosepetpop_jindude_png",
+      "type": "image",
+      "url": "personalInformation/outside/personalinformation_id_choosepetpop_jindude.png"
+    },
+    {
+      "name": "personalinformation_name_frame_pop_bg_png",
+      "type": "image",
+      "url": "personalInformation/outside/personalinformation_name_frame_pop_bg.png"
+    },
+    {
+      "name": "personalinformation_name_frame_pop_bg1_png",
+      "type": "image",
+      "url": "personalInformation/outside/personalinformation_name_frame_pop_bg1.png"
+    },
+    {
+      "name": "personalinformation_policy_pop_bbbg_png",
+      "type": "image",
+      "url": "personalInformation/outside/personalinformation_policy_pop_bbbg.png"
+    },
+    {
+      "name": "playerInfo_title_pop_Searchbg_png",
+      "type": "image",
+      "url": "personalInformation/outside/playerInfo_title_pop_Searchbg.png"
+    },
+    {
+      "name": "resource_center_act_bg_png",
+      "type": "image",
+      "url": "personalInformation/outside/resource_center_act_bg.png"
+    },
+    {
+      "name": "resource_center_act_item_bg_png",
+      "type": "image",
+      "url": "personalInformation/outside/resource_center_act_item_bg.png"
+    },
+    {
+      "name": "select_car_pop_bg_png",
+      "type": "image",
+      "url": "personalInformation/outside/select_car_pop_bg.png"
+    },
+    {
+      "name": "select_car_pop_itembg_png",
+      "type": "image",
+      "url": "personalInformation/outside/select_car_pop_itembg.png"
+    },
+    {
+      "name": "tubiao_png",
+      "type": "image",
+      "url": "personalInformation/outside/tubiao.png"
+    },
+    {
+      "name": "personalInformation_sheet",
+      "type": "sheet",
+      "url": "personalInformation/personalInformation_sheet.json",
+      "subkeys": "personalInformation_card_get_pop_btnGotoExchange_png,personalInformation_card_get_pop_cardHasGet_png,personalInformation_card_get_pop_carEquipt_png,personalInformation_card_get_pop_hasShow_png,personalInformation_card_get_pop_title_png,personalInformation_ID_Card_cardPop_dck_png,personalInformation_ID_Card_cardPop_dekuang_png,personalInformation_ID_Card_cardPop_jindu_png,personalInformation_ID_Card_cardPop_locked_png,personalInformation_ID_Card_cardPop_mingpian_png,personalInformation_ID_Card_cardPop_selected_png,personalInformation_ID_Card_cardPop_xzzsjs_png,personalInformation_ID_Card_cardPop_yqzd_png,personalInformation_ID_Card_cardPop_zudui_png,warehouseid_sort_down_down_png,warehouseid_sort_down_up_png,warehouseid_sort_up_down_png,warehouseid_sort_up_up_png,warehouselvl_sort_down_down_png,warehouselvl_sort_down_up_png,warehouselvl_sort_up_down_png,warehouselvl_sort_up_up_png,WarehouseNew_petfactor_cbg_png,warehousetm_sort_down_down_png,warehousetm_sort_down_up_png,warehousetm_sort_up_down_png,warehousetm_sort_up_up_png,warehouse_img_down_png,warehouse_img_up_png,warehouse_sort_bg_png,select_car_pop_addcar_png,select_car_pop_btnsearch_png,select_car_pop_carbg_png,select_car_pop_desccarbg_png,select_car_pop_descline_png,select_car_pop_dress_png,select_car_pop_none_png,select_car_pop_quality_png,select_car_pop_searchbg_png,select_car_pop_selected_png,select_car_pop_unDress_png,change_name_pop_btnclose_png,change_name_pop_imgbtnbg_png,personalinformation_id_choosepetpop_btnsearch_png,personalinformation_id_choosepetpop_btnZhanshi_png,personalinformation_id_choosepetpop_isshowing_png,personalinformation_id_choosepetpop_jindu_png,personalinformation_id_choosepetpop_kuang_png,personalinformation_id_choosepetpop_searchbg_png,personalinformation_id_choosepetpop_selected__png,personalinformation_id_choosepetpop_xzzsjs_png,warehousenew_btnattr_png,personalinformation_id_cardpop_15_png,personalinformation_id_cardpop_21_png,personalinformation_id_cardpop_add_png,personalinformation_id_cardpop_btnbianji_png,personalinformation_id_cardpop_btnfuzhi__png,personalinformation_id_cardpop_btnjubao_png,personalinformation_id_cardpop_btnlahei_png,personalinformation_id_cardpop_btnreplace_png,personalinformation_id_cardpop_btnshanchu_png,personalinformation_id_cardpop_btntianjia_png,personalinformation_id_cardpop_btnyaoqing_png,personalinformation_id_cardpop_chzs_png,personalinformation_id_cardpop_dfsz_png,personalinformation_id_cardpop_di_1_png,personalinformation_id_cardpop_di_2_png,personalinformation_id_cardpop_headbg_png,personalinformation_id_cardpop_icon_id_png,personalinformation_id_cardpop_icon_jx_png,personalinformation_id_cardpop_icon_nc_png,personalinformation_id_cardpop_icon_riji_png,personalinformation_id_cardpop_icon_vip_png,personalinformation_id_cardpop_icon_zd_png,personalinformation_id_cardpop_imgshu_png,personalinformation_id_cardpop_jlzs_png,personalinformation_id_cardpop_jrzs_png,personalinformation_id_cardpop_jx_519_kb_png,personalinformation_id_cardpop_kong_png,personalinformation_id_cardpop_kuang_png,personalinformation_id_cardpop_line2_png,personalinformation_id_cardpop_null_png,personalinformation_id_cardpop_peakjihad_sport_title_png,personalinformation_id_cardpop_peakjihad_wild_title_png,personalinformation_id_cardpop_refresh_png,personalinformation_id_cardpop_showBg_png,personalinformation_id_cardpop_sjjc_png,personalinformation_id_cardpop_sport_cur_bg_png,personalinformation_id_cardpop_sport_history_bg_png,personalinformation_id_cardpop_wild_cur_bg_png,personalinformation_id_cardpop_wild_history_bg_png,personalinformation_id_cardpop_xzsk_png,personalInformation_ID_Card_petShow_3_png,personalInformation_ID_Card_petShow_petShowBg_png,personalinformation_peakJiHad_itemBg_png,new_clothes_warehouse_pop_btnsearch_png,new_clothes_warehouse_pop_close_png,new_clothes_warehouse_pop_img1_png,new_clothes_warehouse_pop_img2_png,new_clothes_warehouse_pop_img3_png,new_clothes_warehouse_pop_img4_png,new_clothes_warehouse_pop_img5_png,new_clothes_warehouse_pop_img6_png,new_clothes_warehouse_pop_img8_png,new_clothes_warehouse_pop_imgarrow_png,new_clothes_warehouse_pop_imgbtn1_png,new_clothes_warehouse_pop_imgbtn2_png,new_clothes_warehouse_pop_imgeye_png,new_clothes_warehouse_pop_imgfoot_png,new_clothes_warehouse_pop_imghand_png,new_clothes_warehouse_pop_imghead_png,new_clothes_warehouse_pop_imgicon_png,new_clothes_warehouse_pop_imgitembg_png,new_clothes_warehouse_pop_imgline1_png,new_clothes_warehouse_pop_imgline2_png,new_clothes_warehouse_pop_imgquality_png,new_clothes_warehouse_pop_imgselect_png,new_clothes_warehouse_pop_imgup_png,new_clothes_warehouse_pop_imgwaist_png,new_clothes_warehouse_pop_searchbg_png,new_suit_pop_view_btnsearch_png,new_suit_pop_view_close_png,new_suit_pop_view_di_png,new_suit_pop_view_empty_tip_png,new_suit_pop_view_img1_png,new_suit_pop_view_img2_png,new_suit_pop_view_img3_png,new_suit_pop_view_img4_png,new_suit_pop_view_img6_png,new_suit_pop_view_img8_png,new_suit_pop_view_img9_png,new_suit_pop_view_imgarrow_png,new_suit_pop_view_imgdress_png,new_suit_pop_view_imgicon_png,new_suit_pop_view_imgnamebg_png,new_suit_pop_view_imgnothave_png,new_suit_pop_view_imgselected_png,new_suit_pop_view_juxing_24_png,new_suit_pop_view_jx_24_kb_png,new_suit_pop_view_yzb_png,personalinformationidcardcardpop_btngenghuan_png,personalinformationidcardcardpop_btnqianwang_png,personalinformationidcardcardpop_dekuang_png,personalinformationidcardcardpop_jindu_png,personalinformationidcardcardpop_jindude_png,personalinformationidcardcardpop_locked_png,personalinformationidcardcardpop_mingpian_png,personalinformationidcardcardpop_new_png,personalinformationidcardcardpop_selected_png,personalinformationidcardcardpop_titlebg_png,personalinformationidcardcardpop_yigenghuan_png,personalinformationidcardcardpop_zbz_png,personalInformationMetaozhuang1_down_png,personalInformationMetaozhuang1_up_png,personalInformationMetaozhuang2_down_png,personalInformationMetaozhuang2_up_png,personalInformationMetaozhuang3_down_png,personalInformationMetaozhuang3_up_png,personalInformationMe_addBtn_0_png,personalInformationMe_btnJunxie_png,personalinformationme_btnkefu_png,personalInformationMe_btnSave_png,personalInformationMe_btnSet_png,personalInformationMe_btnUse_png,personalinformationme_btnyinsi_png,personalinformationme_btnzhanghu_png,personalInformationMe_changeBtn_png,personalInformationMe_detailsBtn_png,personalInformationMe_doneWearBtn_png,personalInformationMe_exchangeCode_img_btn_exchangeCode_png,personalInformationMe_genghuan_png,personalInformationMe_gotoSuitBtn_png,personalInformationMe_headBg_png,personalInformationMe_icon_001_png,personalInformationMe_icon_002_png,personalInformationMe_icon_003_png,personalInformationMe_icon_004_png,personalInformationMe_img_btn_close_png,personalInformationMe_img_corner_png,personalInformationMe_img_corner_r_png,personalInformationMe_joinTeamBtn_png,personalInformationMe_kb_115_png,personalinformationme_line3_png,personalInformationMe_line_2312313_png,personalInformationMe_line_34324324_png,personalInformationMe_line_343243245_png,personalInformationMe_lookTeamBtn_png,personalInformationMe_military_icon_png,personalInformationMe_modifyBtn_png,personalInformationMe_nonoIcon_png,personalInformationMe_NotVip_png,personalInformationMe_ownerInfoBtn_png,personalInformationMe_qianwang_png,personalInformationMe_selected_png,personalInformationMe_selected_1_png,personalInformationMe_suitIconBg_0_png,personalInformationMe_suitIconBigBg_0_png,personalInformationMe_suitInfoLine_png,personalInformationMe_teamIcon_png,personalInformationMe_texture_7_png,personalInformationMe_unloadBtn_png,personalInformationMe_vipBtn_png,personalInformationMe_VIPIcon_png,personalInformationMe_vipNum_png,personalInformationMe_wearBtn_png,personalinformationme_xiafangdi_png,personalInformationMe_xiangqing_png,personalInformationOther_add_btn_png,personalInformationOther_applyBtn_png,personalInformationOther_block_btn_png,personalInformationOther_chat_btn_png,personalInformationOther_combatTeamBtn_png,personalInformationOther_delete_btn_png,personalInformationOther_fight_Btn_png,personalInformationOther_headBg_png,personalInformationOther_icon_001_png,personalInformationOther_icon_002_png,personalInformationOther_icon_003_png,personalInformationOther_invitation_btn_png,personalInformationOther_iteamIcon_png,personalInformationOther_line_png,personalInformationOther_line232323_png,personalInformationOther_militaryInfoBg_png,personalInformationOther_military_icon_png,personalInformationOther_organizeTeamBtn_png,personalInformationOther_partsIconBg_0_png,personalInformationOther_remove_black_png,personalInformationOther_report_btn_png,personalInformationOther_rightInfo_bg_png,personalInformationOther_teamInfobg_png,personalInformationOther_titleNameBg_png,personalInformationOther_titleTxpng_png,personalInformationOther_vip_png,personalInformationOther_visit_btn_png,personalinformation_achievepop_selectmark_png,personalInformation_btnfire0_png,personalInformation_btnfire6_png,personalInformation_btnfire7_png,personalInformation_btnfire8_png,personalInformation_btnfire9_png,personalInformation_btnfiremix_png,personalInformation_btnKefu_png,personalInformation_btnResource_png,personalInformation_btnYinsi_png,personalInformation_btnZhanghu_png,personalInformation_img0_png,personalInformation_img6_png,personalInformation_img7_png,personalInformation_img8_png,personalInformation_img9_png,personalinformation_name_frame_pop_btnget_png,personalinformation_name_frame_pop_btnuse_png,personalinformation_name_frame_pop_btnusing_png,personalinformation_name_frame_pop_framebg_png,personalinformation_name_frame_pop_img_btn_yes_png,personalinformation_name_frame_pop_lock_png,personalinformation_name_frame_pop_select_png,personalinformation_name_frame_pop_title_png,personalinformation_name_frame_pop_using_png,personalinformation_policy_pop_imayinsi_png,personalinformation_policy_pop_person_png,personalinformation_policy_pop_protect_png,personalinformation_policy_pop_three_png,personalinformation_suo_png,personalInformation_taozhuangbg_png,personalInformation_timebg_png,personalinformationidcardpetshow_3_png,personalinformationidcardpetshow_btngenghuan_png,personalinformationidcardpetshow_btnquxiao_png,personalinformationidcardpetshow_btnShuXingSwitch_png,personalinformationidcardpetshow_btntexingswitch_png,personalinformationidcardpetshow_btntihuan_png,personalinformationidcardpetshow_btnzhanshi_png,personalinformationidcardpetshow_icon_sh_0_png,personalinformationidcardpetshow_icon_sh_1_png,personalinformationidcardpetshow_icon_sh_2_png,personalinformationidcardpetshow_icon_star_png,personalinformationidcardpetshow_icon_star_bg_png,personalinformationidcardpetshow_icon_type_png,personalinformationidcardpetshow_imgclose_png,personalinformationidcardpetshow_imgmark1bg_png,personalinformationidcardpetshow_imgShuxingSwitchBg_png,personalinformationidcardpetshow_imgtebg_png,personalinformationidcardpetshow_imgtexingswitchbg_png,personalinformationidcardpetshow_infodi_png,personalinformationidcardpetshow_juxing_64_png,personalinformationidcardpetshow_jx_9_kb_8_png,personalinformationidcardpetshow_texture_star_png,personalinformationidcardpetshow_titlebg_png,personalinformationidcardpetshow_titlename1_png,personalinformationidcardpetshow_titlename2_png,playerInfo_title_pop_btnSearch_png,playerInfo_title_pop_img_png,playerInfo_title_pop_item_Img_used_png,playerInfo_title_pop_tile_title_png,resource_center_act_red_progress_png,resource_center_act_yellow_progress_png"
+    }
+  ]
+}

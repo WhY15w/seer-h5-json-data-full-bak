@@ -1,0 +1,30 @@
+{
+  "groups": [
+    {
+      "keys": "road_753,exml_753,map_753_bg_mc_jpg,map_753_stone_png",
+      "name": "map_753"
+    }
+  ],
+  "resources": [
+    {
+      "type": "json",
+      "url": "753.json",
+      "name": "road_753"
+    },
+    {
+      "type": "text",
+      "url": "Map753Skin.exml",
+      "name": "exml_753"
+    },
+    {
+      "type": "image",
+      "url": "map_753_bg_mc.jpg",
+      "name": "map_753_bg_mc_jpg"
+    },
+    {
+      "type": "image",
+      "url": "map_753_stone.png",
+      "name": "map_753_stone_png"
+    }
+  ]
+}

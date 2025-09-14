@@ -1,0 +1,45 @@
+{
+  "groups": [
+    {
+      "keys": "road_435,exml_435,map_435_bg_mc_jpg,map_435_shipMC_png,map_435_avatarMC_png,map_435_no_pet_mc_png,map_435_top_mc_png",
+      "name": "map_435"
+    }
+  ],
+  "resources": [
+    {
+      "type": "json",
+      "url": "435.json",
+      "name": "road_435"
+    },
+    {
+      "type": "text",
+      "url": "Map435Skin.exml",
+      "name": "exml_435"
+    },
+    {
+      "type": "image",
+      "url": "map_435_bg_mc.jpg",
+      "name": "map_435_bg_mc_jpg"
+    },
+    {
+      "type": "image",
+      "url": "map_435_shipMC.png",
+      "name": "map_435_shipMC_png"
+    },
+    {
+      "type": "image",
+      "url": "map_435_avatarMC.png",
+      "name": "map_435_avatarMC_png"
+    },
+    {
+      "type": "image",
+      "url": "map_435_no_pet_mc.png",
+      "name": "map_435_no_pet_mc_png"
+    },
+    {
+      "type": "image",
+      "url": "map_435_top_mc.png",
+      "name": "map_435_top_mc_png"
+    }
+  ]
+}

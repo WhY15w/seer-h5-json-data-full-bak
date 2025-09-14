@@ -1,0 +1,91 @@
+{
+  "groups": [
+    {
+      "name": "phoenix_pass_panel",
+      "keys": "phoenix_pass_panel_sheet,zhuque_atlas,zhuque_json,phoenix_pass_panel_bg_jpg,phoenix_pass_panel_enter_bg_jpg,phoenix_pass_panel_fire_bg_jpg,phoenix_pass_panel_get_pet2_png,phoenix_pass_panel_one_pop_bg_png,phoenix_pass_panel_pet1_png,phoenix_pass_panel_trial_pet_png,phoenix_pass_panel_trial_popbg_1_png,phoenix_pass_panel_trial_popbg_2_png,phoenix_pass_panel_trial_popbg_3_png,phoenix_pass_panel_trial_popbg_4_png,phoenix_pass_panel_trial_rec_png,zhuque_png"
+    }
+  ],
+  "resources": [
+    {
+      "name": "zhuque_atlas",
+      "type": "text",
+      "url": "phoenix_pass_panel/outside/zhuque.atlas"
+    },
+    {
+      "name": "zhuque_json",
+      "type": "json",
+      "url": "phoenix_pass_panel/outside/zhuque.json"
+    },
+    {
+      "name": "phoenix_pass_panel_bg_jpg",
+      "type": "image",
+      "url": "phoenix_pass_panel/outside/phoenix_pass_panel_bg.jpg"
+    },
+    {
+      "name": "phoenix_pass_panel_enter_bg_jpg",
+      "type": "image",
+      "url": "phoenix_pass_panel/outside/phoenix_pass_panel_enter_bg.jpg"
+    },
+    {
+      "name": "phoenix_pass_panel_fire_bg_jpg",
+      "type": "image",
+      "url": "phoenix_pass_panel/outside/phoenix_pass_panel_fire_bg.jpg"
+    },
+    {
+      "name": "phoenix_pass_panel_get_pet2_png",
+      "type": "image",
+      "url": "phoenix_pass_panel/outside/phoenix_pass_panel_get_pet2.png"
+    },
+    {
+      "name": "phoenix_pass_panel_one_pop_bg_png",
+      "type": "image",
+      "url": "phoenix_pass_panel/outside/phoenix_pass_panel_one_pop_bg.png"
+    },
+    {
+      "name": "phoenix_pass_panel_pet1_png",
+      "type": "image",
+      "url": "phoenix_pass_panel/outside/phoenix_pass_panel_pet1.png"
+    },
+    {
+      "name": "phoenix_pass_panel_trial_pet_png",
+      "type": "image",
+      "url": "phoenix_pass_panel/outside/phoenix_pass_panel_trial_pet.png"
+    },
+    {
+      "name": "phoenix_pass_panel_trial_popbg_1_png",
+      "type": "image",
+      "url": "phoenix_pass_panel/outside/phoenix_pass_panel_trial_popbg_1.png"
+    },
+    {
+      "name": "phoenix_pass_panel_trial_popbg_2_png",
+      "type": "image",
+      "url": "phoenix_pass_panel/outside/phoenix_pass_panel_trial_popbg_2.png"
+    },
+    {
+      "name": "phoenix_pass_panel_trial_popbg_3_png",
+      "type": "image",
+      "url": "phoenix_pass_panel/outside/phoenix_pass_panel_trial_popbg_3.png"
+    },
+    {
+      "name": "phoenix_pass_panel_trial_popbg_4_png",
+      "type": "image",
+      "url": "phoenix_pass_panel/outside/phoenix_pass_panel_trial_popbg_4.png"
+    },
+    {
+      "name": "phoenix_pass_panel_trial_rec_png",
+      "type": "image",
+      "url": "phoenix_pass_panel/outside/phoenix_pass_panel_trial_rec.png"
+    },
+    {
+      "name": "zhuque_png",
+      "type": "image",
+      "url": "phoenix_pass_panel/outside/zhuque.png"
+    },
+    {
+      "name": "phoenix_pass_panel_sheet",
+      "type": "sheet",
+      "url": "phoenix_pass_panel/phoenix_pass_panel_sheet.json",
+      "subkeys": "phoenix_pass_panel_bless_png,phoenix_pass_panel_btnevolve_png,phoenix_pass_panel_btnevolveneed_png,phoenix_pass_panel_enter_doorname_png,phoenix_pass_panel_enter_line_png,phoenix_pass_panel_enter_rec1_png,phoenix_pass_panel_enter_taskbg1_png,phoenix_pass_panel_enter_title_png,phoenix_pass_panel_fire_bag_png,phoenix_pass_panel_fire_cure_png,phoenix_pass_panel_fire_dosth_png,phoenix_pass_panel_fire_draw_png,phoenix_pass_panel_fire_eyebg_png,phoenix_pass_panel_fire_ima1_png,phoenix_pass_panel_fire_ima2_png,phoenix_pass_panel_fire_ima3_png,phoenix_pass_panel_fire_ima4_png,phoenix_pass_panel_fire_ima5_png,phoenix_pass_panel_fire_ima6_png,phoenix_pass_panel_fire_ima7_png,phoenix_pass_panel_fire_ima8_png,phoenix_pass_panel_fire_ima9_png,phoenix_pass_panel_fire_l_png,phoenix_pass_panel_fire_n_png,phoenix_pass_panel_fire_title_png,phoenix_pass_panel_get_1_png,phoenix_pass_panel_get_2_png,phoenix_pass_panel_get_getitem_png,phoenix_pass_panel_get_getpet_png,phoenix_pass_panel_get_got1_png,phoenix_pass_panel_get_got2_png,phoenix_pass_panel_get_goup_png,phoenix_pass_panel_get_icon_png,phoenix_pass_panel_get_imaevo_png,phoenix_pass_panel_get_img_di2_png,phoenix_pass_panel_get_title_png,phoenix_pass_panel_go_png,phoenix_pass_panel_imainfo_png,phoenix_pass_panel_imaone_png,phoenix_pass_panel_imatitle_png,phoenix_pass_panel_ima_has_png,phoenix_pass_panel_one_pop_add_png,phoenix_pass_panel_one_pop_btnbuy_png,phoenix_pass_panel_one_pop_btnclose_png,phoenix_pass_panel_petname_png,phoenix_pass_panel_title_png,phoenix_pass_panel_trial_challenge_png,phoenix_pass_panel_trial_d1_png,phoenix_pass_panel_trial_d2_png,phoenix_pass_panel_trial_d3_png,phoenix_pass_panel_trial_d4_png,phoenix_pass_panel_trial_ima1_png,phoenix_pass_panel_trial_ima2_png,phoenix_pass_panel_trial_ima3_png,phoenix_pass_panel_trial_ima4_png,phoenix_pass_panel_trial_popchallenge_png,phoenix_pass_panel_trial_popclose_1_png,phoenix_pass_panel_trial_popclose_2_png,phoenix_pass_panel_trial_popclose_3_png,phoenix_pass_panel_trial_popclose_4_png,phoenix_pass_panel_trial_probg_png,phoenix_pass_panel_trial_reset_png,phoenix_pass_panel_trial_rightbg_png,phoenix_pass_panel_trial_starbg_1_png,phoenix_pass_panel_trial_star_1_png,phoenix_pass_panel_trial_title_png,phoenix_pass_panel_trial_type1_png,phoenix_pass_panel_trial_type2_png,phoenix_pass_panel_trial_type3_png,phoenix_pass_panel_trial_type4_png,phoenix_pass_panel_trial_what_png"
+    }
+  ]
+}

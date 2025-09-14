@@ -1,0 +1,30 @@
+{
+  "groups": [
+    {
+      "keys": "road_762,exml_762,map_762_bg_mc_jpg,map_762_lion_png",
+      "name": "map_762"
+    }
+  ],
+  "resources": [
+    {
+      "type": "json",
+      "url": "762.json",
+      "name": "road_762"
+    },
+    {
+      "type": "text",
+      "url": "Map762Skin.exml",
+      "name": "exml_762"
+    },
+    {
+      "type": "image",
+      "url": "map_762_bg_mc.jpg",
+      "name": "map_762_bg_mc_jpg"
+    },
+    {
+      "type": "image",
+      "url": "map_762_lion.png",
+      "name": "map_762_lion_png"
+    }
+  ]
+}

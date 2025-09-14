@@ -1,0 +1,45 @@
+{
+  "resources": [
+    {
+      "type": "json",
+      "url": "710.json",
+      "name": "road_710"
+    },
+    {
+      "type": "text",
+      "url": "Map710Skin.exml",
+      "name": "exml_710"
+    },
+    {
+      "type": "image",
+      "url": "map_710_bg_mc.jpg",
+      "name": "map_710_bg_mc_jpg"
+    },
+    {
+      "type": "image",
+      "url": "map_710_animator_mc.png",
+      "name": "map_710_animator_mc_png"
+    },
+    {
+      "type": "image",
+      "url": "map_710_task945Trigger_1.png",
+      "name": "map_710_task945Trigger_1_png"
+    },
+    {
+      "type": "image",
+      "url": "map_710_water.png",
+      "name": "map_710_water_png"
+    },
+    {
+      "type": "image",
+      "url": "map_710_top_mc.png",
+      "name": "map_710_top_mc_png"
+    }
+  ],
+  "groups": [
+    {
+      "keys": "road_710,exml_710,map_710_bg_mc_jpg,map_710_animator_mc_png,map_710_task945Trigger_1_png,map_710_water_png,map_710_top_mc_png",
+      "name": "map_710"
+    }
+  ]
+}

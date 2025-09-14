@@ -1,0 +1,115 @@
+{
+  "file": "community_center_sheet.png",
+  "frames": {
+    "blank_png": {
+      "x": 498,
+      "y": 1,
+      "w": 5,
+      "h": 5,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 10,
+      "sourceH": 10
+    },
+    "imgselect_short_png": {
+      "x": 235,
+      "y": 1,
+      "w": 169,
+      "h": 72,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 169,
+      "sourceH": 72
+    },
+    "sign_4399_png": {
+      "x": 1,
+      "y": 136,
+      "w": 137,
+      "h": 36,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 137,
+      "sourceH": 36
+    },
+    "sign_hykb_png": {
+      "x": 208,
+      "y": 128,
+      "w": 140,
+      "h": 36,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 140,
+      "sourceH": 36
+    },
+    "sign_taptap_png": {
+      "x": 350,
+      "y": 128,
+      "w": 139,
+      "h": 36,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 139,
+      "sourceH": 36
+    },
+    "subscribe_btnbg_png": {
+      "x": 208,
+      "y": 75,
+      "w": 195,
+      "h": 51,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 195,
+      "sourceH": 51
+    },
+    "subscribe_gift_btnGo_png": {
+      "x": 1,
+      "y": 75,
+      "w": 205,
+      "h": 59,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 205,
+      "sourceH": 59
+    },
+    "subscribe_gift_hasGot_png": {
+      "x": 140,
+      "y": 166,
+      "w": 112,
+      "h": 27,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 112,
+      "sourceH": 27
+    },
+    "subscribe_gift_itemBg_png": {
+      "x": 406,
+      "y": 1,
+      "w": 86,
+      "h": 86,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 86,
+      "sourceH": 86
+    },
+    "subscribe_line_png": {
+      "x": 494,
+      "y": 1,
+      "w": 2,
+      "h": 62,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 2,
+      "sourceH": 62
+    },
+    "subscribe_select_sign_png": {
+      "x": 1,
+      "y": 1,
+      "w": 232,
+      "h": 72,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 232,
+      "sourceH": 72
+    }
+  }
+}

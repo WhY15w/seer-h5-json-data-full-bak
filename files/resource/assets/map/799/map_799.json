@@ -1,0 +1,35 @@
+{
+  "resources": [
+    {
+      "type": "json",
+      "url": "799.json",
+      "name": "road_799"
+    },
+    {
+      "type": "text",
+      "url": "Map799Skin.exml",
+      "name": "exml_799"
+    },
+    {
+      "type": "image",
+      "url": "map_799_bg_mc.jpg",
+      "name": "map_799_bg_mc_jpg"
+    },
+    {
+      "type": "image",
+      "url": "map_799_lion.png",
+      "name": "map_799_lion_png"
+    },
+    {
+      "type": "image",
+      "url": "map_799_top_mc.png",
+      "name": "map_799_top_mc_png"
+    }
+  ],
+  "groups": [
+    {
+      "keys": "road_799,exml_799,map_799_bg_mc_jpg,map_799_lion_png,map_799_top_mc_png",
+      "name": "map_799"
+    }
+  ]
+}

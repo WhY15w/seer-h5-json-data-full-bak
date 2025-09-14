@@ -1,0 +1,25 @@
+{
+  "resources": [
+    {
+      "type": "json",
+      "url": "54.json",
+      "name": "road_54"
+    },
+    {
+      "type": "text",
+      "url": "Map54Skin.exml",
+      "name": "exml_54"
+    },
+    {
+      "type": "image",
+      "url": "map_54_bg_mc.png",
+      "name": "map_54_bg_mc_png"
+    }
+  ],
+  "groups": [
+    {
+      "keys": "road_54,exml_54,map_54_bg_mc_png",
+      "name": "map_54"
+    }
+  ]
+}

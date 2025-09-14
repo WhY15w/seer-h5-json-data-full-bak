@@ -1,0 +1,28 @@
+{
+  "groups": [
+    {
+      "name": "common_reward",
+      "keys": "common_reward_bottom_bg_png,common_reward_btnRewardbg_png,common_reward_selcted_head_png"
+    }
+  ],
+  "resources": [
+    {
+      "name": "common_reward_bottom_bg_png",
+      "scale9grid": "1,1,10,10",
+      "type": "image",
+      "url": "common_reward/s9/common_reward_bottom_bg.png"
+    },
+    {
+      "name": "common_reward_btnRewardbg_png",
+      "scale9grid": "72,6,21,38",
+      "type": "image",
+      "url": "common_reward/s9/common_reward_btnRewardbg.png"
+    },
+    {
+      "name": "common_reward_selcted_head_png",
+      "scale9grid": "46,42,19,16",
+      "type": "image",
+      "url": "common_reward/s9/common_reward_selcted_head.png"
+    }
+  ]
+}

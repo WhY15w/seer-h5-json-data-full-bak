@@ -1,0 +1,25 @@
+{
+  "resources": [
+    {
+      "type": "json",
+      "url": "809.json",
+      "name": "road_809"
+    },
+    {
+      "type": "text",
+      "url": "Map809Skin.exml",
+      "name": "exml_809"
+    },
+    {
+      "type": "image",
+      "url": "map_809_bg_mc.jpg",
+      "name": "map_809_bg_mc_jpg"
+    }
+  ],
+  "groups": [
+    {
+      "keys": "road_809,exml_809,map_809_bg_mc_jpg",
+      "name": "map_809"
+    }
+  ]
+}

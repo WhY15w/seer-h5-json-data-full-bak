@@ -1,0 +1,45 @@
+{
+  "groups": [
+    {
+      "keys": "road_700,exml_700,map_700_bg_mc_jpg,map_700_yutou2_png,map_700_yutou1_png,map_700_control_mc_png,map_700_dingceng_png",
+      "name": "map_700"
+    }
+  ],
+  "resources": [
+    {
+      "type": "json",
+      "url": "700.json",
+      "name": "road_700"
+    },
+    {
+      "type": "text",
+      "url": "Map700Skin.exml",
+      "name": "exml_700"
+    },
+    {
+      "type": "image",
+      "url": "map_700_bg_mc.jpg",
+      "name": "map_700_bg_mc_jpg"
+    },
+    {
+      "type": "image",
+      "url": "map_700_yutou2.png",
+      "name": "map_700_yutou2_png"
+    },
+    {
+      "type": "image",
+      "url": "map_700_yutou1.png",
+      "name": "map_700_yutou1_png"
+    },
+    {
+      "type": "image",
+      "url": "map_700_control_mc.png",
+      "name": "map_700_control_mc_png"
+    },
+    {
+      "type": "image",
+      "url": "map_700_dingceng.png",
+      "name": "map_700_dingceng_png"
+    }
+  ]
+}

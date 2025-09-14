@@ -1,0 +1,104 @@
+{
+  "SubTexture": [
+    {
+      "name": "正面元件",
+      "x": 152,
+      "width": 40,
+      "y": 108,
+      "height": 88
+    },
+    {
+      "name": "左下元件01",
+      "x": 80,
+      "width": 27,
+      "y": 108,
+      "height": 72
+    },
+    {
+      "name": "右面元件01",
+      "x": 106,
+      "width": 31,
+      "y": 195,
+      "height": 38
+    },
+    {
+      "name": "右上元件01",
+      "x": 80,
+      "width": 25,
+      "y": 181,
+      "height": 71
+    },
+    {
+      "name": "背面元件",
+      "x": 193,
+      "width": 40,
+      "y": 108,
+      "height": 88
+    },
+    {
+      "name": "__dbTextures/cloth_100994_1/lab_6_65",
+      "x": 40,
+      "width": 39,
+      "y": 108,
+      "height": 107
+    },
+    {
+      "name": "__dbTextures/cloth_100994_1/lab_6_66",
+      "x": 80,
+      "width": 39,
+      "y": 0,
+      "height": 107
+    },
+    {
+      "name": "__dbTextures/cloth_100994_1/lab_6_68",
+      "x": 200,
+      "width": 39,
+      "y": 0,
+      "height": 107
+    },
+    {
+      "name": "__dbTextures/cloth_100994_1/lab_6_70",
+      "x": 120,
+      "width": 39,
+      "y": 0,
+      "height": 107
+    },
+    {
+      "name": "__dbTextures/cloth_100994_1/lab_6_72",
+      "x": 0,
+      "width": 39,
+      "y": 108,
+      "height": 107
+    },
+    {
+      "name": "__dbTextures/cloth_100994_1/lab_6_74",
+      "x": 160,
+      "width": 39,
+      "y": 0,
+      "height": 107
+    },
+    {
+      "name": "__dbTextures/cloth_100994_1/lab_6_76",
+      "x": 0,
+      "width": 39,
+      "y": 0,
+      "height": 107
+    },
+    {
+      "name": "全侧面胳膊零件01",
+      "x": 108,
+      "width": 43,
+      "y": 108,
+      "height": 86
+    },
+    {
+      "name": "半侧面胳膊01",
+      "x": 40,
+      "width": 39,
+      "y": 0,
+      "height": 107
+    }
+  ],
+  "name": "100994_1",
+  "imagePath": "texture.png"
+}

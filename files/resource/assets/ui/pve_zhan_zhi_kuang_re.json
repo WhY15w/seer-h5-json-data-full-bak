@@ -1,0 +1,51 @@
+{
+  "groups": [
+    {
+      "name": "pve_zhan_zhi_kuang_re",
+      "keys": "pve_zhan_zhi_kuang_re_sheet,level1_bg_png,level1_L_png,level1_R_png,level2_pet_png,level3_pet_png,main_bg_png,upenergy_pet_png"
+    }
+  ],
+  "resources": [
+    {
+      "name": "level1_bg_png",
+      "type": "image",
+      "url": "pve_zhan_zhi_kuang_re/outside/level1_bg.png"
+    },
+    {
+      "name": "level1_L_png",
+      "type": "image",
+      "url": "pve_zhan_zhi_kuang_re/outside/level1_L.png"
+    },
+    {
+      "name": "level1_R_png",
+      "type": "image",
+      "url": "pve_zhan_zhi_kuang_re/outside/level1_R.png"
+    },
+    {
+      "name": "level2_pet_png",
+      "type": "image",
+      "url": "pve_zhan_zhi_kuang_re/outside/level2_pet.png"
+    },
+    {
+      "name": "level3_pet_png",
+      "type": "image",
+      "url": "pve_zhan_zhi_kuang_re/outside/level3_pet.png"
+    },
+    {
+      "name": "main_bg_png",
+      "type": "image",
+      "url": "pve_zhan_zhi_kuang_re/outside/main_bg.png"
+    },
+    {
+      "name": "upenergy_pet_png",
+      "type": "image",
+      "url": "pve_zhan_zhi_kuang_re/outside/upenergy_pet.png"
+    },
+    {
+      "name": "pve_zhan_zhi_kuang_re_sheet",
+      "type": "sheet",
+      "url": "pve_zhan_zhi_kuang_re/pve_zhan_zhi_kuang_re_sheet.json",
+      "subkeys": "level1_btnClose_png,level1_btnFight_png,level1_btnOne_png,level1_imgBtn_cure_png,level1_imgBtn_pet_png,level1_title_png,level1_txtbg_png,level1_up_bg_png,level1_vs_png,level2_asjdk_png,level2_btnAdd_png,level2_btnClose_png,level2_btnFight_png,level2_btnOne_png,level2_btnShenshou_png,level2_coutbg_png,level2_imgBtn_cure_png,level2_imgBtn_pet_png,level2_infobg2_png,level2_progressBar_png,level2_progressBarBg_png,level2_t1_png,level2_t2_png,level2_t3_png,level2_tips_png,level2_title_png,level2_txtbg_png,level2_up_bg_png,level3_btnAdd_png,level3_btnClose_png,level3_btnFight_png,level3_btnFind_png,level3_btnFind2_png,level3_btnOne_png,level3_btnQinchu_png,level3_btnYijian_png,level3_btnZhiyin_png,level3_cbg_png,level3_imgBtn_cure_png,level3_imgBtn_pet_png,level3_tiaozhanbg_png,level3_tips_png,level3_title_png,level3_txtbg_png,level3_txtbg2_png,level3_up_bg_png,level3_yexing_png,level3_zhanli_png,level4-5_progressBar2_png,level4-5_progressBarBg2_png,level40_down_png,level40_up_png,level41_down_png,level41_up_png,level42_down_png,level42_up_png,level4_btnAdd_png,level4_btnBeat_png,level4_btnClose_png,level4_btnFight_png,level4_btnOne_png,level4_cbg_png,level4_img2_png,level4_imgBtn_cure_png,level4_imgBtn_pet_png,level4_infobg_png,level4_infobg2_png,level4_pet_png,level4_title_png,level4_txtbg_png,level4_up_bg_png,main_btnClose_png,main_btnGet_png,main_btnInfo_png,main_btnOne_png,main_Got_png,main_img_j_png,main_level1_png,main_level2_png,main_level3_png,main_level4_png,main_up_bg_png,pve_zhan_zhi_kuang_re_btnbg_png,pve_zhan_zhi_kuang_re_main_tag_png,pve_zhan_zhi_kuang_re_upenergy_flagMark_png,pve_zzkr_main_title_png,upenergy1_down_png,upenergy1_up_png,upenergy2_down_png,upenergy2_up_png,upenergy3_down_png,upenergy3_up_png,upenergy_1716092_kb_png,upenergy_brnTexing_png,upenergy_btnAdd_png,upenergy_btnClose_png,upenergy_btnFight_png,upenergy_btnMark_png,upenergy_btnSkill_png,upenergy_icon_mark_png,upenergy_icon_skill_png,upenergy_icon_texing_png,upenergy_imgBtn_cure_png,upenergy_imgBtn_pet_png,upenergy_itembg1_png,upenergy_itembg2_png,upenergy_itembg3_png,upenergy_jx_29_kb_png,upenergy_title_png,upenergy_txtbg_png,upenergy_up_bg_png"
+    }
+  ]
+}

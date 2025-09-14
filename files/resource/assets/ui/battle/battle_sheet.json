@@ -1,0 +1,1545 @@
+{
+  "file": "battle_sheet.png",
+  "frames": {
+    "battle_back_png": {
+      "x": 335,
+      "y": 1099,
+      "w": 54,
+      "h": 64,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 54,
+      "sourceH": 64
+    },
+    "battle_blood_png": {
+      "x": 1671,
+      "y": 518,
+      "w": 81,
+      "h": 7,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 81,
+      "sourceH": 7
+    },
+    "battle_blood_bg_png": {
+      "x": 747,
+      "y": 851,
+      "w": 81,
+      "h": 7,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 81,
+      "sourceH": 7
+    },
+    "battle_btnBag0_png": {
+      "x": 1,
+      "y": 1109,
+      "w": 84,
+      "h": 84,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 84,
+      "sourceH": 84
+    },
+    "battle_btnBg_png": {
+      "x": 1359,
+      "y": 235,
+      "w": 310,
+      "h": 298,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 310,
+      "sourceH": 298
+    },
+    "battle_btnCatch_png": {
+      "x": 1957,
+      "y": 673,
+      "w": 84,
+      "h": 84,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 84,
+      "sourceH": 84
+    },
+    "battle_btnLose_png": {
+      "x": 399,
+      "y": 1080,
+      "w": 84,
+      "h": 84,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 84,
+      "sourceH": 84
+    },
+    "battle_btnPet_png": {
+      "x": 412,
+      "y": 851,
+      "w": 149,
+      "h": 139,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 149,
+      "sourceH": 139
+    },
+    "battle_btnPetback_png": {
+      "x": 1957,
+      "y": 587,
+      "w": 84,
+      "h": 84,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 84,
+      "sourceH": 84
+    },
+    "battle_btnReport1_png": {
+      "x": 1797,
+      "y": 1070,
+      "w": 174,
+      "h": 54,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 174,
+      "sourceH": 54
+    },
+    "battle_btnReport2_png": {
+      "x": 1522,
+      "y": 1076,
+      "w": 174,
+      "h": 54,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 174,
+      "sourceH": 54
+    },
+    "battle_btnRetreat_png": {
+      "x": 249,
+      "y": 1099,
+      "w": 84,
+      "h": 84,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 84,
+      "sourceH": 84
+    },
+    "battle_chujue_1_png": {
+      "x": 1753,
+      "y": 442,
+      "w": 24,
+      "h": 24,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 24,
+      "sourceH": 24
+    },
+    "battle_chujue_2_png": {
+      "x": 2015,
+      "y": 487,
+      "w": 25,
+      "h": 25,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 25,
+      "sourceH": 25
+    },
+    "battle_clock_bg_png": {
+      "x": 1779,
+      "y": 1,
+      "w": 234,
+      "h": 173,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 234,
+      "sourceH": 173
+    },
+    "battle_clock_bg2_png": {
+      "x": 1779,
+      "y": 412,
+      "w": 234,
+      "h": 173,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 234,
+      "sourceH": 173
+    },
+    "battle_failed_png": {
+      "x": 1209,
+      "y": 1032,
+      "w": 70,
+      "h": 41,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 70,
+      "sourceH": 41
+    },
+    "battle_field_effect_leftBg_png": {
+      "x": 121,
+      "y": 1064,
+      "w": 126,
+      "h": 78,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 126,
+      "sourceH": 78
+    },
+    "battle_field_effect_midBg_png": {
+      "x": 399,
+      "y": 992,
+      "w": 134,
+      "h": 86,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 134,
+      "sourceH": 86
+    },
+    "battle_field_effect_nullIcon_png": {
+      "x": 2015,
+      "y": 514,
+      "w": 25,
+      "h": 25,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 25,
+      "sourceH": 25
+    },
+    "battle_field_effect_rightBg_png": {
+      "x": 535,
+      "y": 1057,
+      "w": 126,
+      "h": 78,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 126,
+      "sourceH": 78
+    },
+    "battle_field_intro_pop_img_select_png": {
+      "x": 1276,
+      "y": 1261,
+      "w": 56,
+      "h": 56,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 56,
+      "sourceH": 56
+    },
+    "battle_field_intro_pop_img_select_1_png": {
+      "x": 1334,
+      "y": 1261,
+      "w": 56,
+      "h": 56,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 56,
+      "sourceH": 56
+    },
+    "battle_field_intro_pop_img_select_2_png": {
+      "x": 1779,
+      "y": 1237,
+      "w": 56,
+      "h": 56,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 56,
+      "sourceH": 56
+    },
+    "battle_field_intro_pop_title_1_png": {
+      "x": 1320,
+      "y": 1153,
+      "w": 113,
+      "h": 43,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 113,
+      "sourceH": 43
+    },
+    "battle_field_intro_pop_title_2_png": {
+      "x": 970,
+      "y": 1165,
+      "w": 113,
+      "h": 43,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 113,
+      "sourceH": 43
+    },
+    "battle_head_bg_png": {
+      "x": 1671,
+      "y": 412,
+      "w": 80,
+      "h": 104,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 80,
+      "sourceH": 104
+    },
+    "battle_hp1_down_png": {
+      "x": 1297,
+      "y": 1215,
+      "w": 322,
+      "h": 13,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 322,
+      "sourceH": 13
+    },
+    "battle_hp1_up_png": {
+      "x": 1409,
+      "y": 1200,
+      "w": 322,
+      "h": 13,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 322,
+      "sourceH": 13
+    },
+    "battle_hp2_down_png": {
+      "x": 1201,
+      "y": 1237,
+      "w": 287,
+      "h": 10,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 287,
+      "sourceH": 10
+    },
+    "battle_hp2_up_png": {
+      "x": 1490,
+      "y": 1237,
+      "w": 287,
+      "h": 10,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 287,
+      "sourceH": 10
+    },
+    "battle_hp3_down_png": {
+      "x": 325,
+      "y": 1204,
+      "w": 322,
+      "h": 13,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 322,
+      "sourceH": 13
+    },
+    "battle_hp3_up_png": {
+      "x": 649,
+      "y": 1210,
+      "w": 322,
+      "h": 13,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 322,
+      "sourceH": 13
+    },
+    "battle_hp4_down_png": {
+      "x": 973,
+      "y": 1213,
+      "w": 322,
+      "h": 13,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 322,
+      "sourceH": 13
+    },
+    "battle_hp4_up_png": {
+      "x": 1,
+      "y": 1215,
+      "w": 322,
+      "h": 13,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 322,
+      "sourceH": 13
+    },
+    "battle_image_btn_mask_0_png": {
+      "x": 1,
+      "y": 968,
+      "w": 118,
+      "h": 139,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 118,
+      "sourceH": 139
+    },
+    "battle_image_btn_mask_1_png": {
+      "x": 1241,
+      "y": 1109,
+      "w": 77,
+      "h": 77,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 77,
+      "sourceH": 77
+    },
+    "battle_imge_battle_pet_head_restraint_bg_0_png": {
+      "x": 1852,
+      "y": 1185,
+      "w": 91,
+      "h": 21,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 91,
+      "sourceH": 21
+    },
+    "battle_imge_currency_mask_png": {
+      "x": 121,
+      "y": 968,
+      "w": 174,
+      "h": 94,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 174,
+      "sourceH": 94
+    },
+    "battle_imge_item_mask_png": {
+      "x": 1797,
+      "y": 918,
+      "w": 180,
+      "h": 100,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 180,
+      "sourceH": 100
+    },
+    "battle_imge_restraint_arrow_imge_0_png": {
+      "x": 1909,
+      "y": 683,
+      "w": 33,
+      "h": 36,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 33,
+      "sourceH": 36
+    },
+    "battle_imge_restraint_arrow_imge_1_png": {
+      "x": 2015,
+      "y": 418,
+      "w": 32,
+      "h": 36,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 32,
+      "sourceH": 36
+    },
+    "battle_imge_restraint_arrow_imge_2_png": {
+      "x": 2008,
+      "y": 304,
+      "w": 33,
+      "h": 36,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 33,
+      "sourceH": 36
+    },
+    "battle_imge_restraint_arrow_imge_3_png": {
+      "x": 2015,
+      "y": 380,
+      "w": 32,
+      "h": 36,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 32,
+      "sourceH": 36
+    },
+    "battle_imge_restraint_arrow_imge_4_png": {
+      "x": 2008,
+      "y": 342,
+      "w": 33,
+      "h": 36,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 33,
+      "sourceH": 36
+    },
+    "battle_imge_restraint_words_imge_0_png": {
+      "x": 235,
+      "y": 1230,
+      "w": 77,
+      "h": 43,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 77,
+      "sourceH": 43
+    },
+    "battle_imge_restraint_words_imge_1_png": {
+      "x": 157,
+      "y": 1230,
+      "w": 76,
+      "h": 44,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 76,
+      "sourceH": 44
+    },
+    "battle_imge_restraint_words_imge_10_png": {
+      "x": 1,
+      "y": 1230,
+      "w": 76,
+      "h": 44,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 76,
+      "sourceH": 44
+    },
+    "battle_imge_restraint_words_imge_11_png": {
+      "x": 491,
+      "y": 1219,
+      "w": 80,
+      "h": 44,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 80,
+      "sourceH": 44
+    },
+    "battle_imge_restraint_words_imge_12_png": {
+      "x": 1463,
+      "y": 1261,
+      "w": 66,
+      "h": 43,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 66,
+      "sourceH": 43
+    },
+    "battle_imge_restraint_words_imge_13_png": {
+      "x": 1531,
+      "y": 1261,
+      "w": 66,
+      "h": 43,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 66,
+      "sourceH": 43
+    },
+    "battle_imge_restraint_words_imge_14_png": {
+      "x": 1666,
+      "y": 1261,
+      "w": 64,
+      "h": 43,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 64,
+      "sourceH": 43
+    },
+    "battle_imge_restraint_words_imge_15_png": {
+      "x": 1392,
+      "y": 1261,
+      "w": 69,
+      "h": 43,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 69,
+      "sourceH": 43
+    },
+    "battle_imge_restraint_words_imge_16_png": {
+      "x": 1599,
+      "y": 1261,
+      "w": 65,
+      "h": 43,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 65,
+      "sourceH": 43
+    },
+    "battle_imge_restraint_words_imge_17_png": {
+      "x": 1853,
+      "y": 1230,
+      "w": 77,
+      "h": 43,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 77,
+      "sourceH": 43
+    },
+    "battle_imge_restraint_words_imge_18_png": {
+      "x": 737,
+      "y": 1225,
+      "w": 78,
+      "h": 44,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 78,
+      "sourceH": 44
+    },
+    "battle_imge_restraint_words_imge_19_png": {
+      "x": 79,
+      "y": 1230,
+      "w": 76,
+      "h": 44,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 76,
+      "sourceH": 44
+    },
+    "battle_imge_restraint_words_imge_2_png": {
+      "x": 1201,
+      "y": 1261,
+      "w": 73,
+      "h": 44,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 73,
+      "sourceH": 44
+    },
+    "battle_imge_restraint_words_imge_20_png": {
+      "x": 655,
+      "y": 1225,
+      "w": 80,
+      "h": 44,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 80,
+      "sourceH": 44
+    },
+    "battle_imge_restraint_words_imge_21_png": {
+      "x": 817,
+      "y": 1237,
+      "w": 75,
+      "h": 44,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 75,
+      "sourceH": 44
+    },
+    "battle_imge_restraint_words_imge_22_png": {
+      "x": 1144,
+      "y": 1132,
+      "w": 81,
+      "h": 44,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 81,
+      "sourceH": 44
+    },
+    "battle_imge_restraint_words_imge_23_png": {
+      "x": 894,
+      "y": 1237,
+      "w": 75,
+      "h": 44,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 75,
+      "sourceH": 44
+    },
+    "battle_imge_restraint_words_imge_24_png": {
+      "x": 971,
+      "y": 1237,
+      "w": 76,
+      "h": 43,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 76,
+      "sourceH": 43
+    },
+    "battle_imge_restraint_words_imge_3_png": {
+      "x": 573,
+      "y": 1225,
+      "w": 80,
+      "h": 44,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 80,
+      "sourceH": 44
+    },
+    "battle_imge_restraint_words_imge_3__png": {
+      "x": 1945,
+      "y": 1170,
+      "w": 81,
+      "h": 44,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 81,
+      "sourceH": 44
+    },
+    "battle_imge_restraint_words_imge_4_png": {
+      "x": 1945,
+      "y": 1216,
+      "w": 81,
+      "h": 44,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 81,
+      "sourceH": 44
+    },
+    "battle_imge_restraint_words_imge_5_png": {
+      "x": 1049,
+      "y": 1237,
+      "w": 74,
+      "h": 44,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 74,
+      "sourceH": 44
+    },
+    "battle_imge_restraint_words_imge_6_png": {
+      "x": 325,
+      "y": 1219,
+      "w": 81,
+      "h": 44,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 81,
+      "sourceH": 44
+    },
+    "battle_imge_restraint_words_imge_7_png": {
+      "x": 408,
+      "y": 1219,
+      "w": 81,
+      "h": 44,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 81,
+      "sourceH": 44
+    },
+    "battle_imge_restraint_words_imge_8_png": {
+      "x": 1630,
+      "y": 961,
+      "w": 81,
+      "h": 44,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 81,
+      "sourceH": 44
+    },
+    "battle_imge_restraint_words_imge_9_png": {
+      "x": 1125,
+      "y": 1237,
+      "w": 74,
+      "h": 44,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 74,
+      "sourceH": 44
+    },
+    "battle_imprint_icon_png": {
+      "x": 485,
+      "y": 1080,
+      "w": 47,
+      "h": 47,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 47,
+      "sourceH": 47
+    },
+    "battle_imprint_icon_1_png": {
+      "x": 2015,
+      "y": 456,
+      "w": 29,
+      "h": 29,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 29,
+      "sourceH": 29
+    },
+    "battle_itemCatch_down_png": {
+      "x": 1455,
+      "y": 1132,
+      "w": 131,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 131,
+      "sourceH": 40
+    },
+    "battle_itemCatch_up_png": {
+      "x": 1833,
+      "y": 1126,
+      "w": 133,
+      "h": 42,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 133,
+      "sourceH": 42
+    },
+    "battle_itemHp_down_png": {
+      "x": 87,
+      "y": 1144,
+      "w": 131,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 131,
+      "sourceH": 40
+    },
+    "battle_itemHp_up_png": {
+      "x": 835,
+      "y": 1132,
+      "w": 133,
+      "h": 42,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 133,
+      "sourceH": 42
+    },
+    "battle_itemPp_down_png": {
+      "x": 485,
+      "y": 1137,
+      "w": 131,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 131,
+      "sourceH": 40
+    },
+    "battle_itemPp_up_png": {
+      "x": 1320,
+      "y": 1109,
+      "w": 133,
+      "h": 42,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 133,
+      "sourceH": 42
+    },
+    "battle_itemState_down_png": {
+      "x": 618,
+      "y": 1147,
+      "w": 131,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 131,
+      "sourceH": 40
+    },
+    "battle_itemState_up_png": {
+      "x": 1698,
+      "y": 1126,
+      "w": 133,
+      "h": 42,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 133,
+      "sourceH": 42
+    },
+    "battle_jiasu_png": {
+      "x": 1973,
+      "y": 1070,
+      "w": 54,
+      "h": 64,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 54,
+      "sourceH": 64
+    },
+    "battle_kide_skill_bg_png": {
+      "x": 1,
+      "y": 858,
+      "w": 182,
+      "h": 108,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 182,
+      "sourceH": 108
+    },
+    "battle_kide_skill_bg1_png": {
+      "x": 185,
+      "y": 858,
+      "w": 182,
+      "h": 108,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 182,
+      "sourceH": 108
+    },
+    "battle_kide_skill_bg2_png": {
+      "x": 563,
+      "y": 851,
+      "w": 182,
+      "h": 108,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 182,
+      "sourceH": 108
+    },
+    "battle_life_head_0_png": {
+      "x": 1753,
+      "y": 468,
+      "w": 21,
+      "h": 26,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 21,
+      "sourceH": 26
+    },
+    "battle_lock_png": {
+      "x": 1753,
+      "y": 412,
+      "w": 24,
+      "h": 28,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 24,
+      "sourceH": 28
+    },
+    "battle_lockedskill_imge_lockskillmask_1_png": {
+      "x": 747,
+      "y": 872,
+      "w": 182,
+      "h": 100,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 182,
+      "sourceH": 100
+    },
+    "battle_lockedskill_imge_lockskillmask_2_png": {
+      "x": 931,
+      "y": 872,
+      "w": 182,
+      "h": 100,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 182,
+      "sourceH": 100
+    },
+    "battle_lockedskill_imge_lockskillmask_3_png": {
+      "x": 563,
+      "y": 961,
+      "w": 176,
+      "h": 94,
+      "offX": 3,
+      "offY": 3,
+      "sourceW": 182,
+      "sourceH": 100
+    },
+    "battle_lockedskill_imge_lockskillmask_4_png": {
+      "x": 1779,
+      "y": 587,
+      "w": 176,
+      "h": 94,
+      "offX": 3,
+      "offY": 3,
+      "sourceW": 182,
+      "sourceH": 100
+    },
+    "battle_loding_left_player_bg_png": {
+      "x": 682,
+      "y": 1,
+      "w": 675,
+      "h": 551,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 679,
+      "sourceH": 551
+    },
+    "battle_loding_pro1_png": {
+      "x": 1335,
+      "y": 1230,
+      "w": 516,
+      "h": 5,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 516,
+      "sourceH": 5
+    },
+    "battle_loding_proBg1_png": {
+      "x": 817,
+      "y": 1230,
+      "w": 516,
+      "h": 5,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 516,
+      "sourceH": 5
+    },
+    "battle_loding_right_player_bg_png": {
+      "x": 1,
+      "y": 1,
+      "w": 679,
+      "h": 551,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 679,
+      "sourceH": 551
+    },
+    "battle_lvbg_png": {
+      "x": 1588,
+      "y": 1132,
+      "w": 92,
+      "h": 34,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 92,
+      "sourceH": 34
+    },
+    "battle_lvbg_1_png": {
+      "x": 751,
+      "y": 1147,
+      "w": 81,
+      "h": 23,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 81,
+      "sourceH": 23
+    },
+    "battle_lvbg_2_png": {
+      "x": 314,
+      "y": 1265,
+      "w": 81,
+      "h": 23,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 81,
+      "sourceH": 23
+    },
+    "battle_lvbg_3_png": {
+      "x": 868,
+      "y": 1176,
+      "w": 92,
+      "h": 32,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 92,
+      "sourceH": 32
+    },
+    "battle_msg_battle_msg_btndown_png": {
+      "x": 1,
+      "y": 791,
+      "w": 409,
+      "h": 65,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 409,
+      "sourceH": 65
+    },
+    "battle_msg_battle_msg_btnup_png": {
+      "x": 458,
+      "y": 780,
+      "w": 409,
+      "h": 69,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 409,
+      "sourceH": 69
+    },
+    "battle_msg_btnzhanbao1_png": {
+      "x": 1518,
+      "y": 1012,
+      "w": 185,
+      "h": 62,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 185,
+      "sourceH": 62
+    },
+    "battle_msg_btnzhanbao2_png": {
+      "x": 1033,
+      "y": 1032,
+      "w": 174,
+      "h": 58,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 174,
+      "sourceH": 58
+    },
+    "battle_msg_imgreport_png": {
+      "x": 970,
+      "y": 1132,
+      "w": 172,
+      "h": 31,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 172,
+      "sourceH": 31
+    },
+    "battle_msg_imgreport_bg_png": {
+      "x": 1209,
+      "y": 1076,
+      "w": 311,
+      "h": 31,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 311,
+      "sourceH": 31
+    },
+    "battle_msg_item_bg_png": {
+      "x": 835,
+      "y": 1109,
+      "w": 404,
+      "h": 21,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 404,
+      "sourceH": 21
+    },
+    "battle_msg_msg_bg_png": {
+      "x": 1359,
+      "y": 1,
+      "w": 418,
+      "h": 232,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 418,
+      "sourceH": 232
+    },
+    "battle_pet_item_bg_png": {
+      "x": 1345,
+      "y": 845,
+      "w": 185,
+      "h": 114,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 185,
+      "sourceH": 114
+    },
+    "battle_pet_item_bg_sy_png": {
+      "x": 1532,
+      "y": 845,
+      "w": 185,
+      "h": 114,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 185,
+      "sourceH": 114
+    },
+    "battle_player_info_bg1_png": {
+      "x": 915,
+      "y": 667,
+      "w": 437,
+      "h": 110,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 437,
+      "sourceH": 110
+    },
+    "battle_player_info_bg2_png": {
+      "x": 1,
+      "y": 554,
+      "w": 455,
+      "h": 122,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 455,
+      "sourceH": 122
+    },
+    "battle_player_info_bg3_png": {
+      "x": 458,
+      "y": 667,
+      "w": 455,
+      "h": 111,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 455,
+      "sourceH": 111
+    },
+    "battle_round_bg_png": {
+      "x": 915,
+      "y": 779,
+      "w": 428,
+      "h": 91,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 428,
+      "sourceH": 91
+    },
+    "battle_selected_png": {
+      "x": 1836,
+      "y": 761,
+      "w": 197,
+      "h": 155,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 197,
+      "sourceH": 155
+    },
+    "battle_selected_item_png": {
+      "x": 297,
+      "y": 968,
+      "w": 100,
+      "h": 129,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 100,
+      "sourceH": 129
+    },
+    "battle_self_hp1_down_png": {
+      "x": 1621,
+      "y": 1215,
+      "w": 322,
+      "h": 13,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 322,
+      "sourceH": 13
+    },
+    "battle_self_hp1_up_png": {
+      "x": 220,
+      "y": 1185,
+      "w": 322,
+      "h": 13,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 322,
+      "sourceH": 13
+    },
+    "battle_self_hp2_down_png": {
+      "x": 1201,
+      "y": 1249,
+      "w": 287,
+      "h": 10,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 287,
+      "sourceH": 10
+    },
+    "battle_self_hp2_up_png": {
+      "x": 1490,
+      "y": 1249,
+      "w": 287,
+      "h": 10,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 287,
+      "sourceH": 10
+    },
+    "battle_self_hp3_down_png": {
+      "x": 1435,
+      "y": 1185,
+      "w": 322,
+      "h": 13,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 322,
+      "sourceH": 13
+    },
+    "battle_self_hp3_up_png": {
+      "x": 544,
+      "y": 1189,
+      "w": 322,
+      "h": 13,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 322,
+      "sourceH": 13
+    },
+    "battle_self_hp4_down_png": {
+      "x": 1085,
+      "y": 1198,
+      "w": 322,
+      "h": 13,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 322,
+      "sourceH": 13
+    },
+    "battle_self_hp4_up_png": {
+      "x": 1,
+      "y": 1200,
+      "w": 322,
+      "h": 13,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 322,
+      "sourceH": 13
+    },
+    "battle_self_info_bg1_png": {
+      "x": 915,
+      "y": 554,
+      "w": 438,
+      "h": 111,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 438,
+      "sourceH": 111
+    },
+    "battle_self_info_bg2_png": {
+      "x": 1,
+      "y": 678,
+      "w": 455,
+      "h": 111,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 455,
+      "sourceH": 111
+    },
+    "battle_self_info_bg3_png": {
+      "x": 458,
+      "y": 554,
+      "w": 455,
+      "h": 111,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 455,
+      "sourceH": 111
+    },
+    "battle_sign_buff_info_pop_icon_png": {
+      "x": 2008,
+      "y": 267,
+      "w": 34,
+      "h": 35,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 34,
+      "sourceH": 35
+    },
+    "battle_sign_buff_info_pop_imge_buffdes_bg_png": {
+      "x": 1671,
+      "y": 235,
+      "w": 335,
+      "h": 175,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 335,
+      "sourceH": 175
+    },
+    "battle_sign_buff_info_pop_imge_buff_icon_bg_png": {
+      "x": 1932,
+      "y": 1262,
+      "w": 49,
+      "h": 49,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 49,
+      "sourceH": 49
+    },
+    "battle_sign_buff_info_pop_imge_list_bg_png": {
+      "x": 1719,
+      "y": 845,
+      "w": 76,
+      "h": 264,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 76,
+      "sourceH": 264
+    },
+    "battle_sign_buff_info_pop_imge_slider_png": {
+      "x": 2034,
+      "y": 1,
+      "w": 4,
+      "h": 35,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 4,
+      "sourceH": 35
+    },
+    "battle_sign_buff_info_pop_imge_track_png": {
+      "x": 2028,
+      "y": 1,
+      "w": 4,
+      "h": 264,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 4,
+      "sourceH": 264
+    },
+    "battle_sign_buff_info_pop_selected_png": {
+      "x": 1979,
+      "y": 918,
+      "w": 67,
+      "h": 68,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 67,
+      "sourceH": 68
+    },
+    "battle_sign_buff_info_pop_title_png": {
+      "x": 1759,
+      "y": 1185,
+      "w": 91,
+      "h": 25,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 91,
+      "sourceH": 25
+    },
+    "battle_skill_bar_bg_png": {
+      "x": 1354,
+      "y": 685,
+      "w": 553,
+      "h": 74,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 553,
+      "sourceH": 74
+    },
+    "battle_skill_bar_bg2_png": {
+      "x": 1354,
+      "y": 761,
+      "w": 480,
+      "h": 82,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 480,
+      "sourceH": 82
+    },
+    "battle_skill_bg_png": {
+      "x": 1115,
+      "y": 872,
+      "w": 180,
+      "h": 100,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 180,
+      "sourceH": 100
+    },
+    "battle_skill_reslut_1_png": {
+      "x": 1797,
+      "y": 1020,
+      "w": 244,
+      "h": 48,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 244,
+      "sourceH": 48
+    },
+    "battle_skill_reslut_2_png": {
+      "x": 1297,
+      "y": 961,
+      "w": 331,
+      "h": 49,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 331,
+      "sourceH": 49
+    },
+    "battle_skill_runawayIcon_png": {
+      "x": 2015,
+      "y": 1,
+      "w": 11,
+      "h": 17,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 11,
+      "sourceH": 17
+    },
+    "battle_sp_head_kuang_png": {
+      "x": 741,
+      "y": 974,
+      "w": 115,
+      "h": 115,
+      "offX": 2,
+      "offY": 2,
+      "sourceW": 119,
+      "sourceH": 119
+    },
+    "battle_tip_bg_png": {
+      "x": 1359,
+      "y": 535,
+      "w": 418,
+      "h": 148,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 418,
+      "sourceH": 148
+    },
+    "battle_type_icon_png": {
+      "x": 1754,
+      "y": 496,
+      "w": 22,
+      "h": 23,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 22,
+      "sourceH": 23
+    },
+    "battle_type_icon_bg_png": {
+      "x": 1909,
+      "y": 721,
+      "w": 38,
+      "h": 23,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 38,
+      "sourceH": 23
+    },
+    "battle_wait_png": {
+      "x": 858,
+      "y": 1032,
+      "w": 173,
+      "h": 65,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 173,
+      "sourceH": 65
+    },
+    "buff_0_21_png": {
+      "x": 1779,
+      "y": 176,
+      "w": 247,
+      "h": 54,
+      "offX": 0,
+      "offY": 1,
+      "sourceW": 247,
+      "sourceH": 56
+    },
+    "buff_1_0_png": {
+      "x": 858,
+      "y": 974,
+      "w": 215,
+      "h": 56,
+      "offX": 16,
+      "offY": 0,
+      "sourceW": 247,
+      "sourceH": 56
+    },
+    "buff_1_1_png": {
+      "x": 1075,
+      "y": 974,
+      "w": 212,
+      "h": 56,
+      "offX": 18,
+      "offY": 0,
+      "sourceW": 247,
+      "sourceH": 56
+    },
+    "crisit_png": {
+      "x": 663,
+      "y": 1091,
+      "w": 170,
+      "h": 54,
+      "offX": 39,
+      "offY": 1,
+      "sourceW": 247,
+      "sourceH": 56
+    },
+    "fight_loading_pet_item_chuzhan_png": {
+      "x": 412,
+      "y": 791,
+      "w": 40,
+      "h": 17,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 40,
+      "sourceH": 17
+    },
+    "fight_loading_pet_item_shoufa_png": {
+      "x": 869,
+      "y": 780,
+      "w": 40,
+      "h": 17,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 40,
+      "sourceH": 17
+    },
+    "fight_msg_countdown_imgblueline_png": {
+      "x": 1588,
+      "y": 1170,
+      "w": 329,
+      "h": 13,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 329,
+      "sourceH": 13
+    },
+    "fight_msg_countdown_imgredline_png": {
+      "x": 1033,
+      "y": 1092,
+      "w": 170,
+      "h": 12,
+      "offX": 0,
+      "offY": 1,
+      "sourceW": 170,
+      "sourceH": 13
+    },
+    "priority_png": {
+      "x": 1289,
+      "y": 1012,
+      "w": 227,
+      "h": 52,
+      "offX": 10,
+      "offY": 2,
+      "sourceW": 247,
+      "sourceH": 56
+    }
+  }
+}

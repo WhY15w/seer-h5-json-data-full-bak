@@ -1,0 +1,30 @@
+{
+  "groups": [
+    {
+      "keys": "road_80,exml_80,map_80_bg_mc_jpg,map_80_top_mc_png",
+      "name": "map_80"
+    }
+  ],
+  "resources": [
+    {
+      "type": "json",
+      "url": "80.json",
+      "name": "road_80"
+    },
+    {
+      "type": "text",
+      "url": "Map80Skin.exml",
+      "name": "exml_80"
+    },
+    {
+      "type": "image",
+      "url": "map_80_bg_mc.jpg",
+      "name": "map_80_bg_mc_jpg"
+    },
+    {
+      "type": "image",
+      "url": "map_80_top_mc.png",
+      "name": "map_80_top_mc_png"
+    }
+  ]
+}

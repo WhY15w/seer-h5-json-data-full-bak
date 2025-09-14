@@ -1,0 +1,30 @@
+{
+  "groups": [
+    {
+      "keys": "road_936,map_936_bg_mc_png,map_936_control_mc_png,exml_936",
+      "name": "map_936"
+    }
+  ],
+  "resources": [
+    {
+      "type": "json",
+      "url": "936.json",
+      "name": "road_936"
+    },
+    {
+      "type": "image",
+      "url": "map_936_bg_mc.png",
+      "name": "map_936_bg_mc_png"
+    },
+    {
+      "type": "image",
+      "url": "map_936_control_mc.png",
+      "name": "map_936_control_mc_png"
+    },
+    {
+      "name": "exml_936",
+      "type": "text",
+      "url": "Map936Skin.exml"
+    }
+  ]
+}

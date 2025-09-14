@@ -1,0 +1,146 @@
+{
+  "groups": [
+    {
+      "name": "god_of_war_gaia",
+      "keys": "god_of_war_gaia_sheet,gowg_battlepop_1451_png,gowg_battlepop_2610_png,gowg_battlepop_2780_png,gowg_battlepop_bg_png,gowg_buypop_bg_png,gowg_mainpanel_bg_jpg,gowg_panel1_2000_png,gowg_panel1_2001_png,gowg_panel1_2001_hy_png,gowg_panel1_2521_png,gowg_panel1_2527_png,gowg_panel1_2580_png,gowg_panel1_2580_hy_png,gowg_panel1_2780_png,gowg_panel1_bg_jpg,gowg_panel2_bg_jpg,gowg_panel2_ywame_png,gowg_panel2_ywjld_png,gowg_panel2_ywsnp_png,gowg_panel3pop1_bg_png,gowg_panel3pop2_bg_png,gowg_panel3pop3_bg_png,gowg_panel3_bg_jpg,gowg_panel4_bg_png,gowg_panel5_shangde_png,gowg_panel5_xiade_png"
+    }
+  ],
+  "resources": [
+    {
+      "name": "gowg_battlepop_1451_png",
+      "type": "image",
+      "url": "god_of_war_gaia/outside/gowg_battlepop_1451.png"
+    },
+    {
+      "name": "gowg_battlepop_2610_png",
+      "type": "image",
+      "url": "god_of_war_gaia/outside/gowg_battlepop_2610.png"
+    },
+    {
+      "name": "gowg_battlepop_2780_png",
+      "type": "image",
+      "url": "god_of_war_gaia/outside/gowg_battlepop_2780.png"
+    },
+    {
+      "name": "gowg_battlepop_bg_png",
+      "type": "image",
+      "url": "god_of_war_gaia/outside/gowg_battlepop_bg.png"
+    },
+    {
+      "name": "gowg_buypop_bg_png",
+      "type": "image",
+      "url": "god_of_war_gaia/outside/gowg_buypop_bg.png"
+    },
+    {
+      "name": "gowg_mainpanel_bg_jpg",
+      "type": "image",
+      "url": "god_of_war_gaia/outside/gowg_mainpanel_bg.jpg"
+    },
+    {
+      "name": "gowg_panel1_2000_png",
+      "type": "image",
+      "url": "god_of_war_gaia/outside/gowg_panel1_2000.png"
+    },
+    {
+      "name": "gowg_panel1_2001_png",
+      "type": "image",
+      "url": "god_of_war_gaia/outside/gowg_panel1_2001.png"
+    },
+    {
+      "name": "gowg_panel1_2001_hy_png",
+      "type": "image",
+      "url": "god_of_war_gaia/outside/gowg_panel1_2001_hy.png"
+    },
+    {
+      "name": "gowg_panel1_2521_png",
+      "type": "image",
+      "url": "god_of_war_gaia/outside/gowg_panel1_2521.png"
+    },
+    {
+      "name": "gowg_panel1_2527_png",
+      "type": "image",
+      "url": "god_of_war_gaia/outside/gowg_panel1_2527.png"
+    },
+    {
+      "name": "gowg_panel1_2580_png",
+      "type": "image",
+      "url": "god_of_war_gaia/outside/gowg_panel1_2580.png"
+    },
+    {
+      "name": "gowg_panel1_2580_hy_png",
+      "type": "image",
+      "url": "god_of_war_gaia/outside/gowg_panel1_2580_hy.png"
+    },
+    {
+      "name": "gowg_panel1_2780_png",
+      "type": "image",
+      "url": "god_of_war_gaia/outside/gowg_panel1_2780.png"
+    },
+    {
+      "name": "gowg_panel1_bg_jpg",
+      "type": "image",
+      "url": "god_of_war_gaia/outside/gowg_panel1_bg.jpg"
+    },
+    {
+      "name": "gowg_panel2_bg_jpg",
+      "type": "image",
+      "url": "god_of_war_gaia/outside/gowg_panel2_bg.jpg"
+    },
+    {
+      "name": "gowg_panel2_ywame_png",
+      "type": "image",
+      "url": "god_of_war_gaia/outside/gowg_panel2_ywame.png"
+    },
+    {
+      "name": "gowg_panel2_ywjld_png",
+      "type": "image",
+      "url": "god_of_war_gaia/outside/gowg_panel2_ywjld.png"
+    },
+    {
+      "name": "gowg_panel2_ywsnp_png",
+      "type": "image",
+      "url": "god_of_war_gaia/outside/gowg_panel2_ywsnp.png"
+    },
+    {
+      "name": "gowg_panel3pop1_bg_png",
+      "type": "image",
+      "url": "god_of_war_gaia/outside/gowg_panel3pop1_bg.png"
+    },
+    {
+      "name": "gowg_panel3pop2_bg_png",
+      "type": "image",
+      "url": "god_of_war_gaia/outside/gowg_panel3pop2_bg.png"
+    },
+    {
+      "name": "gowg_panel3pop3_bg_png",
+      "type": "image",
+      "url": "god_of_war_gaia/outside/gowg_panel3pop3_bg.png"
+    },
+    {
+      "name": "gowg_panel3_bg_jpg",
+      "type": "image",
+      "url": "god_of_war_gaia/outside/gowg_panel3_bg.jpg"
+    },
+    {
+      "name": "gowg_panel4_bg_png",
+      "type": "image",
+      "url": "god_of_war_gaia/outside/gowg_panel4_bg.png"
+    },
+    {
+      "name": "gowg_panel5_shangde_png",
+      "type": "image",
+      "url": "god_of_war_gaia/outside/gowg_panel5_shangde.png"
+    },
+    {
+      "name": "gowg_panel5_xiade_png",
+      "type": "image",
+      "url": "god_of_war_gaia/outside/gowg_panel5_xiade.png"
+    },
+    {
+      "name": "god_of_war_gaia_sheet",
+      "type": "sheet",
+      "url": "god_of_war_gaia/god_of_war_gaia_sheet.json",
+      "subkeys": "gowg_mainpanel_aozhanpian_png,gowg_mainpanel_btncollect_png,gowg_mainpanel_btncollected_png,gowg_mainpanel_btninfo_png,gowg_mainpanel_btnonekey_png,gowg_mainpanel_btnsuper_png,gowg_mainpanel_btnup_png,gowg_mainpanel_jidoupian_png,gowg_mainpanel_kxp_png,gowg_mainpanel_stms_png,gowg_mainpanel_title_png,gowg_mainpanel_yihuode_png,gowg_mainpanel_yihuode1_png,gowg_mainpanel_yihuode2_png,gowg_mainpanel_yihuode3_png,gowg_mainpanel_yitongguo_png,gowg_mainpanel_yscz_1_png,gowg_panel1_btnadd_png,gowg_panel1_btnonekey_png,gowg_panel1_head2000_png,gowg_panel1_head2001_png,gowg_panel1_head2521_png,gowg_panel1_head2527_png,gowg_panel1_head2580_png,gowg_panel1_head2780_png,gowg_panel1_jindu_png,gowg_panel1_jx_903_kb_png,gowg_panel1_jx_903_kb_2_png,gowg_panel1_jx_9043_png,gowg_panel1_jx_9043_kb_png,gowg_panel1_jx_9044_png,gowg_panel1_jx_9044_kb_png,gowg_panel1_jx_9048_png,gowg_panel1_jx_9048_kb_png,gowg_panel1_jx_9055_kb_png,gowg_panel1_jx_9055_kb_2_png,gowg_panel1_ljsh_png,gowg_panel1_namebg1_png,gowg_panel1_namebg2_png,gowg_panel1_nopet1_png,gowg_panel1_nopet2_png,gowg_panel1_stms_png,gowg_panel1_ti_png,gowg_panel1_tipsbg_png,gowg_panel1_txds_png,gowg_panel1_txtlabel_png,gowg_panel1_vs_png,gowg_panel1_xuanzhong_png,gowg_panel1_xz_kb_png,gowg_panel1_yjzs_png,gowg_panel1_zu_2_png,gowg_panel1_zu_34_png,gowg_panel1_z_2_kb_png,gowg_panel2_aozhanpian_png,gowg_panel2_btnadd_png,gowg_panel2_btnonekey_png,gowg_panel2_juxing_1_png,gowg_panel2_juxing_2_png,gowg_panel2_juxing_3_png,gowg_panel2_pass1_png,gowg_panel2_pass2_png,gowg_panel2_pass3_png,gowg_panel2_tipsbg_png,gowg_panel2_txtlabel_png,gowg_panel2_yjzs_png,gowg_panel3_btnadd_png,gowg_panel3_btnonekey_png,gowg_panel3_btntiaozhan_png,gowg_panel3_jlbb_png,gowg_panel3_jlhf_png,gowg_panel3_juxing_5_png,gowg_panel3_stms_png,gowg_panel3_tipsbg_png,gowg_panel3_vs_png,gowg_panel3_zu_4_png,gowg_panel3_zu_5_png,gowg_panel3_zu_6_png,gowg_panel3_zu_7_png,gowg_panel3_zu_9_png,gowg_panel4_btnadd_png,gowg_panel4_fzky_png,gowg_panel4_jlbb_png,gowg_panel4_jlhf_png,gowg_panel4_juxing_1_png,gowg_panel4_lzky_png,gowg_panel4_ti_png,gowg_panel4_tipsbg_png,gowg_panel4_txtlabel_png,gowg_panel4_xzky_png,gowg_panel4_xzzt_png,gowg_panel4_yiwancheng_png,gowg_panel4_yjzs_png,gowg_panel4_zjky_png,gowg_panel5_1704944_kb_png,gowg_panel5_1705076_kb_2_png,gowg_panel5_btnadd_png,gowg_panel5_btninfoqhtx_png,gowg_panel5_btnonekeybuy_png,gowg_panel5_btntexun_png,gowg_panel5_dierji_png,gowg_panel5_diwujineng_png,gowg_panel5_diyiji_png,gowg_panel5_fen_png,gowg_panel5_jx_4_kb_8_png,gowg_panel5_jx_914_kb_png,gowg_panel5_stms_png,gowg_panel5_tipsbg_png,gowg_panel5_xi_png,gowg_panel5_zu_3_png,gowg_panel5_zu_4_png,gowg_panel5_z_3_kb_2_png,gowg_battlepop_btnadd_png,gowg_battlepop_btnback_png,gowg_battlepop_txtlabel_png,gowg_battlepop_txtz·_png,gowg_battlepop_zu_3_png,gowg_battlepop_·dierji_png,gowg_battlepop_·diyiji_png,gowg_buypop_20649_png,gowg_buypop_300066_png,gowg_buypop_add_png,gowg_buypop_btnback_png,gowg_buypop_btnonekeybuy1_png,gowg_buypop_btnonekeybuy2_png,gowg_buypop_btnonekeybuy3_png,gowg_buypop_btnonekeybuy4_png,gowg_buypop_diwujineng_png,gowg_buypop_icon_gold_png,gowg_buypop_img_di2_png,gowg_buypop_sljx_png,gowg_buypop_yihuode_png,gowg_buypop_zstx_png,gowg_buypop_zu_1_png,gowg_changepop_btnback_png,gowg_changepop_btngh_png,gowg_changepop_fen_png,gowg_changepop_ghzstx_png,gowg_changepop_weihuode_png,gowg_changepop_xi_png,gowg_changepop_xiao_png,gowg_changepop_xibg_png,gowg_changepop_yzb1_png,gowg_panel3pop1_a_png,gowg_panel3pop1_btnback_png,gowg_panel3pop1_jlbb_png,gowg_panel3pop1_jlhf_png,gowg_panel3pop1_title_png,gowg_panel3pop1_ywjld_png,gowg_panel3pop2_a_png,gowg_panel3pop2_btnback_png,gowg_panel3pop2_jlbb_png,gowg_panel3pop2_jlhf_png,gowg_panel3pop2_title_png,gowg_panel3pop2_ywjld_png,gowg_panel3pop3_a_png,gowg_panel3pop3_btnback_png,gowg_panel3pop3_jlbb_png,gowg_panel3pop3_jlhf_png,gowg_panel3pop3_title_png,gowg_panel3pop3_ywjld_png"
+    }
+  ]
+}

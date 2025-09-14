@@ -1,0 +1,955 @@
+{
+  "file": "pve_yingkaluosi_sheet.png",
+  "frames": {
+    "pve_yingkaluosi_level1_btnGo_png": {
+      "x": 1755,
+      "y": 1594,
+      "w": 239,
+      "h": 77,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 239,
+      "sourceH": 77
+    },
+    "pve_yingkaluosi_level1_btnNormal__png": {
+      "x": 483,
+      "y": 1635,
+      "w": 239,
+      "h": 77,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 239,
+      "sourceH": 77
+    },
+    "pve_yingkaluosi_level1_flagYhd_png": {
+      "x": 1897,
+      "y": 1286,
+      "w": 144,
+      "h": 52,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 144,
+      "sourceH": 52
+    },
+    "pve_yingkaluosi_level1_Got_png": {
+      "x": 317,
+      "y": 1512,
+      "w": 264,
+      "h": 77,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 264,
+      "sourceH": 77
+    },
+    "pve_yingkaluosi_level1_huifu_png": {
+      "x": 388,
+      "y": 748,
+      "w": 272,
+      "h": 221,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 272,
+      "sourceH": 221
+    },
+    "pve_yingkaluosi_level1_img_png": {
+      "x": 1569,
+      "y": 1180,
+      "w": 376,
+      "h": 104,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 376,
+      "sourceH": 104
+    },
+    "pve_yingkaluosi_level1_imgBtn_cure_png": {
+      "x": 593,
+      "y": 559,
+      "w": 60,
+      "h": 60,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 60,
+      "sourceH": 60
+    },
+    "pve_yingkaluosi_level1_imgBtn_pet_png": {
+      "x": 593,
+      "y": 497,
+      "w": 60,
+      "h": 60,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 60,
+      "sourceH": 60
+    },
+    "pve_yingkaluosi_level1_lock_png": {
+      "x": 1193,
+      "y": 933,
+      "w": 374,
+      "h": 333,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 374,
+      "sourceH": 333
+    },
+    "pve_yingkaluosi_level1_monster0_png": {
+      "x": 1417,
+      "y": 1286,
+      "w": 158,
+      "h": 180,
+      "offX": 24,
+      "offY": 8,
+      "sourceW": 203,
+      "sourceH": 222
+    },
+    "pve_yingkaluosi_level1_monster1_png": {
+      "x": 902,
+      "y": 1230,
+      "w": 183,
+      "h": 174,
+      "offX": 8,
+      "offY": 14,
+      "sourceW": 203,
+      "sourceH": 222
+    },
+    "pve_yingkaluosi_level1_monster2_png": {
+      "x": 1577,
+      "y": 1286,
+      "w": 158,
+      "h": 180,
+      "offX": 24,
+      "offY": 8,
+      "sourceW": 203,
+      "sourceH": 222
+    },
+    "pve_yingkaluosi_level1_monster3_png": {
+      "x": 1737,
+      "y": 1286,
+      "w": 158,
+      "h": 160,
+      "offX": 24,
+      "offY": 28,
+      "sourceW": 203,
+      "sourceH": 222
+    },
+    "pve_yingkaluosi_level1_monster4_png": {
+      "x": 326,
+      "y": 1353,
+      "w": 158,
+      "h": 157,
+      "offX": 24,
+      "offY": 31,
+      "sourceW": 203,
+      "sourceH": 222
+    },
+    "pve_yingkaluosi_level1_now_png": {
+      "x": 1,
+      "y": 748,
+      "w": 385,
+      "h": 345,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 385,
+      "sourceH": 345
+    },
+    "pve_yingkaluosi_level1_selected_png": {
+      "x": 902,
+      "y": 1006,
+      "w": 203,
+      "h": 222,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 203,
+      "sourceH": 222
+    },
+    "pve_yingkaluosi_level1_title_png": {
+      "x": 1502,
+      "y": 1553,
+      "w": 126,
+      "h": 36,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 126,
+      "sourceH": 36
+    },
+    "pve_yingkaluosi_level1_txtbg_png": {
+      "x": 1,
+      "y": 1147,
+      "w": 899,
+      "h": 50,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 899,
+      "sourceH": 50
+    },
+    "pve_yingkaluosi_level1_up_bg_png": {
+      "x": 2040,
+      "y": 1,
+      "w": 1,
+      "h": 45,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 1,
+      "sourceH": 45
+    },
+    "pve_yingkaluosi_level2_1_png": {
+      "x": 1,
+      "y": 1371,
+      "w": 156,
+      "h": 144,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 156,
+      "sourceH": 144
+    },
+    "pve_yingkaluosi_level2_2_png": {
+      "x": 159,
+      "y": 1371,
+      "w": 156,
+      "h": 144,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 156,
+      "sourceH": 144
+    },
+    "pve_yingkaluosi_level2_3_png": {
+      "x": 870,
+      "y": 1406,
+      "w": 156,
+      "h": 144,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 156,
+      "sourceH": 144
+    },
+    "pve_yingkaluosi_level2_4_png": {
+      "x": 644,
+      "y": 1417,
+      "w": 156,
+      "h": 144,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 156,
+      "sourceH": 144
+    },
+    "pve_yingkaluosi_level2_5_png": {
+      "x": 1737,
+      "y": 1448,
+      "w": 156,
+      "h": 144,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 156,
+      "sourceH": 144
+    },
+    "pve_yingkaluosi_level2_6_png": {
+      "x": 1028,
+      "y": 1460,
+      "w": 156,
+      "h": 144,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 156,
+      "sourceH": 144
+    },
+    "pve_yingkaluosi_level2_7_png": {
+      "x": 1186,
+      "y": 1460,
+      "w": 156,
+      "h": 144,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 156,
+      "sourceH": 144
+    },
+    "pve_yingkaluosi_level2_8_png": {
+      "x": 1344,
+      "y": 1468,
+      "w": 156,
+      "h": 144,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 156,
+      "sourceH": 144
+    },
+    "pve_yingkaluosi_level2_9_png": {
+      "x": 486,
+      "y": 1353,
+      "w": 156,
+      "h": 144,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 156,
+      "sourceH": 144
+    },
+    "pve_yingkaluosi_level2_bg22_png": {
+      "x": 2024,
+      "y": 1392,
+      "w": 6,
+      "h": 473,
+      "offX": 0,
+      "offY": 2,
+      "sourceW": 6,
+      "sourceH": 475
+    },
+    "pve_yingkaluosi_level2_btnchou_png": {
+      "x": 1,
+      "y": 1595,
+      "w": 239,
+      "h": 77,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 239,
+      "sourceH": 77
+    },
+    "pve_yingkaluosi_level2_btnfight_png": {
+      "x": 982,
+      "y": 1606,
+      "w": 239,
+      "h": 77,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 239,
+      "sourceH": 77
+    },
+    "pve_yingkaluosi_level2_btngo_png": {
+      "x": 1223,
+      "y": 1614,
+      "w": 239,
+      "h": 77,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 239,
+      "sourceH": 77
+    },
+    "pve_yingkaluosi_level2_btnjibai_png": {
+      "x": 242,
+      "y": 1635,
+      "w": 239,
+      "h": 77,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 239,
+      "sourceH": 77
+    },
+    "pve_yingkaluosi_level2_dekuang_png": {
+      "x": 965,
+      "y": 1693,
+      "w": 297,
+      "h": 50,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 297,
+      "sourceH": 50
+    },
+    "pve_yingkaluosi_level2_img_png": {
+      "x": 326,
+      "y": 1251,
+      "w": 364,
+      "h": 100,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 364,
+      "sourceH": 100
+    },
+    "pve_yingkaluosi_level2_imgbtn_cure_png": {
+      "x": 1961,
+      "y": 1066,
+      "w": 74,
+      "h": 68,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 74,
+      "sourceH": 68
+    },
+    "pve_yingkaluosi_level2_imgbtn_pet_png": {
+      "x": 1107,
+      "y": 1082,
+      "w": 73,
+      "h": 68,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 73,
+      "sourceH": 68
+    },
+    "pve_yingkaluosi_level2_light1_png": {
+      "x": 649,
+      "y": 621,
+      "w": 14,
+      "h": 14,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 14,
+      "sourceH": 14
+    },
+    "pve_yingkaluosi_level2_selected_png": {
+      "x": 692,
+      "y": 1251,
+      "w": 176,
+      "h": 164,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 176,
+      "sourceH": 164
+    },
+    "pve_yingkaluosi_level2_title_png": {
+      "x": 1896,
+      "y": 1715,
+      "w": 125,
+      "h": 36,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 125,
+      "sourceH": 36
+    },
+    "pve_yingkaluosi_level2_txtbg_png": {
+      "x": 1,
+      "y": 1199,
+      "w": 899,
+      "h": 50,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 899,
+      "sourceH": 50
+    },
+    "pve_yingkaluosi_level2_up_bg_png": {
+      "x": 2043,
+      "y": 1,
+      "w": 1,
+      "h": 45,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 1,
+      "sourceH": 45
+    },
+    "pve_yingkaluosi_level2_wenzi_png": {
+      "x": 1464,
+      "y": 1673,
+      "w": 311,
+      "h": 53,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 311,
+      "sourceH": 53
+    },
+    "pve_yingkaluosi_level3_3477_png": {
+      "x": 1,
+      "y": 1,
+      "w": 662,
+      "h": 494,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 662,
+      "sourceH": 494
+    },
+    "pve_yingkaluosi_level3_3549_png": {
+      "x": 1331,
+      "y": 1,
+      "w": 707,
+      "h": 435,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 707,
+      "sourceH": 435
+    },
+    "pve_yingkaluosi_level3_3554_png": {
+      "x": 665,
+      "y": 1,
+      "w": 664,
+      "h": 484,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 664,
+      "sourceH": 484
+    },
+    "pve_yingkaluosi_level3_3564_png": {
+      "x": 1331,
+      "y": 438,
+      "w": 580,
+      "h": 493,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 580,
+      "sourceH": 493
+    },
+    "pve_yingkaluosi_level3_btnfight_png": {
+      "x": 724,
+      "y": 1642,
+      "w": 239,
+      "h": 77,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 239,
+      "sourceH": 77
+    },
+    "pve_yingkaluosi_level3_btnjihuo_png": {
+      "x": 1193,
+      "y": 487,
+      "w": 89,
+      "h": 89,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 89,
+      "sourceH": 89
+    },
+    "pve_yingkaluosi_level3_dark_png": {
+      "x": 1284,
+      "y": 487,
+      "w": 45,
+      "h": 53,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 45,
+      "sourceH": 53
+    },
+    "pve_yingkaluosi_level3_dark1_png": {
+      "x": 1895,
+      "y": 1495,
+      "w": 117,
+      "h": 44,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 117,
+      "sourceH": 44
+    },
+    "pve_yingkaluosi_level3_dark2_png": {
+      "x": 1502,
+      "y": 1507,
+      "w": 117,
+      "h": 44,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 117,
+      "sourceH": 44
+    },
+    "pve_yingkaluosi_level3_dark3_png": {
+      "x": 1895,
+      "y": 1541,
+      "w": 117,
+      "h": 44,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 117,
+      "sourceH": 44
+    },
+    "pve_yingkaluosi_level3_dark4_png": {
+      "x": 1777,
+      "y": 1673,
+      "w": 117,
+      "h": 44,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 117,
+      "sourceH": 44
+    },
+    "pve_yingkaluosi_level3_done_png": {
+      "x": 1895,
+      "y": 1448,
+      "w": 115,
+      "h": 45,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 115,
+      "sourceH": 45
+    },
+    "pve_yingkaluosi_level3_img_png": {
+      "x": 1569,
+      "y": 933,
+      "w": 471,
+      "h": 131,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 471,
+      "sourceH": 131
+    },
+    "pve_yingkaluosi_level3_jihuobg_png": {
+      "x": 1913,
+      "y": 438,
+      "w": 129,
+      "h": 466,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 129,
+      "sourceH": 466
+    },
+    "pve_yingkaluosi_level3_light_png": {
+      "x": 1193,
+      "y": 665,
+      "w": 88,
+      "h": 85,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 88,
+      "sourceH": 85
+    },
+    "pve_yingkaluosi_level3_light1_png": {
+      "x": 1193,
+      "y": 808,
+      "w": 125,
+      "h": 54,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 125,
+      "sourceH": 54
+    },
+    "pve_yingkaluosi_level3_light2_png": {
+      "x": 1193,
+      "y": 864,
+      "w": 125,
+      "h": 54,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 125,
+      "sourceH": 54
+    },
+    "pve_yingkaluosi_level3_light3_png": {
+      "x": 1897,
+      "y": 1392,
+      "w": 125,
+      "h": 54,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 125,
+      "sourceH": 54
+    },
+    "pve_yingkaluosi_level3_light4_png": {
+      "x": 1193,
+      "y": 752,
+      "w": 125,
+      "h": 54,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 125,
+      "sourceH": 54
+    },
+    "pve_yingkaluosi_level3_p_png": {
+      "x": 1193,
+      "y": 578,
+      "w": 88,
+      "h": 85,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 88,
+      "sourceH": 85
+    },
+    "pve_yingkaluosi_level3_title_png": {
+      "x": 1,
+      "y": 1674,
+      "w": 126,
+      "h": 36,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 126,
+      "sourceH": 36
+    },
+    "pve_yingkaluosi_level3_txtbg_png": {
+      "x": 398,
+      "y": 1714,
+      "w": 282,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 282,
+      "sourceH": 40
+    },
+    "pve_yingkaluosi_level3_txttitlebg_png": {
+      "x": 1,
+      "y": 1095,
+      "w": 899,
+      "h": 50,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 899,
+      "sourceH": 50
+    },
+    "pve_yingkaluosi_level3_up_bg_png": {
+      "x": 2046,
+      "y": 1,
+      "w": 1,
+      "h": 45,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 1,
+      "sourceH": 45
+    },
+    "pve_yingkaluosi_main-1_bg_png": {
+      "x": 729,
+      "y": 1563,
+      "w": 251,
+      "h": 77,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 251,
+      "sourceH": 77
+    },
+    "pve_yingkaluosi_main-1_tag_png": {
+      "x": 1502,
+      "y": 1468,
+      "w": 199,
+      "h": 37,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 199,
+      "sourceH": 37
+    },
+    "pve_yingkaluosi_main_btnChuangshuo__png": {
+      "x": 388,
+      "y": 1006,
+      "w": 325,
+      "h": 84,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 325,
+      "sourceH": 84
+    },
+    "pve_yingkaluosi_main_btnClose_png": {
+      "x": 1283,
+      "y": 678,
+      "w": 32,
+      "h": 38,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 32,
+      "sourceH": 38
+    },
+    "pve_yingkaluosi_main_btnGet_png": {
+      "x": 1087,
+      "y": 1358,
+      "w": 233,
+      "h": 100,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 233,
+      "sourceH": 100
+    },
+    "pve_yingkaluosi_main_btnInfo_png": {
+      "x": 1107,
+      "y": 1006,
+      "w": 74,
+      "h": 74,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 74,
+      "sourceH": 74
+    },
+    "pve_yingkaluosi_main_btnJianding_png": {
+      "x": 1,
+      "y": 1251,
+      "w": 323,
+      "h": 118,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 323,
+      "sourceH": 118
+    },
+    "pve_yingkaluosi_main_btnOne_png": {
+      "x": 1502,
+      "y": 1594,
+      "w": 251,
+      "h": 77,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 251,
+      "sourceH": 77
+    },
+    "pve_yingkaluosi_main_btnZhiming_png": {
+      "x": 1087,
+      "y": 1268,
+      "w": 328,
+      "h": 88,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 328,
+      "sourceH": 88
+    },
+    "pve_yingkaluosi_main_Got_png": {
+      "x": 1,
+      "y": 1517,
+      "w": 264,
+      "h": 76,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 264,
+      "sourceH": 76
+    },
+    "pve_yingkaluosi_main_img_j_png": {
+      "x": 593,
+      "y": 727,
+      "w": 39,
+      "h": 10,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 39,
+      "sourceH": 10
+    },
+    "pve_yingkaluosi_main_title_png": {
+      "x": 1,
+      "y": 497,
+      "w": 590,
+      "h": 249,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 590,
+      "sourceH": 249
+    },
+    "pve_yingkaluosi_main_up_bg_png": {
+      "x": 1897,
+      "y": 1340,
+      "w": 145,
+      "h": 50,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 145,
+      "sourceH": 50
+    },
+    "pve_yingkaluosi_upenergy_1715982_244236_png": {
+      "x": 593,
+      "y": 677,
+      "w": 54,
+      "h": 48,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 54,
+      "sourceH": 48
+    },
+    "pve_yingkaluosi_upenergy_5_title_png": {
+      "x": 1,
+      "y": 1714,
+      "w": 395,
+      "h": 36,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 395,
+      "sourceH": 36
+    },
+    "pve_yingkaluosi_upenergy_btnFix__png": {
+      "x": 1896,
+      "y": 1673,
+      "w": 120,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 120,
+      "sourceH": 40
+    },
+    "pve_yingkaluosi_upenergy_buybg_png": {
+      "x": 1569,
+      "y": 1066,
+      "w": 390,
+      "h": 112,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 390,
+      "sourceH": 112
+    },
+    "pve_yingkaluosi_upenergy_flagYhd_png": {
+      "x": 715,
+      "y": 1006,
+      "w": 144,
+      "h": 52,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 144,
+      "sourceH": 52
+    },
+    "pve_yingkaluosi_upenergy_helpBtn_png_png": {
+      "x": 1283,
+      "y": 718,
+      "w": 22,
+      "h": 25,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 22,
+      "sourceH": 25
+    },
+    "pve_yingkaluosi_upenergy_icon_png": {
+      "x": 1283,
+      "y": 643,
+      "w": 38,
+      "h": 33,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 38,
+      "sourceH": 33
+    },
+    "pve_yingkaluosi_upenergy_icon_1_png": {
+      "x": 1284,
+      "y": 542,
+      "w": 45,
+      "h": 48,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 45,
+      "sourceH": 48
+    },
+    "pve_yingkaluosi_upenergy_icon_texing_png": {
+      "x": 1283,
+      "y": 592,
+      "w": 43,
+      "h": 49,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 43,
+      "sourceH": 49
+    },
+    "pve_yingkaluosi_upenergy_mobiaoti_1_png": {
+      "x": 593,
+      "y": 621,
+      "w": 54,
+      "h": 54,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 54,
+      "sourceH": 54
+    },
+    "pve_yingkaluosi_upenergy_petbg_png": {
+      "x": 665,
+      "y": 487,
+      "w": 526,
+      "h": 517,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 526,
+      "sourceH": 517
+    },
+    "pve_yingkaluosi_upenergy_storebg_s9_png": {
+      "x": 1961,
+      "y": 1136,
+      "w": 49,
+      "h": 44,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 49,
+      "sourceH": 44
+    },
+    "pve_yingkaluosi_upenergy_tipsbg_png": {
+      "x": 267,
+      "y": 1591,
+      "w": 460,
+      "h": 42,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 460,
+      "sourceH": 42
+    },
+    "pve_yingkaluosi_upenergy_txtbg_png": {
+      "x": 1264,
+      "y": 1728,
+      "w": 282,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 282,
+      "sourceH": 40
+    },
+    "pve_yingkaluosi_upenergy_up_bg_png": {
+      "x": 2040,
+      "y": 48,
+      "w": 1,
+      "h": 45,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 1,
+      "sourceH": 45
+    }
+  }
+}

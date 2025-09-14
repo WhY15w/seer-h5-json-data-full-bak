@@ -1,0 +1,615 @@
+{
+  "file": "cardGame_sheet.png",
+  "frames": {
+    "card_main_panel_2_png": {
+      "x": 1350,
+      "y": 1,
+      "w": 348,
+      "h": 139,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 348,
+      "sourceH": 139
+    },
+    "card_main_panel_53_png": {
+      "x": 1,
+      "y": 411,
+      "w": 599,
+      "h": 2,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 599,
+      "sourceH": 2
+    },
+    "card_main_panel_flagDoing_png": {
+      "x": 1791,
+      "y": 367,
+      "w": 76,
+      "h": 26,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 76,
+      "sourceH": 26
+    },
+    "card_main_panel_flagReday_png": {
+      "x": 1869,
+      "y": 367,
+      "w": 75,
+      "h": 24,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 75,
+      "sourceH": 24
+    },
+    "card_main_panel_flag_selected_png": {
+      "x": 2009,
+      "y": 116,
+      "w": 26,
+      "h": 26,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 26,
+      "sourceH": 26
+    },
+    "card_main_panel_iconKuang_png": {
+      "x": 1709,
+      "y": 338,
+      "w": 80,
+      "h": 80,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 80,
+      "sourceH": 80
+    },
+    "card_main_panel_icon_prop_1_png": {
+      "x": 2010,
+      "y": 81,
+      "w": 30,
+      "h": 33,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 30,
+      "sourceH": 33
+    },
+    "card_main_panel_icon_prop_2_png": {
+      "x": 1981,
+      "y": 87,
+      "w": 26,
+      "h": 35,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 26,
+      "sourceH": 35
+    },
+    "card_main_panel_icon_prop_3_png": {
+      "x": 1981,
+      "y": 47,
+      "w": 27,
+      "h": 38,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 27,
+      "sourceH": 38
+    },
+    "card_main_panel_myHeadIcon_png": {
+      "x": 987,
+      "y": 355,
+      "w": 76,
+      "h": 78,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 76,
+      "sourceH": 78
+    },
+    "card_main_panel_propBg_png": {
+      "x": 2010,
+      "y": 47,
+      "w": 32,
+      "h": 32,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 32,
+      "sourceH": 32
+    },
+    "card_main_panel_propItem_bg_png": {
+      "x": 411,
+      "y": 289,
+      "w": 92,
+      "h": 92,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 92,
+      "sourceH": 92
+    },
+    "card_main_panel_skill0_png": {
+      "x": 1619,
+      "y": 338,
+      "w": 88,
+      "h": 87,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 88,
+      "sourceH": 87
+    },
+    "card_main_panel_skill1_png": {
+      "x": 505,
+      "y": 289,
+      "w": 88,
+      "h": 87,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 88,
+      "sourceH": 87
+    },
+    "card_main_panel_skill2_png": {
+      "x": 595,
+      "y": 289,
+      "w": 88,
+      "h": 87,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 88,
+      "sourceH": 87
+    },
+    "card_main_panel_skill3_png": {
+      "x": 685,
+      "y": 289,
+      "w": 88,
+      "h": 87,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 88,
+      "sourceH": 87
+    },
+    "card_main_panel_texture_123masd_png": {
+      "x": 524,
+      "y": 125,
+      "w": 355,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 355,
+      "sourceH": 40
+    },
+    "card_main_panel_texture_1mazsled_png": {
+      "x": 167,
+      "y": 125,
+      "w": 355,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 355,
+      "sourceH": 40
+    },
+    "card_main_panel_timerBg_png": {
+      "x": 1,
+      "y": 125,
+      "w": 164,
+      "h": 150,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 164,
+      "sourceH": 150
+    },
+    "card_reday_panel_bgLine_png": {
+      "x": 1,
+      "y": 1,
+      "w": 1115,
+      "h": 60,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 1115,
+      "sourceH": 60
+    },
+    "card_reday_panel_btnbg_png": {
+      "x": 1118,
+      "y": 1,
+      "w": 230,
+      "h": 230,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 230,
+      "sourceH": 230
+    },
+    "card_reday_panel_btnHelp_png": {
+      "x": 1981,
+      "y": 1,
+      "w": 41,
+      "h": 44,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 41,
+      "sourceH": 44
+    },
+    "card_reday_panel_btnStart_png": {
+      "x": 1700,
+      "y": 1,
+      "w": 197,
+      "h": 213,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 197,
+      "sourceH": 213
+    },
+    "card_reday_panel_closeBg_png": {
+      "x": 1065,
+      "y": 355,
+      "w": 96,
+      "h": 48,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 96,
+      "sourceH": 48
+    },
+    "card_reday_panel_img_ppsj_png": {
+      "x": 1163,
+      "y": 355,
+      "w": 101,
+      "h": 31,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 101,
+      "sourceH": 31
+    },
+    "card_reday_panel_line_png": {
+      "x": 2044,
+      "y": 1,
+      "w": 2,
+      "h": 48,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 2,
+      "sourceH": 48
+    },
+    "card_reday_panel_texture_123ka_png": {
+      "x": 1,
+      "y": 63,
+      "w": 1115,
+      "h": 60,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 1115,
+      "sourceH": 60
+    },
+    "crystalDuplicate_card_0_png": {
+      "x": 1899,
+      "y": 1,
+      "w": 80,
+      "h": 120,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 80,
+      "sourceH": 120
+    },
+    "crystalDuplicate_card_0001_png": {
+      "x": 1899,
+      "y": 123,
+      "w": 80,
+      "h": 120,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 80,
+      "sourceH": 120
+    },
+    "crystalDuplicate_card_0002_png": {
+      "x": 881,
+      "y": 125,
+      "w": 80,
+      "h": 120,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 80,
+      "sourceH": 120
+    },
+    "crystalDuplicate_card_0003_png": {
+      "x": 963,
+      "y": 125,
+      "w": 80,
+      "h": 120,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 80,
+      "sourceH": 120
+    },
+    "crystalDuplicate_card_0004_png": {
+      "x": 1350,
+      "y": 142,
+      "w": 80,
+      "h": 120,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 80,
+      "sourceH": 120
+    },
+    "crystalDuplicate_card_0005_png": {
+      "x": 1432,
+      "y": 142,
+      "w": 80,
+      "h": 120,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 80,
+      "sourceH": 120
+    },
+    "crystalDuplicate_card_0006_png": {
+      "x": 1514,
+      "y": 142,
+      "w": 80,
+      "h": 120,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 80,
+      "sourceH": 120
+    },
+    "crystalDuplicate_card_0007_png": {
+      "x": 1596,
+      "y": 142,
+      "w": 80,
+      "h": 120,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 80,
+      "sourceH": 120
+    },
+    "crystalDuplicate_card_0008_png": {
+      "x": 167,
+      "y": 167,
+      "w": 80,
+      "h": 120,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 80,
+      "sourceH": 120
+    },
+    "crystalDuplicate_card_0009_png": {
+      "x": 249,
+      "y": 167,
+      "w": 80,
+      "h": 120,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 80,
+      "sourceH": 120
+    },
+    "crystalDuplicate_card_0010_png": {
+      "x": 331,
+      "y": 167,
+      "w": 80,
+      "h": 120,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 80,
+      "sourceH": 120
+    },
+    "crystalDuplicate_card_0011_png": {
+      "x": 413,
+      "y": 167,
+      "w": 80,
+      "h": 120,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 80,
+      "sourceH": 120
+    },
+    "crystalDuplicate_card_0012_png": {
+      "x": 495,
+      "y": 167,
+      "w": 80,
+      "h": 120,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 80,
+      "sourceH": 120
+    },
+    "crystalDuplicate_card_0013_png": {
+      "x": 577,
+      "y": 167,
+      "w": 80,
+      "h": 120,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 80,
+      "sourceH": 120
+    },
+    "crystalDuplicate_card_0014_png": {
+      "x": 659,
+      "y": 167,
+      "w": 80,
+      "h": 120,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 80,
+      "sourceH": 120
+    },
+    "crystalDuplicate_card_0015_png": {
+      "x": 741,
+      "y": 167,
+      "w": 80,
+      "h": 120,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 80,
+      "sourceH": 120
+    },
+    "crystalDuplicate_card_0016_png": {
+      "x": 1678,
+      "y": 216,
+      "w": 80,
+      "h": 120,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 80,
+      "sourceH": 120
+    },
+    "crystalDuplicate_card_0017_png": {
+      "x": 1760,
+      "y": 216,
+      "w": 80,
+      "h": 120,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 80,
+      "sourceH": 120
+    },
+    "crystalDuplicate_card_0018_png": {
+      "x": 1045,
+      "y": 233,
+      "w": 80,
+      "h": 120,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 80,
+      "sourceH": 120
+    },
+    "crystalDuplicate_card_0019_png": {
+      "x": 1127,
+      "y": 233,
+      "w": 80,
+      "h": 120,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 80,
+      "sourceH": 120
+    },
+    "crystalDuplicate_card_0020_png": {
+      "x": 1209,
+      "y": 233,
+      "w": 80,
+      "h": 120,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 80,
+      "sourceH": 120
+    },
+    "crystalDuplicate_card_0021_png": {
+      "x": 1842,
+      "y": 245,
+      "w": 80,
+      "h": 120,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 80,
+      "sourceH": 120
+    },
+    "crystalDuplicate_card_0022_png": {
+      "x": 1924,
+      "y": 245,
+      "w": 80,
+      "h": 120,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 80,
+      "sourceH": 120
+    },
+    "crystalDuplicate_card_0023_png": {
+      "x": 823,
+      "y": 247,
+      "w": 80,
+      "h": 120,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 80,
+      "sourceH": 120
+    },
+    "crystalDuplicate_card_0024_png": {
+      "x": 905,
+      "y": 247,
+      "w": 80,
+      "h": 120,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 80,
+      "sourceH": 120
+    },
+    "crystalDuplicate_card_0025_png": {
+      "x": 1291,
+      "y": 264,
+      "w": 80,
+      "h": 120,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 80,
+      "sourceH": 120
+    },
+    "crystalDuplicate_card_0026_png": {
+      "x": 1373,
+      "y": 264,
+      "w": 80,
+      "h": 120,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 80,
+      "sourceH": 120
+    },
+    "crystalDuplicate_card_0027_png": {
+      "x": 1455,
+      "y": 264,
+      "w": 80,
+      "h": 120,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 80,
+      "sourceH": 120
+    },
+    "crystalDuplicate_card_0028_png": {
+      "x": 1537,
+      "y": 264,
+      "w": 80,
+      "h": 120,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 80,
+      "sourceH": 120
+    },
+    "crystalDuplicate_card_0029_png": {
+      "x": 1,
+      "y": 277,
+      "w": 80,
+      "h": 120,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 80,
+      "sourceH": 120
+    },
+    "crystalDuplicate_card_0030_png": {
+      "x": 83,
+      "y": 277,
+      "w": 80,
+      "h": 120,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 80,
+      "sourceH": 120
+    },
+    "crystalDuplicate_card_0031_png": {
+      "x": 165,
+      "y": 289,
+      "w": 80,
+      "h": 120,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 80,
+      "sourceH": 120
+    },
+    "crystalDuplicate_card_0032_png": {
+      "x": 247,
+      "y": 289,
+      "w": 80,
+      "h": 120,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 80,
+      "sourceH": 120
+    },
+    "crystalDuplicate_card_0033_png": {
+      "x": 329,
+      "y": 289,
+      "w": 80,
+      "h": 120,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 80,
+      "sourceH": 120
+    }
+  }
+}

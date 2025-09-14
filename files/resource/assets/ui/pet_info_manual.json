@@ -1,0 +1,21 @@
+{
+  "groups": [
+    {
+      "name": "pet_info_manual",
+      "keys": "pet_info_manual_sheet,pet_info_manual_bg_jpg"
+    }
+  ],
+  "resources": [
+    {
+      "name": "pet_info_manual_bg_jpg",
+      "type": "image",
+      "url": "pet_info_manual/outside/pet_info_manual_bg.jpg"
+    },
+    {
+      "name": "pet_info_manual_sheet",
+      "type": "sheet",
+      "url": "pet_info_manual/pet_info_manual_sheet.json",
+      "subkeys": "advArrow_png,advpet_excham_png,advpet_orgbox_png,advpet_signright_png,advpet_signup_png,advpet_zebraline_png,btnAdvpet_png,btnJX_png,info_view_item_icon_bg_png,info_view_item_img_back_png,pet_info_manual_attr_icon_png,pet_info_manual_attr_rect_png,pet_info_manual_educate_imgBg_png,pet_info_manual_educate_name_bg_png,pet_info_manual_educate_texture_001_png,pet_info_manual_educate_texture_skill_countermark_png,pet_info_manual_educate_texture_title_skill_png,pet_info_manual_imgBtn_get_png,pet_info_manual_imgBtn_left_png,pet_info_manual_imgBtn_restrain_png,pet_info_manual_imgBtn_right_png,pet_info_manual_imgBtn_show_png,pet_info_manual_img_btn_close_png,pet_info_manual_name_bg_png,pet_info_manual_pet_detailedInfo_bg_png,pet_info_manual_right_bg_png,pet_info_manual_skill_add_down_png,pet_info_manual_skill_add_up_png,pet_info_manual_skill_icon_attr_png,pet_info_manual_skill_item_bg_png,pet_info_manual_skill_ori_down_png,pet_info_manual_skill_ori_up_png,pet_info_manual_skill_texture_item_lin_png,pet_info_manual_skill_tip_png,pet_info_manual_tag1_png,pet_info_manual_tag2_png,pet_info_manual_tag3_png,pet_info_manual_tag4_png,pet_info_manual_tag5_png,pet_info_manual_tag6_png,pet_info_manual_tag7_png,pet_info_manual_tag8_png,pet_info_manual_tag9_png,pet_info_manual_texture_1_png,pet_info_manual_texture_2_png,pet_info_manual_texture_line_png,pet_info_manual_texture_line2_png,pet_info_manual_texture_start_png,pet_info_manual_title_png,pet_info_manual_title_1_png,pet_info_manual_txt_none_png,pet_info_manual_type_bg_png,pet_info_manual_up_bg_png,pet_info_manual_zhuanshu_icon_png,pet_manual_educate_view_dot_png,pet_manual_info_view_dot_png,pet_manual_info_view_img_bar_png,pet_manual_info_view_img_barbg_png,pet_manual_skin_img_jueban_png,pet_manual_skin_render_name_bg_png,pet_manual_skin_texture_point_png,pet_manual_ski_render_bg_png,pet_manual_ski_render_select_bg_png,ppim_info_attr_icon_png,ppim_info_barbg_png,ppim_info_biaoti_png,ppim_info_btndown_png,ppim_info_btnsave0_png,ppim_info_btnsave1_png,ppim_info_btnsave2_png,ppim_info_di_1_png,ppim_info_di_2_png,ppim_info_icon_attr_png,ppim_info_imgalarm_png,ppim_info_imgalarm_kb_png,ppim_info_imgbtn_get_png,ppim_info_imgbtn_show_png,ppim_info_jg_kb_png,ppim_info_jindu_png,ppim_info_liebiaobg_png,ppim_info_pvp_kaobei_png,ppim_info_rd_kb_png,ppim_info_skillbg_png,ppim_info_skill_item_bg_png,ppim_info_skill_item_bg1_png,ppim_info_tag_png,ppim_info_thumb_png,ppim_info_zu_png,tag1_png,tag10_png,tag11_png,tag12_png,tag13_png,tag14_png,tag15_png,tag16_png,tag17_png,tag18_png,tag19_png,tag2_png,tag3_png,tag4_png,tag5_png,tag6_png,tag7_png,tag8_png,tag9_png"
+    }
+  ]
+}

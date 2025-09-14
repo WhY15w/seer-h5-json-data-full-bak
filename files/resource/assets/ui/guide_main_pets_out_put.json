@@ -1,0 +1,31 @@
+{
+  "groups": [
+    {
+      "name": "guide_main_pets_out_put",
+      "keys": "sanzhuchong_atlas,sanzhuchong_json,sanzhuchong_png"
+    }
+  ],
+  "resources": [
+    {
+      "name": "sanzhuchong_atlas",
+      "type": "text",
+      "url": "guide_main_pets_out_put/sanzhuchong.atlas"
+    },
+    {
+      "name": "sanzhuchong_json",
+      "type": "json",
+      "url": "guide_main_pets_out_put/sanzhuchong.json"
+    },
+    {
+      "name": "sanzhuchong_png",
+      "type": "image",
+      "url": "guide_main_pets_out_put/sanzhuchong.png"
+    },
+    {
+      "name": "guide_main_pets_out_put_sheet",
+      "type": "sheet",
+      "url": "guide_main_pets_out_put/guide_main_pets_out_put_sheet.json",
+      "subkeys": ""
+    }
+  ]
+}

@@ -1,0 +1,195 @@
+{
+  "file": "task_sheet.png",
+  "frames": {
+    "team_task_btnDispatch1_png": {
+      "x": 554,
+      "y": 105,
+      "w": 120,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 120,
+      "sourceH": 40
+    },
+    "team_task_btnDispatch2_png": {
+      "x": 676,
+      "y": 105,
+      "w": 120,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 120,
+      "sourceH": 40
+    },
+    "team_task_dispatch_tag_png": {
+      "x": 798,
+      "y": 105,
+      "w": 45,
+      "h": 18,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 45,
+      "sourceH": 18
+    },
+    "team_task_fast_dispatch_petbg_png": {
+      "x": 1,
+      "y": 1,
+      "w": 551,
+      "h": 199,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 551,
+      "sourceH": 199
+    },
+    "team_task_fast_dispatch_successbg_png": {
+      "x": 1,
+      "y": 427,
+      "w": 551,
+      "h": 28,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 551,
+      "sourceH": 28
+    },
+    "team_task_fast_dispatch_title_png": {
+      "x": 798,
+      "y": 126,
+      "w": 166,
+      "h": 26,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 166,
+      "sourceH": 26
+    },
+    "team_task_icon_png": {
+      "x": 771,
+      "y": 154,
+      "w": 28,
+      "h": 26,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 28,
+      "sourceH": 26
+    },
+    "team_task_item_down_png": {
+      "x": 554,
+      "y": 1,
+      "w": 295,
+      "h": 50,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 295,
+      "sourceH": 50
+    },
+    "team_task_item_up_png": {
+      "x": 554,
+      "y": 53,
+      "w": 291,
+      "h": 50,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 291,
+      "sourceH": 50
+    },
+    "team_task_line_png": {
+      "x": 1,
+      "y": 457,
+      "w": 572,
+      "h": 1,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 572,
+      "sourceH": 1
+    },
+    "team_task_lose_png": {
+      "x": 851,
+      "y": 1,
+      "w": 113,
+      "h": 64,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 113,
+      "sourceH": 64
+    },
+    "team_task_rec_png": {
+      "x": 966,
+      "y": 1,
+      "w": 31,
+      "h": 142,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 31,
+      "sourceH": 142
+    },
+    "team_task_rewardtextbg_png": {
+      "x": 1,
+      "y": 329,
+      "w": 571,
+      "h": 96,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 571,
+      "sourceH": 96
+    },
+    "team_task_success_png": {
+      "x": 847,
+      "y": 67,
+      "w": 106,
+      "h": 57,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 106,
+      "sourceH": 57
+    },
+    "team_task_tag1_png": {
+      "x": 669,
+      "y": 147,
+      "w": 49,
+      "h": 22,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 49,
+      "sourceH": 22
+    },
+    "team_task_tag2_png": {
+      "x": 720,
+      "y": 147,
+      "w": 49,
+      "h": 22,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 49,
+      "sourceH": 22
+    },
+    "team_task_tag3_png": {
+      "x": 966,
+      "y": 145,
+      "w": 49,
+      "h": 22,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 49,
+      "sourceH": 22
+    },
+    "team_task_title_png": {
+      "x": 554,
+      "y": 147,
+      "w": 113,
+      "h": 26,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 113,
+      "sourceH": 26
+    },
+    "team_task_tuijian2textbg_png": {
+      "x": 1,
+      "y": 202,
+      "w": 512,
+      "h": 125,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 512,
+      "sourceH": 125
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "groups": [
+    {
+      "keys": "road_440,exml_440,map_440_bg_mc_jpg,map_440_taizi_png",
+      "name": "map_440"
+    }
+  ],
+  "resources": [
+    {
+      "type": "json",
+      "url": "440.json",
+      "name": "road_440"
+    },
+    {
+      "type": "text",
+      "url": "Map440Skin.exml",
+      "name": "exml_440"
+    },
+    {
+      "type": "image",
+      "url": "map_440_bg_mc.jpg",
+      "name": "map_440_bg_mc_jpg"
+    },
+    {
+      "type": "image",
+      "url": "map_440_taizi.png",
+      "name": "map_440_taizi_png"
+    }
+  ]
+}

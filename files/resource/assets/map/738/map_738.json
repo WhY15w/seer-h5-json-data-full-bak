@@ -1,0 +1,30 @@
+{
+  "groups": [
+    {
+      "keys": "road_738,exml_738,map_738_bg_mc_jpg,map_738_top_mc_png",
+      "name": "map_738"
+    }
+  ],
+  "resources": [
+    {
+      "type": "json",
+      "url": "738.json",
+      "name": "road_738"
+    },
+    {
+      "type": "text",
+      "url": "Map738Skin.exml",
+      "name": "exml_738"
+    },
+    {
+      "type": "image",
+      "url": "map_738_bg_mc.jpg",
+      "name": "map_738_bg_mc_jpg"
+    },
+    {
+      "type": "image",
+      "url": "map_738_top_mc.png",
+      "name": "map_738_top_mc_png"
+    }
+  ]
+}

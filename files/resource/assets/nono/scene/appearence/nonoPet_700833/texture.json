@@ -1,0 +1,34 @@
+{
+  "SubTexture": [
+    {
+      "name": "shadow",
+      "x": 91,
+      "width": 85,
+      "y": 69,
+      "height": 37
+    },
+    {
+      "name": "补间 2",
+      "x": 0,
+      "width": 114,
+      "y": 0,
+      "height": 58
+    },
+    {
+      "name": "补间 22",
+      "x": 0,
+      "width": 90,
+      "y": 59,
+      "height": 62
+    },
+    {
+      "name": "补间 33",
+      "x": 115,
+      "width": 91,
+      "y": 0,
+      "height": 67
+    }
+  ],
+  "name": "nonoPet_700833",
+  "imagePath": "texture.png"
+}

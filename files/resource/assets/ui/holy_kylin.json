@@ -1,0 +1,76 @@
+{
+  "groups": [
+    {
+      "name": "holy_kylin",
+      "keys": "holy_kylin_sheet,hk_envolepop_jx_1_kb_2_png,hk_mainpanel_bg_jpg,hk_onekeypop_zu_1_png,hk_panel1_bg_jpg,hk_panel1_juxing_13_png,hk_panel1_zu_4_png,hk_panel3_pet2959_png,hk_panel3_pet3036_png,hk_panel3_pet3174_png,hk_panel3_pet3200_png,hk_panel3_pet3211_png,hk_panel3_pet3223_png"
+    }
+  ],
+  "resources": [
+    {
+      "name": "hk_envolepop_jx_1_kb_2_png",
+      "type": "image",
+      "url": "holy_kylin/outside/hk_envolepop_jx_1_kb_2.png"
+    },
+    {
+      "name": "hk_mainpanel_bg_jpg",
+      "type": "image",
+      "url": "holy_kylin/outside/hk_mainpanel_bg.jpg"
+    },
+    {
+      "name": "hk_onekeypop_zu_1_png",
+      "type": "image",
+      "url": "holy_kylin/outside/hk_onekeypop_zu_1.png"
+    },
+    {
+      "name": "hk_panel1_bg_jpg",
+      "type": "image",
+      "url": "holy_kylin/outside/hk_panel1_bg.jpg"
+    },
+    {
+      "name": "hk_panel1_juxing_13_png",
+      "type": "image",
+      "url": "holy_kylin/outside/hk_panel1_juxing_13.png"
+    },
+    {
+      "name": "hk_panel1_zu_4_png",
+      "type": "image",
+      "url": "holy_kylin/outside/hk_panel1_zu_4.png"
+    },
+    {
+      "name": "hk_panel3_pet2959_png",
+      "type": "image",
+      "url": "holy_kylin/outside/hk_panel3_pet2959.png"
+    },
+    {
+      "name": "hk_panel3_pet3036_png",
+      "type": "image",
+      "url": "holy_kylin/outside/hk_panel3_pet3036.png"
+    },
+    {
+      "name": "hk_panel3_pet3174_png",
+      "type": "image",
+      "url": "holy_kylin/outside/hk_panel3_pet3174.png"
+    },
+    {
+      "name": "hk_panel3_pet3200_png",
+      "type": "image",
+      "url": "holy_kylin/outside/hk_panel3_pet3200.png"
+    },
+    {
+      "name": "hk_panel3_pet3211_png",
+      "type": "image",
+      "url": "holy_kylin/outside/hk_panel3_pet3211.png"
+    },
+    {
+      "name": "hk_panel3_pet3223_png",
+      "type": "image",
+      "url": "holy_kylin/outside/hk_panel3_pet3223.png"
+    },
+    {
+      "name": "holy_kylin_sheet",
+      "type": "sheet",
+      "url": "holy_kylin/holy_kylin_sheet.json",
+      "subkeys": "hk_envolepop_1_png,hk_envolepop_btnback_png,hk_envolepop_btnbuy1_png,hk_envolepop_btnenvole_png,hk_envolepop_btnGet_png,hk_envolepop_hasGet_png,hk_envolepop_jx_7_kb_2_png,hk_envolepop_sgjh_png,hk_envolepop_tuceng_3_png,hk_envolepop_txtlabel_png,hk_envolepop_yihuode_png,hk_mainpanel_btn1_png,hk_mainpanel_btn2_png,hk_mainpanel_btn3_png,hk_mainpanel_btnenvole_png,hk_mainpanel_btnevolveneed_png,hk_mainpanel_btninfo_png,hk_mainpanel_btnup_png,hk_mainpanel_pass_png,hk_mainpanel_stms_png,hk_mainpanel_yhjp_png,hk_mainpanel_yihuode_png,hk_mainpanel_zu_2_png,hk_main_panel_imghas_png,hk_onekeypop_1_png,hk_onekeypop_2_png,hk_onekeypop_3_png,hk_onekeypop_4_png,hk_onekeypop_5_png,hk_onekeypop_6_png,hk_onekeypop_btnadd_png,hk_onekeypop_btnbuy_png,hk_onekeypop_btnclose_png,hk_panel1_1_png,hk_panel1_btnadd_png,hk_panel1_btnfight_png,hk_panel1_dejd_png,hk_panel1_dsjd_png,hk_panel1_dyjd_png,hk_panel1_icon1_png,hk_panel1_icon2_png,hk_panel1_icon3_png,hk_panel1_icon4_png,hk_panel1_icon5_png,hk_panel1_icon6_png,hk_panel1_jlbb1_png,hk_panel1_jlhf_png,hk_panel1_jt2_kb_png,hk_panel1_jx_20_kb_2_png,hk_panel1_jx_8_kb_3_png,hk_panel1_jx_8_kb_4_png,hk_panel1_jx_8_kb_5_png,hk_panel1_pass_png,hk_panel1_sg_ds_png,hk_panel1_stms_png,hk_panel1_tuceng_29_png,hk_panel1_txtlabel_png,hk_panel1_wei_png,hk_panel1_yijihuo_png,hk_panel1_zu_5_png,hk_panel2_1_png,hk_panel2_btnfast_png,hk_panel2_btnFasta_png,hk_panel2_btnfight_png,hk_panel2_grooup_tims_png,hk_panel2_jt2_kb_png,hk_panel2_jx_3_kb_png,hk_panel2_jx_7_kb_png,hk_panel2_jx_7_kb_3_png,hk_panel2_jx_7_kb_4_png,hk_panel2_jx_904_kb_2_png,hk_panel2_pass_png,hk_panel2_star1_png,hk_panel2_star2_png,hk_panel2_star3_png,hk_panel2_star4_png,hk_panel2_stms_png,hk_panel2_youxiajia_png,hk_panel2_zljc_png,hk_panel2_zu_4_png,hk_panel3_2959_png,hk_panel3_3036_png,hk_panel3_3174_png,hk_panel3_3200_png,hk_panel3_3211_png,hk_panel3_3223_png,hk_panel3_btnadd_png,hk_panel3_jlbb1_png,hk_panel3_jlhf_png,hk_panel3_juxing_10_png,hk_panel3_juxing_11_png,hk_panel3_juxing_12_png,hk_panel3_juxing_7_png,hk_panel3_juxing_8_png,hk_panel3_juxing_9_png,hk_panel3_jx_20_kb_2_png,hk_panel3_renkedu_png,hk_panel3_sg_ds_png,hk_panel3_stms_png,hk_panel3_txtlabel_png,hk_panel3_txtlabel_kb_png,hk_panel3_xx-sx_png,hk_panel3_xx_no_png,hk_panel3_yihuode_png,hk_panel3_yijihuo_png,hk_panel3_yjh_kb_-_zndxz_png,hk_panel3_zu_114_png,hk_panel3_zu_115_png,hk_uppop_1_png,hk_uppop_btnback_png,hk_uppop_btnbuy_png,hk_uppop_btnke_png,hk_uppop_btnte_png,hk_uppop_btnwu_png,hk_uppop_sgzf_png"
+    }
+  ]
+}

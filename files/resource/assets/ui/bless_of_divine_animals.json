@@ -1,0 +1,21 @@
+{
+  "groups": [
+    {
+      "name": "bless_of_divine_animals",
+      "keys": "bless_of_divine_animals_sheet,boda_mainpanel_bg_jpg"
+    }
+  ],
+  "resources": [
+    {
+      "name": "boda_mainpanel_bg_jpg",
+      "type": "image",
+      "url": "bless_of_divine_animals/outside/boda_mainpanel_bg.jpg"
+    },
+    {
+      "name": "bless_of_divine_animals_sheet",
+      "type": "sheet",
+      "url": "bless_of_divine_animals/bless_of_divine_animals_sheet.json",
+      "subkeys": "boda_mainpanel_btncure_png,boda_mainpanel_btnpet_png,boda_mainpanel_juxing_2_png,boda_mainpanel_jx_2_kb_png,boda_mainpanel_mark_png,boda_mainpanel_pet1_png,boda_mainpanel_pet2_png,boda_mainpanel_pet3_png,boda_mainpanel_pet4_png,boda_mainpanel_pet5_png,boda_mainpanel_title_png,boda_mainpanel_xz_1_png,boda_panel2_btnadd_png,boda_panel2_fastFlag_png,boda_panel2_img_di2_png,boda_panel2_main_panel_icon3_png,boda_panel2_main_panel_icon4_png,boda_panel2_main_panel_imgswitchoff_png,boda_panel2_main_panel_imgswitchon_png,boda_panel2_main_panel_img_di2_png,boda_panel2_page1_1_png,boda_panel2_page1_2_png,boda_panel2_page1_3_png,boda_panel2_page2_1_png,boda_panel2_page2_2_png,boda_panel2_page2_3_png,boda_panel2_page3_1_png,boda_panel2_page3_2_png,boda_panel2_page3_3_png,boda_panel2_page4_1_png,boda_panel2_page4_2_png,boda_panel2_page4_3_png,boda_panel2_page5_1_png,boda_panel2_page5_2_png,boda_panel2_page5_3_png,boda_panel2_sscf_png,boda_panel2_txtbg_png"
+    }
+  ]
+}

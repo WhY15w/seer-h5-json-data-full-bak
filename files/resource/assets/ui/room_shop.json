@@ -1,0 +1,21 @@
+{
+  "groups": [
+    {
+      "name": "room_shop",
+      "keys": "room_shop_sheet,room_shop_bg_jpg"
+    }
+  ],
+  "resources": [
+    {
+      "name": "room_shop_bg_jpg",
+      "type": "image",
+      "url": "room_shop/outside/room_shop_bg.jpg"
+    },
+    {
+      "name": "room_shop_sheet",
+      "type": "sheet",
+      "url": "room_shop/room_shop_sheet.json",
+      "subkeys": "room_shop_buybg_png,room_shop_buy_bn_png,room_shop_close_png,room_shop_icon_png,room_shop_icon_gold_png,room_shop_img_di2_png,room_shop_tab_item_1_down_png,room_shop_tab_item_1_up_png,room_shop_tab_item_2_down_png,room_shop_tab_item_2_up_png,room_shop_tag_bg_png,room_shop_time_bg_png"
+    }
+  ]
+}

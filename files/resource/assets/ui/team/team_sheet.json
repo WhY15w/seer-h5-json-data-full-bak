@@ -1,0 +1,2755 @@
+{
+  "file": "team_sheet.png",
+  "frames": {
+    "teamboss_baikuang_png": {
+      "x": 1904,
+      "y": 1201,
+      "w": 80,
+      "h": 80,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 80,
+      "sourceH": 80
+    },
+    "teamboss_btncure_png": {
+      "x": 1628,
+      "y": 1344,
+      "w": 68,
+      "h": 68,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 68,
+      "sourceH": 68
+    },
+    "teamboss_btninfo_png": {
+      "x": 1556,
+      "y": 989,
+      "w": 83,
+      "h": 28,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 83,
+      "sourceH": 28
+    },
+    "teamboss_btnpet_png": {
+      "x": 1488,
+      "y": 1344,
+      "w": 68,
+      "h": 68,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 68,
+      "sourceH": 68
+    },
+    "teamboss_btntz_png": {
+      "x": 703,
+      "y": 828,
+      "w": 196,
+      "h": 62,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 196,
+      "sourceH": 62
+    },
+    "teamboss_btnzengjia_png": {
+      "x": 701,
+      "y": 764,
+      "w": 196,
+      "h": 62,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 196,
+      "sourceH": 62
+    },
+    "teamboss_huangkuang_png": {
+      "x": 813,
+      "y": 1251,
+      "w": 80,
+      "h": 80,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 80,
+      "sourceH": 80
+    },
+    "teamboss_jlyylwlkhy_png": {
+      "x": 1,
+      "y": 1114,
+      "w": 208,
+      "h": 29,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 208,
+      "sourceH": 29
+    },
+    "teamboss_mask_png": {
+      "x": 1558,
+      "y": 1344,
+      "w": 68,
+      "h": 68,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 68,
+      "sourceH": 68
+    },
+    "teamboss_title_png": {
+      "x": 297,
+      "y": 1304,
+      "w": 143,
+      "h": 42,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 143,
+      "sourceH": 42
+    },
+    "teamboss_xian_png": {
+      "x": 1983,
+      "y": 326,
+      "w": 40,
+      "h": 123,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 40,
+      "sourceH": 123
+    },
+    "teamboss_xueliang_png": {
+      "x": 829,
+      "y": 1241,
+      "w": 738,
+      "h": 8,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 738,
+      "sourceH": 8
+    },
+    "teamboss_xuetiaodi_png": {
+      "x": 1,
+      "y": 1146,
+      "w": 740,
+      "h": 12,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 740,
+      "sourceH": 12
+    },
+    "teamboss_yikaiqi_png": {
+      "x": 1744,
+      "y": 1115,
+      "w": 45,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 45,
+      "sourceH": 40
+    },
+    "teamtrader_1722814_png": {
+      "x": 1506,
+      "y": 582,
+      "w": 29,
+      "h": 32,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 29,
+      "sourceH": 32
+    },
+    "teamtrader_btnXiugai_png": {
+      "x": 157,
+      "y": 1256,
+      "w": 134,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 134,
+      "sourceH": 46
+    },
+    "teamtrader_countbg_png": {
+      "x": 999,
+      "y": 922,
+      "w": 104,
+      "h": 21,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 104,
+      "sourceH": 21
+    },
+    "teamtrader_di_png": {
+      "x": 874,
+      "y": 1431,
+      "w": 22,
+      "h": 27,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 22,
+      "sourceH": 27
+    },
+    "teamtrader_icon1_png": {
+      "x": 584,
+      "y": 430,
+      "w": 68,
+      "h": 72,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 68,
+      "sourceH": 72
+    },
+    "teamtrader_jjxglkhy_png": {
+      "x": 286,
+      "y": 1348,
+      "w": 152,
+      "h": 28,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 152,
+      "sourceH": 28
+    },
+    "teamtrader_tag_png": {
+      "x": 736,
+      "y": 964,
+      "w": 166,
+      "h": 22,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 166,
+      "sourceH": 22
+    },
+    "teamtrader_tongyongdi_png": {
+      "x": 662,
+      "y": 117,
+      "w": 177,
+      "h": 382,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 177,
+      "sourceH": 382
+    },
+    "teamtrader_topimg_png": {
+      "x": 1,
+      "y": 1,
+      "w": 993,
+      "h": 114,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 993,
+      "sourceH": 114
+    },
+    "teamtrader_txtBg_png": {
+      "x": 979,
+      "y": 319,
+      "w": 12,
+      "h": 12,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 12,
+      "sourceH": 12
+    },
+    "teamtrader_yhgg_png": {
+      "x": 1847,
+      "y": 1331,
+      "w": 137,
+      "h": 43,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 137,
+      "sourceH": 43
+    },
+    "teamtrader_zhuanshudi_png": {
+      "x": 1461,
+      "y": 1,
+      "w": 210,
+      "h": 382,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 210,
+      "sourceH": 382
+    },
+    "teamtrader_ziyuanicon_png": {
+      "x": 1450,
+      "y": 1462,
+      "w": 28,
+      "h": 26,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 28,
+      "sourceH": 26
+    },
+    "team_barbg_png": {
+      "x": 2041,
+      "y": 326,
+      "w": 3,
+      "h": 295,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 3,
+      "sourceH": 295
+    },
+    "team_btnBg_yellow_png": {
+      "x": 1,
+      "y": 1212,
+      "w": 154,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 154,
+      "sourceH": 46
+    },
+    "team_btnBoss_png": {
+      "x": 389,
+      "y": 250,
+      "w": 193,
+      "h": 236,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 193,
+      "sourceH": 236
+    },
+    "team_btnClose_png": {
+      "x": 913,
+      "y": 604,
+      "w": 39,
+      "h": 48,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 39,
+      "sourceH": 48
+    },
+    "team_btnDissolve_png": {
+      "x": 1542,
+      "y": 385,
+      "w": 122,
+      "h": 42,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 122,
+      "sourceH": 42
+    },
+    "team_btnEdit_png": {
+      "x": 978,
+      "y": 188,
+      "w": 15,
+      "h": 17,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 15,
+      "sourceH": 17
+    },
+    "team_btnManage_png": {
+      "x": 1243,
+      "y": 1339,
+      "w": 120,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 120,
+      "sourceH": 40
+    },
+    "team_btnRes_png": {
+      "x": 195,
+      "y": 250,
+      "w": 192,
+      "h": 350,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 192,
+      "sourceH": 350
+    },
+    "team_btnSave_png": {
+      "x": 978,
+      "y": 170,
+      "w": 16,
+      "h": 16,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 16,
+      "sourceH": 16
+    },
+    "team_btnShop_png": {
+      "x": 1498,
+      "y": 709,
+      "w": 193,
+      "h": 236,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 193,
+      "sourceH": 236
+    },
+    "team_btnTask_png": {
+      "x": 1693,
+      "y": 709,
+      "w": 193,
+      "h": 236,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 193,
+      "sourceH": 236
+    },
+    "team_btnTech_png": {
+      "x": 1235,
+      "y": 1,
+      "w": 224,
+      "h": 407,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 224,
+      "sourceH": 407
+    },
+    "team_btnTools_png": {
+      "x": 1,
+      "y": 250,
+      "w": 192,
+      "h": 350,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 192,
+      "sourceH": 350
+    },
+    "team_btnUp_png": {
+      "x": 293,
+      "y": 1256,
+      "w": 134,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 134,
+      "sourceH": 46
+    },
+    "team_check_box_down_png": {
+      "x": 959,
+      "y": 964,
+      "w": 28,
+      "h": 23,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 28,
+      "sourceH": 23
+    },
+    "team_check_box_up_png": {
+      "x": 973,
+      "y": 147,
+      "w": 21,
+      "h": 21,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 21,
+      "sourceH": 21
+    },
+    "team_clocktime_png": {
+      "x": 2011,
+      "y": 675,
+      "w": 36,
+      "h": 36,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 36,
+      "sourceH": 36
+    },
+    "team_device_down_png": {
+      "x": 1375,
+      "y": 1299,
+      "w": 40,
+      "h": 120,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 40,
+      "sourceH": 120
+    },
+    "team_device_up_png": {
+      "x": 1201,
+      "y": 1339,
+      "w": 40,
+      "h": 120,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 40,
+      "sourceH": 120
+    },
+    "team_dissolve_pop_datebg_png": {
+      "x": 679,
+      "y": 1384,
+      "w": 192,
+      "h": 17,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 192,
+      "sourceH": 17
+    },
+    "team_dissolve_pop_tipsbg_png": {
+      "x": 662,
+      "y": 1029,
+      "w": 582,
+      "h": 29,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 582,
+      "sourceH": 29
+    },
+    "team_dissolve_pop_title_png": {
+      "x": 1385,
+      "y": 989,
+      "w": 169,
+      "h": 27,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 169,
+      "sourceH": 27
+    },
+    "team_headbg_png": {
+      "x": 1,
+      "y": 838,
+      "w": 339,
+      "h": 110,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 339,
+      "sourceH": 110
+    },
+    "team_help_png": {
+      "x": 1847,
+      "y": 1296,
+      "w": 25,
+      "h": 28,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 25,
+      "sourceH": 28
+    },
+    "team_icon_0_png": {
+      "x": 913,
+      "y": 654,
+      "w": 44,
+      "h": 26,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 44,
+      "sourceH": 26
+    },
+    "team_icon_1_png": {
+      "x": 1981,
+      "y": 795,
+      "w": 47,
+      "h": 52,
+      "offX": 4,
+      "offY": 2,
+      "sourceW": 55,
+      "sourceH": 55
+    },
+    "team_icon_id_png": {
+      "x": 265,
+      "y": 1114,
+      "w": 27,
+      "h": 28,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 27,
+      "sourceH": 28
+    },
+    "team_icon_leader_png": {
+      "x": 1939,
+      "y": 240,
+      "w": 37,
+      "h": 31,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 37,
+      "sourceH": 31
+    },
+    "team_icon_level_png": {
+      "x": 1852,
+      "y": 571,
+      "w": 53,
+      "h": 54,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 53,
+      "sourceH": 54
+    },
+    "team_icon_manage_png": {
+      "x": 2011,
+      "y": 1301,
+      "w": 32,
+      "h": 28,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 32,
+      "sourceH": 28
+    },
+    "team_icon_member_png": {
+      "x": 1506,
+      "y": 551,
+      "w": 33,
+      "h": 29,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 33,
+      "sourceH": 29
+    },
+    "team_icon_resource_png": {
+      "x": 607,
+      "y": 1062,
+      "w": 37,
+      "h": 37,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 37,
+      "sourceH": 37
+    },
+    "team_info_png": {
+      "x": 313,
+      "y": 1378,
+      "w": 123,
+      "h": 28,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 123,
+      "sourceH": 28
+    },
+    "team_info_ up_png": {
+      "x": 949,
+      "y": 1339,
+      "w": 40,
+      "h": 120,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 40,
+      "sourceH": 120
+    },
+    "team_info_btnEdit_png": {
+      "x": 1347,
+      "y": 1381,
+      "w": 26,
+      "h": 26,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 26,
+      "sourceH": 26
+    },
+    "team_info_down_png": {
+      "x": 1159,
+      "y": 1339,
+      "w": 40,
+      "h": 120,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 40,
+      "sourceH": 120
+    },
+    "team_info_headbg_png": {
+      "x": 1394,
+      "y": 506,
+      "w": 110,
+      "h": 110,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 110,
+      "sourceH": 110
+    },
+    "team_info_info_item_icon_png": {
+      "x": 1794,
+      "y": 1050,
+      "w": 87,
+      "h": 115,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 87,
+      "sourceH": 115
+    },
+    "team_info_info_res_icon_png": {
+      "x": 1922,
+      "y": 675,
+      "w": 87,
+      "h": 118,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 87,
+      "sourceH": 118
+    },
+    "team_info_info_tech_icon_png": {
+      "x": 1888,
+      "y": 795,
+      "w": 91,
+      "h": 111,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 91,
+      "sourceH": 111
+    },
+    "team_info_line_png": {
+      "x": 841,
+      "y": 407,
+      "w": 342,
+      "h": 1,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 342,
+      "sourceH": 1
+    },
+    "team_info_title_png": {
+      "x": 1675,
+      "y": 1421,
+      "w": 112,
+      "h": 26,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 112,
+      "sourceH": 26
+    },
+    "team_info_txtbg_png": {
+      "x": 2011,
+      "y": 713,
+      "w": 36,
+      "h": 26,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 36,
+      "sourceH": 26
+    },
+    "team_info_txtbg1_png": {
+      "x": 1518,
+      "y": 1220,
+      "w": 40,
+      "h": 18,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 40,
+      "sourceH": 18
+    },
+    "team_items_btnlocked_png": {
+      "x": 442,
+      "y": 1347,
+      "w": 100,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 100,
+      "sourceH": 40
+    },
+    "team_items_contentbg_png": {
+      "x": 978,
+      "y": 207,
+      "w": 12,
+      "h": 12,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 12,
+      "sourceH": 12
+    },
+    "team_items_countbg_png": {
+      "x": 438,
+      "y": 1389,
+      "w": 155,
+      "h": 20,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 155,
+      "sourceH": 20
+    },
+    "team_items_icon_png": {
+      "x": 377,
+      "y": 1436,
+      "w": 25,
+      "h": 22,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 25,
+      "sourceH": 22
+    },
+    "team_items_line_png": {
+      "x": 1243,
+      "y": 1456,
+      "w": 747,
+      "h": 1,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 747,
+      "sourceH": 1
+    },
+    "team_items_textbg_png": {
+      "x": 342,
+      "y": 838,
+      "w": 359,
+      "h": 68,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 359,
+      "sourceH": 68
+    },
+    "team_items_title_png": {
+      "x": 485,
+      "y": 1212,
+      "w": 162,
+      "h": 42,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 162,
+      "sourceH": 42
+    },
+    "team_item_bg_png": {
+      "x": 841,
+      "y": 383,
+      "w": 133,
+      "h": 22,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 133,
+      "sourceH": 22
+    },
+    "team_item_render_btnExchange_png": {
+      "x": 442,
+      "y": 1304,
+      "w": 121,
+      "h": 41,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 121,
+      "sourceH": 41
+    },
+    "team_item_render_buybg_png": {
+      "x": 1270,
+      "y": 631,
+      "w": 650,
+      "h": 76,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 650,
+      "sourceH": 76
+    },
+    "team_line_png": {
+      "x": 1,
+      "y": 1460,
+      "w": 668,
+      "h": 1,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 668,
+      "sourceH": 1
+    },
+    "team_logo_png": {
+      "x": 841,
+      "y": 270,
+      "w": 136,
+      "h": 111,
+      "offX": 2,
+      "offY": 17,
+      "sourceW": 140,
+      "sourceH": 140
+    },
+    "team_log_down_png": {
+      "x": 1033,
+      "y": 1339,
+      "w": 40,
+      "h": 120,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 40,
+      "sourceH": 120
+    },
+    "team_log_up_png": {
+      "x": 1075,
+      "y": 1339,
+      "w": 40,
+      "h": 120,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 40,
+      "sourceH": 120
+    },
+    "team_lvl_up_png": {
+      "x": 1332,
+      "y": 1421,
+      "w": 83,
+      "h": 26,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 83,
+      "sourceH": 26
+    },
+    "team_main_btnManage_png": {
+      "x": 1031,
+      "y": 1251,
+      "w": 134,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 134,
+      "sourceH": 46
+    },
+    "team_managetype1_down_png": {
+      "x": 829,
+      "y": 1178,
+      "w": 164,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 164,
+      "sourceH": 46
+    },
+    "team_managetype1_up_png": {
+      "x": 1,
+      "y": 1160,
+      "w": 168,
+      "h": 50,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 168,
+      "sourceH": 50
+    },
+    "team_managetype2_down_png": {
+      "x": 1738,
+      "y": 1201,
+      "w": 164,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 164,
+      "sourceH": 46
+    },
+    "team_managetype2_up_png": {
+      "x": 171,
+      "y": 1160,
+      "w": 168,
+      "h": 50,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 168,
+      "sourceH": 50
+    },
+    "team_managetype3_down_png": {
+      "x": 1572,
+      "y": 1201,
+      "w": 164,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 164,
+      "sourceH": 46
+    },
+    "team_managetype3_up_png": {
+      "x": 341,
+      "y": 1160,
+      "w": 168,
+      "h": 50,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 168,
+      "sourceH": 50
+    },
+    "team_managetype4_down_png": {
+      "x": 1406,
+      "y": 1172,
+      "w": 164,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 164,
+      "sourceH": 46
+    },
+    "team_managetype4_up_png": {
+      "x": 511,
+      "y": 1160,
+      "w": 168,
+      "h": 50,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 168,
+      "sourceH": 50
+    },
+    "team_managet_type_down_png": {
+      "x": 1246,
+      "y": 1050,
+      "w": 272,
+      "h": 63,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 272,
+      "sourceH": 63
+    },
+    "team_manage_apply_bg_png": {
+      "x": 1,
+      "y": 782,
+      "w": 698,
+      "h": 54,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 698,
+      "sourceH": 54
+    },
+    "team_manage_btnGuanli_png": {
+      "x": 137,
+      "y": 1304,
+      "w": 158,
+      "h": 38,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 158,
+      "sourceH": 38
+    },
+    "team_manage_btnInfo_png": {
+      "x": 895,
+      "y": 1299,
+      "w": 158,
+      "h": 38,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 158,
+      "sourceH": 38
+    },
+    "team_manage_btnOn_png": {
+      "x": 565,
+      "y": 1341,
+      "w": 112,
+      "h": 42,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 112,
+      "sourceH": 42
+    },
+    "team_manage_btnTuichu_png": {
+      "x": 1055,
+      "y": 1299,
+      "w": 158,
+      "h": 38,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 158,
+      "sourceH": 38
+    },
+    "team_manage_btnUp_png": {
+      "x": 1698,
+      "y": 1344,
+      "w": 110,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 110,
+      "sourceH": 40
+    },
+    "team_manage_btnYichu_png": {
+      "x": 1215,
+      "y": 1299,
+      "w": 158,
+      "h": 38,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 158,
+      "sourceH": 38
+    },
+    "team_manage_countbg_png": {
+      "x": 1108,
+      "y": 684,
+      "w": 155,
+      "h": 20,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 155,
+      "sourceH": 20
+    },
+    "team_manage_dissolve_btnCancel_png": {
+      "x": 1417,
+      "y": 1414,
+      "w": 87,
+      "h": 34,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 87,
+      "sourceH": 34
+    },
+    "team_manage_dissolve_btnConfirm_png": {
+      "x": 1506,
+      "y": 1414,
+      "w": 87,
+      "h": 34,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 87,
+      "sourceH": 34
+    },
+    "team_manage_dissolve_btnDissolve_png": {
+      "x": 187,
+      "y": 1409,
+      "w": 87,
+      "h": 34,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 87,
+      "sourceH": 34
+    },
+    "team_manage_dissolve_btnSave_png": {
+      "x": 1243,
+      "y": 1414,
+      "w": 87,
+      "h": 34,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 87,
+      "sourceH": 34
+    },
+    "team_manage_dissolve_flag_warning_png": {
+      "x": 1270,
+      "y": 506,
+      "w": 122,
+      "h": 106,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 122,
+      "sourceH": 106
+    },
+    "team_manage_dissolve_setbg_png": {
+      "x": 979,
+      "y": 277,
+      "w": 12,
+      "h": 12,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 12,
+      "sourceH": 12
+    },
+    "team_manage_dissolve_zhezhao_png": {
+      "x": 979,
+      "y": 291,
+      "w": 12,
+      "h": 12,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 12,
+      "sourceH": 12
+    },
+    "team_manage_icon_adim_png": {
+      "x": 2027,
+      "y": 1071,
+      "w": 19,
+      "h": 19,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 19,
+      "sourceH": 19
+    },
+    "team_manage_icon_captain_png": {
+      "x": 976,
+      "y": 383,
+      "w": 18,
+      "h": 18,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 18,
+      "sourceH": 18
+    },
+    "team_manage_itembg_png": {
+      "x": 1673,
+      "y": 1,
+      "w": 264,
+      "h": 272,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 264,
+      "sourceH": 272
+    },
+    "team_manage_memberbg_png": {
+      "x": 999,
+      "y": 947,
+      "w": 645,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 645,
+      "sourceH": 40
+    },
+    "team_manage_members_arrow_down_png": {
+      "x": 1810,
+      "y": 1344,
+      "w": 32,
+      "h": 28,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 32,
+      "sourceH": 28
+    },
+    "team_manage_members_arrow_up_png": {
+      "x": 2011,
+      "y": 1271,
+      "w": 32,
+      "h": 28,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 32,
+      "sourceH": 28
+    },
+    "team_manage_members_delIcon_png": {
+      "x": 1986,
+      "y": 1207,
+      "w": 42,
+      "h": 38,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 42,
+      "sourceH": 38
+    },
+    "team_manage_members_infoIcon_png": {
+      "x": 717,
+      "y": 1438,
+      "w": 41,
+      "h": 38,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 41,
+      "sourceH": 38
+    },
+    "team_manage_members_label_dailyContribution_png": {
+      "x": 690,
+      "y": 1403,
+      "w": 93,
+      "h": 33,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 93,
+      "sourceH": 33
+    },
+    "team_manage_members_label_name_png": {
+      "x": 1986,
+      "y": 1172,
+      "w": 53,
+      "h": 33,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 53,
+      "sourceH": 33
+    },
+    "team_manage_members_label_position_png": {
+      "x": 681,
+      "y": 1160,
+      "w": 53,
+      "h": 33,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 53,
+      "sourceH": 33
+    },
+    "team_manage_members_label_state_png": {
+      "x": 1698,
+      "y": 1386,
+      "w": 93,
+      "h": 33,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 93,
+      "sourceH": 33
+    },
+    "team_manage_members_label_totalContribution_png": {
+      "x": 595,
+      "y": 1403,
+      "w": 93,
+      "h": 33,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 93,
+      "sourceH": 33
+    },
+    "team_manage_members_manageIcon_png": {
+      "x": 900,
+      "y": 1384,
+      "w": 42,
+      "h": 38,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 42,
+      "sourceH": 38
+    },
+    "team_manage_members_quitIcon_png": {
+      "x": 1238,
+      "y": 1192,
+      "w": 42,
+      "h": 38,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 42,
+      "sourceH": 38
+    },
+    "team_manage_members_titlebg_png": {
+      "x": 342,
+      "y": 922,
+      "w": 655,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 655,
+      "sourceH": 40
+    },
+    "team_manage_pet_device_handle_png": {
+      "x": 1931,
+      "y": 1459,
+      "w": 28,
+      "h": 28,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 28,
+      "sourceH": 28
+    },
+    "team_manage_pet_device_off_png": {
+      "x": 565,
+      "y": 1256,
+      "w": 45,
+      "h": 22,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 45,
+      "sourceH": 22
+    },
+    "team_manage_pet_device_on_png": {
+      "x": 1986,
+      "y": 1247,
+      "w": 45,
+      "h": 22,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 45,
+      "sourceH": 22
+    },
+    "team_manage_res_device_btnLevelUp_png": {
+      "x": 995,
+      "y": 1178,
+      "w": 134,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 134,
+      "sourceH": 46
+    },
+    "team_manage_res_device_dot_png": {
+      "x": 2027,
+      "y": 623,
+      "w": 20,
+      "h": 20,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 20,
+      "sourceH": 20
+    },
+    "team_manage_res_device_max_png": {
+      "x": 646,
+      "y": 1060,
+      "w": 329,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 329,
+      "sourceH": 46
+    },
+    "team_manage_res_device_needbg1_png": {
+      "x": 979,
+      "y": 263,
+      "w": 12,
+      "h": 12,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 12,
+      "sourceH": 12
+    },
+    "team_manage_res_device_needtxtbg_png": {
+      "x": 736,
+      "y": 989,
+      "w": 647,
+      "h": 38,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 647,
+      "sourceH": 38
+    },
+    "team_manage_res_device_title_png": {
+      "x": 389,
+      "y": 488,
+      "w": 36,
+      "h": 12,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 36,
+      "sourceH": 12
+    },
+    "team_manage_res_icon_png": {
+      "x": 612,
+      "y": 1256,
+      "w": 31,
+      "h": 29,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 31,
+      "sourceH": 29
+    },
+    "team_manage_selected_png": {
+      "x": 2027,
+      "y": 645,
+      "w": 20,
+      "h": 20,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 20,
+      "sourceH": 20
+    },
+    "team_manage_title_png": {
+      "x": 1,
+      "y": 964,
+      "w": 733,
+      "h": 34,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 733,
+      "sourceH": 34
+    },
+    "team_manage_title1_png": {
+      "x": 321,
+      "y": 1212,
+      "w": 162,
+      "h": 42,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 162,
+      "sourceH": 42
+    },
+    "team_memberbg_png": {
+      "x": 1385,
+      "y": 1019,
+      "w": 657,
+      "h": 29,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 657,
+      "sourceH": 29
+    },
+    "team_member_down_png": {
+      "x": 1986,
+      "y": 1331,
+      "w": 40,
+      "h": 120,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 40,
+      "sourceH": 120
+    },
+    "team_member_manage_pop_title_png": {
+      "x": 977,
+      "y": 1060,
+      "w": 209,
+      "h": 43,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 209,
+      "sourceH": 43
+    },
+    "team_member_up_png": {
+      "x": 991,
+      "y": 1339,
+      "w": 40,
+      "h": 120,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 40,
+      "sourceH": 120
+    },
+    "team_name_png": {
+      "x": 1970,
+      "y": 524,
+      "w": 67,
+      "h": 41,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 67,
+      "sourceH": 41
+    },
+    "team_nb_tech_off_png": {
+      "x": 743,
+      "y": 1143,
+      "w": 84,
+      "h": 104,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 84,
+      "sourceH": 104
+    },
+    "team_nb_tech_on_png": {
+      "x": 584,
+      "y": 250,
+      "w": 69,
+      "h": 104,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 69,
+      "sourceH": 104
+    },
+    "team_note_bg_png": {
+      "x": 1406,
+      "y": 1140,
+      "w": 316,
+      "h": 30,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 316,
+      "sourceH": 30
+    },
+    "team_notice_edit_pop_title_png": {
+      "x": 785,
+      "y": 1403,
+      "w": 113,
+      "h": 26,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 113,
+      "sourceH": 26
+    },
+    "team_nx_tec_png": {
+      "x": 913,
+      "y": 684,
+      "w": 193,
+      "h": 236,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 193,
+      "sourceH": 236
+    },
+    "team_pet_head_frame_png": {
+      "x": 1304,
+      "y": 1140,
+      "w": 100,
+      "h": 99,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 100,
+      "sourceH": 99
+    },
+    "team_play_down_png": {
+      "x": 1985,
+      "y": 1050,
+      "w": 40,
+      "h": 120,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 40,
+      "sourceH": 120
+    },
+    "team_play_flag_close_png": {
+      "x": 621,
+      "y": 604,
+      "w": 290,
+      "h": 158,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 290,
+      "sourceH": 158
+    },
+    "team_play_img_boss_png": {
+      "x": 1542,
+      "y": 453,
+      "w": 308,
+      "h": 176,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 308,
+      "sourceH": 176
+    },
+    "team_play_img_bossOpen_png": {
+      "x": 960,
+      "y": 506,
+      "w": 308,
+      "h": 176,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 308,
+      "sourceH": 176
+    },
+    "team_play_img_coming_png": {
+      "x": 1,
+      "y": 602,
+      "w": 308,
+      "h": 176,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 308,
+      "sourceH": 176
+    },
+    "team_play_img_quartermaster_png": {
+      "x": 311,
+      "y": 604,
+      "w": 308,
+      "h": 176,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 308,
+      "sourceH": 176
+    },
+    "team_play_img_task_png": {
+      "x": 1673,
+      "y": 275,
+      "w": 308,
+      "h": 176,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 308,
+      "sourceH": 176
+    },
+    "team_play_up_png": {
+      "x": 1117,
+      "y": 1339,
+      "w": 40,
+      "h": 120,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 40,
+      "sourceH": 120
+    },
+    "team_rect_png": {
+      "x": 963,
+      "y": 1115,
+      "w": 339,
+      "h": 33,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 339,
+      "sourceH": 33
+    },
+    "team_reportbg_png": {
+      "x": 1888,
+      "y": 709,
+      "w": 30,
+      "h": 30,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 30,
+      "sourceH": 30
+    },
+    "team_res_arrows_png": {
+      "x": 1506,
+      "y": 506,
+      "w": 28,
+      "h": 43,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 28,
+      "sourceH": 43
+    },
+    "team_res_black_tech_png": {
+      "x": 187,
+      "y": 1378,
+      "w": 124,
+      "h": 29,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 124,
+      "sourceH": 29
+    },
+    "team_res_btnBuy_png": {
+      "x": 1888,
+      "y": 908,
+      "w": 148,
+      "h": 34,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 148,
+      "sourceH": 34
+    },
+    "team_res_btnMake_png": {
+      "x": 92,
+      "y": 1377,
+      "w": 93,
+      "h": 42,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 93,
+      "sourceH": 42
+    },
+    "team_res_btnOpen_png": {
+      "x": 1147,
+      "y": 1150,
+      "w": 89,
+      "h": 89,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 89,
+      "sourceH": 89
+    },
+    "team_res_btnProduct_png": {
+      "x": 1,
+      "y": 1260,
+      "w": 134,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 134,
+      "sourceH": 46
+    },
+    "team_res_btnUp_png": {
+      "x": 1810,
+      "y": 1376,
+      "w": 93,
+      "h": 42,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 93,
+      "sourceH": 42
+    },
+    "team_res_countbg_png": {
+      "x": 617,
+      "y": 1438,
+      "w": 98,
+      "h": 20,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 98,
+      "sourceH": 20
+    },
+    "team_res_exchanged_icon_png": {
+      "x": 1461,
+      "y": 385,
+      "w": 59,
+      "h": 19,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 59,
+      "sourceH": 19
+    },
+    "team_res_flag_used_png": {
+      "x": 1722,
+      "y": 1249,
+      "w": 151,
+      "h": 45,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 151,
+      "sourceH": 45
+    },
+    "team_res_heikejibg_png": {
+      "x": 1,
+      "y": 117,
+      "w": 659,
+      "h": 131,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 659,
+      "sourceH": 131
+    },
+    "team_res_icon_drawing_2_png": {
+      "x": 1987,
+      "y": 944,
+      "w": 53,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 53,
+      "sourceH": 40
+    },
+    "team_res_icon_drawing_3_png": {
+      "x": 1188,
+      "y": 1060,
+      "w": 53,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 53,
+      "sourceH": 40
+    },
+    "team_res_icon_drawing_4_png": {
+      "x": 1238,
+      "y": 1150,
+      "w": 53,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 53,
+      "sourceH": 40
+    },
+    "team_res_icon_drawing_5_png": {
+      "x": 1981,
+      "y": 849,
+      "w": 53,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 53,
+      "sourceH": 40
+    },
+    "team_res_line_png": {
+      "x": 874,
+      "y": 1462,
+      "w": 574,
+      "h": 1,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 574,
+      "sourceH": 1
+    },
+    "team_res_needtxtbg_png": {
+      "x": 294,
+      "y": 1106,
+      "w": 316,
+      "h": 38,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 316,
+      "sourceH": 38
+    },
+    "team_res_techIcon_png": {
+      "x": 1983,
+      "y": 240,
+      "w": 63,
+      "h": 84,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 63,
+      "sourceH": 84
+    },
+    "team_res_title_png": {
+      "x": 157,
+      "y": 1212,
+      "w": 162,
+      "h": 42,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 162,
+      "sourceH": 42
+    },
+    "team_res_titlebg_png": {
+      "x": 1572,
+      "y": 1172,
+      "w": 110,
+      "h": 27,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 110,
+      "sourceH": 27
+    },
+    "team_set_title_btnCompose_png": {
+      "x": 1439,
+      "y": 1251,
+      "w": 122,
+      "h": 42,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 122,
+      "sourceH": 42
+    },
+    "team_set_title_btnFix_png": {
+      "x": 429,
+      "y": 1256,
+      "w": 134,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 134,
+      "sourceH": 46
+    },
+    "team_set_title_inputbg_png": {
+      "x": 612,
+      "y": 1108,
+      "w": 349,
+      "h": 33,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 349,
+      "sourceH": 33
+    },
+    "team_star_png": {
+      "x": 1480,
+      "y": 1462,
+      "w": 28,
+      "h": 26,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 28,
+      "sourceH": 26
+    },
+    "team_task_btnBack_png": {
+      "x": 1992,
+      "y": 1453,
+      "w": 29,
+      "h": 28,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 29,
+      "sourceH": 28
+    },
+    "team_task_btnDispatch1_png": {
+      "x": 565,
+      "y": 1293,
+      "w": 134,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 134,
+      "sourceH": 46
+    },
+    "team_task_btnDispatch2_png": {
+      "x": 1439,
+      "y": 1296,
+      "w": 134,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 134,
+      "sourceH": 46
+    },
+    "team_task_btnGet_png": {
+      "x": 1575,
+      "y": 1296,
+      "w": 134,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 134,
+      "sourceH": 46
+    },
+    "team_task_dispatch_btnAttr_png": {
+      "x": 785,
+      "y": 1431,
+      "w": 87,
+      "h": 30,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 87,
+      "sourceH": 30
+    },
+    "team_task_dispatch_btnDe_png": {
+      "x": 1888,
+      "y": 741,
+      "w": 30,
+      "h": 30,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 30,
+      "sourceH": 30
+    },
+    "team_task_dispatch_btnDispatch_png": {
+      "x": 1711,
+      "y": 1296,
+      "w": 134,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 134,
+      "sourceH": 46
+    },
+    "team_task_dispatch_btnSearch_png": {
+      "x": 900,
+      "y": 1424,
+      "w": 29,
+      "h": 29,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 29,
+      "sourceH": 29
+    },
+    "team_task_dispatch_buff_png": {
+      "x": 1417,
+      "y": 1344,
+      "w": 69,
+      "h": 68,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 69,
+      "sourceH": 68
+    },
+    "team_task_dispatch_countbg_png": {
+      "x": 517,
+      "y": 1438,
+      "w": 98,
+      "h": 20,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 98,
+      "sourceH": 20
+    },
+    "team_task_dispatch_icon_png": {
+      "x": 671,
+      "y": 1460,
+      "w": 28,
+      "h": 26,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 28,
+      "sourceH": 26
+    },
+    "team_task_dispatch_petbg_png": {
+      "x": 996,
+      "y": 1,
+      "w": 237,
+      "h": 399,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 237,
+      "sourceH": 399
+    },
+    "team_task_dispatch_tag_png": {
+      "x": 1883,
+      "y": 1050,
+      "w": 100,
+      "h": 100,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 100,
+      "sourceH": 100
+    },
+    "team_task_dispatch_title_png": {
+      "x": 313,
+      "y": 1408,
+      "w": 113,
+      "h": 26,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 113,
+      "sourceH": 26
+    },
+    "team_task_fast_dispatch_btnCancel_png": {
+      "x": 1167,
+      "y": 1251,
+      "w": 134,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 134,
+      "sourceH": 46
+    },
+    "team_task_fast_dispatch_btnDispatch_png": {
+      "x": 1303,
+      "y": 1251,
+      "w": 134,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 134,
+      "sourceH": 46
+    },
+    "team_task_fast_dispatch_successbg_png": {
+      "x": 1304,
+      "y": 1115,
+      "w": 438,
+      "h": 23,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 438,
+      "sourceH": 23
+    },
+    "team_task_fast_dispatch_title_png": {
+      "x": 133,
+      "y": 1344,
+      "w": 151,
+      "h": 31,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 151,
+      "sourceH": 31
+    },
+    "team_task_icon_png": {
+      "x": 1961,
+      "y": 1459,
+      "w": 28,
+      "h": 26,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 28,
+      "sourceH": 26
+    },
+    "team_task_iconBg_png": {
+      "x": 584,
+      "y": 356,
+      "w": 72,
+      "h": 72,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 72,
+      "sourceH": 72
+    },
+    "team_task_icon_star_png": {
+      "x": 276,
+      "y": 1409,
+      "w": 26,
+      "h": 25,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 26,
+      "sourceH": 25
+    },
+    "team_task_icon_star_bg_png": {
+      "x": 2023,
+      "y": 1453,
+      "w": 24,
+      "h": 23,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 24,
+      "sourceH": 23
+    },
+    "team_task_img_dot_png": {
+      "x": 2027,
+      "y": 1050,
+      "w": 19,
+      "h": 19,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 19,
+      "sourceH": 19
+    },
+    "team_task_img_petIcon_png": {
+      "x": 760,
+      "y": 1438,
+      "w": 22,
+      "h": 24,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 22,
+      "sourceH": 24
+    },
+    "team_task_img_triangle_png": {
+      "x": 973,
+      "y": 117,
+      "w": 19,
+      "h": 28,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 19,
+      "sourceH": 28
+    },
+    "team_task_itembg_png": {
+      "x": 1970,
+      "y": 453,
+      "w": 69,
+      "h": 69,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 69,
+      "sourceH": 69
+    },
+    "team_task_item_down_png": {
+      "x": 1520,
+      "y": 1050,
+      "w": 272,
+      "h": 63,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 272,
+      "sourceH": 63
+    },
+    "team_task_item_up_png": {
+      "x": 1,
+      "y": 1062,
+      "w": 291,
+      "h": 50,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 291,
+      "sourceH": 50
+    },
+    "team_task_line_png": {
+      "x": 1243,
+      "y": 1459,
+      "w": 686,
+      "h": 1,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 686,
+      "sourceH": 1
+    },
+    "team_task_lose_png": {
+      "x": 1,
+      "y": 1308,
+      "w": 130,
+      "h": 45,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 130,
+      "sourceH": 45
+    },
+    "team_task_pet_selected_png": {
+      "x": 841,
+      "y": 117,
+      "w": 130,
+      "h": 151,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 130,
+      "sourceH": 151
+    },
+    "team_task_settings_ban_item_bg_png": {
+      "x": 1922,
+      "y": 571,
+      "w": 103,
+      "h": 102,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 103,
+      "sourceH": 102
+    },
+    "team_task_settings_ban_item_btnDel_png": {
+      "x": 1875,
+      "y": 1249,
+      "w": 27,
+      "h": 27,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 27,
+      "sourceH": 27
+    },
+    "team_task_settings_btnAttr_png": {
+      "x": 90,
+      "y": 1421,
+      "w": 86,
+      "h": 34,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 86,
+      "sourceH": 34
+    },
+    "team_task_settings_btnBack_png": {
+      "x": 1887,
+      "y": 1420,
+      "w": 86,
+      "h": 34,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 86,
+      "sourceH": 34
+    },
+    "team_task_settings_btnOrder_down_png": {
+      "x": 1,
+      "y": 1402,
+      "w": 87,
+      "h": 35,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 87,
+      "sourceH": 35
+    },
+    "team_task_settings_btnOrder_up_png": {
+      "x": 649,
+      "y": 1212,
+      "w": 87,
+      "h": 35,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 87,
+      "sourceH": 35
+    },
+    "team_task_settings_my_item_bg_png": {
+      "x": 1939,
+      "y": 1,
+      "w": 104,
+      "h": 131,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 104,
+      "sourceH": 131
+    },
+    "team_task_settings_searchBg_png": {
+      "x": 978,
+      "y": 249,
+      "w": 12,
+      "h": 12,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 12,
+      "sourceH": 12
+    },
+    "team_task_settings_title_png": {
+      "x": 701,
+      "y": 1293,
+      "w": 102,
+      "h": 32,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 102,
+      "sourceH": 32
+    },
+    "team_task_success_png": {
+      "x": 701,
+      "y": 1333,
+      "w": 130,
+      "h": 45,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 130,
+      "sourceH": 45
+    },
+    "team_task_tag1_png": {
+      "x": 1406,
+      "y": 1220,
+      "w": 54,
+      "h": 17,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 54,
+      "sourceH": 17
+    },
+    "team_task_tag2_png": {
+      "x": 1462,
+      "y": 1220,
+      "w": 54,
+      "h": 17,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 54,
+      "sourceH": 17
+    },
+    "team_task_tag3_png": {
+      "x": 517,
+      "y": 1411,
+      "w": 54,
+      "h": 17,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 54,
+      "sourceH": 17
+    },
+    "team_task_title_png": {
+      "x": 1243,
+      "y": 1381,
+      "w": 102,
+      "h": 31,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 102,
+      "sourceH": 31
+    },
+    "team_team_boss_lock_png": {
+      "x": 1108,
+      "y": 709,
+      "w": 193,
+      "h": 236,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 193,
+      "sourceH": 236
+    },
+    "team_team_shop_lock_png": {
+      "x": 1303,
+      "y": 709,
+      "w": 193,
+      "h": 236,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 193,
+      "sourceH": 236
+    },
+    "team_tech_atk_icon_png": {
+      "x": 1987,
+      "y": 986,
+      "w": 53,
+      "h": 19,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 53,
+      "sourceH": 19
+    },
+    "team_tech_attr_icon_png": {
+      "x": 1510,
+      "y": 1462,
+      "w": 25,
+      "h": 24,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 25,
+      "sourceH": 24
+    },
+    "team_tech_attr_icon2_png": {
+      "x": 1684,
+      "y": 1172,
+      "w": 32,
+      "h": 27,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 32,
+      "sourceH": 27
+    },
+    "team_tech_bluebg_png": {
+      "x": 841,
+      "y": 410,
+      "w": 699,
+      "h": 94,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 699,
+      "sourceH": 94
+    },
+    "team_tech_btnChangePet_png": {
+      "x": 276,
+      "y": 1436,
+      "w": 99,
+      "h": 20,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 99,
+      "sourceH": 20
+    },
+    "team_tech_btnEnhance_png": {
+      "x": 895,
+      "y": 1251,
+      "w": 134,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 134,
+      "sourceH": 46
+    },
+    "team_tech_def_icon_png": {
+      "x": 1300,
+      "y": 1029,
+      "w": 52,
+      "h": 19,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 52,
+      "sourceH": 19
+    },
+    "team_tech_head_item_selected_png": {
+      "x": 1852,
+      "y": 453,
+      "w": 116,
+      "h": 116,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 116,
+      "sourceH": 116
+    },
+    "team_tech_hp_icon_png": {
+      "x": 211,
+      "y": 1114,
+      "w": 52,
+      "h": 19,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 52,
+      "sourceH": 19
+    },
+    "team_tech_iconbg_png": {
+      "x": 1,
+      "y": 1355,
+      "w": 89,
+      "h": 45,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 89,
+      "sourceH": 45
+    },
+    "team_tech_item_img_selected_png": {
+      "x": 1646,
+      "y": 947,
+      "w": 339,
+      "h": 70,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 339,
+      "sourceH": 70
+    },
+    "team_tech_item_shuxingbg_png": {
+      "x": 294,
+      "y": 1062,
+      "w": 311,
+      "h": 42,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 311,
+      "sourceH": 42
+    },
+    "team_tech_needtxtbg_png": {
+      "x": 1,
+      "y": 1034,
+      "w": 643,
+      "h": 26,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 643,
+      "sourceH": 26
+    },
+    "team_tech_next_png": {
+      "x": 1595,
+      "y": 1414,
+      "w": 78,
+      "h": 38,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 78,
+      "sourceH": 38
+    },
+    "team_tech_petheadbg_png": {
+      "x": 1939,
+      "y": 134,
+      "w": 104,
+      "h": 104,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 104,
+      "sourceH": 104
+    },
+    "team_tech_satk_icon_png": {
+      "x": 662,
+      "y": 1000,
+      "w": 52,
+      "h": 19,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 52,
+      "sourceH": 19
+    },
+    "team_tech_sdef_icon_png": {
+      "x": 1246,
+      "y": 1029,
+      "w": 52,
+      "h": 19,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 52,
+      "sourceH": 19
+    },
+    "team_tech_speed_icon_png": {
+      "x": 904,
+      "y": 964,
+      "w": 53,
+      "h": 19,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 53,
+      "sourceH": 19
+    },
+    "team_tech_startStrengthen_png": {
+      "x": 1793,
+      "y": 1420,
+      "w": 92,
+      "h": 32,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 92,
+      "sourceH": 32
+    },
+    "team_tech_star_off_png": {
+      "x": 1888,
+      "y": 773,
+      "w": 22,
+      "h": 20,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 22,
+      "sourceH": 20
+    },
+    "team_tech_star_on_png": {
+      "x": 92,
+      "y": 1355,
+      "w": 22,
+      "h": 20,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 22,
+      "sourceH": 20
+    },
+    "team_tech_title_png": {
+      "x": 649,
+      "y": 1249,
+      "w": 162,
+      "h": 42,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 162,
+      "sourceH": 42
+    },
+    "team_thumb_png": {
+      "x": 973,
+      "y": 170,
+      "w": 3,
+      "h": 98,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 3,
+      "sourceH": 98
+    },
+    "team_title_png": {
+      "x": 1,
+      "y": 1000,
+      "w": 659,
+      "h": 32,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 659,
+      "sourceH": 32
+    },
+    "team_transfer_leader_cheng_png": {
+      "x": 1875,
+      "y": 1283,
+      "w": 134,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 134,
+      "sourceH": 46
+    },
+    "team_transfer_leader_title_png": {
+      "x": 703,
+      "y": 892,
+      "w": 196,
+      "h": 26,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 196,
+      "sourceH": 26
+    },
+    "team_txtbg_png": {
+      "x": 829,
+      "y": 1150,
+      "w": 316,
+      "h": 26,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 316,
+      "sourceH": 26
+    },
+    "team_txtbg2_png": {
+      "x": 978,
+      "y": 221,
+      "w": 12,
+      "h": 12,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 12,
+      "sourceH": 12
+    },
+    "team_txtbg_s9_png": {
+      "x": 978,
+      "y": 235,
+      "w": 12,
+      "h": 12,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 12,
+      "sourceH": 12
+    },
+    "team_upgrade_bluebg_png": {
+      "x": 389,
+      "y": 506,
+      "w": 569,
+      "h": 96,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 569,
+      "sourceH": 96
+    },
+    "team_upgrade_btnUpgrade_png": {
+      "x": 428,
+      "y": 1411,
+      "w": 87,
+      "h": 34,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 87,
+      "sourceH": 34
+    },
+    "team_upgrade_exchenged_png": {
+      "x": 1569,
+      "y": 1249,
+      "w": 151,
+      "h": 45,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 151,
+      "sourceH": 45
+    },
+    "team_upgrade_flag_false_png": {
+      "x": 404,
+      "y": 1436,
+      "w": 22,
+      "h": 22,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 22,
+      "sourceH": 22
+    },
+    "team_upgrade_flag_max_png": {
+      "x": 1724,
+      "y": 1167,
+      "w": 251,
+      "h": 32,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 251,
+      "sourceH": 32
+    },
+    "team_upgrade_flag_true_png": {
+      "x": 1537,
+      "y": 1462,
+      "w": 22,
+      "h": 22,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 22,
+      "sourceH": 22
+    },
+    "team_upgrade_iconLv_png": {
+      "x": 427,
+      "y": 488,
+      "w": 25,
+      "h": 16,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 25,
+      "sourceH": 16
+    },
+    "team_upgrade_icon_num_png": {
+      "x": 1354,
+      "y": 1029,
+      "w": 23,
+      "h": 19,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 23,
+      "sourceH": 19
+    },
+    "team_upgrade_next_png": {
+      "x": 1905,
+      "y": 1376,
+      "w": 78,
+      "h": 38,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 78,
+      "sourceH": 38
+    },
+    "team_upgrade_rect_png": {
+      "x": 1542,
+      "y": 429,
+      "w": 113,
+      "h": 22,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 113,
+      "sourceH": 22
+    },
+    "team_upgrade_res_icon_png": {
+      "x": 2011,
+      "y": 741,
+      "w": 31,
+      "h": 29,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 31,
+      "sourceH": 29
+    },
+    "team_upgrade_title_png": {
+      "x": 833,
+      "y": 1339,
+      "w": 114,
+      "h": 43,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 114,
+      "sourceH": 43
+    },
+    "team_upgrade_txtbg_png": {
+      "x": 979,
+      "y": 305,
+      "w": 12,
+      "h": 12,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 12,
+      "sourceH": 12
+    },
+    "team_upgrade_txtbg1_png": {
+      "x": 2011,
+      "y": 772,
+      "w": 26,
+      "h": 18,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 26,
+      "sourceH": 18
+    }
+  }
+}

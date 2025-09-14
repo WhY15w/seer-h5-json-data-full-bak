@@ -1,0 +1,16 @@
+{
+  "groups": [
+    {
+      "name": "pet_introduce_panel",
+      "keys": "pet_introduce_panel_sheet"
+    }
+  ],
+  "resources": [
+    {
+      "name": "pet_introduce_panel_sheet",
+      "type": "sheet",
+      "url": "pet_introduce_panel/pet_introduce_panel_sheet.json",
+      "subkeys": "pet_introduce_arrow_down_png,pet_introduce_arrow_up_png,pet_introduce_attr_item_exp_png,pet_introduce_attr_item_expbg_png,pet_introduce_panel_btnClose_png,pet_introduce_panel_btnSpec_png,pet_introduce_panel_developbg_png,pet_introduce_panel_img_1_png,pet_introduce_panel_img_2_png,pet_introduce_panel_img_3_png,pet_introduce_panel_img_mark_png,pet_introduce_panel_img_petAttr_png,pet_introduce_panel_infobg_png,pet_introduce_panel_namebg_png,pet_introduce_panel_pet_png,pet_introduce_panel_skillbg_png,pet_introduce_panel_tips_png,pet_introduce_panel_title_attr_png,pet_introduce_panel_title_growth_png,pet_introduce_panel_title_skill_png,pet_introduce_panel_ycbg_png,pet_introduce_skill_item_skillbg_png,pet_introduce_skill_item_tagbg_png,skill_tag0_png,skill_tag1_png,skill_tag2_png,skill_tag3_png,skill_tag4_png,skill_tag5_png,skill_tag6_png,skill_tag7_png"
+    }
+  ]
+}

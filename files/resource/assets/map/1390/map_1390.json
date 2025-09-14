@@ -1,0 +1,35 @@
+{
+  "groups": [
+    {
+      "keys": "road_1390,exml_1390,map_1390_mcc1_png,map_1390_bg_mc_jpg,map_1390_top_mc_png",
+      "name": "map_1390"
+    }
+  ],
+  "resources": [
+    {
+      "type": "json",
+      "url": "1390.json",
+      "name": "road_1390"
+    },
+    {
+      "type": "text",
+      "url": "Map1390Skin.exml",
+      "name": "exml_1390"
+    },
+    {
+      "type": "image",
+      "url": "map_1390_mcc1.png",
+      "name": "map_1390_mcc1_png"
+    },
+    {
+      "type": "image",
+      "url": "map_1390_bg_mc.jpg",
+      "name": "map_1390_bg_mc_jpg"
+    },
+    {
+      "type": "image",
+      "url": "map_1390_top_mc.png",
+      "name": "map_1390_top_mc_png"
+    }
+  ]
+}

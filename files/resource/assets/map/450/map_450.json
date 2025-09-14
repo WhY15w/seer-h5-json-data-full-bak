@@ -1,0 +1,30 @@
+{
+  "groups": [
+    {
+      "keys": "road_450,exml_450,map_450_bg_mc_jpg,map_450_depth_mc_png",
+      "name": "map_450"
+    }
+  ],
+  "resources": [
+    {
+      "type": "json",
+      "url": "450.json",
+      "name": "road_450"
+    },
+    {
+      "type": "text",
+      "url": "Map450Skin.exml",
+      "name": "exml_450"
+    },
+    {
+      "type": "image",
+      "url": "map_450_bg_mc.jpg",
+      "name": "map_450_bg_mc_jpg"
+    },
+    {
+      "type": "image",
+      "url": "map_450_depth_mc.png",
+      "name": "map_450_depth_mc_png"
+    }
+  ]
+}

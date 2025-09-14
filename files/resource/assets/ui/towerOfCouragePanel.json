@@ -1,0 +1,21 @@
+{
+  "groups": [
+    {
+      "name": "towerOfCouragePanel",
+      "keys": "towerOfCouragePanel_sheet,tower_of_courage_bg_jpg"
+    }
+  ],
+  "resources": [
+    {
+      "name": "tower_of_courage_bg_jpg",
+      "type": "image",
+      "url": "towerOfCouragePanel/outside/tower_of_courage_bg.jpg"
+    },
+    {
+      "name": "towerOfCouragePanel_sheet",
+      "type": "sheet",
+      "url": "towerOfCouragePanel/towerOfCouragePanel_sheet.json",
+      "subkeys": "pve_exp_training_boss_item_imgbg_png,pve_study_training_boss_item_imgbg_png,tower_of_courage_boss_item_imgbg_png,tower_of_courage_boss_item_imgboss_png,tower_of_courage_boss_item_imgdefeated_png,tower_of_courage_boss_item_imglocked_png,tower_of_courage_boss_item_imgselected_png,tower_of_courage_level_menu_item_imgdefeated_png,tower_of_courage_level_menu_item_imgfastfight_png,tower_of_courage_level_menu_item_imgisfighting_png,tower_of_courage_level_menu_item_imglock_png,tower_of_courage_level_menu_item_imgselected_png,tower_of_courage_level_menu_item_imgunlock_png,tower_of_courage_btnback_png,tower_of_courage_btncure_png,tower_of_courage_btnfastfight_png,tower_of_courage_btnfight_png,tower_of_courage_btnhelp_png,tower_of_courage_btnpet_png,tower_of_courage_imgbox_png,tower_of_courage_imgboxbg_png,tower_of_courage_imgitem1_png,tower_of_courage_imgitem1bg_png,tower_of_courage_imgitem2_png,tower_of_courage_imgitem2bg_png,tower_of_courage_imglevelbg_png,tower_of_courage_imglevelmenubg_png,tower_of_courage_imgrightbg_png,tower_of_courage_imgswitchoff_png,tower_of_courage_imgswitchon_png,tower_of_courage_imgtitle_png,tower_of_courage_imgtitlebg_png,tower_of_courage_rewarditem_png,tower_of_courage_txttitle1_png,tower_of_courage_txttitle2_png,tower_of_courage_txttitle3_png,pve_exp_training_xianlu0_png,pve_exp_training_xianlu1_png,pve_exp_training_xianlu2_png,pve_exp_training_xianlu3_png,tower_of_courage_xianlu1_png,tower_of_courage_xianlu2_png,tower_of_courage_xianlu3_png"
+    }
+  ]
+}

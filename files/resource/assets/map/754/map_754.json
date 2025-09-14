@@ -1,0 +1,35 @@
+{
+  "groups": [
+    {
+      "keys": "road_754,map_754_bg_mc_png,map_754_experimentBg_png,map_754_control_mc_png,exml_754",
+      "name": "map_754"
+    }
+  ],
+  "resources": [
+    {
+      "type": "json",
+      "url": "754.json",
+      "name": "road_754"
+    },
+    {
+      "type": "image",
+      "url": "map_754_bg_mc.png",
+      "name": "map_754_bg_mc_png"
+    },
+    {
+      "type": "image",
+      "url": "map_754_experimentBg.png",
+      "name": "map_754_experimentBg_png"
+    },
+    {
+      "type": "image",
+      "url": "map_754_control_mc.png",
+      "name": "map_754_control_mc_png"
+    },
+    {
+      "name": "exml_754",
+      "type": "text",
+      "url": "Map754Skin.exml"
+    }
+  ]
+}

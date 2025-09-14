@@ -1,0 +1,3664 @@
+{
+  "frameRate": 24,
+  "name": "1300606",
+  "version": "5.5",
+  "compatibleVersion": "5.5",
+  "armature": [
+    {
+      "name": "1300606_Car",
+      "bone": [
+        {
+          "inheritScale": false,
+          "name": "none",
+          "transform": {
+            "y": 39.1,
+            "scX": 1.682,
+            "scY": 1.6247
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "Layer 2",
+          "transform": {
+            "x": -1.4,
+            "y": 4.5
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "boday",
+          "transform": {
+            "x": -1.45,
+            "y": 7.1
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "Layer3",
+          "transform": {
+            "x": -1.4,
+            "y": 4.5
+          }
+        }
+      ],
+      "slot": [
+        {
+          "name": "none",
+          "parent": "none"
+        },
+        {
+          "name": "Layer 2",
+          "parent": "Layer 2"
+        },
+        {
+          "name": "boday",
+          "parent": "boday"
+        },
+        {
+          "name": "Layer3",
+          "parent": "Layer3"
+        }
+      ],
+      "skin": [
+        {
+          "slot": [
+            {
+              "name": "none",
+              "display": [
+                {
+                  "name": "元件 1",
+                  "transform": {
+                    "x": 0.35
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Layer 2",
+              "display": [
+                {
+                  "type": "armature",
+                  "name": "重复项目文件夹/zq001",
+                  "transform": {
+                    "y": 48.9
+                  }
+                },
+                {
+                  "type": "armature",
+                  "name": "重复项目文件夹/zq002",
+                  "transform": {
+                    "y": 40.7
+                  }
+                },
+                {
+                  "type": "armature",
+                  "name": "重复项目文件夹/zq002 副本",
+                  "transform": {
+                    "y": 40.7
+                  }
+                },
+                {
+                  "type": "armature",
+                  "name": "重复项目文件夹/zq005",
+                  "transform": {
+                    "y": 42.9
+                  }
+                },
+                {
+                  "type": "armature",
+                  "name": "重复项目文件夹/zq001 副本",
+                  "transform": {
+                    "y": 48.9
+                  }
+                },
+                {
+                  "type": "armature",
+                  "name": "重复项目文件夹/zq002 副本 4",
+                  "transform": {
+                    "y": 40.7
+                  }
+                },
+                {
+                  "type": "armature",
+                  "name": "重复项目文件夹/zq002 副本 3",
+                  "transform": {
+                    "y": 40.7
+                  }
+                },
+                {
+                  "type": "armature",
+                  "name": "重复项目文件夹/zq005 副本",
+                  "transform": {
+                    "y": 42.9
+                  }
+                }
+              ]
+            },
+            {
+              "name": "boday"
+            },
+            {
+              "name": "Layer3",
+              "display": [
+                {
+                  "type": "armature",
+                  "name": "zq001 副本",
+                  "transform": {
+                    "y": 48.9
+                  }
+                },
+                {
+                  "type": "armature",
+                  "name": "zq002 副本",
+                  "transform": {
+                    "y": 40.7
+                  }
+                },
+                {
+                  "type": "armature",
+                  "name": "zq002 副本 2",
+                  "transform": {
+                    "y": 40.7
+                  }
+                },
+                {
+                  "type": "armature",
+                  "name": "zq005 副本",
+                  "transform": {
+                    "y": 42.9
+                  }
+                },
+                {
+                  "type": "armature",
+                  "name": "zq001 副本 2",
+                  "transform": {
+                    "y": 48.9
+                  }
+                },
+                {
+                  "type": "armature",
+                  "name": "zq002 副本 3",
+                  "transform": {
+                    "y": 40.7
+                  }
+                },
+                {
+                  "type": "armature",
+                  "name": "zq002 副本 4",
+                  "transform": {
+                    "y": 40.7
+                  }
+                },
+                {
+                  "type": "armature",
+                  "name": "zq005 副本 2",
+                  "transform": {
+                    "y": 42.9
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "animation": [
+        {
+          "duration": 8,
+          "name": "down",
+          "frame": [
+            {
+              "duration": 7
+            },
+            {}
+          ],
+          "bone": [
+            {
+              "name": "none",
+              "scaleFrame": [
+                {
+                  "duration": 8
+                }
+              ]
+            },
+            {
+              "name": "Layer 2",
+              "scaleFrame": [
+                {
+                  "duration": 8
+                }
+              ]
+            },
+            {
+              "name": "boday",
+              "scaleFrame": [
+                {
+                  "duration": 8
+                }
+              ]
+            },
+            {
+              "name": "Layer3",
+              "scaleFrame": [
+                {
+                  "duration": 8
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "duration": 8,
+          "name": "leftdown",
+          "frame": [
+            {
+              "duration": 7
+            },
+            {}
+          ],
+          "bone": [
+            {
+              "name": "none",
+              "scaleFrame": [
+                {
+                  "duration": 120
+                }
+              ]
+            },
+            {
+              "name": "Layer 2",
+              "translateFrame": [
+                {
+                  "duration": 8,
+                  "x": 14.35,
+                  "y": -8.75
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 8
+                }
+              ]
+            },
+            {
+              "name": "boday",
+              "scaleFrame": [
+                {
+                  "duration": 120
+                }
+              ]
+            },
+            {
+              "name": "Layer3",
+              "translateFrame": [
+                {
+                  "duration": 8,
+                  "x": 14.35,
+                  "y": -8.75
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 8
+                }
+              ]
+            }
+          ],
+          "slot": [
+            {
+              "name": "Layer 2",
+              "displayFrame": [
+                {
+                  "duration": 8,
+                  "value": 1
+                }
+              ]
+            },
+            {
+              "name": "Layer3",
+              "displayFrame": [
+                {
+                  "duration": 8,
+                  "value": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "duration": 8,
+          "name": "left",
+          "frame": [
+            {
+              "duration": 7
+            },
+            {}
+          ],
+          "bone": [
+            {
+              "name": "none",
+              "scaleFrame": [
+                {
+                  "duration": 112
+                }
+              ]
+            },
+            {
+              "name": "Layer 2",
+              "translateFrame": [
+                {
+                  "duration": 8,
+                  "x": 14.35,
+                  "y": -8.75
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 8
+                }
+              ]
+            },
+            {
+              "name": "boday",
+              "scaleFrame": [
+                {
+                  "duration": 112
+                }
+              ]
+            },
+            {
+              "name": "Layer3",
+              "translateFrame": [
+                {
+                  "duration": 8,
+                  "x": 14.35,
+                  "y": -8.75
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 8
+                }
+              ]
+            }
+          ],
+          "slot": [
+            {
+              "name": "Layer 2",
+              "displayFrame": [
+                {
+                  "duration": 8,
+                  "value": 2
+                }
+              ]
+            },
+            {
+              "name": "Layer3",
+              "displayFrame": [
+                {
+                  "duration": 8,
+                  "value": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "duration": 8,
+          "name": "leftup",
+          "frame": [
+            {
+              "duration": 7
+            },
+            {}
+          ],
+          "bone": [
+            {
+              "name": "none",
+              "scaleFrame": [
+                {
+                  "duration": 104
+                }
+              ]
+            },
+            {
+              "name": "Layer 2",
+              "translateFrame": [
+                {
+                  "duration": 8,
+                  "x": 8.1,
+                  "y": 1.65
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 8
+                }
+              ]
+            },
+            {
+              "name": "boday",
+              "scaleFrame": [
+                {
+                  "duration": 104
+                }
+              ]
+            },
+            {
+              "name": "Layer3",
+              "translateFrame": [
+                {
+                  "duration": 8,
+                  "x": 8.1,
+                  "y": 1.65
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 8
+                }
+              ]
+            }
+          ],
+          "slot": [
+            {
+              "name": "Layer 2",
+              "displayFrame": [
+                {
+                  "duration": 8,
+                  "value": 3
+                }
+              ]
+            },
+            {
+              "name": "Layer3",
+              "displayFrame": [
+                {
+                  "duration": 8,
+                  "value": 3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "duration": 8,
+          "name": "up",
+          "frame": [
+            {
+              "duration": 7
+            },
+            {}
+          ],
+          "bone": [
+            {
+              "name": "none",
+              "scaleFrame": [
+                {
+                  "duration": 96
+                }
+              ]
+            },
+            {
+              "name": "Layer 2",
+              "scaleFrame": [
+                {
+                  "duration": 8
+                }
+              ]
+            },
+            {
+              "name": "boday",
+              "scaleFrame": [
+                {
+                  "duration": 96
+                }
+              ]
+            },
+            {
+              "name": "Layer3",
+              "scaleFrame": [
+                {
+                  "duration": 8
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "duration": 8,
+          "name": "rightup",
+          "frame": [
+            {
+              "duration": 7
+            },
+            {}
+          ],
+          "bone": [
+            {
+              "name": "none",
+              "scaleFrame": [
+                {
+                  "duration": 88
+                }
+              ]
+            },
+            {
+              "name": "Layer 2",
+              "translateFrame": [
+                {
+                  "duration": 8,
+                  "x": -3.5,
+                  "y": 1.65
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 8,
+                  "x": -1
+                }
+              ]
+            },
+            {
+              "name": "boday",
+              "scaleFrame": [
+                {
+                  "duration": 88
+                }
+              ]
+            },
+            {
+              "name": "Layer3",
+              "translateFrame": [
+                {
+                  "duration": 8,
+                  "x": -3.5,
+                  "y": 1.65
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 8,
+                  "x": -1
+                }
+              ]
+            }
+          ],
+          "slot": [
+            {
+              "name": "Layer 2",
+              "displayFrame": [
+                {
+                  "duration": 8,
+                  "value": 3
+                }
+              ]
+            },
+            {
+              "name": "Layer3",
+              "displayFrame": [
+                {
+                  "duration": 8,
+                  "value": 3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "duration": 8,
+          "name": "right",
+          "frame": [
+            {
+              "duration": 7
+            },
+            {}
+          ],
+          "bone": [
+            {
+              "name": "none",
+              "scaleFrame": [
+                {
+                  "duration": 80
+                }
+              ]
+            },
+            {
+              "name": "Layer 2",
+              "translateFrame": [
+                {
+                  "duration": 8,
+                  "x": -10.15,
+                  "y": -8.75
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 8,
+                  "x": -1
+                }
+              ]
+            },
+            {
+              "name": "boday",
+              "scaleFrame": [
+                {
+                  "duration": 80
+                }
+              ]
+            },
+            {
+              "name": "Layer3",
+              "translateFrame": [
+                {
+                  "duration": 8,
+                  "x": -10.15,
+                  "y": -8.75
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 8,
+                  "x": -1
+                }
+              ]
+            }
+          ],
+          "slot": [
+            {
+              "name": "Layer 2",
+              "displayFrame": [
+                {
+                  "duration": 8,
+                  "value": 2
+                }
+              ]
+            },
+            {
+              "name": "Layer3",
+              "displayFrame": [
+                {
+                  "duration": 8,
+                  "value": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "duration": 8,
+          "name": "rightdown",
+          "frame": [
+            {
+              "duration": 7
+            },
+            {}
+          ],
+          "bone": [
+            {
+              "name": "none",
+              "scaleFrame": [
+                {
+                  "duration": 72
+                }
+              ]
+            },
+            {
+              "name": "Layer 2",
+              "translateFrame": [
+                {
+                  "duration": 8,
+                  "x": -10.15,
+                  "y": -8.75
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 8,
+                  "x": -1
+                }
+              ]
+            },
+            {
+              "name": "boday",
+              "scaleFrame": [
+                {
+                  "duration": 72
+                }
+              ]
+            },
+            {
+              "name": "Layer3",
+              "translateFrame": [
+                {
+                  "duration": 8,
+                  "x": -10.15,
+                  "y": -8.75
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 8,
+                  "x": -1
+                }
+              ]
+            }
+          ],
+          "slot": [
+            {
+              "name": "Layer 2",
+              "displayFrame": [
+                {
+                  "duration": 8,
+                  "value": 1
+                }
+              ]
+            },
+            {
+              "name": "Layer3",
+              "displayFrame": [
+                {
+                  "duration": 8,
+                  "value": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "duration": 8,
+          "name": "downIdle",
+          "frame": [
+            {
+              "duration": 7
+            },
+            {}
+          ],
+          "bone": [
+            {
+              "name": "none",
+              "scaleFrame": [
+                {
+                  "duration": 64
+                }
+              ]
+            },
+            {
+              "name": "Layer 2",
+              "scaleFrame": [
+                {
+                  "duration": 8
+                }
+              ]
+            },
+            {
+              "name": "boday",
+              "scaleFrame": [
+                {
+                  "duration": 64
+                }
+              ]
+            },
+            {
+              "name": "Layer3",
+              "scaleFrame": [
+                {
+                  "duration": 8
+                }
+              ]
+            }
+          ],
+          "slot": [
+            {
+              "name": "Layer 2",
+              "displayFrame": [
+                {
+                  "duration": 8,
+                  "value": 4
+                }
+              ]
+            },
+            {
+              "name": "Layer3",
+              "displayFrame": [
+                {
+                  "duration": 8,
+                  "value": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "duration": 8,
+          "name": "leftdownIdle",
+          "frame": [
+            {
+              "duration": 7
+            },
+            {}
+          ],
+          "bone": [
+            {
+              "name": "none",
+              "scaleFrame": [
+                {
+                  "duration": 56
+                }
+              ]
+            },
+            {
+              "name": "Layer 2",
+              "translateFrame": [
+                {
+                  "duration": 8,
+                  "x": 14.35,
+                  "y": -8.75
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 8
+                }
+              ]
+            },
+            {
+              "name": "boday",
+              "scaleFrame": [
+                {
+                  "duration": 56
+                }
+              ]
+            },
+            {
+              "name": "Layer3",
+              "translateFrame": [
+                {
+                  "duration": 8,
+                  "x": 14.35,
+                  "y": -8.75
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 8
+                }
+              ]
+            }
+          ],
+          "slot": [
+            {
+              "name": "Layer 2",
+              "displayFrame": [
+                {
+                  "duration": 8,
+                  "value": 5
+                }
+              ]
+            },
+            {
+              "name": "Layer3",
+              "displayFrame": [
+                {
+                  "duration": 8,
+                  "value": 5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "duration": 8,
+          "name": "leftIdle",
+          "frame": [
+            {
+              "duration": 7
+            },
+            {}
+          ],
+          "bone": [
+            {
+              "name": "none",
+              "scaleFrame": [
+                {
+                  "duration": 48
+                }
+              ]
+            },
+            {
+              "name": "Layer 2",
+              "translateFrame": [
+                {
+                  "duration": 8,
+                  "x": 14.35,
+                  "y": -8.75
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 8
+                }
+              ]
+            },
+            {
+              "name": "boday",
+              "scaleFrame": [
+                {
+                  "duration": 48
+                }
+              ]
+            },
+            {
+              "name": "Layer3",
+              "translateFrame": [
+                {
+                  "duration": 8,
+                  "x": 14.35,
+                  "y": -8.75
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 8
+                }
+              ]
+            }
+          ],
+          "slot": [
+            {
+              "name": "Layer 2",
+              "displayFrame": [
+                {
+                  "duration": 8,
+                  "value": 6
+                }
+              ]
+            },
+            {
+              "name": "Layer3",
+              "displayFrame": [
+                {
+                  "duration": 8,
+                  "value": 6
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "duration": 8,
+          "name": "leftupIdle",
+          "frame": [
+            {
+              "duration": 7
+            },
+            {}
+          ],
+          "bone": [
+            {
+              "name": "none",
+              "scaleFrame": [
+                {
+                  "duration": 40
+                }
+              ]
+            },
+            {
+              "name": "Layer 2",
+              "translateFrame": [
+                {
+                  "duration": 8,
+                  "x": 8.1,
+                  "y": 1.65
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 8
+                }
+              ]
+            },
+            {
+              "name": "boday",
+              "scaleFrame": [
+                {
+                  "duration": 40
+                }
+              ]
+            },
+            {
+              "name": "Layer3",
+              "translateFrame": [
+                {
+                  "duration": 8,
+                  "x": 8.1,
+                  "y": 1.65
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 8
+                }
+              ]
+            }
+          ],
+          "slot": [
+            {
+              "name": "Layer 2",
+              "displayFrame": [
+                {
+                  "duration": 8,
+                  "value": 7
+                }
+              ]
+            },
+            {
+              "name": "Layer3",
+              "displayFrame": [
+                {
+                  "duration": 8,
+                  "value": 7
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "duration": 8,
+          "name": "upIdle",
+          "frame": [
+            {
+              "duration": 7
+            },
+            {}
+          ],
+          "bone": [
+            {
+              "name": "none",
+              "scaleFrame": [
+                {
+                  "duration": 32
+                }
+              ]
+            },
+            {
+              "name": "Layer 2",
+              "scaleFrame": [
+                {
+                  "duration": 8
+                }
+              ]
+            },
+            {
+              "name": "boday",
+              "scaleFrame": [
+                {
+                  "duration": 32
+                }
+              ]
+            },
+            {
+              "name": "Layer3",
+              "scaleFrame": [
+                {
+                  "duration": 8
+                }
+              ]
+            }
+          ],
+          "slot": [
+            {
+              "name": "Layer 2",
+              "displayFrame": [
+                {
+                  "duration": 8,
+                  "value": 4
+                }
+              ]
+            },
+            {
+              "name": "Layer3",
+              "displayFrame": [
+                {
+                  "duration": 8,
+                  "value": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "duration": 8,
+          "name": "rightupIdle",
+          "frame": [
+            {
+              "duration": 7
+            },
+            {}
+          ],
+          "bone": [
+            {
+              "name": "none",
+              "scaleFrame": [
+                {
+                  "duration": 24
+                }
+              ]
+            },
+            {
+              "name": "Layer 2",
+              "translateFrame": [
+                {
+                  "duration": 8,
+                  "x": -3.5,
+                  "y": 1.65
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 8,
+                  "x": -1
+                }
+              ]
+            },
+            {
+              "name": "boday",
+              "scaleFrame": [
+                {
+                  "duration": 24
+                }
+              ]
+            },
+            {
+              "name": "Layer3",
+              "translateFrame": [
+                {
+                  "duration": 8,
+                  "x": -3.5,
+                  "y": 1.65
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 8,
+                  "x": -1
+                }
+              ]
+            }
+          ],
+          "slot": [
+            {
+              "name": "Layer 2",
+              "displayFrame": [
+                {
+                  "duration": 8,
+                  "value": 7
+                }
+              ]
+            },
+            {
+              "name": "Layer3",
+              "displayFrame": [
+                {
+                  "duration": 8,
+                  "value": 7
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "duration": 8,
+          "name": "rightIdle",
+          "frame": [
+            {
+              "duration": 7
+            },
+            {}
+          ],
+          "bone": [
+            {
+              "name": "none",
+              "scaleFrame": [
+                {
+                  "duration": 16
+                }
+              ]
+            },
+            {
+              "name": "Layer 2",
+              "translateFrame": [
+                {
+                  "duration": 8,
+                  "x": -10.15,
+                  "y": -8.75
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 8,
+                  "x": -1
+                }
+              ]
+            },
+            {
+              "name": "boday",
+              "scaleFrame": [
+                {
+                  "duration": 16
+                }
+              ]
+            },
+            {
+              "name": "Layer3",
+              "translateFrame": [
+                {
+                  "duration": 8,
+                  "x": -10.15,
+                  "y": -8.75
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 8,
+                  "x": -1
+                }
+              ]
+            }
+          ],
+          "slot": [
+            {
+              "name": "Layer 2",
+              "displayFrame": [
+                {
+                  "duration": 8,
+                  "value": 6
+                }
+              ]
+            },
+            {
+              "name": "Layer3",
+              "displayFrame": [
+                {
+                  "duration": 8,
+                  "value": 6
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "duration": 8,
+          "name": "rightdownIdle",
+          "frame": [
+            {
+              "duration": 7
+            },
+            {}
+          ],
+          "bone": [
+            {
+              "name": "none",
+              "scaleFrame": [
+                {
+                  "duration": 8
+                }
+              ]
+            },
+            {
+              "name": "Layer 2",
+              "translateFrame": [
+                {
+                  "duration": 8,
+                  "x": -10.15,
+                  "y": -8.75
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 8,
+                  "x": -1
+                }
+              ]
+            },
+            {
+              "name": "boday",
+              "scaleFrame": [
+                {
+                  "duration": 8
+                }
+              ]
+            },
+            {
+              "name": "Layer3",
+              "translateFrame": [
+                {
+                  "duration": 8,
+                  "x": -10.15,
+                  "y": -8.75
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 8,
+                  "x": -1
+                }
+              ]
+            }
+          ],
+          "slot": [
+            {
+              "name": "Layer 2",
+              "displayFrame": [
+                {
+                  "duration": 8,
+                  "value": 5
+                }
+              ]
+            },
+            {
+              "name": "Layer3",
+              "displayFrame": [
+                {
+                  "duration": 8,
+                  "value": 5
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "重复项目文件夹/zq001",
+      "bone": [
+        {
+          "inheritScale": false,
+          "name": "1111",
+          "transform": {
+            "x": 30.1,
+            "y": -18.9,
+            "scX": -0.25,
+            "scY": 0.25
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "111",
+          "transform": {
+            "x": -30.65,
+            "y": -18.9,
+            "scX": 0.25,
+            "scY": 0.25
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "11",
+          "transform": {
+            "x": 0.1,
+            "y": -39.85,
+            "scX": 0.25,
+            "scY": 0.25
+          }
+        }
+      ],
+      "slot": [
+        {
+          "name": "1111",
+          "parent": "1111"
+        },
+        {
+          "name": "111",
+          "parent": "111"
+        },
+        {
+          "name": "11",
+          "parent": "11"
+        }
+      ],
+      "skin": [
+        {
+          "slot": [
+            {
+              "name": "1111",
+              "display": [
+                {
+                  "name": "补间 1",
+                  "transform": {
+                    "x": -0.1
+                  }
+                },
+                {
+                  "name": "补间 2",
+                  "transform": {
+                    "x": -0.1
+                  }
+                },
+                {
+                  "name": "补间 3",
+                  "transform": {
+                    "x": -0.1
+                  }
+                },
+                {
+                  "name": "补间 4",
+                  "transform": {
+                    "x": -0.1
+                  }
+                },
+                {
+                  "name": "补间 5",
+                  "transform": {
+                    "x": -0.1
+                  }
+                }
+              ]
+            },
+            {
+              "name": "111",
+              "display": [
+                {
+                  "name": "补间 1",
+                  "transform": {
+                    "x": -0.1
+                  }
+                },
+                {
+                  "name": "补间 2",
+                  "transform": {
+                    "x": -0.1
+                  }
+                },
+                {
+                  "name": "补间 3",
+                  "transform": {
+                    "x": -0.1
+                  }
+                },
+                {
+                  "name": "补间 4",
+                  "transform": {
+                    "x": -0.1
+                  }
+                },
+                {
+                  "name": "补间 5",
+                  "transform": {
+                    "x": -0.1
+                  }
+                }
+              ]
+            },
+            {
+              "name": "11",
+              "display": [
+                {
+                  "name": "元件 4"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "animation": [
+        {
+          "duration": 8,
+          "name": "unnamed",
+          "bone": [
+            {
+              "name": "1111",
+              "translateFrame": [
+                {
+                  "tweenEasing": 0
+                },
+                {
+                  "tweenEasing": 0,
+                  "y": -0.35
+                },
+                {
+                  "tweenEasing": 0,
+                  "y": -0.65
+                },
+                {
+                  "tweenEasing": 0,
+                  "y": -1
+                },
+                {
+                  "tweenEasing": 0,
+                  "y": -0.75
+                },
+                {
+                  "tweenEasing": 0,
+                  "y": -0.5
+                },
+                {
+                  "tweenEasing": 0,
+                  "y": -0.25
+                },
+                {}
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 8
+                }
+              ]
+            },
+            {
+              "name": "111",
+              "translateFrame": [
+                {
+                  "tweenEasing": 0
+                },
+                {
+                  "tweenEasing": 0,
+                  "y": -0.35
+                },
+                {
+                  "tweenEasing": 0,
+                  "y": -0.65
+                },
+                {
+                  "tweenEasing": 0,
+                  "y": -1
+                },
+                {
+                  "tweenEasing": 0,
+                  "y": -0.75
+                },
+                {
+                  "tweenEasing": 0,
+                  "y": -0.5
+                },
+                {
+                  "tweenEasing": 0,
+                  "y": -0.25
+                },
+                {}
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 8
+                }
+              ]
+            },
+            {
+              "name": "11",
+              "translateFrame": [
+                {
+                  "duration": 3,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 4,
+                  "tweenEasing": 0,
+                  "y": -1
+                },
+                {}
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 8
+                }
+              ]
+            }
+          ],
+          "slot": [
+            {
+              "name": "1111",
+              "displayFrame": [
+                {
+                  "duration": 2
+                },
+                {
+                  "duration": 2,
+                  "value": 1
+                },
+                {
+                  "duration": 2,
+                  "value": 2
+                },
+                {
+                  "value": 3
+                },
+                {
+                  "value": 4
+                }
+              ]
+            },
+            {
+              "name": "111",
+              "displayFrame": [
+                {
+                  "duration": 2
+                },
+                {
+                  "duration": 2,
+                  "value": 1
+                },
+                {
+                  "duration": 2,
+                  "value": 2
+                },
+                {
+                  "value": 3
+                },
+                {
+                  "value": 4
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "zq001 副本",
+      "bone": [
+        {
+          "inheritScale": false,
+          "name": "1",
+          "transform": {
+            "x": 0.2,
+            "y": -19,
+            "scX": 0.25,
+            "scY": 0.25
+          }
+        }
+      ],
+      "slot": [
+        {
+          "name": "1",
+          "parent": "1"
+        }
+      ],
+      "skin": [
+        {
+          "slot": [
+            {
+              "name": "1",
+              "display": [
+                {
+                  "name": "元件 9",
+                  "transform": {
+                    "y": 0.1
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "animation": [
+        {
+          "duration": 8,
+          "name": "unnamed",
+          "bone": [
+            {
+              "name": "1",
+              "translateFrame": [
+                {
+                  "duration": 3,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 4,
+                  "tweenEasing": 0,
+                  "y": -1
+                },
+                {}
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 8
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "重复项目文件夹/zq002",
+      "bone": [
+        {
+          "inheritScale": false,
+          "name": "2222",
+          "transform": {
+            "x": -42.45,
+            "y": -16.85,
+            "scX": 0.1983,
+            "scY": 0.198
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "222",
+          "transform": {
+            "x": -9.7,
+            "y": -34.95,
+            "scX": 0.25,
+            "scY": 0.25
+          }
+        }
+      ],
+      "slot": [
+        {
+          "name": "2222",
+          "parent": "2222"
+        },
+        {
+          "name": "222",
+          "parent": "222"
+        }
+      ],
+      "skin": [
+        {
+          "slot": [
+            {
+              "name": "2222",
+              "display": [
+                {
+                  "name": "补间 6",
+                  "transform": {
+                    "y": 0.1
+                  }
+                },
+                {
+                  "name": "补间 7",
+                  "transform": {
+                    "y": 0.15
+                  }
+                },
+                {
+                  "name": "补间 8",
+                  "transform": {
+                    "y": 0.15
+                  }
+                },
+                {
+                  "name": "补间 9",
+                  "transform": {
+                    "y": 0.1
+                  }
+                },
+                {
+                  "name": "补间 10",
+                  "transform": {
+                    "y": 0.1
+                  }
+                }
+              ]
+            },
+            {
+              "name": "222",
+              "display": [
+                {
+                  "name": "元件 15"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "animation": [
+        {
+          "duration": 8,
+          "name": "unnamed",
+          "bone": [
+            {
+              "name": "2222",
+              "translateFrame": [
+                {
+                  "tweenEasing": 0
+                },
+                {
+                  "tweenEasing": 0,
+                  "y": -0.34
+                },
+                {
+                  "tweenEasing": 0,
+                  "y": -0.64
+                },
+                {
+                  "tweenEasing": 0,
+                  "y": -1
+                },
+                {
+                  "tweenEasing": 0,
+                  "y": -0.74
+                },
+                {
+                  "tweenEasing": 0,
+                  "y": -0.49
+                },
+                {
+                  "tweenEasing": 0,
+                  "y": -0.25
+                },
+                {}
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 8
+                }
+              ]
+            },
+            {
+              "name": "222",
+              "translateFrame": [
+                {
+                  "duration": 3,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 4,
+                  "tweenEasing": 0,
+                  "y": -1
+                },
+                {}
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 8
+                }
+              ]
+            }
+          ],
+          "slot": [
+            {
+              "name": "2222",
+              "displayFrame": [
+                {
+                  "duration": 2
+                },
+                {
+                  "duration": 2,
+                  "value": 1
+                },
+                {
+                  "duration": 2,
+                  "value": 2
+                },
+                {
+                  "value": 3
+                },
+                {
+                  "value": 4
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "zq002 副本",
+      "bone": [
+        {
+          "inheritScale": false,
+          "name": "22",
+          "transform": {
+            "x": -0.55,
+            "y": -14.65,
+            "scX": 0.25,
+            "scY": 0.25
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "2",
+          "transform": {
+            "x": -21.25,
+            "y": -16.2,
+            "scX": 0.25,
+            "scY": 0.25
+          }
+        }
+      ],
+      "slot": [
+        {
+          "name": "22",
+          "parent": "22"
+        },
+        {
+          "name": "2",
+          "parent": "2"
+        }
+      ],
+      "skin": [
+        {
+          "slot": [
+            {
+              "name": "22",
+              "display": [
+                {
+                  "name": "补间 6"
+                },
+                {
+                  "name": "补间 7"
+                },
+                {
+                  "name": "补间 8"
+                },
+                {
+                  "name": "补间 9"
+                },
+                {
+                  "name": "补间 10"
+                }
+              ]
+            },
+            {
+              "name": "2",
+              "display": [
+                {
+                  "name": "元件 11"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "animation": [
+        {
+          "duration": 8,
+          "name": "unnamed",
+          "bone": [
+            {
+              "name": "22",
+              "translateFrame": [
+                {
+                  "tweenEasing": 0
+                },
+                {
+                  "tweenEasing": 0,
+                  "y": -0.35
+                },
+                {
+                  "tweenEasing": 0,
+                  "y": -0.65
+                },
+                {
+                  "tweenEasing": 0,
+                  "y": -1
+                },
+                {
+                  "tweenEasing": 0,
+                  "y": -0.75
+                },
+                {
+                  "tweenEasing": 0,
+                  "y": -0.5
+                },
+                {
+                  "tweenEasing": 0,
+                  "y": -0.25
+                },
+                {}
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 8
+                }
+              ]
+            },
+            {
+              "name": "2",
+              "translateFrame": [
+                {
+                  "duration": 3,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 4,
+                  "tweenEasing": 0,
+                  "y": -1
+                },
+                {}
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 8
+                }
+              ]
+            }
+          ],
+          "slot": [
+            {
+              "name": "22",
+              "displayFrame": [
+                {
+                  "duration": 2
+                },
+                {
+                  "duration": 2,
+                  "value": 1
+                },
+                {
+                  "duration": 2,
+                  "value": 2
+                },
+                {
+                  "value": 3
+                },
+                {
+                  "value": 4
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "重复项目文件夹/zq002 副本",
+      "bone": [
+        {
+          "inheritScale": false,
+          "name": "3333",
+          "transform": {
+            "x": -42.45,
+            "y": -16.85,
+            "scX": 0.1983,
+            "scY": 0.198
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "333",
+          "transform": {
+            "x": -9.7,
+            "y": -34.95,
+            "scX": 0.25,
+            "scY": 0.25
+          }
+        }
+      ],
+      "slot": [
+        {
+          "name": "3333",
+          "parent": "3333"
+        },
+        {
+          "name": "333",
+          "parent": "333"
+        }
+      ],
+      "skin": [
+        {
+          "slot": [
+            {
+              "name": "3333",
+              "display": [
+                {
+                  "name": "补间 6",
+                  "transform": {
+                    "y": 0.1
+                  }
+                },
+                {
+                  "name": "补间 7",
+                  "transform": {
+                    "y": 0.15
+                  }
+                },
+                {
+                  "name": "补间 8",
+                  "transform": {
+                    "y": 0.15
+                  }
+                },
+                {
+                  "name": "补间 9",
+                  "transform": {
+                    "y": 0.1
+                  }
+                },
+                {
+                  "name": "补间 10",
+                  "transform": {
+                    "y": 0.1
+                  }
+                }
+              ]
+            },
+            {
+              "name": "333",
+              "display": [
+                {
+                  "name": "元件 15"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "animation": [
+        {
+          "duration": 8,
+          "name": "unnamed",
+          "bone": [
+            {
+              "name": "3333",
+              "translateFrame": [
+                {
+                  "tweenEasing": 0
+                },
+                {
+                  "tweenEasing": 0,
+                  "y": -0.34
+                },
+                {
+                  "tweenEasing": 0,
+                  "y": -0.64
+                },
+                {
+                  "tweenEasing": 0,
+                  "y": -1
+                },
+                {
+                  "tweenEasing": 0,
+                  "y": -0.74
+                },
+                {
+                  "tweenEasing": 0,
+                  "y": -0.49
+                },
+                {
+                  "tweenEasing": 0,
+                  "y": -0.25
+                },
+                {}
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 8
+                }
+              ]
+            },
+            {
+              "name": "333",
+              "translateFrame": [
+                {
+                  "duration": 3,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 4,
+                  "tweenEasing": 0,
+                  "y": -1
+                },
+                {}
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 8
+                }
+              ]
+            }
+          ],
+          "slot": [
+            {
+              "name": "3333",
+              "displayFrame": [
+                {
+                  "duration": 2
+                },
+                {
+                  "duration": 2,
+                  "value": 1
+                },
+                {
+                  "duration": 2,
+                  "value": 2
+                },
+                {
+                  "value": 3
+                },
+                {
+                  "value": 4
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "zq002 副本 2",
+      "bone": [
+        {
+          "inheritScale": false,
+          "name": "33",
+          "transform": {
+            "x": -0.55,
+            "y": -14.65,
+            "scX": 0.25,
+            "scY": 0.25
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "3",
+          "transform": {
+            "x": -21.25,
+            "y": -16.2,
+            "scX": 0.25,
+            "scY": 0.25
+          }
+        }
+      ],
+      "slot": [
+        {
+          "name": "33",
+          "parent": "33"
+        },
+        {
+          "name": "3",
+          "parent": "3"
+        }
+      ],
+      "skin": [
+        {
+          "slot": [
+            {
+              "name": "33",
+              "display": [
+                {
+                  "name": "补间 6"
+                },
+                {
+                  "name": "补间 7"
+                },
+                {
+                  "name": "补间 8"
+                },
+                {
+                  "name": "补间 9"
+                },
+                {
+                  "name": "补间 10"
+                }
+              ]
+            },
+            {
+              "name": "3",
+              "display": [
+                {
+                  "name": "元件 11"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "animation": [
+        {
+          "duration": 8,
+          "name": "unnamed",
+          "bone": [
+            {
+              "name": "33",
+              "translateFrame": [
+                {
+                  "tweenEasing": 0
+                },
+                {
+                  "tweenEasing": 0,
+                  "y": -0.35
+                },
+                {
+                  "tweenEasing": 0,
+                  "y": -0.65
+                },
+                {
+                  "tweenEasing": 0,
+                  "y": -1
+                },
+                {
+                  "tweenEasing": 0,
+                  "y": -0.75
+                },
+                {
+                  "tweenEasing": 0,
+                  "y": -0.5
+                },
+                {
+                  "tweenEasing": 0,
+                  "y": -0.25
+                },
+                {}
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 8
+                }
+              ]
+            },
+            {
+              "name": "3",
+              "translateFrame": [
+                {
+                  "duration": 3,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 4,
+                  "tweenEasing": 0,
+                  "y": -1
+                },
+                {}
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 8
+                }
+              ]
+            }
+          ],
+          "slot": [
+            {
+              "name": "33",
+              "displayFrame": [
+                {
+                  "duration": 2
+                },
+                {
+                  "duration": 2,
+                  "value": 1
+                },
+                {
+                  "duration": 2,
+                  "value": 2
+                },
+                {
+                  "value": 3
+                },
+                {
+                  "value": 4
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "重复项目文件夹/zq005",
+      "bone": [
+        {
+          "inheritScale": false,
+          "name": "44444",
+          "transform": {
+            "x": 10.05,
+            "y": -22.1,
+            "scX": 0.2159,
+            "scY": 0.2157
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "4444",
+          "transform": {
+            "x": -1.15,
+            "y": -43.8,
+            "scX": 0.25,
+            "scY": 0.25
+          }
+        }
+      ],
+      "slot": [
+        {
+          "name": "44444",
+          "parent": "44444"
+        },
+        {
+          "name": "4444",
+          "parent": "4444"
+        }
+      ],
+      "skin": [
+        {
+          "slot": [
+            {
+              "name": "44444",
+              "display": [
+                {
+                  "name": "补间 11",
+                  "transform": {
+                    "x": 0.1,
+                    "y": 0.1
+                  }
+                },
+                {
+                  "name": "补间 12",
+                  "transform": {
+                    "x": 0.1,
+                    "y": 0.15
+                  }
+                },
+                {
+                  "name": "补间 13",
+                  "transform": {
+                    "x": 0.1,
+                    "y": 0.1
+                  }
+                },
+                {
+                  "name": "补间 14",
+                  "transform": {
+                    "x": 0.1,
+                    "y": 0.1
+                  }
+                },
+                {
+                  "name": "补间 15",
+                  "transform": {
+                    "x": 0.1,
+                    "y": 0.1
+                  }
+                }
+              ]
+            },
+            {
+              "name": "4444",
+              "display": [
+                {
+                  "name": "元件 25"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "animation": [
+        {
+          "duration": 8,
+          "name": "unnamed",
+          "bone": [
+            {
+              "name": "44444",
+              "translateFrame": [
+                {
+                  "tweenEasing": 0
+                },
+                {
+                  "tweenEasing": 0,
+                  "y": -0.34
+                },
+                {
+                  "tweenEasing": 0,
+                  "y": -0.64
+                },
+                {
+                  "tweenEasing": 0,
+                  "y": -1
+                },
+                {
+                  "tweenEasing": 0,
+                  "y": -0.75
+                },
+                {
+                  "tweenEasing": 0,
+                  "y": -0.49
+                },
+                {
+                  "tweenEasing": 0,
+                  "y": -0.25
+                },
+                {}
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 8
+                }
+              ]
+            },
+            {
+              "name": "4444",
+              "translateFrame": [
+                {
+                  "duration": 3,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 4,
+                  "tweenEasing": 0,
+                  "y": -1
+                },
+                {}
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 8
+                }
+              ]
+            }
+          ],
+          "slot": [
+            {
+              "name": "44444",
+              "displayFrame": [
+                {
+                  "duration": 2
+                },
+                {
+                  "duration": 2,
+                  "value": 1
+                },
+                {
+                  "duration": 2,
+                  "value": 2
+                },
+                {
+                  "value": 3
+                },
+                {
+                  "value": 4
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "zq005 副本",
+      "bone": [
+        {
+          "inheritScale": false,
+          "name": "444",
+          "transform": {
+            "x": 3.4,
+            "y": -43,
+            "scX": 0.25,
+            "scY": 0.25
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "44",
+          "transform": {
+            "x": -24.25,
+            "y": -18.45,
+            "scX": 0.25,
+            "scY": 0.25
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "4",
+          "transform": {
+            "x": -28.65,
+            "y": -25.95,
+            "scX": 0.25,
+            "scY": 0.25
+          }
+        }
+      ],
+      "slot": [
+        {
+          "name": "444",
+          "parent": "444"
+        },
+        {
+          "name": "44",
+          "parent": "44"
+        },
+        {
+          "name": "4",
+          "parent": "4"
+        }
+      ],
+      "skin": [
+        {
+          "slot": [
+            {
+              "name": "444",
+              "display": [
+                {
+                  "name": "元件 23",
+                  "transform": {
+                    "x": 0.1
+                  }
+                }
+              ]
+            },
+            {
+              "name": "44",
+              "display": [
+                {
+                  "name": "补间 11"
+                },
+                {
+                  "name": "补间 12"
+                },
+                {
+                  "name": "补间 13"
+                },
+                {
+                  "name": "补间 14"
+                },
+                {
+                  "name": "补间 15"
+                }
+              ]
+            },
+            {
+              "name": "4",
+              "display": [
+                {
+                  "name": "元件 19",
+                  "transform": {
+                    "y": 0.1
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "animation": [
+        {
+          "duration": 8,
+          "name": "unnamed",
+          "bone": [
+            {
+              "name": "444",
+              "translateFrame": [
+                {
+                  "duration": 3,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 4,
+                  "tweenEasing": 0,
+                  "y": -1
+                },
+                {}
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 8
+                }
+              ]
+            },
+            {
+              "name": "44",
+              "translateFrame": [
+                {
+                  "tweenEasing": 0
+                },
+                {
+                  "tweenEasing": 0,
+                  "y": -0.35
+                },
+                {
+                  "tweenEasing": 0,
+                  "y": -0.65
+                },
+                {
+                  "tweenEasing": 0,
+                  "y": -1
+                },
+                {
+                  "tweenEasing": 0,
+                  "y": -0.75
+                },
+                {
+                  "tweenEasing": 0,
+                  "y": -0.5
+                },
+                {
+                  "tweenEasing": 0,
+                  "y": -0.25
+                },
+                {}
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 8
+                }
+              ]
+            },
+            {
+              "name": "4",
+              "translateFrame": [
+                {
+                  "duration": 3,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 4,
+                  "tweenEasing": 0,
+                  "y": -1
+                },
+                {}
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 8
+                }
+              ]
+            }
+          ],
+          "slot": [
+            {
+              "name": "44",
+              "displayFrame": [
+                {
+                  "duration": 2
+                },
+                {
+                  "duration": 2,
+                  "value": 1
+                },
+                {
+                  "duration": 2,
+                  "value": 2
+                },
+                {
+                  "value": 3
+                },
+                {
+                  "value": 4
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "重复项目文件夹/zq001 副本",
+      "bone": [
+        {
+          "inheritScale": false,
+          "name": "5555",
+          "transform": {
+            "x": 30.15,
+            "y": -18.9,
+            "scX": -0.25,
+            "scY": 0.25
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "555",
+          "transform": {
+            "x": -30.65,
+            "y": -18.9,
+            "scX": 0.25,
+            "scY": 0.25
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "55",
+          "transform": {
+            "x": 0.1,
+            "y": -39.85,
+            "scX": 0.25,
+            "scY": 0.25
+          }
+        }
+      ],
+      "slot": [
+        {
+          "name": "5555",
+          "parent": "5555"
+        },
+        {
+          "name": "555",
+          "parent": "555"
+        },
+        {
+          "name": "55",
+          "parent": "55"
+        }
+      ],
+      "skin": [
+        {
+          "slot": [
+            {
+              "name": "5555",
+              "display": [
+                {
+                  "name": "补间 1"
+                }
+              ]
+            },
+            {
+              "name": "555",
+              "display": [
+                {
+                  "name": "补间 1"
+                }
+              ]
+            },
+            {
+              "name": "55",
+              "display": [
+                {
+                  "name": "元件 4"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "animation": [
+        {
+          "duration": 8,
+          "name": "unnamed",
+          "bone": [
+            {
+              "name": "5555",
+              "translateFrame": [
+                {
+                  "duration": 3,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 4,
+                  "tweenEasing": 0,
+                  "y": -1
+                },
+                {}
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 8
+                }
+              ]
+            },
+            {
+              "name": "555",
+              "translateFrame": [
+                {
+                  "duration": 3,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 4,
+                  "tweenEasing": 0,
+                  "y": -1
+                },
+                {}
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 8
+                }
+              ]
+            },
+            {
+              "name": "55",
+              "translateFrame": [
+                {
+                  "duration": 3,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 4,
+                  "tweenEasing": 0,
+                  "y": -1
+                },
+                {}
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 8
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "zq001 副本 2",
+      "bone": [
+        {
+          "inheritScale": false,
+          "name": "5",
+          "transform": {
+            "x": 0.2,
+            "y": -19,
+            "scX": 0.25,
+            "scY": 0.25
+          }
+        }
+      ],
+      "slot": [
+        {
+          "name": "5",
+          "parent": "5"
+        }
+      ],
+      "skin": [
+        {
+          "slot": [
+            {
+              "name": "5",
+              "display": [
+                {
+                  "name": "元件 9",
+                  "transform": {
+                    "y": 0.1
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "animation": [
+        {
+          "duration": 8,
+          "name": "unnamed",
+          "bone": [
+            {
+              "name": "5",
+              "translateFrame": [
+                {
+                  "duration": 3,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 4,
+                  "tweenEasing": 0,
+                  "y": -1
+                },
+                {}
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 8
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "重复项目文件夹/zq002 副本 4",
+      "bone": [
+        {
+          "inheritScale": false,
+          "name": "6666",
+          "transform": {
+            "x": -42.45,
+            "y": -16.85,
+            "scX": 0.1983,
+            "scY": 0.198
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "666",
+          "transform": {
+            "x": -9.7,
+            "y": -34.95,
+            "scX": 0.25,
+            "scY": 0.25
+          }
+        }
+      ],
+      "slot": [
+        {
+          "name": "6666",
+          "parent": "6666"
+        },
+        {
+          "name": "666",
+          "parent": "666"
+        }
+      ],
+      "skin": [
+        {
+          "slot": [
+            {
+              "name": "6666",
+              "display": [
+                {
+                  "name": "补间 6"
+                }
+              ]
+            },
+            {
+              "name": "666",
+              "display": [
+                {
+                  "name": "元件 15"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "animation": [
+        {
+          "duration": 8,
+          "name": "unnamed",
+          "bone": [
+            {
+              "name": "6666",
+              "translateFrame": [
+                {
+                  "duration": 3,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 4,
+                  "tweenEasing": 0,
+                  "y": -1
+                },
+                {}
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 8
+                }
+              ]
+            },
+            {
+              "name": "666",
+              "translateFrame": [
+                {
+                  "duration": 3,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 4,
+                  "tweenEasing": 0,
+                  "y": -1
+                },
+                {}
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 8
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "zq002 副本 3",
+      "bone": [
+        {
+          "inheritScale": false,
+          "name": "66",
+          "transform": {
+            "x": -0.55,
+            "y": -14.65,
+            "scX": 0.25,
+            "scY": 0.25
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "6",
+          "transform": {
+            "x": -21.25,
+            "y": -16.2,
+            "scX": 0.25,
+            "scY": 0.25
+          }
+        }
+      ],
+      "slot": [
+        {
+          "name": "66",
+          "parent": "66"
+        },
+        {
+          "name": "6",
+          "parent": "6"
+        }
+      ],
+      "skin": [
+        {
+          "slot": [
+            {
+              "name": "66",
+              "display": [
+                {
+                  "name": "补间 6"
+                }
+              ]
+            },
+            {
+              "name": "6",
+              "display": [
+                {
+                  "name": "元件 11"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "animation": [
+        {
+          "duration": 8,
+          "name": "unnamed",
+          "bone": [
+            {
+              "name": "66",
+              "translateFrame": [
+                {
+                  "duration": 3,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 4,
+                  "tweenEasing": 0,
+                  "y": -1
+                },
+                {}
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 8
+                }
+              ]
+            },
+            {
+              "name": "6",
+              "translateFrame": [
+                {
+                  "duration": 3,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 4,
+                  "tweenEasing": 0,
+                  "y": -1
+                },
+                {}
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 8
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "重复项目文件夹/zq002 副本 3",
+      "bone": [
+        {
+          "inheritScale": false,
+          "name": "7777",
+          "transform": {
+            "x": -42.45,
+            "y": -16.85,
+            "scX": 0.1983,
+            "scY": 0.198
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "777",
+          "transform": {
+            "x": -9.7,
+            "y": -34.95,
+            "scX": 0.25,
+            "scY": 0.25
+          }
+        }
+      ],
+      "slot": [
+        {
+          "name": "7777",
+          "parent": "7777"
+        },
+        {
+          "name": "777",
+          "parent": "777"
+        }
+      ],
+      "skin": [
+        {
+          "slot": [
+            {
+              "name": "7777",
+              "display": [
+                {
+                  "name": "补间 6"
+                }
+              ]
+            },
+            {
+              "name": "777",
+              "display": [
+                {
+                  "name": "元件 15"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "animation": [
+        {
+          "duration": 8,
+          "name": "unnamed",
+          "bone": [
+            {
+              "name": "7777",
+              "translateFrame": [
+                {
+                  "duration": 3,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 4,
+                  "tweenEasing": 0,
+                  "y": -1
+                },
+                {}
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 8
+                }
+              ]
+            },
+            {
+              "name": "777",
+              "translateFrame": [
+                {
+                  "duration": 3,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 4,
+                  "tweenEasing": 0,
+                  "y": -1
+                },
+                {}
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 8
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "zq002 副本 4",
+      "bone": [
+        {
+          "inheritScale": false,
+          "name": "77",
+          "transform": {
+            "x": -0.55,
+            "y": -14.65,
+            "scX": 0.25,
+            "scY": 0.25
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "7",
+          "transform": {
+            "x": -21.25,
+            "y": -16.2,
+            "scX": 0.25,
+            "scY": 0.25
+          }
+        }
+      ],
+      "slot": [
+        {
+          "name": "77",
+          "parent": "77"
+        },
+        {
+          "name": "7",
+          "parent": "7"
+        }
+      ],
+      "skin": [
+        {
+          "slot": [
+            {
+              "name": "77",
+              "display": [
+                {
+                  "name": "补间 6"
+                }
+              ]
+            },
+            {
+              "name": "7",
+              "display": [
+                {
+                  "name": "元件 11"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "animation": [
+        {
+          "duration": 8,
+          "name": "unnamed",
+          "bone": [
+            {
+              "name": "77",
+              "translateFrame": [
+                {
+                  "duration": 3,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 4,
+                  "tweenEasing": 0,
+                  "y": -1
+                },
+                {}
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 8
+                }
+              ]
+            },
+            {
+              "name": "7",
+              "translateFrame": [
+                {
+                  "duration": 3,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 4,
+                  "tweenEasing": 0,
+                  "y": -1
+                },
+                {}
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 8
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "重复项目文件夹/zq005 副本",
+      "bone": [
+        {
+          "inheritScale": false,
+          "name": "88888",
+          "transform": {
+            "x": 10.1,
+            "y": -22.05,
+            "scX": 0.2159,
+            "scY": 0.2157
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "8888",
+          "transform": {
+            "x": -1.15,
+            "y": -43.8,
+            "scX": 0.25,
+            "scY": 0.25
+          }
+        }
+      ],
+      "slot": [
+        {
+          "name": "88888",
+          "parent": "88888"
+        },
+        {
+          "name": "8888",
+          "parent": "8888"
+        }
+      ],
+      "skin": [
+        {
+          "slot": [
+            {
+              "name": "88888",
+              "display": [
+                {
+                  "name": "补间 11"
+                }
+              ]
+            },
+            {
+              "name": "8888",
+              "display": [
+                {
+                  "name": "元件 25"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "animation": [
+        {
+          "duration": 8,
+          "name": "unnamed",
+          "bone": [
+            {
+              "name": "88888",
+              "translateFrame": [
+                {
+                  "duration": 3,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 4,
+                  "tweenEasing": 0,
+                  "y": -1
+                },
+                {}
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 8
+                }
+              ]
+            },
+            {
+              "name": "8888",
+              "translateFrame": [
+                {
+                  "duration": 3,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 4,
+                  "tweenEasing": 0,
+                  "y": -1
+                },
+                {}
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 8
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "zq005 副本 2",
+      "bone": [
+        {
+          "inheritScale": false,
+          "name": "888",
+          "transform": {
+            "x": 3.4,
+            "y": -43,
+            "scX": 0.25,
+            "scY": 0.25
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "88",
+          "transform": {
+            "x": -24.25,
+            "y": -18.45,
+            "scX": 0.25,
+            "scY": 0.25
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "8",
+          "transform": {
+            "x": -28.65,
+            "y": -25.95,
+            "scX": 0.25,
+            "scY": 0.25
+          }
+        }
+      ],
+      "slot": [
+        {
+          "name": "888",
+          "parent": "888"
+        },
+        {
+          "name": "88",
+          "parent": "88"
+        },
+        {
+          "name": "8",
+          "parent": "8"
+        }
+      ],
+      "skin": [
+        {
+          "slot": [
+            {
+              "name": "888",
+              "display": [
+                {
+                  "name": "元件 23",
+                  "transform": {
+                    "x": 0.1
+                  }
+                }
+              ]
+            },
+            {
+              "name": "88",
+              "display": [
+                {
+                  "name": "补间 11"
+                }
+              ]
+            },
+            {
+              "name": "8",
+              "display": [
+                {
+                  "name": "元件 19",
+                  "transform": {
+                    "y": 0.1
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "animation": [
+        {
+          "duration": 8,
+          "name": "unnamed",
+          "bone": [
+            {
+              "name": "888",
+              "translateFrame": [
+                {
+                  "duration": 3,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 4,
+                  "tweenEasing": 0,
+                  "y": -1
+                },
+                {}
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 8
+                }
+              ]
+            },
+            {
+              "name": "88",
+              "translateFrame": [
+                {
+                  "duration": 3,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 4,
+                  "tweenEasing": 0,
+                  "y": -1
+                },
+                {}
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 8
+                }
+              ]
+            },
+            {
+              "name": "8",
+              "translateFrame": [
+                {
+                  "duration": 3,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 4,
+                  "tweenEasing": 0,
+                  "y": -1
+                },
+                {}
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 8
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

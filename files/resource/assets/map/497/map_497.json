@@ -1,0 +1,30 @@
+{
+  "groups": [
+    {
+      "keys": "road_497,exml_497,map_497_bg_mc_jpg,map_497_top_mc_png",
+      "name": "map_497"
+    }
+  ],
+  "resources": [
+    {
+      "type": "json",
+      "url": "497.json",
+      "name": "road_497"
+    },
+    {
+      "type": "text",
+      "url": "Map497Skin.exml",
+      "name": "exml_497"
+    },
+    {
+      "type": "image",
+      "url": "map_497_bg_mc.jpg",
+      "name": "map_497_bg_mc_jpg"
+    },
+    {
+      "type": "image",
+      "url": "map_497_top_mc.png",
+      "name": "map_497_top_mc_png"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "groups": [
+    {
+      "name": "pve_jiehuang",
+      "keys": "pve_jiehuang_bg_png,pve_jiehuang_bg1_png,pve_jiehuang_powerup_img_pet_1_png,pve_jiehuang_powerup_img_pet_2_png,pve_jiehuang_sheet"
+    }
+  ],
+  "resources": [
+    {
+      "name": "pve_jiehuang_bg_png",
+      "type": "image",
+      "url": "pve_jiehuang/outside/pve_jiehuang_bg.png"
+    },
+    {
+      "name": "pve_jiehuang_bg1_png",
+      "type": "image",
+      "url": "pve_jiehuang/outside/pve_jiehuang_bg1.png"
+    },
+    {
+      "name": "pve_jiehuang_powerup_img_pet_1_png",
+      "type": "image",
+      "url": "pve_jiehuang/outside/pve_jiehuang_powerup_img_pet_1.png"
+    },
+    {
+      "name": "pve_jiehuang_powerup_img_pet_2_png",
+      "type": "image",
+      "url": "pve_jiehuang/outside/pve_jiehuang_powerup_img_pet_2.png"
+    },
+    {
+      "name": "pve_jiehuang_sheet",
+      "type": "sheet",
+      "url": "pve_jiehuang/pve_jiehuang_sheet.json",
+      "subkeys": "pve_jiehuang_btnBag_png,pve_jiehuang_btnBuy_0_png,pve_jiehuang_btnBuy_1_png,pve_jiehuang_btnClose_png,pve_jiehuang_btnEvo_0_png,pve_jiehuang_btnEvo_1_png,pve_jiehuang_btnFight_0_png,pve_jiehuang_btnFight_1_png,pve_jiehuang_btnInfo_0_png,pve_jiehuang_btnInfo_1_png,pve_jiehuang_btnPlus_png,pve_jiehuang_btnRule_png,pve_jiehuang_btnUp_0_png,pve_jiehuang_btnUp_1_png,pve_jiehuang_flag_got_0_png,pve_jiehuang_flag_got_1_png,pve_jiehuang_powerup_btnBuy_png,pve_jiehuang_powerup_btnFast_png,pve_jiehuang_powerup_btnFight_png,pve_jiehuang_powerup_btnFreeze_png,pve_jiehuang_powerup_btnGet_png,pve_jiehuang_powerup_btnPlus_png,pve_jiehuang_powerup_fire_png,pve_jiehuang_powerup_firebg_png,pve_jiehuang_powerup_fire_dark_png,pve_jiehuang_powerup_flag_got_png,pve_jiehuang_powerup_iconbg_png,pve_jiehuang_powerup_icon_characteristic_png,pve_jiehuang_powerup_icon_skill_png,pve_jiehuang_powerup_icon_token_png,pve_jiehuang_powerup_imgBtn_cure_png,pve_jiehuang_powerup_imgBtn_pet_png,pve_jiehuang_powerup_title_1_png,pve_jiehuang_powerup_title_2_png,pve_jiehuang_powerup_title_characteristic_png,pve_jiehuang_powerup_title_skill_png,pve_jiehuang_powerup_title_token_png,pve_jiehuang_powerup_txtbg_png,pve_jiehuang_timeBg_0_png,pve_jiehuang_timeBg_1_png,pve_jiehuang_timesBg_png,pve_jiehuang_txtBg_0_png,pve_jiehuang_txtBg_1_png,pve_jiehuang_up_bg_png"
+    }
+  ]
+}

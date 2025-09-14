@@ -1,0 +1,36 @@
+{
+  "groups": [
+    {
+      "name": "spring_activity2022",
+      "keys": "spring_activity2022_sheet,h5_huoju_ske_json,h5_huoju_tex_json,h5_huoju_tex_png,ssa2022_main_panel_bg_jpg"
+    }
+  ],
+  "resources": [
+    {
+      "name": "h5_huoju_ske_json",
+      "type": "json",
+      "url": "spring_activity2022/outside/h5_huoju_ske.json"
+    },
+    {
+      "name": "h5_huoju_tex_json",
+      "type": "json",
+      "url": "spring_activity2022/outside/h5_huoju_tex.json"
+    },
+    {
+      "name": "h5_huoju_tex_png",
+      "type": "image",
+      "url": "spring_activity2022/outside/h5_huoju_tex.png"
+    },
+    {
+      "name": "ssa2022_main_panel_bg_jpg",
+      "type": "image",
+      "url": "spring_activity2022/outside/ssa2022_main_panel_bg.jpg"
+    },
+    {
+      "name": "spring_activity2022_sheet",
+      "type": "sheet",
+      "url": "spring_activity2022/spring_activity2022_sheet.json",
+      "subkeys": "ssa2022_child_item_iconbg_png,ssa2022_child_item_numbg_png,ssa2022_help_pop_1_png,ssa2022_help_pop_2_png,ssa2022_help_pop_3_png,ssa2022_help_pop_4_png,ssa2022_help_pop_bg_png,ssa2022_help_pop_kong_png,ssa2022_help_pop_shangyiye_png,ssa2022_help_pop_wfsm_png,ssa2022_help_pop_xiayiye_png,ssa2022_help_pop_xuanzhong_png,ssa2022_help_pop_z_15226_kb_6_png,ssa2022_main_panel_1_png,ssa2022_main_panel_achievementbg_png,ssa2022_main_panel_achievementtitlebg_png,ssa2022_main_panel_acticivityinfoinfobg_png,ssa2022_main_panel_btngettask_png,ssa2022_main_panel_btngo_png,ssa2022_main_panel_btnHelp_png,ssa2022_main_panel_btninfo_png,ssa2022_main_panel_btnselect_png,ssa2022_main_panel_btntitleget_png,ssa2022_main_panel_chenhao_png,ssa2022_main_panel_countbg_png,ssa2022_main_panel_flag_tomorrow_png,ssa2022_main_panel_icon_png,ssa2022_main_panel_iconbg_png,ssa2022_main_panel_info_png,ssa2022_main_panel_itemIcon_png,ssa2022_main_panel_juxing_321_png,ssa2022_main_panel_juxing_323_png,ssa2022_main_panel_juxing_328_png,ssa2022_main_panel_jx_319_kb_4_png,ssa2022_main_panel_jx_329_kb_14_png,ssa2022_main_panel_taskbg_png,ssa2022_main_panel_title_png,ssa2022_main_panel_weidadao_png,ssa2022_main_panel_welfarebg_png,ssa2022_main_panel_wenzi_png,ssa2022_main_panel_yiguoji_png,ssa2022_main_panel_yilingqu_png,ssa2022_main_panel_zu_71_png,ssa2022_main_panel_z_1512_kb_png,ssa2022_select_pop_btncomfirm_png,ssa2022_select_pop_flag_got_png,ssa2022_select_pop_lock_png,ssa2022_select_pop_moren_png,ssa2022_select_pop_select_png,ssa2022_select_pop_selectpopbg_png,ssa2022_select_pop_yhckgd_png"
+    }
+  ]
+}

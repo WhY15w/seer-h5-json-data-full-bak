@@ -1,0 +1,40 @@
+{
+  "groups": [
+    {
+      "keys": "road_696,exml_696,map_696_bg_mc_jpg,map_696_shitou1_png,map_696_shitou2_png,map_696_control_mc_png",
+      "name": "map_696"
+    }
+  ],
+  "resources": [
+    {
+      "type": "json",
+      "url": "696.json",
+      "name": "road_696"
+    },
+    {
+      "type": "text",
+      "url": "Map696Skin.exml",
+      "name": "exml_696"
+    },
+    {
+      "type": "image",
+      "url": "map_696_bg_mc.jpg",
+      "name": "map_696_bg_mc_jpg"
+    },
+    {
+      "type": "image",
+      "url": "map_696_shitou1.png",
+      "name": "map_696_shitou1_png"
+    },
+    {
+      "type": "image",
+      "url": "map_696_shitou2.png",
+      "name": "map_696_shitou2_png"
+    },
+    {
+      "type": "image",
+      "url": "map_696_control_mc.png",
+      "name": "map_696_control_mc_png"
+    }
+  ]
+}

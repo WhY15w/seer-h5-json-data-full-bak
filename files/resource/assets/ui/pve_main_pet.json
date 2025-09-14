@@ -1,0 +1,36 @@
+{
+  "groups": [
+    {
+      "name": "pve_main_pet",
+      "keys": "pve_main_pet_sheet,pve_main_pet_config_json,pve_main_pet_battlel_bg_png,pve_main_pet_main_mainbg_png,pve_main_pet_main_pet_png"
+    }
+  ],
+  "resources": [
+    {
+      "name": "pve_main_pet_config_json",
+      "type": "json",
+      "url": "pve_main_pet/outside/pve_main_pet_config.json"
+    },
+    {
+      "name": "pve_main_pet_battlel_bg_png",
+      "type": "image",
+      "url": "pve_main_pet/outside/pve_main_pet_battlel_bg.png"
+    },
+    {
+      "name": "pve_main_pet_main_mainbg_png",
+      "type": "image",
+      "url": "pve_main_pet/outside/pve_main_pet_main_mainbg.png"
+    },
+    {
+      "name": "pve_main_pet_main_pet_png",
+      "type": "image",
+      "url": "pve_main_pet/outside/pve_main_pet_main_pet.png"
+    },
+    {
+      "name": "pve_main_pet_sheet",
+      "type": "sheet",
+      "url": "pve_main_pet/pve_main_pet_sheet.json",
+      "subkeys": "pve_main_pet_battlel_aliow_png,pve_main_pet_battlel_aliow_3_png,pve_main_pet_battlel_bg_png,pve_main_pet_battlel_btnBattle_png,pve_main_pet_battlel_btnClose_png,pve_main_pet_battlel_btnCure_png,pve_main_pet_battlel_btnPet_png,pve_main_pet_battlel_btnTomorrow_png,pve_main_pet_battlel_helpBtn_png_png,pve_main_pet_battlel_imgSelected_png,pve_main_pet_battlel_pet1_png,pve_main_pet_battlel_pet2_png,pve_main_pet_battlel_pet3_png,pve_main_pet_battlel_texture_1_png,pve_main_pet_battlel_title_png,pve_main_pet_battlel_up_bg_png,pve_main_pet_exchangecao_btn_cao_down_png,pve_main_pet_exchangecao_btn_cao_up_png,pve_main_pet_exchangehuo_btn_huo_down_png,pve_main_pet_exchangehuo_btn_huo_up_png,pve_main_pet_exchangeshui_btn_shui_down_png,pve_main_pet_exchangeshui_btn_shui_up_png,pve_main_pet_exchange_btnduihuan_png,pve_main_pet_exchange_costicon_png,pve_main_pet_exchange_iconBg_png,pve_main_pet_exchange_iconCao_png,pve_main_pet_exchange_iconHuo_png,pve_main_pet_exchange_iconitem_png,pve_main_pet_exchange_iconitem2_png,pve_main_pet_exchange_iconitem3_png,pve_main_pet_exchange_iconShui_png,pve_main_pet_exchange_iconskill_png,pve_main_pet_exchange_icon_texiing_png,pve_main_pet_exchange_img_di_png,pve_main_pet_exchange_img_di_3_png,pve_main_pet_exchange_pet1_png,pve_main_pet_exchange_pet2_png,pve_main_pet_exchange_pet3_png,pve_main_pet_main_btnAdd_png,pve_main_pet_main_btnBattle_png,pve_main_pet_main_btnClose_png,pve_main_pet_main_btnExchange_png,pve_main_pet_main_title_png,pve_main_pet_main_up_bg_png"
+    }
+  ]
+}

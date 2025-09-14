@@ -1,0 +1,505 @@
+{
+  "file": "demon_king_girod_sheet.png",
+  "frames": {
+    "123123_png": {
+      "x": 1,
+      "y": 1,
+      "w": 710,
+      "h": 598,
+      "offX": 0,
+      "offY": 41,
+      "sourceW": 710,
+      "sourceH": 639
+    },
+    "enter_btnChao_png": {
+      "x": 491,
+      "y": 1181,
+      "w": 241,
+      "h": 73,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 241,
+      "sourceH": 73
+    },
+    "enter_btnWan_png": {
+      "x": 734,
+      "y": 1193,
+      "w": 241,
+      "h": 73,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 241,
+      "sourceH": 73
+    },
+    "enter_title1_png": {
+      "x": 1364,
+      "y": 559,
+      "w": 678,
+      "h": 523,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 678,
+      "sourceH": 523
+    },
+    "enter_title2_png": {
+      "x": 1364,
+      "y": 1,
+      "w": 670,
+      "h": 556,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 670,
+      "sourceH": 556
+    },
+    "fight_btnCure_png": {
+      "x": 1269,
+      "y": 826,
+      "w": 60,
+      "h": 60,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 60,
+      "sourceH": 60
+    },
+    "fight_btnPet_png": {
+      "x": 1269,
+      "y": 764,
+      "w": 60,
+      "h": 60,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 60,
+      "sourceH": 60
+    },
+    "fight_imgMap1_png": {
+      "x": 971,
+      "y": 749,
+      "w": 296,
+      "h": 146,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 296,
+      "sourceH": 146
+    },
+    "fight_imgMap2_png": {
+      "x": 971,
+      "y": 897,
+      "w": 296,
+      "h": 146,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 296,
+      "sourceH": 146
+    },
+    "fight_imgMap3_png": {
+      "x": 971,
+      "y": 1045,
+      "w": 296,
+      "h": 146,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 296,
+      "sourceH": 146
+    },
+    "fight_mapsbg_png": {
+      "x": 971,
+      "y": 601,
+      "w": 297,
+      "h": 146,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 297,
+      "sourceH": 146
+    },
+    "fight_mgzx_png": {
+      "x": 441,
+      "y": 1256,
+      "w": 242,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 242,
+      "sourceH": 40
+    },
+    "fight_sbosscs_png": {
+      "x": 611,
+      "y": 601,
+      "w": 358,
+      "h": 578,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 358,
+      "sourceH": 579
+    },
+    "fight_up_bg_png": {
+      "x": 245,
+      "y": 1264,
+      "w": 145,
+      "h": 50,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 145,
+      "sourceH": 50
+    },
+    "fight_wxxh_png": {
+      "x": 977,
+      "y": 1193,
+      "w": 242,
+      "h": 42,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 242,
+      "sourceH": 42
+    },
+    "main_1_png": {
+      "x": 1,
+      "y": 955,
+      "w": 495,
+      "h": 101,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 495,
+      "sourceH": 101
+    },
+    "main_2_png": {
+      "x": 1,
+      "y": 1155,
+      "w": 488,
+      "h": 50,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 488,
+      "sourceH": 50
+    },
+    "main_baoxiang_png": {
+      "x": 1270,
+      "y": 692,
+      "w": 79,
+      "h": 70,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 79,
+      "sourceH": 70
+    },
+    "main_baoxiangbg_png": {
+      "x": 1269,
+      "y": 1084,
+      "w": 346,
+      "h": 105,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 346,
+      "sourceH": 105
+    },
+    "main_btnAddFightTime_png": {
+      "x": 531,
+      "y": 1107,
+      "w": 36,
+      "h": 34,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 36,
+      "sourceH": 34
+    },
+    "main_btnchildclose_png": {
+      "x": 1269,
+      "y": 930,
+      "w": 54,
+      "h": 56,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 54,
+      "sourceH": 56
+    },
+    "main_btnFight_png": {
+      "x": 1752,
+      "y": 1169,
+      "w": 241,
+      "h": 73,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 241,
+      "sourceH": 73
+    },
+    "main_btnfix_png": {
+      "x": 1914,
+      "y": 1244,
+      "w": 120,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 120,
+      "sourceH": 40
+    },
+    "main_btnGetBonus_png": {
+      "x": 1269,
+      "y": 888,
+      "w": 81,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 81,
+      "sourceH": 40
+    },
+    "main_btnGetKe_png": {
+      "x": 1474,
+      "y": 1243,
+      "w": 218,
+      "h": 55,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 218,
+      "sourceH": 55
+    },
+    "main_btnGetPet_png": {
+      "x": 1694,
+      "y": 1244,
+      "w": 218,
+      "h": 55,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 218,
+      "sourceH": 55
+    },
+    "main_btnGetTe_png": {
+      "x": 1,
+      "y": 1207,
+      "w": 218,
+      "h": 55,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 218,
+      "sourceH": 55
+    },
+    "main_btnGetWu_png": {
+      "x": 221,
+      "y": 1207,
+      "w": 218,
+      "h": 55,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 218,
+      "sourceH": 55
+    },
+    "main_btnHelp_png": {
+      "x": 1269,
+      "y": 1034,
+      "w": 35,
+      "h": 39,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 35,
+      "sourceH": 39
+    },
+    "main_btnInfo_png": {
+      "x": 498,
+      "y": 955,
+      "w": 94,
+      "h": 74,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 94,
+      "sourceH": 74
+    },
+    "main_btnKe_png": {
+      "x": 1331,
+      "y": 798,
+      "w": 15,
+      "h": 15,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 15,
+      "sourceH": 15
+    },
+    "main_btnSuperGet_png": {
+      "x": 498,
+      "y": 1031,
+      "w": 94,
+      "h": 74,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 94,
+      "sourceH": 74
+    },
+    "main_btnTe_png": {
+      "x": 1331,
+      "y": 764,
+      "w": 15,
+      "h": 15,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 15,
+      "sourceH": 15
+    },
+    "main_btnWu_png": {
+      "x": 1331,
+      "y": 781,
+      "w": 15,
+      "h": 15,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 15,
+      "sourceH": 15
+    },
+    "main_bumb_png": {
+      "x": 1617,
+      "y": 1084,
+      "w": 312,
+      "h": 83,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 312,
+      "sourceH": 83
+    },
+    "main_has1_png": {
+      "x": 1,
+      "y": 1058,
+      "w": 492,
+      "h": 95,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 492,
+      "sourceH": 95
+    },
+    "main_has2_png": {
+      "x": 1269,
+      "y": 1191,
+      "w": 481,
+      "h": 50,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 481,
+      "sourceH": 50
+    },
+    "main_has5_png": {
+      "x": 1270,
+      "y": 601,
+      "w": 89,
+      "h": 89,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 89,
+      "sourceH": 89
+    },
+    "main_icon_1_png": {
+      "x": 1269,
+      "y": 988,
+      "w": 43,
+      "h": 44,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 43,
+      "sourceH": 44
+    },
+    "main_icon_texing_png": {
+      "x": 1325,
+      "y": 930,
+      "w": 36,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 36,
+      "sourceH": 40
+    },
+    "main_keyin_png": {
+      "x": 1314,
+      "y": 1032,
+      "w": 42,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 42,
+      "sourceH": 40
+    },
+    "main_mgzx_png": {
+      "x": 495,
+      "y": 1107,
+      "w": 34,
+      "h": 39,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 34,
+      "sourceH": 39
+    },
+    "main_numbg_png": {
+      "x": 1,
+      "y": 1264,
+      "w": 242,
+      "h": 32,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 242,
+      "sourceH": 32
+    },
+    "main_title_png": {
+      "x": 713,
+      "y": 1,
+      "w": 649,
+      "h": 598,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 649,
+      "sourceH": 598
+    },
+    "main_txtBubble1_png": {
+      "x": 943,
+      "y": 1274,
+      "w": 236,
+      "h": 19,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 236,
+      "sourceH": 19
+    },
+    "main_txtBubble2_png": {
+      "x": 685,
+      "y": 1268,
+      "w": 256,
+      "h": 19,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 256,
+      "sourceH": 19
+    },
+    "main_uptitle_png": {
+      "x": 977,
+      "y": 1243,
+      "w": 495,
+      "h": 29,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 495,
+      "sourceH": 29
+    },
+    "main_vip_png": {
+      "x": 1931,
+      "y": 1084,
+      "w": 109,
+      "h": 54,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 109,
+      "sourceH": 54
+    },
+    "main_wxxh_png": {
+      "x": 1314,
+      "y": 988,
+      "w": 42,
+      "h": 42,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 42,
+      "sourceH": 42
+    },
+    "main_x1_png": {
+      "x": 1,
+      "y": 601,
+      "w": 608,
+      "h": 352,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 608,
+      "sourceH": 352
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "resources": [
+    {
+      "type": "json",
+      "url": "481.json",
+      "name": "road_481"
+    },
+    {
+      "type": "text",
+      "url": "Map481Skin.exml",
+      "name": "exml_481"
+    },
+    {
+      "type": "image",
+      "url": "map_481_bg_mc.jpg",
+      "name": "map_481_bg_mc_jpg"
+    },
+    {
+      "type": "image",
+      "url": "map_481_cao1.png",
+      "name": "map_481_cao1_png"
+    },
+    {
+      "type": "image",
+      "url": "map_481_top_mc.png",
+      "name": "map_481_top_mc_png"
+    }
+  ],
+  "groups": [
+    {
+      "keys": "road_481,exml_481,map_481_bg_mc_jpg,map_481_cao1_png,map_481_top_mc_png",
+      "name": "map_481"
+    }
+  ]
+}

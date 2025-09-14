@@ -1,0 +1,31 @@
+{
+  "groups": [
+    {
+      "name": "application_for_seer_unity",
+      "keys": "application_for_seer_unity_sheet,unityzhaomu_atlas,unityzhaomu_json,unityzhaomu_png"
+    }
+  ],
+  "resources": [
+    {
+      "name": "unityzhaomu_atlas",
+      "type": "text",
+      "url": "application_for_seer_unity/outside/unityzhaomu.atlas"
+    },
+    {
+      "name": "unityzhaomu_json",
+      "type": "json",
+      "url": "application_for_seer_unity/outside/unityzhaomu.json"
+    },
+    {
+      "name": "unityzhaomu_png",
+      "type": "image",
+      "url": "application_for_seer_unity/outside/unityzhaomu.png"
+    },
+    {
+      "name": "application_for_seer_unity_sheet",
+      "type": "sheet",
+      "url": "application_for_seer_unity/application_for_seer_unity_sheet.json",
+      "subkeys": "applicationForSeerUnityUU_hzsj·UIsj·gnyh·qxdfms_png,applicationForSeerUnity_btnApply_1_png,applicationForSeerUnity_btnApply_2_png,applicationForSeerUnity_btnInfo_png,applicationForSeerUnity_btnLetter_png,applicationForSeerUnity_cannotApply_2_png,applicationForSeerUnity_hasApply_1_png,applicationForSeerUnity_hasApply_2_png,applicationForSeerUnity_logo_png,applicationForSeerUnity_pop1_btnApplay_png,applicationForSeerUnity_pop1_tanchuang_bg_png,applicationForSeerUnity_pop2_btnApply_png,applicationForSeerUnity_pop2_cannotApply_png,applicationForSeerUnity_pop2_tanchuang_bg_2_png"
+    }
+  ]
+}

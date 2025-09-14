@@ -1,0 +1,30 @@
+{
+  "groups": [
+    {
+      "keys": "road_44,exml_44,map_44_bg_mc_jpg,map_44_top_mc_png",
+      "name": "map_44"
+    }
+  ],
+  "resources": [
+    {
+      "type": "json",
+      "url": "44.json",
+      "name": "road_44"
+    },
+    {
+      "type": "text",
+      "url": "Map44Skin.exml",
+      "name": "exml_44"
+    },
+    {
+      "type": "image",
+      "url": "map_44_bg_mc.jpg",
+      "name": "map_44_bg_mc_jpg"
+    },
+    {
+      "type": "image",
+      "url": "map_44_top_mc.png",
+      "name": "map_44_top_mc_png"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "data": [
+    {
+      "firstData": {
+        "type": 1,
+        "name": "头像"
+      },
+      "childData": [
+        {
+          "tab": 0,
+          "name": "全部",
+          "icon": "all"
+        },
+        {
+          "tab": 1,
+          "name": "系统",
+          "icon": "system"
+        },
+        {
+          "tab": 2,
+          "name": "精灵",
+          "icon": "pet"
+        },
+        {
+          "tab": 3,
+          "name": "限定",
+          "icon": "xianding"
+        }
+      ]
+    },
+    {
+      "firstData": {
+        "type": 2,
+        "name": "头像框",
+        "enable": true,
+        "msg": "暂未开放，敬请期待！"
+      },
+      "childData": [
+        {
+          "tab": 0,
+          "name": "全部",
+          "icon": "all"
+        },
+        {
+          "tab": 1,
+          "name": "系统",
+          "icon": "system"
+        },
+        {
+          "tab": 2,
+          "name": "竞技",
+          "icon": "pvp"
+        },
+        {
+          "tab": 3,
+          "name": "限定",
+          "icon": "act"
+        }
+      ]
+    }
+  ]
+}

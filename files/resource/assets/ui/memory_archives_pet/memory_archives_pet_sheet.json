@@ -1,0 +1,65 @@
+{
+  "file": "memory_archives_pet_sheet.png",
+  "frames": {
+    "memory_archives_pet_bg_png": {
+      "x": 1,
+      "y": 1,
+      "w": 754,
+      "h": 435,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 754,
+      "sourceH": 435
+    },
+    "memory_archives_pet_close_png": {
+      "x": 988,
+      "y": 1,
+      "w": 33,
+      "h": 33,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 33,
+      "sourceH": 33
+    },
+    "memory_archives_pet_headbg_png": {
+      "x": 914,
+      "y": 1,
+      "w": 72,
+      "h": 72,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 72,
+      "sourceH": 72
+    },
+    "memory_archives_pet_petbg_png": {
+      "x": 757,
+      "y": 1,
+      "w": 155,
+      "h": 228,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 155,
+      "sourceH": 228
+    },
+    "memory_archives_pet_title1_png": {
+      "x": 757,
+      "y": 231,
+      "w": 180,
+      "h": 72,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 180,
+      "sourceH": 72
+    },
+    "memory_archives_pet_title2_png": {
+      "x": 757,
+      "y": 305,
+      "w": 179,
+      "h": 69,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 179,
+      "sourceH": 69
+    }
+  }
+}

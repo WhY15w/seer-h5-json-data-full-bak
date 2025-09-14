@@ -1,0 +1,48 @@
+{
+  "name": 1300982,
+  "SubTexture": [
+    {
+      "name": "sxrtfg",
+      "x": 0,
+      "width": 223,
+      "y": 695,
+      "height": 318
+    },
+    {
+      "name": "sdxrfg",
+      "x": 602,
+      "width": 224,
+      "y": 645,
+      "height": 320
+    },
+    {
+      "name": "左手侧",
+      "x": 856,
+      "width": 148,
+      "y": 0,
+      "height": 184
+    },
+    {
+      "name": "右手侧",
+      "x": 856,
+      "width": 62,
+      "y": 185,
+      "height": 184
+    },
+    {
+      "name": "这地方官",
+      "x": 602,
+      "width": 252,
+      "y": 0,
+      "height": 643
+    },
+    {
+      "name": "行走让他放过",
+      "x": 0,
+      "width": 600,
+      "y": 0,
+      "height": 693
+    }
+  ],
+  "imagePath": "texture.png"
+}

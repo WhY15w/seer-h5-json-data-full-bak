@@ -1,0 +1,185 @@
+{
+  "file": "room_tool_bar_sheet.png",
+  "frames": {
+    "room_toolbar_bottombg_png": {
+      "x": 78,
+      "y": 1,
+      "w": 292,
+      "h": 75,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 292,
+      "sourceH": 75
+    },
+    "room_toolbar_cam_png": {
+      "x": 372,
+      "y": 1,
+      "w": 49,
+      "h": 245,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 49,
+      "sourceH": 245
+    },
+    "room_toolbar_ima_detal_png": {
+      "x": 152,
+      "y": 131,
+      "w": 36,
+      "h": 49,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 36,
+      "sourceH": 49
+    },
+    "room_toolbar_ima_edit_png": {
+      "x": 423,
+      "y": 140,
+      "w": 36,
+      "h": 48,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 36,
+      "sourceH": 48
+    },
+    "room_toolbar_ima_gowho_png": {
+      "x": 423,
+      "y": 86,
+      "w": 37,
+      "h": 52,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 37,
+      "sourceH": 52
+    },
+    "room_toolbar_ima_greenhouse_png": {
+      "x": 251,
+      "y": 129,
+      "w": 37,
+      "h": 49,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 37,
+      "sourceH": 49
+    },
+    "room_toolbar_ima_hatchery_png": {
+      "x": 328,
+      "y": 133,
+      "w": 36,
+      "h": 49,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 36,
+      "sourceH": 49
+    },
+    "room_toolbar_ima_hide_png": {
+      "x": 78,
+      "y": 78,
+      "w": 72,
+      "h": 83,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 72,
+      "sourceH": 83
+    },
+    "room_toolbar_ima_home_png": {
+      "x": 305,
+      "y": 78,
+      "w": 37,
+      "h": 53,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 37,
+      "sourceH": 53
+    },
+    "room_toolbar_ima_liked_png": {
+      "x": 462,
+      "y": 139,
+      "w": 36,
+      "h": 49,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 36,
+      "sourceH": 49
+    },
+    "room_toolbar_ima_liked_1_png": {
+      "x": 251,
+      "y": 78,
+      "w": 52,
+      "h": 49,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 52,
+      "sourceH": 49
+    },
+    "room_toolbar_ima_main_png": {
+      "x": 152,
+      "y": 78,
+      "w": 68,
+      "h": 51,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 68,
+      "sourceH": 51
+    },
+    "room_toolbar_ima_shop_png": {
+      "x": 462,
+      "y": 86,
+      "w": 37,
+      "h": 51,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 37,
+      "sourceH": 51
+    },
+    "room_toolbar_ima_show_png": {
+      "x": 423,
+      "y": 1,
+      "w": 72,
+      "h": 83,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 72,
+      "sourceH": 83
+    },
+    "room_toolbar_ima_warehouse_png": {
+      "x": 290,
+      "y": 133,
+      "w": 36,
+      "h": 49,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 36,
+      "sourceH": 49
+    },
+    "room_toolbar_rightbg_png": {
+      "x": 1,
+      "y": 1,
+      "w": 75,
+      "h": 419,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 75,
+      "sourceH": 419
+    },
+    "room_toolbar_slider_bg_png": {
+      "x": 222,
+      "y": 78,
+      "w": 27,
+      "h": 100,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 27,
+      "sourceH": 100
+    },
+    "room_toolbar_trumb_png": {
+      "x": 344,
+      "y": 78,
+      "w": 19,
+      "h": 11,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 19,
+      "sourceH": 11
+    }
+  }
+}

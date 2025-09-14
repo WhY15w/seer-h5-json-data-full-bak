@@ -1,0 +1,16 @@
+{
+  "groups": [
+    {
+      "name": "peak_war_award_exchange",
+      "keys": "peak_war_award_exchange_sheet"
+    }
+  ],
+  "resources": [
+    {
+      "name": "peak_war_award_exchange_sheet",
+      "type": "sheet",
+      "url": "peak_war_award_exchange/peak_war_award_exchange_sheet.json",
+      "subkeys": "peak_award_pet_bottom_bg_png,peak_award_pet_btnInfo_png,peak_award_pet_coin_png,peak_award_pet_infobg_png,peak_war_award_coin_png,peak_war_award_exchange_icon_coin0_png,peak_war_award_exchange_icon_coin1_png,peak_war_award_exchange_leftbg_png,peak_war_award_exchange_plus_png,peak_war_award_exchange_title_png,peak_war_award_exchange_top_bg_png,peak_war_award_icon_0_png,peak_war_award_icon_1_png,peak_war_award_icon_2_png,peak_war_award_mark_coin_png,peak_war_award_mark_item_bg_png,peak_war_award_mark_name_bg_png,peak_war_award_petskin_title_png,peak_war_award_pet_head_bg_png,peak_war_award_suit_bg_png,peak_war_award_suit_coin_png,pet_skin_bg_png"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "groups": [
+    {
+      "keys": "road_78,exml_78,map_78_bg_mc_jpg,map_78_a_png,map_78_b_png,map_78_top_mc_png",
+      "name": "map_78"
+    }
+  ],
+  "resources": [
+    {
+      "type": "json",
+      "url": "78.json",
+      "name": "road_78"
+    },
+    {
+      "type": "text",
+      "url": "Map78Skin.exml",
+      "name": "exml_78"
+    },
+    {
+      "type": "image",
+      "url": "map_78_bg_mc.jpg",
+      "name": "map_78_bg_mc_jpg"
+    },
+    {
+      "type": "image",
+      "url": "map_78_a.png",
+      "name": "map_78_a_png"
+    },
+    {
+      "type": "image",
+      "url": "map_78_b.png",
+      "name": "map_78_b_png"
+    },
+    {
+      "type": "image",
+      "url": "map_78_top_mc.png",
+      "name": "map_78_top_mc_png"
+    }
+  ]
+}

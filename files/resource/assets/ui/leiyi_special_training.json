@@ -1,0 +1,36 @@
+{
+  "groups": [
+    {
+      "name": "leiyi_special_training",
+      "keys": "leiyi_special_training_sheet,lytx_atlas,lytx_json,leiyi_special_training_bg_jpg,lytx_png"
+    }
+  ],
+  "resources": [
+    {
+      "name": "lytx_atlas",
+      "type": "text",
+      "url": "leiyi_special_training/outside/lytx.atlas"
+    },
+    {
+      "name": "lytx_json",
+      "type": "json",
+      "url": "leiyi_special_training/outside/lytx.json"
+    },
+    {
+      "name": "leiyi_special_training_bg_jpg",
+      "type": "image",
+      "url": "leiyi_special_training/outside/leiyi_special_training_bg.jpg"
+    },
+    {
+      "name": "lytx_png",
+      "type": "image",
+      "url": "leiyi_special_training/outside/lytx.png"
+    },
+    {
+      "name": "leiyi_special_training_sheet",
+      "type": "sheet",
+      "url": "leiyi_special_training/leiyi_special_training_sheet.json",
+      "subkeys": "leiyi_special_training_btn1_png,leiyi_special_training_btn2_png,leiyi_special_training_btnchallenge_png,leiyi_special_training_fight_attrtip_png,leiyi_special_training_fight_bag_png,leiyi_special_training_fight_cure_png,leiyi_special_training_fight_l1_png,leiyi_special_training_fight_l2_png,leiyi_special_training_fight_l3_png,leiyi_special_training_fight_l4_png,leiyi_special_training_fight_pet_png,leiyi_special_training_fight_r1_png,leiyi_special_training_fight_r2_png,leiyi_special_training_fight_r3_png,leiyi_special_training_fight_r4_png,leiyi_special_training_fight_r5_png,leiyi_special_training_fight_r6_png,leiyi_special_training_fight_skilltip_png,leiyi_special_training_fight_title_png,leiyi_special_training_haswin_png,leiyi_special_training_imgdone_png,leiyi_special_training_pet_png,leiyi_special_training_title_png"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "groups": [
+    {
+      "name": "contract_call",
+      "keys": "contract_call_sheet,qiyuezhaohuan_ui_atlas,qiyuezhaohuan_ui_json,cc_drawpanel_drawonebg_png,cc_panel1_bg_jpg,cc_panel2_bg_jpg,cc_panel3_bg2_png,cc_panel4_bg3_png,cc_result_pop_popbg_png,qiyuezhaohuan_ui_png"
+    }
+  ],
+  "resources": [
+    {
+      "name": "qiyuezhaohuan_ui_atlas",
+      "type": "text",
+      "url": "contract_call/outside/qiyuezhaohuan_ui.atlas"
+    },
+    {
+      "name": "qiyuezhaohuan_ui_json",
+      "type": "json",
+      "url": "contract_call/outside/qiyuezhaohuan_ui.json"
+    },
+    {
+      "name": "cc_drawpanel_drawonebg_png",
+      "type": "image",
+      "url": "contract_call/outside/cc_drawpanel_drawonebg.png"
+    },
+    {
+      "name": "cc_panel1_bg_jpg",
+      "type": "image",
+      "url": "contract_call/outside/cc_panel1_bg.jpg"
+    },
+    {
+      "name": "cc_panel2_bg_jpg",
+      "type": "image",
+      "url": "contract_call/outside/cc_panel2_bg.jpg"
+    },
+    {
+      "name": "cc_panel3_bg2_png",
+      "type": "image",
+      "url": "contract_call/outside/cc_panel3_bg2.png"
+    },
+    {
+      "name": "cc_panel4_bg3_png",
+      "type": "image",
+      "url": "contract_call/outside/cc_panel4_bg3.png"
+    },
+    {
+      "name": "cc_result_pop_popbg_png",
+      "type": "image",
+      "url": "contract_call/outside/cc_result_pop_popbg.png"
+    },
+    {
+      "name": "qiyuezhaohuan_ui_png",
+      "type": "image",
+      "url": "contract_call/outside/qiyuezhaohuan_ui.png"
+    },
+    {
+      "name": "contract_call_sheet",
+      "type": "sheet",
+      "url": "contract_call/contract_call_sheet.json",
+      "subkeys": "cc_btnrbdown_png,cc_btnrbup_png,cc_open_pop_bthui_png,cc_open_pop_btnzuan_png,cc_open_pop_l_kb_115_png,cc_open_pop_tc_11_kb_png,cc_open_pop_yhgg_png,cc_open_pop_zuanshi_png,cc_result_pop_yhgg_png,cc_skill_item_imgbg_png,cc_getitembtn_png,cc_panel1_getbtnbg_png,cc_panel1_iconbg_1_png,cc_panel1_iconbg_2_png,cc_panel1_icon_1_png,cc_panel1_icon_2_png,cc_panel1_icon_gold_png,cc_panel1_imge_add_png,cc_panel1_img_di2_png,contractpop_bgpage_png,contractpop_btndrawone_png,contractpop_btndrawten_png,contractpop_btnratepop_png,contractpop_itemicon_1_png,contractpop_itemicon_2_png,contractpop_itemicon_3_png,contractpop_itemicon_4_png,contractpop_itemicon_5_png,contractpop_rgihtmc_png,contractpop_title_png,contractpop_titletip_png,contractpop_uipage_png,cc_drawpanel_1_png,cc_drawpanel_2_png,cc_drawpanel_3_png,cc_drawpanel_titleone_png,cc_drawten_djds_png,cc_drawten_kuang_png,cc_drawten_z_6_kb_png,cc_friend_panel_btnbg_0_kb_4_png,cc_friend_panel_btndown_1_png,cc_friend_panel_countbg_png,cc_friend_panel_juxing_316_png,cc_friend_panel_juxing_897_png,cc_friend_panel_la_png,cc_friend_panel_left_png,cc_friend_panel_selected_png,cc_friend_panel_waikuang_xians9_png,cc_friend_panel_wlhb_png,cc_friend_panel_yhgg_png,cc_friend_panel_zu_6_png,ccccc_grouphave_gr_item_png,cc_openbtnimg_png,cc_panel1_1722826_png,cc_panel1_1722827_png,cc_panel1_btnadd_png,cc_panel1_btncheckeffect_png,cc_panel1_btndrawone_png,cc_panel1_btndrawten_png,cc_panel1_btnexchage_png,cc_panel1_btninfo_png,cc_panel1_btninfo2_png,cc_panel1_btnopeneffect_png,cc_panel1_buybtn_png,cc_panel1_exchangebtn_png,cc_panel1_icon_gold_png,cc_panel1_imge_flag_png,cc_panel1_imge_item_2_png,cc_panel1_imge_item_3_png,cc_panel1_imge_item_4_png,cc_panel1_imge_item_5_png,cc_panel1_imge_item_6_png,cc_panel1_imge_item_7_png,cc_panel1_imge_item_8_png,cc_panel1_imge_item_bg_png,cc_panel1_imge_item_big_bg_png,cc_panel1_imge_item_icon_0_png,cc_panel1_imge_item_icon_1_png,cc_panel1_imge_line_png,cc_panel1_imge_pet_0_png,cc_panel1_imge_pet_1_png,cc_panel1_imge_pet_2_png,cc_panel1_imge_small_item_bg_png,cc_panel1_imge_tankuang_bg_png,cc_panel1_imge_title_bg_png,cc_panel1_imge_tx_xxx_png,cc_panel1_imge_xuanzhong_png,cc_panel1_img_blue_reddot_png,cc_panel1_img_di2_png,cc_panel1_openbtn_png,cc_panel1_openImg_png,cc_panel1_panel1_buttombg_png,cc_panel1_panel1_change_png,cc_panel1_panel1_contentbg_png,cc_panel1_panel1_juxingline_png,cc_panel1_panel1_rbBg_png,cc_panel1_petinfobtn_0_png,cc_panel1_petinfobtn_1_png,cc_panel1_petinfobtn_2_png,cc_panel1_qysh_png,cc_panel1_yikaiqi_png,cc_panel1_zhankaibtn_down_png,cc_panel1_zhankaibtn_up_png,cc_panel1_zhaohuanbtn_png,cc__imge_flag_png,cc__imge_item_big_openbg_png,cc__zhankaibtn_down_png,cc__zhankaibtn_up_png,cc_friend_panel_yijian_png,cc_panel2_1_png,cc_panel2_2_png,cc_panel2_3_png,cc_panel2_4_png,cc_panel2_5_png,cc_panel2_6_png,cc_panel2_aycc_down_png,cc_panel2_aycc_up_png,cc_panel2_bigicon_png,cc_panel2_btnadd_png,cc_panel2_btnascurDraw_png,cc_panel2_btnassignfight_png,cc_panel2_btncure_png,cc_panel2_btndraw_png,cc_panel2_btnfight_png,cc_panel2_btngoto_png,cc_panel2_btninfo_png,cc_panel2_btnopen_png,cc_panel2_btnpet_png,cc_panel2_btnrefresh_png,cc_panel2_btnyijian_png,cc_panel2_cncc_down_png,cc_panel2_cncc_up_png,cc_panel2_ddcc_down_png,cc_panel2_ddcc_up_png,cc_panel2_fazhen_png,cc_panel2_hbxg_down_png,cc_panel2_hbxg_up_png,cc_panel2_hjhz_down_png,cc_panel2_hjhz_up_png,cc_panel2_icon1_png,cc_panel2_iconActive_png,cc_panel2_icon_gold_png,cc_panel2_img_di2_png,cc_panel2_juxing_901_png,cc_panel2_ldcc_down_png,cc_panel2_ldcc_up_png,cc_panel2_page2bg_png,cc_panel2_page2rigtbg_png,cc_panel2_page2_pet1_png,cc_panel2_page2_pet2_png,cc_panel2_page2_pet3_png,cc_panel2_page2_pet4_png,cc_panel2_page2_pet5_png,cc_panel2_page2_pet6_png,cc_panel2_petshowbg_png,cc_panel2_tuceng_516_png,cc_panel2_tuceng_551_png,cc_panel2_tuceng_555_png,cc_panel2_txtshow_png,cc_panel2_xzk_png,cc_panel2_zdcc_down_png,cc_panel2_zdcc_up_png,cc_panel2_zu_1_png,cc_panel3_btnadd_png,cc_panel3_btnbuyte_png,cc_panel3_btngetpet_png,cc_panel3_btninfo_png,cc_panel3_btnpanel3all_png,cc_panel3_futitle_png,cc_panel3_futitle1_png,cc_panel3_hasactivation_png,cc_panel3_hasget_png,cc_panel3_hasgetpet_png,cc_panel3_icon_gold_png,cc_panel3_img_di2_png,cc_panel3_panel3_title_png,cc_panel3_pet1_png,cc_panel3_pet2_png,cc_panel3_pet3_png,cc_panel3_pet4_png,cc_panel4_btn128_png,cc_panel4_btn98_png,cc_panel4_futitle_png,cc_panel4_pet1_png,cc_panel4_pet2_png,cc_panel4_pet3_png,cc_panel4_pet4_png,cc_panel4_title_png,cc_sanguo_down_1_png,cc_sanguo_guan_png,cc_sanguo_jcxg_png,cc_sanguo_jhxg_png,cc_sanguo_juxing_316_png,cc_sanguo_la_kaobei__png,cc_sanguo_liu_png,cc_sanguo_xz_24_kb_3_png,cc_sanguo_yhgg_png,cc_sanguo_zgwl_png,cc_sanguo_zhang_png,cc_sanguo_zu_69_png"
+    }
+  ]
+}

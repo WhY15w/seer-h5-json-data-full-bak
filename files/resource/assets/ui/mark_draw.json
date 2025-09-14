@@ -1,0 +1,36 @@
+{
+  "groups": [
+    {
+      "name": "mark_draw",
+      "keys": "mark_draw_sheet,kapai_ske_json,kapai_tex_json,kapai_tex_png,markDraw_main_panel_newbg_jpg"
+    }
+  ],
+  "resources": [
+    {
+      "name": "kapai_ske_json",
+      "type": "json",
+      "url": "mark_draw/outside/kapai_ske.json"
+    },
+    {
+      "name": "kapai_tex_json",
+      "type": "json",
+      "url": "mark_draw/outside/kapai_tex.json"
+    },
+    {
+      "name": "kapai_tex_png",
+      "type": "image",
+      "url": "mark_draw/outside/kapai_tex.png"
+    },
+    {
+      "name": "markDraw_main_panel_newbg_jpg",
+      "type": "image",
+      "url": "mark_draw/outside/markDraw_main_panel_newbg.jpg"
+    },
+    {
+      "name": "mark_draw_sheet",
+      "type": "sheet",
+      "url": "mark_draw/mark_draw_sheet.json",
+      "subkeys": "markDraw_main_panel_2_light_1_png,markDraw_main_panel_2_light_2_png,markDraw_main_panel_2_light_3_png,markDraw_main_panel_2_light_4_png,markDraw_main_panel_2_line2_png,markDraw_main_panel_btnAdd_png,markDraw_main_panel_btnFight_png,markDraw_main_panel_btnGet_1_png,markDraw_main_panel_btnGet_2_png,markDraw_main_panel_btnInfo_png,markDraw_main_panel_card1_png,markDraw_main_panel_card2_png,markDraw_main_panel_card3_png,markDraw_main_panel_card4_png,markDraw_main_panel_icon_gold_png,markDraw_main_panel_icon_right_png,markDraw_main_panel_icon_seer_png,markDraw_main_panel_img_di2_png,markDraw_main_panel_img_xuanze_png,markDraw_main_panel_righttopbg_png,markDraw_main_panel_title_png,markDraw_main_panel_tomorrow_png,markDraw_main_panel_topbg_png,markDraw_popMarkGet_btnClose_png,markDraw_popMarkGet_btnLingqu_png,markDraw_popMarkGet_kuang_png,markDraw_popMarkGet_namebg_png,markDraw_popMarkGet_popGetbg_s9_png,markDraw_popMarkGet_popGetTitle_png,markDraw_show_mark_pop_bg_s9_png,markDraw_show_mark_pop_keyinbg_png,markDraw_show_mark_pop_line_png,markDraw_show_mark_pop_markLine_png,markDraw_show_mark_pop_markLine2_png"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "groups": [
+    {
+      "keys": "road_787,exml_787,map_787_bg_mc_jpg",
+      "name": "map_787"
+    }
+  ],
+  "resources": [
+    {
+      "type": "json",
+      "url": "787.json",
+      "name": "road_787"
+    },
+    {
+      "type": "text",
+      "url": "Map787Skin.exml",
+      "name": "exml_787"
+    },
+    {
+      "type": "image",
+      "url": "map_787_bg_mc.jpg",
+      "name": "map_787_bg_mc_jpg"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "groups": [
+    {
+      "name": "kappa_travel",
+      "keys": "kappa_travel_sheet,kappa_travel_bg_jpg,kappa_travel_pop_imgmap1_jpg,kappa_travel_pop_imgmap2_jpg,kappa_travel_pop_imgmap3_jpg,kappa_travel_pop_imgmap4_jpg,kappa_travel_pop_imgmap5_jpg"
+    }
+  ],
+  "resources": [
+    {
+      "name": "kappa_travel_bg_jpg",
+      "type": "image",
+      "url": "kappa_travel/outside/kappa_travel_bg.jpg"
+    },
+    {
+      "name": "kappa_travel_pop_imgmap1_jpg",
+      "type": "image",
+      "url": "kappa_travel/outside/kappa_travel_pop_imgmap1.jpg"
+    },
+    {
+      "name": "kappa_travel_pop_imgmap2_jpg",
+      "type": "image",
+      "url": "kappa_travel/outside/kappa_travel_pop_imgmap2.jpg"
+    },
+    {
+      "name": "kappa_travel_pop_imgmap3_jpg",
+      "type": "image",
+      "url": "kappa_travel/outside/kappa_travel_pop_imgmap3.jpg"
+    },
+    {
+      "name": "kappa_travel_pop_imgmap4_jpg",
+      "type": "image",
+      "url": "kappa_travel/outside/kappa_travel_pop_imgmap4.jpg"
+    },
+    {
+      "name": "kappa_travel_pop_imgmap5_jpg",
+      "type": "image",
+      "url": "kappa_travel/outside/kappa_travel_pop_imgmap5.jpg"
+    },
+    {
+      "name": "kappa_travel_sheet",
+      "type": "sheet",
+      "url": "kappa_travel/kappa_travel_sheet.json",
+      "subkeys": "kappa_travel_bg_png,kappa_travel_btnget_png,kappa_travel_btnhelp_png,kappa_travel_btninfo_png,kappa_travel_imgdoing_png,kappa_travel_imgfinish_png,kappa_travel_imghas_png,kappa_travel_imgitem1_png,kappa_travel_imgitem2_png,kappa_travel_imgitem3_png,kappa_travel_imgitem4_png,kappa_travel_imgitem5_png,kappa_travel_imgitembg_png,kappa_travel_pop_bg_png,kappa_travel_pop_btnget_png,kappa_travel_pop_img1_png,kappa_travel_pop_imgtitle1_png,kappa_travel_pop_imgtitle2_png,kappa_travel_pop_imgtitle3_png,kappa_travel_pop_imgtitle4_png,kappa_travel_pop_imgtitle5_png"
+    }
+  ]
+}

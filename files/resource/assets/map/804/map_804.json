@@ -1,0 +1,35 @@
+{
+  "groups": [
+    {
+      "keys": "road_804,exml_804,map_804_bg_mc_jpg,map_804_activeStone_png,map_804_gaerwaafs_png",
+      "name": "map_804"
+    }
+  ],
+  "resources": [
+    {
+      "url": "804.json",
+      "type": "json",
+      "name": "road_804"
+    },
+    {
+      "url": "Map804Skin.exml",
+      "type": "text",
+      "name": "exml_804"
+    },
+    {
+      "url": "map_804_bg_mc.jpg",
+      "type": "image",
+      "name": "map_804_bg_mc_jpg"
+    },
+    {
+      "url": "map_804_activeStone.png",
+      "type": "image",
+      "name": "map_804_activeStone_png"
+    },
+    {
+      "url": "map_804_gaerwaafs.png",
+      "type": "image",
+      "name": "map_804_gaerwaafs_png"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "groups": [
+    {
+      "keys": "road_731,exml_731,map_731_bg_mc_jpg,map_731_top_mc_png",
+      "name": "map_731"
+    }
+  ],
+  "resources": [
+    {
+      "type": "json",
+      "url": "731.json",
+      "name": "road_731"
+    },
+    {
+      "type": "text",
+      "url": "Map731Skin.exml",
+      "name": "exml_731"
+    },
+    {
+      "type": "image",
+      "url": "map_731_bg_mc.jpg",
+      "name": "map_731_bg_mc_jpg"
+    },
+    {
+      "type": "image",
+      "url": "map_731_top_mc.png",
+      "name": "map_731_top_mc_png"
+    }
+  ]
+}

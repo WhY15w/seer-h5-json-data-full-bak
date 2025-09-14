@@ -1,0 +1,555 @@
+{
+  "file": "girod_rabid_panel_sheet.png",
+  "frames": {
+    "girod_rabid_panel_btninfo_png": {
+      "x": 351,
+      "y": 91,
+      "w": 94,
+      "h": 75,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 94,
+      "sourceH": 75
+    },
+    "girod_rabid_panel_btnone1_png": {
+      "x": 236,
+      "y": 204,
+      "w": 102,
+      "h": 102,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 102,
+      "sourceH": 102
+    },
+    "girod_rabid_panel_btnone2_png": {
+      "x": 340,
+      "y": 204,
+      "w": 102,
+      "h": 102,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 102,
+      "sourceH": 102
+    },
+    "girod_rabid_panel_btnone3_png": {
+      "x": 919,
+      "y": 1,
+      "w": 102,
+      "h": 102,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 102,
+      "sourceH": 102
+    },
+    "girod_rabid_panel_get_item_btn2_png": {
+      "x": 351,
+      "y": 168,
+      "w": 87,
+      "h": 34,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 87,
+      "sourceH": 34
+    },
+    "girod_rabid_panel_get_item_dropbg_png": {
+      "x": 513,
+      "y": 134,
+      "w": 241,
+      "h": 62,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 241,
+      "sourceH": 62
+    },
+    "girod_rabid_panel_get_item_icon_png": {
+      "x": 992,
+      "y": 164,
+      "w": 23,
+      "h": 27,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 23,
+      "sourceH": 27
+    },
+    "girod_rabid_panel_get_item_item4bg_png": {
+      "x": 714,
+      "y": 326,
+      "w": 227,
+      "h": 33,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 227,
+      "sourceH": 33
+    },
+    "girod_rabid_panel_get_item_title1_png": {
+      "x": 739,
+      "y": 199,
+      "w": 259,
+      "h": 44,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 259,
+      "sourceH": 44
+    },
+    "girod_rabid_panel_get_item_txtbg2_png": {
+      "x": 735,
+      "y": 432,
+      "w": 210,
+      "h": 24,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 210,
+      "sourceH": 24
+    },
+    "girod_rabid_panel_got_png": {
+      "x": 264,
+      "y": 323,
+      "w": 199,
+      "h": 41,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 199,
+      "sourceH": 41
+    },
+    "girod_rabid_panel_hmzl_png": {
+      "x": 1,
+      "y": 1,
+      "w": 223,
+      "h": 88,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 223,
+      "sourceH": 88
+    },
+    "girod_rabid_panel_imaback_png": {
+      "x": 992,
+      "y": 132,
+      "w": 21,
+      "h": 30,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 21,
+      "sourceH": 30
+    },
+    "girod_rabid_panel_krzl_png": {
+      "x": 226,
+      "y": 1,
+      "w": 223,
+      "h": 88,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 223,
+      "sourceH": 88
+    },
+    "girod_rabid_panel_level1_btn21_png": {
+      "x": 671,
+      "y": 481,
+      "w": 87,
+      "h": 34,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 87,
+      "sourceH": 34
+    },
+    "girod_rabid_panel_level1_btnonekey_png": {
+      "x": 660,
+      "y": 68,
+      "w": 235,
+      "h": 64,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 235,
+      "sourceH": 64
+    },
+    "girod_rabid_panel_level1_imgbtn_cure_png": {
+      "x": 545,
+      "y": 466,
+      "w": 61,
+      "h": 61,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 61,
+      "sourceH": 61
+    },
+    "girod_rabid_panel_level1_imgbtn_pet_png": {
+      "x": 608,
+      "y": 466,
+      "w": 61,
+      "h": 61,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 61,
+      "sourceH": 61
+    },
+    "girod_rabid_panel_level1_rebg_png": {
+      "x": 739,
+      "y": 245,
+      "w": 281,
+      "h": 33,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 281,
+      "sourceH": 33
+    },
+    "girod_rabid_panel_level1_title1_png": {
+      "x": 739,
+      "y": 280,
+      "w": 200,
+      "h": 44,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 200,
+      "sourceH": 44
+    },
+    "girod_rabid_panel_level1_tuceng_5_png": {
+      "x": 513,
+      "y": 1,
+      "w": 145,
+      "h": 128,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 145,
+      "sourceH": 128
+    },
+    "girod_rabid_panel_level1_use_png": {
+      "x": 323,
+      "y": 476,
+      "w": 159,
+      "h": 22,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 159,
+      "sourceH": 22
+    },
+    "girod_rabid_panel_level2_btn1_png": {
+      "x": 756,
+      "y": 134,
+      "w": 234,
+      "h": 63,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 234,
+      "sourceH": 63
+    },
+    "girod_rabid_panel_level2_btn2_png": {
+      "x": 1,
+      "y": 157,
+      "w": 233,
+      "h": 63,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 234,
+      "sourceH": 63
+    },
+    "girod_rabid_panel_level2_btnonekey_png": {
+      "x": 1,
+      "y": 91,
+      "w": 235,
+      "h": 64,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 235,
+      "sourceH": 64
+    },
+    "girod_rabid_panel_level2_juxing_14_png": {
+      "x": 451,
+      "y": 1,
+      "w": 60,
+      "h": 320,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 60,
+      "sourceH": 320
+    },
+    "girod_rabid_panel_level2_numbg_png": {
+      "x": 660,
+      "y": 1,
+      "w": 257,
+      "h": 65,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 257,
+      "sourceH": 65
+    },
+    "girod_rabid_panel_level2_rec_png": {
+      "x": 465,
+      "y": 357,
+      "w": 227,
+      "h": 33,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 227,
+      "sourceH": 33
+    },
+    "girod_rabid_panel_level2_rec2_png": {
+      "x": 694,
+      "y": 361,
+      "w": 227,
+      "h": 33,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 227,
+      "sourceH": 33
+    },
+    "girod_rabid_panel_level2_title1_png": {
+      "x": 63,
+      "y": 308,
+      "w": 199,
+      "h": 44,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 199,
+      "sourceH": 44
+    },
+    "girod_rabid_panel_level2_tuceng_4_png": {
+      "x": 897,
+      "y": 105,
+      "w": 118,
+      "h": 25,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 118,
+      "sourceH": 25
+    },
+    "girod_rabid_panel_level2_xh_png": {
+      "x": 1,
+      "y": 390,
+      "w": 243,
+      "h": 29,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 243,
+      "sourceH": 29
+    },
+    "girod_rabid_panel_mas_png": {
+      "x": 1,
+      "y": 222,
+      "w": 60,
+      "h": 154,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 60,
+      "sourceH": 154
+    },
+    "girod_rabid_panel_up_add_png": {
+      "x": 1000,
+      "y": 193,
+      "w": 21,
+      "h": 21,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 21,
+      "sourceH": 21
+    },
+    "girod_rabid_panel_up_bg_png": {
+      "x": 63,
+      "y": 222,
+      "w": 146,
+      "h": 50,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 146,
+      "sourceH": 50
+    },
+    "girod_rabid_panel_up_btneasy_png": {
+      "x": 409,
+      "y": 428,
+      "w": 134,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 134,
+      "sourceH": 46
+    },
+    "girod_rabid_panel_up_btnhard_png": {
+      "x": 1,
+      "y": 421,
+      "w": 134,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 134,
+      "sourceH": 46
+    },
+    "girod_rabid_panel_up_btnmid_png": {
+      "x": 137,
+      "y": 424,
+      "w": 134,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 134,
+      "sourceH": 46
+    },
+    "girod_rabid_panel_up_exchange_png": {
+      "x": 273,
+      "y": 424,
+      "w": 134,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 134,
+      "sourceH": 46
+    },
+    "girod_rabid_panel_up_got_png": {
+      "x": 760,
+      "y": 481,
+      "w": 110,
+      "h": 23,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 110,
+      "sourceH": 23
+    },
+    "girod_rabid_panel_up_icon_jinneg_png": {
+      "x": 238,
+      "y": 91,
+      "w": 111,
+      "h": 111,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 111,
+      "sourceH": 111
+    },
+    "girod_rabid_panel_up_icon_keyin_png": {
+      "x": 513,
+      "y": 198,
+      "w": 111,
+      "h": 111,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 111,
+      "sourceH": 111
+    },
+    "girod_rabid_panel_up_icon_texing_png": {
+      "x": 626,
+      "y": 198,
+      "w": 111,
+      "h": 111,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 111,
+      "sourceH": 111
+    },
+    "girod_rabid_panel_up_line1_png": {
+      "x": 447,
+      "y": 392,
+      "w": 182,
+      "h": 34,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 182,
+      "sourceH": 34
+    },
+    "girod_rabid_panel_up_line2_png": {
+      "x": 631,
+      "y": 396,
+      "w": 182,
+      "h": 34,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 182,
+      "sourceH": 34
+    },
+    "girod_rabid_panel_up_line3_png": {
+      "x": 815,
+      "y": 396,
+      "w": 182,
+      "h": 34,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 182,
+      "sourceH": 34
+    },
+    "girod_rabid_panel_up_rightbg_png": {
+      "x": 999,
+      "y": 280,
+      "w": 12,
+      "h": 360,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 12,
+      "sourceH": 360
+    },
+    "girod_rabid_panel_up_righttop_png": {
+      "x": 246,
+      "y": 390,
+      "w": 199,
+      "h": 32,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 199,
+      "sourceH": 32
+    },
+    "girod_rabid_panel_up_title1_png": {
+      "x": 513,
+      "y": 311,
+      "w": 199,
+      "h": 44,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 199,
+      "sourceH": 44
+    },
+    "girod_rabid_panel_up_txtbg1_png": {
+      "x": 545,
+      "y": 432,
+      "w": 188,
+      "h": 32,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 188,
+      "sourceH": 32
+    },
+    "girod_rabid_panel_up_txtbg2_png": {
+      "x": 735,
+      "y": 458,
+      "w": 209,
+      "h": 21,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 209,
+      "sourceH": 21
+    },
+    "girod_rabid_panel_up_txtbg3_png": {
+      "x": 63,
+      "y": 274,
+      "w": 159,
+      "h": 22,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 159,
+      "sourceH": 22
+    },
+    "girod_rabid_panel_up_txtbg4_png": {
+      "x": 1,
+      "y": 472,
+      "w": 159,
+      "h": 22,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 159,
+      "sourceH": 22
+    },
+    "girod_rabid_panel_up_txtbg5_png": {
+      "x": 162,
+      "y": 472,
+      "w": 159,
+      "h": 22,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 159,
+      "sourceH": 22
+    },
+    "girod_rabid_panel_up_vip_png": {
+      "x": 63,
+      "y": 366,
+      "w": 329,
+      "h": 22,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 329,
+      "sourceH": 22
+    }
+  }
+}

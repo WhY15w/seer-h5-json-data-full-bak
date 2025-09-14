@@ -1,0 +1,86 @@
+{
+  "groups": [
+    {
+      "name": "sheng_ting_reay",
+      "keys": "sheng_ting_reay_sheet,puni_atlas,puni_json,zhongjishilian_atlas,zhongjishilian_json,puni_png,sheng_ting_reay_award_pop_imgbg_png,sheng_ting_reay_best_pop_imgbg_png,sheng_ting_reay_level1_panel_bg_jpg,sheng_ting_reay_level1_panel_img_png,sheng_ting_reay_level2_panel_imgreay_png,sheng_ting_reay_level3_panel_imgpuni_png,sheng_ting_reay_level4_panel_imgbg_png,sheng_ting_reay_main_panel_bg_jpg,zhongjishilian_png"
+    }
+  ],
+  "resources": [
+    {
+      "name": "puni_atlas",
+      "type": "text",
+      "url": "sheng_ting_reay/outside/puni.atlas"
+    },
+    {
+      "name": "puni_json",
+      "type": "json",
+      "url": "sheng_ting_reay/outside/puni.json"
+    },
+    {
+      "name": "zhongjishilian_atlas",
+      "type": "text",
+      "url": "sheng_ting_reay/outside/zhongjishilian.atlas"
+    },
+    {
+      "name": "zhongjishilian_json",
+      "type": "json",
+      "url": "sheng_ting_reay/outside/zhongjishilian.json"
+    },
+    {
+      "name": "puni_png",
+      "type": "image",
+      "url": "sheng_ting_reay/outside/puni.png"
+    },
+    {
+      "name": "sheng_ting_reay_award_pop_imgbg_png",
+      "type": "image",
+      "url": "sheng_ting_reay/outside/sheng_ting_reay_award_pop_imgbg.png"
+    },
+    {
+      "name": "sheng_ting_reay_best_pop_imgbg_png",
+      "type": "image",
+      "url": "sheng_ting_reay/outside/sheng_ting_reay_best_pop_imgbg.png"
+    },
+    {
+      "name": "sheng_ting_reay_level1_panel_bg_jpg",
+      "type": "image",
+      "url": "sheng_ting_reay/outside/sheng_ting_reay_level1_panel_bg.jpg"
+    },
+    {
+      "name": "sheng_ting_reay_level1_panel_img_png",
+      "type": "image",
+      "url": "sheng_ting_reay/outside/sheng_ting_reay_level1_panel_img.png"
+    },
+    {
+      "name": "sheng_ting_reay_level2_panel_imgreay_png",
+      "type": "image",
+      "url": "sheng_ting_reay/outside/sheng_ting_reay_level2_panel_imgreay.png"
+    },
+    {
+      "name": "sheng_ting_reay_level3_panel_imgpuni_png",
+      "type": "image",
+      "url": "sheng_ting_reay/outside/sheng_ting_reay_level3_panel_imgpuni.png"
+    },
+    {
+      "name": "sheng_ting_reay_level4_panel_imgbg_png",
+      "type": "image",
+      "url": "sheng_ting_reay/outside/sheng_ting_reay_level4_panel_imgbg.png"
+    },
+    {
+      "name": "sheng_ting_reay_main_panel_bg_jpg",
+      "type": "image",
+      "url": "sheng_ting_reay/outside/sheng_ting_reay_main_panel_bg.jpg"
+    },
+    {
+      "name": "zhongjishilian_png",
+      "type": "image",
+      "url": "sheng_ting_reay/outside/zhongjishilian.png"
+    },
+    {
+      "name": "sheng_ting_reay_sheet",
+      "type": "sheet",
+      "url": "sheng_ting_reay/sheng_ting_reay_sheet.json",
+      "subkeys": "sheng_ting_reay_award_pop_btnclose_png,sheng_ting_reay_award_pop_btnok_png,sheng_ting_reay_best_pop_btnadddiamond_png,sheng_ting_reay_best_pop_btnbuy_png,sheng_ting_reay_best_pop_btnclose_png,sheng_ting_reay_best_pop_btnnature_png,sheng_ting_reay_level1_panel_btnonekey_png,sheng_ting_reay_level1_panel_imgtitle_png,sheng_ting_reay_level2_panel_btnaddtimes_png,sheng_ting_reay_level2_panel_btncure_png,sheng_ting_reay_level2_panel_btnfastfight1_png,sheng_ting_reay_level2_panel_btnfight1_png,sheng_ting_reay_level2_panel_btnpet_png,sheng_ting_reay_level2_panel_imgboss1_png,sheng_ting_reay_level2_panel_imgboss2_png,sheng_ting_reay_level2_panel_imgboss3_png,sheng_ting_reay_level2_panel_imgfinish1_png,sheng_ting_reay_level2_panel_imgprogress_png,sheng_ting_reay_level2_panel_imgtitle_png,sheng_ting_reay_level3_panel_btnfastfgiht_png,sheng_ting_reay_level3_panel_btnonekey_png,sheng_ting_reay_level3_panel_btnrefine_png,sheng_ting_reay_level3_panel_imgitem1_png,sheng_ting_reay_level3_panel_imgitem2_png,sheng_ting_reay_level3_panel_imgitem3_png,sheng_ting_reay_level3_panel_imgitembg_png,sheng_ting_reay_level3_panel_imgmax1_png,sheng_ting_reay_level3_panel_imgmax2_png,sheng_ting_reay_level3_panel_imgmax3_png,sheng_ting_reay_level3_panel_imgprogress_png,sheng_ting_reay_level3_panel_imgprogressbg_png,sheng_ting_reay_level3_panel_imgringprogress_png,sheng_ting_reay_level3_panel_imgtitle_png,sheng_ting_reay_level3_panel_txttop_png,sheng_ting_reay_level4_panel_btnfight_png,sheng_ting_reay_level4_panel_btnfight1_png,sheng_ting_reay_level4_panel_imgprogress1_png,sheng_ting_reay_level4_panel_imgprogress2_png,sheng_ting_reay_level4_panel_imgprogress3_png,sheng_ting_reay_level4_panel_imgprogress4_png,sheng_ting_reay_level4_panel_imgprogressbg1_png,sheng_ting_reay_level4_panel_imgprogressbg2_png,sheng_ting_reay_level4_panel_imgprogresstxt_png,sheng_ting_reay_level4_panel_imgtitle_png,sheng_ting_reay_level4_panel_imgtxt_png,sheng_ting_reay_main_panel_btnbest_png,sheng_ting_reay_main_panel_btnblue_png,sheng_ting_reay_main_panel_btncollect_png,sheng_ting_reay_main_panel_btncollected_png,sheng_ting_reay_main_panel_btnget_png,sheng_ting_reay_main_panel_btninfo_png,sheng_ting_reay_main_panel_btnsuperget_png,sheng_ting_reay_main_panel_btnup_png,sheng_ting_reay_main_panel_btnyellow_png,sheng_ting_reay_main_panel_imgfinish1_png,sheng_ting_reay_main_panel_imghaspet_png,sheng_ting_reay_main_panel_imghasup_png,sheng_ting_reay_main_panel_imgtitle_png,sheng_ting_reay_main_panel_imgtxt_png,sheng_ting_reay_main_panel_imgtxt1_png,sheng_ting_reay_main_panel_imgtxt2_png,sheng_ting_reay_main_panel_imgtxt3_png,sheng_ting_reay_main_panel_imgtxt4_png,sheng_ting_reay_up_panel_btnonekeybuy_png,sheng_ting_reay_up_panel_btnup_png,sheng_ting_reay_up_panel_imgeffect_png,sheng_ting_reay_up_panel_imgfight_png,sheng_ting_reay_up_panel_imgitem_png,sheng_ting_reay_up_panel_imgmark_png,sheng_ting_reay_up_panel_imgskill_png,sheng_ting_reay_up_panel_imgtitle_png,sheng_ting_reay_up_panel_imgtop_png,sheng_ting_reay_up_panel_imgupbg_png,sheng_ting_reay_up_panel_imgupbg1_png"
+    }
+  ]
+}

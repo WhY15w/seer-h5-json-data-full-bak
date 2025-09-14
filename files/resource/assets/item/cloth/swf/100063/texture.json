@@ -1,0 +1,41 @@
+{
+  "SubTexture": [
+    {
+      "name": "top_01",
+      "x": 53,
+      "width": 56,
+      "y": 37,
+      "height": 27
+    },
+    {
+      "name": "top_02",
+      "x": 55,
+      "width": 54,
+      "y": 65,
+      "height": 28
+    },
+    {
+      "name": "top_03",
+      "x": 0,
+      "width": 54,
+      "y": 65,
+      "height": 28
+    },
+    {
+      "name": "top_04",
+      "x": 53,
+      "width": 50,
+      "y": 0,
+      "height": 36
+    },
+    {
+      "name": "top_05",
+      "x": 0,
+      "width": 52,
+      "y": 0,
+      "height": 37
+    }
+  ],
+  "name": 100063,
+  "imagePath": "texture.png"
+}

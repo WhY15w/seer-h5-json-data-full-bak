@@ -1,0 +1,96 @@
+{
+  "groups": [
+    {
+      "name": "entry",
+      "keys": "entry_sheet,driver_json,denglujindutiao_atlas,denglujindutiao_json,dianjifankui_atlas,dianjifankui_json,loading_atlas,loading_json,loading_ske_json,loading_tex_json,nonocemian_ske_json,nonocemian_tex_json,denglujindutiao_png,dianjifankui_png,loading_png,loading_tex_png,nonocemian_tex_png"
+    }
+  ],
+  "resources": [
+    {
+      "name": "driver_json",
+      "type": "json",
+      "url": "entry/driver.json"
+    },
+    {
+      "name": "denglujindutiao_atlas",
+      "type": "text",
+      "url": "entry/outside/denglujindutiao.atlas"
+    },
+    {
+      "name": "denglujindutiao_json",
+      "type": "json",
+      "url": "entry/outside/denglujindutiao.json"
+    },
+    {
+      "name": "dianjifankui_atlas",
+      "type": "text",
+      "url": "entry/outside/dianjifankui.atlas"
+    },
+    {
+      "name": "dianjifankui_json",
+      "type": "json",
+      "url": "entry/outside/dianjifankui.json"
+    },
+    {
+      "name": "loading_atlas",
+      "type": "text",
+      "url": "entry/outside/loading.atlas"
+    },
+    {
+      "name": "loading_json",
+      "type": "json",
+      "url": "entry/outside/loading.json"
+    },
+    {
+      "name": "loading_ske_json",
+      "type": "json",
+      "url": "entry/outside/loading_ske.json"
+    },
+    {
+      "name": "loading_tex_json",
+      "type": "json",
+      "url": "entry/outside/loading_tex.json"
+    },
+    {
+      "name": "nonocemian_ske_json",
+      "type": "json",
+      "url": "entry/outside/nonocemian_ske.json"
+    },
+    {
+      "name": "nonocemian_tex_json",
+      "type": "json",
+      "url": "entry/outside/nonocemian_tex.json"
+    },
+    {
+      "name": "denglujindutiao_png",
+      "type": "image",
+      "url": "entry/outside/denglujindutiao.png"
+    },
+    {
+      "name": "dianjifankui_png",
+      "type": "image",
+      "url": "entry/outside/dianjifankui.png"
+    },
+    {
+      "name": "loading_png",
+      "type": "image",
+      "url": "entry/outside/loading.png"
+    },
+    {
+      "name": "loading_tex_png",
+      "type": "image",
+      "url": "entry/outside/loading_tex.png"
+    },
+    {
+      "name": "nonocemian_tex_png",
+      "type": "image",
+      "url": "entry/outside/nonocemian_tex.png"
+    },
+    {
+      "name": "entry_sheet",
+      "type": "sheet",
+      "url": "entry/entry_sheet.json",
+      "subkeys": "alarm_btnCancel_small_png,alarm_btnOk_small_png,border_png,button_down_png,button_up_png,checkbox_select_disabled_png,checkbox_select_down_png,checkbox_select_up_png,checkbox_unselect_png,handle_png,header_png,off_png,on_png,radiobutton_select_disabled_png,radiobutton_select_down_png,radiobutton_select_up_png,radiobutton_unselect_png,roundthumb_png,selected_png,thumb_png,thumb_pb_png,track_png,tracklight_png,track_pb_png,track_sb_png,common_btn_bg_blue_png,common_btn_bg_blue_2_png,common_btn_bg_yellow_png,common_btn_bg_yellow_2_png,common_close_1_png,common_dialog_btnclose_png,common_dialog_btnok_png,common_dialog_s9_pop_bg4_png,common_pop_btn_close_png,common_pop_title_big_png,common_pop_title_medium_png,common_pop_title_samll_png,common_pop_up_bg_big_png,common_pop_up_bg_huge_png,common_pop_up_bg_m_png,help_Pop_title_help_png,loading_bar_png,loading_bar_bg_png,loading_bar_bg_new_png,loading_bar_new_png,loading_bg_png,loading_light_png,alert_BG_s_png,alert_BG_s9_png,common_bubbler_bg_png,common_bubble_bg_png,common_mask_bg_s9_png,common_pop_point_png,common_s9_pop_bg1_png,common_s9_pop_bg2_png,common_s9_pop_bg3_png,common_s9_pop_bg4_png,common_s9_pop_leftbg_png,teen_limit_pop_bg_png,teen_limit_pop_btnOk_png,true_name_pop_bg_png,true_name_pop_btnGo_png"
+    }
+  ]
+}

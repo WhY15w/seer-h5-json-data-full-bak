@@ -1,0 +1,35 @@
+{
+  "file": "room_visitor_info_pop_sheet.png",
+  "frames": {
+    "room_visitor_info_pop_close_png": {
+      "x": 90,
+      "y": 1,
+      "w": 34,
+      "h": 33,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 34,
+      "sourceH": 33
+    },
+    "room_visitor_info_pop_liked_png": {
+      "x": 90,
+      "y": 36,
+      "w": 15,
+      "h": 13,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 15,
+      "sourceH": 13
+    },
+    "room_visitor_info_pop_visit_png": {
+      "x": 1,
+      "y": 1,
+      "w": 87,
+      "h": 35,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 87,
+      "sourceH": 35
+    }
+  }
+}

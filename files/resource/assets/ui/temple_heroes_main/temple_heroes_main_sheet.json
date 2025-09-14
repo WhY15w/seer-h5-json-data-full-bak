@@ -1,0 +1,115 @@
+{
+  "file": "temple_heroes_main_sheet.png",
+  "frames": {
+    "temple_heroes_main_backbg_png": {
+      "x": 1,
+      "y": 302,
+      "w": 285,
+      "h": 76,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 285,
+      "sourceH": 76
+    },
+    "temple_heroes_main_btnback_png": {
+      "x": 889,
+      "y": 233,
+      "w": 103,
+      "h": 31,
+      "offX": 0,
+      "offY": 4,
+      "sourceW": 103,
+      "sourceH": 39
+    },
+    "temple_heroes_main_herosbg_png": {
+      "x": 518,
+      "y": 185,
+      "w": 247,
+      "h": 145,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 247,
+      "sourceH": 145
+    },
+    "temple_heroes_main_img_buy_png": {
+      "x": 288,
+      "y": 302,
+      "w": 192,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 192,
+      "sourceH": 46
+    },
+    "temple_heroes_main_img_curHero_png": {
+      "x": 767,
+      "y": 185,
+      "w": 120,
+      "h": 230,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 120,
+      "sourceH": 230
+    },
+    "temple_heroes_main_img_next_png": {
+      "x": 288,
+      "y": 350,
+      "w": 140,
+      "h": 48,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 140,
+      "sourceH": 48
+    },
+    "temple_heroes_main_pop_bg_png": {
+      "x": 1,
+      "y": 1,
+      "w": 515,
+      "h": 299,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 515,
+      "sourceH": 299
+    },
+    "temple_heroes_main_pop_btnclose_png": {
+      "x": 889,
+      "y": 185,
+      "w": 134,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 134,
+      "sourceH": 46
+    },
+    "temple_heroes_main_pop_next_png": {
+      "x": 518,
+      "y": 1,
+      "w": 435,
+      "h": 182,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 435,
+      "sourceH": 182
+    },
+    "temple_heroes_main_pop_title_png": {
+      "x": 482,
+      "y": 332,
+      "w": 230,
+      "h": 37,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 230,
+      "sourceH": 37
+    },
+    "temple_heroes_main_tips_png": {
+      "x": 955,
+      "y": 1,
+      "w": 24,
+      "h": 28,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 24,
+      "sourceH": 28
+    }
+  }
+}

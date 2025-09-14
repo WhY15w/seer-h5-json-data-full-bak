@@ -1,0 +1,45 @@
+{
+  "groups": [
+    {
+      "keys": "road_340,exml_340,map_340_bg_mc_jpg,map_340_animator_mc_png,map_340_qianjing_png,map_340_zhuzizz_png,map_340_control_mc_png",
+      "name": "map_340"
+    }
+  ],
+  "resources": [
+    {
+      "type": "json",
+      "url": "340.json",
+      "name": "road_340"
+    },
+    {
+      "type": "text",
+      "url": "Map340Skin.exml",
+      "name": "exml_340"
+    },
+    {
+      "type": "image",
+      "url": "map_340_bg_mc.jpg",
+      "name": "map_340_bg_mc_jpg"
+    },
+    {
+      "type": "image",
+      "url": "map_340_animator_mc.png",
+      "name": "map_340_animator_mc_png"
+    },
+    {
+      "type": "image",
+      "url": "map_340_qianjing.png",
+      "name": "map_340_qianjing_png"
+    },
+    {
+      "type": "image",
+      "url": "map_340_zhuzizz.png",
+      "name": "map_340_zhuzizz_png"
+    },
+    {
+      "type": "image",
+      "url": "map_340_control_mc.png",
+      "name": "map_340_control_mc_png"
+    }
+  ]
+}

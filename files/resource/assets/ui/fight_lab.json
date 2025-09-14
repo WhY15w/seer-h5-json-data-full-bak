@@ -1,0 +1,36 @@
+{
+  "groups": [
+    {
+      "name": "fight_lab",
+      "keys": "fight_lab_sheet,fight_lab_atlas,fight_lab_json,fight_lab_png,fight_lab_1_bg_jpg"
+    }
+  ],
+  "resources": [
+    {
+      "name": "fight_lab_atlas",
+      "type": "text",
+      "url": "fight_lab/outside/fight_lab.atlas"
+    },
+    {
+      "name": "fight_lab_json",
+      "type": "json",
+      "url": "fight_lab/outside/fight_lab.json"
+    },
+    {
+      "name": "fight_lab_png",
+      "type": "image",
+      "url": "fight_lab/outside/fight_lab.png"
+    },
+    {
+      "name": "fight_lab_1_bg_jpg",
+      "type": "image",
+      "url": "fight_lab/outside/fight_lab_1_bg.jpg"
+    },
+    {
+      "name": "fight_lab_sheet",
+      "type": "sheet",
+      "url": "fight_lab/fight_lab_sheet.json",
+      "subkeys": "fight_lab_1_describe_imgbg_png,fight_lab_1_describe_imgbossinfo_png,fight_lab_1_describe_imgdetaildown_png,fight_lab_1_describe_imgdetailup_png,fight_lab_1_describe_imgfirstreward_png,fight_lab_1_describe_imgitem1_png,fight_lab_1_describe_imgrewarddown_png,fight_lab_1_describe_imgrewardup_png,fight_lab_1_describe_imgstrategy_png,fight_lab_1_describe_imgunlockpet_png,fight_lab_1_describe_imgusualreward_png,fight_lab_1_1img1_png,fight_lab_1_a1_png,fight_lab_1_a2_png,fight_lab_1_a3_png,fight_lab_1_a4_png,fight_lab_1_a5_png,fight_lab_1_a6_png,fight_lab_1_btnclose_png,fight_lab_1_btnhelp_png,fight_lab_1_chosse_view_imgbg_png,fight_lab_1_chosse_view_imgbtn1_png,fight_lab_1_chosse_view_imgbtn2_png,fight_lab_1_img1_png,fight_lab_1_img2_png,fight_lab_1_img3_png,fight_lab_1_imgbgdown_png,fight_lab_1_imgbgup_png,fight_lab_1_imgpet_png,fight_lab_1_level_item_imgbg_png,fight_lab_1_level_item_imgno_png,fight_lab_1_pet_item_imgbg_png,fight_lab_1_pet_item_imgfirst_png,fight_lab_1_pet_item_imgrect_png,fight_lab_2_detailline_png,fight_lab_2_imgabilitydown_png,fight_lab_2_imgabilityup_png,fight_lab_2_imgbg_png,fight_lab_2_imgbg1_png,fight_lab_2_imgbg5_png,fight_lab_2_imgbtn_png,fight_lab_2_imgdescribedown_png,fight_lab_2_imgdescribeup_png,fight_lab_2_imgline1_png,fight_lab_2_imgline2_png,fight_lab_2_imgprocessbar_png,fight_lab_2_imgprocessbarbg_png,fight_lab_2_imgskilldown_png,fight_lab_2_imgskillup_png,fight_lab_2_petani_imgbg_png,fight_lab_2_txt51_png,fight_lab_2_yipaqian_png,fight_lab_2_yipaqian1_png,fight_lab_btnInfo_png,fight_lab_1_imglevelname1_png,fight_lab_1_imglevelname2_png,fight_lab_1_imglevelname3_png,fight_lab_1_imglevelname4_png"
+    }
+  ]
+}

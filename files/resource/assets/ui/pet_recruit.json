@@ -1,0 +1,116 @@
+{
+  "groups": [
+    {
+      "name": "pet_recruit",
+      "keys": "pet_recruit_sheet,chouka_atlas,chouka_json,jinglingzhaomu_fanpaiguodu_atlas,jinglingzhaomu_fanpaiguodu_json,jinglingzhaomu_lan_atlas,jinglingzhaomu_lan_json,jinglingzhaomu_zi_atlas,jinglingzhaomu_zi_json,jinglingzhaomu_chouka_png,jinglingzhaomu_fanpaiguodu_png,jinglingzhaomu_lan_png,jinglingzhaomu_lan_2_png,jinglingzhaomu_lan_3_png,jinglingzhaomu_zi_png,jinglingzhaomu_zi_2_png,jinglingzhaomu_zi_3_png,pet_recruit_main_panel_imgbg1_jpg,pet_recruit_main_panel_imgbg2_jpg,pet_recruit_main_panel_imgmask_png,pet_recruit_result_panel_imgbg1_jpg"
+    }
+  ],
+  "resources": [
+    {
+      "name": "chouka_atlas",
+      "type": "text",
+      "url": "pet_recruit/outside/chouka.atlas"
+    },
+    {
+      "name": "chouka_json",
+      "type": "json",
+      "url": "pet_recruit/outside/chouka.json"
+    },
+    {
+      "name": "jinglingzhaomu_fanpaiguodu_atlas",
+      "type": "text",
+      "url": "pet_recruit/outside/jinglingzhaomu_fanpaiguodu.atlas"
+    },
+    {
+      "name": "jinglingzhaomu_fanpaiguodu_json",
+      "type": "json",
+      "url": "pet_recruit/outside/jinglingzhaomu_fanpaiguodu.json"
+    },
+    {
+      "name": "jinglingzhaomu_lan_atlas",
+      "type": "text",
+      "url": "pet_recruit/outside/jinglingzhaomu_lan.atlas"
+    },
+    {
+      "name": "jinglingzhaomu_lan_json",
+      "type": "json",
+      "url": "pet_recruit/outside/jinglingzhaomu_lan.json"
+    },
+    {
+      "name": "jinglingzhaomu_zi_atlas",
+      "type": "text",
+      "url": "pet_recruit/outside/jinglingzhaomu_zi.atlas"
+    },
+    {
+      "name": "jinglingzhaomu_zi_json",
+      "type": "json",
+      "url": "pet_recruit/outside/jinglingzhaomu_zi.json"
+    },
+    {
+      "name": "jinglingzhaomu_chouka_png",
+      "type": "image",
+      "url": "pet_recruit/outside/jinglingzhaomu_chouka.png"
+    },
+    {
+      "name": "jinglingzhaomu_fanpaiguodu_png",
+      "type": "image",
+      "url": "pet_recruit/outside/jinglingzhaomu_fanpaiguodu.png"
+    },
+    {
+      "name": "jinglingzhaomu_lan_png",
+      "type": "image",
+      "url": "pet_recruit/outside/jinglingzhaomu_lan.png"
+    },
+    {
+      "name": "jinglingzhaomu_lan_2_png",
+      "type": "image",
+      "url": "pet_recruit/outside/jinglingzhaomu_lan_2.png"
+    },
+    {
+      "name": "jinglingzhaomu_lan_3_png",
+      "type": "image",
+      "url": "pet_recruit/outside/jinglingzhaomu_lan_3.png"
+    },
+    {
+      "name": "jinglingzhaomu_zi_png",
+      "type": "image",
+      "url": "pet_recruit/outside/jinglingzhaomu_zi.png"
+    },
+    {
+      "name": "jinglingzhaomu_zi_2_png",
+      "type": "image",
+      "url": "pet_recruit/outside/jinglingzhaomu_zi_2.png"
+    },
+    {
+      "name": "jinglingzhaomu_zi_3_png",
+      "type": "image",
+      "url": "pet_recruit/outside/jinglingzhaomu_zi_3.png"
+    },
+    {
+      "name": "pet_recruit_main_panel_imgbg1_jpg",
+      "type": "image",
+      "url": "pet_recruit/outside/pet_recruit_main_panel_imgbg1.jpg"
+    },
+    {
+      "name": "pet_recruit_main_panel_imgbg2_jpg",
+      "type": "image",
+      "url": "pet_recruit/outside/pet_recruit_main_panel_imgbg2.jpg"
+    },
+    {
+      "name": "pet_recruit_main_panel_imgmask_png",
+      "type": "image",
+      "url": "pet_recruit/outside/pet_recruit_main_panel_imgmask.png"
+    },
+    {
+      "name": "pet_recruit_result_panel_imgbg1_jpg",
+      "type": "image",
+      "url": "pet_recruit/outside/pet_recruit_result_panel_imgbg1.jpg"
+    },
+    {
+      "name": "pet_recruit_sheet",
+      "type": "sheet",
+      "url": "pet_recruit/pet_recruit_sheet.json",
+      "subkeys": "pet_recruit_detail_item_imgarect_png,pet_recruit_detail_item_imgbrect_png,pet_recruit_detail_item_imgsrect_png,pet_recruit_detail_item_imgssrect_png,pet_recruit_detail_item_jx_903_kb_png,pet_recruit_detail_panel_btnadown_png,pet_recruit_detail_panel_btnaup_png,pet_recruit_detail_panel_btnbdown_png,pet_recruit_detail_panel_btnbup_png,pet_recruit_detail_panel_btnsdown_png,pet_recruit_detail_panel_btnsearch_png,pet_recruit_detail_panel_btnssdown_png,pet_recruit_detail_panel_btnssup_png,pet_recruit_detail_panel_btnsup_png,pet_recruit_detail_panel_imggou_png,pet_recruit_detail_panel_imggoubg_png,pet_recruit_detail_panel_imgpooldown_png,pet_recruit_detail_panel_imgpoolup_png,pet_recruit_detail_panel_imgrecorddown_png,pet_recruit_detail_panel_imgrecordup_png,pet_recruit_detail_panel_imgruledown_png,pet_recruit_detail_panel_imgruleup_png,pet_recruit_detail_panel_imgsearchbg_png,pet_recruit_detail_panel_imgsubtitlebg_png,pet_recruit_detail_panel_imgtitle_png,pet_recruit_detail_panel_line2_png,pet_recruit_detial_panel_btnhelp_png,pet_recruit_detial_panel_imgleftbg_png,pet_recruit_detial_panel_imgtitle_png,pet_recruit_main_panel_btnclose_png,pet_recruit_main_panel_btninfo_png,pet_recruit_main_panel_btnstore_png,pet_recruit_main_panel_imgadditem1_png,pet_recruit_main_panel_imgadditem2_png,pet_recruit_main_panel_imgbtnonebg_png,pet_recruit_main_panel_imgbtntenbg_png,pet_recruit_main_panel_imgcheckbox_png,pet_recruit_main_panel_imgendlinebg_png,pet_recruit_main_panel_imgitem1bg_png,pet_recruit_main_panel_imgitem2bg_png,pet_recruit_main_panel_imgitemicon1_png,pet_recruit_main_panel_imgitemicon2_png,pet_recruit_main_panel_imgonecoinicon_png,pet_recruit_main_panel_imgpool1_png,pet_recruit_main_panel_imgpool2_png,pet_recruit_main_panel_imgpool2timebg_png,pet_recruit_main_panel_imgredpoint_png,pet_recruit_main_panel_imgselected_png,pet_recruit_main_panel_imgSkipCheck_png,pet_recruit_main_panel_imgtencoinicon_png,pet_recruit_main_panel_imgtime_png,pet_recruit_main_panel_imgtimes_png,pet_recruit_main_panel_imgtimesbg1_png,pet_recruit_main_panel_imgtimesbg2_png,pet_recruit_main_panel_imgtitle_png,pet_recruit_main_panel_imgupbg_png,pet_recruit_main_panel_imgupicon1_png,pet_recruit_main_panel_imgupicon2_png,pet_recruit_main_panel_imgupicon3_png,pet_recruit_main_panel_imgupicon4_png,pet_recruit_main_panel_time_kb_png,pet_recruit_main_panel_txtname1_png,pet_recruit_main_panel_txtname2_png,pet_recruit_mall_panel_imgdown1_png,pet_recruit_mall_panel_imgdown2_png,pet_recruit_mall_panel_imgdown3_png,pet_recruit_mall_panel_imgendlinebg_png,pet_recruit_mall_panel_imgtitle_png,pet_recruit_mall_panel_imgup1_png,pet_recruit_mall_panel_imgup2_png,pet_recruit_mall_panel_imgup3_png,mall_gift_item_img2_png,mall_gift_item_img3_png,mall_recharge_item_img4_png,mall_skin_item_imgbg_png,pet_recruit_mall_pet_item_imgline_png,pet_recruit_mall_pet_item_zhezhao_png,pet_recruit_detail_record_item_imgaicon_png,pet_recruit_detail_record_item_imgbicon_png,pet_recruit_detail_record_item_imgline_png,pet_recruit_detail_record_item_imgsicon_png,pet_recruit_detail_record_item_imgssicon_png,pet_recruit_result_item_btnonceget_png,pet_recruit_result_item_btnoncereturn_png,pet_recruit_result_item_fha_kb_png,pet_recruit_result_item_fhb_kb_png,pet_recruit_result_item_fhss_kb_png,pet_recruit_result_item_fhs_kb_png,pet_recruit_result_item_imgalevel_png,pet_recruit_result_item_imgblevel_png,pet_recruit_result_item_imgslevel_png,pet_recruit_result_item_imgsslevel_png,pet_recruit_result_item_xinhuode_png,pet_recruit_result_item_btnget_png,pet_recruit_result_item_btnreturn_png,pet_recruit_result_panel_btnonekeyget_png,pet_recruit_result_panel_btnonekeyreturn_png"
+    }
+  ]
+}

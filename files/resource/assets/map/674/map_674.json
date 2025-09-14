@@ -1,0 +1,45 @@
+{
+  "groups": [
+    {
+      "keys": "road_674,exml_674,map_674_bg_mc_jpg,map_674_shgikuai_png,map_674_jitan_png,map_674_control_mc_png,map_674_top_mc_png",
+      "name": "map_674"
+    }
+  ],
+  "resources": [
+    {
+      "type": "json",
+      "url": "674.json",
+      "name": "road_674"
+    },
+    {
+      "type": "text",
+      "url": "Map674Skin.exml",
+      "name": "exml_674"
+    },
+    {
+      "type": "image",
+      "url": "map_674_bg_mc.jpg",
+      "name": "map_674_bg_mc_jpg"
+    },
+    {
+      "type": "image",
+      "url": "map_674_shgikuai.png",
+      "name": "map_674_shgikuai_png"
+    },
+    {
+      "type": "image",
+      "url": "map_674_jitan.png",
+      "name": "map_674_jitan_png"
+    },
+    {
+      "type": "image",
+      "url": "map_674_control_mc.png",
+      "name": "map_674_control_mc_png"
+    },
+    {
+      "type": "image",
+      "url": "map_674_top_mc.png",
+      "name": "map_674_top_mc_png"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "groups": [
+    {
+      "name": "pve_exp_training",
+      "keys": "pve_exp_training_sheet,pve_exp_training_bg_jpg"
+    }
+  ],
+  "resources": [
+    {
+      "name": "pve_exp_training_bg_jpg",
+      "type": "image",
+      "url": "pve_exp_training/outside/pve_exp_training_bg.jpg"
+    },
+    {
+      "name": "pve_exp_training_sheet",
+      "type": "sheet",
+      "url": "pve_exp_training/pve_exp_training_sheet.json",
+      "subkeys": "pve_exp_training_boss_item_imgbg_png,pve_exp_training_boss_item_imgboss_png,pve_exp_training_boss_item_imgdefeated_png,pve_exp_training_boss_item_imglocked_png,pve_exp_training_boss_item_imgselected_png,pve_exp_training_level_menu_item_imgdefeated_png,pve_exp_training_level_menu_item_imgfastfight_png,pve_exp_training_level_menu_item_imgisfighting_png,pve_exp_training_level_menu_item_imglock_png,pve_exp_training_level_menu_item_imgselected_png,pve_exp_training_level_menu_item_imgunlock_png,pve_exp_training_btnback_png,pve_exp_training_btncure_png,pve_exp_training_btnfastfight_png,pve_exp_training_btnfight_png,pve_exp_training_btnhelp_png,pve_exp_training_btnpet_png,pve_exp_training_imgbox_png,pve_exp_training_imgboxbg_png,pve_exp_training_imgitem1_png,pve_exp_training_imgitem1bg_png,pve_exp_training_imgitem2_png,pve_exp_training_imgitem2bg_png,pve_exp_training_imglevelbg_png,pve_exp_training_imglevelmenubg_png,pve_exp_training_imgrightbg_png,pve_exp_training_imgswitchoff_png,pve_exp_training_imgswitchon_png,pve_exp_training_imgtitle_png,pve_exp_training_imgtitlebg_png,pve_exp_training_rewarditem1_png,pve_exp_training_rewarditem2_png,pve_exp_training_rewarditem3_png,pve_exp_training_txttitle1_png,pve_exp_training_txttitle2_png,pve_exp_training_txttitle3_png,pve_exp_training_xianlu0_png,pve_exp_training_xianlu1_png,pve_exp_training_xianlu2_png,pve_exp_training_xianlu3_png"
+    }
+  ]
+}

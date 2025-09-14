@@ -1,0 +1,45 @@
+{
+  "file": "nature_choose_panel_sheet.png",
+  "frames": {
+    "nature_choose_panel_bg_png": {
+      "x": 1,
+      "y": 1,
+      "w": 1005,
+      "h": 494,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 1005,
+      "sourceH": 494
+    },
+    "nature_choose_panel_btnclose_png": {
+      "x": 137,
+      "y": 497,
+      "w": 33,
+      "h": 33,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 33,
+      "sourceH": 33
+    },
+    "nature_choose_panel_btnconfirm_png": {
+      "x": 1,
+      "y": 497,
+      "w": 134,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 134,
+      "sourceH": 46
+    },
+    "nature_choose_panel_select_png": {
+      "x": 1008,
+      "y": 1,
+      "w": 12,
+      "h": 12,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 12,
+      "sourceH": 12
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "resources": [
+    {
+      "type": "json",
+      "url": "18.json",
+      "name": "road_18"
+    },
+    {
+      "type": "text",
+      "url": "Map18Skin.exml",
+      "name": "exml_18"
+    },
+    {
+      "type": "image",
+      "url": "map_18_bg_mc.jpg",
+      "name": "map_18_bg_mc_jpg"
+    },
+    {
+      "type": "image",
+      "url": "map_18_top_mc.png",
+      "name": "map_18_top_mc_png"
+    }
+  ],
+  "groups": [
+    {
+      "keys": "road_18,exml_18,map_18_bg_mc_jpg,map_18_top_mc_png",
+      "name": "map_18"
+    }
+  ]
+}

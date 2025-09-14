@@ -1,0 +1,30 @@
+{
+  "groups": [
+    {
+      "keys": "road_356,exml_356,map_356_bg_mc_jpg,map_356_top_mc_png",
+      "name": "map_356"
+    }
+  ],
+  "resources": [
+    {
+      "type": "json",
+      "url": "356.json",
+      "name": "road_356"
+    },
+    {
+      "type": "text",
+      "url": "Map356Skin.exml",
+      "name": "exml_356"
+    },
+    {
+      "type": "image",
+      "url": "map_356_bg_mc.jpg",
+      "name": "map_356_bg_mc_jpg"
+    },
+    {
+      "type": "image",
+      "url": "map_356_top_mc.png",
+      "name": "map_356_top_mc_png"
+    }
+  ]
+}

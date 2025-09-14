@@ -1,0 +1,71 @@
+{
+  "groups": [
+    {
+      "name": "pve_yingkaluosi",
+      "keys": "pve_yingkaluosi_sheet,pve_yingkaluosi_level1_bg_png,pve_yingkaluosi_level1_lock_png,pve_yingkaluosi_level1_now_png,pve_yingkaluosi_level3_img3477_png,pve_yingkaluosi_level3_img3549_png,pve_yingkaluosi_level3_img3554_png,pve_yingkaluosi_level3_img3564_png,pve_yingkaluosi_main_bg_png,pve_yingkaluosi_main_title_png,pve_yingkaluosi_upenergy_pet_png,pve_yingkaluosi_upenergy_petbg_png"
+    }
+  ],
+  "resources": [
+    {
+      "name": "pve_yingkaluosi_level1_bg_png",
+      "type": "image",
+      "url": "pve_yingkaluosi/outside/pve_yingkaluosi_level1_bg.png"
+    },
+    {
+      "name": "pve_yingkaluosi_level1_lock_png",
+      "type": "image",
+      "url": "pve_yingkaluosi/outside/pve_yingkaluosi_level1_lock.png"
+    },
+    {
+      "name": "pve_yingkaluosi_level1_now_png",
+      "type": "image",
+      "url": "pve_yingkaluosi/outside/pve_yingkaluosi_level1_now.png"
+    },
+    {
+      "name": "pve_yingkaluosi_level3_img3477_png",
+      "type": "image",
+      "url": "pve_yingkaluosi/outside/pve_yingkaluosi_level3_img3477.png"
+    },
+    {
+      "name": "pve_yingkaluosi_level3_img3549_png",
+      "type": "image",
+      "url": "pve_yingkaluosi/outside/pve_yingkaluosi_level3_img3549.png"
+    },
+    {
+      "name": "pve_yingkaluosi_level3_img3554_png",
+      "type": "image",
+      "url": "pve_yingkaluosi/outside/pve_yingkaluosi_level3_img3554.png"
+    },
+    {
+      "name": "pve_yingkaluosi_level3_img3564_png",
+      "type": "image",
+      "url": "pve_yingkaluosi/outside/pve_yingkaluosi_level3_img3564.png"
+    },
+    {
+      "name": "pve_yingkaluosi_main_bg_png",
+      "type": "image",
+      "url": "pve_yingkaluosi/outside/pve_yingkaluosi_main_bg.png"
+    },
+    {
+      "name": "pve_yingkaluosi_main_title_png",
+      "type": "image",
+      "url": "pve_yingkaluosi/outside/pve_yingkaluosi_main_title.png"
+    },
+    {
+      "name": "pve_yingkaluosi_upenergy_pet_png",
+      "type": "image",
+      "url": "pve_yingkaluosi/outside/pve_yingkaluosi_upenergy_pet.png"
+    },
+    {
+      "name": "pve_yingkaluosi_upenergy_petbg_png",
+      "type": "image",
+      "url": "pve_yingkaluosi/outside/pve_yingkaluosi_upenergy_petbg.png"
+    },
+    {
+      "name": "pve_yingkaluosi_sheet",
+      "type": "sheet",
+      "url": "pve_yingkaluosi/pve_yingkaluosi_sheet.json",
+      "subkeys": "pve_yingkaluosi_level1_btnGo_png,pve_yingkaluosi_level1_btnNormal__png,pve_yingkaluosi_level1_flagYhd_png,pve_yingkaluosi_level1_Got_png,pve_yingkaluosi_level1_huifu_png,pve_yingkaluosi_level1_img_png,pve_yingkaluosi_level1_imgBtn_cure_png,pve_yingkaluosi_level1_imgBtn_pet_png,pve_yingkaluosi_level1_lock_png,pve_yingkaluosi_level1_monster0_png,pve_yingkaluosi_level1_monster1_png,pve_yingkaluosi_level1_monster2_png,pve_yingkaluosi_level1_monster3_png,pve_yingkaluosi_level1_monster4_png,pve_yingkaluosi_level1_now_png,pve_yingkaluosi_level1_selected_png,pve_yingkaluosi_level1_title_png,pve_yingkaluosi_level1_txtbg_png,pve_yingkaluosi_level1_up_bg_png,pve_yingkaluosi_level2_1_png,pve_yingkaluosi_level2_2_png,pve_yingkaluosi_level2_3_png,pve_yingkaluosi_level2_4_png,pve_yingkaluosi_level2_5_png,pve_yingkaluosi_level2_6_png,pve_yingkaluosi_level2_7_png,pve_yingkaluosi_level2_8_png,pve_yingkaluosi_level2_9_png,pve_yingkaluosi_level2_bg22_png,pve_yingkaluosi_level2_btnchou_png,pve_yingkaluosi_level2_btnfight_png,pve_yingkaluosi_level2_btngo_png,pve_yingkaluosi_level2_btnjibai_png,pve_yingkaluosi_level2_dekuang_png,pve_yingkaluosi_level2_img_png,pve_yingkaluosi_level2_imgbtn_cure_png,pve_yingkaluosi_level2_imgbtn_pet_png,pve_yingkaluosi_level2_light1_png,pve_yingkaluosi_level2_selected_png,pve_yingkaluosi_level2_title_png,pve_yingkaluosi_level2_txtbg_png,pve_yingkaluosi_level2_up_bg_png,pve_yingkaluosi_level2_wenzi_png,pve_yingkaluosi_level3_3477_png,pve_yingkaluosi_level3_3549_png,pve_yingkaluosi_level3_3554_png,pve_yingkaluosi_level3_3564_png,pve_yingkaluosi_level3_btnfight_png,pve_yingkaluosi_level3_btnjihuo_png,pve_yingkaluosi_level3_dark_png,pve_yingkaluosi_level3_dark1_png,pve_yingkaluosi_level3_dark2_png,pve_yingkaluosi_level3_dark3_png,pve_yingkaluosi_level3_dark4_png,pve_yingkaluosi_level3_done_png,pve_yingkaluosi_level3_img_png,pve_yingkaluosi_level3_jihuobg_png,pve_yingkaluosi_level3_light_png,pve_yingkaluosi_level3_light1_png,pve_yingkaluosi_level3_light2_png,pve_yingkaluosi_level3_light3_png,pve_yingkaluosi_level3_light4_png,pve_yingkaluosi_level3_p_png,pve_yingkaluosi_level3_title_png,pve_yingkaluosi_level3_txtbg_png,pve_yingkaluosi_level3_txttitlebg_png,pve_yingkaluosi_level3_up_bg_png,pve_yingkaluosi_main-1_bg_png,pve_yingkaluosi_main-1_tag_png,pve_yingkaluosi_main_btnChuangshuo__png,pve_yingkaluosi_main_btnClose_png,pve_yingkaluosi_main_btnGet_png,pve_yingkaluosi_main_btnInfo_png,pve_yingkaluosi_main_btnJianding_png,pve_yingkaluosi_main_btnOne_png,pve_yingkaluosi_main_btnZhiming_png,pve_yingkaluosi_main_Got_png,pve_yingkaluosi_main_img_j_png,pve_yingkaluosi_main_title_png,pve_yingkaluosi_main_up_bg_png,pve_yingkaluosi_upenergy_1715982_244236_png,pve_yingkaluosi_upenergy_5_title_png,pve_yingkaluosi_upenergy_btnFix__png,pve_yingkaluosi_upenergy_buybg_png,pve_yingkaluosi_upenergy_flagYhd_png,pve_yingkaluosi_upenergy_helpBtn_png_png,pve_yingkaluosi_upenergy_icon_png,pve_yingkaluosi_upenergy_icon_1_png,pve_yingkaluosi_upenergy_icon_texing_png,pve_yingkaluosi_upenergy_mobiaoti_1_png,pve_yingkaluosi_upenergy_petbg_png,pve_yingkaluosi_upenergy_storebg_s9_png,pve_yingkaluosi_upenergy_tipsbg_png,pve_yingkaluosi_upenergy_txtbg_png,pve_yingkaluosi_upenergy_up_bg_png"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "groups": [
+    {
+      "name": "new_seer7_sign",
+      "keys": "new_seer7_sign_sheet,nns7s_banner_pop_banner_png,nns7s_main_panel_bg_jpg"
+    }
+  ],
+  "resources": [
+    {
+      "name": "nns7s_banner_pop_banner_png",
+      "type": "image",
+      "url": "new_seer7_sign/outside/nns7s_banner_pop_banner.png"
+    },
+    {
+      "name": "nns7s_main_panel_bg_jpg",
+      "type": "image",
+      "url": "new_seer7_sign/outside/nns7s_main_panel_bg.jpg"
+    },
+    {
+      "name": "new_seer7_sign_sheet",
+      "type": "sheet",
+      "url": "new_seer7_sign/new_seer7_sign_sheet.json",
+      "subkeys": "nns7s_banner_pop_1_png,nns7s_banner_pop_2_png,nns7s_banner_pop_3_png,nns7s_banner_pop_4_png,nns7s_banner_pop_5_png,nns7s_banner_pop_6_png,nns7s_banner_pop_7_png,nns7s_banner_pop_btnclose_png,nns7s_banner_pop_btnget_png,nns7s_main_panel_1_png,nns7s_main_panel_2_png,nns7s_main_panel_3_png,nns7s_main_panel_3013_png,nns7s_main_panel_3026_png,nns7s_main_panel_3992_png,nns7s_main_panel_4_png,nns7s_main_panel_41050_png,nns7s_main_panel_4202_png,nns7s_main_panel_a_png,nns7s_main_panel_b_png,nns7s_main_panel_bosskexing_png,nns7s_main_panel_btnback_png,nns7s_main_panel_btnget_png,nns7s_main_panel_btninfo_png,nns7s_main_panel_c_png,nns7s_main_panel_d_png,nns7s_main_panel_get_png,nns7s_main_panel_gfyt_png,nns7s_main_panel_item1_png,nns7s_main_panel_item2_png,nns7s_main_panel_item3_png,nns7s_main_panel_jlsc_png,nns7s_main_panel_line_png,nns7s_main_panel_namebg_png,nns7s_main_panel_numberbg_png,nns7s_main_panel_pvesc_png,nns7s_main_panel_received_png,nns7s_main_panel_redpoint_png,nns7s_main_panel_tag1bg_png,nns7s_main_panel_tag2bg_png,nns7s_main_panel_tag3bg_png,nns7s_main_panel_tagItem_png,nns7s_main_panel_tagMintmark_png,nns7s_main_panel_tagPet_png,nns7s_main_panel_tagResource_png,nns7s_main_panel_timebg_png,nns7s_main_panel_title_png,nns7s_main_panel_today_png,nns7s_main_panel_tomorrow_png,nns7s_main_panel_yjjx_1_kb_png,nns7s_main_panel_zu_14_png,nns7s_main_pane_rightbg_png,today_juxing_918_png,today_jx_910_kb_2_png,today_zu_19_png"
+    }
+  ]
+}

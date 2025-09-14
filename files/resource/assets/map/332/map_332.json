@@ -1,0 +1,25 @@
+{
+  "groups": [
+    {
+      "keys": "road_332,exml_332,map_332_bg_mc_jpg",
+      "name": "map_332"
+    }
+  ],
+  "resources": [
+    {
+      "type": "json",
+      "url": "332.json",
+      "name": "road_332"
+    },
+    {
+      "type": "text",
+      "url": "Map332Skin.exml",
+      "name": "exml_332"
+    },
+    {
+      "type": "image",
+      "url": "map_332_bg_mc.jpg",
+      "name": "map_332_bg_mc_jpg"
+    }
+  ]
+}

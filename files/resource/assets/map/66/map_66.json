@@ -1,0 +1,30 @@
+{
+  "resources": [
+    {
+      "type": "json",
+      "url": "66.json",
+      "name": "road_66"
+    },
+    {
+      "type": "text",
+      "url": "Map66Skin.exml",
+      "name": "exml_66"
+    },
+    {
+      "type": "image",
+      "url": "map_66_bg_mc.jpg",
+      "name": "map_66_bg_mc_jpg"
+    },
+    {
+      "type": "image",
+      "url": "map_66_top_mc.png",
+      "name": "map_66_top_mc_png"
+    }
+  ],
+  "groups": [
+    {
+      "keys": "road_66,exml_66,map_66_bg_mc_jpg,map_66_top_mc_png",
+      "name": "map_66"
+    }
+  ]
+}

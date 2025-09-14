@@ -1,0 +1,25 @@
+{
+  "groups": [
+    {
+      "keys": "road_929,exml_929,map_929_bg_mc_png",
+      "name": "map_929"
+    }
+  ],
+  "resources": [
+    {
+      "type": "json",
+      "url": "929.json",
+      "name": "road_929"
+    },
+    {
+      "type": "text",
+      "url": "Map929Skin.exml",
+      "name": "exml_929"
+    },
+    {
+      "type": "image",
+      "url": "map_929_bg_mc.png",
+      "name": "map_929_bg_mc_png"
+    }
+  ]
+}

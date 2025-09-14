@@ -1,0 +1,36 @@
+{
+  "groups": [
+    {
+      "name": "new_seer_first_ke_jin",
+      "keys": "new_seer_first_ke_jin_sheet,new_seer_first_recharge_main_panel_bg_jpg,new_seer_first_recharge_view1_bg_png,new_seer_first_recharge_view2_bg_png,new_seer_first_recharge_view3_bg_png"
+    }
+  ],
+  "resources": [
+    {
+      "name": "new_seer_first_recharge_main_panel_bg_jpg",
+      "type": "image",
+      "url": "new_seer_first_ke_jin/outside/new_seer_first_recharge_main_panel_bg.jpg"
+    },
+    {
+      "name": "new_seer_first_recharge_view1_bg_png",
+      "type": "image",
+      "url": "new_seer_first_ke_jin/outside/new_seer_first_recharge_view1_bg.png"
+    },
+    {
+      "name": "new_seer_first_recharge_view2_bg_png",
+      "type": "image",
+      "url": "new_seer_first_ke_jin/outside/new_seer_first_recharge_view2_bg.png"
+    },
+    {
+      "name": "new_seer_first_recharge_view3_bg_png",
+      "type": "image",
+      "url": "new_seer_first_ke_jin/outside/new_seer_first_recharge_view3_bg.png"
+    },
+    {
+      "name": "new_seer_first_ke_jin_sheet",
+      "type": "sheet",
+      "url": "new_seer_first_ke_jin/new_seer_first_ke_jin_sheet.json",
+      "subkeys": "new_seer_first_recharge_img1_png,new_seer_first_recharge_img2_png,new_seer_first_recharge_img3_png,new_seer_first_recharge_imghead1_png,new_seer_first_recharge_imghead2_png,new_seer_first_recharge_main_panel_imgbtn1_png,new_seer_first_recharge_main_panel_imgbtn2_png,new_seer_first_recharge_main_panel_imgbtn3_png,new_seer_first_recharge_main_panel_imgmenubg_png,new_seer_first_recharge_main_panel_imgselected1_png,new_seer_first_recharge_view1imghasget_png,new_seer_first_recharge_view1_btnget_png,new_seer_first_recharge_view1_btngo_png,new_seer_first_recharge_view1_btninfo_png,new_seer_first_recharge_view1_imgeffect_png,new_seer_first_recharge_view1_imgmark_png,new_seer_first_recharge_view1_imgprogress_png,new_seer_first_recharge_view1_imgskill_png,new_seer_first_recharge_view2_imgmark_png,new_seer_first_recharge_view3_btnuse_png,new_seer_first_recharge_view3_imgitem1_png,new_seer_first_recharge_view3_imgitem2_png"
+    }
+  ]
+}

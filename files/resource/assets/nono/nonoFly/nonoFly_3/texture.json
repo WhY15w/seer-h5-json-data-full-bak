@@ -1,0 +1,96 @@
+{
+  "SubTexture": [
+    {
+      "width": 92,
+      "y": 1,
+      "height": 94,
+      "name": "2/shape 12",
+      "x": 87
+    },
+    {
+      "width": 84,
+      "y": 1,
+      "height": 112,
+      "name": "2/shape 13",
+      "x": 1
+    },
+    {
+      "frameHeight": 101,
+      "y": 115,
+      "frameX": 0,
+      "width": 87,
+      "frameY": 0,
+      "height": 100,
+      "name": "2/shape 11",
+      "frameWidth": 87,
+      "x": 1
+    },
+    {
+      "width": 85,
+      "y": 97,
+      "height": 90,
+      "name": "2/shape 14",
+      "x": 90
+    },
+    {
+      "frameHeight": 61,
+      "y": 189,
+      "frameX": 0,
+      "width": 49,
+      "frameY": 0,
+      "height": 60,
+      "name": "aw001",
+      "frameWidth": 49,
+      "x": 202
+    },
+    {
+      "frameHeight": 61,
+      "y": 97,
+      "frameX": 0,
+      "width": 48,
+      "frameY": 0,
+      "height": 61,
+      "name": "aw004",
+      "frameWidth": 49,
+      "x": 177
+    },
+    {
+      "frameHeight": 61,
+      "y": 189,
+      "frameX": 0,
+      "width": 54,
+      "frameY": 0,
+      "height": 61,
+      "name": "aw002",
+      "frameWidth": 55,
+      "x": 90
+    },
+    {
+      "width": 47,
+      "y": 97,
+      "height": 61,
+      "name": "oi004",
+      "x": 227
+    },
+    {
+      "frameHeight": 61,
+      "y": 189,
+      "frameX": 0,
+      "width": 49,
+      "frameY": 0,
+      "height": 60,
+      "name": "oi001",
+      "frameWidth": 49,
+      "x": 253
+    },
+    {
+      "width": 54,
+      "y": 189,
+      "height": 61,
+      "name": "oi002",
+      "x": 146
+    }
+  ],
+  "name": "nonoFly_3",
+  "imagePath": "nonoFly_tex.png"
+}

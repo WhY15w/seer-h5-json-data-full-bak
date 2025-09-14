@@ -1,0 +1,41 @@
+{
+  "SubTexture": [
+    {
+      "name": "元件 1",
+      "x": 0,
+      "width": 69,
+      "y": 0,
+      "height": 53
+    },
+    {
+      "name": "元件 2",
+      "x": 70,
+      "width": 53,
+      "y": 58,
+      "height": 57
+    },
+    {
+      "name": "元件 3",
+      "x": 0,
+      "width": 32,
+      "y": 104,
+      "height": 49
+    },
+    {
+      "name": "元件 4",
+      "x": 70,
+      "width": 55,
+      "y": 0,
+      "height": 57
+    },
+    {
+      "name": "元件 5",
+      "x": 0,
+      "width": 69,
+      "y": 54,
+      "height": 49
+    }
+  ],
+  "name": 1300046,
+  "imagePath": "texture.png"
+}

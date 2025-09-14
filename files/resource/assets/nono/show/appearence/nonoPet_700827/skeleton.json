@@ -1,0 +1,204 @@
+{
+  "frameRate": 24,
+  "name": "show_nonoPet_700827",
+  "version": "5.5",
+  "compatibleVersion": "5.5",
+  "armature": [
+    {
+      "name": "nono",
+      "bone": [
+        {
+          "inheritScale": false,
+          "name": "Layer 4",
+          "transform": {
+            "x": -0.12,
+            "y": 69.13,
+            "scX": -0.25,
+            "scY": 0.25
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "Layer 3",
+          "transform": {
+            "x": -3.75,
+            "y": -4
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "Layer 2",
+          "transform": {
+            "x": 41.5,
+            "y": -51.87
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "Layer 1",
+          "transform": {
+            "x": -49.5,
+            "y": -51.87
+          }
+        }
+      ],
+      "slot": [
+        {
+          "name": "Layer 4",
+          "parent": "Layer 4"
+        },
+        {
+          "name": "Layer 3",
+          "parent": "Layer 3"
+        },
+        {
+          "name": "Layer 2",
+          "parent": "Layer 2"
+        },
+        {
+          "name": "Layer 1",
+          "parent": "Layer 1"
+        }
+      ],
+      "skin": [
+        {
+          "slot": [
+            {
+              "name": "Layer 4",
+              "display": [
+                {
+                  "name": "shadow",
+                  "transform": {
+                    "x": -2,
+                    "y": 3.13
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Layer 3",
+              "display": [
+                {
+                  "name": "补间 2",
+                  "transform": {
+                    "x": 2.62,
+                    "y": -9.13
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Layer 2"
+            },
+            {
+              "name": "Layer 1"
+            }
+          ]
+        }
+      ],
+      "animation": [
+        {
+          "duration": 20,
+          "fadeInTime": 0.3,
+          "name": "down",
+          "bone": [
+            {
+              "name": "Layer 4",
+              "scaleFrame": [
+                {
+                  "duration": 20
+                }
+              ]
+            },
+            {
+              "name": "Layer 3",
+              "translateFrame": [
+                {
+                  "duration": 9,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "y": -5.25
+                },
+                {}
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 20
+                }
+              ]
+            },
+            {
+              "name": "Layer 2",
+              "translateFrame": [
+                {
+                  "duration": 9,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "x": -0.5,
+                  "y": -4.13
+                },
+                {}
+              ],
+              "rotateFrame": [
+                {
+                  "duration": 9,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "rotate": -1.05
+                },
+                {}
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 20
+                }
+              ]
+            },
+            {
+              "name": "Layer 1",
+              "translateFrame": [
+                {
+                  "duration": 9,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "x": 0.88,
+                  "y": -3.13
+                },
+                {}
+              ],
+              "rotateFrame": [
+                {
+                  "duration": 9,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "rotate": 0.5
+                },
+                {}
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 20
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

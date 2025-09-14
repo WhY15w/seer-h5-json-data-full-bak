@@ -1,0 +1,30 @@
+{
+  "groups": [
+    {
+      "keys": "road_761,exml_761,map_761_bg_mc_jpg,map_761_mirror_png",
+      "name": "map_761"
+    }
+  ],
+  "resources": [
+    {
+      "type": "json",
+      "url": "761.json",
+      "name": "road_761"
+    },
+    {
+      "type": "text",
+      "url": "Map761Skin.exml",
+      "name": "exml_761"
+    },
+    {
+      "type": "image",
+      "url": "map_761_bg_mc.jpg",
+      "name": "map_761_bg_mc_jpg"
+    },
+    {
+      "type": "image",
+      "url": "map_761_mirror.png",
+      "name": "map_761_mirror_png"
+    }
+  ]
+}

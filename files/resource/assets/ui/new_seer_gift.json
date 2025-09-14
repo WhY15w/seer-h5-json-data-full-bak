@@ -1,0 +1,26 @@
+{
+  "groups": [
+    {
+      "name": "new_seer_gift",
+      "keys": "new_seer_gift_sheet,new_seer_gift_bg_jpg,new_seer_gift_imgbg_png"
+    }
+  ],
+  "resources": [
+    {
+      "name": "new_seer_gift_bg_jpg",
+      "type": "image",
+      "url": "new_seer_gift/outside/new_seer_gift_bg.jpg"
+    },
+    {
+      "name": "new_seer_gift_imgbg_png",
+      "type": "image",
+      "url": "new_seer_gift/outside/new_seer_gift_imgbg.png"
+    },
+    {
+      "name": "new_seer_gift_sheet",
+      "type": "sheet",
+      "url": "new_seer_gift/new_seer_gift_sheet.json",
+      "subkeys": "new_seer_gift_btnadddiamond_png,new_seer_gift_btnbuy1_png,new_seer_gift_btnbuy2_png,new_seer_gift_btninfo1_png,new_seer_gift_btninfo2_png,new_seer_gift_imgdiamond_png,new_seer_gift_imgdiamondbg_png,new_seer_gift_imgitem1_png,new_seer_gift_imgitem2_png,new_seer_gift_imgtxt1_png,new_seer_gift_imgtxt2_png"
+    }
+  ]
+}

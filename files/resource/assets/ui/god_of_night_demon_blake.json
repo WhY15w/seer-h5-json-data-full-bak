@@ -1,0 +1,56 @@
+{
+  "groups": [
+    {
+      "name": "god_of_night_demon_blake",
+      "keys": "god_of_night_demon_blake_sheet,anyechue_atlas,anyechue_json,anyeshenwei_atlas,anyeshenwei_json,anyechue_png,anyeshenwei_png,gondb_mainpanel_bg_jpg,gondb_panel1_bg_jpg"
+    }
+  ],
+  "resources": [
+    {
+      "name": "anyechue_atlas",
+      "type": "text",
+      "url": "god_of_night_demon_blake/outside/anyechue.atlas"
+    },
+    {
+      "name": "anyechue_json",
+      "type": "json",
+      "url": "god_of_night_demon_blake/outside/anyechue.json"
+    },
+    {
+      "name": "anyeshenwei_atlas",
+      "type": "text",
+      "url": "god_of_night_demon_blake/outside/anyeshenwei.atlas"
+    },
+    {
+      "name": "anyeshenwei_json",
+      "type": "json",
+      "url": "god_of_night_demon_blake/outside/anyeshenwei.json"
+    },
+    {
+      "name": "anyechue_png",
+      "type": "image",
+      "url": "god_of_night_demon_blake/outside/anyechue.png"
+    },
+    {
+      "name": "anyeshenwei_png",
+      "type": "image",
+      "url": "god_of_night_demon_blake/outside/anyeshenwei.png"
+    },
+    {
+      "name": "gondb_mainpanel_bg_jpg",
+      "type": "image",
+      "url": "god_of_night_demon_blake/outside/gondb_mainpanel_bg.jpg"
+    },
+    {
+      "name": "gondb_panel1_bg_jpg",
+      "type": "image",
+      "url": "god_of_night_demon_blake/outside/gondb_panel1_bg.jpg"
+    },
+    {
+      "name": "god_of_night_demon_blake_sheet",
+      "type": "sheet",
+      "url": "god_of_night_demon_blake/god_of_night_demon_blake_sheet.json",
+      "subkeys": "gondb_mainpanel_btn1_png,gondb_mainpanel_btn2_png,gondb_mainpanel_btnGet_png,gondb_mainpanel_btninfo_png,gondb_mainpanel_btnsc_png,gondb_mainpanel_btnSuper_png,gondb_mainpanel_btnup_png,gondb_mainpanel_btnysc_png,gondb_mainpanel_stms_png,gondb_mainpanel_ti1_png,gondb_mainpanel_ti2_png,gondb_mainpanel_title_png,gondb_mainpanel_yihuode_png,gondb_mainpanel_yiwancheng_png,gondb_panel1_1705367_png,gondb_panel1_1705367_kb_png,gondb_panel1_2829_png,gondb_panel1_2833_png,gondb_panel1_btnadd_png,gondb_panel1_btnbuy_png,gondb_panel1_btnfight_png,gondb_panel1_btnonekey_png,gondb_panel1_btnreduce_png,gondb_panel1_btnsign_png,gondb_panel1_end_png,gondb_panel1_gezibg_png,gondb_panel1_grid_png,gondb_panel1_hasSign_png,gondb_panel1_img_di2_png,gondb_panel1_jlbb_png,gondb_panel1_jlhf_png,gondb_panel1_qidian_png,gondb_panel1_shangde_png,gondb_panel1_start_png,gondb_panel1_stms_png,gondb_panel1_tipsbg_png,gondb_panel1_zhongdian_png,gondb_panel1_zu_277_png,gondb_panel2_1705400_png,gondb_panel2_1putong_png,gondb_panel2_1xuanzhong_png,gondb_panel2_2808_png,gondb_panel2_2812_png,gondb_panel2_2815_png,gondb_panel2_2820_png,gondb_panel2_2823_png,gondb_panel2_2829_png,gondb_panel2_2833_png,gondb_panel2_2putong_png,gondb_panel2_2xuanzhong_png,gondb_panel2_3putong_png,gondb_panel2_3xuanzhong_png,gondb_panel2_4putong_png,gondb_panel2_4xuanzhong_png,gondb_panel2_5putong_png,gondb_panel2_5xuanzhong_png,gondb_panel2_6putong_png,gondb_panel2_6xuanzhong_png,gondb_panel2_btnadd_png,gondb_panel2_btnfast_png,gondb_panel2_btnfight_png,gondb_panel2_btnonekey_png,gondb_panel2_img_orange_reddot_png,gondb_panel2_jindu_png,gondb_panel2_jlbb_png,gondb_panel2_jlhf_png,gondb_panel2_juxing_26_png,gondb_panel2_jx_903_kb_png,gondb_panel2_jx_903_kb_2_png,gondb_panel2_stms_png,gondb_panel2_tipsbg_png,gondb_panel2_xz_1_png,gondb_panel2_yihuode_png,gondb_panel2_yzds_png,gondb_panel2_zu_3_png,gondb_panel2_zu_7_png,gondb_panel2_zu_8_png,gondb_panel3_anniubg_png,gondb_panel3_barbg_png,gondb_panel3_btnbuy_png,gondb_panel3_btnfight_png,gondb_panel3_btnyjqk_png,gondb_panel3_diwujineng_png,gondb_panel3_jlbb_png,gondb_panel3_jlhf_png,gondb_panel3_jx_907_kb_png,gondb_panel3_kejihuo_png,gondb_panel3_stms_png,gondb_panel3_tipsbg_png,gondb_panel3_tuceng_41_png,gondb_panel3_yijihuo_png,gondb_panel3_zsky_png,gondb_panel3_zstx_png,gondb_panel3_zu_5_png,gondb_panel3_zu_6_png"
+    }
+  ]
+}

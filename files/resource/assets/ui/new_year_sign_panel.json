@@ -1,0 +1,21 @@
+{
+  "groups": [
+    {
+      "name": "new_year_sign_panel",
+      "keys": "new_year_sign_panel_sheet,newyearsignpanel_bg_png"
+    }
+  ],
+  "resources": [
+    {
+      "name": "newyearsignpanel_bg_png",
+      "type": "image",
+      "url": "new_year_sign_panel/outside/newyearsignpanel_bg.png"
+    },
+    {
+      "name": "new_year_sign_panel_sheet",
+      "type": "sheet",
+      "url": "new_year_sign_panel/new_year_sign_panel_sheet.json",
+      "subkeys": "anniu_png,fangkuai_png,newyearsignpanel_1_png,newyearsignpanel_2_png,newyearsignpanel_3_png,newyearsignpanel_btnclose_png,newyearsignpanel_check_png,newyearsignpanel_imgreward_png,newyearsignpanel_itembg1_png,newyearsignpanel_itembg2_png,newyearsignpanel_mask_png"
+    }
+  ]
+}

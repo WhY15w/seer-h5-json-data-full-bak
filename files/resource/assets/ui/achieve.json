@@ -1,0 +1,31 @@
+{
+  "groups": [
+    {
+      "name": "achieve",
+      "keys": "achieve_sheet,tisheng_atlas,tisheng_json,tisheng_png"
+    }
+  ],
+  "resources": [
+    {
+      "name": "tisheng_atlas",
+      "type": "text",
+      "url": "achieve/outside/tisheng.atlas"
+    },
+    {
+      "name": "tisheng_json",
+      "type": "json",
+      "url": "achieve/outside/tisheng.json"
+    },
+    {
+      "name": "tisheng_png",
+      "type": "image",
+      "url": "achieve/outside/tisheng.png"
+    },
+    {
+      "name": "achieve_sheet",
+      "type": "sheet",
+      "url": "achieve/achieve_sheet.json",
+      "subkeys": "achieve_item_btnget_png,achieve_item_imgbg_png,achieve_item_imghas_png,achieve_item_imgiconbg_png,achieve_item_imgline_png,achieve_item_imgprogress_png,achieve_item_imgprogressbg_png,title_item_imgbg_png,title_item_imgbg1_png,achieve_main_panel_btnonekey_png,achieve_main_panel_btnranklist_png,achieve_main_panel_btnsearch_png,achieve_main_panel_imgicon_png,achieve_main_panel_imgmilitaryrankbg_png,achieve_main_panel_imgnoachieve_png,achieve_main_panel_imgnotgetline_png,achieve_main_panel_imgprogress_png,achieve_main_panel_imgprogressbg__png,achieve_main_panel_imgrecentline_png,achieve_main_panel_imgsmallprogress1_png,achieve_main_panel_imgsmallprogressbg1_png,achieve_main_panel_imgtitle_png,achieve_main_panel_imgtxtprogress_png,achieve_main_panel_imgtype1_png,achieve_main_panel_imgtype2_png,achieve_main_panel_imgtype3_png,achieve_main_panel_imgtype4_png,achieve_main_panel_imgtype5_png,achieve_main_panel_imgtype6_png,achieve_main_panel_imgup_png,achieve_main_panel_searchbg_png,achieve_sub_panel_imgarrow_png,achieve_sub_panel_imgdropbg1_png,achieve_sub_panel_imgdropbg2_png,achieve_sub_panel_imgtitlebg_png,achieve_sub_panel_quitSearch_png,achieve_sub_panel_searchBg_png,achieve_rank_item_img1_png,achieve_rank_item_img2_png,achieve_rank_item_img3_png,achieve_rank_item_itembg1_png,achieve_rank_item_itembg2_png,achieve_rank_item_itembg3_png,achieve_rank_item_itembg4_png,achieve_rank_item_itembg5_png,achieve_rank_pop_imgbotom_png,achieve_rank_pop_imgslidebar_png,achieve_rank_pop_imgslidebarbg_png,achieve_rank_pop_imgtitle_png,achieve_rank_pop_imgtop_png"
+    }
+  ]
+}

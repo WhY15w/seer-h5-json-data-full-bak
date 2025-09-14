@@ -1,0 +1,575 @@
+{
+  "file": "peak_jihad_order_panel_sheet.png",
+  "frames": {
+    "peak_jihad_order_main_panel_title_png": {
+      "x": 1639,
+      "y": 430,
+      "w": 103,
+      "h": 32,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 103,
+      "sourceH": 32
+    },
+    "peak_jihad_order_main_reward_panel_btnjinjie_png": {
+      "x": 730,
+      "y": 356,
+      "w": 134,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 134,
+      "sourceH": 46
+    },
+    "peak_jihad_order_main_reward_panel_btnlingqu_png": {
+      "x": 594,
+      "y": 356,
+      "w": 134,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 134,
+      "sourceH": 46
+    },
+    "peak_jihad_order_main_reward_panel_buylevel_png": {
+      "x": 829,
+      "y": 454,
+      "w": 87,
+      "h": 35,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 87,
+      "sourceH": 35
+    },
+    "peak_jihad_order_main_reward_panel_itembg_png": {
+      "x": 1657,
+      "y": 356,
+      "w": 72,
+      "h": 72,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 72,
+      "sourceH": 72
+    },
+    "peak_jihad_order_main_reward_panel_itembg_light_png": {
+      "x": 775,
+      "y": 266,
+      "w": 78,
+      "h": 78,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 78,
+      "sourceH": 78
+    },
+    "peak_jihad_order_main_reward_panel_lbg_png": {
+      "x": 1094,
+      "y": 165,
+      "w": 92,
+      "h": 375,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 92,
+      "sourceH": 375
+    },
+    "peak_jihad_order_main_reward_panel_lbg1_png": {
+      "x": 1188,
+      "y": 165,
+      "w": 92,
+      "h": 375,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 92,
+      "sourceH": 375
+    },
+    "peak_jihad_order_main_reward_panel_leftbg_png": {
+      "x": 960,
+      "y": 165,
+      "w": 132,
+      "h": 397,
+      "offX": 0,
+      "offY": 1,
+      "sourceW": 133,
+      "sourceH": 398
+    },
+    "peak_jihad_order_main_reward_panel_progress_png": {
+      "x": 1282,
+      "y": 439,
+      "w": 281,
+      "h": 15,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 281,
+      "sourceH": 15
+    },
+    "peak_jihad_order_main_reward_panel_progress_bg_png": {
+      "x": 535,
+      "y": 241,
+      "w": 341,
+      "h": 23,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 341,
+      "sourceH": 23
+    },
+    "peak_jihad_order_main_reward_panel_rbg_png": {
+      "x": 1887,
+      "y": 1,
+      "w": 142,
+      "h": 409,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 142,
+      "sourceH": 409
+    },
+    "peak_jihad_order_main_reward_panel_select_png": {
+      "x": 1761,
+      "y": 79,
+      "w": 100,
+      "h": 394,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 100,
+      "sourceH": 394
+    },
+    "peak_jihad_order_main_reward_panel_ty_4_kb_png": {
+      "x": 1576,
+      "y": 405,
+      "w": 61,
+      "h": 66,
+      "offX": 4,
+      "offY": 0,
+      "sourceW": 69,
+      "sourceH": 69
+    },
+    "peak_jihad_order_panel_close_png": {
+      "x": 830,
+      "y": 404,
+      "w": 33,
+      "h": 33,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 33,
+      "sourceH": 33
+    },
+    "peak_jihad_order_panel_got_png": {
+      "x": 594,
+      "y": 311,
+      "w": 179,
+      "h": 43,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 179,
+      "sourceH": 43
+    },
+    "peak_jihad_order_panel_got1_png": {
+      "x": 594,
+      "y": 266,
+      "w": 179,
+      "h": 43,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 179,
+      "sourceH": 43
+    },
+    "peak_jihad_order_panel_icon1_png": {
+      "x": 1708,
+      "y": 165,
+      "w": 47,
+      "h": 45,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 47,
+      "sourceH": 45
+    },
+    "peak_jihad_order_panel_itembg_png": {
+      "x": 1282,
+      "y": 165,
+      "w": 145,
+      "h": 169,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 145,
+      "sourceH": 169
+    },
+    "peak_jihad_order_panel_itembtnbg_png": {
+      "x": 688,
+      "y": 429,
+      "w": 139,
+      "h": 31,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 139,
+      "sourceH": 31
+    },
+    "peak_jihad_order_panel_itembuyno_png": {
+      "x": 775,
+      "y": 346,
+      "w": 39,
+      "h": 5,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 39,
+      "sourceH": 5
+    },
+    "peak_jihad_order_panel_itemnamebg_png": {
+      "x": 535,
+      "y": 462,
+      "w": 137,
+      "h": 22,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 137,
+      "sourceH": 22
+    },
+    "peak_jihad_order_panel_itemsalebg_png": {
+      "x": 535,
+      "y": 407,
+      "w": 40,
+      "h": 20,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 40,
+      "sourceH": 20
+    },
+    "peak_jihad_order_panel_item_num_bg_png": {
+      "x": 674,
+      "y": 462,
+      "w": 133,
+      "h": 21,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 133,
+      "sourceH": 21
+    },
+    "peak_jihad_order_panel_labg_png": {
+      "x": 272,
+      "y": 1,
+      "w": 261,
+      "h": 486,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 261,
+      "sourceH": 486
+    },
+    "peak_jihad_order_panel_numbg_png": {
+      "x": 1521,
+      "y": 165,
+      "w": 185,
+      "h": 48,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 185,
+      "sourceH": 48
+    },
+    "peak_jihad_order_panel_pop_add_png": {
+      "x": 2006,
+      "y": 412,
+      "w": 29,
+      "h": 28,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 29,
+      "sourceH": 28
+    },
+    "peak_jihad_order_panel_pop_btnbuy_png": {
+      "x": 1521,
+      "y": 357,
+      "w": 134,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 134,
+      "sourceH": 46
+    },
+    "peak_jihad_order_panel_pop_btncancel_png": {
+      "x": 1282,
+      "y": 384,
+      "w": 134,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 134,
+      "sourceH": 46
+    },
+    "peak_jihad_order_panel_pop_drop_png": {
+      "x": 918,
+      "y": 484,
+      "w": 29,
+      "h": 28,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 29,
+      "sourceH": 28
+    },
+    "peak_jihad_order_panel_pop_icon_gold_png": {
+      "x": 1731,
+      "y": 356,
+      "w": 27,
+      "h": 29,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 27,
+      "sourceH": 29
+    },
+    "peak_jihad_order_panel_pop_rec1_png": {
+      "x": 2031,
+      "y": 15,
+      "w": 12,
+      "h": 12,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 12,
+      "sourceH": 12
+    },
+    "peak_jihad_order_panel_pop_rec2_png": {
+      "x": 2031,
+      "y": 29,
+      "w": 12,
+      "h": 12,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 12,
+      "sourceH": 12
+    },
+    "peak_jihad_order_panel_pop_rec3_png": {
+      "x": 2031,
+      "y": 1,
+      "w": 12,
+      "h": 12,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 12,
+      "sourceH": 12
+    },
+    "peak_jihad_order_panel_pop_title1_png": {
+      "x": 1917,
+      "y": 448,
+      "w": 103,
+      "h": 31,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 103,
+      "sourceH": 31
+    },
+    "peak_jihad_order_panel_pop_title2_png": {
+      "x": 535,
+      "y": 429,
+      "w": 151,
+      "h": 31,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 151,
+      "sourceH": 31
+    },
+    "peak_jihad_order_panel_timebg_png": {
+      "x": 1418,
+      "y": 369,
+      "w": 87,
+      "h": 18,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 87,
+      "sourceH": 18
+    },
+    "peak_jihad_order_panel_title_png": {
+      "x": 535,
+      "y": 1,
+      "w": 423,
+      "h": 238,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 423,
+      "sourceH": 238
+    },
+    "peak_jihad_order_panel_txbg_png": {
+      "x": 1,
+      "y": 1,
+      "w": 269,
+      "h": 488,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 269,
+      "sourceH": 488
+    },
+    "peak_jihad_order_task_panel_btnmeiri_down_png": {
+      "x": 878,
+      "y": 241,
+      "w": 57,
+      "h": 139,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 57,
+      "sourceH": 139
+    },
+    "peak_jihad_order_task_panel_btnmeiri_up_png": {
+      "x": 535,
+      "y": 266,
+      "w": 57,
+      "h": 139,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 57,
+      "sourceH": 139
+    },
+    "peak_jihad_order_task_panel_btnmeizhou_down_png": {
+      "x": 1639,
+      "y": 215,
+      "w": 57,
+      "h": 139,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 57,
+      "sourceH": 139
+    },
+    "peak_jihad_order_task_panel_btnmeizhou_up_png": {
+      "x": 1698,
+      "y": 215,
+      "w": 57,
+      "h": 139,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 57,
+      "sourceH": 139
+    },
+    "peak_jihad_order_task_panel_btnsaiji_down_png": {
+      "x": 1521,
+      "y": 215,
+      "w": 57,
+      "h": 140,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 57,
+      "sourceH": 140
+    },
+    "peak_jihad_order_task_panel_btnsaiji_up_png": {
+      "x": 1580,
+      "y": 215,
+      "w": 57,
+      "h": 140,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 57,
+      "sourceH": 140
+    },
+    "peak_jihad_order_task_panel_get_png": {
+      "x": 1282,
+      "y": 336,
+      "w": 134,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 134,
+      "sourceH": 46
+    },
+    "peak_jihad_order_task_panel_go_png": {
+      "x": 1418,
+      "y": 405,
+      "w": 156,
+      "h": 32,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 156,
+      "sourceH": 32
+    },
+    "peak_jihad_order_task_panel_go1_png": {
+      "x": 1917,
+      "y": 481,
+      "w": 58,
+      "h": 19,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 58,
+      "sourceH": 19
+    },
+    "peak_jihad_order_task_panel_got_png": {
+      "x": 1863,
+      "y": 412,
+      "w": 141,
+      "h": 34,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 141,
+      "sourceH": 34
+    },
+    "peak_jihad_order_task_panel_got1_png": {
+      "x": 1977,
+      "y": 481,
+      "w": 58,
+      "h": 19,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 58,
+      "sourceH": 19
+    },
+    "peak_jihad_order_task_panel_itemgot_png": {
+      "x": 866,
+      "y": 382,
+      "w": 70,
+      "h": 70,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 70,
+      "sourceH": 70
+    },
+    "peak_jihad_order_task_panel_mas_png": {
+      "x": 1429,
+      "y": 165,
+      "w": 90,
+      "h": 202,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 90,
+      "sourceH": 202
+    },
+    "peak_jihad_order_task_panel_progress1_png": {
+      "x": 1282,
+      "y": 475,
+      "w": 633,
+      "h": 15,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 633,
+      "sourceH": 15
+    },
+    "peak_jihad_order_task_panel_progress_bg_png": {
+      "x": 960,
+      "y": 1,
+      "w": 925,
+      "h": 76,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 926,
+      "sourceH": 77
+    },
+    "peak_jihad_order_task_panel_progress_bg1_png": {
+      "x": 594,
+      "y": 404,
+      "w": 234,
+      "h": 23,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 234,
+      "sourceH": 23
+    },
+    "peak_jihad_order_task_panel_refresh_png": {
+      "x": 918,
+      "y": 454,
+      "w": 29,
+      "h": 28,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 29,
+      "sourceH": 28
+    },
+    "peak_jihad_order_task_panel_weektaskbg_png": {
+      "x": 960,
+      "y": 79,
+      "w": 799,
+      "h": 84,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 799,
+      "sourceH": 84
+    }
+  }
+}

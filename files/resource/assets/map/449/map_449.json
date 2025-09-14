@@ -1,0 +1,40 @@
+{
+  "groups": [
+    {
+      "keys": "road_449,exml_449,map_449_bg_mc_jpg,map_449_animator_mc_png,map_449_zhuzi_png,map_449_top_mc_png",
+      "name": "map_449"
+    }
+  ],
+  "resources": [
+    {
+      "type": "json",
+      "url": "449.json",
+      "name": "road_449"
+    },
+    {
+      "type": "text",
+      "url": "Map449Skin.exml",
+      "name": "exml_449"
+    },
+    {
+      "type": "image",
+      "url": "map_449_bg_mc.jpg",
+      "name": "map_449_bg_mc_jpg"
+    },
+    {
+      "type": "image",
+      "url": "map_449_animator_mc.png",
+      "name": "map_449_animator_mc_png"
+    },
+    {
+      "type": "image",
+      "url": "map_449_zhuzi.png",
+      "name": "map_449_zhuzi_png"
+    },
+    {
+      "type": "image",
+      "url": "map_449_top_mc.png",
+      "name": "map_449_top_mc_png"
+    }
+  ]
+}

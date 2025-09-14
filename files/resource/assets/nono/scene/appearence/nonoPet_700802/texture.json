@@ -1,0 +1,76 @@
+{
+  "imagePath": "texture.png",
+  "SubTexture": [
+    {
+      "name": "shadow",
+      "x": 0,
+      "width": 85,
+      "y": 0,
+      "height": 37
+    },
+    {
+      "name": "补间 17",
+      "x": 50,
+      "width": 21,
+      "y": 38,
+      "height": 15
+    },
+    {
+      "name": "补间 19",
+      "x": 116,
+      "width": 7,
+      "y": 0,
+      "height": 11
+    },
+    {
+      "name": "补间 20",
+      "x": 113,
+      "width": 13,
+      "y": 12,
+      "height": 21
+    },
+    {
+      "name": "补间 13",
+      "x": 86,
+      "width": 21,
+      "y": 22,
+      "height": 15
+    },
+    {
+      "name": "补间 15",
+      "x": 86,
+      "width": 29,
+      "y": 0,
+      "height": 9
+    },
+    {
+      "name": "补间 16",
+      "x": 86,
+      "width": 26,
+      "y": 10,
+      "height": 11
+    },
+    {
+      "name": "补间 21",
+      "x": 50,
+      "width": 45,
+      "y": 78,
+      "height": 41
+    },
+    {
+      "name": "补间 23",
+      "x": 0,
+      "width": 49,
+      "y": 38,
+      "height": 42
+    },
+    {
+      "name": "补间 24",
+      "x": 72,
+      "width": 47,
+      "y": 38,
+      "height": 39
+    }
+  ],
+  "name": "nonoPet_700802"
+}

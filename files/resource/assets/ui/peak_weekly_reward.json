@@ -1,0 +1,26 @@
+{
+  "groups": [
+    {
+      "name": "peak_weekly_reward",
+      "keys": "peak_weekly_reward_sheet,bbg_png,bg_png"
+    }
+  ],
+  "resources": [
+    {
+      "name": "bbg_png",
+      "type": "image",
+      "url": "peak_weekly_reward/outside/bbg.png"
+    },
+    {
+      "name": "bg_png",
+      "type": "image",
+      "url": "peak_weekly_reward/outside/bg.png"
+    },
+    {
+      "name": "peak_weekly_reward_sheet",
+      "type": "sheet",
+      "url": "peak_weekly_reward/peak_weekly_reward_sheet.json",
+      "subkeys": "peak_weekly_reward_bigPrize_png,peak_weekly_reward_btnGo_png,peak_weekly_reward_btnQuestion_png,peak_weekly_reward_btnZhong_png,peak_weekly_reward_hasGot_png,peak_weekly_reward_newyear_png,peak_weekly_reward_smallPrize_png,peak_weekly_reward_starSign_png,peak_weekly_reward_wintext_png"
+    }
+  ]
+}

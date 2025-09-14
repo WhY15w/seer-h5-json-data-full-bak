@@ -1,0 +1,16 @@
+{
+  "groups": [
+    {
+      "name": "mapChangeSelectPanel",
+      "keys": "mapChangeSelectPanel_sheet"
+    }
+  ],
+  "resources": [
+    {
+      "name": "mapChangeSelectPanel_sheet",
+      "type": "sheet",
+      "url": "mapChangeSelectPanel/mapChangeSelectPanel_sheet.json",
+      "subkeys": "mapChangeSelectPanel_icon1_png,mapChangeSelectPanel_mapbg_png,map_change_select_pop_btnclose_png,map_change_select_pop_btnleft_png,map_change_select_pop_btnright_png,map_change_select_pop_img1_png,map_change_select_pop_img2_png,map_change_select_pop_imgbg_png,map_change_select_pop_map1_png,map_change_select_pop_map2_png,map_change_select_pop_map3_png,map_change_select_pop_map4_png,map_change_select_pop_map5_png,map_change_select_pop_mapLight1_png,map_change_select_pop_mapLight2_png,map_change_select_pop_mapLight3_png,map_change_select_pop_mapLight4_png,map_change_select_pop_mapLight5_png"
+    }
+  ]
+}

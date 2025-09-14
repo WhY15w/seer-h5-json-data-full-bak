@@ -1,0 +1,31 @@
+{
+  "groups": [
+    {
+      "name": "blake_special_training",
+      "keys": "blake_special_training_sheet,blake_special_training_bg_jpg,blake_special_training_fightpopbg_png,blake_special_training_talentbg_png"
+    }
+  ],
+  "resources": [
+    {
+      "name": "blake_special_training_bg_jpg",
+      "type": "image",
+      "url": "blake_special_training/outside/blake_special_training_bg.jpg"
+    },
+    {
+      "name": "blake_special_training_fightpopbg_png",
+      "type": "image",
+      "url": "blake_special_training/outside/blake_special_training_fightpopbg.png"
+    },
+    {
+      "name": "blake_special_training_talentbg_png",
+      "type": "image",
+      "url": "blake_special_training/outside/blake_special_training_talentbg.png"
+    },
+    {
+      "name": "blake_special_training_sheet",
+      "type": "sheet",
+      "url": "blake_special_training/blake_special_training_sheet.json",
+      "subkeys": "blake_special_training_1_png,blake_special_training_2_png,blake_special_training_3_png,blake_special_training_bag_png,blake_special_training_blake_png,blake_special_training_btnchan_png,blake_special_training_btnreplace_png,blake_special_training_btntiaozhan_png,blake_special_training_close_png,blake_special_training_cure_png,blake_special_training_dr_png,blake_special_training_get_png,blake_special_training_got_png,blake_special_training_not_png,blake_special_training_p1_png,blake_special_training_select_png,blake_special_training_talent1_png,blake_special_training_talent2_png,blake_special_training_talent3_png,blake_special_training_title_png,blake_special_training_title1_png,blake_special_training_title2_png,blake_special_training_title3_png"
+    }
+  ]
+}

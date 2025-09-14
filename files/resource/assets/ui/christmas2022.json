@@ -1,0 +1,51 @@
+{
+  "groups": [
+    {
+      "name": "christmas2022",
+      "keys": "christmas2022_sheet,christmas2022_gift_bg_jpg,christmas2022_map_bg1_png,christmas2022_map_bg2_png,christmas2022_map_bg3_png,christmas2022_map_bg4_png,christmas2022_map_bg5_png,christmas2022_map_bg6_png"
+    }
+  ],
+  "resources": [
+    {
+      "name": "christmas2022_gift_bg_jpg",
+      "type": "image",
+      "url": "christmas2022/outside/christmas2022_gift_bg.jpg"
+    },
+    {
+      "name": "christmas2022_map_bg1_png",
+      "type": "image",
+      "url": "christmas2022/outside/christmas2022_map_bg1.png"
+    },
+    {
+      "name": "christmas2022_map_bg2_png",
+      "type": "image",
+      "url": "christmas2022/outside/christmas2022_map_bg2.png"
+    },
+    {
+      "name": "christmas2022_map_bg3_png",
+      "type": "image",
+      "url": "christmas2022/outside/christmas2022_map_bg3.png"
+    },
+    {
+      "name": "christmas2022_map_bg4_png",
+      "type": "image",
+      "url": "christmas2022/outside/christmas2022_map_bg4.png"
+    },
+    {
+      "name": "christmas2022_map_bg5_png",
+      "type": "image",
+      "url": "christmas2022/outside/christmas2022_map_bg5.png"
+    },
+    {
+      "name": "christmas2022_map_bg6_png",
+      "type": "image",
+      "url": "christmas2022/outside/christmas2022_map_bg6.png"
+    },
+    {
+      "name": "christmas2022_sheet",
+      "type": "sheet",
+      "url": "christmas2022/christmas2022_sheet.json",
+      "subkeys": "c2022_juxing_3_png,c2022__boss_1_png,c2022__boss_2_png,c2022__boss_3_png,c2022__boss_4_png,c2022__boss_5_png,c2022__boss_6_png,c2022__boss_7_png,c2022__boss_bossbg_png,c2022__boss_bosstitle_png,c2022__boss_btnfight_png,c2022__boss_btngiveup_png,c2022__boss_yjjx_4_png,c2022__check_jrzd_png,c2022__check_placebg_png,c2022__check_placetitle_png,c2022__check_tommorow_png,c2022__comfort_btnadd_png,c2022__comfort_btnuse_png,c2022__comfort_comfortbg_png,c2022__comfort_comforttitle_png,c2022__comfort_dbx_1_kb_png,c2022__comfort_huluobo_png,c2022__comfort_icon1_png,c2022__comfort_icon2_png,c2022__comfort_icon3_png,c2022__comfort_icon4_png,c2022__comfort_juxing_314_png,c2022__comfort_shenbiwu_png,c2022__comfort_tangdou_png,c2022__comfort_tuceng_47_png,c2022__comfort_zhiliaobao_png,c2022__popgift_btncomfirm_png,c2022__popgift_icon_png,c2022__popgift_popgiftbg_png,c2022__popgift_popgifttitle_png,c2022__popgift_yjjx_3_png,c2022__reward_btnclose_png,c2022__reward_rewardbg_png,c2022__reward_rewardtitle_png,c2022__reward_tuceng_60_png,christmas2022_gift_btmhelp1_png,christmas2022_gift_btmhelp2_png,christmas2022_gift_btncomfort_png,christmas2022_gift_btnfindgift_png,christmas2022_gift_btnreward_png,christmas2022_gift_dqzt_png,christmas2022_gift_kuang_png,christmas2022_gift_mood0_png,christmas2022_gift_mood1_png,christmas2022_gift_mood2_png,christmas2022_gift_mood3_png,christmas2022_gift_mood4_png,christmas2022_gift_state1_png,christmas2022_gift_state2_png,christmas2022_gift_xz_2_png,christmas2022_gift_xz_2_kb_png,christmas2022_map_btnbag_png,christmas2022_map_btncure_png,christmas2022_map_btngo_png,christmas2022_map_dbx_1_kb_png,christmas2022_map_juxing_1_png,christmas2022_map_juxing_2_png,christmas2022_map_liubian_png,christmas2022_map_tuceng_11_png,christmas2022_map_tuceng_12_png,christmas2022_map_tuceng_13_png,christmas2022_map_tuceng_14_png,christmas2022_map_tuceng_15_png,christmas2022_map_zu_71_png"
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "data": [
+    {
+      "firstData": {
+        "id": 1,
+        "name": "精灵图鉴",
+        "icon": "handbook_tab_1",
+        "panelCls": "",
+        "normalChirldIdx": 1
+      },
+      "childData": [
+        {
+          "id": 1,
+          "name": "所有",
+          "icon": "book_child_lab_all",
+          "panelCls": "AllMonsterPanel",
+          "log": "图鉴界面,点击【所有——精灵图鉴】次级页签,1023版本系统功能数据埋点"
+        },
+        {
+          "id": 2,
+          "name": "热门",
+          "icon": "book_child_lab_hot",
+          "panelCls": "HotMonsterPanel",
+          "log": "图鉴界面,点击【热门】次级页签,1023版本系统功能数据埋点"
+        },
+        {
+          "id": 3,
+          "name": "最新",
+          "icon": "book_child_lab_new",
+          "panelCls": "NewMonsterPanel",
+          "log": "图鉴界面,点击【最新】次级页签,1023版本系统功能数据埋点"
+        }
+      ]
+    },
+    {
+      "firstData": {
+        "id": 2,
+        "name": "皮肤图鉴",
+        "icon": "handbook_tab_2",
+        "panelCls": "SkinPanel"
+      },
+      "childData": [
+        {
+          "id": 1,
+          "icon": "book_child_lab_all",
+          "name": "所有",
+          "log": "图鉴界面,点击【所有——皮肤图鉴】次级页签,1023版本系统功能数据埋点"
+        },
+        {
+          "id": 4,
+          "icon": "book_child_lab_chuanshuo",
+          "name": "传说",
+          "log": "图鉴界面,点击【传说】次级页签,1023版本系统功能数据埋点"
+        },
+        {
+          "id": 3,
+          "icon": "book_child_lab_shishi",
+          "name": "史诗",
+          "log": "图鉴界面,点击【史诗】次级页签,1023版本系统功能数据埋点"
+        },
+        {
+          "id": 2,
+          "icon": "book_child_lab_hero",
+          "name": "经典",
+          "log": "图鉴界面,点击【经典】次级页签,1023版本系统功能数据埋点"
+        },
+        {
+          "id": 5,
+          "icon": "book_child_lab_xianding",
+          "name": "限定",
+          "log": "图鉴界面,点击【限定】次级页签,1023版本系统功能数据埋点"
+        }
+      ]
+    },
+    {
+      "firstData": {
+        "id": 3,
+        "name": "装扮图鉴",
+        "icon": "handbook_tab_3",
+        "panelCls": ""
+      },
+      "childData": [
+        {
+          "id": 1,
+          "name": "套装",
+          "icon": "book_child_lab_suit",
+          "panelCls": "AvatarSuitPanel",
+          "log": "图鉴界面,点击【套装】次级页签,1023版本系统功能数据埋点"
+        },
+        {
+          "id": 2,
+          "name": "部件",
+          "icon": "book_child_lab_part",
+          "panelCls": "AvatarPartPanel",
+          "log": "图鉴界面,点击【部件】次级页签,1023版本系统功能数据埋点"
+        },
+        {
+          "id": 3,
+          "name": "座驾",
+          "icon": "book_child_lab_seat",
+          "panelCls": "AvatarMountsPanel",
+          "log": "图鉴界面,点击【座驾】次级页签,1023版本系统功能数据埋点"
+        }
+      ]
+    },
+    {
+      "firstData": {
+        "id": 4,
+        "name": "刻印图鉴",
+        "icon": "handbook_tab_4",
+        "panelCls": "MarkPanel",
+        "isLast": 1
+      },
+      "childData": [
+        {
+          "id": 1,
+          "icon": "book_child_lab_all",
+          "name": "所有",
+          "log": "图鉴界面,点击【所有——刻印图鉴】,1023版本系统功能数据埋点"
+        },
+        {
+          "id": 2,
+          "icon": "book_child_lab_attack",
+          "name": "攻击"
+        },
+        {
+          "id": 3,
+          "icon": "book_child_lab_sattack",
+          "name": "特攻"
+        },
+        {
+          "id": 4,
+          "name": "速度",
+          "icon": "book_child_lab_speed"
+        },
+        {
+          "id": 5,
+          "name": "体力",
+          "icon": "book_child_lab_hp"
+        },
+        {
+          "id": 6,
+          "name": "双防",
+          "icon": "book_child_lab_sdefend"
+        }
+      ]
+    }
+  ]
+}

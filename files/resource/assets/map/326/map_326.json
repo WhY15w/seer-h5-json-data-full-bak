@@ -1,0 +1,45 @@
+{
+  "groups": [
+    {
+      "keys": "road_326,exml_326,map_326_bg_mc_jpg,map_326_zhuzi1_png,map_326_zhuzi2_png,map_326_zhuzi3_png,map_326_control_mc_png",
+      "name": "map_326"
+    }
+  ],
+  "resources": [
+    {
+      "type": "json",
+      "url": "326.json",
+      "name": "road_326"
+    },
+    {
+      "type": "text",
+      "url": "Map326Skin.exml",
+      "name": "exml_326"
+    },
+    {
+      "type": "image",
+      "url": "map_326_bg_mc.jpg",
+      "name": "map_326_bg_mc_jpg"
+    },
+    {
+      "type": "image",
+      "url": "map_326_zhuzi1.png",
+      "name": "map_326_zhuzi1_png"
+    },
+    {
+      "type": "image",
+      "url": "map_326_zhuzi2.png",
+      "name": "map_326_zhuzi2_png"
+    },
+    {
+      "type": "image",
+      "url": "map_326_zhuzi3.png",
+      "name": "map_326_zhuzi3_png"
+    },
+    {
+      "type": "image",
+      "url": "map_326_control_mc.png",
+      "name": "map_326_control_mc_png"
+    }
+  ]
+}

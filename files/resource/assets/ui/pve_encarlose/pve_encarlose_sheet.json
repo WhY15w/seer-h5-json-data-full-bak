@@ -1,0 +1,925 @@
+{
+  "file": "pve_encarlose_sheet.png",
+  "frames": {
+    "pve_encarlose_btnGo_png": {
+      "x": 863,
+      "y": 1305,
+      "w": 233,
+      "h": 100,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 233,
+      "sourceH": 100
+    },
+    "pve_encarlose_btnGo_0_png": {
+      "x": 1509,
+      "y": 1502,
+      "w": 268,
+      "h": 77,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 268,
+      "sourceH": 77
+    },
+    "pve_encarlose_btnGo_1_png": {
+      "x": 1779,
+      "y": 1502,
+      "w": 268,
+      "h": 77,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 268,
+      "sourceH": 77
+    },
+    "pve_encarlose_btnInfo_png": {
+      "x": 163,
+      "y": 1595,
+      "w": 74,
+      "h": 74,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 74,
+      "sourceH": 74
+    },
+    "pve_encarlose_evo_view_btnBalance_png": {
+      "x": 810,
+      "y": 557,
+      "w": 275,
+      "h": 77,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 275,
+      "sourceH": 77
+    },
+    "pve_encarlose_evo_view_btnEvo_png": {
+      "x": 671,
+      "y": 1407,
+      "w": 275,
+      "h": 77,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 275,
+      "sourceH": 77
+    },
+    "pve_encarlose_evo_view_btnFast_png": {
+      "x": 236,
+      "y": 1013,
+      "w": 120,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 120,
+      "sourceH": 40
+    },
+    "pve_encarlose_evo_view_btnFight_png": {
+      "x": 486,
+      "y": 1171,
+      "w": 120,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 120,
+      "sourceH": 40
+    },
+    "pve_encarlose_evo_view_btnGo_png": {
+      "x": 948,
+      "y": 1407,
+      "w": 120,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 120,
+      "sourceH": 40
+    },
+    "pve_encarlose_evo_view_btnIn_png": {
+      "x": 1232,
+      "y": 1462,
+      "w": 275,
+      "h": 77,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 275,
+      "sourceH": 77
+    },
+    "pve_encarlose_evo_view_btnOne_png": {
+      "x": 948,
+      "y": 1479,
+      "w": 275,
+      "h": 77,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 275,
+      "sourceH": 77
+    },
+    "pve_encarlose_evo_view_flag_done_png": {
+      "x": 671,
+      "y": 1354,
+      "w": 147,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 147,
+      "sourceH": 40
+    },
+    "pve_encarlose_evo_view_headbg_png": {
+      "x": 1243,
+      "y": 1541,
+      "w": 100,
+      "h": 100,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 100,
+      "sourceH": 100
+    },
+    "pve_encarlose_evo_view_head_124_png": {
+      "x": 83,
+      "y": 1595,
+      "w": 78,
+      "h": 78,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 78,
+      "sourceH": 78
+    },
+    "pve_encarlose_evo_view_head_1758_png": {
+      "x": 854,
+      "y": 1565,
+      "w": 80,
+      "h": 80,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 80,
+      "sourceH": 80
+    },
+    "pve_encarlose_evo_view_head_2311_png": {
+      "x": 1087,
+      "y": 557,
+      "w": 80,
+      "h": 80,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 80,
+      "sourceH": 80
+    },
+    "pve_encarlose_evo_view_head_2924_png": {
+      "x": 1345,
+      "y": 1541,
+      "w": 100,
+      "h": 100,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 100,
+      "sourceH": 100
+    },
+    "pve_encarlose_evo_view_head_2944_png": {
+      "x": 1943,
+      "y": 159,
+      "w": 100,
+      "h": 100,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 100,
+      "sourceH": 100
+    },
+    "pve_encarlose_evo_view_head_3044_png": {
+      "x": 1918,
+      "y": 612,
+      "w": 100,
+      "h": 100,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 100,
+      "sourceH": 100
+    },
+    "pve_encarlose_evo_view_head_3045_png": {
+      "x": 1,
+      "y": 1595,
+      "w": 80,
+      "h": 80,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 80,
+      "sourceH": 80
+    },
+    "pve_encarlose_evo_view_head_3456_png": {
+      "x": 1918,
+      "y": 714,
+      "w": 100,
+      "h": 100,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 100,
+      "sourceH": 100
+    },
+    "pve_encarlose_evo_view_head_3464_png": {
+      "x": 486,
+      "y": 1069,
+      "w": 100,
+      "h": 100,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 100,
+      "sourceH": 100
+    },
+    "pve_encarlose_evo_view_imgBtn_cure_png": {
+      "x": 1252,
+      "y": 1055,
+      "w": 60,
+      "h": 60,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 60,
+      "sourceH": 60
+    },
+    "pve_encarlose_evo_view_imgBtn_pet_png": {
+      "x": 1977,
+      "y": 932,
+      "w": 60,
+      "h": 60,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 60,
+      "sourceH": 60
+    },
+    "pve_encarlose_evo_view_imgebtngo1_png": {
+      "x": 936,
+      "y": 1598,
+      "w": 114,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 114,
+      "sourceH": 40
+    },
+    "pve_encarlose_evo_view_imgedone_png": {
+      "x": 1723,
+      "y": 1581,
+      "w": 323,
+      "h": 28,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 323,
+      "sourceH": 28
+    },
+    "pve_encarlose_evo_view_imgetuijian1_png": {
+      "x": 1560,
+      "y": 614,
+      "w": 356,
+      "h": 235,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 356,
+      "sourceH": 235
+    },
+    "pve_encarlose_evo_view_imgetuijian2_png": {
+      "x": 1,
+      "y": 543,
+      "w": 356,
+      "h": 235,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 356,
+      "sourceH": 235
+    },
+    "pve_encarlose_evo_view_imginit_png": {
+      "x": 486,
+      "y": 1229,
+      "w": 506,
+      "h": 60,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 506,
+      "sourceH": 60
+    },
+    "pve_encarlose_evo_view_img_bar_0_png": {
+      "x": 1608,
+      "y": 851,
+      "w": 233,
+      "h": 281,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 233,
+      "sourceH": 281
+    },
+    "pve_encarlose_evo_view_img_bar_1_png": {
+      "x": 1,
+      "y": 1013,
+      "w": 233,
+      "h": 281,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 233,
+      "sourceH": 281
+    },
+    "pve_encarlose_evo_view_img_cj_png": {
+      "x": 543,
+      "y": 457,
+      "w": 265,
+      "h": 344,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 265,
+      "sourceH": 344
+    },
+    "pve_encarlose_evo_view_img_enegy_0_png": {
+      "x": 629,
+      "y": 977,
+      "w": 137,
+      "h": 45,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 137,
+      "sourceH": 45
+    },
+    "pve_encarlose_evo_view_img_enegy_1_png": {
+      "x": 359,
+      "y": 731,
+      "w": 138,
+      "h": 45,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 138,
+      "sourceH": 45
+    },
+    "pve_encarlose_evo_view_img_kr_png": {
+      "x": 1560,
+      "y": 268,
+      "w": 266,
+      "h": 344,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 266,
+      "sourceH": 344
+    },
+    "pve_encarlose_evo_view_line_png": {
+      "x": 486,
+      "y": 1291,
+      "w": 349,
+      "h": 2,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 349,
+      "sourceH": 2
+    },
+    "pve_encarlose_evo_view_line1_png": {
+      "x": 2045,
+      "y": 1,
+      "w": 2,
+      "h": 639,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 2,
+      "sourceH": 639
+    },
+    "pve_encarlose_evo_view_powerbg_0_png": {
+      "x": 1751,
+      "y": 1231,
+      "w": 292,
+      "h": 95,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 292,
+      "sourceH": 95
+    },
+    "pve_encarlose_evo_view_powerbg_1_png": {
+      "x": 1751,
+      "y": 1134,
+      "w": 293,
+      "h": 95,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 293,
+      "sourceH": 95
+    },
+    "pve_encarlose_evo_view_powerbg_23232_png": {
+      "x": 1447,
+      "y": 1581,
+      "w": 274,
+      "h": 34,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 274,
+      "sourceH": 34
+    },
+    "pve_encarlose_evo_view_rightbg_png": {
+      "x": 1,
+      "y": 780,
+      "w": 360,
+      "h": 231,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 360,
+      "sourceH": 231
+    },
+    "pve_encarlose_evo_view_rightbg2_png": {
+      "x": 1175,
+      "y": 1,
+      "w": 383,
+      "h": 639,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 383,
+      "sourceH": 639
+    },
+    "pve_encarlose_evo_view_title_png": {
+      "x": 577,
+      "y": 1565,
+      "w": 275,
+      "h": 36,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 275,
+      "sourceH": 36
+    },
+    "pve_encarlose_flag_got_png": {
+      "x": 311,
+      "y": 1528,
+      "w": 264,
+      "h": 76,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 264,
+      "sourceH": 76
+    },
+    "pve_encarlose_helpBtn_png_png": {
+      "x": 2012,
+      "y": 261,
+      "w": 31,
+      "h": 34,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 31,
+      "sourceH": 34
+    },
+    "pve_encarlose_img_j_png": {
+      "x": 1999,
+      "y": 488,
+      "w": 39,
+      "h": 10,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 39,
+      "sourceH": 10
+    },
+    "pve_encarlose_img_j_0_png": {
+      "x": 1999,
+      "y": 500,
+      "w": 39,
+      "h": 10,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 39,
+      "sourceH": 10
+    },
+    "pve_encarlose_img_j_1_png": {
+      "x": 1999,
+      "y": 476,
+      "w": 39,
+      "h": 10,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 39,
+      "sourceH": 10
+    },
+    "pve_encarlose_justin_pop_img_png": {
+      "x": 1,
+      "y": 1,
+      "w": 540,
+      "h": 540,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 540,
+      "sourceH": 540
+    },
+    "pve_encarlose_justin_pop_light_1_png": {
+      "x": 1076,
+      "y": 789,
+      "w": 264,
+      "h": 264,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 264,
+      "sourceH": 264
+    },
+    "pve_encarlose_justin_pop_light_2_png": {
+      "x": 363,
+      "y": 803,
+      "w": 264,
+      "h": 264,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 264,
+      "sourceH": 264
+    },
+    "pve_encarlose_justin_pop_light_3_png": {
+      "x": 1342,
+      "y": 851,
+      "w": 264,
+      "h": 264,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 264,
+      "sourceH": 264
+    },
+    "pve_encarlose_justin_pop_light_4_png": {
+      "x": 810,
+      "y": 789,
+      "w": 264,
+      "h": 264,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 264,
+      "sourceH": 264
+    },
+    "pve_encarlose_justin_pop_mask_1_png": {
+      "x": 1252,
+      "y": 1117,
+      "w": 248,
+      "h": 248,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 248,
+      "sourceH": 248
+    },
+    "pve_encarlose_justin_pop_mask_2_png": {
+      "x": 1502,
+      "y": 1134,
+      "w": 247,
+      "h": 247,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 247,
+      "sourceH": 247
+    },
+    "pve_encarlose_justin_pop_mask_3_png": {
+      "x": 1002,
+      "y": 1055,
+      "w": 248,
+      "h": 248,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 248,
+      "sourceH": 248
+    },
+    "pve_encarlose_justin_pop_mask_4_png": {
+      "x": 236,
+      "y": 1069,
+      "w": 248,
+      "h": 248,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 248,
+      "sourceH": 248
+    },
+    "pve_encarlose_justin_view_btnPlus_png": {
+      "x": 1999,
+      "y": 440,
+      "w": 34,
+      "h": 34,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 34,
+      "sourceH": 34
+    },
+    "pve_encarlose_justin_view_bubbleBg_png": {
+      "x": 810,
+      "y": 457,
+      "w": 328,
+      "h": 98,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 328,
+      "sourceH": 98
+    },
+    "pve_encarlose_justin_view_flag_tomorrow_png": {
+      "x": 1509,
+      "y": 1435,
+      "w": 228,
+      "h": 45,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 228,
+      "sourceH": 45
+    },
+    "pve_encarlose_justin_view_greenBtn_png": {
+      "x": 1232,
+      "y": 1383,
+      "w": 275,
+      "h": 77,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 275,
+      "sourceH": 77
+    },
+    "pve_encarlose_justin_view_img_selected_png": {
+      "x": 359,
+      "y": 543,
+      "w": 146,
+      "h": 186,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 146,
+      "sourceH": 186
+    },
+    "pve_encarlose_justin_view_img_signed_png": {
+      "x": 1751,
+      "y": 1328,
+      "w": 132,
+      "h": 172,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 132,
+      "sourceH": 172
+    },
+    "pve_encarlose_justin_view_item_1_png": {
+      "x": 1885,
+      "y": 1328,
+      "w": 132,
+      "h": 172,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 132,
+      "sourceH": 172
+    },
+    "pve_encarlose_justin_view_item_10_png": {
+      "x": 1,
+      "y": 1354,
+      "w": 132,
+      "h": 172,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 132,
+      "sourceH": 172
+    },
+    "pve_encarlose_justin_view_item_2_png": {
+      "x": 135,
+      "y": 1354,
+      "w": 132,
+      "h": 172,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 132,
+      "sourceH": 172
+    },
+    "pve_encarlose_justin_view_item_3_png": {
+      "x": 269,
+      "y": 1354,
+      "w": 132,
+      "h": 172,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 132,
+      "sourceH": 172
+    },
+    "pve_encarlose_justin_view_item_4_png": {
+      "x": 403,
+      "y": 1354,
+      "w": 132,
+      "h": 172,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 132,
+      "sourceH": 172
+    },
+    "pve_encarlose_justin_view_item_5_png": {
+      "x": 537,
+      "y": 1354,
+      "w": 132,
+      "h": 172,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 132,
+      "sourceH": 172
+    },
+    "pve_encarlose_justin_view_item_6_png": {
+      "x": 1389,
+      "y": 642,
+      "w": 132,
+      "h": 172,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 132,
+      "sourceH": 172
+    },
+    "pve_encarlose_justin_view_item_7_png": {
+      "x": 629,
+      "y": 803,
+      "w": 132,
+      "h": 172,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 132,
+      "sourceH": 172
+    },
+    "pve_encarlose_justin_view_item_8_png": {
+      "x": 1843,
+      "y": 851,
+      "w": 132,
+      "h": 172,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 132,
+      "sourceH": 172
+    },
+    "pve_encarlose_justin_view_item_9_png": {
+      "x": 1098,
+      "y": 1305,
+      "w": 132,
+      "h": 172,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 132,
+      "sourceH": 172
+    },
+    "pve_encarlose_justin_view_npcbg_png": {
+      "x": 629,
+      "y": 1055,
+      "w": 371,
+      "h": 172,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 371,
+      "sourceH": 172
+    },
+    "pve_encarlose_justin_view_orangeBtn_png": {
+      "x": 671,
+      "y": 1486,
+      "w": 275,
+      "h": 77,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 275,
+      "sourceH": 77
+    },
+    "pve_encarlose_justin_view_title_png": {
+      "x": 810,
+      "y": 642,
+      "w": 577,
+      "h": 145,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 577,
+      "sourceH": 145
+    },
+    "pve_encarlose_justin_view_txtbg_png": {
+      "x": 1342,
+      "y": 816,
+      "w": 204,
+      "h": 26,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 204,
+      "sourceH": 26
+    },
+    "pve_encarlose_sucai_png": {
+      "x": 1,
+      "y": 1528,
+      "w": 308,
+      "h": 65,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 308,
+      "sourceH": 65
+    },
+    "pve_encarlose_task_candlebg_png": {
+      "x": 1828,
+      "y": 440,
+      "w": 169,
+      "h": 170,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 169,
+      "sourceH": 170
+    },
+    "pve_encarlose_task_candle_off_png": {
+      "x": 1977,
+      "y": 816,
+      "w": 53,
+      "h": 114,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 53,
+      "sourceH": 114
+    },
+    "pve_encarlose_task_candle_on_png": {
+      "x": 1943,
+      "y": 1,
+      "w": 70,
+      "h": 156,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 70,
+      "sourceH": 156
+    },
+    "pve_encarlose_task_gem_png": {
+      "x": 1828,
+      "y": 268,
+      "w": 182,
+      "h": 170,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 182,
+      "sourceH": 170
+    },
+    "pve_encarlose_task_light_png": {
+      "x": 1560,
+      "y": 1,
+      "w": 381,
+      "h": 265,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 381,
+      "sourceH": 265
+    },
+    "pve_encarlose_task_numbg_png": {
+      "x": 948,
+      "y": 1558,
+      "w": 293,
+      "h": 38,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 293,
+      "sourceH": 38
+    },
+    "pve_encarlose_task_timeBg_png": {
+      "x": 1843,
+      "y": 1025,
+      "w": 170,
+      "h": 77,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 170,
+      "sourceH": 77
+    },
+    "pve_encarlose_task_title_1_png": {
+      "x": 577,
+      "y": 1603,
+      "w": 125,
+      "h": 36,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 125,
+      "sourceH": 36
+    },
+    "pve_encarlose_task_title_2_png": {
+      "x": 704,
+      "y": 1603,
+      "w": 125,
+      "h": 36,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 125,
+      "sourceH": 36
+    },
+    "pve_encarlose_task_title_3_png": {
+      "x": 239,
+      "y": 1606,
+      "w": 125,
+      "h": 36,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 125,
+      "sourceH": 36
+    },
+    "pve_encarlose_task_title_4_png": {
+      "x": 1052,
+      "y": 1598,
+      "w": 125,
+      "h": 36,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 125,
+      "sourceH": 36
+    },
+    "pve_encarlose_title_png": {
+      "x": 543,
+      "y": 1,
+      "w": 630,
+      "h": 454,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 630,
+      "sourceH": 454
+    },
+    "pve_encarlose_txtbg_png": {
+      "x": 1,
+      "y": 1319,
+      "w": 860,
+      "h": 33,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 860,
+      "sourceH": 33
+    },
+    "pve_encarlose_up_bg_png": {
+      "x": 1509,
+      "y": 1383,
+      "w": 207,
+      "h": 50,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 207,
+      "sourceH": 50
+    }
+  }
+}

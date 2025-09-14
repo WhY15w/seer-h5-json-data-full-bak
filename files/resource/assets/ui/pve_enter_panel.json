@@ -1,0 +1,36 @@
+{
+  "groups": [
+    {
+      "name": "pve_enter_panel",
+      "keys": "pve_enter_panel_sheet,H5xinshoujiemian_ske_json,H5xinshoujiemian_tex_json,H5xinshoujiemian_tex_png,pve_resource_collection_bg_jpg"
+    }
+  ],
+  "resources": [
+    {
+      "name": "H5xinshoujiemian_ske_json",
+      "type": "json",
+      "url": "pve_enter_panel/outside/H5xinshoujiemian_ske.json"
+    },
+    {
+      "name": "H5xinshoujiemian_tex_json",
+      "type": "json",
+      "url": "pve_enter_panel/outside/H5xinshoujiemian_tex.json"
+    },
+    {
+      "name": "H5xinshoujiemian_tex_png",
+      "type": "image",
+      "url": "pve_enter_panel/outside/H5xinshoujiemian_tex.png"
+    },
+    {
+      "name": "pve_resource_collection_bg_jpg",
+      "type": "image",
+      "url": "pve_enter_panel/outside/pve_resource_collection_bg.jpg"
+    },
+    {
+      "name": "pve_enter_panel_sheet",
+      "type": "sheet",
+      "url": "pve_enter_panel/pve_enter_panel_sheet.json",
+      "subkeys": "pet_resource_award_item_bg_png,pve_enter_item_type_3_img_clear_png,pve_enter_item_type_5_barBg_png,pve_enter_item_type_5_img_bar_png,pve_enter_item_type_5_img_lock_png,pve_enter_main_img_1_png,pve_enter_main_img_2_png,pve_enter_main_img_3_png,pve_enter_panel0_down_png,pve_enter_panel0_up_png,pve_enter_panel1_down_png,pve_enter_panel1_up_png,pve_enter_panel2_down_png,pve_enter_panel2_up_png,pve_enter_panel3_down_png,pve_enter_panel3_up_png,pve_enter_panel_btnget_png,pve_enter_panel_btngo_png,pve_enter_panel_hasgot_png,pve_enter_panel_icon_png,pve_enter_panel_icon_bg_png,pve_enter_panel_imgBtn_reward_png,pve_enter_panel_imgBtn_task_png,pve_enter_panel_item_init_png,pve_enter_panel_item_init2_png,pve_enter_panel_lock_png,pve_enter_panel_taskbg_png,pve_enter_panel_texture_Dark_png,pve_enter_panel_texture_Light_png,pve_enter_panel_texture_Light_1_png,pve_enter_panel_texture_reward_bg_png,pve_enter_panel_timesbg_type1_png,pve_enter_panel_timesbg_type2_png,pve_enter_panel_title_1_png,pve_enter_panel_title_2_png,pve_enter_panel_txttitletoday_png,pve_enter_panel_txttitleweekly_png,pve_resource_collection0_down_png,pve_resource_collection0_down_di_png,pve_resource_collection0_up_png,pve_resource_collection1_down_png,pve_resource_collection1_down_di_png,pve_resource_collection1_up_png,pve_resource_collection2_down_png,pve_resource_collection2_down_di_png,pve_resource_collection2_up_png,pve_resource_collection_btnAdd_png,pve_resource_collection_btnBack_png,pve_resource_collection_iconGold_png,pve_resource_collection_img_di2_png,pve_resource_collection_leftbg_png,pve_resource_collection_rbdown_png,pve_resource_collection_rbup_png,pve_resource_collection_second_di_png,pve_resource_collection_title_png,pve_resource_mark_item_achieve_num_10_png,pve_resource_mark_item_achieve_num_15_png,pve_resource_mark_item_achieve_num_20_png,pve_resource_mark_item_achieve_num_25_png,pve_resource_mark_item_achieve_num_30_png,pve_resource_mark_item_achieve_num_35_png,pve_resource_mark_item_achieve_num_40_png,pve_resource_mark_item_achieve_num_45_png,pve_resource_mark_item_bg_png,pve_resource_mark_item_namebg_png,pve_resource_mark_item_tagbg_png,pve_resource_mark_item_timebg_png,pve_resource_pet_pop_btnDetail_png,pve_resource_pet_pop_headFrame_png,pve_resource_pet_pop_petbg_png,pve_resource_pet_pop_title_png,pve_resource_strong_pet_item_btnbg_png,pve_resource_strong_pet_item_coin_png,pve_resource_strong_pet_item_linedone_png,pve_resource_strong_pet_item_tagbg_png,pve_resource_strong_pet_item_waikuang_png,pve_resource_strong_pet_item_zhezhao_png,pve_resource_strong_pet_rbbg_png,pve_resource_strong_pet_rbdown_png"
+    }
+  ]
+}

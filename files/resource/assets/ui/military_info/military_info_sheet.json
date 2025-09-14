@@ -1,0 +1,245 @@
+{
+  "file": "military_info_sheet.png",
+  "frames": {
+    "military_info_detail_view_btnup_png": {
+      "x": 533,
+      "y": 551,
+      "w": 114,
+      "h": 79,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 114,
+      "sourceH": 79
+    },
+    "military_info_detail_view_imgprogress_png": {
+      "x": 533,
+      "y": 632,
+      "w": 392,
+      "h": 12,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 392,
+      "sourceH": 12
+    },
+    "military_info_detail_view_imgprogressbg_png": {
+      "x": 533,
+      "y": 646,
+      "w": 392,
+      "h": 12,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 392,
+      "sourceH": 12
+    },
+    "military_info_detail_view_imgtopbg_png": {
+      "x": 1,
+      "y": 329,
+      "w": 921,
+      "h": 109,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 921,
+      "sourceH": 109
+    },
+    "military_info_help_pop_imgseer_png": {
+      "x": 881,
+      "y": 1,
+      "w": 104,
+      "h": 155,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 104,
+      "sourceH": 155
+    },
+    "military_info_help_pop_imgtitle_png": {
+      "x": 709,
+      "y": 271,
+      "w": 162,
+      "h": 43,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 162,
+      "sourceH": 43
+    },
+    "military_info_imgtitle_png": {
+      "x": 916,
+      "y": 551,
+      "w": 102,
+      "h": 32,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 102,
+      "sourceH": 32
+    },
+    "military_info_military_item_imgbg_png": {
+      "x": 1,
+      "y": 551,
+      "w": 230,
+      "h": 399,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 230,
+      "sourceH": 399
+    },
+    "military_info_military_item_imgempty_png": {
+      "x": 881,
+      "y": 158,
+      "w": 100,
+      "h": 159,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 100,
+      "sourceH": 159
+    },
+    "military_info_military_item_imgget_png": {
+      "x": 785,
+      "y": 551,
+      "w": 129,
+      "h": 44,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 129,
+      "sourceH": 44
+    },
+    "military_info_military_item_imghas_png": {
+      "x": 517,
+      "y": 174,
+      "w": 185,
+      "h": 100,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 185,
+      "sourceH": 100
+    },
+    "military_info_military_item_imgselected_png": {
+      "x": 983,
+      "y": 158,
+      "w": 40,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 40,
+      "sourceH": 40
+    },
+    "military_info_reward_item_imgbg_png": {
+      "x": 517,
+      "y": 1,
+      "w": 180,
+      "h": 171,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 180,
+      "sourceH": 171
+    },
+    "military_info_reward_item_imgbtn_png": {
+      "x": 517,
+      "y": 276,
+      "w": 190,
+      "h": 39,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 190,
+      "sourceH": 39
+    },
+    "military_info_reward_item_imgcoin_png": {
+      "x": 987,
+      "y": 1,
+      "w": 25,
+      "h": 29,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 25,
+      "sourceH": 29
+    },
+    "military_info_reward_item_imgselected_png": {
+      "x": 699,
+      "y": 1,
+      "w": 180,
+      "h": 171,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 180,
+      "sourceH": 171
+    },
+    "military_info_reward_pop_imgbg_png": {
+      "x": 1,
+      "y": 1,
+      "w": 514,
+      "h": 326,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 514,
+      "sourceH": 326
+    },
+    "military_info_reward_pop_imgup_png": {
+      "x": 987,
+      "y": 32,
+      "w": 21,
+      "h": 26,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 21,
+      "sourceH": 26
+    },
+    "military_info_reward_pop_item_imgbg1_png": {
+      "x": 383,
+      "y": 551,
+      "w": 148,
+      "h": 172,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 148,
+      "sourceH": 172
+    },
+    "military_info_reward_pop_item_imgbg2_png": {
+      "x": 233,
+      "y": 551,
+      "w": 148,
+      "h": 172,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 148,
+      "sourceH": 172
+    },
+    "military_info_reward_view_btnroll_png": {
+      "x": 649,
+      "y": 551,
+      "w": 134,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 134,
+      "sourceH": 46
+    },
+    "military_info_reward_view_imgbox_png": {
+      "x": 924,
+      "y": 319,
+      "w": 59,
+      "h": 49,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 59,
+      "sourceH": 49
+    },
+    "military_info_reward_view_imgmagnifier_png": {
+      "x": 704,
+      "y": 174,
+      "w": 168,
+      "h": 95,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 168,
+      "sourceH": 95
+    },
+    "military_info_reward_view_imgtopbg_png": {
+      "x": 1,
+      "y": 440,
+      "w": 921,
+      "h": 109,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 921,
+      "sourceH": 109
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "groups": [
+    {
+      "name": "vip",
+      "keys": "vip_sheet,H5xinshoujiemian_ske_json,H5xinshoujiemian_tex_json,H5xinshoujiemian_tex_png,vip1_bg_jpg"
+    }
+  ],
+  "resources": [
+    {
+      "name": "H5xinshoujiemian_ske_json",
+      "type": "json",
+      "url": "vip/outside/H5xinshoujiemian_ske.json"
+    },
+    {
+      "name": "H5xinshoujiemian_tex_json",
+      "type": "json",
+      "url": "vip/outside/H5xinshoujiemian_tex.json"
+    },
+    {
+      "name": "H5xinshoujiemian_tex_png",
+      "type": "image",
+      "url": "vip/outside/H5xinshoujiemian_tex.png"
+    },
+    {
+      "name": "vip1_bg_jpg",
+      "type": "image",
+      "url": "vip/outside/vip1_bg.jpg"
+    },
+    {
+      "name": "vip_sheet",
+      "type": "sheet",
+      "url": "vip/vip_sheet.json",
+      "subkeys": "vip_item_img1_png,vip_item_img2_png,vip_reward_view_imgdaygift_png,vip_reward_view_imgmonthgift_png,vip_reward_view_imgweekgift_png,vip1_btnclose_png,vip1_img2_png,vip1_imgtitle_png,vip1_imgtitlebg_png,vip1_imgupbg_png,vip1_malldown_png,vip1_mallup_png,vip1_rewarddown_png,vip1_rewardup_png,vip1_rightdown_png,vip1_rightup_png,vip_imgredpoint_png,vip_mall_view_btnadd1_png,vip_mall_view_btnadd2_png,vip_mall_view_img1_png,vip_mall_view_img2_png,vip_mall_view_imgtitle_png,vip_mall_view_img_di2_png,vip_monthly_pet_pop_btnclose_png,vip_monthly_pet_pop_btninfo_png,vip_monthly_pet_pop_chongzhibg1_png,vip_monthly_pet_pop_img1_png,vip_monthly_pet_pop_imgbg_png,vip_monthly_pet_pop_imgno1_png,vip_monthly_pet_pop_imgte2_png,vip_monthly_pet_pop_imgwu1_png,vip_monthly_pet_pop_tag1_png,vip_monthly_pet_pop_tag2_png,vip_monthly_pet_pop_tag3_png,vip_reward_rule_pop1_img1_png,vip_reward_rule_pop1_img2_png,vip_reward_rule_pop1_img3_png,vip_reward_rule_pop1_light1_png,vip_reward_rule_pop2_img1_png,vip_reward_rule_pop2_img2_png,vip_reward_rule_pop2_img3_png,vip_reward_rule_pop2_light1_png,vip_reward_rule_pop3_img1_png,vip_reward_rule_pop3_img2_png,vip_reward_rule_pop3_img3_png,vip_reward_rule_pop3_light1_png,progress2_png,vipss_imgtitle_png,vipss_img_goto1_png,vipss_img_goto2_png,vipss_img_goto3_png,vip_reward_view_btnget_png,vip_reward_view_btnhelp_png,vip_reward_view_imgbg_png,vip_reward_view_imgtitle_png,vip_reward_view_imgtitle2_png,vip_reward_view_imgtitle2bg_png,vip_reward_view_progress_png,vip1_1_png,vip1_10_png,vip1_2_png,vip1_3_png,vip1_4_png,vip1_5_png,vip1_6_png,vip1_7_png,vip1_8_png,vip1_9_png,vip1_btnbg_png,vip1_btnhelp_png,vip1_fengexian_png,vip1_imgprogress_png,vip1_imgprogressbg__png,vip1_notvip_png,vip1_tequanbg_png,vip1_vip_png,vip1_viptopbg_png,viplevelrulepop_btnclose_png,viplevelrulepop_exp_png,viplevelrulepop_vipjifen_png,vip_suit_item_imgbg_png,vip_suit_item_imgtitle1_png,vip_suit_item_imgtitle2_png,vip_suit_item_imgtitle3_png,vip_suit_pop_di_l_png"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "groups": [
+    {
+      "name": "exchange_award_prompt_view",
+      "keys": "exchange_award_prompt_view_sheet"
+    }
+  ],
+  "resources": [
+    {
+      "name": "exchange_award_prompt_view_sheet",
+      "type": "sheet",
+      "url": "exchange_award_prompt_view/exchange_award_prompt_view_sheet.json",
+      "subkeys": "achieve_view_title_png,counter_mark_view_imgBtn_exchange_png,counter_mark_view_imgMark_png,counter_mark_view_title_buymake_png,equipment_view_title_png,exchange_main_btnAdd_png,exchange_main_img_di2_png,fifth_skill_view_title_png,flypet_view_title_png,flypet_view_up_bg_png,headFrame_view_title_png,head_view_title_png,item_view_btnAdd_png,item_view_btnbg_png,item_view_btnBuy_png,item_view_btnBuy_s_png,item_view_btnMax_png,item_view_btnMin_png,item_view_btnSub_png,item_view_icon_cost_png,item_view_imgBg_png,item_view_imgMarkBg_png,item_view_img_bar_png,item_view_img_point_png,item_view_img_thumb_png,item_view_special_icon_0_png,item_view_special_icon_1_png,item_view_texture_slider_track_png,item_view_texture_txtBg_png,item_view_title_item_buy_png,pet_view_title_png,skin_view_btnInfo_png,skin_view_petFrame_png,skin_view_title_png,special_gift_title_png,suit_view_hero_show_png,suit_view_icon_png,suit_view_icon_item_png,suit_view_Kuang_png,suit_view_texture_001_png,suit_view_texture_002_png,suit_view_title_suit_png"
+    }
+  ]
+}

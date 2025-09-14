@@ -1,0 +1,30 @@
+{
+  "resources": [
+    {
+      "type": "json",
+      "url": "704.json",
+      "name": "road_704"
+    },
+    {
+      "type": "text",
+      "url": "Map704Skin.exml",
+      "name": "exml_704"
+    },
+    {
+      "type": "image",
+      "url": "map_704_bg_mc.jpg",
+      "name": "map_704_bg_mc_jpg"
+    },
+    {
+      "type": "image",
+      "url": "map_704_top_mc.png",
+      "name": "map_704_top_mc_png"
+    }
+  ],
+  "groups": [
+    {
+      "keys": "road_704,exml_704,map_704_bg_mc_jpg,map_704_top_mc_png",
+      "name": "map_704"
+    }
+  ]
+}

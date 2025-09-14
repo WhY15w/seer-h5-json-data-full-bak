@@ -1,0 +1,259 @@
+{
+  "frameRate": 24,
+  "name": "show_nonoPet_700832",
+  "version": "5.5",
+  "compatibleVersion": "5.5",
+  "armature": [
+    {
+      "name": "nono",
+      "bone": [
+        {
+          "inheritScale": false,
+          "name": "touying",
+          "transform": {
+            "x": -4.25,
+            "y": 83.63,
+            "scX": 0.81,
+            "scY": 0.81
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "图层 6",
+          "transform": {
+            "x": 17.38,
+            "y": 9.75
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "图层 7",
+          "transform": {
+            "x": -25,
+            "y": 14
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "图层 8",
+          "transform": {
+            "x": -8.37,
+            "y": 37.13,
+            "scY": 0.9991
+          }
+        }
+      ],
+      "slot": [
+        {
+          "name": "touying",
+          "parent": "touying"
+        },
+        {
+          "name": "图层 6",
+          "parent": "图层 6"
+        },
+        {
+          "name": "图层 7",
+          "parent": "图层 7"
+        },
+        {
+          "name": "图层 8",
+          "parent": "图层 8"
+        }
+      ],
+      "skin": [
+        {
+          "slot": [
+            {
+              "name": "touying",
+              "display": [
+                {
+                  "name": "touying",
+                  "transform": {
+                    "x": 1,
+                    "y": 0.88
+                  }
+                }
+              ]
+            },
+            {
+              "name": "图层 6",
+              "display": [
+                {
+                  "name": "重复项目文件夹/liqsli_1_7_8146",
+                  "transform": {
+                    "x": 21.13,
+                    "y": 4.75
+                  }
+                }
+              ]
+            },
+            {
+              "name": "图层 7",
+              "display": [
+                {
+                  "name": "重复项目文件夹/liqsli_1_6_52897",
+                  "transform": {
+                    "x": -20.37,
+                    "y": 0.5
+                  }
+                }
+              ]
+            },
+            {
+              "name": "图层 8",
+              "display": [
+                {
+                  "name": "重复项目文件夹/liqsli_1_3_66893",
+                  "transform": {
+                    "x": 5.87,
+                    "y": -19
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "animation": [
+        {
+          "duration": 20,
+          "name": "down",
+          "bone": [
+            {
+              "name": "touying",
+              "scaleFrame": [
+                {
+                  "duration": 9,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "x": 0.9,
+                  "y": 0.9
+                },
+                {}
+              ]
+            },
+            {
+              "name": "图层 6",
+              "translateFrame": [
+                {
+                  "duration": 9,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "x": 0.32,
+                  "y": 8.35
+                },
+                {
+                  "tweenEasing": 0
+                }
+              ],
+              "rotateFrame": [
+                {
+                  "duration": 9,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "rotate": -4.81
+                },
+                {
+                  "tweenEasing": 0
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 9,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "x": 0.9997,
+                  "y": 0.9997
+                },
+                {
+                  "tweenEasing": 0
+                }
+              ]
+            },
+            {
+              "name": "图层 7",
+              "translateFrame": [
+                {
+                  "duration": 9,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "y": 8.5
+                },
+                {
+                  "tweenEasing": 0
+                }
+              ],
+              "rotateFrame": [
+                {
+                  "duration": 9,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "rotate": 4.76
+                },
+                {
+                  "tweenEasing": 0
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 9,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "x": 0.9997,
+                  "y": 0.9997
+                },
+                {
+                  "tweenEasing": 0
+                }
+              ]
+            },
+            {
+              "name": "图层 8",
+              "translateFrame": [
+                {
+                  "duration": 9,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "y": 5
+                },
+                {
+                  "tweenEasing": 0
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 20
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

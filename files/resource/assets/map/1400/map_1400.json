@@ -1,0 +1,30 @@
+{
+  "groups": [
+    {
+      "keys": "road_1400,exml_1400,map_1400_bg_mc_jpg,map_1400_zhangpeng_png",
+      "name": "map_1400"
+    }
+  ],
+  "resources": [
+    {
+      "type": "json",
+      "url": "1400.json",
+      "name": "road_1400"
+    },
+    {
+      "type": "text",
+      "url": "Map1400Skin.exml",
+      "name": "exml_1400"
+    },
+    {
+      "type": "image",
+      "url": "map_1400_bg_mc.jpg",
+      "name": "map_1400_bg_mc_jpg"
+    },
+    {
+      "type": "image",
+      "url": "map_1400_zhangpeng.png",
+      "name": "map_1400_zhangpeng_png"
+    }
+  ]
+}

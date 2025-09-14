@@ -1,0 +1,35 @@
+{
+  "groups": [
+    {
+      "keys": "road_33,exml_33,map_33_bg_mc_png,map_33_animator_mc_png,map_33_control_mc_png",
+      "name": "map_33"
+    }
+  ],
+  "resources": [
+    {
+      "type": "json",
+      "url": "33.json",
+      "name": "road_33"
+    },
+    {
+      "type": "text",
+      "url": "Map33Skin.exml",
+      "name": "exml_33"
+    },
+    {
+      "type": "image",
+      "url": "map_33_bg_mc.png",
+      "name": "map_33_bg_mc_png"
+    },
+    {
+      "type": "image",
+      "url": "map_33_animator_mc.png",
+      "name": "map_33_animator_mc_png"
+    },
+    {
+      "type": "image",
+      "url": "map_33_control_mc.png",
+      "name": "map_33_control_mc_png"
+    }
+  ]
+}

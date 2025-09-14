@@ -1,0 +1,76 @@
+{
+  "groups": [
+    {
+      "name": "holy_puni",
+      "keys": "holy_puni_sheet,holy_puni_skeleton_1_ske_json,holy_puni_skeleton_1_tex_json,holy_puni_bg_jpg,holy_puni_level_1_bg_jpg,holy_puni_level_1_pet_png,holy_puni_level_3_pet_png,holy_puni_level_6_puni_png,holy_puni_powerup_pop_bg_png,holy_puni_powerup_pop_pet_png,holy_puni_skeleton_1_tex_png,holy_puni_title_png,holy_puni_unbind_pop_bg_png"
+    }
+  ],
+  "resources": [
+    {
+      "name": "holy_puni_skeleton_1_ske_json",
+      "type": "json",
+      "url": "holy_puni/outside/holy_puni_skeleton_1_ske.json"
+    },
+    {
+      "name": "holy_puni_skeleton_1_tex_json",
+      "type": "json",
+      "url": "holy_puni/outside/holy_puni_skeleton_1_tex.json"
+    },
+    {
+      "name": "holy_puni_bg_jpg",
+      "type": "image",
+      "url": "holy_puni/outside/holy_puni_bg.jpg"
+    },
+    {
+      "name": "holy_puni_level_1_bg_jpg",
+      "type": "image",
+      "url": "holy_puni/outside/holy_puni_level_1_bg.jpg"
+    },
+    {
+      "name": "holy_puni_level_1_pet_png",
+      "type": "image",
+      "url": "holy_puni/outside/holy_puni_level_1_pet.png"
+    },
+    {
+      "name": "holy_puni_level_3_pet_png",
+      "type": "image",
+      "url": "holy_puni/outside/holy_puni_level_3_pet.png"
+    },
+    {
+      "name": "holy_puni_level_6_puni_png",
+      "type": "image",
+      "url": "holy_puni/outside/holy_puni_level_6_puni.png"
+    },
+    {
+      "name": "holy_puni_powerup_pop_bg_png",
+      "type": "image",
+      "url": "holy_puni/outside/holy_puni_powerup_pop_bg.png"
+    },
+    {
+      "name": "holy_puni_powerup_pop_pet_png",
+      "type": "image",
+      "url": "holy_puni/outside/holy_puni_powerup_pop_pet.png"
+    },
+    {
+      "name": "holy_puni_skeleton_1_tex_png",
+      "type": "image",
+      "url": "holy_puni/outside/holy_puni_skeleton_1_tex.png"
+    },
+    {
+      "name": "holy_puni_title_png",
+      "type": "image",
+      "url": "holy_puni/outside/holy_puni_title.png"
+    },
+    {
+      "name": "holy_puni_unbind_pop_bg_png",
+      "type": "image",
+      "url": "holy_puni/outside/holy_puni_unbind_pop_bg.png"
+    },
+    {
+      "name": "holy_puni_sheet",
+      "type": "sheet",
+      "url": "holy_puni/holy_puni_sheet.json",
+      "subkeys": "holy_puni_btnFight_png,holy_puni_btnGet_png,holy_puni_btnInfo_png,holy_puni_btnPre_png,holy_puni_btnSale_png,holy_puni_btnUnbind_png,holy_puni_btnUp_png,holy_puni_flag_got_png,holy_puni_flag_selected_png,holy_puni_flag_win_png,holy_puni_help_png,holy_puni_img_puni_png,holy_puni_level_1_png,holy_puni_level_1_btnGo_png,holy_puni_level_1_btnOneTap_png,holy_puni_level_1_btnSummit_png,holy_puni_level_1_bubbleBg_png,holy_puni_level_1_flag_done_png,holy_puni_level_1_flag_selected_png,holy_puni_level_1_imgBtn_cure_png,holy_puni_level_1_imgBtn_pet_png,holy_puni_level_1_item_0_png,holy_puni_level_1_item_1_png,holy_puni_level_1_item_2_png,holy_puni_level_1_item_3_png,holy_puni_level_1_title_png,holy_puni_level_1_titleBg_png,holy_puni_level_1_up_bg_png,holy_puni_level_2_png,holy_puni_level_2_boss_0_png,holy_puni_level_2_boss_1_png,holy_puni_level_2_boss_2_png,holy_puni_level_2_btnAdd_png,holy_puni_level_2_btnDefeat_png,holy_puni_level_2_btnFight_png,holy_puni_level_2_flag_beated_png,holy_puni_level_2_flag_selected_png,holy_puni_level_2_label_png,holy_puni_level_2_nameBg_png,holy_puni_level_2_timeBg_png,holy_puni_level_2_title_png,holy_puni_level_3_png,holy_puni_level_3_light_png,holy_puni_level_3_ratebg_s9_png,holy_puni_level_3_rate_s9_png,holy_puni_level_3_tips_png,holy_puni_level_3_title_png,holy_puni_level_4_png,holy_puni_level_4_boss_0_png,holy_puni_level_4_boss_1_png,holy_puni_level_4_boss_2_png,holy_puni_level_4_boss_3_png,holy_puni_level_4_flag_beated_png,holy_puni_level_4_flag_selected_png,holy_puni_level_4_icon_png,holy_puni_level_4_light_png,holy_puni_level_4_line_png,holy_puni_level_4_tips_png,holy_puni_level_4_title_png,holy_puni_level_5_png,holy_puni_level_5_boss_0_png,holy_puni_level_5_boss_1_png,holy_puni_level_5_btnActive_png,holy_puni_level_5_btnFight_png,holy_puni_level_5_flag_selected_png,holy_puni_level_5_icon_0_png,holy_puni_level_5_icon_1_png,holy_puni_level_5_itemBg_png,holy_puni_level_5_numbg_png,holy_puni_level_5_recordtips_png,holy_puni_level_5_ringBg_png,holy_puni_level_5_ringbtnlock_png,holy_puni_level_5_ringdark_png,holy_puni_level_5_ringlight_png,holy_puni_level_5_ringlocked_png,holy_puni_level_5_title_png,holy_puni_level_6_png,holy_puni_level_6_imgcompose_png,holy_puni_level_6_item_png,holy_puni_level_6_label_png,holy_puni_level_6_level_0_png,holy_puni_level_6_level_1_png,holy_puni_level_6_level_2_png,holy_puni_level_6_level_3_png,holy_puni_level_6_level_4_png,holy_puni_level_6_level_5_png,holy_puni_level_6_level_6_png,holy_puni_level_6_line_png,holy_puni_level_6_numbg_png,holy_puni_level_6_rate_png,holy_puni_level_6_rateBg_png,holy_puni_level_6_title_png,holy_puni_powerup_pop_41022_png,holy_puni_powerup_pop_awardbg_png,holy_puni_powerup_pop_btnExchange_png,holy_puni_powerup_pop_btnFight_png,holy_puni_powerup_pop_btnOneTap_png,holy_puni_powerup_pop_flag_selected_png,holy_puni_powerup_pop_icon_1_png,holy_puni_powerup_pop_icon_texing_png,holy_puni_powerup_pop_itemBg_png,holy_puni_powerup_pop_itemIcon_png,holy_puni_powerup_pop_numbg_png,holy_puni_powerup_pop_title_png,holy_puni_sell_pop_btnBuy_png,holy_puni_sell_pop_btnSet_png,holy_puni_sell_pop_delline_png,holy_puni_sell_pop_diamond_png,holy_puni_sell_pop_line_png,holy_puni_sell_pop_pricebg_png,holy_puni_sell_pop_right_png,holy_puni_sell_pop_title_png,holy_puni_unbind_pop_btnAdd_png,holy_puni_unbind_pop_btnClose_png,holy_puni_unbind_pop_btnDel_png,holy_puni_unbind_pop_btnUnbind_png,holy_puni_unbind_pop_title_png,holy_puni_unbind_pop_tokenBg_png,holy_puni_up_bg_png,pet_info_view_texture_line_1_png,study_pet_attribute_bg2_png,study_pet_attribute_btnMax_png,study_pet_attribute_btnMin_png,study_pet_attribute_btnPlus_png,study_pet_attribute_icon2_png,study_pet_attribute_img_btnAssign_png,study_pet_attribute_img_btnReset_png,study_pet_attribute_tbg_png"
+    }
+  ]
+}

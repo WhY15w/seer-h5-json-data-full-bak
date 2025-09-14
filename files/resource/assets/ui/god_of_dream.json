@@ -1,0 +1,21 @@
+{
+  "groups": [
+    {
+      "name": "god_of_dream",
+      "keys": "god_of_dream_sheet,god_of_dream_main_panel_bg_jpg"
+    }
+  ],
+  "resources": [
+    {
+      "name": "god_of_dream_main_panel_bg_jpg",
+      "type": "image",
+      "url": "god_of_dream/outside/god_of_dream_main_panel_bg.jpg"
+    },
+    {
+      "name": "god_of_dream_sheet",
+      "type": "sheet",
+      "url": "god_of_dream/god_of_dream_sheet.json",
+      "subkeys": "god_of_dream_all_pop_imgpet1_png,god_of_dream_all_pop_imgpet2_png,god_of_dream_all_pop_imgpet3_png,god_of_dream_bad_pop1_emzq_png,god_of_dream_bad_pop2_emzq_png,god_of_dream_good_buy_it_png,god_of_dream_good_pop1_btnclose_png,god_of_dream_good_pop1_btnget_png,god_of_dream_good_pop1_mmzq_png,god_of_dream_good_pop2_btncure_png,god_of_dream_good_pop2_btnfastbeat_png,god_of_dream_good_pop2_btnfight_png,god_of_dream_good_pop2_btnpet_png,god_of_dream_good_pop2_jbmmdz_png,god_of_dream_main_panel_btnaddshowtime_png,god_of_dream_main_panel_btnbuyball_png,god_of_dream_main_panel_btnclose_png,god_of_dream_main_panel_btngetke_png,god_of_dream_main_panel_btnke_png,god_of_dream_main_panel_btnpet_png,god_of_dream_main_panel_btnseebonus_png,god_of_dream_main_panel_btnte_png,god_of_dream_main_panel_btnwu_png,god_of_dream_main_panel_img1_png,god_of_dream_main_panel_img10_png,god_of_dream_main_panel_img12_png,god_of_dream_main_panel_img14_png,god_of_dream_main_panel_img17_png,god_of_dream_main_panel_img18_png,god_of_dream_main_panel_img19_png,god_of_dream_main_panel_img2_png,god_of_dream_main_panel_img3_png,god_of_dream_main_panel_img4_png,god_of_dream_main_panel_img5_png,god_of_dream_main_panel_img6_png,god_of_dream_main_panel_img7_png,god_of_dream_main_panel_img8_png,god_of_dream_main_panel_img9_png,god_of_dream_main_panel_imgbadball1_png,god_of_dream_main_panel_imgbadball2_png,god_of_dream_main_panel_imgenterdream_png,god_of_dream_main_panel_imggoodball1_png,god_of_dream_main_panel_imggoodball2_png,god_of_dream_main_panel_imghaske_png,god_of_dream_main_panel_imgnotshow1_png,god_of_dream_main_panel_imgnotshow2_png,god_of_dream_main_panel_imgshowdream_png,god_of_dream_main_panel_imgunrealball1_png,god_of_dream_main_panel_imgunrealball2_png,god_of_dream_main_panel_txttask_png,god_of_dream_unreal_pop_btn1_png,god_of_dream_unreal_pop_btnfastshow_png,god_of_dream_unreal_pop_hmzq_png"
+    }
+  ]
+}

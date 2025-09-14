@@ -1,0 +1,35 @@
+{
+  "groups": [
+    {
+      "keys": "road_32,exml_32,map_32_bg_mc_png,map_32_animator_mc_png,map_32_control_mc_png",
+      "name": "map_32"
+    }
+  ],
+  "resources": [
+    {
+      "type": "json",
+      "url": "32.json",
+      "name": "road_32"
+    },
+    {
+      "type": "text",
+      "url": "Map32Skin.exml",
+      "name": "exml_32"
+    },
+    {
+      "type": "image",
+      "url": "map_32_bg_mc.png",
+      "name": "map_32_bg_mc_png"
+    },
+    {
+      "type": "image",
+      "url": "map_32_animator_mc.png",
+      "name": "map_32_animator_mc_png"
+    },
+    {
+      "type": "image",
+      "url": "map_32_control_mc.png",
+      "name": "map_32_control_mc_png"
+    }
+  ]
+}

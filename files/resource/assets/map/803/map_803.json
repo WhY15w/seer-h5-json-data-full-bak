@@ -1,0 +1,30 @@
+{
+  "resources": [
+    {
+      "type": "json",
+      "url": "803.json",
+      "name": "road_803"
+    },
+    {
+      "type": "text",
+      "url": "Map803Skin.exml",
+      "name": "exml_803"
+    },
+    {
+      "type": "image",
+      "url": "map_803_bg_mc.jpg",
+      "name": "map_803_bg_mc_jpg"
+    },
+    {
+      "type": "image",
+      "url": "map_803_light.png",
+      "name": "map_803_light_png"
+    }
+  ],
+  "groups": [
+    {
+      "keys": "road_803,exml_803,map_803_bg_mc_jpg,map_803_light_png",
+      "name": "map_803"
+    }
+  ]
+}

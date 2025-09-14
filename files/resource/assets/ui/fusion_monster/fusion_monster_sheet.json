@@ -1,0 +1,245 @@
+{
+  "file": "fusion_monster_sheet.png",
+  "frames": {
+    "fusion_monster_btnchallenge_png": {
+      "x": 1,
+      "y": 752,
+      "w": 209,
+      "h": 62,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 209,
+      "sourceH": 62
+    },
+    "fusion_monster_btnrank_png": {
+      "x": 945,
+      "y": 390,
+      "w": 56,
+      "h": 71,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 56,
+      "sourceH": 71
+    },
+    "fusion_monster_changgui_png": {
+      "x": 986,
+      "y": 99,
+      "w": 12,
+      "h": 25,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 12,
+      "sourceH": 25
+    },
+    "fusion_monster_imgbottom_png": {
+      "x": 1,
+      "y": 618,
+      "w": 869,
+      "h": 57,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 869,
+      "sourceH": 57
+    },
+    "fusion_monster_imgend_png": {
+      "x": 410,
+      "y": 714,
+      "w": 404,
+      "h": 36,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 404,
+      "sourceH": 36
+    },
+    "fusion_monster_imgover_png": {
+      "x": 1,
+      "y": 714,
+      "w": 407,
+      "h": 36,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 407,
+      "sourceH": 36
+    },
+    "fusion_monster_imgrightbottom_png": {
+      "x": 1,
+      "y": 1,
+      "w": 425,
+      "h": 294,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 425,
+      "sourceH": 294
+    },
+    "fusion_monster_imgtime_png": {
+      "x": 212,
+      "y": 752,
+      "w": 235,
+      "h": 36,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 235,
+      "sourceH": 36
+    },
+    "fusion_monster_imgtitle_png": {
+      "x": 428,
+      "y": 1,
+      "w": 520,
+      "h": 140,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 520,
+      "sourceH": 140
+    },
+    "fusion_monster_item_imgbg_png": {
+      "x": 1,
+      "y": 677,
+      "w": 680,
+      "h": 35,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 680,
+      "sourceH": 35
+    },
+    "fusion_monster_mingzide_png": {
+      "x": 515,
+      "y": 403,
+      "w": 134,
+      "h": 157,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 134,
+      "sourceH": 157
+    },
+    "fusion_monster_pop_btnclose_png": {
+      "x": 950,
+      "y": 71,
+      "w": 34,
+      "h": 32,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 34,
+      "sourceH": 32
+    },
+    "fusion_monster_pop_btnhelp_png": {
+      "x": 986,
+      "y": 71,
+      "w": 24,
+      "h": 26,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 24,
+      "sourceH": 26
+    },
+    "fusion_monster_pop_btnstart_png": {
+      "x": 1,
+      "y": 524,
+      "w": 209,
+      "h": 63,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 209,
+      "sourceH": 63
+    },
+    "fusion_monster_pop_imgBox1_png": {
+      "x": 428,
+      "y": 143,
+      "w": 270,
+      "h": 258,
+      "offX": 3,
+      "offY": 16,
+      "sourceW": 302,
+      "sourceH": 295
+    },
+    "fusion_monster_pop_imgBox2_png": {
+      "x": 1,
+      "y": 297,
+      "w": 267,
+      "h": 225,
+      "offX": 6,
+      "offY": 38,
+      "sourceW": 302,
+      "sourceH": 295
+    },
+    "fusion_monster_pop_imgBox3_png": {
+      "x": 700,
+      "y": 143,
+      "w": 273,
+      "h": 245,
+      "offX": 0,
+      "offY": 18,
+      "sourceW": 302,
+      "sourceH": 295
+    },
+    "fusion_monster_pop_imgBox4_png": {
+      "x": 700,
+      "y": 390,
+      "w": 243,
+      "h": 213,
+      "offX": 30,
+      "offY": 50,
+      "sourceW": 302,
+      "sourceH": 295
+    },
+    "fusion_monster_pop_imgBox5_png": {
+      "x": 270,
+      "y": 403,
+      "w": 243,
+      "h": 213,
+      "offX": 30,
+      "offY": 44,
+      "sourceW": 302,
+      "sourceH": 295
+    },
+    "fusion_monster_pop_imgcure_png": {
+      "x": 347,
+      "y": 297,
+      "w": 74,
+      "h": 68,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 74,
+      "sourceH": 68
+    },
+    "fusion_monster_pop_imgpet_png": {
+      "x": 950,
+      "y": 1,
+      "w": 73,
+      "h": 68,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 73,
+      "sourceH": 68
+    },
+    "fusion_monster_pop_imgrank_png": {
+      "x": 683,
+      "y": 677,
+      "w": 196,
+      "h": 33,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 196,
+      "sourceH": 33
+    },
+    "fusion_monster_pop_imgreward_png": {
+      "x": 270,
+      "y": 297,
+      "w": 75,
+      "h": 69,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 75,
+      "sourceH": 69
+    },
+    "fusion_monster_yichoudao_png": {
+      "x": 270,
+      "y": 368,
+      "w": 124,
+      "h": 29,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 124,
+      "sourceH": 29
+    }
+  }
+}

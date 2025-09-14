@@ -1,0 +1,82 @@
+{
+  "width": 256,
+  "SubTexture": [
+    {
+      "width": 143,
+      "y": 1,
+      "height": 140,
+      "name": "mohu",
+      "x": 1
+    },
+    {
+      "width": 16,
+      "y": 117,
+      "height": 17,
+      "name": "Lchi",
+      "x": 229
+    },
+    {
+      "width": 62,
+      "y": 1,
+      "height": 62,
+      "name": "benti",
+      "x": 146
+    },
+    {
+      "width": 29,
+      "y": 117,
+      "height": 11,
+      "name": "Rchui",
+      "x": 198
+    },
+    {
+      "width": 11,
+      "y": 51,
+      "height": 6,
+      "name": "Lyinyin",
+      "x": 230
+    },
+    {
+      "width": 17,
+      "y": 128,
+      "height": 13,
+      "name": "Ryinyin",
+      "x": 146
+    },
+    {
+      "width": 50,
+      "y": 65,
+      "height": 61,
+      "name": "Rer",
+      "x": 146
+    },
+    {
+      "width": 18,
+      "y": 1,
+      "height": 56,
+      "name": "Ler",
+      "x": 210
+    },
+    {
+      "width": 16,
+      "y": 1,
+      "height": 48,
+      "name": "Lguangv",
+      "x": 230
+    },
+    {
+      "frameX": -1,
+      "y": 65,
+      "frameY": 0,
+      "frameWidth": 45,
+      "width": 44,
+      "frameHeight": 51,
+      "height": 50,
+      "name": "Rguang",
+      "x": 198
+    }
+  ],
+  "height": 256,
+  "name": "mainPanelNono",
+  "imagePath": "nono_tex.png"
+}

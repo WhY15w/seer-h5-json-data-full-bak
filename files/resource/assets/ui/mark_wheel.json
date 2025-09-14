@@ -1,0 +1,141 @@
+{
+  "groups": [
+    {
+      "name": "mark_wheel",
+      "keys": "mark_wheel_sheet,keyinzhilun_choukfanpai_atlas,keyinzhilun_choukfanpai_json,keyinzhuanpan_atlas,keyinzhuanpan_json,keyinzhumianban_atlas,keyinzhumianban_json,keyinzhilun_choukfanpai_png,keyinzhuanpan_png,keyinzhuanpan_2_png,keyinzhuanpan_3_png,keyinzhuanpan_4_png,keyinzhuanpan_5_png,keyinzhumianban_png,keyinzhumianban_2_png,keyinzhumianban_3_png,mark_wheel_draw_panel_bg_jpg,mark_wheel_draw_panel_bg_1_jpg,mark_wheel_draw_panel_pan_png,mark_wheel_main_bg_jpg,mark_wheel_main_bg_1_jpg,mark_wheel_main_mask_png,mark_wheel_main_mask_1_png,mark_wheel_main_wheel_png,mark_wheel_main_wheel_1_png,mark_wheel_shop_contentbg_png"
+    }
+  ],
+  "resources": [
+    {
+      "name": "keyinzhilun_choukfanpai_atlas",
+      "type": "text",
+      "url": "mark_wheel/outside/keyinzhilun_choukfanpai.atlas"
+    },
+    {
+      "name": "keyinzhilun_choukfanpai_json",
+      "type": "json",
+      "url": "mark_wheel/outside/keyinzhilun_choukfanpai.json"
+    },
+    {
+      "name": "keyinzhuanpan_atlas",
+      "type": "text",
+      "url": "mark_wheel/outside/keyinzhuanpan.atlas"
+    },
+    {
+      "name": "keyinzhuanpan_json",
+      "type": "json",
+      "url": "mark_wheel/outside/keyinzhuanpan.json"
+    },
+    {
+      "name": "keyinzhumianban_atlas",
+      "type": "text",
+      "url": "mark_wheel/outside/keyinzhumianban.atlas"
+    },
+    {
+      "name": "keyinzhumianban_json",
+      "type": "json",
+      "url": "mark_wheel/outside/keyinzhumianban.json"
+    },
+    {
+      "name": "keyinzhilun_choukfanpai_png",
+      "type": "image",
+      "url": "mark_wheel/outside/keyinzhilun_choukfanpai.png"
+    },
+    {
+      "name": "keyinzhuanpan_png",
+      "type": "image",
+      "url": "mark_wheel/outside/keyinzhuanpan.png"
+    },
+    {
+      "name": "keyinzhuanpan_2_png",
+      "type": "image",
+      "url": "mark_wheel/outside/keyinzhuanpan_2.png"
+    },
+    {
+      "name": "keyinzhuanpan_3_png",
+      "type": "image",
+      "url": "mark_wheel/outside/keyinzhuanpan_3.png"
+    },
+    {
+      "name": "keyinzhuanpan_4_png",
+      "type": "image",
+      "url": "mark_wheel/outside/keyinzhuanpan_4.png"
+    },
+    {
+      "name": "keyinzhuanpan_5_png",
+      "type": "image",
+      "url": "mark_wheel/outside/keyinzhuanpan_5.png"
+    },
+    {
+      "name": "keyinzhumianban_png",
+      "type": "image",
+      "url": "mark_wheel/outside/keyinzhumianban.png"
+    },
+    {
+      "name": "keyinzhumianban_2_png",
+      "type": "image",
+      "url": "mark_wheel/outside/keyinzhumianban_2.png"
+    },
+    {
+      "name": "keyinzhumianban_3_png",
+      "type": "image",
+      "url": "mark_wheel/outside/keyinzhumianban_3.png"
+    },
+    {
+      "name": "mark_wheel_draw_panel_bg_jpg",
+      "type": "image",
+      "url": "mark_wheel/outside/mark_wheel_draw_panel_bg.jpg"
+    },
+    {
+      "name": "mark_wheel_draw_panel_bg_1_jpg",
+      "type": "image",
+      "url": "mark_wheel/outside/mark_wheel_draw_panel_bg_1.jpg"
+    },
+    {
+      "name": "mark_wheel_draw_panel_pan_png",
+      "type": "image",
+      "url": "mark_wheel/outside/mark_wheel_draw_panel_pan.png"
+    },
+    {
+      "name": "mark_wheel_main_bg_jpg",
+      "type": "image",
+      "url": "mark_wheel/outside/mark_wheel_main_bg.jpg"
+    },
+    {
+      "name": "mark_wheel_main_bg_1_jpg",
+      "type": "image",
+      "url": "mark_wheel/outside/mark_wheel_main_bg_1.jpg"
+    },
+    {
+      "name": "mark_wheel_main_mask_png",
+      "type": "image",
+      "url": "mark_wheel/outside/mark_wheel_main_mask.png"
+    },
+    {
+      "name": "mark_wheel_main_mask_1_png",
+      "type": "image",
+      "url": "mark_wheel/outside/mark_wheel_main_mask_1.png"
+    },
+    {
+      "name": "mark_wheel_main_wheel_png",
+      "type": "image",
+      "url": "mark_wheel/outside/mark_wheel_main_wheel.png"
+    },
+    {
+      "name": "mark_wheel_main_wheel_1_png",
+      "type": "image",
+      "url": "mark_wheel/outside/mark_wheel_main_wheel_1.png"
+    },
+    {
+      "name": "mark_wheel_shop_contentbg_png",
+      "type": "image",
+      "url": "mark_wheel/outside/mark_wheel_shop_contentbg.png"
+    },
+    {
+      "name": "mark_wheel_sheet",
+      "type": "sheet",
+      "url": "mark_wheel/mark_wheel_sheet.json",
+      "subkeys": "mark_wheel_card_blueBg_png,mark_wheel_card_blue_back_png,mark_wheel_card_flag_a_png,mark_wheel_card_flag_b_png,mark_wheel_card_flag_c_png,mark_wheel_card_flag_s_png,mark_wheel_card_flag_ss_png,mark_wheel_card_goldBg_png,mark_wheel_card_gold_back_png,mark_wheel_card_item_blue_bg_png,mark_wheel_card_item_btnDecompose_png,mark_wheel_card_item_btnGet_png,mark_wheel_card_item_flag_decompose_png,mark_wheel_card_item_flag_got_png,mark_wheel_card_item_gold_bg_png,mark_wheel_card_item_purple_bg_png,mark_wheel_card_purpleBg_png,mark_wheel_card_purple_back_png,mark_wheel_detail_decompose_flag_png,mark_wheel_detail_item_bg_0_png,mark_wheel_detail_item_bg_1_png,mark_wheel_detail_item_bg_2_png,mark_wheel_detail_panel0_down_png,mark_wheel_detail_panel0_up_png,mark_wheel_detail_panel1_down_png,mark_wheel_detail_panel1_up_png,mark_wheel_detail_panel_a_down_png,mark_wheel_detail_panel_a_up_png,mark_wheel_detail_panel_b_down_png,mark_wheel_detail_panel_b_up_png,mark_wheel_detail_panel_c_down_png,mark_wheel_detail_panel_c_up_png,mark_wheel_detail_panel_sector_1_bg_png,mark_wheel_detail_panel_ss_down_png,mark_wheel_detail_panel_ss_up_png,mark_wheel_detail_panel_s_down_png,mark_wheel_detail_panel_s_up_png,mark_wheel_detail_panel_title_png,mark_wheel_draw_btnDecomposeOne_png,mark_wheel_draw_btnDecomposeTen_png,mark_wheel_draw_btnGetOne_png,mark_wheel_draw_btnGetTen_png,mark_wheel_draw_img_clickOne_png,mark_wheel_draw_img_clickTen_png,mark_wheel_draw_img_close_png,mark_wheel_draw_img_detail_png,mark_wheel_draw_panel_jiantou_png,mark_wheel_draw_panel_jiantou_1_png,mark_wheel_draw_panel_shou_png,mark_wheel_draw_panel_xian_png,mark_wheel_draw_panel_xian_1_png,mark_wheel_img1_png,mark_wheel_imgmark1_png,mark_wheel_imgmark2_png,mark_wheel_imgmark3_png,mark_wheel_main_btnAdd_png,mark_wheel_main_btnBg_0_png,mark_wheel_main_btnBg_1_png,mark_wheel_main_btnBuyOne_png,mark_wheel_main_btnBuyTen_png,mark_wheel_main_btnClose_png,mark_wheel_main_btnInfo_png,mark_wheel_main_btnShop_png,mark_wheel_main_buyBg_png,mark_wheel_main_costIcon_0_png,mark_wheel_main_costIcon_1_png,mark_wheel_main_drawBg_png,mark_wheel_main_drawBg_1_png,mark_wheel_main_drawNum_bar_png,mark_wheel_main_drawNum_bar_1_png,mark_wheel_main_drawNum_thumb_png,mark_wheel_main_drawNum_thumb_1_png,mark_wheel_main_drawTitle_png,mark_wheel_main_drawTitle_1_png,mark_wheel_main_flag_send_png,mark_wheel_main_hundunchuyong_1_png,mark_wheel_main_icon_0_png,mark_wheel_main_icon_1_png,mark_wheel_main_icon_2_png,mark_wheel_main_imgcheckbox_png,mark_wheel_main_imgskipcheck_png,mark_wheel_main_itemNumBg_png,mark_wheel_main_limit_s1_png,mark_wheel_main_limit_s2_png,mark_wheel_main_s1_png,mark_wheel_main_s2_png,mark_wheel_main_s3_png,mark_wheel_main_shenglingzuifa_1_png,mark_wheel_main_shengxuwu_1_png,mark_wheel_main_skipbg_png,mark_wheel_main_skipbg_1_png,mark_wheel_main_skipRbg_png,mark_wheel_main_skipRbg_1_png,mark_wheel_main_skip_yes_png,mark_wheel_main_skip_yes_1_png,mark_wheel_main_ss1_png,mark_wheel_main_ss2_png,mark_wheel_main_ss3_png,mark_wheel_main_tab_limit_down_png,mark_wheel_main_tab_limit_up_png,mark_wheel_main_tab_normal_down_png,mark_wheel_main_tab_normal_up_png,mark_wheel_main_timebg_png,mark_wheel_main_title_png,mark_wheel_shop_item_bg_png,mark_wheel_shop_item_bg2_png,mark_wheel_shop_item_btnbg_png,mark_wheel_shop_item_flag_got_png,mark_wheel_shop_panel_down_png,mark_wheel_shop_panel_down1_png,mark_wheel_shop_panel_title_png,mark_wheel_shop_panel_up_png,mark_wheel_shop_panel_up1_png,mark_wheel_shop_record_item_bg_png,pet_recruit_result_item_xinhuode_png"
+    }
+  ]
+}

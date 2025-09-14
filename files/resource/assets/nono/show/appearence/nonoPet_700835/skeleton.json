@@ -1,0 +1,206 @@
+{
+  "frameRate": 24,
+  "name": "show_nonoPet_700835",
+  "version": "5.5",
+  "compatibleVersion": "5.5",
+  "armature": [
+    {
+      "name": "nono",
+      "bone": [
+        {
+          "inheritScale": false,
+          "name": "Layer 4",
+          "transform": {
+            "x": -0.1,
+            "y": 26.15,
+            "scX": 0.81,
+            "scY": 0.81
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "Layer 3",
+          "transform": {
+            "x": -18.3,
+            "y": -19.15
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "Layer 2",
+          "transform": {
+            "x": 18.1,
+            "y": -19.15
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "Layer 1"
+        }
+      ],
+      "slot": [
+        {
+          "name": "Layer 4",
+          "parent": "Layer 4"
+        },
+        {
+          "name": "Layer 3",
+          "parent": "Layer 3"
+        },
+        {
+          "name": "Layer 2",
+          "parent": "Layer 2"
+        },
+        {
+          "name": "Layer 1",
+          "parent": "Layer 1"
+        }
+      ],
+      "skin": [
+        {
+          "slot": [
+            {
+              "name": "Layer 4",
+              "display": [
+                {
+                  "name": "touying",
+                  "transform": {
+                    "x": 0.05,
+                    "y": -0.05
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Layer 3"
+            },
+            {
+              "name": "Layer 2"
+            },
+            {
+              "name": "Layer 1",
+              "display": [
+                {
+                  "name": "重复项目文件夹/补间 2",
+                  "transform": {
+                    "y": -42.85
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "animation": [
+        {
+          "duration": 20,
+          "name": "down",
+          "bone": [
+            {
+              "name": "Layer 4",
+              "scaleFrame": [
+                {
+                  "duration": 9,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "x": 0.9,
+                  "y": 0.9
+                },
+                {}
+              ]
+            },
+            {
+              "name": "Layer 3",
+              "translateFrame": [
+                {
+                  "duration": 9,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "x": 0.35,
+                  "y": 0.25
+                },
+                {}
+              ],
+              "rotateFrame": [
+                {
+                  "duration": 9,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "rotate": 0.5
+                },
+                {}
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 20
+                }
+              ]
+            },
+            {
+              "name": "Layer 2",
+              "translateFrame": [
+                {
+                  "duration": 9,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "x": -0.2,
+                  "y": -0.15
+                },
+                {}
+              ],
+              "rotateFrame": [
+                {
+                  "duration": 9,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "rotate": -1.05
+                },
+                {}
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 20
+                }
+              ]
+            },
+            {
+              "name": "Layer 1",
+              "translateFrame": [
+                {
+                  "duration": 9,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "y": -0.6
+                },
+                {}
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 20
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

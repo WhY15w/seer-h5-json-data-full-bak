@@ -1,0 +1,175 @@
+{
+  "file": "military_book_sheet.png",
+  "frames": {
+    "militaryBook_bg_png": {
+      "x": 721,
+      "y": 349,
+      "w": 208,
+      "h": 342,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 208,
+      "sourceH": 342
+    },
+    "militaryBook_downBg_png": {
+      "x": 970,
+      "y": 1,
+      "w": 42,
+      "h": 41,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 42,
+      "sourceH": 41
+    },
+    "militaryBook_Gottag_png": {
+      "x": 165,
+      "y": 746,
+      "w": 120,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 120,
+      "sourceH": 40
+    },
+    "militaryBook_helpBtn_png_png": {
+      "x": 996,
+      "y": 103,
+      "w": 22,
+      "h": 25,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 22,
+      "sourceH": 25
+    },
+    "militaryBook_line232323_png": {
+      "x": 1014,
+      "y": 1,
+      "w": 1,
+      "h": 24,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 1,
+      "sourceH": 24
+    },
+    "militaryBook_line_131jd_png": {
+      "x": 721,
+      "y": 693,
+      "w": 196,
+      "h": 330,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 196,
+      "sourceH": 330
+    },
+    "militaryBook_militaryInfoBg_png": {
+      "x": 1,
+      "y": 712,
+      "w": 462,
+      "h": 32,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 462,
+      "sourceH": 32
+    },
+    "militaryBook_no_suitIcon_png": {
+      "x": 919,
+      "y": 693,
+      "w": 100,
+      "h": 159,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 100,
+      "sourceH": 159
+    },
+    "militaryBook_suit_bg_png": {
+      "x": 287,
+      "y": 783,
+      "w": 180,
+      "h": 24,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 180,
+      "sourceH": 24
+    },
+    "militaryBook_texture_123mjsa_png": {
+      "x": 465,
+      "y": 712,
+      "w": 194,
+      "h": 69,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 194,
+      "sourceH": 69
+    },
+    "militaryBook_texture_aj34123k_png": {
+      "x": 970,
+      "y": 130,
+      "w": 46,
+      "h": 9,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 46,
+      "sourceH": 9
+    },
+    "militaryBook_upBg_png": {
+      "x": 970,
+      "y": 103,
+      "w": 24,
+      "h": 24,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 24,
+      "sourceH": 24
+    },
+    "military_bookHelp_texture_help_png": {
+      "x": 1,
+      "y": 349,
+      "w": 718,
+      "h": 361,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 718,
+      "sourceH": 361
+    },
+    "military_bookHelp_title_png": {
+      "x": 1,
+      "y": 746,
+      "w": 162,
+      "h": 43,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 162,
+      "sourceH": 43
+    },
+    "military_book_btnClose_png": {
+      "x": 970,
+      "y": 44,
+      "w": 33,
+      "h": 33,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 33,
+      "sourceH": 33
+    },
+    "military_reward_bg_png": {
+      "x": 1,
+      "y": 1,
+      "w": 967,
+      "h": 346,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 967,
+      "sourceH": 346
+    },
+    "military_reward_next_png": {
+      "x": 970,
+      "y": 79,
+      "w": 30,
+      "h": 22,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 30,
+      "sourceH": 22
+    }
+  }
+}

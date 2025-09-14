@@ -1,0 +1,30 @@
+{
+  "resources": [
+    {
+      "type": "json",
+      "url": "328.json",
+      "name": "road_328"
+    },
+    {
+      "type": "text",
+      "url": "Map328Skin.exml",
+      "name": "exml_328"
+    },
+    {
+      "type": "image",
+      "url": "map_328_bg_mc.jpg",
+      "name": "map_328_bg_mc_jpg"
+    },
+    {
+      "type": "image",
+      "url": "map_328_shuij.png",
+      "name": "map_328_shuij_png"
+    }
+  ],
+  "groups": [
+    {
+      "keys": "road_328,exml_328,map_328_bg_mc_jpg,map_328_shuij_png",
+      "name": "map_328"
+    }
+  ]
+}

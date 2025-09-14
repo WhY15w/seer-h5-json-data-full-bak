@@ -1,0 +1,115 @@
+{
+  "file": "new_year_sign_panel_sheet.png",
+  "frames": {
+    "anniu_png": {
+      "x": 145,
+      "y": 295,
+      "w": 200,
+      "h": 65,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 200,
+      "sourceH": 65
+    },
+    "fangkuai_png": {
+      "x": 340,
+      "y": 1,
+      "w": 153,
+      "h": 153,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 153,
+      "sourceH": 153
+    },
+    "newyearsignpanel_1_png": {
+      "x": 491,
+      "y": 156,
+      "w": 19,
+      "h": 43,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 19,
+      "sourceH": 43
+    },
+    "newyearsignpanel_2_png": {
+      "x": 145,
+      "y": 188,
+      "w": 36,
+      "h": 43,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 36,
+      "sourceH": 43
+    },
+    "newyearsignpanel_3_png": {
+      "x": 183,
+      "y": 188,
+      "w": 34,
+      "h": 43,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 34,
+      "sourceH": 43
+    },
+    "newyearsignpanel_btnclose_png": {
+      "x": 219,
+      "y": 188,
+      "w": 34,
+      "h": 34,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 34,
+      "sourceH": 34
+    },
+    "newyearsignpanel_check_png": {
+      "x": 340,
+      "y": 156,
+      "w": 149,
+      "h": 137,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 149,
+      "sourceH": 137
+    },
+    "newyearsignpanel_imgreward_png": {
+      "x": 1,
+      "y": 188,
+      "w": 142,
+      "h": 115,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 142,
+      "sourceH": 115
+    },
+    "newyearsignpanel_itembg1_png": {
+      "x": 1,
+      "y": 1,
+      "w": 169,
+      "h": 185,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 169,
+      "sourceH": 185
+    },
+    "newyearsignpanel_itembg2_png": {
+      "x": 172,
+      "y": 1,
+      "w": 166,
+      "h": 185,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 166,
+      "sourceH": 185
+    },
+    "newyearsignpanel_mask_png": {
+      "x": 495,
+      "y": 1,
+      "w": 12,
+      "h": 60,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 12,
+      "sourceH": 60
+    }
+  }
+}

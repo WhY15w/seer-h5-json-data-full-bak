@@ -1,0 +1,25 @@
+{
+  "groups": [
+    {
+      "keys": "road_944,map_944_bg_mc_png,exml_944",
+      "name": "map_944"
+    }
+  ],
+  "resources": [
+    {
+      "type": "json",
+      "url": "944.json",
+      "name": "road_944"
+    },
+    {
+      "type": "image",
+      "url": "map_944_bg_mc.png",
+      "name": "map_944_bg_mc_png"
+    },
+    {
+      "name": "exml_944",
+      "type": "text",
+      "url": "Map944Skin.exml"
+    }
+  ]
+}

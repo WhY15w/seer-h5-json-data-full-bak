@@ -1,0 +1,30 @@
+{
+  "groups": [
+    {
+      "keys": "road_515,exml_515,map_515_bg_mc_jpg,map_515_top_mc_png",
+      "name": "map_515"
+    }
+  ],
+  "resources": [
+    {
+      "type": "json",
+      "url": "515.json",
+      "name": "road_515"
+    },
+    {
+      "type": "text",
+      "url": "Map515Skin.exml",
+      "name": "exml_515"
+    },
+    {
+      "type": "image",
+      "url": "map_515_bg_mc.jpg",
+      "name": "map_515_bg_mc_jpg"
+    },
+    {
+      "type": "image",
+      "url": "map_515_top_mc.png",
+      "name": "map_515_top_mc_png"
+    }
+  ]
+}

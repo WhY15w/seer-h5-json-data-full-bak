@@ -1,0 +1,375 @@
+{
+  "file": "studytraining_sheet.png",
+  "frames": {
+    "pve_study_training_boss_item_imgbg_png": {
+      "x": 844,
+      "y": 124,
+      "w": 106,
+      "h": 106,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 106,
+      "sourceH": 106
+    },
+    "Studytraining_boss_item_imgboss_png": {
+      "x": 867,
+      "y": 809,
+      "w": 112,
+      "h": 32,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 112,
+      "sourceH": 32
+    },
+    "Studytraining_boss_item_imgdefeated_png": {
+      "x": 904,
+      "y": 659,
+      "w": 100,
+      "h": 100,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 100,
+      "sourceH": 100
+    },
+    "Studytraining_boss_item_imglocked_png": {
+      "x": 904,
+      "y": 557,
+      "w": 100,
+      "h": 100,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 100,
+      "sourceH": 100
+    },
+    "Studytraining_boss_item_imgselected_png": {
+      "x": 844,
+      "y": 1,
+      "w": 121,
+      "h": 121,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 121,
+      "sourceH": 121
+    },
+    "Studytraining_btnback_png": {
+      "x": 967,
+      "y": 59,
+      "w": 28,
+      "h": 38,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 28,
+      "sourceH": 38
+    },
+    "Studytraining_btncure_png": {
+      "x": 959,
+      "y": 186,
+      "w": 60,
+      "h": 60,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 60,
+      "sourceH": 60
+    },
+    "Studytraining_btnfastfight_png": {
+      "x": 722,
+      "y": 754,
+      "w": 134,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 134,
+      "sourceH": 46
+    },
+    "Studytraining_btnfight_png": {
+      "x": 858,
+      "y": 761,
+      "w": 134,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 134,
+      "sourceH": 46
+    },
+    "Studytraining_btnhelp_png": {
+      "x": 997,
+      "y": 59,
+      "w": 24,
+      "h": 28,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 24,
+      "sourceH": 28
+    },
+    "Studytraining_btnpet_png": {
+      "x": 952,
+      "y": 124,
+      "w": 60,
+      "h": 60,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 60,
+      "sourceH": 60
+    },
+    "Studytraining_imgbox_png": {
+      "x": 967,
+      "y": 27,
+      "w": 36,
+      "h": 30,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 36,
+      "sourceH": 30
+    },
+    "Studytraining_imgboxbg_png": {
+      "x": 307,
+      "y": 754,
+      "w": 413,
+      "h": 27,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 413,
+      "sourceH": 27
+    },
+    "Studytraining_imgitem1_png": {
+      "x": 959,
+      "y": 248,
+      "w": 34,
+      "h": 31,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 34,
+      "sourceH": 31
+    },
+    "Studytraining_imgitem1bg_png": {
+      "x": 237,
+      "y": 828,
+      "w": 181,
+      "h": 22,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 181,
+      "sourceH": 22
+    },
+    "Studytraining_imgitem2_png": {
+      "x": 959,
+      "y": 315,
+      "w": 31,
+      "h": 33,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 31,
+      "sourceH": 33
+    },
+    "Studytraining_imgitem2bg_png": {
+      "x": 654,
+      "y": 809,
+      "w": 211,
+      "h": 22,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 211,
+      "sourceH": 22
+    },
+    "Studytraining_imglevelbg_png": {
+      "x": 1,
+      "y": 820,
+      "w": 234,
+      "h": 17,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 234,
+      "sourceH": 17
+    },
+    "Studytraining_imglevelmenubg_png": {
+      "x": 1,
+      "y": 246,
+      "w": 304,
+      "h": 572,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 304,
+      "sourceH": 572
+    },
+    "Studytraining_imgrightbg_png": {
+      "x": 1,
+      "y": 1,
+      "w": 841,
+      "h": 243,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 841,
+      "sourceH": 243
+    },
+    "Studytraining_imgswitchoff_png": {
+      "x": 967,
+      "y": 99,
+      "w": 44,
+      "h": 20,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 44,
+      "sourceH": 20
+    },
+    "Studytraining_imgswitchon_png": {
+      "x": 967,
+      "y": 1,
+      "w": 46,
+      "h": 24,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 46,
+      "sourceH": 24
+    },
+    "Studytraining_level_menu_item_imgdefeated_png": {
+      "x": 959,
+      "y": 281,
+      "w": 32,
+      "h": 32,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 32,
+      "sourceH": 32
+    },
+    "Studytraining_level_menu_item_imgfastfight_png": {
+      "x": 995,
+      "y": 248,
+      "w": 27,
+      "h": 31,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 27,
+      "sourceH": 31
+    },
+    "Studytraining_level_menu_item_imgisfighting_png": {
+      "x": 992,
+      "y": 315,
+      "w": 31,
+      "h": 32,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 31,
+      "sourceH": 32
+    },
+    "Studytraining_level_menu_item_imglock_png": {
+      "x": 789,
+      "y": 417,
+      "w": 220,
+      "h": 68,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 220,
+      "sourceH": 68
+    },
+    "Studytraining_level_menu_item_imgselected_png": {
+      "x": 615,
+      "y": 666,
+      "w": 237,
+      "h": 86,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 237,
+      "sourceH": 86
+    },
+    "Studytraining_level_menu_item_imgunlock_png": {
+      "x": 789,
+      "y": 487,
+      "w": 220,
+      "h": 68,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 220,
+      "sourceH": 68
+    },
+    "Studytraining_rewarditem_png": {
+      "x": 993,
+      "y": 281,
+      "w": 29,
+      "h": 28,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 29,
+      "sourceH": 28
+    },
+    "Studytraining_txttitle1_png": {
+      "x": 449,
+      "y": 783,
+      "w": 203,
+      "h": 24,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 203,
+      "sourceH": 24
+    },
+    "Studytraining_txttitle2_png": {
+      "x": 449,
+      "y": 809,
+      "w": 203,
+      "h": 24,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 203,
+      "sourceH": 24
+    },
+    "Studytraining_txttitle3_png": {
+      "x": 307,
+      "y": 722,
+      "w": 203,
+      "h": 24,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 203,
+      "sourceH": 24
+    },
+    "Studytraining_xianlu1_png": {
+      "x": 307,
+      "y": 246,
+      "w": 650,
+      "h": 169,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 650,
+      "sourceH": 169
+    },
+    "Studytraining_xianlu2_png": {
+      "x": 307,
+      "y": 417,
+      "w": 480,
+      "h": 169,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 480,
+      "sourceH": 169
+    },
+    "Studytraining_xianlu3_png": {
+      "x": 307,
+      "y": 588,
+      "w": 306,
+      "h": 132,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 306,
+      "sourceH": 132
+    },
+    "study_training_imgtitle_png": {
+      "x": 307,
+      "y": 783,
+      "w": 140,
+      "h": 43,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 140,
+      "sourceH": 43
+    },
+    "study_training_imgtitlebg_png": {
+      "x": 615,
+      "y": 588,
+      "w": 287,
+      "h": 76,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 287,
+      "sourceH": 76
+    }
+  }
+}

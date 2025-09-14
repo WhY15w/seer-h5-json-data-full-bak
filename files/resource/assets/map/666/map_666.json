@@ -1,0 +1,30 @@
+{
+  "resources": [
+    {
+      "type": "json",
+      "url": "666.json",
+      "name": "road_666"
+    },
+    {
+      "type": "text",
+      "url": "Map666Skin.exml",
+      "name": "exml_666"
+    },
+    {
+      "type": "image",
+      "url": "map_666_bg_mc.jpg",
+      "name": "map_666_bg_mc_jpg"
+    },
+    {
+      "type": "image",
+      "url": "map_666_top_mc.png",
+      "name": "map_666_top_mc_png"
+    }
+  ],
+  "groups": [
+    {
+      "keys": "road_666,exml_666,map_666_bg_mc_jpg,map_666_top_mc_png",
+      "name": "map_666"
+    }
+  ]
+}

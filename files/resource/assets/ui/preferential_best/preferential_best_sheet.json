@@ -1,0 +1,135 @@
+{
+  "file": "preferential_best_sheet.png",
+  "frames": {
+    "best_panel_add_png": {
+      "x": 357,
+      "y": 69,
+      "w": 29,
+      "h": 28,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 29,
+      "sourceH": 28
+    },
+    "best_panel_buy_btn_png": {
+      "x": 1,
+      "y": 97,
+      "w": 155,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 155,
+      "sourceH": 46
+    },
+    "best_panel_close_png": {
+      "x": 465,
+      "y": 1,
+      "w": 34,
+      "h": 33,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 34,
+      "sourceH": 33
+    },
+    "best_panel_nature_btn_png": {
+      "x": 467,
+      "y": 36,
+      "w": 32,
+      "h": 32,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 32,
+      "sourceH": 32
+    },
+    "pet_info_view_texture_line_1_png": {
+      "x": 158,
+      "y": 99,
+      "w": 220,
+      "h": 1,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 220,
+      "sourceH": 1
+    },
+    "study_pet_attribute_bg2_png": {
+      "x": 1,
+      "y": 1,
+      "w": 462,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 462,
+      "sourceH": 40
+    },
+    "study_pet_attribute_btnMax_png": {
+      "x": 417,
+      "y": 43,
+      "w": 48,
+      "h": 24,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 48,
+      "sourceH": 24
+    },
+    "study_pet_attribute_btnMin_png": {
+      "x": 414,
+      "y": 69,
+      "w": 24,
+      "h": 24,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 24,
+      "sourceH": 24
+    },
+    "study_pet_attribute_btnPlus_png": {
+      "x": 388,
+      "y": 69,
+      "w": 24,
+      "h": 24,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 24,
+      "sourceH": 24
+    },
+    "study_pet_attribute_icon2_png": {
+      "x": 501,
+      "y": 1,
+      "w": 8,
+      "h": 24,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 8,
+      "sourceH": 24
+    },
+    "study_pet_attribute_img_btnAssign_png": {
+      "x": 1,
+      "y": 43,
+      "w": 176,
+      "h": 52,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 176,
+      "sourceH": 52
+    },
+    "study_pet_attribute_img_btnReset_png": {
+      "x": 179,
+      "y": 43,
+      "w": 176,
+      "h": 52,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 176,
+      "sourceH": 52
+    },
+    "study_pet_attribute_tbg_png": {
+      "x": 357,
+      "y": 43,
+      "w": 58,
+      "h": 24,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 58,
+      "sourceH": 24
+    }
+  }
+}

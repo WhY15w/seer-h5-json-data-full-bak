@@ -1,0 +1,21 @@
+{
+  "groups": [
+    {
+      "name": "head_frame",
+      "keys": "head_frame_sheet,head_frame_tab_json"
+    }
+  ],
+  "resources": [
+    {
+      "name": "head_frame_tab_json",
+      "type": "json",
+      "url": "head_frame/outside/head_frame_tab.json"
+    },
+    {
+      "name": "head_frame_sheet",
+      "type": "sheet",
+      "url": "head_frame/head_frame_sheet.json",
+      "subkeys": "headframe_awardpop_bg_png,headframe_awardpop_flagHead_png,headframe_awardpop_flagheadframe_png,headframe_awardpop_iconbg_png,headframe_awardpop_imglight_png,headframe_awardpop_seer_png,headframe_awardpop_titlebg_png,headframe_awardpop_vip_png,head_frame_main_imgNew_png,head_frame_main_img_lock_png,head_frame_main_Img_titlebg_png,head_frame_main_itembg_png,head_frame_main_noItemFlag_png,head_frame_main_select_png,head_frame_node_render_firstNode_png,head_frame_node_render_firstNode_down_png,head_frame_node_render_firstNode_up_png,head_frame_node_render_line_png,head_frame_pop_btnclose_png,head_frame_pop_change_kb_3_png,head_frame_pop_headframebg_png,head_frame_pop_imgbg_png,head_frame_pop_imgbgmask_png,head_frame_pop_imgbtn_png,head_frame_pop_imgicon_png,head_frame_pop_imgitembg_png,head_frame_pop_imglock_png,head_frame_pop_imgselected_png,head_frame_pop_seer_png,head_frame_pop_texture_png,head_frame_pop_txtisusing_png,head_frame_pop_xuanzhong_png"
+    }
+  ]
+}

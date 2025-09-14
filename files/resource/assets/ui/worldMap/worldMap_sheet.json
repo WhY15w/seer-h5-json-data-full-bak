@@ -1,0 +1,466 @@
+{
+  "file": "worldMap_sheet.png",
+  "frames": {
+    "wms_pop_btnqw_png": {
+      "x": 422,
+      "y": 1138,
+      "w": 87,
+      "h": 35,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 87,
+      "sourceH": 35
+    },
+    "wms_pop_gongnengtiao_png": {
+      "x": 257,
+      "y": 1138,
+      "w": 163,
+      "h": 34,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 163,
+      "sourceH": 34
+    },
+    "wms_pop_starpanelbg_png": {
+      "x": 1139,
+      "y": 792,
+      "w": 255,
+      "h": 439,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 255,
+      "sourceH": 439
+    },
+    "worldMapShip_bg2_png": {
+      "x": 1,
+      "y": 643,
+      "w": 1136,
+      "h": 152,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 1136,
+      "sourceH": 152
+    },
+    "worldMapShip_bg3_png": {
+      "x": 1836,
+      "y": 1,
+      "w": 100,
+      "h": 612,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 100,
+      "sourceH": 612,
+      "scale9grid": "46,304,8,21"
+    },
+    "worldMapShip_boxBg_png": {
+      "x": 1836,
+      "y": 615,
+      "w": 177,
+      "h": 169,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 177,
+      "sourceH": 169
+    },
+    "worldMapShip_itemBg_png": {
+      "x": 723,
+      "y": 908,
+      "w": 193,
+      "h": 218,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 193,
+      "sourceH": 218
+    },
+    "worldMapShip_itembg2_png": {
+      "x": 918,
+      "y": 908,
+      "w": 163,
+      "h": 155,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 163,
+      "sourceH": 155
+    },
+    "worldMapStar_btnClose_2_png": {
+      "x": 1938,
+      "y": 516,
+      "w": 40,
+      "h": 37,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 40,
+      "sourceH": 37
+    },
+    "worldMapStar_gBg_png": {
+      "x": 514,
+      "y": 1128,
+      "w": 581,
+      "h": 34,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 581,
+      "sourceH": 34
+    },
+    "worldMapStar_imgBtnGo_png": {
+      "x": 773,
+      "y": 1231,
+      "w": 120,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 120,
+      "sourceH": 40
+    },
+    "worldMapStar_imgBtnHide_png": {
+      "x": 1980,
+      "y": 1,
+      "w": 26,
+      "h": 80,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 26,
+      "sourceH": 80
+    },
+    "worldMapStar_imgNotOpen_png": {
+      "x": 499,
+      "y": 1231,
+      "w": 136,
+      "h": 56,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 136,
+      "sourceH": 56
+    },
+    "worldMapStar_imgOpenBtn_png": {
+      "x": 1980,
+      "y": 83,
+      "w": 26,
+      "h": 80,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 26,
+      "sourceH": 80
+    },
+    "worldMapStar_itemBg_png": {
+      "x": 895,
+      "y": 1231,
+      "w": 122,
+      "h": 30,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 122,
+      "sourceH": 30
+    },
+    "worldMapStar_ItemImg_png": {
+      "x": 1686,
+      "y": 1092,
+      "w": 262,
+      "h": 112,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 262,
+      "sourceH": 112
+    },
+    "worldMapStar_leftbg_png": {
+      "x": 1,
+      "y": 1,
+      "w": 600,
+      "h": 640,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 600,
+      "sourceH": 640
+    },
+    "worldMapStar_panel_bg_png": {
+      "x": 1938,
+      "y": 1,
+      "w": 40,
+      "h": 210,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 40,
+      "sourceH": 210
+    },
+    "worldMapStar_rightbg_png": {
+      "x": 603,
+      "y": 1,
+      "w": 599,
+      "h": 640,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 599,
+      "sourceH": 640
+    },
+    "worldMapStar_sBg1_png": {
+      "x": 1980,
+      "y": 165,
+      "w": 18,
+      "h": 18,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 18,
+      "sourceH": 18
+    },
+    "worldMapStar_starpanelBg_png": {
+      "x": 1204,
+      "y": 522,
+      "w": 630,
+      "h": 268,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 630,
+      "sourceH": 268
+    },
+    "worldMapStar_tmp_png": {
+      "x": 2040,
+      "y": 1,
+      "w": 1,
+      "h": 640,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 1,
+      "sourceH": 640
+    },
+    "worldMapStar_tmp1_png": {
+      "x": 2015,
+      "y": 1,
+      "w": 20,
+      "h": 640,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 20,
+      "sourceH": 640
+    },
+    "worldMapStar_tmp3_png": {
+      "x": 2037,
+      "y": 1,
+      "w": 1,
+      "h": 640,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 1,
+      "sourceH": 640
+    },
+    "worldMapStar_tmp4_png": {
+      "x": 2015,
+      "y": 643,
+      "w": 12,
+      "h": 640,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 12,
+      "sourceH": 640
+    },
+    "worldMap_btnTurnpagesleft_png": {
+      "x": 1938,
+      "y": 213,
+      "w": 47,
+      "h": 68,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 47,
+      "sourceH": 68
+    },
+    "worldMap_btnTurnpagesright_png": {
+      "x": 1938,
+      "y": 283,
+      "w": 45,
+      "h": 68,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 45,
+      "sourceH": 68
+    },
+    "worldMap_img1_png": {
+      "x": 1,
+      "y": 797,
+      "w": 1134,
+      "h": 109,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 1134,
+      "sourceH": 109
+    },
+    "worldMap_img2_png": {
+      "x": 1,
+      "y": 1181,
+      "w": 1016,
+      "h": 48,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 1016,
+      "sourceH": 48
+    },
+    "worldMap_imgBtnClose_png": {
+      "x": 1938,
+      "y": 473,
+      "w": 41,
+      "h": 41,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 41,
+      "sourceH": 41
+    },
+    "worldMap_imgBtnShip_png": {
+      "x": 1396,
+      "y": 792,
+      "w": 288,
+      "h": 333,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 288,
+      "sourceH": 333
+    },
+    "worldMap_imgBtnuWorld_png": {
+      "x": 1686,
+      "y": 792,
+      "w": 279,
+      "h": 298,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 279,
+      "sourceH": 298
+    },
+    "worldMap_imgBtnWorld_png": {
+      "x": 1,
+      "y": 908,
+      "w": 254,
+      "h": 271,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 254,
+      "sourceH": 271
+    },
+    "worldMap_lock_png": {
+      "x": 1396,
+      "y": 1127,
+      "w": 258,
+      "h": 109,
+      "offX": 1,
+      "offY": 1,
+      "sourceW": 262,
+      "sourceH": 112
+    },
+    "worldMap_namebg_png": {
+      "x": 1019,
+      "y": 1233,
+      "w": 136,
+      "h": 24,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 136,
+      "sourceH": 24
+    },
+    "worldMap_select_png": {
+      "x": 1656,
+      "y": 1206,
+      "w": 258,
+      "h": 108,
+      "offX": 1,
+      "offY": 1,
+      "sourceW": 262,
+      "sourceH": 112
+    },
+    "worldMap_select0_png": {
+      "x": 514,
+      "y": 908,
+      "w": 207,
+      "h": 207,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 207,
+      "sourceH": 207
+    },
+    "worldMap_tip1_png": {
+      "x": 1,
+      "y": 1231,
+      "w": 164,
+      "h": 50,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 164,
+      "sourceH": 50
+    },
+    "worldMap_tip2_png": {
+      "x": 167,
+      "y": 1231,
+      "w": 164,
+      "h": 50,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 164,
+      "sourceH": 50
+    },
+    "worldMap_tip3_png": {
+      "x": 333,
+      "y": 1231,
+      "w": 164,
+      "h": 50,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 164,
+      "sourceH": 50
+    },
+    "worldMap_tipLine_png": {
+      "x": 637,
+      "y": 1231,
+      "w": 134,
+      "h": 45,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 134,
+      "sourceH": 45
+    },
+    "worlmapship_dingweiL_png": {
+      "x": 1938,
+      "y": 413,
+      "w": 52,
+      "h": 58,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 52,
+      "sourceH": 58
+    },
+    "worlmapship_dingweiR_png": {
+      "x": 1938,
+      "y": 353,
+      "w": 52,
+      "h": 58,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 52,
+      "sourceH": 58
+    },
+    "worlmapship_feichuan_png": {
+      "x": 1204,
+      "y": 1,
+      "w": 625,
+      "h": 519,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 625,
+      "sourceH": 519
+    },
+    "worlmapship_starpanelbg_png": {
+      "x": 257,
+      "y": 908,
+      "w": 255,
+      "h": 228,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 255,
+      "sourceH": 228
+    },
+    "worlmapship_xuanzhong_png": {
+      "x": 918,
+      "y": 1065,
+      "w": 199,
+      "h": 51,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 199,
+      "sourceH": 51
+    }
+  }
+}

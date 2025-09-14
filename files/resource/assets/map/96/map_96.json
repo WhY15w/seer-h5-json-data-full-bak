@@ -1,0 +1,30 @@
+{
+  "groups": [
+    {
+      "keys": "road_96,map_96_bg_mc_png,map_96_control_mc_png,exml_96",
+      "name": "map_96"
+    }
+  ],
+  "resources": [
+    {
+      "type": "json",
+      "url": "96.json",
+      "name": "road_96"
+    },
+    {
+      "type": "image",
+      "url": "map_96_bg_mc.png",
+      "name": "map_96_bg_mc_png"
+    },
+    {
+      "type": "image",
+      "url": "map_96_control_mc.png",
+      "name": "map_96_control_mc_png"
+    },
+    {
+      "name": "exml_96",
+      "type": "text",
+      "url": "Map96Skin.exml"
+    }
+  ]
+}

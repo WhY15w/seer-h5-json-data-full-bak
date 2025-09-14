@@ -1,0 +1,45 @@
+{
+  "file": "group_star_sheet.png",
+  "frames": {
+    "worldMapShip_bg1_png": {
+      "x": 1,
+      "y": 1,
+      "w": 12,
+      "h": 12,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 12,
+      "sourceH": 12
+    },
+    "worldMapStar_bg1_png": {
+      "x": 15,
+      "y": 1,
+      "w": 12,
+      "h": 12,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 12,
+      "sourceH": 12
+    },
+    "worldMapStar_diBg_png": {
+      "x": 1,
+      "y": 15,
+      "w": 12,
+      "h": 12,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 12,
+      "sourceH": 12
+    },
+    "worldMap_bg1_png": {
+      "x": 15,
+      "y": 15,
+      "w": 12,
+      "h": 12,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 12,
+      "sourceH": 12
+    }
+  }
+}

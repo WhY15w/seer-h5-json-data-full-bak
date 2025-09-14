@@ -1,0 +1,45 @@
+{
+  "resources": [
+    {
+      "type": "json",
+      "url": "350.json",
+      "name": "road_350"
+    },
+    {
+      "type": "text",
+      "url": "Map350Skin.exml",
+      "name": "exml_350"
+    },
+    {
+      "type": "image",
+      "url": "map_350_bg_mc.jpg",
+      "name": "map_350_bg_mc_jpg"
+    },
+    {
+      "type": "image",
+      "url": "map_350_taizi2.png",
+      "name": "map_350_taizi2_png"
+    },
+    {
+      "type": "image",
+      "url": "map_350_yuanxinletu.png",
+      "name": "map_350_yuanxinletu_png"
+    },
+    {
+      "type": "image",
+      "url": "map_350_caomei1.png",
+      "name": "map_350_caomei1_png"
+    },
+    {
+      "type": "image",
+      "url": "map_350_top_mc.png",
+      "name": "map_350_top_mc_png"
+    }
+  ],
+  "groups": [
+    {
+      "keys": "road_350,exml_350,map_350_bg_mc_jpg,map_350_taizi2_png,map_350_yuanxinletu_png,map_350_caomei1_png,map_350_top_mc_png",
+      "name": "map_350"
+    }
+  ]
+}

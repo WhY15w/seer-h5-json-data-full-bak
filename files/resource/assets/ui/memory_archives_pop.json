@@ -1,0 +1,31 @@
+{
+  "groups": [
+    {
+      "name": "memory_archives_pop",
+      "keys": "memory_archives_pop_sheet,jiyidanganguan_atlas,jiyidanganguan_json,jiyidanganguan_png"
+    }
+  ],
+  "resources": [
+    {
+      "name": "jiyidanganguan_atlas",
+      "type": "text",
+      "url": "memory_archives_pop/outside/jiyidanganguan.atlas"
+    },
+    {
+      "name": "jiyidanganguan_json",
+      "type": "json",
+      "url": "memory_archives_pop/outside/jiyidanganguan.json"
+    },
+    {
+      "name": "jiyidanganguan_png",
+      "type": "image",
+      "url": "memory_archives_pop/outside/jiyidanganguan.png"
+    },
+    {
+      "name": "memory_archives_pop_sheet",
+      "type": "sheet",
+      "url": "memory_archives_pop/memory_archives_pop_sheet.json",
+      "subkeys": "memory_archives_pop_bg_png,memory_archives_pop_close_png,memory_archives_pop_other_png,memory_archives_pop_title_png"
+    }
+  ]
+}

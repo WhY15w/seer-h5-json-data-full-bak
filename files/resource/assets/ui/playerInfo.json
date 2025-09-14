@@ -1,0 +1,16 @@
+{
+  "groups": [
+    {
+      "name": "playerInfo",
+      "keys": "playerInfo_sheet"
+    }
+  ],
+  "resources": [
+    {
+      "name": "playerInfo_sheet",
+      "type": "sheet",
+      "url": "playerInfo/playerInfo_sheet.json",
+      "subkeys": "change_name_Img_Line_png,change_name_pop_bg_png,change_name_pop_btn_yes_png,change_name_pop_img_btn_close_png,change_name_pop_img_btn_yes_png,change_name_pop_textrue_png,change_name_pop_title_png,change_name_texture_1_png,clothesItem_pop_view_img_btn_th_png,clothesItem_pop_view_img_btn_xx_png,clothesItem_pop_view_Line_png,Clothes_warehouse_item_img_zbz_png,Clothes_warehouse_pop_img_btn_allchange_png,Clothes_warehouse_pop_img_btn_allequit_png,Clothes_warehouse_pop_img_btn_change_png,Clothes_warehouse_pop_img_btn_equit_png,Clothes_warehouse_pop_img_tile_eye_png,Clothes_warehouse_pop_img_tile_foot_png,Clothes_warehouse_pop_img_tile_hand_png,Clothes_warehouse_pop_img_tile_head_png,Clothes_warehouse_pop_img_tile_waist_png,playerInfoMainView_icon_001_png,playerInfoMainView_icon_002_png,playerInfoMainView_icon_003_png,playerInfoMainView_img_btn_allDisboard_png,playerInfoMainView_img_btn_allDress_png,playerInfoMainView_img_btn_changeName_png,playerInfoMainView_img_btn_changeTitle_png,playerInfoMainView_img_cloth_down_png,playerInfoMainView_img_cloth_up_png,playerInfoMainView_img_suit_down_png,playerInfoMainView_img_suit_up_png,playerInfoMainView_texture_001_png,playerInfoMainView_texture_002_png,playerInfoMainView_texture_003_png,playerInfoMainView_texture_004_png,playerInfo_clothsPosition_item_texture_005_png,playerInfo_title_pop_item_Icon_UP_png,playerInfo_title_pop_item_img_noraml_bg_png,playerInfo_title_pop_item_img_select_png,playerInfo_title_pop_item_Img_used_png,playerInfo_title_pop_item_img_yc_bg_png,playerInfo_title_pop_tile_title_png,suit_pop_view_icon_item_img_whd_png,suit_pop_view_icon_item_img_zbz_png,suit_pop_view_img_btn_zb_png,suit_pop_view_img_yzb_png,suit_pop_view_title_tz_png,title_pop_img_btn_th_png,title_pop_img_btn_yc_png,title_pop_img_yc_png,title_pop_img_yzb_png,title_pop_textrue_2_png,title_pop_txture_0_png,title_pop_txture_1_png"
+    }
+  ]
+}

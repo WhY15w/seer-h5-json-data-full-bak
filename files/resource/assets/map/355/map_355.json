@@ -1,0 +1,30 @@
+{
+  "resources": [
+    {
+      "type": "json",
+      "url": "355.json",
+      "name": "road_355"
+    },
+    {
+      "type": "image",
+      "url": "map_355_bg_mc.png",
+      "name": "map_355_bg_mc_png"
+    },
+    {
+      "type": "image",
+      "url": "map_355_control_mc.png",
+      "name": "map_355_control_mc_png"
+    },
+    {
+      "name": "exml_355",
+      "type": "text",
+      "url": "Map355Skin.exml"
+    }
+  ],
+  "groups": [
+    {
+      "keys": "road_355,map_355_bg_mc_png,map_355_control_mc_png,exml_355",
+      "name": "map_355"
+    }
+  ]
+}

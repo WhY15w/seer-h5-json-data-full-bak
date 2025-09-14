@@ -1,0 +1,171 @@
+{
+  "groups": [
+    {
+      "name": "advanced_pet_back_store",
+      "keys": "advanced_pet_back_store_sheet,hakensa_shenyufanchang_atlas,hakensa_shenyufanchang_json,hakensa_shenyufanchang4_atlas,hakensa_shenyufanchang4_json,jinjie_atlas,jinjie_json,lever_up_atlas,lever_up_json,mark_atlas,mark_json,mark5_atlas,mark5_json,refresh_atlas,refresh_json,AdvancedPetBackStoreMainPanel_bg_png,advanced_pet_back_buy_coin_btnBuy_png,advanced_pet_back_buy_coin_btnGoto1_png,advanced_pet_back_buy_coin_btnGoto2_png,advanced_pet_back_store_highlight_bg_png,advanced_pet_back_store_main_imgCanAdv_png,advanced_pet_back_store_main_zu_2_png,detail_panel_bg_11_png,detail_panel_bg_2_png,detail_panel_bg_3_png,hakensa_shenyufanchang_png,hakensa_shenyufanchang4_png,jinjie_png,lever_up_png,mark_png,mark5_png,refresh_png"
+    }
+  ],
+  "resources": [
+    {
+      "name": "hakensa_shenyufanchang_atlas",
+      "type": "text",
+      "url": "advanced_pet_back_store/outside/hakensa_shenyufanchang.atlas"
+    },
+    {
+      "name": "hakensa_shenyufanchang_json",
+      "type": "json",
+      "url": "advanced_pet_back_store/outside/hakensa_shenyufanchang.json"
+    },
+    {
+      "name": "hakensa_shenyufanchang4_atlas",
+      "type": "text",
+      "url": "advanced_pet_back_store/outside/hakensa_shenyufanchang4.atlas"
+    },
+    {
+      "name": "hakensa_shenyufanchang4_json",
+      "type": "json",
+      "url": "advanced_pet_back_store/outside/hakensa_shenyufanchang4.json"
+    },
+    {
+      "name": "jinjie_atlas",
+      "type": "text",
+      "url": "advanced_pet_back_store/outside/jinjie.atlas"
+    },
+    {
+      "name": "jinjie_json",
+      "type": "json",
+      "url": "advanced_pet_back_store/outside/jinjie.json"
+    },
+    {
+      "name": "lever_up_atlas",
+      "type": "text",
+      "url": "advanced_pet_back_store/outside/lever_up.atlas"
+    },
+    {
+      "name": "lever_up_json",
+      "type": "json",
+      "url": "advanced_pet_back_store/outside/lever_up.json"
+    },
+    {
+      "name": "mark_atlas",
+      "type": "text",
+      "url": "advanced_pet_back_store/outside/mark.atlas"
+    },
+    {
+      "name": "mark_json",
+      "type": "json",
+      "url": "advanced_pet_back_store/outside/mark.json"
+    },
+    {
+      "name": "mark5_atlas",
+      "type": "text",
+      "url": "advanced_pet_back_store/outside/mark5.atlas"
+    },
+    {
+      "name": "mark5_json",
+      "type": "json",
+      "url": "advanced_pet_back_store/outside/mark5.json"
+    },
+    {
+      "name": "refresh_atlas",
+      "type": "text",
+      "url": "advanced_pet_back_store/outside/refresh.atlas"
+    },
+    {
+      "name": "refresh_json",
+      "type": "json",
+      "url": "advanced_pet_back_store/outside/refresh.json"
+    },
+    {
+      "name": "AdvancedPetBackStoreMainPanel_bg_png",
+      "type": "image",
+      "url": "advanced_pet_back_store/outside/AdvancedPetBackStoreMainPanel_bg.png"
+    },
+    {
+      "name": "advanced_pet_back_buy_coin_btnBuy_png",
+      "type": "image",
+      "url": "advanced_pet_back_store/outside/advanced_pet_back_buy_coin_btnBuy.png"
+    },
+    {
+      "name": "advanced_pet_back_buy_coin_btnGoto1_png",
+      "type": "image",
+      "url": "advanced_pet_back_store/outside/advanced_pet_back_buy_coin_btnGoto1.png"
+    },
+    {
+      "name": "advanced_pet_back_buy_coin_btnGoto2_png",
+      "type": "image",
+      "url": "advanced_pet_back_store/outside/advanced_pet_back_buy_coin_btnGoto2.png"
+    },
+    {
+      "name": "advanced_pet_back_store_highlight_bg_png",
+      "type": "image",
+      "url": "advanced_pet_back_store/outside/advanced_pet_back_store_highlight_bg.png"
+    },
+    {
+      "name": "advanced_pet_back_store_main_imgCanAdv_png",
+      "type": "image",
+      "url": "advanced_pet_back_store/outside/advanced_pet_back_store_main_imgCanAdv.png"
+    },
+    {
+      "name": "advanced_pet_back_store_main_zu_2_png",
+      "type": "image",
+      "url": "advanced_pet_back_store/outside/advanced_pet_back_store_main_zu_2.png"
+    },
+    {
+      "name": "detail_panel_bg_11_png",
+      "type": "image",
+      "url": "advanced_pet_back_store/outside/detail_panel_bg_11.png"
+    },
+    {
+      "name": "detail_panel_bg_2_png",
+      "type": "image",
+      "url": "advanced_pet_back_store/outside/detail_panel_bg_2.png"
+    },
+    {
+      "name": "detail_panel_bg_3_png",
+      "type": "image",
+      "url": "advanced_pet_back_store/outside/detail_panel_bg_3.png"
+    },
+    {
+      "name": "hakensa_shenyufanchang_png",
+      "type": "image",
+      "url": "advanced_pet_back_store/outside/hakensa_shenyufanchang.png"
+    },
+    {
+      "name": "hakensa_shenyufanchang4_png",
+      "type": "image",
+      "url": "advanced_pet_back_store/outside/hakensa_shenyufanchang4.png"
+    },
+    {
+      "name": "jinjie_png",
+      "type": "image",
+      "url": "advanced_pet_back_store/outside/jinjie.png"
+    },
+    {
+      "name": "lever_up_png",
+      "type": "image",
+      "url": "advanced_pet_back_store/outside/lever_up.png"
+    },
+    {
+      "name": "mark_png",
+      "type": "image",
+      "url": "advanced_pet_back_store/outside/mark.png"
+    },
+    {
+      "name": "mark5_png",
+      "type": "image",
+      "url": "advanced_pet_back_store/outside/mark5.png"
+    },
+    {
+      "name": "refresh_png",
+      "type": "image",
+      "url": "advanced_pet_back_store/outside/refresh.png"
+    },
+    {
+      "name": "advanced_pet_back_store_sheet",
+      "type": "sheet",
+      "url": "advanced_pet_back_store/advanced_pet_back_store_sheet.json",
+      "subkeys": "AdvancedPetBackNecessaryPop_effsign_png,AdvancedPetBackNecessaryPop_fifsign_png,AdvancedPetBackNecessaryPop_noFree_png,AdvancedPetBackNecessaryPop_oneKeyBtn_png,AdvancedPetBackNecessaryPop_title_png,advanced_pet_back_buy_coin_title_png,advanced_pet_back_store_detial_panel_btnPetInfo_png,advanced_pet_back_store_detial_panel_btnStartAdv_png,advanced_pet_back_store_detial_panel_btnStore_png,advanced_pet_back_store_detial_panel_btnToBuy_png,advanced_pet_back_store_detial_panel_compIDLine_png,advanced_pet_back_store_detial_panel_compNameLine_png,advanced_pet_back_store_detial_panel_getbtn_png,advanced_pet_back_store_detial_panel_jjzjjkwcjj_png,advanced_pet_back_store_enter_line_png,advanced_pet_back_store_enter_title_png,advanced_pet_back_store_highlight_btnGoTo_png,advanced_pet_back_store_highlight_dark_star_png,advanced_pet_back_store_highlight_light_star_png,advanced_pet_back_store_highlight_title_png,advanced_pet_back_store_main_1724859_png,advanced_pet_back_store_main_btnBuyComp_png,advanced_pet_back_store_main_buyCompBg_png,advanced_pet_back_store_main_grpHasGot_png,advanced_pet_back_store_main_grpLook_png,advanced_pet_back_store_main_grpNotYet_png,advanced_pet_back_store_main_imgLine_png,advanced_pet_back_store_main_imgProgress_png,advanced_pet_back_store_main_imgProgress_canAdv_png,advanced_pet_back_store_main_imgProgress_star0_png,advanced_pet_back_store_main_imgProgress_star1_png,advanced_pet_back_store_main_imgRresh_png,advanced_pet_back_store_main_img_di2_png,advanced_pet_back_store_main_Labell_png,advanced_pet_back_store_main_title_png,advanced_pet_back_store_main___png,enter_btn_11_png,enter_btn_2_png,enter_btn_3_png,jinjiexiangqing_png"
+    }
+  ]
+}

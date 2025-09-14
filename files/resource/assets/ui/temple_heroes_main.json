@@ -1,0 +1,71 @@
+{
+  "groups": [
+    {
+      "name": "temple_heroes_main",
+      "keys": "temple_heroes_main_sheet,12heroes_particle_atlas,12heroes_particle_json,main_anima_atlas,main_anima_json,main_top_anima_atlas,main_top_anima_json,12heroes_particle_png,main_anima_png,main_top_anima_png,temple_heroes_main_bg_jpg,temple_heroes_main_heros_png"
+    }
+  ],
+  "resources": [
+    {
+      "name": "12heroes_particle_atlas",
+      "type": "text",
+      "url": "temple_heroes_main/outside/12heroes_particle.atlas"
+    },
+    {
+      "name": "12heroes_particle_json",
+      "type": "json",
+      "url": "temple_heroes_main/outside/12heroes_particle.json"
+    },
+    {
+      "name": "main_anima_atlas",
+      "type": "text",
+      "url": "temple_heroes_main/outside/main_anima.atlas"
+    },
+    {
+      "name": "main_anima_json",
+      "type": "json",
+      "url": "temple_heroes_main/outside/main_anima.json"
+    },
+    {
+      "name": "main_top_anima_atlas",
+      "type": "text",
+      "url": "temple_heroes_main/outside/main_top_anima.atlas"
+    },
+    {
+      "name": "main_top_anima_json",
+      "type": "json",
+      "url": "temple_heroes_main/outside/main_top_anima.json"
+    },
+    {
+      "name": "12heroes_particle_png",
+      "type": "image",
+      "url": "temple_heroes_main/outside/12heroes_particle.png"
+    },
+    {
+      "name": "main_anima_png",
+      "type": "image",
+      "url": "temple_heroes_main/outside/main_anima.png"
+    },
+    {
+      "name": "main_top_anima_png",
+      "type": "image",
+      "url": "temple_heroes_main/outside/main_top_anima.png"
+    },
+    {
+      "name": "temple_heroes_main_bg_jpg",
+      "type": "image",
+      "url": "temple_heroes_main/outside/temple_heroes_main_bg.jpg"
+    },
+    {
+      "name": "temple_heroes_main_heros_png",
+      "type": "image",
+      "url": "temple_heroes_main/outside/temple_heroes_main_heros.png"
+    },
+    {
+      "name": "temple_heroes_main_sheet",
+      "type": "sheet",
+      "url": "temple_heroes_main/temple_heroes_main_sheet.json",
+      "subkeys": "temple_heroes_main_backbg_png,temple_heroes_main_btnback_png,temple_heroes_main_herosbg_png,temple_heroes_main_img_buy_png,temple_heroes_main_img_curHero_png,temple_heroes_main_img_next_png,temple_heroes_main_pop_bg_png,temple_heroes_main_pop_btnclose_png,temple_heroes_main_pop_next_png,temple_heroes_main_pop_title_png,temple_heroes_main_tips_png"
+    }
+  ]
+}

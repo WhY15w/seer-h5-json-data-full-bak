@@ -1,0 +1,645 @@
+{
+  "frameRate": 24,
+  "name": "97",
+  "version": "5.5",
+  "compatibleVersion": "5.5",
+  "armature": [
+    {
+      "name": "anim",
+      "bone": [
+        {
+          "inheritScale": false,
+          "name": "图层 13",
+          "transform": {
+            "x": -0.3,
+            "y": 15.6,
+            "scX": 0.2873,
+            "scY": 0.4186
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "图层 12"
+        }
+      ],
+      "slot": [
+        {
+          "name": "图层 13",
+          "parent": "图层 13"
+        },
+        {
+          "name": "图层 12",
+          "parent": "图层 12"
+        }
+      ],
+      "skin": [
+        {
+          "slot": [
+            {
+              "name": "图层 13",
+              "display": [
+                {
+                  "name": "sdfgggg",
+                  "transform": {
+                    "x": 0.6,
+                    "y": 0.5
+                  }
+                }
+              ]
+            },
+            {
+              "name": "图层 12",
+              "display": [
+                {
+                  "name": "__dbTextures/anim/图层 12_0",
+                  "transform": {
+                    "x": 0.15,
+                    "y": 0.2
+                  }
+                },
+                {
+                  "name": "__dbTextures/anim/图层 12_3",
+                  "transform": {
+                    "y": 0.45
+                  }
+                },
+                {
+                  "name": "__dbTextures/anim/图层 12_6",
+                  "transform": {
+                    "x": 0.15,
+                    "y": 0.2
+                  }
+                },
+                {
+                  "name": "__dbTextures/anim/图层 12_9",
+                  "transform": {
+                    "y": 0.45
+                  }
+                },
+                {
+                  "name": "__dbTextures/anim/图层 12_12",
+                  "transform": {
+                    "x": 0.4,
+                    "y": 0.4
+                  }
+                },
+                {
+                  "name": "__dbTextures/anim/图层 12_15",
+                  "transform": {
+                    "x": 0.2,
+                    "y": 0.25
+                  }
+                },
+                {
+                  "name": "__dbTextures/anim/图层 12_18",
+                  "transform": {
+                    "x": 0.4,
+                    "y": 0.4
+                  }
+                },
+                {
+                  "name": "__dbTextures/anim/图层 12_21",
+                  "transform": {
+                    "x": 0.05,
+                    "y": 0.4
+                  }
+                },
+                {
+                  "name": "__dbTextures/anim/图层 12_24",
+                  "transform": {
+                    "x": 0.4,
+                    "y": 0.05
+                  }
+                },
+                {
+                  "name": "__dbTextures/anim/图层 12_27",
+                  "transform": {
+                    "x": 0.2,
+                    "y": 0.1
+                  }
+                },
+                {
+                  "name": "__dbTextures/anim/图层 12_30",
+                  "transform": {
+                    "x": 0.4,
+                    "y": 0.05
+                  }
+                },
+                {
+                  "name": "__dbTextures/anim/图层 12_33",
+                  "transform": {
+                    "x": 0.1,
+                    "y": 0.1
+                  }
+                },
+                {
+                  "name": "__dbTextures/anim/图层 12_36",
+                  "transform": {
+                    "x": 0.15,
+                    "y": 0.2
+                  }
+                },
+                {
+                  "name": "__dbTextures/anim/图层 12_39",
+                  "transform": {
+                    "y": 0.45
+                  }
+                },
+                {
+                  "name": "__dbTextures/anim/图层 12_42",
+                  "transform": {
+                    "x": 0.15,
+                    "y": 0.2
+                  }
+                },
+                {
+                  "name": "__dbTextures/anim/图层 12_45",
+                  "transform": {
+                    "y": 0.45
+                  }
+                },
+                {
+                  "name": "__dbTextures/anim/图层 12_48",
+                  "transform": {
+                    "x": 0.4,
+                    "y": 0.4
+                  }
+                },
+                {
+                  "name": "__dbTextures/anim/图层 12_51",
+                  "transform": {
+                    "x": 0.2,
+                    "y": 0.25
+                  }
+                },
+                {
+                  "name": "__dbTextures/anim/图层 12_54",
+                  "transform": {
+                    "x": 0.4,
+                    "y": 0.4
+                  }
+                },
+                {
+                  "name": "__dbTextures/anim/图层 12_57",
+                  "transform": {
+                    "x": 0.05,
+                    "y": 0.4
+                  }
+                },
+                {
+                  "name": "__dbTextures/anim/图层 12_60",
+                  "transform": {
+                    "x": 0.4,
+                    "y": 0.05
+                  }
+                },
+                {
+                  "name": "__dbTextures/anim/图层 12_63",
+                  "transform": {
+                    "x": 0.2,
+                    "y": 0.1
+                  }
+                },
+                {
+                  "name": "__dbTextures/anim/图层 12_66",
+                  "transform": {
+                    "x": 0.4,
+                    "y": 0.05
+                  }
+                },
+                {
+                  "name": "__dbTextures/anim/图层 12_69",
+                  "transform": {
+                    "x": 0.1,
+                    "y": 0.1
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "animation": [
+        {
+          "duration": 12,
+          "name": "down",
+          "bone": [
+            {
+              "name": "图层 13",
+              "scaleFrame": [
+                {
+                  "duration": 12
+                }
+              ]
+            },
+            {
+              "name": "图层 12",
+              "translateFrame": [
+                {
+                  "duration": 3
+                },
+                {
+                  "duration": 3,
+                  "x": 1.1,
+                  "y": -0.55
+                },
+                {
+                  "duration": 3
+                },
+                {
+                  "duration": 3,
+                  "x": 1.1,
+                  "y": -0.55
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 12
+                }
+              ]
+            }
+          ],
+          "slot": [
+            {
+              "name": "图层 12",
+              "displayFrame": [
+                {
+                  "duration": 3
+                },
+                {
+                  "duration": 3,
+                  "value": 1
+                },
+                {
+                  "duration": 3,
+                  "value": 2
+                },
+                {
+                  "duration": 3,
+                  "value": 3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "duration": 12,
+          "name": "rightdown",
+          "bone": [
+            {
+              "name": "图层 13",
+              "translateFrame": [
+                {
+                  "duration": 12,
+                  "x": 1.35,
+                  "y": -0.4
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 12
+                }
+              ]
+            },
+            {
+              "name": "图层 12",
+              "translateFrame": [
+                {
+                  "duration": 3,
+                  "y": 0.1
+                },
+                {
+                  "duration": 3,
+                  "x": -2.6,
+                  "y": -0.8
+                },
+                {
+                  "duration": 3,
+                  "y": 0.1
+                },
+                {
+                  "duration": 3,
+                  "x": 0.6,
+                  "y": -3.3
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 12
+                }
+              ]
+            }
+          ],
+          "slot": [
+            {
+              "name": "图层 12",
+              "displayFrame": [
+                {
+                  "duration": 3,
+                  "value": 4
+                },
+                {
+                  "duration": 3,
+                  "value": 5
+                },
+                {
+                  "duration": 3,
+                  "value": 6
+                },
+                {
+                  "duration": 3,
+                  "value": 7
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "duration": 12,
+          "name": "rightup",
+          "bone": [
+            {
+              "name": "图层 13",
+              "translateFrame": [
+                {
+                  "duration": 12,
+                  "x": 1.91,
+                  "y": -0.3
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 12,
+                  "x": -1
+                }
+              ]
+            },
+            {
+              "name": "图层 12",
+              "translateFrame": [
+                {
+                  "duration": 3,
+                  "x": -0.1,
+                  "y": 0.2
+                },
+                {
+                  "duration": 3,
+                  "x": 2,
+                  "y": -1.45
+                },
+                {
+                  "duration": 3,
+                  "x": -0.1,
+                  "y": 0.2
+                },
+                {
+                  "duration": 3,
+                  "x": -0.85,
+                  "y": -2.65
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 12
+                }
+              ]
+            }
+          ],
+          "slot": [
+            {
+              "name": "图层 12",
+              "displayFrame": [
+                {
+                  "duration": 3,
+                  "value": 8
+                },
+                {
+                  "duration": 3,
+                  "value": 9
+                },
+                {
+                  "duration": 3,
+                  "value": 10
+                },
+                {
+                  "duration": 3,
+                  "value": 11
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "duration": 12,
+          "name": "downWalk",
+          "bone": [
+            {
+              "name": "图层 13",
+              "scaleFrame": [
+                {
+                  "duration": 12
+                }
+              ]
+            },
+            {
+              "name": "图层 12",
+              "translateFrame": [
+                {
+                  "duration": 3
+                },
+                {
+                  "duration": 3,
+                  "x": 1.1,
+                  "y": -0.55
+                },
+                {
+                  "duration": 3
+                },
+                {
+                  "duration": 3,
+                  "x": 1.1,
+                  "y": -0.55
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 12
+                }
+              ]
+            }
+          ],
+          "slot": [
+            {
+              "name": "图层 12",
+              "displayFrame": [
+                {
+                  "duration": 3,
+                  "value": 12
+                },
+                {
+                  "duration": 3,
+                  "value": 13
+                },
+                {
+                  "duration": 3,
+                  "value": 14
+                },
+                {
+                  "duration": 3,
+                  "value": 15
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "duration": 12,
+          "name": "rightdownWalk",
+          "bone": [
+            {
+              "name": "图层 13",
+              "translateFrame": [
+                {
+                  "duration": 12,
+                  "x": 1.35,
+                  "y": -0.4
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 12
+                }
+              ]
+            },
+            {
+              "name": "图层 12",
+              "translateFrame": [
+                {
+                  "duration": 3,
+                  "y": 0.1
+                },
+                {
+                  "duration": 3,
+                  "x": -2.6,
+                  "y": -0.8
+                },
+                {
+                  "duration": 3,
+                  "y": 0.1
+                },
+                {
+                  "duration": 3,
+                  "x": 0.6,
+                  "y": -3.3
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 12
+                }
+              ]
+            }
+          ],
+          "slot": [
+            {
+              "name": "图层 12",
+              "displayFrame": [
+                {
+                  "duration": 3,
+                  "value": 16
+                },
+                {
+                  "duration": 3,
+                  "value": 17
+                },
+                {
+                  "duration": 3,
+                  "value": 18
+                },
+                {
+                  "duration": 3,
+                  "value": 19
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "duration": 12,
+          "name": "rightupWalk",
+          "bone": [
+            {
+              "name": "图层 13",
+              "translateFrame": [
+                {
+                  "duration": 12,
+                  "x": 1.91,
+                  "y": -0.3
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 12,
+                  "x": -1
+                }
+              ]
+            },
+            {
+              "name": "图层 12",
+              "translateFrame": [
+                {
+                  "duration": 3,
+                  "x": -0.1,
+                  "y": 0.2
+                },
+                {
+                  "duration": 3,
+                  "x": 2,
+                  "y": -1.45
+                },
+                {
+                  "duration": 3,
+                  "x": -0.1,
+                  "y": 0.2
+                },
+                {
+                  "duration": 3,
+                  "x": -0.85,
+                  "y": -2.65
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 12
+                }
+              ]
+            }
+          ],
+          "slot": [
+            {
+              "name": "图层 12",
+              "displayFrame": [
+                {
+                  "duration": 3,
+                  "value": 20
+                },
+                {
+                  "duration": 3,
+                  "value": 21
+                },
+                {
+                  "duration": 3,
+                  "value": 22
+                },
+                {
+                  "duration": 3,
+                  "value": 23
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "resources": [
+    {
+      "type": "json",
+      "url": "22.json",
+      "name": "road_22"
+    },
+    {
+      "type": "image",
+      "url": "map_22_bg_mc.png",
+      "name": "map_22_bg_mc_png"
+    },
+    {
+      "type": "image",
+      "url": "map_22_animator_mc.png",
+      "name": "map_22_animator_mc_png"
+    },
+    {
+      "type": "image",
+      "url": "map_22_control_mc.png",
+      "name": "map_22_control_mc_png"
+    },
+    {
+      "type": "image",
+      "url": "map_22_top_mc.png",
+      "name": "map_22_top_mc_png"
+    },
+    {
+      "name": "exml_22",
+      "type": "text",
+      "url": "Map22Skin.exml"
+    }
+  ],
+  "groups": [
+    {
+      "keys": "road_22,map_22_bg_mc_png,map_22_animator_mc_png,map_22_control_mc_png,map_22_top_mc_png,exml_22",
+      "name": "map_22"
+    }
+  ]
+}

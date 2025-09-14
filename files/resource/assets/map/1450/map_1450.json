@@ -1,0 +1,30 @@
+{
+  "resources": [
+    {
+      "type": "json",
+      "url": "1450.json",
+      "name": "road_1450"
+    },
+    {
+      "type": "text",
+      "url": "Map1450Skin.exml",
+      "name": "exml_1450"
+    },
+    {
+      "type": "image",
+      "url": "map_1450_bg_mc.jpg",
+      "name": "map_1450_bg_mc_jpg"
+    },
+    {
+      "type": "image",
+      "url": "map_1450_fire.png",
+      "name": "map_1450_fire_png"
+    }
+  ],
+  "groups": [
+    {
+      "keys": "road_1450,exml_1450,map_1450_bg_mc_jpg,map_1450_fire_png",
+      "name": "map_1450"
+    }
+  ]
+}

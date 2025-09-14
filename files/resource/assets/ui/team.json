@@ -1,0 +1,111 @@
+{
+  "groups": [
+    {
+      "name": "team",
+      "keys": "team_sheet,zhanduiboss_atlas,zhanduiboss_json,teamboss_ditu_png,team_device_close_rect_png,team_device_flag_closed_png,team_manage_device_bg_png,team_member_manage_pop_infobg_png,team_rightbg_png,team_set_title_panel_bg_png,team_task_defaultBg_png,team_task_dispatch_list_png,team_task_img_location_png,team_task_leftbg_png,team_task_tuijian2textbg_png,team_tech_img_none_png,team_tech_rightbg_png,team_transfer_leader_bg_png,team_upgrade_setbg_s9_png,zhanduiboss_png"
+    }
+  ],
+  "resources": [
+    {
+      "name": "zhanduiboss_atlas",
+      "type": "text",
+      "url": "team/outside/zhanduiboss.atlas"
+    },
+    {
+      "name": "zhanduiboss_json",
+      "type": "json",
+      "url": "team/outside/zhanduiboss.json"
+    },
+    {
+      "name": "teamboss_ditu_png",
+      "type": "image",
+      "url": "team/outside/teamboss_ditu.png"
+    },
+    {
+      "name": "team_device_close_rect_png",
+      "type": "image",
+      "url": "team/outside/team_device_close_rect.png"
+    },
+    {
+      "name": "team_device_flag_closed_png",
+      "type": "image",
+      "url": "team/outside/team_device_flag_closed.png"
+    },
+    {
+      "name": "team_manage_device_bg_png",
+      "type": "image",
+      "url": "team/outside/team_manage_device_bg.png"
+    },
+    {
+      "name": "team_member_manage_pop_infobg_png",
+      "type": "image",
+      "url": "team/outside/team_member_manage_pop_infobg.png"
+    },
+    {
+      "name": "team_rightbg_png",
+      "type": "image",
+      "url": "team/outside/team_rightbg.png"
+    },
+    {
+      "name": "team_set_title_panel_bg_png",
+      "type": "image",
+      "url": "team/outside/team_set_title_panel_bg.png"
+    },
+    {
+      "name": "team_task_defaultBg_png",
+      "type": "image",
+      "url": "team/outside/team_task_defaultBg.png"
+    },
+    {
+      "name": "team_task_dispatch_list_png",
+      "type": "image",
+      "url": "team/outside/team_task_dispatch_list.png"
+    },
+    {
+      "name": "team_task_img_location_png",
+      "type": "image",
+      "url": "team/outside/team_task_img_location.png"
+    },
+    {
+      "name": "team_task_leftbg_png",
+      "type": "image",
+      "url": "team/outside/team_task_leftbg.png"
+    },
+    {
+      "name": "team_task_tuijian2textbg_png",
+      "type": "image",
+      "url": "team/outside/team_task_tuijian2textbg.png"
+    },
+    {
+      "name": "team_tech_img_none_png",
+      "type": "image",
+      "url": "team/outside/team_tech_img_none.png"
+    },
+    {
+      "name": "team_tech_rightbg_png",
+      "type": "image",
+      "url": "team/outside/team_tech_rightbg.png"
+    },
+    {
+      "name": "team_transfer_leader_bg_png",
+      "type": "image",
+      "url": "team/outside/team_transfer_leader_bg.png"
+    },
+    {
+      "name": "team_upgrade_setbg_s9_png",
+      "type": "image",
+      "url": "team/outside/team_upgrade_setbg_s9.png"
+    },
+    {
+      "name": "zhanduiboss_png",
+      "type": "image",
+      "url": "team/outside/zhanduiboss.png"
+    },
+    {
+      "name": "team_sheet",
+      "type": "sheet",
+      "url": "team/team_sheet.json",
+      "subkeys": "teamboss_baikuang_png,teamboss_btncure_png,teamboss_btninfo_png,teamboss_btnpet_png,teamboss_btntz_png,teamboss_btnzengjia_png,teamboss_huangkuang_png,teamboss_jlyylwlkhy_png,teamboss_mask_png,teamboss_title_png,teamboss_xian_png,teamboss_xueliang_png,teamboss_xuetiaodi_png,teamboss_yikaiqi_png,team_task_dispatch_btnAttr_png,team_task_dispatch_btnDe_png,team_task_dispatch_btnDispatch_png,team_task_dispatch_btnSearch_png,team_task_dispatch_buff_png,team_task_dispatch_countbg_png,team_task_dispatch_icon_png,team_task_dispatch_petbg_png,team_task_dispatch_title_png,team_info_btnEdit_png,team_info_headbg_png,team_info_info_item_icon_png,team_info_info_res_icon_png,team_info_info_tech_icon_png,team_info_line_png,team_info_title_png,team_info_txtbg_png,team_info_txtbg1_png,team_btnBg_yellow_png,team_check_box_down_png,team_check_box_up_png,team_dissolve_pop_datebg_png,team_dissolve_pop_tipsbg_png,team_dissolve_pop_title_png,team_managetype1_down_png,team_managetype1_up_png,team_managetype2_down_png,team_managetype2_up_png,team_managetype3_down_png,team_managetype3_up_png,team_managetype4_down_png,team_managetype4_up_png,team_managet_type_down_png,team_manage_apply_bg_png,team_manage_btnGuanli_png,team_manage_btnInfo_png,team_manage_btnOn_png,team_manage_btnTuichu_png,team_manage_btnUp_png,team_manage_btnYichu_png,team_manage_countbg_png,team_manage_dissolve_btnCancel_png,team_manage_dissolve_btnConfirm_png,team_manage_dissolve_btnDissolve_png,team_manage_dissolve_btnSave_png,team_manage_dissolve_flag_warning_png,team_manage_dissolve_setbg_png,team_manage_dissolve_zhezhao_png,team_manage_icon_adim_png,team_manage_icon_captain_png,team_manage_itembg_png,team_manage_memberbg_png,team_manage_members_arrow_down_png,team_manage_members_arrow_up_png,team_manage_members_delIcon_png,team_manage_members_infoIcon_png,team_manage_members_label_dailyContribution_png,team_manage_members_label_name_png,team_manage_members_label_position_png,team_manage_members_label_state_png,team_manage_members_label_totalContribution_png,team_manage_members_manageIcon_png,team_manage_members_quitIcon_png,team_manage_members_titlebg_png,team_manage_pet_device_handle_png,team_manage_pet_device_off_png,team_manage_pet_device_on_png,team_manage_res_device_btnLevelUp_png,team_manage_res_device_dot_png,team_manage_res_device_max_png,team_manage_res_device_needbg1_png,team_manage_res_device_needtxtbg_png,team_manage_res_device_title_png,team_manage_res_icon_png,team_manage_selected_png,team_manage_title_png,team_manage_title1_png,team_member_manage_pop_title_png,team_notice_edit_pop_title_png,team_transfer_leader_title_png,team_res_arrows_png,team_res_black_tech_png,team_res_btnBuy_png,team_res_btnMake_png,team_res_btnOpen_png,team_res_btnProduct_png,team_res_btnUp_png,team_res_countbg_png,team_res_flag_used_png,team_res_heikejibg_png,team_res_icon_drawing_2_png,team_res_icon_drawing_3_png,team_res_icon_drawing_4_png,team_res_icon_drawing_5_png,team_res_line_png,team_res_needtxtbg_png,team_res_techIcon_png,team_res_title_png,team_res_titlebg_png,team_upgrade_exchenged_png,team_upgrade_flag_false_png,team_upgrade_flag_max_png,team_upgrade_flag_true_png,team_upgrade_iconLv_png,team_upgrade_icon_num_png,team_upgrade_rect_png,team_upgrade_title_png,team_upgrade_txtbg_png,team_task_btnBack_png,team_task_btnDispatch1_png,team_task_btnDispatch2_png,team_task_btnGet_png,team_task_dispatch_tag_png,team_task_fast_dispatch_btnCancel_png,team_task_fast_dispatch_btnDispatch_png,team_task_fast_dispatch_successbg_png,team_task_fast_dispatch_title_png,team_task_icon_png,team_task_iconBg_png,team_task_icon_star_png,team_task_icon_star_bg_png,team_task_img_dot_png,team_task_img_petIcon_png,team_task_img_triangle_png,team_task_itembg_png,team_task_item_down_png,team_task_item_up_png,team_task_line_png,team_task_lose_png,team_task_pet_selected_png,team_task_settings_ban_item_bg_png,team_task_settings_ban_item_btnDel_png,team_task_settings_btnAttr_png,team_task_settings_btnBack_png,team_task_settings_btnOrder_down_png,team_task_settings_btnOrder_up_png,team_task_settings_my_item_bg_png,team_task_settings_searchBg_png,team_task_settings_title_png,team_task_success_png,team_task_tag1_png,team_task_tag2_png,team_task_tag3_png,team_task_title_png,team_barbg_png,team_btnBoss_png,team_btnClose_png,team_btnDissolve_png,team_btnEdit_png,team_btnManage_png,team_btnRes_png,team_btnSave_png,team_btnShop_png,team_btnTask_png,team_btnTech_png,team_btnTools_png,team_btnUp_png,team_clocktime_png,team_device_down_png,team_device_up_png,team_headbg_png,team_help_png,team_icon_0_png,team_icon_1_png,team_icon_id_png,team_icon_leader_png,team_icon_level_png,team_icon_manage_png,team_icon_member_png,team_icon_resource_png,team_info_png,team_info_ up_png,team_info_down_png,team_items_btnlocked_png,team_items_contentbg_png,team_items_countbg_png,team_items_icon_png,team_items_line_png,team_items_textbg_png,team_items_title_png,team_item_bg_png,team_item_render_btnExchange_png,team_item_render_buybg_png,team_line_png,team_logo_png,team_log_down_png,team_log_up_png,team_lvl_up_png,team_main_btnManage_png,team_memberbg_png,team_member_down_png,team_member_up_png,team_name_png,team_nb_tech_off_png,team_nb_tech_on_png,team_note_bg_png,team_nx_tec_png,team_pet_head_frame_png,team_play_down_png,team_play_flag_close_png,team_play_img_boss_png,team_play_img_bossOpen_png,team_play_img_coming_png,team_play_img_quartermaster_png,team_play_img_task_png,team_play_up_png,team_rect_png,team_reportbg_png,team_res_exchanged_icon_png,team_star_png,team_team_boss_lock_png,team_team_shop_lock_png,team_thumb_png,team_title_png,team_transfer_leader_cheng_png,team_txtbg_png,team_txtbg2_png,team_txtbg_s9_png,team_upgrade_bluebg_png,team_upgrade_btnUpgrade_png,team_upgrade_next_png,team_upgrade_res_icon_png,team_upgrade_txtbg1_png,team_tech_atk_icon_png,team_tech_attr_icon_png,team_tech_attr_icon2_png,team_tech_bluebg_png,team_tech_btnChangePet_png,team_tech_btnEnhance_png,team_tech_def_icon_png,team_tech_head_item_selected_png,team_tech_hp_icon_png,team_tech_iconbg_png,team_tech_item_img_selected_png,team_tech_item_shuxingbg_png,team_tech_needtxtbg_png,team_tech_next_png,team_tech_petheadbg_png,team_tech_satk_icon_png,team_tech_sdef_icon_png,team_tech_speed_icon_png,team_tech_startStrengthen_png,team_tech_star_off_png,team_tech_star_on_png,team_tech_title_png,team_set_title_btnCompose_png,team_set_title_btnFix_png,team_set_title_inputbg_png,teamtrader_1722814_png,teamtrader_btnXiugai_png,teamtrader_countbg_png,teamtrader_di_png,teamtrader_icon1_png,teamtrader_jjxglkhy_png,teamtrader_tag_png,teamtrader_tongyongdi_png,teamtrader_topimg_png,teamtrader_txtBg_png,teamtrader_yhgg_png,teamtrader_zhuanshudi_png,teamtrader_ziyuanicon_png"
+    }
+  ]
+}

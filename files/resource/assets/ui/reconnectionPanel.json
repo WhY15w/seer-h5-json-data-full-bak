@@ -1,0 +1,16 @@
+{
+  "groups": [
+    {
+      "name": "reconnectionPanel",
+      "keys": ""
+    }
+  ],
+  "resources": [
+    {
+      "name": "reconnectionPanel_sheet",
+      "type": "sheet",
+      "url": "reconnectionPanel/reconnectionPanel_sheet.json",
+      "subkeys": ""
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "groups": [
+    {
+      "keys": "road_1135,exml_1135,map_1135_bg_mc_jpg",
+      "name": "map_1135"
+    }
+  ],
+  "resources": [
+    {
+      "type": "json",
+      "url": "1135.json",
+      "name": "road_1135"
+    },
+    {
+      "type": "text",
+      "url": "Map1135Skin.exml",
+      "name": "exml_1135"
+    },
+    {
+      "type": "image",
+      "url": "map_1135_bg_mc.jpg",
+      "name": "map_1135_bg_mc_jpg"
+    }
+  ]
+}

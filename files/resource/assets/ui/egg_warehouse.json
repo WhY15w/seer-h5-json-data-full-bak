@@ -1,0 +1,26 @@
+{
+  "groups": [
+    {
+      "name": "egg_warehouse",
+      "keys": "egg_warehouse_sheet,eggwarehouse_bg2_png,egg_warehouse_bg_png"
+    }
+  ],
+  "resources": [
+    {
+      "name": "eggwarehouse_bg2_png",
+      "type": "image",
+      "url": "egg_warehouse/outside/eggwarehouse_bg2.png"
+    },
+    {
+      "name": "egg_warehouse_bg_png",
+      "type": "image",
+      "url": "egg_warehouse/outside/egg_warehouse_bg.png"
+    },
+    {
+      "name": "egg_warehouse_sheet",
+      "type": "sheet",
+      "url": "egg_warehouse/egg_warehouse_sheet.json",
+      "subkeys": "egg_warehouse_close_png,egg_warehouse_imgBtn_act_png,egg_warehouse_imgBtn_lq_png,egg_warehouse_imgBtn_putJh_png,egg_warehouse_imgBtn_putjy_png,egg_warehouse_imgBtn_putysz_png,egg_warehouse_imgBtn_rightNow_png,egg_warehouse_imgBtn_vip_png,egg_warehouse_selected_pet_pop_bg_mask_1_png,egg_warehouse_selected_pet_pop_item_bg_png,egg_warehouse_selected_pet_pop_titleTx_1_png,egg_warehouse_selected_pet_pop_titleTx_2_png,egg_warehouse_selected_pet_pop_titleTx_3_png,egg_warehouse_szy_line_png,egg_warehouse_texture_11_png,egg_warehouse_texture_12_png,egg_warehouse_texture_13_png,egg_warehouse_texture_add_png,egg_warehouse_title_1_png,egg_warehouse_title_2_png,egg_warehouse_title_3_png,egg_warehouse_typeBtn_down_1_png,egg_warehouse_typeBtn_down_2_png,egg_warehouse_typeBtn_down_3_png,egg_warehouse_typeBtn_up_1_png,egg_warehouse_typeBtn_up_2_png,egg_warehouse_typeBtn_up_3_png"
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "groups": [
+    {
+      "name": "worldMap",
+      "keys": "worldMap_sheet,quyuxingxi_atlas,quyuxingxi_json,spaceshipmap_atlas,spaceshipmap_json,xingqiu_ske_json,xingqiu_tex_json,zhujiemian_ske_json,zhujiemian_tex_json,worldMap_bg_jpg,quyuxingxi_png,spaceshipmap_png,xingqiu_tex_png,zhujiemian_tex_png,worlmapship_bg_jpg"
+    },
+    {
+      "keys": "worldMap_group_star_sheet",
+      "name": "worldMap_group_star"
+    }
+  ],
+  "resources": [
+    {
+      "name": "quyuxingxi_atlas",
+      "type": "text",
+      "url": "worldMap/outside/quyuxingxi.atlas"
+    },
+    {
+      "name": "quyuxingxi_json",
+      "type": "json",
+      "url": "worldMap/outside/quyuxingxi.json"
+    },
+    {
+      "name": "spaceshipmap_atlas",
+      "type": "text",
+      "url": "worldMap/outside/spaceshipmap.atlas"
+    },
+    {
+      "name": "spaceshipmap_json",
+      "type": "json",
+      "url": "worldMap/outside/spaceshipmap.json"
+    },
+    {
+      "name": "xingqiu_ske_json",
+      "type": "json",
+      "url": "worldMap/outside/xingqiu_ske.json"
+    },
+    {
+      "name": "xingqiu_tex_json",
+      "type": "json",
+      "url": "worldMap/outside/xingqiu_tex.json"
+    },
+    {
+      "name": "zhujiemian_ske_json",
+      "type": "json",
+      "url": "worldMap/outside/zhujiemian_ske.json"
+    },
+    {
+      "name": "zhujiemian_tex_json",
+      "type": "json",
+      "url": "worldMap/outside/zhujiemian_tex.json"
+    },
+    {
+      "name": "worldMap_bg_jpg",
+      "type": "image",
+      "url": "worldMap/group_star/worldMap_bg.jpg"
+    },
+    {
+      "name": "quyuxingxi_png",
+      "type": "image",
+      "url": "worldMap/outside/quyuxingxi.png"
+    },
+    {
+      "name": "spaceshipmap_png",
+      "type": "image",
+      "url": "worldMap/outside/spaceshipmap.png"
+    },
+    {
+      "name": "xingqiu_tex_png",
+      "type": "image",
+      "url": "worldMap/outside/xingqiu_tex.png"
+    },
+    {
+      "name": "zhujiemian_tex_png",
+      "type": "image",
+      "url": "worldMap/outside/zhujiemian_tex.png"
+    },
+    {
+      "name": "worlmapship_bg_jpg",
+      "type": "image",
+      "url": "worldMap/worlmapship_bg.jpg"
+    },
+    {
+      "name": "worldMap_sheet",
+      "type": "sheet",
+      "url": "worldMap/worldMap_sheet.json",
+      "subkeys": "wms_pop_btnqw_png,wms_pop_gongnengtiao_png,wms_pop_starpanelbg_png,worldMapShip_bg2_png,worldMapShip_bg3_png,worldMapShip_boxBg_png,worldMapShip_itemBg_png,worldMapShip_itembg2_png,worldMapStar_btnClose_2_png,worldMapStar_gBg_png,worldMapStar_imgBtnGo_png,worldMapStar_imgBtnHide_png,worldMapStar_imgNotOpen_png,worldMapStar_imgOpenBtn_png,worldMapStar_itemBg_png,worldMapStar_ItemImg_png,worldMapStar_leftbg_png,worldMapStar_panel_bg_png,worldMapStar_rightbg_png,worldMapStar_sBg1_png,worldMapStar_starpanelBg_png,worldMapStar_tmp_png,worldMapStar_tmp1_png,worldMapStar_tmp3_png,worldMapStar_tmp4_png,worldMap_btnTurnpagesleft_png,worldMap_btnTurnpagesright_png,worldMap_img1_png,worldMap_img2_png,worldMap_imgBtnClose_png,worldMap_imgBtnShip_png,worldMap_imgBtnuWorld_png,worldMap_imgBtnWorld_png,worldMap_lock_png,worldMap_namebg_png,worldMap_select_png,worldMap_select0_png,worldMap_tip1_png,worldMap_tip2_png,worldMap_tip3_png,worldMap_tipLine_png,worlmapship_dingweiL_png,worlmapship_dingweiR_png,worlmapship_feichuan_png,worlmapship_starpanelbg_png,worlmapship_xuanzhong_png"
+    },
+    {
+      "name": "worldMap_group_star_sheet",
+      "type": "sheet",
+      "url": "worldMap/group_star_sheet.json",
+      "subkeys": "worldMapShip_bg1_png,worldMapStar_bg1_png,worldMapStar_diBg_png,worldMap_bg1_png"
+    }
+  ]
+}

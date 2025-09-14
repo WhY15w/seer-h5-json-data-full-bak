@@ -1,0 +1,304 @@
+{
+  "frameRate": 30,
+  "isGlobal": 0,
+  "name": "hanjiaqiandao2022",
+  "version": "5.0",
+  "armature": [
+    {
+      "slot": [
+        {
+          "blendMode": "add",
+          "color": {},
+          "name": "guang1",
+          "parent": "guang1"
+        },
+        {
+          "z": 1,
+          "color": {
+            "aM": 6
+          },
+          "name": "guang2",
+          "parent": "bone3"
+        }
+      ],
+      "type": "Armature",
+      "ik": [],
+      "defaultActions": [
+        {
+          "gotoAndPlay": "hanjiaqiandao2020"
+        }
+      ],
+      "aabb": {
+        "width": 612.01,
+        "y": -1.170000000000016,
+        "height": 400.98999999999995,
+        "x": -43.110000000000014
+      },
+      "skin": [
+        {
+          "slot": [
+            {
+              "display": [
+                {
+                  "path": "guang2",
+                  "type": "image",
+                  "name": "guang2",
+                  "transform": {
+                    "y": -42.21,
+                    "x": 43.84
+                  }
+                }
+              ],
+              "name": "guang2"
+            },
+            {
+              "display": [
+                {
+                  "path": "guang1",
+                  "type": "image",
+                  "name": "guang1",
+                  "transform": {
+                    "y": 156.64,
+                    "x": 200.48
+                  }
+                }
+              ],
+              "blendMode": "add",
+              "name": "guang1"
+            }
+          ],
+          "name": ""
+        }
+      ],
+      "animation": [
+        {
+          "slot": [
+            {
+              "frame": [
+                {
+                  "tweenEasing": 0,
+                  "duration": 40,
+                  "color": {
+                    "aM": 0
+                  }
+                },
+                {
+                  "tweenEasing": null,
+                  "duration": 120,
+                  "color": {
+                    "aM": 78
+                  }
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 49,
+                  "color": {
+                    "aM": 78
+                  }
+                },
+                {
+                  "tweenEasing": null,
+                  "duration": 1,
+                  "color": {
+                    "aM": 0
+                  }
+                }
+              ],
+              "name": "guang1"
+            },
+            {
+              "frame": [
+                {
+                  "tweenEasing": 0,
+                  "duration": 130,
+                  "color": {
+                    "aM": 0
+                  }
+                },
+                {
+                  "tweenEasing": null,
+                  "duration": 40
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 40
+                },
+                {
+                  "tweenEasing": null,
+                  "duration": 0,
+                  "color": {
+                    "aM": 0
+                  }
+                }
+              ],
+              "name": "guang2"
+            }
+          ],
+          "frame": [],
+          "ik": [],
+          "ffd": [],
+          "duration": 210,
+          "name": "hanjiaqiandao2020",
+          "bone": [
+            {
+              "frame": [
+                {
+                  "duration": 39,
+                  "transform": {
+                    "scX": 1.42
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 121,
+                  "transform": {
+                    "y": -0.55,
+                    "skX": 2.87,
+                    "skY": 2.87,
+                    "scX": 1.363,
+                    "scY": 1.173,
+                    "x": 0.27
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 47,
+                  "transform": {
+                    "y": -2.25,
+                    "skX": 11.78,
+                    "skY": 11.78,
+                    "scX": 1.186,
+                    "scY": 1.71,
+                    "x": 1.12
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 2,
+                  "transform": {
+                    "y": -2.91,
+                    "skX": 11.78,
+                    "skY": 11.78,
+                    "scX": 1.186,
+                    "scY": 1.71,
+                    "x": 1.45
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 1,
+                  "transform": {
+                    "skX": 15.39,
+                    "skY": 15.39,
+                    "scX": 1.115,
+                    "scY": 1.928
+                  }
+                }
+              ],
+              "name": "guang1"
+            },
+            {
+              "frame": [
+                {
+                  "duration": 130,
+                  "transform": {
+                    "y": -142.35,
+                    "skX": 34.76,
+                    "skY": 34.76,
+                    "scX": 0.618,
+                    "scY": 0.618,
+                    "x": 86.95
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 40,
+                  "transform": {
+                    "y": -72.62,
+                    "skX": 61.95,
+                    "skY": 61.95,
+                    "scX": 1.388,
+                    "scY": 1.388,
+                    "x": 154.77
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 40,
+                  "transform": {
+                    "y": -51.17,
+                    "skX": 70.32,
+                    "skY": 70.32,
+                    "scX": 1.625,
+                    "scY": 1.625,
+                    "x": 175.64
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 0,
+                  "transform": {
+                    "y": -29.71,
+                    "skX": 78.68,
+                    "skY": 78.68,
+                    "scX": 1.862,
+                    "scY": 1.862,
+                    "x": 196.5
+                  }
+                }
+              ],
+              "name": "bone3"
+            },
+            {
+              "frame": [
+                {
+                  "duration": 210,
+                  "transform": {}
+                }
+              ],
+              "name": "root"
+            },
+            {
+              "frame": [
+                {
+                  "duration": 210,
+                  "transform": {}
+                }
+              ],
+              "name": "bone"
+            }
+          ]
+        }
+      ],
+      "frameRate": 30,
+      "name": "hanjiaqiandao2022",
+      "bone": [
+        {
+          "transform": {},
+          "name": "root"
+        },
+        {
+          "transform": {},
+          "name": "bone",
+          "parent": "root"
+        },
+        {
+          "transform": {
+            "y": 266.03,
+            "x": 86.55
+          },
+          "name": "bone3",
+          "parent": "bone"
+        },
+        {
+          "transform": {
+            "y": 3.19,
+            "x": 109.92
+          },
+          "name": "guang1",
+          "parent": "bone"
+        }
+      ]
+    }
+  ]
+}

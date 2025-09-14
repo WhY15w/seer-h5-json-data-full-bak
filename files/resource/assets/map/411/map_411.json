@@ -1,0 +1,80 @@
+{
+  "groups": [
+    {
+      "keys": "road_411,exml_411,map_411_bg_mc_jpg,map_411_yunshi_png,map_411_ys2_png,map_411_ys1_png,map_411_ys3_png,map_411_ys4_png,map_411_ys5_png,map_411_ys7_png,map_411_ys6_png,map_411_ys8_png,map_411_ys9_png,map_411_ys10_png",
+      "name": "map_411"
+    }
+  ],
+  "resources": [
+    {
+      "type": "json",
+      "url": "411.json",
+      "name": "road_411"
+    },
+    {
+      "type": "text",
+      "url": "Map411Skin.exml",
+      "name": "exml_411"
+    },
+    {
+      "type": "image",
+      "url": "map_411_bg_mc.jpg",
+      "name": "map_411_bg_mc_jpg"
+    },
+    {
+      "type": "image",
+      "url": "map_411_yunshi.png",
+      "name": "map_411_yunshi_png"
+    },
+    {
+      "type": "image",
+      "url": "map_411_ys2.png",
+      "name": "map_411_ys2_png"
+    },
+    {
+      "type": "image",
+      "url": "map_411_ys1.png",
+      "name": "map_411_ys1_png"
+    },
+    {
+      "type": "image",
+      "url": "map_411_ys3.png",
+      "name": "map_411_ys3_png"
+    },
+    {
+      "type": "image",
+      "url": "map_411_ys4.png",
+      "name": "map_411_ys4_png"
+    },
+    {
+      "type": "image",
+      "url": "map_411_ys5.png",
+      "name": "map_411_ys5_png"
+    },
+    {
+      "type": "image",
+      "url": "map_411_ys7.png",
+      "name": "map_411_ys7_png"
+    },
+    {
+      "type": "image",
+      "url": "map_411_ys6.png",
+      "name": "map_411_ys6_png"
+    },
+    {
+      "type": "image",
+      "url": "map_411_ys8.png",
+      "name": "map_411_ys8_png"
+    },
+    {
+      "type": "image",
+      "url": "map_411_ys9.png",
+      "name": "map_411_ys9_png"
+    },
+    {
+      "type": "image",
+      "url": "map_411_ys10.png",
+      "name": "map_411_ys10_png"
+    }
+  ]
+}

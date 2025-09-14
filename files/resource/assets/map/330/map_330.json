@@ -1,0 +1,40 @@
+{
+  "groups": [
+    {
+      "keys": "road_330,exml_330,map_330_yinying_png,map_330_bg_mc_jpg,map_330_shuijing_png,map_330_control_mc_png",
+      "name": "map_330"
+    }
+  ],
+  "resources": [
+    {
+      "type": "json",
+      "url": "330.json",
+      "name": "road_330"
+    },
+    {
+      "type": "text",
+      "url": "Map330Skin.exml",
+      "name": "exml_330"
+    },
+    {
+      "type": "image",
+      "url": "map_330_yinying.png",
+      "name": "map_330_yinying_png"
+    },
+    {
+      "type": "image",
+      "url": "map_330_bg_mc.jpg",
+      "name": "map_330_bg_mc_jpg"
+    },
+    {
+      "type": "image",
+      "url": "map_330_shuijing.png",
+      "name": "map_330_shuijing_png"
+    },
+    {
+      "type": "image",
+      "url": "map_330_control_mc.png",
+      "name": "map_330_control_mc_png"
+    }
+  ]
+}

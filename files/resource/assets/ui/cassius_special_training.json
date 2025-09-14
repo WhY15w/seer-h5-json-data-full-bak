@@ -1,0 +1,26 @@
+{
+  "groups": [
+    {
+      "name": "cassius_special_training",
+      "keys": "cassius_special_training_sheet,cassius_special_training_bg_jpg,cassius_special_training_popbg_png"
+    }
+  ],
+  "resources": [
+    {
+      "name": "cassius_special_training_bg_jpg",
+      "type": "image",
+      "url": "cassius_special_training/outside/cassius_special_training_bg.jpg"
+    },
+    {
+      "name": "cassius_special_training_popbg_png",
+      "type": "image",
+      "url": "cassius_special_training/outside/cassius_special_training_popbg.png"
+    },
+    {
+      "name": "cassius_special_training_sheet",
+      "type": "sheet",
+      "url": "cassius_special_training/cassius_special_training_sheet.json",
+      "subkeys": "cassius_special_training_1_png,cassius_special_training_2_png,cassius_special_training_3_png,cassius_special_training_bag_png,cassius_special_training_btntiaozhan_png,cassius_special_training_ca_png,cassius_special_training_close_png,cassius_special_training_cure_png,cassius_special_training_imgdone_png,cassius_special_training_p1_png,cassius_special_training_title_png,cassius_special_training_title1_png,cassius_special_training_title2_png,cassius_special_training_title3_png,trail_cassius_btnget_png"
+    }
+  ]
+}

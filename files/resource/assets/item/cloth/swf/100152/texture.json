@@ -1,0 +1,55 @@
+{
+  "SubTexture": [
+    {
+      "name": "手，正",
+      "x": 0,
+      "width": 130,
+      "y": 0,
+      "height": 72
+    },
+    {
+      "name": "leg_01",
+      "x": 150,
+      "width": 23,
+      "y": 0,
+      "height": 42
+    },
+    {
+      "name": "leg_02",
+      "x": 196,
+      "width": 13,
+      "y": 0,
+      "height": 30
+    },
+    {
+      "name": "leg_03",
+      "x": 131,
+      "width": 18,
+      "y": 0,
+      "height": 52
+    },
+    {
+      "name": "leg_05",
+      "x": 174,
+      "width": 21,
+      "y": 0,
+      "height": 36
+    },
+    {
+      "name": "leg_06",
+      "x": 210,
+      "width": 9,
+      "y": 0,
+      "height": 16
+    },
+    {
+      "name": "手，背",
+      "x": 0,
+      "width": 128,
+      "y": 73,
+      "height": 71
+    }
+  ],
+  "name": 100152,
+  "imagePath": "texture.png"
+}

@@ -1,0 +1,51 @@
+{
+  "groups": [
+    {
+      "name": "tortoise_pass_panel",
+      "keys": "tortoise_pass_panel_sheet,xaunwo_atlas,xaunwo_json,tpp_mainpanel_bg_jpg,tpp_panel1_bg_jpg,tpp_panel3_bg_jpg,tpp_panel4_bg_jpg,xaunwo_png"
+    }
+  ],
+  "resources": [
+    {
+      "name": "xaunwo_atlas",
+      "type": "text",
+      "url": "tortoise_pass_panel/outside/xaunwo.atlas"
+    },
+    {
+      "name": "xaunwo_json",
+      "type": "json",
+      "url": "tortoise_pass_panel/outside/xaunwo.json"
+    },
+    {
+      "name": "tpp_mainpanel_bg_jpg",
+      "type": "image",
+      "url": "tortoise_pass_panel/outside/tpp_mainpanel_bg.jpg"
+    },
+    {
+      "name": "tpp_panel1_bg_jpg",
+      "type": "image",
+      "url": "tortoise_pass_panel/outside/tpp_panel1_bg.jpg"
+    },
+    {
+      "name": "tpp_panel3_bg_jpg",
+      "type": "image",
+      "url": "tortoise_pass_panel/outside/tpp_panel3_bg.jpg"
+    },
+    {
+      "name": "tpp_panel4_bg_jpg",
+      "type": "image",
+      "url": "tortoise_pass_panel/outside/tpp_panel4_bg.jpg"
+    },
+    {
+      "name": "xaunwo_png",
+      "type": "image",
+      "url": "tortoise_pass_panel/outside/xaunwo.png"
+    },
+    {
+      "name": "tortoise_pass_panel_sheet",
+      "type": "sheet",
+      "url": "tortoise_pass_panel/tortoise_pass_panel_sheet.json",
+      "subkeys": "tpp_choosepop_btncsx1_down_png,tpp_choosepop_btncsx_up_png,tpp_choosepop_btndown_png,tpp_choosepop_btnssx1_up_png,tpp_choosepop_btnssx_down_png,tpp_choosepop_img_change1_png,tpp_choosepop_kuang_png,tpp_choosepop_popbg_png,tpp_mainpanel_btnbless_png,tpp_mainpanel_btnevolveneed_png,tpp_mainpanel_btninfo_png,tpp_mainpanel_btnsuper_png,tpp_mainpanel_haspet_png,tpp_mainpanel_stms_png,tpp_mainpanel_tuceng_1_png,tpp_mainpanel_yihuode_png,tpp_mainpanel_zu_5_png,tpp_mainpanel_zu_7_png,tpp_mainpanel_zu_8_png,tpp_mainpanel_zu_81_png,tpp_onekeypop_1_png,tpp_onekeypop_2_png,tpp_onekeypop_3_png,tpp_onekeypop_4_png,tpp_onekeypop_5_png,tpp_onekeypop_6_png,tpp_onekeypop_btnadd_png,tpp_onekeypop_btnbuy_png,tpp_onekeypop_btnclose_png,tpp_onekeypop_zu_2_png,tpp_panel1_btnadd_png,tpp_panel1_img_di2_png,tpp_panel1_jianbi_png,tpp_panel1_jindudi_png,tpp_panel1_jindutiao_png,tpp_panel1_juxing_3_png,tpp_panel1_jx_904_kb_3_png,tpp_panel1_line_png,tpp_panel1_pass1_png,tpp_panel1_pass2_png,tpp_panel1_pass3_png,tpp_panel1_shendun_png,tpp_panel1_shengjia_png,tpp_panel1_taskbg1_png,tpp_panel1_title1_png,tpp_panel1_title2_png,tpp_panel1_title3_png,tpp_panel1_tuceng_11_png,tpp_panel3_2510_png,tpp_panel3_2519_png,tpp_panel3_2791_png,tpp_panel3_2799_png,tpp_panel3_2851_png,tpp_panel3_2856_png,tpp_panel3_2861_png,tpp_panel3_2865_png,tpp_panel3_2866_png,tpp_panel3_2881_png,tpp_panel3_2891_png,tpp_panel3_2898_png,tpp_panel3_2976_png,tpp_panel3_2983_png,tpp_panel3_2991_png,tpp_panel3_3006_png,tpp_panel3_3007_png,tpp_panel3_3013_png,tpp_panel3_3019_png,tpp_panel3_3026_png,tpp_panel3_3044_png,tpp_panel3_3056_png,tpp_panel3_3061_png,tpp_panel3_3064_png,tpp_panel3_3067_png,tpp_panel3_3075_png,tpp_panel3_3079_png,tpp_panel3_3112_png,tpp_panel3_3197_png,tpp_panel3_3212_png,tpp_panel3_3226_png,tpp_panel3_3247_png,tpp_panel3_3248_png,tpp_panel3_3249_png,tpp_panel3_3253_png,tpp_panel3_3297_png,tpp_panel3_btnadd_png,tpp_panel3_img_di2_png,tpp_panel3_jlbb1_png,tpp_panel3_jlhf_png,tpp_panel3_level1_1_png,tpp_panel3_level1_2_png,tpp_panel3_level1_3_png,tpp_panel3_level1_4_png,tpp_panel3_level2_1_png,tpp_panel3_level2_2_png,tpp_panel3_level2_3_png,tpp_panel3_level2_4_png,tpp_panel3_level3_1_png,tpp_panel3_level3_2_png,tpp_panel3_level3_3_png,tpp_panel3_level3_4_png,tpp_panel3_line_png,tpp_panel3_taskbg1_png,tpp_panel3_tuceng_11_png,tpp_panel3_tuoyuan_3_png,tpp_panel4_3010_png,tpp_panel4_3010done_png,tpp_panel4_3292_png,tpp_panel4_3292done_png,tpp_panel4_3308_png,tpp_panel4_3308done_png,tpp_panel4_btnse_png,tpp_panel4_btntiaozhan_png,tpp_panel4_jlbb1_png,tpp_panel4_jlhf_png,tpp_panel4_juxing_10_png,tpp_panel4_juxing_11_png,tpp_panel4_juxing_4_png,tpp_panel4_juxing_9_png,tpp_panel4_jx_8_kb_png,tpp_panel4_pet3010_png,tpp_panel4_pet3292_png,tpp_panel4_pet3308_png,tpp_panel4_slmb_png,tpp_panel4_tipsbg_png,tpp_panel4_title1_png,tpp_panel4_title2_png,tpp_panel4_title3_png,tpp_panel4_tuoyuan_1_png,tpp_panel4_tzsx_png,tpp_panel4_wenhaodo_png,tpp_panel4_yhsjl_png,tpp_panel4_yhssx_png,tpp_panel4_zhengchang_png,tpp_panel4_zu_3_png,tpp_panel4_zu_4_png,tpp_panel4_zu_5_png,tpp_panel4_zu_511_png,tpp_panel4_zu_6_png,tpp_panel4_zu_8_png,tpp_panel4_zu_9_png,tpp_panel4_zwxztzsx_png,tpp_panel4_z_5_kb_png,tpp_panel5_btnadd_png,tpp_panel5_btntiaozhan_png,tpp_panel5_btnyijian_png,tpp_panel5_huodejia_png,tpp_panel5_huodexuanwu_png,tpp_panel5_img_di2_png,tpp_panel5_jx_904_kb_2_png,tpp_panel5_jx_904_kb_3_png,tpp_panel5_stms_png,tpp_panel5_tuceng_1_png,tpp_panel5_tuceng_10_png,tpp_panel5_yihuode_png,tpp_panel5_yilingqu_png"
+    }
+  ]
+}

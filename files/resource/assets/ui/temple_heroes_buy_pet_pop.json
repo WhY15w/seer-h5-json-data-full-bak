@@ -1,0 +1,41 @@
+{
+  "groups": [
+    {
+      "name": "temple_heroes_buy_pet_pop",
+      "keys": "temple_heroes_buy_pet_pop_sheet,temple_heroes_buy_pet_pop_3197_jpg,temple_heroes_buy_pet_pop_3404_jpg,temple_heroes_buy_pet_pop_3512_jpg,temple_heroes_buy_pet_pop_3661_jpg,temple_heroes_buy_pet_pop_3888_jpg"
+    }
+  ],
+  "resources": [
+    {
+      "name": "temple_heroes_buy_pet_pop_3197_jpg",
+      "type": "image",
+      "url": "temple_heroes_buy_pet_pop/outside/temple_heroes_buy_pet_pop_3197.jpg"
+    },
+    {
+      "name": "temple_heroes_buy_pet_pop_3404_jpg",
+      "type": "image",
+      "url": "temple_heroes_buy_pet_pop/outside/temple_heroes_buy_pet_pop_3404.jpg"
+    },
+    {
+      "name": "temple_heroes_buy_pet_pop_3512_jpg",
+      "type": "image",
+      "url": "temple_heroes_buy_pet_pop/outside/temple_heroes_buy_pet_pop_3512.jpg"
+    },
+    {
+      "name": "temple_heroes_buy_pet_pop_3661_jpg",
+      "type": "image",
+      "url": "temple_heroes_buy_pet_pop/outside/temple_heroes_buy_pet_pop_3661.jpg"
+    },
+    {
+      "name": "temple_heroes_buy_pet_pop_3888_jpg",
+      "type": "image",
+      "url": "temple_heroes_buy_pet_pop/outside/temple_heroes_buy_pet_pop_3888.jpg"
+    },
+    {
+      "name": "temple_heroes_buy_pet_pop_sheet",
+      "type": "sheet",
+      "url": "temple_heroes_buy_pet_pop/temple_heroes_buy_pet_pop_sheet.json",
+      "subkeys": "temple_heroes_buy_pet_pop_btnbuy_png,temple_heroes_buy_pet_pop_btnclose_png,temple_heroes_buy_pet_pop_giftbg_png,temple_heroes_buy_pet_pop_icon_type1_png,temple_heroes_buy_pet_pop_icon_type2_png,temple_heroes_buy_pet_pop_line1_png,temple_heroes_buy_pet_pop_line2_png,temple_heroes_buy_pet_pop_numbg_png,temple_heroes_panel_itembg_png"
+    }
+  ]
+}

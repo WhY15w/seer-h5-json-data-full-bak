@@ -1,0 +1,35 @@
+{
+  "groups": [
+    {
+      "keys": "road_51,exml_51,map_51_bg_mc_jpg,map_51_control_mc_png,map_51_snow_png",
+      "name": "map_51"
+    }
+  ],
+  "resources": [
+    {
+      "type": "json",
+      "url": "51.json",
+      "name": "road_51"
+    },
+    {
+      "type": "text",
+      "url": "Map51Skin.exml",
+      "name": "exml_51"
+    },
+    {
+      "type": "image",
+      "url": "map_51_bg_mc.jpg",
+      "name": "map_51_bg_mc_jpg"
+    },
+    {
+      "type": "image",
+      "url": "map_51_control_mc.png",
+      "name": "map_51_control_mc_png"
+    },
+    {
+      "type": "image",
+      "url": "map_51_snow.png",
+      "name": "map_51_snow_png"
+    }
+  ]
+}

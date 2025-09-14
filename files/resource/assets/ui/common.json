@@ -1,0 +1,215 @@
+{
+  "groups": [
+    {
+      "name": "common",
+      "keys": "common_sheet,FontStylePve1_fnt,FontStylePve2_fnt,FontStylePve3_fnt,vipfont_fnt,zuocemulu_atlas,zuocemulu_json,adapt_leftbg_png,adapt_rb_bg_png,adapt_up_bg_png,award_item_dialog_bg_png,award_pop_bg_png,award_pop_imgLight_png,blurry_base_bg_jpg,blurry_base_bgmask_png,car_pop_view_contentbg_png,common_btn_bg_style_orange_0_png,common_close_2_png,common_close_3_png,common_full_black_mask_png,common_hero_base_png,common_join_team_infobg_png,common_npc_dialog_texture_fmask_png,common_pet_base_png,common_search_bg_png,common_tab_up2_bg_png,common_tab_up_bg_png,common_ui_bg_1_png,common_ui_bg_2_png,common_ui_bg_3_jpg,kuang_lihui_png,new_tips_2021_11_img6_png,new_tips_2023_imge_bg_addgainway_png,npc_dialog_texture_dialog_bg_png,peakjihad_common_panel_bg_jpg,pet_dialog_new_pet_maskbg_png,title_pop_2022_imgbg_png,title_pop_2022_imge_735x431_bg_png,title_pop_2022_img_482X286_bg_png,zuocemulu_png"
+    }
+  ],
+  "resources": [
+    {
+      "name": "FontStylePve1_fnt",
+      "type": "font",
+      "url": "common/fonts/FontStylePve1.fnt"
+    },
+    {
+      "name": "FontStylePve2_fnt",
+      "type": "font",
+      "url": "common/fonts/FontStylePve2.fnt"
+    },
+    {
+      "name": "FontStylePve3_fnt",
+      "type": "font",
+      "url": "common/fonts/FontStylePve3.fnt"
+    },
+    {
+      "name": "vipfont_fnt",
+      "type": "font",
+      "url": "common/fonts/vipfont.fnt"
+    },
+    {
+      "name": "zuocemulu_atlas",
+      "type": "text",
+      "url": "common/outside/zuocemulu.atlas"
+    },
+    {
+      "name": "zuocemulu_json",
+      "type": "json",
+      "url": "common/outside/zuocemulu.json"
+    },
+    {
+      "name": "adapt_leftbg_png",
+      "type": "image",
+      "url": "common/outside/adapt_leftbg.png"
+    },
+    {
+      "name": "adapt_rb_bg_png",
+      "type": "image",
+      "url": "common/outside/adapt_rb_bg.png"
+    },
+    {
+      "name": "adapt_up_bg_png",
+      "type": "image",
+      "url": "common/outside/adapt_up_bg.png"
+    },
+    {
+      "name": "award_item_dialog_bg_png",
+      "type": "image",
+      "url": "common/outside/award_item_dialog_bg.png"
+    },
+    {
+      "name": "award_pop_bg_png",
+      "type": "image",
+      "url": "common/outside/award_pop_bg.png"
+    },
+    {
+      "name": "award_pop_imgLight_png",
+      "type": "image",
+      "url": "common/outside/award_pop_imgLight.png"
+    },
+    {
+      "name": "blurry_base_bg_jpg",
+      "type": "image",
+      "url": "common/outside/blurry_base_bg.jpg"
+    },
+    {
+      "name": "blurry_base_bgmask_png",
+      "type": "image",
+      "url": "common/outside/blurry_base_bgmask.png",
+      "scale9grid": "251,283,379,190"
+    },
+    {
+      "name": "car_pop_view_contentbg_png",
+      "type": "image",
+      "url": "common/outside/car_pop_view_contentbg.png"
+    },
+    {
+      "name": "common_btn_bg_style_orange_0_png",
+      "type": "image",
+      "url": "common/outside/common_btn_bg_style_orange_0.png",
+      "scale9grid": "140,10,1,67"
+    },
+    {
+      "name": "common_close_2_png",
+      "type": "image",
+      "url": "common/outside/common_close_2.png"
+    },
+    {
+      "name": "common_close_3_png",
+      "type": "image",
+      "url": "common/outside/common_close_3.png"
+    },
+    {
+      "name": "common_full_black_mask_png",
+      "type": "image",
+      "url": "common/outside/common_full_black_mask.png"
+    },
+    {
+      "name": "common_hero_base_png",
+      "type": "image",
+      "url": "common/outside/common_hero_base.png"
+    },
+    {
+      "name": "common_join_team_infobg_png",
+      "type": "image",
+      "url": "common/outside/common_join_team_infobg.png"
+    },
+    {
+      "name": "common_npc_dialog_texture_fmask_png",
+      "type": "image",
+      "url": "common/outside/common_npc_dialog_texture_fmask.png"
+    },
+    {
+      "name": "common_pet_base_png",
+      "type": "image",
+      "url": "common/outside/common_pet_base.png"
+    },
+    {
+      "name": "common_search_bg_png",
+      "type": "image",
+      "url": "common/outside/common_search_bg.png"
+    },
+    {
+      "name": "common_tab_up2_bg_png",
+      "type": "image",
+      "url": "common/outside/common_tab_up2_bg.png",
+      "scale9grid": "13,9,83,57"
+    },
+    {
+      "name": "common_tab_up_bg_png",
+      "type": "image",
+      "url": "common/outside/common_tab_up_bg.png",
+      "scale9grid": "49,45,6,8"
+    },
+    {
+      "name": "common_ui_bg_1_png",
+      "type": "image",
+      "url": "common/outside/common_ui_bg_1.png"
+    },
+    {
+      "name": "common_ui_bg_2_png",
+      "type": "image",
+      "url": "common/outside/common_ui_bg_2.png"
+    },
+    {
+      "name": "common_ui_bg_3_jpg",
+      "type": "image",
+      "url": "common/outside/common_ui_bg_3.jpg"
+    },
+    {
+      "name": "kuang_lihui_png",
+      "type": "image",
+      "url": "common/outside/kuang_lihui.png"
+    },
+    {
+      "name": "new_tips_2021_11_img6_png",
+      "type": "image",
+      "url": "common/outside/new_tips_2021_11_img6.png"
+    },
+    {
+      "name": "new_tips_2023_imge_bg_addgainway_png",
+      "type": "image",
+      "url": "common/outside/new_tips_2023_imge_bg_addgainway.png"
+    },
+    {
+      "name": "npc_dialog_texture_dialog_bg_png",
+      "type": "image",
+      "url": "common/outside/npc_dialog_texture_dialog_bg.png"
+    },
+    {
+      "name": "peakjihad_common_panel_bg_jpg",
+      "type": "image",
+      "url": "common/outside/peakjihad_common_panel_bg.jpg"
+    },
+    {
+      "name": "pet_dialog_new_pet_maskbg_png",
+      "type": "image",
+      "url": "common/outside/pet_dialog_new_pet_maskbg.png"
+    },
+    {
+      "name": "title_pop_2022_imgbg_png",
+      "type": "image",
+      "url": "common/outside/title_pop_2022_imgbg.png"
+    },
+    {
+      "name": "title_pop_2022_imge_735x431_bg_png",
+      "type": "image",
+      "url": "common/outside/title_pop_2022_imge_735x431_bg.png"
+    },
+    {
+      "name": "title_pop_2022_img_482X286_bg_png",
+      "type": "image",
+      "url": "common/outside/title_pop_2022_img_482X286_bg.png"
+    },
+    {
+      "name": "zuocemulu_png",
+      "type": "image",
+      "url": "common/outside/zuocemulu.png"
+    },
+    {
+      "name": "common_sheet",
+      "type": "sheet",
+      "url": "common/common_sheet.json",
+      "subkeys": "alert_close_down_png,award_item_dialog_title_png,award_pop_flagHead_png,award_pop_flagHeadFrame_png,award_pop_flagMingpian_png,award_pop_flagnick_png,award_pop_titlebg_png,base_menu_component_candown_png,base_menu_component_canup_png,base_menu_component_di_png,base_menu_component_down1_png,base_menu_component_jx_3_kb_png,common_achieve_title_icon_png,common_arrow_style_1_png,common_atk_png,common_Backbg_png,common_btnBack_png,common_btn_add_png,common_btn_bg_style_blue_1_png,common_btn_bg_style_blue_2_png,common_btn_bg_style_blue_3_png,common_bubble_bg_png,common_def_png,common_energyBead_bg_png,common_fifth_skill_icon_png,common_help_icon_png,common_help_icon_1_png,common_hp_png,common_imgbind_png,common_imgbtn_cure_png,common_imgbtn_pet_png,common_line_1_png,common_manual_title_0_png,common_manual_title_1_png,common_manual_title_2_png,common_manual_title_3_png,common_manual_title_4_png,common_manual_title_5_png,common_manual_title_6_png,common_manual_title_7_png,common_petSkill_tag1_png,common_petSkill_tag2_png,common_petSkill_tag3_png,common_petSkill_tag4_png,common_petSkill_tag5_png,common_petSkill_tag6_png,common_petSkill_tag7_png,common_petSkill_tag8_png,common_petSkill_tag9_png,common_pet_skin_icon_0_png,common_pet_skin_icon_1_png,common_pet_skin_icon_10_png,common_pet_skin_icon_11_png,common_pet_skin_icon_12_png,common_pet_skin_icon_13_png,common_pet_skin_icon_14_png,common_pet_skin_icon_15_png,common_pet_skin_icon_16_png,common_pet_skin_icon_17_png,common_pet_skin_icon_18_png,common_pet_skin_icon_2_png,common_pet_skin_icon_3_png,common_pet_skin_icon_4_png,common_pet_skin_icon_5_png,common_pet_skin_icon_6_png,common_pet_skin_icon_7_png,common_pet_skin_icon_8_png,common_pet_skin_icon_9_png,common_pet_skin_icon_NaN_png,common_pet_subtag_0_png,common_pet_subtag_1_png,common_pet_subtag_2_png,common_pet_subtag_3_png,common_pet_subtag_4_png,common_pet_subtag_5_png,common_pet_subtag_6_png,common_pet_tag_0_png,common_pet_tag_1_png,common_pet_tag_2_png,common_pet_tag_3_png,common_pet_tag_4_png,common_pet_tag_5_png,common_pet_tag_6_png,common_pet_tag_7_png,common_pet_up_icon_png,common_pet_yin_icon_png,common_pve_next_floor_png,common_reward_progress_bg_png,common_reward_ylq_png,common_satk_png,common_sdef_png,common_speed_png,common_sub_1_png,common_sub_tab_bg_png,common_thumb_1_png,dot_png,eff_juexin_png,eff_shenyu_png,common_avatar_bg_size_100_100_png,common_avatar_bg_size_110_110_png,common_first_pet_icon_png,common_head_frame_ingNew_png,common_head_frame_main_select_png,common_hexagon_head_mask_png,common_icon_bg_no_icon_png,common_icon_bg_style_66_66_png,common_icon_name_bg_105_105_png,common_icon_name_bg_80_80_png,common_item_bg_style_40_40_png,common_item_bg_style_70_70_png,common_item_bg_style_73_73_png,common_lock_icon_png,common_name_bg_144_144_png,common_pet_half_bg_size_146_220_png,common_pet_half_mask_size_146_220_png,common_pet_headIcon_png,common_pet_head_bg_png,common_pet_head_bg_null_size_100_100_png,common_pet_head_bg_null_size_100_121_png,common_pet_head_bg_null_size_110_134_png,common_pet_head_bg_size_100_121_png,common_pet_head_bg_size_110_110_png,common_pet_head_bg_size_110_134_png,common_pet_head_bg_size_110_134_sy_png,common_pet_head_empty_png,common_pet_head_name_bg_110_134_png,common_pet_head_sy_bg_png,common_pet_hexagon_selected_png,common_pet_hp_bar_png,common_pet_hp_bar_110_134_png,common_pet_hp_bg_bar_png,common_pet_hp_bg_bar_110_134_png,common_pet_icon_null_png,common_pet_name_146_220_png,common_pet_skin_icon_png,common_select_rect_png,rarity_gem_1_png,rarity_gem_2_png,rarity_gem_3_png,rarity_gem_4_png,rarity_gem_5_png,rarity_gem_6_png,rarity_item_0_png,rarity_item_1_png,rarity_item_2_png,rarity_item_3_png,rarity_item_4_png,rarity_item_5_png,rarity_item_6_png,rarity_mall_item_0_png,rarity_mall_item_1_png,rarity_mall_item_2_png,rarity_mall_item_3_png,rarity_mall_item_4_png,rarity_mall_item_5_png,rarity_mall_item_6_png,furniture_func_png,furniture_no_png,furniture_remove_png,furniture_remove_bg_png,kappa_travel_bubble_bg_png,msg_bubble_bg_png,new_seer_lock_kb_png,nono_png,npc_dialog_imgBtn_next_png,npc_dialog_imgBtn_sure_png,npc_dialog_texture_001_png,npc_dialog_texture_002_png,npc_dialog_texture_npc_name_bg_png,pet_bag_tag1_png,pet_bag_tag10_png,pet_bag_tag11_png,pet_bag_tag12_png,pet_bag_tag13_png,pet_bag_tag14_png,pet_bag_tag15_png,pet_bag_tag16_png,pet_bag_tag17_png,pet_bag_tag18_png,pet_bag_tag19_png,pet_bag_tag2_png,pet_bag_tag3_png,pet_bag_tag4_png,pet_bag_tag5_png,pet_bag_tag6_png,pet_bag_tag7_png,pet_bag_tag8_png,pet_bag_tag9_png,pet_shadow_png,progress_bar_png,progress_barbg_png,qipao_l_png,qipao_r_png,renwu_png,common_bg_tips_s9_png,common_btn_bg_style_orange_1_png,common_btn_bg_style_orange_2_png,common_icon_bg_style_1_png,common_icon_select_style_1_png,common_icon_select_style_2_png,common_line_01_s9_png,common_pet_head_select_100_100_png,common_pet_txt_name_bg_png,common_right_bg_png,common_s9_name_bg_png,common_s9_pop_line_png,common_s9_title_bg_png,common_tab_down_bg_png,common_texture_001_png,common_texture_002_png,common_texture_003_png,common_texture_004_png,common_top_bg_style1_png,common_top_bg_style2_png,comon_left_bg_png,pop_dialog_bg2_s9_png,team_apply_pop_infobg_s9_png,self_player_shadow_png,tips_bg_png,btnBG_png,car_pop_view_col_png,car_pop_view_line_png,car_pop_view_namedi_png,car_pop_view_title_png,car_pop_view_zhuangshi_png,common_join_team_btn1_png,common_join_team_btn2_png,common_tipsPop_suit_suitBg_png,common_tipsPop_suit_title_png,common_tips_pop_clothes_line_1_png,common_tips_pop_imgBtn_qh_png,common_tips_pop_imgBtn_qwhd_png,common_tips_pop_imgBtn_sj_png,common_tips_pop_imgBtn_sy_png,common_tips_pop_imgBtn_th_png,common_tips_pop_imgBtn_xx_png,common_tips_pop_imgBtn_zb_png,common_tips_pop_title_titlebg_png,field_pop_view_title_png,help_mulit_pop_bg_down_png,help_mulit_pop_bg_up_png,help_mulit_pop_Img_titlebg_png,help_mulit_pop_line_yc_1_png,icon_png,img_take_off_png,mark_lvlup_bar_png,mark_lvlup_btnBack_png,mark_lvlup_btnSj_png,mark_lvlup_btnXiangqian_png,mark_lvlup_btnYijian_png,mark_lvlup_icon_png,mark_lvlup_img_bar_bg_png,new_mark_tips_2021_11_aaa_png,new_mark_tips_2021_11_btn1_png,new_mark_tips_2021_11_btn2_png,new_mark_tips_2021_11_img1_png,new_tips_2021_11_btnchange_png,new_tips_2021_11_btnuse_png,new_tips_2021_11_img1_png,new_tips_2021_11_img2_png,new_tips_2021_11_img3_png,new_tips_2021_11_img4_png,new_tips_2021_11_img5_png,new_tips_2021_11_img7_png,new_tips_2023_imge_bg_addgainway_title_png,new_tips_2023_imge_gaiway_item_bg_1_png,new_tips_2023_imge_gaiway_item_bg_2_png,new_tips_2023_imge_icon_png,new_tips_2023_imge_item_bg_png,new_tips_2023_imge_mask_png,new_tips_2023_imge_title_icon_png,quality_tag_0_png,quality_tag_1_png,quality_tag_2_png,quality_tag_3_png,suit_view_di1_png,suit_view_title_png,title_pop_2022_btnclose_png,title_pop_2022_btnsearch_png,title_pop_2022_imgbtn_png,title_pop_2022_imghideicon_png,title_pop_2022_imgline_png,title_pop_2022_imgmenudown_png,title_pop_2022_imgmenuup_png,title_pop_2022_imgnamebg_png,title_pop_2022_imgnotfound_png,title_pop_2022_imgsearchbg_png,title_pop_2022_imgselected_png,title_pop_2022_txthidetitle_png,title_pop_2022_upicon_png"
+    }
+  ]
+}

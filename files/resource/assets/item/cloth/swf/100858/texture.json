@@ -1,0 +1,90 @@
+{
+  "SubTexture": [
+    {
+      "name": "正面手臂1",
+      "x": 107,
+      "width": 38,
+      "y": 0,
+      "height": 85
+    },
+    {
+      "name": "arm2",
+      "x": 146,
+      "width": 38,
+      "y": 0,
+      "height": 75
+    },
+    {
+      "name": "arm",
+      "x": 47,
+      "width": 59,
+      "y": 0,
+      "height": 70
+    },
+    {
+      "name": "arm0",
+      "x": 76,
+      "width": 21,
+      "y": 71,
+      "height": 58
+    },
+    {
+      "name": "右面元件01附件",
+      "x": 221,
+      "width": 28,
+      "y": 0,
+      "height": 69
+    },
+    {
+      "name": "右面元件01",
+      "x": 0,
+      "width": 20,
+      "y": 86,
+      "height": 32
+    },
+    {
+      "name": "arm1",
+      "x": 0,
+      "width": 46,
+      "y": 0,
+      "height": 85
+    },
+    {
+      "name": "右上元件",
+      "x": 185,
+      "width": 35,
+      "y": 0,
+      "height": 72
+    },
+    {
+      "name": "arm3",
+      "x": 185,
+      "width": 17,
+      "y": 73,
+      "height": 53
+    },
+    {
+      "name": "mid",
+      "x": 146,
+      "width": 28,
+      "y": 76,
+      "height": 36
+    },
+    {
+      "name": "arm5",
+      "x": 221,
+      "width": 28,
+      "y": 70,
+      "height": 68
+    },
+    {
+      "name": "arm4",
+      "x": 47,
+      "width": 28,
+      "y": 71,
+      "height": 65
+    }
+  ],
+  "name": 100858,
+  "imagePath": "texture.png"
+}

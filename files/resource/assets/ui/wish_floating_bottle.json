@@ -1,0 +1,46 @@
+{
+  "groups": [
+    {
+      "name": "wish_floating_bottle",
+      "keys": "wish_floating_bottle_sheet,H5_yuanwangqingdan_ske_json,H5_yuanwangqingdan_tex_json,H5_yuanwangqingdan_tex_png,wfb_sign_bg_jpg,wfb_wish_list_juxing_2_png,wfb_wish_list_xian_png"
+    }
+  ],
+  "resources": [
+    {
+      "name": "H5_yuanwangqingdan_ske_json",
+      "type": "json",
+      "url": "wish_floating_bottle/outside/H5_yuanwangqingdan_ske.json"
+    },
+    {
+      "name": "H5_yuanwangqingdan_tex_json",
+      "type": "json",
+      "url": "wish_floating_bottle/outside/H5_yuanwangqingdan_tex.json"
+    },
+    {
+      "name": "H5_yuanwangqingdan_tex_png",
+      "type": "image",
+      "url": "wish_floating_bottle/outside/H5_yuanwangqingdan_tex.png"
+    },
+    {
+      "name": "wfb_sign_bg_jpg",
+      "type": "image",
+      "url": "wish_floating_bottle/outside/wfb_sign_bg.jpg"
+    },
+    {
+      "name": "wfb_wish_list_juxing_2_png",
+      "type": "image",
+      "url": "wish_floating_bottle/outside/wfb_wish_list_juxing_2.png"
+    },
+    {
+      "name": "wfb_wish_list_xian_png",
+      "type": "image",
+      "url": "wish_floating_bottle/outside/wfb_wish_list_xian.png"
+    },
+    {
+      "name": "wish_floating_bottle_sheet",
+      "type": "sheet",
+      "url": "wish_floating_bottle/wish_floating_bottle_sheet.json",
+      "subkeys": "wfb_sign_1_png,wfb_sign_1liang_png,wfb_sign_2_png,wfb_sign_2liang_png,wfb_sign_3_png,wfb_sign_346_png,wfb_sign_3liang_png,wfb_sign_4_png,wfb_sign_4liang_png,wfb_sign_5_png,wfb_sign_5liang_png,wfb_sign_6_png,wfb_sign_6liang_png,wfb_sign_btnback_png,wfb_sign_btnhelp_png,wfb_sign_day7_png,wfb_sign_hasget_png,wfb_sign_heise_png,wfb_sign_juxing_354_png,wfb_sign_kuang_png,wfb_sign_kuang1_png,wfb_sign_rb1_png,wfb_sign_rb1_selected_png,wfb_sign_rb2_png,wfb_sign_rb2_selected_png,wfb_sign_rb3_png,wfb_sign_rb3_selected_png,wfb_sign_selected_png,wfb_sign_selected7_png,wfb_sign_timebg_png,wfb_sign_title_png,wfb_sign_toptitle_png,wfb_wish_list_btnhelp_png,wfb_wish_list_btnwish_png,wfb_wish_list_icon1_png,wfb_wish_list_icon10_png,wfb_wish_list_icon2_png,wfb_wish_list_icon3_png,wfb_wish_list_icon4_png,wfb_wish_list_icon5_png,wfb_wish_list_icon6_png,wfb_wish_list_icon7_png,wfb_wish_list_icon8_png,wfb_wish_list_icon9_png,wfb_wish_list_itembg1_png,wfb_wish_list_itembg2_png,wfb_wish_list_juxing_357_png,wfb_wish_list_juxing_358_png,wfb_wish_list_juxing_359_png,wfb_wish_list_jx_20_kb_2_png,wfb_wish_list_jx_356_kb_png,wfb_wish_list_jx_357_kb_2_png,wfb_wish_list_l1_kb_115_png,wfb_wish_list_title_png,wfb_wish_list_txtbg_png,wfb_wish_shop_17208521_png,wfb_wish_shop_btncommon1_png,wfb_wish_shop_di_png,wfb_wish_shop_img_di2_png,wfb_wish_shop_itembg_png,wfb_wish_shop_juxing_1_png,wfb_wish_shop_juxing_2_png,wfb_wish_shop_kuang_png,wfb_wish_shop_linedone_png"
+    }
+  ]
+}

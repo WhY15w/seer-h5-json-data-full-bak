@@ -1,0 +1,106 @@
+{
+  "groups": [
+    {
+      "name": "holy_howl_bai_hu",
+      "keys": "holy_howl_bai_hu_sheet,baihu_atlas,baihu_json,baihu_png,holy_howl_bai_hu_best_icon_png,holy_howl_bai_hu_bg_png,holy_howl_bai_hu_final_bg_png,holy_howl_bai_hu_final_fight_fightDisplay_1_png,holy_howl_bai_hu_final_fight_fightDisplay_2_png,holy_howl_bai_hu_final_fight_fightDisplay_3_png,holy_howl_bai_hu_final_fight_fightDisplay_4_png,holy_howl_bai_hu_final_fight_fightDisplay_5_png,holy_howl_bai_hu_final_fight_fightDisplay_6_png,holy_howl_bai_hu_stage_bg_3_png,holy_howl_bai_hu_title_png,holy_howl_bai_hu_upgrade_bg_2_png,holy_howl_bai_hu_warning_bg_png,holy_howl_bai_hu_warning_petDisplay_yh_png,holy_howl_bai_hu_warning_petDisplay_zh_png"
+    }
+  ],
+  "resources": [
+    {
+      "name": "baihu_atlas",
+      "type": "text",
+      "url": "holy_howl_bai_hu/outside/baihu.atlas"
+    },
+    {
+      "name": "baihu_json",
+      "type": "json",
+      "url": "holy_howl_bai_hu/outside/baihu.json"
+    },
+    {
+      "name": "baihu_png",
+      "type": "image",
+      "url": "holy_howl_bai_hu/outside/baihu.png"
+    },
+    {
+      "name": "holy_howl_bai_hu_best_icon_png",
+      "type": "image",
+      "url": "holy_howl_bai_hu/outside/holy_howl_bai_hu_best_icon.png"
+    },
+    {
+      "name": "holy_howl_bai_hu_bg_png",
+      "type": "image",
+      "url": "holy_howl_bai_hu/outside/holy_howl_bai_hu_bg.png"
+    },
+    {
+      "name": "holy_howl_bai_hu_final_bg_png",
+      "type": "image",
+      "url": "holy_howl_bai_hu/outside/holy_howl_bai_hu_final_bg.png"
+    },
+    {
+      "name": "holy_howl_bai_hu_final_fight_fightDisplay_1_png",
+      "type": "image",
+      "url": "holy_howl_bai_hu/outside/holy_howl_bai_hu_final_fight_fightDisplay_1.png"
+    },
+    {
+      "name": "holy_howl_bai_hu_final_fight_fightDisplay_2_png",
+      "type": "image",
+      "url": "holy_howl_bai_hu/outside/holy_howl_bai_hu_final_fight_fightDisplay_2.png"
+    },
+    {
+      "name": "holy_howl_bai_hu_final_fight_fightDisplay_3_png",
+      "type": "image",
+      "url": "holy_howl_bai_hu/outside/holy_howl_bai_hu_final_fight_fightDisplay_3.png"
+    },
+    {
+      "name": "holy_howl_bai_hu_final_fight_fightDisplay_4_png",
+      "type": "image",
+      "url": "holy_howl_bai_hu/outside/holy_howl_bai_hu_final_fight_fightDisplay_4.png"
+    },
+    {
+      "name": "holy_howl_bai_hu_final_fight_fightDisplay_5_png",
+      "type": "image",
+      "url": "holy_howl_bai_hu/outside/holy_howl_bai_hu_final_fight_fightDisplay_5.png"
+    },
+    {
+      "name": "holy_howl_bai_hu_final_fight_fightDisplay_6_png",
+      "type": "image",
+      "url": "holy_howl_bai_hu/outside/holy_howl_bai_hu_final_fight_fightDisplay_6.png"
+    },
+    {
+      "name": "holy_howl_bai_hu_stage_bg_3_png",
+      "type": "image",
+      "url": "holy_howl_bai_hu/outside/holy_howl_bai_hu_stage_bg_3.png"
+    },
+    {
+      "name": "holy_howl_bai_hu_title_png",
+      "type": "image",
+      "url": "holy_howl_bai_hu/outside/holy_howl_bai_hu_title.png"
+    },
+    {
+      "name": "holy_howl_bai_hu_upgrade_bg_2_png",
+      "type": "image",
+      "url": "holy_howl_bai_hu/outside/holy_howl_bai_hu_upgrade_bg_2.png"
+    },
+    {
+      "name": "holy_howl_bai_hu_warning_bg_png",
+      "type": "image",
+      "url": "holy_howl_bai_hu/outside/holy_howl_bai_hu_warning_bg.png"
+    },
+    {
+      "name": "holy_howl_bai_hu_warning_petDisplay_yh_png",
+      "type": "image",
+      "url": "holy_howl_bai_hu/outside/holy_howl_bai_hu_warning_petDisplay_yh.png"
+    },
+    {
+      "name": "holy_howl_bai_hu_warning_petDisplay_zh_png",
+      "type": "image",
+      "url": "holy_howl_bai_hu/outside/holy_howl_bai_hu_warning_petDisplay_zh.png"
+    },
+    {
+      "name": "holy_howl_bai_hu_sheet",
+      "type": "sheet",
+      "url": "holy_howl_bai_hu/holy_howl_bai_hu_sheet.json",
+      "subkeys": "holy_howl_bai_hu_achive_png,holy_howl_bai_hu_backTitle_png,holy_howl_bai_hu_bagBtn_png,holy_howl_bai_hu_blank_png,holy_howl_bai_hu_btnevolveneed_png,holy_howl_bai_hu_btninfo11_bless_png,holy_howl_bai_hu_cureBtn_png,holy_howl_bai_hu_final_addPetFlag_png,holy_howl_bai_hu_final_backTitle_png,holy_howl_bai_hu_final_cz_png,holy_howl_bai_hu_final_dm_png,holy_howl_bai_hu_final_fight_btnDuizhan_png,holy_howl_bai_hu_final_fight_btnXiangxiang_png,holy_howl_bai_hu_final_grew_png,holy_howl_bai_hu_final_info_png,holy_howl_bai_hu_final_info2_png,holy_howl_bai_hu_final_lock_png,holy_howl_bai_hu_final_noPetFlag_png,holy_howl_bai_hu_final_petBagInfo_png,holy_howl_bai_hu_final_petBoxBg_png,holy_howl_bai_hu_final_refreshBtn_png,holy_howl_bai_hu_final_replayBtn_png,holy_howl_bai_hu_final_tiao_png,holy_howl_bai_hu_final_tiaozhanBtn_png,holy_howl_bai_hu_getBtn_png,holy_howl_bai_hu_hasCompFlag_png,holy_howl_bai_hu_hasGoFlag_png,holy_howl_bai_hu_haslqflag_png,holy_howl_bai_hu_petInfoBtn_png,holy_howl_bai_hu_stage_YHBtn_png,holy_howl_bai_hu_stage_ZHBtn_png,holy_howl_bai_hu_titleBg_png,holy_howl_bai_hu_upgradeBtn_png,holy_howl_bai_hu_upgrade_backTitle_png,holy_howl_bai_hu_upgrade_getTZBHBtn_png,holy_howl_bai_hu_upgrade_huodejia_png,holy_howl_bai_hu_upgrade_jhbhBtn_png,holy_howl_bai_hu_upgrade_jhbhTip_png,holy_howl_bai_hu_upgrade_nltsBtn_png,holy_howl_bai_hu_upgrade_nltsTip_png,holy_howl_bai_hu_upgrade_smallAddBtn_png,holy_howl_bai_hu_upgrade_topTipBg_png,holy_howl_bai_hu_upgrade_tzzlIcon_png,holy_howl_bai_hu_warning_btnBack_png,holy_howl_bai_hu_warning_wuweiBtn_png,holy_howl_bai_hu_warning_zhidaoBtn_png,holy_howl_bai_hu_yehu_backTitle_png,holy_howl_bai_hu_yehu_bagua_png,holy_howl_bai_hu_yehu_bg_frame_png,holy_howl_bai_hu_yehu_btnChongxin_png,holy_howl_bai_hu_yehu_btnTiaozhan_png,holy_howl_bai_hu_yehu_btnYijian_png,holy_howl_bai_hu_yehu_full_1_png,holy_howl_bai_hu_yehu_full_2_png,holy_howl_bai_hu_yehu_full_3_png,holy_howl_bai_hu_yehu_high_1_png,holy_howl_bai_hu_yehu_seal_png,holy_howl_bai_hu_yehu_select_1_png,holy_howl_bai_hu_yehu_select_2_png,holy_howl_bai_hu_yehu_select_3_png,holy_howl_bai_hu_yehu_thin_1_png,holy_howl_bai_hu_yehu_thin_2_png,holy_howl_bai_hu_yehu_thin_3_png,holy_howl_bai_hu_yehu_word_png,holy_howl_bai_hu_yehu_word_0_png,holy_howl_bai_hu_yehu_word_1_png,holy_howl_bai_hu_yehu_word_2_png,holy_howl_bai_hu_yehu_word_3_png,holy_howl_bai_hu_yehu_word_4_png,holy_howl_bai_hu_yehu_word_5_png,holy_howl_bai_hu_yehu_word_6_png,holy_howl_bai_hu_yehu_word_7_png,holy_howl_bai_hu_yehu_word_8_png,holy_howl_bai_hu_yehu_word_9_png,holy_howl_bai_hu_yhjpBtn_png,holy_howl_bai_hu_zhouhu_backTitle_png,holy_howl_bai_hu_zhouhu_brownPiece_png,holy_howl_bai_hu_zhouhu_jinruduizhanBtn_png,holy_howl_bai_hu_zhouhu_scoreBg_png,maskmask_png"
+    }
+  ]
+}

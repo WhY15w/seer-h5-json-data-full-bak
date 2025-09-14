@@ -1,0 +1,66 @@
+{
+  "groups": [
+    {
+      "name": "titan_hole_main",
+      "keys": "titan_hole_main_sheet,level3_view_level_bg_png,titan_hole_main_bg2_png,titan_hole_main_bg_1_png,titan_hole_main_bg_mask_png,titan_hole_main_infobg2_png,titan_hole_main_level_bg_jpg,titan_hole_main_level_level1_bg_png,titan_hole_main_level_level2_bg_png,titan_hole_main_level_level4_bg_png,titan_hole_main_reward_pop_bg_png"
+    }
+  ],
+  "resources": [
+    {
+      "name": "level3_view_level_bg_png",
+      "type": "image",
+      "url": "titan_hole_main/outside/level3_view_level_bg.png"
+    },
+    {
+      "name": "titan_hole_main_bg2_png",
+      "type": "image",
+      "url": "titan_hole_main/outside/titan_hole_main_bg2.png"
+    },
+    {
+      "name": "titan_hole_main_bg_1_png",
+      "type": "image",
+      "url": "titan_hole_main/outside/titan_hole_main_bg_1.png"
+    },
+    {
+      "name": "titan_hole_main_bg_mask_png",
+      "type": "image",
+      "url": "titan_hole_main/outside/titan_hole_main_bg_mask.png"
+    },
+    {
+      "name": "titan_hole_main_infobg2_png",
+      "type": "image",
+      "url": "titan_hole_main/outside/titan_hole_main_infobg2.png"
+    },
+    {
+      "name": "titan_hole_main_level_bg_jpg",
+      "type": "image",
+      "url": "titan_hole_main/outside/titan_hole_main_level_bg.jpg"
+    },
+    {
+      "name": "titan_hole_main_level_level1_bg_png",
+      "type": "image",
+      "url": "titan_hole_main/outside/titan_hole_main_level_level1_bg.png"
+    },
+    {
+      "name": "titan_hole_main_level_level2_bg_png",
+      "type": "image",
+      "url": "titan_hole_main/outside/titan_hole_main_level_level2_bg.png"
+    },
+    {
+      "name": "titan_hole_main_level_level4_bg_png",
+      "type": "image",
+      "url": "titan_hole_main/outside/titan_hole_main_level_level4_bg.png"
+    },
+    {
+      "name": "titan_hole_main_reward_pop_bg_png",
+      "type": "image",
+      "url": "titan_hole_main/outside/titan_hole_main_reward_pop_bg.png"
+    },
+    {
+      "name": "titan_hole_main_sheet",
+      "type": "sheet",
+      "url": "titan_hole_main/titan_hole_main_sheet.json",
+      "subkeys": "level2_view_infobg_png,level3_view_texture_allow_png,level3_view_texture_locked_png,level3_view_texture_my_png,level3_view_texture_null_png,level3_view_texture_selecet_png,level3_view_texture_start_png,reward_pop_name_bg_png,reward_pop_title_png,titan_hole_main_close_png,titan_hole_main_go_png,titan_hole_main_got_png,titan_hole_main_handle_png,titan_hole_main_handleoff_png,titan_hole_main_handleon_png,titan_hole_main_help_png,titan_hole_main_icon_ima_png,titan_hole_main_ima_hit_png,titan_hole_main_ima_wipe_png,titan_hole_main_info_bg_png,titan_hole_main_level_cant_png,titan_hole_main_level_finfo_bg_png,titan_hole_main_level_go_png,titan_hole_main_level_got_png,titan_hole_main_level_imachanllge_png,titan_hole_main_level_imacure_png,titan_hole_main_level_imaover_png,titan_hole_main_level_imapet_png,titan_hole_main_level_imareward_png,titan_hole_main_level_ima_mine_png,titan_hole_main_level_info_bg_png,titan_hole_main_level_level3_bg_png,titan_hole_main_lock_png,titan_hole_main_mode_bg_png,titan_hole_main_mode_mask_png,titan_hole_main_reward_pop_btnclose_png,titan_hole_main_reward_pop_itembg_png,titan_hole_main_selected_png,titan_hole_main_tipsbg_png,titan_hole_main_title1_png,titan_hole_main_title3_png,titan_hole_main_top_bg_png,titan_hole_main_txttimebg_png,titan_hole_main_wipe_png"
+    }
+  ]
+}

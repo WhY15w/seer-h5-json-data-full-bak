@@ -1,0 +1,56 @@
+{
+  "groups": [
+    {
+      "name": "login",
+      "keys": "login_sheet,denglutexiao_atlas,denglutexiao_json,nianfeidenglu_atlas,nianfeidenglu_json,denglutexiao_png,l202202_main_panel_bg_jpg,login202202_mask2_png,nianfeidenglu_png"
+    }
+  ],
+  "resources": [
+    {
+      "name": "denglutexiao_atlas",
+      "type": "text",
+      "url": "login/outside/denglutexiao.atlas"
+    },
+    {
+      "name": "denglutexiao_json",
+      "type": "json",
+      "url": "login/outside/denglutexiao.json"
+    },
+    {
+      "name": "nianfeidenglu_atlas",
+      "type": "text",
+      "url": "login/outside/nianfeidenglu.atlas"
+    },
+    {
+      "name": "nianfeidenglu_json",
+      "type": "json",
+      "url": "login/outside/nianfeidenglu.json"
+    },
+    {
+      "name": "denglutexiao_png",
+      "type": "image",
+      "url": "login/outside/denglutexiao.png"
+    },
+    {
+      "name": "l202202_main_panel_bg_jpg",
+      "type": "image",
+      "url": "login/outside/l202202_main_panel_bg.jpg"
+    },
+    {
+      "name": "login202202_mask2_png",
+      "type": "image",
+      "url": "login/outside/login202202_mask2.png"
+    },
+    {
+      "name": "nianfeidenglu_png",
+      "type": "image",
+      "url": "login/outside/nianfeidenglu.png"
+    },
+    {
+      "name": "login_sheet",
+      "type": "sheet",
+      "url": "login/login_sheet.json",
+      "subkeys": "down_arrow_png,l202202_account_bg_png,l202202_account_exchange_btnlogin_png,l202202_account_exchange_name_input_bg_png,l202202_account_other_line_png,l202202_account_qq_png,l202202_account_start_btndel_png,l202202_account_start_btnzhanghao_png,l202202_account_start_icon_qq_png,l202202_account_start_icon_tm_png,l202202_account_start_icon_wechat_png,l202202_account_start_logo_png,l202202_account_wechat_png,l202202_child_dialog_title_png,l202202_maintain_pop_close_png,l202202_maintain_pop_maintain_title_png,l202202_maintain_pop_pop_up_bg_s_png,l202202_main_panel_bg_png,l202202_main_panel_btnchange_png,l202202_main_panel_btncustcare_png,l202202_main_panel_btnexchange_png,l202202_main_panel_btnnotice_png,l202202_main_panel_btnrepair_png,l202202_main_panel_btnstart_png,l202202_main_panel_child_tip_png,l202202_main_panel_icon_account_png,l202202_main_panel_icon_fire_png,l202202_main_panel_icon_free_png,l202202_main_panel_icon_hot_png,l202202_main_panel_idbg_png,l202202_main_panel_searchbg_kb_png,l202202_main_panel_select_png,l202202_main_panel_small_logo_png,l202202_main_panel_start_bg_png,l202202_pkg_update_btnupdate_png,l202202_pkg_update_update_bg_png,l202202_pkg_update_update_title_png,l202202_server_list_btnback_png,l202202_server_list_btngo_png,l202202_server_list_icon_fire_png,l202202_server_list_icon_free_png,l202202_server_list_icon_friend_online_png,l202202_server_list_icon_hot_png,l202202_server_list_item_bg_png,l202202_server_list_server_bg_png,l202202_server_list_server_buttom_bg_png,l202202_server_list_server_input_bg_png,l202202_server_list_server_title_png,l202202_server_list_tuli_png,login_account_bg_png,login_account_bg_new_png,login_account_title_png,login_btnArrow_new_png,login_btnBack_new_png,login_btnGetPwd_png,login_btnLogin_png,login_btnLogin_new_png,login_btnRefresh_png,login_btnRegister_png,login_btnShowPwd_new_png,login_Btn_zczh_new_png,login_frame1_png,login_history_item_bg_png,login_icon_account_png,login_icon_pwd_png,login_item_bg_png,login_line_png,login_select_png,login_selected_bg_png,login_show_icon_bg_png,login_verify_code_bg_new_png,login_verify_code_new_png,login_verify_coid_png,l_login_qq_png,l_login_wx_png,l_maintain_pop_close_png,l_maintain_pop_maintain_bg_png,up_arrow_png"
+    }
+  ]
+}

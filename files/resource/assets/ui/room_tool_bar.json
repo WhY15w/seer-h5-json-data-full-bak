@@ -1,0 +1,21 @@
+{
+  "groups": [
+    {
+      "name": "room_tool_bar",
+      "keys": "room_tool_bar_sheet,room_toolbar_name_bg_png"
+    }
+  ],
+  "resources": [
+    {
+      "name": "room_toolbar_name_bg_png",
+      "type": "image",
+      "url": "room_tool_bar/outside/room_toolbar_name_bg.png"
+    },
+    {
+      "name": "room_tool_bar_sheet",
+      "type": "sheet",
+      "url": "room_tool_bar/room_tool_bar_sheet.json",
+      "subkeys": "room_toolbar_bottombg_png,room_toolbar_cam_png,room_toolbar_ima_detal_png,room_toolbar_ima_edit_png,room_toolbar_ima_gowho_png,room_toolbar_ima_greenhouse_png,room_toolbar_ima_hatchery_png,room_toolbar_ima_hide_png,room_toolbar_ima_home_png,room_toolbar_ima_liked_png,room_toolbar_ima_liked_1_png,room_toolbar_ima_main_png,room_toolbar_ima_shop_png,room_toolbar_ima_show_png,room_toolbar_ima_warehouse_png,room_toolbar_rightbg_png,room_toolbar_slider_bg_png,room_toolbar_trumb_png"
+    }
+  ]
+}

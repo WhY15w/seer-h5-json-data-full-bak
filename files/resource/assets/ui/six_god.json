@@ -1,0 +1,106 @@
+{
+  "groups": [
+    {
+      "name": "six_god",
+      "keys": "six_god_sheet,fanzhuan_atlas,fanzhuan_json,quan_atlas,quan_json,xingxing_atlas,xingxing_json,fanzhuan_png,quan_png,six_god_heart_rightbg_png,six_god_main_bg_jpg,six_god_one_key_pop_bg_png,six_god_soul_t3_png,six_god_sword_bg_jpg,six_god_sword_bgpet_png,six_god_up_3329_png,six_god_up_pop_bg_png,six_god_up_rightbg_png,xingxing_png"
+    }
+  ],
+  "resources": [
+    {
+      "name": "fanzhuan_atlas",
+      "type": "text",
+      "url": "six_god/outside/fanzhuan.atlas"
+    },
+    {
+      "name": "fanzhuan_json",
+      "type": "json",
+      "url": "six_god/outside/fanzhuan.json"
+    },
+    {
+      "name": "quan_atlas",
+      "type": "text",
+      "url": "six_god/outside/quan.atlas"
+    },
+    {
+      "name": "quan_json",
+      "type": "json",
+      "url": "six_god/outside/quan.json"
+    },
+    {
+      "name": "xingxing_atlas",
+      "type": "text",
+      "url": "six_god/outside/xingxing.atlas"
+    },
+    {
+      "name": "xingxing_json",
+      "type": "json",
+      "url": "six_god/outside/xingxing.json"
+    },
+    {
+      "name": "fanzhuan_png",
+      "type": "image",
+      "url": "six_god/outside/fanzhuan.png"
+    },
+    {
+      "name": "quan_png",
+      "type": "image",
+      "url": "six_god/outside/quan.png"
+    },
+    {
+      "name": "six_god_heart_rightbg_png",
+      "type": "image",
+      "url": "six_god/outside/six_god_heart_rightbg.png"
+    },
+    {
+      "name": "six_god_main_bg_jpg",
+      "type": "image",
+      "url": "six_god/outside/six_god_main_bg.jpg"
+    },
+    {
+      "name": "six_god_one_key_pop_bg_png",
+      "type": "image",
+      "url": "six_god/outside/six_god_one_key_pop_bg.png"
+    },
+    {
+      "name": "six_god_soul_t3_png",
+      "type": "image",
+      "url": "six_god/outside/six_god_soul_t3.png"
+    },
+    {
+      "name": "six_god_sword_bg_jpg",
+      "type": "image",
+      "url": "six_god/outside/six_god_sword_bg.jpg"
+    },
+    {
+      "name": "six_god_sword_bgpet_png",
+      "type": "image",
+      "url": "six_god/outside/six_god_sword_bgpet.png"
+    },
+    {
+      "name": "six_god_up_3329_png",
+      "type": "image",
+      "url": "six_god/outside/six_god_up_3329.png"
+    },
+    {
+      "name": "six_god_up_pop_bg_png",
+      "type": "image",
+      "url": "six_god/outside/six_god_up_pop_bg.png"
+    },
+    {
+      "name": "six_god_up_rightbg_png",
+      "type": "image",
+      "url": "six_god/outside/six_god_up_rightbg.png"
+    },
+    {
+      "name": "xingxing_png",
+      "type": "image",
+      "url": "six_god/outside/xingxing.png"
+    },
+    {
+      "name": "six_god_sheet",
+      "type": "sheet",
+      "url": "six_god/six_god_sheet.json",
+      "subkeys": "six_god_heart_1712551_png,six_god_heart_getitem_png,six_god_heart_got_png,six_god_heart_headbg_png,six_god_heart_headicon_png,six_god_heart_itembg_png,six_god_heart_rightbg1_png,six_god_heart_tip_png,six_god_heart_title_png,six_god_heart_zsjl_png,six_god_main_btn1_png,six_god_main_btn2_png,six_god_main_btn3_png,six_god_main_btngot_png,six_god_main_btninfo_png,six_god_main_btnup_png,six_god_main_getpet_png,six_god_main_go1_png,six_god_main_got_png,six_god_main_got1_png,six_god_main_gotpet_png,six_god_main_onekey_png,six_god_main_title_png,six_god_one_key_pop_btnadd_png,six_god_one_key_pop_btnbuy_png,six_god_one_key_pop_close_png,six_god_soul_btnyijian_png,six_god_soul_btnyongjiu_png,six_god_soul_ima1_png,six_god_soul_ima2_png,six_god_soul_ima3_png,six_god_soul_ima4_png,six_god_soul_ima5_png,six_god_soul_ima6_png,six_god_soul_ima7_png,six_god_soul_ima8_png,six_god_soul_ima9_png,six_god_soul_lock_png,six_god_soul_mas_png,six_god_soul_not_png,six_god_soul_tipsbg_png,six_god_soul_title_png,six_god_sword_1712550_png,six_god_sword_2976_png,six_god_sword_2983_png,six_god_sword_2991_png,six_god_sword_add_png,six_god_sword_bag_png,six_god_sword_btnbuy_png,six_god_sword_btnonekey_png,six_god_sword_btntiaozhan_png,six_god_sword_btnyijian_png,six_god_sword_cure_png,six_god_sword_damegeprogress_png,six_god_sword_di_png,six_god_sword_did_png,six_god_sword_getitem_png,six_god_sword_headmask_png,six_god_sword_itemprogress_png,six_god_sword_itemprogressbg_png,six_god_sword_petbg_png,six_god_sword_progresshead_png,six_god_sword_rightbg1_png,six_god_sword_select_png,six_god_sword_timesbg_png,six_god_sword_tip_png,six_god_sword_title_png,six_god_up_btnonekey_png,six_god_up_btnyijian_png,six_god_up_got_png,six_god_up_item0_png,six_god_up_itembg_png,six_god_up_pop_btnget_png,six_god_up_pop_itembg_png,six_god_up_pop_star_png,six_god_up_title_png"
+    }
+  ]
+}

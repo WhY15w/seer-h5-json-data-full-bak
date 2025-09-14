@@ -1,0 +1,30 @@
+{
+  "resources": [
+    {
+      "type": "json",
+      "url": "436.json",
+      "name": "road_436"
+    },
+    {
+      "type": "text",
+      "url": "Map436Skin.exml",
+      "name": "exml_436"
+    },
+    {
+      "type": "image",
+      "url": "map_436_bg_mc.jpg",
+      "name": "map_436_bg_mc_jpg"
+    },
+    {
+      "type": "image",
+      "url": "map_436_feiji1.png",
+      "name": "map_436_feiji1_png"
+    }
+  ],
+  "groups": [
+    {
+      "keys": "road_436,exml_436,map_436_bg_mc_jpg,map_436_feiji1_png",
+      "name": "map_436"
+    }
+  ]
+}

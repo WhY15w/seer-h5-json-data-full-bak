@@ -1,0 +1,30 @@
+{
+  "resources": [
+    {
+      "type": "json",
+      "url": "93.json",
+      "name": "road_93"
+    },
+    {
+      "type": "text",
+      "url": "Map93Skin.exml",
+      "name": "exml_93"
+    },
+    {
+      "type": "image",
+      "url": "map_93_bg_mc.jpg",
+      "name": "map_93_bg_mc_jpg"
+    },
+    {
+      "type": "image",
+      "url": "map_93_top_mc.png",
+      "name": "map_93_top_mc_png"
+    }
+  ],
+  "groups": [
+    {
+      "keys": "road_93,exml_93,map_93_bg_mc_jpg,map_93_top_mc_png",
+      "name": "map_93"
+    }
+  ]
+}

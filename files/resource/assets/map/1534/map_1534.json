@@ -1,0 +1,25 @@
+{
+  "groups": [
+    {
+      "keys": "road_1534,exml_1534,map_1534_bg_mc_jpg",
+      "name": "map_1534"
+    }
+  ],
+  "resources": [
+    {
+      "type": "json",
+      "url": "1534.json",
+      "name": "road_1534"
+    },
+    {
+      "type": "text",
+      "url": "Map1534Skin.exml",
+      "name": "exml_1534"
+    },
+    {
+      "type": "image",
+      "url": "map_1534_bg_mc.jpg",
+      "name": "map_1534_bg_mc_jpg"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "resources": [
+    {
+      "type": "json",
+      "url": "681.json",
+      "name": "road_681"
+    },
+    {
+      "type": "text",
+      "url": "Map681Skin.exml",
+      "name": "exml_681"
+    },
+    {
+      "type": "image",
+      "url": "map_681_bg_mc.jpg",
+      "name": "map_681_bg_mc_jpg"
+    },
+    {
+      "type": "image",
+      "url": "map_681_animator_mc.png",
+      "name": "map_681_animator_mc_png"
+    },
+    {
+      "type": "image",
+      "url": "map_681_kaiguan2.png",
+      "name": "map_681_kaiguan2_png"
+    },
+    {
+      "type": "image",
+      "url": "map_681_kaiguan1.png",
+      "name": "map_681_kaiguan1_png"
+    },
+    {
+      "type": "image",
+      "url": "map_681_kaiguan3.png",
+      "name": "map_681_kaiguan3_png"
+    },
+    {
+      "type": "image",
+      "url": "map_681_depth_mc.png",
+      "name": "map_681_depth_mc_png"
+    },
+    {
+      "type": "image",
+      "url": "map_681_top_mc.png",
+      "name": "map_681_top_mc_png"
+    }
+  ],
+  "groups": [
+    {
+      "keys": "road_681,exml_681,map_681_bg_mc_jpg,map_681_animator_mc_png,map_681_kaiguan2_png,map_681_kaiguan1_png,map_681_kaiguan3_png,map_681_depth_mc_png,map_681_top_mc_png",
+      "name": "map_681"
+    }
+  ]
+}

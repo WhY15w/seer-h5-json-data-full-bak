@@ -1,0 +1,66 @@
+{
+  "groups": [
+    {
+      "name": "puni_fight",
+      "keys": "puni_break_anim_json,puni_normal_anim_json,puni_ske_json,puni_tex_json,puni_break_anim_png,puni_fight_bg_jpg,puni_fight_mask_png,puni_fight_puni_png,puni_normal_anim_png,puni_tex_png,puni_fight_sheet"
+    }
+  ],
+  "resources": [
+    {
+      "name": "puni_break_anim_json",
+      "type": "json",
+      "url": "puni_fight/outside/puni_break_anim.json"
+    },
+    {
+      "name": "puni_normal_anim_json",
+      "type": "json",
+      "url": "puni_fight/outside/puni_normal_anim.json"
+    },
+    {
+      "name": "puni_ske_json",
+      "type": "json",
+      "url": "puni_fight/outside/puni_ske.json"
+    },
+    {
+      "name": "puni_tex_json",
+      "type": "json",
+      "url": "puni_fight/outside/puni_tex.json"
+    },
+    {
+      "name": "puni_break_anim_png",
+      "type": "image",
+      "url": "puni_fight/outside/puni_break_anim.png"
+    },
+    {
+      "name": "puni_fight_bg_jpg",
+      "type": "image",
+      "url": "puni_fight/outside/puni_fight_bg.jpg"
+    },
+    {
+      "name": "puni_fight_mask_png",
+      "type": "image",
+      "url": "puni_fight/outside/puni_fight_mask.png"
+    },
+    {
+      "name": "puni_fight_puni_png",
+      "type": "image",
+      "url": "puni_fight/outside/puni_fight_puni.png"
+    },
+    {
+      "name": "puni_normal_anim_png",
+      "type": "image",
+      "url": "puni_fight/outside/puni_normal_anim.png"
+    },
+    {
+      "name": "puni_tex_png",
+      "type": "image",
+      "url": "puni_fight/outside/puni_tex.png"
+    },
+    {
+      "name": "puni_fight_sheet",
+      "type": "sheet",
+      "url": "puni_fight/puni_fight_sheet.json",
+      "subkeys": "puni_fight_btnHelp_png,puni_fight_dialog_icon_bg_png,puni_fight_dialog_title_png,puni_fight_dialog_title_1_png,puni_fight_dialog_unlock_mark_png,puni_fight_fighted_1_png,puni_fight_fighted_2_png,puni_fight_fighted_3_png,puni_fight_fighted_4_png,puni_fight_fighted_5_png,puni_fight_fighted_6_png,puni_fight_fighted_7_png,puni_fight_img_fight_png,puni_fight_img_finalFight_png,puni_fight_img_unfight_png,puni_fight_infotxt_png,puni_fight_left_bg_png,puni_fight_line_png,puni_fight_lock_1_png,puni_fight_mark_bg_1_png,puni_fight_mark_bg_2_png,puni_fight_mark_bg_3_png,puni_fight_mark_bg_4_png,puni_fight_mark_bg_5_png,puni_fight_mark_bg_6_png,puni_fight_mark_bg_7_png,puni_fight_mark_title_1_png,puni_fight_mark_title_2_png,puni_fight_mark_title_3_png,puni_fight_mark_title_4_png,puni_fight_mark_title_5_png,puni_fight_mark_title_6_png,puni_fight_mark_title_7_png,puni_fight_panel_btnInfo_png,puni_fight_panel_imgBtn_cure_png,puni_fight_panel_imgBtn_pet_png,puni_fight_shadow_png,puni_fight_title_png,puni_fight_up_bg_png"
+    }
+  ]
+}

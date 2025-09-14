@@ -1,0 +1,16 @@
+{
+  "groups": [
+    {
+      "name": "peakJihad6V6BanPickModePanel",
+      "keys": "peakJihad6V6BanPickModePanel_sheet"
+    }
+  ],
+  "resources": [
+    {
+      "name": "peakJihad6V6BanPickModePanel_sheet",
+      "type": "sheet",
+      "url": "peakJihad6V6BanPickModePanel/peakJihad6V6BanPickModePanel_sheet.json",
+      "subkeys": "PeakJihad6V6BanPickMode_enemyIcon_png,PeakJihad6V6BanPickMode_enemyInfoPng_png,PeakJihad6V6BanPickMode_enemylevelBg_png,PeakJihad6V6BanPickMode_enemyNameBg_png,PeakJihad6V6BanPickMode_enemyStarIcon_png,PeakJihad6V6BanPickMode_firstEpisodeIcon_png,PeakJihad6V6BanPickMode_goToWarIcon_png,PeakJihad6V6BanPickMode_headBg_png,PeakJihad6V6BanPickMode_headBg1_png,peakjihad6v6banpickmode_iconbg_png,peakjihad6v6banpickmode_ima1_png,peakjihad6v6banpickmode_ima2_png,peakjihad6v6banpickmode_img_png,peakjihad6v6banpickmode_imgattr_png,peakjihad6v6banpickmode_imgattrbg_png,peakjihad6v6banpickmode_infobg1_png,peakjihad6v6banpickmode_infobg2_png,PeakJihad6V6BanPickMode_lockBg_png,PeakJihad6V6BanPickMode_myIcon_png,PeakJihad6V6BanPickMode_myInfoPng_png,PeakJihad6V6BanPickMode_mylevelBg_png,PeakJihad6V6BanPickMode_myNameBg_png,PeakJihad6V6BanPickMode_myStarIcon_png,PeakJihad6V6BanPickMode_nameBg_png,PeakJihad6V6BanPickMode_name_bg_png,peakjihad6v6banpickmode_numbg_png,PeakJihad6V6BanPickMode_prohibitIcon_png,PeakJihad6V6BanPickMode_prohibit_png_png,PeakJihad6V6BanPickMode_selectPng_png,peakjihad6v6banpickmode_title_png,peakjihad6v6banpickmode_title1_png,PeakJihad6V6BanPickMode_titlePng_0_png,PeakJihad6V6BanPickMode_titlePng_1_png,PeakJihad6V6BanPickMode_titlePng_2_png,PeakJihad6V6BanPickMode_titlePng_3_png"
+    }
+  ]
+}

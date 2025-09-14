@@ -1,0 +1,25 @@
+{
+  "resources": [
+    {
+      "type": "json",
+      "url": "949.json",
+      "name": "road_949"
+    },
+    {
+      "type": "text",
+      "url": "Map949Skin.exml",
+      "name": "exml_949"
+    },
+    {
+      "type": "image",
+      "url": "map_949_bg_mc.png",
+      "name": "map_949_bg_mc_png"
+    }
+  ],
+  "groups": [
+    {
+      "keys": "road_949,exml_949,map_949_bg_mc_png",
+      "name": "map_949"
+    }
+  ]
+}

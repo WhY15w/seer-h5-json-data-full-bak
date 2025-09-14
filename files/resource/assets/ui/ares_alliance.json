@@ -1,0 +1,21 @@
+{
+  "groups": [
+    {
+      "name": "ares_alliance",
+      "keys": "ares_alliance_sheet,aa_main_bg_jpg"
+    }
+  ],
+  "resources": [
+    {
+      "name": "aa_main_bg_jpg",
+      "type": "image",
+      "url": "ares_alliance/outside/aa_main_bg.jpg"
+    },
+    {
+      "name": "ares_alliance_sheet",
+      "type": "sheet",
+      "url": "ares_alliance/ares_alliance_sheet.json",
+      "subkeys": "aa_main_1_png,aa_main_2_png,aa_main_3_png,aa_main_4_png,aa_main_5_png,aa_main_collection_png,aa_main_favorite_png,aa_main_headselect_png,aa_main_jx_11_kb_10_png,aa_main_jx_11_kb_2_png,aa_main_jx_11_kb_3_png,aa_main_jx_11_kb_4_png,aa_main_jx_11_kb_6_png,aa_main_jx_11_kb_7_png,aa_main_jx_11_kb_8_png,aa_main_jx_11_kb_9_png,aa_main_line_png,aa_main_noopen_png,aa_main_pet1_show1_png,aa_main_pet1_show2_png,aa_main_pet1_show3_png,aa_main_pet1_show4_png,aa_main_pet1_show5_png,aa_main_pet2_show1_png,aa_main_pet2_show2_png,aa_main_pet2_show3_png,aa_main_pet2_show4_png,aa_main_pet2_show5_png,aa_main_pet3_show1_png,aa_main_pet3_show2_png,aa_main_pet3_show3_png,aa_main_pet3_show4_png,aa_main_pet3_show5_png,aa_main_pet4_show1_png,aa_main_pet4_show2_png,aa_main_pet4_show3_png,aa_main_pet4_show4_png,aa_main_pet4_show5_png,aa_main_pet5_show1_png,aa_main_pet5_show2_png,aa_main_pet5_show3_png,aa_main_pet5_show4_png,aa_main_pet5_show5_png,aa_main_title1_png,aa_main_title2_png,aa_main_title3_png,aa_main_title4_png,aa_main_title5_png"
+    }
+  ]
+}

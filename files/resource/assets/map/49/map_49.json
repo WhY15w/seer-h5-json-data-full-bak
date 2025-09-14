@@ -1,0 +1,30 @@
+{
+  "groups": [
+    {
+      "keys": "road_49,exml_49,map_49_bg_mc_jpg,map_49_control_mc_png",
+      "name": "map_49"
+    }
+  ],
+  "resources": [
+    {
+      "type": "json",
+      "url": "49.json",
+      "name": "road_49"
+    },
+    {
+      "type": "text",
+      "url": "Map49Skin.exml",
+      "name": "exml_49"
+    },
+    {
+      "type": "image",
+      "url": "map_49_bg_mc.jpg",
+      "name": "map_49_bg_mc_jpg"
+    },
+    {
+      "type": "image",
+      "url": "map_49_control_mc.png",
+      "name": "map_49_control_mc_png"
+    }
+  ]
+}

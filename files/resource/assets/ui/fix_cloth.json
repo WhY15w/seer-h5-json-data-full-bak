@@ -1,0 +1,16 @@
+{
+  "groups": [
+    {
+      "name": "fix_cloth",
+      "keys": "fix_cloth_sheet"
+    }
+  ],
+  "resources": [
+    {
+      "name": "fix_cloth_sheet",
+      "type": "sheet",
+      "url": "fix_cloth/fix_cloth_sheet.json",
+      "subkeys": "aaa_btncomm_png,aaa_jx_2_kb_3_png,fixcloth_iconcoin2_png,fixcloth_img_di2_png,fixcloth_yhgg_png"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "SubTexture": [
+    {
+      "name": "jio",
+      "x": 166,
+      "width": 54,
+      "y": 82,
+      "height": 33
+    },
+    {
+      "name": "正面元件",
+      "x": 166,
+      "width": 54,
+      "y": 45,
+      "height": 36
+    },
+    {
+      "name": "jio0",
+      "x": 177,
+      "width": 54,
+      "y": 0,
+      "height": 44
+    },
+    {
+      "name": "左下元件",
+      "x": 0,
+      "width": 57,
+      "y": 0,
+      "height": 52
+    },
+    {
+      "name": "jio1",
+      "x": 116,
+      "width": 49,
+      "y": 44,
+      "height": 42
+    },
+    {
+      "name": "右面元件",
+      "x": 58,
+      "width": 57,
+      "y": 0,
+      "height": 51
+    },
+    {
+      "name": "jio2",
+      "x": 58,
+      "width": 50,
+      "y": 52,
+      "height": 39
+    },
+    {
+      "name": "右上元件",
+      "x": 116,
+      "width": 60,
+      "y": 0,
+      "height": 43
+    },
+    {
+      "name": "jio3",
+      "x": 109,
+      "width": 52,
+      "y": 88,
+      "height": 34
+    },
+    {
+      "name": "背面元件",
+      "x": 0,
+      "width": 53,
+      "y": 53,
+      "height": 35
+    }
+  ],
+  "name": 100424,
+  "imagePath": "texture.png"
+}

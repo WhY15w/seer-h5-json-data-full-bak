@@ -1,0 +1,30 @@
+{
+  "resources": [
+    {
+      "type": "json",
+      "url": "739.json",
+      "name": "road_739"
+    },
+    {
+      "type": "text",
+      "url": "Map739Skin.exml",
+      "name": "exml_739"
+    },
+    {
+      "type": "image",
+      "url": "map_739_bg_mc.jpg",
+      "name": "map_739_bg_mc_jpg"
+    },
+    {
+      "type": "image",
+      "url": "map_739_top_mc.png",
+      "name": "map_739_top_mc_png"
+    }
+  ],
+  "groups": [
+    {
+      "keys": "road_739,exml_739,map_739_bg_mc_jpg,map_739_top_mc_png",
+      "name": "map_739"
+    }
+  ]
+}

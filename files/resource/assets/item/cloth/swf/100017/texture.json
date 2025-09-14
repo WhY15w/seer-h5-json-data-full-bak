@@ -1,0 +1,41 @@
+{
+  "SubTexture": [
+    {
+      "name": "arm-0",
+      "x": 55,
+      "width": 63,
+      "y": 46,
+      "height": 36
+    },
+    {
+      "name": "arm-1",
+      "x": 0,
+      "width": 53,
+      "y": 0,
+      "height": 58
+    },
+    {
+      "name": "arm-2",
+      "x": 0,
+      "width": 34,
+      "y": 59,
+      "height": 44
+    },
+    {
+      "name": "arm-3",
+      "x": 35,
+      "width": 32,
+      "y": 83,
+      "height": 45
+    },
+    {
+      "name": "arm-4",
+      "x": 55,
+      "width": 57,
+      "y": 0,
+      "height": 45
+    }
+  ],
+  "name": "100017(1)",
+  "imagePath": "texture.png"
+}

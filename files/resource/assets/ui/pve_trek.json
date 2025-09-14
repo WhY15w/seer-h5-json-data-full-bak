@@ -1,0 +1,66 @@
+{
+  "groups": [
+    {
+      "name": "pve_trek",
+      "keys": "cfg_client_json,guanka_ske_json,guanka_tex_json,pve_trek_sheet,guanka_tex_png,pveTrekLevel_level_line_2_png,pveTrekLevel_level_line_3_png,pveTrekLevel_level_line_4_png,pveTrekMain_3356_png,pveTrekMain_3358_png,pveTrekMain_bg02_png"
+    }
+  ],
+  "resources": [
+    {
+      "name": "cfg_client_json",
+      "type": "json",
+      "url": "pve_trek/outside/cfg_client.json"
+    },
+    {
+      "name": "guanka_ske_json",
+      "type": "json",
+      "url": "pve_trek/outside/guanka_ske.json"
+    },
+    {
+      "name": "guanka_tex_json",
+      "type": "json",
+      "url": "pve_trek/outside/guanka_tex.json"
+    },
+    {
+      "name": "guanka_tex_png",
+      "type": "image",
+      "url": "pve_trek/outside/guanka_tex.png"
+    },
+    {
+      "name": "pveTrekLevel_level_line_2_png",
+      "type": "image",
+      "url": "pve_trek/outside/pveTrekLevel_level_line_2.png"
+    },
+    {
+      "name": "pveTrekLevel_level_line_3_png",
+      "type": "image",
+      "url": "pve_trek/outside/pveTrekLevel_level_line_3.png"
+    },
+    {
+      "name": "pveTrekLevel_level_line_4_png",
+      "type": "image",
+      "url": "pve_trek/outside/pveTrekLevel_level_line_4.png"
+    },
+    {
+      "name": "pveTrekMain_3356_png",
+      "type": "image",
+      "url": "pve_trek/outside/pveTrekMain_3356.png"
+    },
+    {
+      "name": "pveTrekMain_3358_png",
+      "type": "image",
+      "url": "pve_trek/outside/pveTrekMain_3358.png"
+    },
+    {
+      "name": "pveTrekMain_bg02_png",
+      "type": "image",
+      "url": "pve_trek/outside/pveTrekMain_bg02.png"
+    },
+    {
+      "name": "pve_trek_sheet",
+      "type": "sheet",
+      "url": "pve_trek/pve_trek_sheet.json",
+      "subkeys": "level_tips_pop_btnOk_png,level_tips_pop_title_zdzt_png,pveTrekAllPop_bg2_png,pveTrekAllPop_d_png,pveTrekAllPop_dispatch_item_bg_png,pveTrekAllPop_flag_kong_png,pveTrekAllPop_flag_selcted_png,pveTrekAllPop_flag_select_png,pveTrekAllPop_img_df_png,pveTrekAllPop_img_wf_png,pveTrekAllPop_p_point_png,pveTrekAllPop_shop_itemBg_png,pveTrekAllPop_t1_png,pveTrekAllPop_texture_123asd_png,pveTrekAllPop_title_fmg_png,pveTrekAllPop_title_jytz_png,pveTrekAllPop_title_pqcg_png,pveTrekAllPop_title_pttz_png,pveTrekAllPop_title_sb_png,pveTrekAllPop_title_shop_png,pveTrekAllPop_title_sjxz_png,pveTrekAllPop_title_wkg_png,pveTrekAllPop_title_xlg_png,pveTrekAllPop_title_zdzt_png,pveTrekBoss_boss_line_png,pveTrekBoss_btnReady_png,pveTrekBoss_itemGrp_png,pveTrekBoss_my_line_png,pveTrekBoss_namebg_png,pveTrekBoss_title_zzgk_png,pveTrekBoss_vs_png,pveTrekLevel_flag_selcted_level_png,pveTrekLevel_flag_ywc_level_png,pveTrekLevel_iconBoss_png,pveTrekLevel_iconBox_png,pveTrekLevel_iconMonster_png,pveTrekLevel_iconRandom_png,pveTrekLevel_iconShop_png,pveTrekLevel_iconTask_png,pveTrekLevel_level_line_1_png,pveTrekLevel_title_gk1_png,pveTrekLevel_title_gk2_png,pveTrekLevel_title_gk3_png,pveTrekLevel_title_gk4_png,pveTrekMain_btnContinue_png,pveTrekMain_btnRest_png,pveTrekMain_btnStart_png,pveTrekMain_down_mask_png,pveTrekMain_flagYwc_png,pveTrekMain_texture_bg_down_png,pveTrekMain_tgjl_png,pveTrekMain_up_bg_png,pveTrekMode_btnBg_png,pveTrekMode_flag_clear_png,pveTrekMode_flag_tanhao_png,pveTrekMode_lock_1_png,pveTrekMode_lock_5_png,pveTrekMode_mode_line_png,pveTrekMode_rect_left_down_png,pveTrekMode_rect_left_top_png,pveTrekMode_rect_right_down_png,pveTrekMode_rect_right_top_png,pveTrekMode_star_1_png,pveTrekMode_star_5_png,pveTrekMode_tiile_xjmh_png,pveTrekMode_zdzt_png,pveTrekSetPets_btnBack_png,pveTrekSetPets_btnChangeSkill_png,pveTrekSetPets_btnCz_png,pveTrekSetPets_btnSelectdAttr_png,pveTrekSetPets_btnSerach_png,pveTrekSetPets_btnStart_png,pveTrekSetPets_btnXz_png,pveTrekSetPets_changeSkillBg_png,pveTrekSetPets_cz_bg_png,pveTrekSetPets_dm_bg_png,pveTrekSetPets_icon_png,pveTrekSetPets_icon_attr_png,pveTrekSetPets_icon_type_png,pveTrekSetPets_id_sort_down_down_png,pveTrekSetPets_id_sort_down_up_png,pveTrekSetPets_id_sort_up_down_png,pveTrekSetPets_id_sort_up_up_png,pveTrekSetPets_img_btn_close_png,pveTrekSetPets_img_down_png,pveTrekSetPets_img_up_png,pveTrekSetPets_info_title_png,pveTrekSetPets_line2_png,pveTrekSetPets_lvl_sort_down_down_png,pveTrekSetPets_lvl_sort_down_up_png,pveTrekSetPets_lvl_sort_up_down_png,pveTrekSetPets_lvl_sort_up_up_png,pveTrekSetPets_noJl_png,pveTrekSetPets_page_down_png,pveTrekSetPets_page_up_png,pveTrekSetPets_pet_bg_png,pveTrekSetPets_skill5_typeIcon_png,pveTrekSetPets_skill_bg_png,pveTrekSetPets_texture_001_png,pveTrekSetPets_texture_1_png,pveTrekSetPets_texture_allow_png,pveTrekSetPets_texture_czjl_png,pveTrekSetPets_texture_line_png,pveTrekSetPets_texture_point_png,pveTrekSetPets_texture_top_png,pveTrekSetPets_title_unequipSkill_png,pveTrekSetPets_tm_sort_down_down_png,pveTrekSetPets_tm_sort_down_up_png,pveTrekSetPets_tm_sort_up_down_png,pveTrekSetPets_tm_sort_up_up_png,pveTrekSetPets_xing_png,pveTrekSetPet_title_xzyhjl_png,pveTrekSetSeerInfo_addBtn_png,pveTrekSetSeerInfo_btnDressAll_png,pveTrekSetSeerInfo_btnNext_png,pveTrekSetSeerInfo_btnTitleChange_png,pveTrekSetSeerInfo_img_title_png,pveTrekSetSeerInfo_lineIcon_0_png,pveTrekSetSeerInfo_lineIcon_1_png,pveTrekSetSeerInfo_lineIcon_2_png,pveTrekSetSeerInfo_lineIcon_3_png,pveTrekSetSeerInfo_lineIcon_4_png,pveTrekSetSeerInfo_suitIconBigBg_0_png,pveTrekSetSeerInfo_suitIcon_0_png,pveTrekSetSeerInfo_title_bg_png,pveTrek_img_allow_png,pveTrek_sort_bg_png,pveTrek_warehouse_img_all_png,pve_star_trek_event_pop_hp_bar2_png,pve_star_trek_event_pop_hp_bg2_png,pve_star_trek_event_pop_icon_jlxq_png,pve_star_trek_event_pop_imgBtn_battle_png,pve_star_trek_event_pop_imgBtn_bg_png,pve_star_trek_event_pop_imgBtn_sf_png,pve_star_trek_event_pop_imgBtn_sz1_png,pve_star_trek_event_pop_imgBtn_xz1_png,pve_star_trek_event_pop_img_cz_png,pve_star_trek_event_pop_img_jy_png,pve_star_trek_event_pop_img_pq_png,pve_star_trek_event_pop_img_sz_png,pve_star_trek_event_pop_img_yh_png,pve_star_trek_event_pop_img_zw_png,pve_star_trek_event_pop_lock_png,pve_star_trek_event_pop_title_zdzb_png,pve_star_trek_petInfo_pop_skill_bg_png,pve_star_trek_pet_head_selected_png,pve_star_trek_sf_png"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "groups": [
+    {
+      "name": "pve_ninjutsu_club",
+      "keys": "pve_ninjutsu_club_sheet,renfa_atlas,renfa_json,rengwang_atlas,rengwang_json,zhuangtai_atlas,zhuangtai_json,pnc_main_bg_jpg,renfa_png,renfa_2_png,renfa_3_png,renfa_4_png,renfa_5_png,rengwang_png,zhuangtai_png"
+    }
+  ],
+  "resources": [
+    {
+      "name": "renfa_atlas",
+      "type": "text",
+      "url": "pve_ninjutsu_club/outside/renfa.atlas"
+    },
+    {
+      "name": "renfa_json",
+      "type": "json",
+      "url": "pve_ninjutsu_club/outside/renfa.json"
+    },
+    {
+      "name": "rengwang_atlas",
+      "type": "text",
+      "url": "pve_ninjutsu_club/outside/rengwang.atlas"
+    },
+    {
+      "name": "rengwang_json",
+      "type": "json",
+      "url": "pve_ninjutsu_club/outside/rengwang.json"
+    },
+    {
+      "name": "zhuangtai_atlas",
+      "type": "text",
+      "url": "pve_ninjutsu_club/outside/zhuangtai.atlas"
+    },
+    {
+      "name": "zhuangtai_json",
+      "type": "json",
+      "url": "pve_ninjutsu_club/outside/zhuangtai.json"
+    },
+    {
+      "name": "pnc_main_bg_jpg",
+      "type": "image",
+      "url": "pve_ninjutsu_club/Main/pnc_main_bg.jpg"
+    },
+    {
+      "name": "renfa_png",
+      "type": "image",
+      "url": "pve_ninjutsu_club/outside/renfa.png"
+    },
+    {
+      "name": "renfa_2_png",
+      "type": "image",
+      "url": "pve_ninjutsu_club/outside/renfa_2.png"
+    },
+    {
+      "name": "renfa_3_png",
+      "type": "image",
+      "url": "pve_ninjutsu_club/outside/renfa_3.png"
+    },
+    {
+      "name": "renfa_4_png",
+      "type": "image",
+      "url": "pve_ninjutsu_club/outside/renfa_4.png"
+    },
+    {
+      "name": "renfa_5_png",
+      "type": "image",
+      "url": "pve_ninjutsu_club/outside/renfa_5.png"
+    },
+    {
+      "name": "rengwang_png",
+      "type": "image",
+      "url": "pve_ninjutsu_club/outside/rengwang.png"
+    },
+    {
+      "name": "zhuangtai_png",
+      "type": "image",
+      "url": "pve_ninjutsu_club/outside/zhuangtai.png"
+    },
+    {
+      "name": "pve_ninjutsu_club_sheet",
+      "type": "sheet",
+      "url": "pve_ninjutsu_club/pve_ninjutsu_club_sheet.json",
+      "subkeys": "pnc_main_btnback_png,pnc_main_btnContinue_png,pnc_main_btnhelp_png,pnc_main_btnkaohe_png,pnc_main_btnsaodang_png,pnc_main_btnstart_png,pnc_main_img_png,pnc_main_imgitem1_png,pnc_main_img_di2_png,pnc_main_la_png,pnc_main_leftdi_png,pnc_main_rfyxs_png,pnc_main_rightdi_png,pnc_main_tgjl_png,pnc_main_top_png,pnc_pop_attack_btnjilu_png,pnc_pop_attack_btntiaozhan_png,pnc_pop_attack_dekuang_png,pnc_pop_attack_dkguang_png,pnc_pop_attack_icon0_png,pnc_pop_attack_icon1_png,pnc_pop_attack_icon2_png,pnc_pop_attack_jinzhi_png,pnc_pop_attack_jygj_png,pnc_pop_btncure_png,pnc_pop_btnpet_png,pnc_pop_btntiaozhan_png,pnc_pop_jhjy_png,pnc_pop_kaohe_bg_png,pnc_pop_kaohe_djk__png,pnc_pop_kaohe_icon1_png,pnc_pop_kaohe_icon2_png,pnc_pop_kaohe_icon3_png,pnc_pop_kaohe_icon4_png,pnc_pop_kaohe_icon5_png,pnc_pop_kaohe_icon6_png,pnc_pop_kaohe_icon7_png,pnc_pop_kaohe_jindu_png,pnc_pop_kaohe_jindude_png,pnc_pop_kaohe_lan_png,pnc_pop_kaohe_line2_png,pnc_pop_kaohe_lingqu_png,pnc_pop_kaohe_tips_png,pnc_pop_kaohe_yilingqu_png,pnc_pop_petbg_png,pnc_pop_record_btnclose_png,pnc_pop_record_gongjijilu_png,pnc_pop_record_hengtiao_png,pnc_pop_record_line_png,pnc_pop_record_txtbg_png,pnc_pop_result_dilan_png,pnc_pop_result_tuceng_png,pnc_pop_result_txt_png,pveNinjutsuClub_popTips_2_png,pveNinjutsuClub_popTips_jx_22_kb_2_png,pveNinjutsuClub_popTips_leftbg_png,pveNinjutsuClub_popTips_rfyxsgl_png,pveNinjutsuClub_popTips_xuanzhong_png"
+    }
+  ]
+}

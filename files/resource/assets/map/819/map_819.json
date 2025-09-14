@@ -1,0 +1,25 @@
+{
+  "resources": [
+    {
+      "type": "json",
+      "url": "819.json",
+      "name": "road_819"
+    },
+    {
+      "type": "text",
+      "url": "Map819Skin.exml",
+      "name": "exml_819"
+    },
+    {
+      "type": "image",
+      "url": "map_819_bg_mc.png",
+      "name": "map_819_bg_mc_png"
+    }
+  ],
+  "groups": [
+    {
+      "keys": "road_819,exml_819,map_819_bg_mc_png",
+      "name": "map_819"
+    }
+  ]
+}

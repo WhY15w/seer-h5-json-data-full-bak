@@ -1,0 +1,51 @@
+{
+  "groups": [
+    {
+      "name": "holy_gaia",
+      "keys": "holy_gaia_sheet,hg_buypop_3481_png,hg_buypop_bg_png,hg_mainpanel_bg_jpg,hg_panel1_bg_jpg,hg_panel2_bg_jpg,hg_panel3_petbg_png,hg_panel4_bg_jpg"
+    }
+  ],
+  "resources": [
+    {
+      "name": "hg_buypop_3481_png",
+      "type": "image",
+      "url": "holy_gaia/outside/hg_buypop_3481.png"
+    },
+    {
+      "name": "hg_buypop_bg_png",
+      "type": "image",
+      "url": "holy_gaia/outside/hg_buypop_bg.png"
+    },
+    {
+      "name": "hg_mainpanel_bg_jpg",
+      "type": "image",
+      "url": "holy_gaia/outside/hg_mainpanel_bg.jpg"
+    },
+    {
+      "name": "hg_panel1_bg_jpg",
+      "type": "image",
+      "url": "holy_gaia/outside/hg_panel1_bg.jpg"
+    },
+    {
+      "name": "hg_panel2_bg_jpg",
+      "type": "image",
+      "url": "holy_gaia/outside/hg_panel2_bg.jpg"
+    },
+    {
+      "name": "hg_panel3_petbg_png",
+      "type": "image",
+      "url": "holy_gaia/outside/hg_panel3_petbg.png"
+    },
+    {
+      "name": "hg_panel4_bg_jpg",
+      "type": "image",
+      "url": "holy_gaia/outside/hg_panel4_bg.jpg"
+    },
+    {
+      "name": "holy_gaia_sheet",
+      "type": "sheet",
+      "url": "holy_gaia/holy_gaia_sheet.json",
+      "subkeys": "hg_buypop_btnbuy_png,hg_buypop_btnclose_png,hg_buypop_dikuang_png,hg_buypop_diwujineng_png,hg_buypop_icon_gold_png,hg_buypop_juxing_8_png,hg_buypop_keyin_png,hg_buypop_title2_png,hg_buypop_zstx_png,hg_mainpanel_btn1_png,hg_mainpanel_btn2_png,hg_mainpanel_btn3_png,hg_mainpanel_btn4_png,hg_mainpanel_btncollect_png,hg_mainpanel_btncollected_png,hg_mainpanel_btninfo_png,hg_mainpanel_btnjuexing_png,hg_mainpanel_btnonekey_png,hg_mainpanel_stms_png,hg_mainpanel_tag_png,hg_mainpanel_title1_png,hg_mainpanel_title2_png,hg_mainpanel_title3_png,hg_mainpanel_title4_png,hg_mainpanel_yihuode_png,hg_mainpanel_yiwancheng_png,hg_panel1_title_png,hg_panel2_490_png,hg_panel2_btnadd_png,hg_panel2_btnfight_png,hg_panel2_btnonekey_png,hg_panel2_btnskip_png,hg_panel2_btntiaozhan_png,hg_panel2_btnyijian_png,hg_panel2_cishubg_png,hg_panel2_jlbb_png,hg_panel2_jlhf_png,hg_panel2_timebg_png,hg_panel2_tipsbg_png,hg_panel2_title_png,hg_panel2_txtbg_png,hg_panel2_yjtcs_png,hg_panel3_btntiqian_png,hg_panel3_btnyijian_png,hg_panel3_gou_png,hg_panel3_goubg_png,hg_panel3_hrxt_png,hg_panel3_jrxt_png,hg_panel3_kuang_png,hg_panel3_mrxt_png,hg_panel3_tiao_png,hg_panel3_title_png,hg_panel3_yijibai_png,hg_panel4_btndraw_png,hg_panel4_btnfight_png,hg_panel4_btnjihuo_png,hg_panel4_btnredraw_png,hg_panel4_img_yellow_reddot_png,hg_panel4_line_png,hg_panel4_mark1_png,hg_panel4_mark10_png,hg_panel4_mark2_png,hg_panel4_mark3_png,hg_panel4_mark4_png,hg_panel4_mark5_png,hg_panel4_mark6_png,hg_panel4_mark7_png,hg_panel4_mark8_png,hg_panel4_mark9_png,hg_panel4_taskbg_png,hg_panel4_title_png,hg_panel4_yichouqu_png,hg_panel4_yijihuo_png"
+    }
+  ]
+}

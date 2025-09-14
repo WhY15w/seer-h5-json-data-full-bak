@@ -1,0 +1,26 @@
+{
+  "groups": [
+    {
+      "name": "pve_pet_yinzi",
+      "keys": "pve_pet_yinzi_sheet,pve_pet_yinzi_challenge_bg_jpg,pve_pet_yinzi_level_bg_jpg"
+    }
+  ],
+  "resources": [
+    {
+      "name": "pve_pet_yinzi_challenge_bg_jpg",
+      "type": "image",
+      "url": "pve_pet_yinzi/outside/pve_pet_yinzi_challenge_bg.jpg"
+    },
+    {
+      "name": "pve_pet_yinzi_level_bg_jpg",
+      "type": "image",
+      "url": "pve_pet_yinzi/outside/pve_pet_yinzi_level_bg.jpg"
+    },
+    {
+      "name": "pve_pet_yinzi_sheet",
+      "type": "sheet",
+      "url": "pve_pet_yinzi/pve_pet_yinzi_sheet.json",
+      "subkeys": "pve_pet_yinzi_challenge_-_png,pve_pet_yinzi_challenge_btnblueadd_png,pve_pet_yinzi_challenge_btnContinue_png,pve_pet_yinzi_challenge_btnGiveUp_png,pve_pet_yinzi_challenge_btnqueding_png,pve_pet_yinzi_challenge_btnsaodang_png,pve_pet_yinzi_challenge_btntiaozhan_png,pve_pet_yinzi_challenge_chenhao_png,pve_pet_yinzi_challenge_dese_png,pve_pet_yinzi_challenge_deyu_png,pve_pet_yinzi_challenge_diffTitle1_png,pve_pet_yinzi_challenge_diffTitle2_png,pve_pet_yinzi_challenge_diffTitle3_png,pve_pet_yinzi_challenge_easybg_png,pve_pet_yinzi_challenge_hardbg_png,pve_pet_yinzi_challenge_hellbg_png,pve_pet_yinzi_challenge_img_di2_png,pve_pet_yinzi_challenge_itembg1_png,pve_pet_yinzi_challenge_itembg2_png,pve_pet_yinzi_challenge_itembg3_png,pve_pet_yinzi_challenge_jianchan_png,pve_pet_yinzi_challenge_jltz_png,pve_pet_yinzi_challenge_kuang_png,pve_pet_yinzi_challenge_kunnan_png,pve_pet_yinzi_challenge_line_png,pve_pet_yinzi_challenge_sdfs_png,pve_pet_yinzi_challenge_select2_png,pve_pet_yinzi_challenge_selected_png,pve_pet_yinzi_Diamond_png,pve_pet_yinzi_HEADBG_png,pvepetyinzi_level_jlbb_png,pvepetyinzi_level_jlhf_png,pvepetyinzi_level_rightbg_png,pve_pet_yinzi_level_btncure_png,pve_pet_yinzi_level_btnDone_png,pve_pet_yinzi_level_btnpet_png,pve_pet_yinzi_level_btnwait_png,pve_pet_yinzi_level_btnzhandou_png,pve_pet_yinzi_level_cishudi_png,pve_pet_yinzi_level_diff1_png,pve_pet_yinzi_level_diff1locked_png,pve_pet_yinzi_level_diff2_png,pve_pet_yinzi_level_diff2locked_png,pve_pet_yinzi_level_diff3_png,pve_pet_yinzi_level_diff3locked_png,pve_pet_yinzi_level_done1_png,pve_pet_yinzi_level_done2_png,pve_pet_yinzi_level_done3_png,pve_pet_yinzi_level_dz_done_png,pve_pet_yinzi_level_dz_enter_png,pve_pet_yinzi_level_dz_wait_png,pve_pet_yinzi_level_enter1_png,pve_pet_yinzi_level_enter2_png,pve_pet_yinzi_level_enter3_png,pve_pet_yinzi_level_line1_png,pve_pet_yinzi_level_line2_png,pve_pet_yinzi_level_selected_png,pve_pet_yinzi_level_title_1_png,pve_pet_yinzi_level_title_2_png,pve_pet_yinzi_level_title_3_png,pve_pet_yinzi_level_wait1_png,pve_pet_yinzi_level_wait2_png,pve_pet_yinzi_level_wait3_png,pve_pet_yinzi_type1_png,pve_pet_yinzi_type2_png,pve_pet_yinzi_type3_png,pve_pet_yinzi_type4_png,pve_pet_yinzi_type5_png,pve_pet_yinzi_type6_png,pve_pet_yinzi_wancheng_png,pve_pet_yinzi_main_14Year_png,pve_pet_yinzi_main_14Year_btn2_png,pve_pet_yinzi_main_btnback_png,pve_pet_yinzi_main_btnDuihuan_png,pve_pet_yinzi_main_btnget_png,pve_pet_yinzi_main_btninfo_png,pve_pet_yinzi_main_btnqianzhi_png,pve_pet_yinzi_main_btnsaodang_png,pve_pet_yinzi_main_btnsc_png,pve_pet_yinzi_main_btntiaozhan_png,pve_pet_yinzi_main_btnysc_png,pve_pet_yinzi_main_diwujineng_png,pve_pet_yinzi_main_line_png,pve_pet_yinzi_main_nenglibg_png,pve_pet_yinzi_main_spbg_png,pve_pet_yinzi_main_spbg_2_png,pve_pet_yinzi_main_tag_png,pve_pet_yinzi_main_top_png,pve_pet_yinzi_main_yiduihuan_png,pve_pet_yinzi_main_yzgk_png,pve_pet_yinzi_main_zstx_png"
+    }
+  ]
+}

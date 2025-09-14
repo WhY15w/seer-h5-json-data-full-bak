@@ -1,0 +1,30 @@
+{
+  "groups": [
+    {
+      "keys": "road_993,exml_993,map_993_bg_mc_jpg,map_993_sword_png",
+      "name": "map_993"
+    }
+  ],
+  "resources": [
+    {
+      "type": "json",
+      "url": "993.json",
+      "name": "road_993"
+    },
+    {
+      "type": "text",
+      "url": "Map993Skin.exml",
+      "name": "exml_993"
+    },
+    {
+      "type": "image",
+      "url": "map_993_bg_mc.jpg",
+      "name": "map_993_bg_mc_jpg"
+    },
+    {
+      "type": "image",
+      "url": "map_993_sword.png",
+      "name": "map_993_sword_png"
+    }
+  ]
+}

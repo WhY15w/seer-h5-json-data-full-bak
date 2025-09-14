@@ -1,0 +1,40 @@
+{
+  "groups": [
+    {
+      "keys": "road_348,exml_348,map_348_bg_mc_jpg,map_348_xvhihfs22_png,map_348_zzhgaii121_png,map_348_shengjiang_png",
+      "name": "map_348"
+    }
+  ],
+  "resources": [
+    {
+      "type": "json",
+      "url": "348.json",
+      "name": "road_348"
+    },
+    {
+      "type": "text",
+      "url": "Map348Skin.exml",
+      "name": "exml_348"
+    },
+    {
+      "type": "image",
+      "url": "map_348_bg_mc.jpg",
+      "name": "map_348_bg_mc_jpg"
+    },
+    {
+      "type": "image",
+      "url": "map_348_xvhihfs22.png",
+      "name": "map_348_xvhihfs22_png"
+    },
+    {
+      "type": "image",
+      "url": "map_348_zzhgaii121.png",
+      "name": "map_348_zzhgaii121_png"
+    },
+    {
+      "type": "image",
+      "url": "map_348_shengjiang.png",
+      "name": "map_348_shengjiang_png"
+    }
+  ]
+}

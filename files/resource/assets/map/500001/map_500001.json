@@ -1,0 +1,25 @@
+{
+  "resources": [
+    {
+      "url": "500001.json",
+      "name": "road_500001",
+      "type": "json"
+    },
+    {
+      "url": "Map500001Skin.exml",
+      "name": "exml_500001",
+      "type": "text"
+    },
+    {
+      "url": "map_500001_bg_mc.jpg",
+      "name": "map_500001_bg_mc_jpg",
+      "type": "image"
+    }
+  ],
+  "groups": [
+    {
+      "keys": "road_500001,exml_500001,map_500001_bg_mc_jpg",
+      "name": "map_500001"
+    }
+  ]
+}

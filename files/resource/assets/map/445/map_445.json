@@ -1,0 +1,50 @@
+{
+  "groups": [
+    {
+      "keys": "road_445,exml_445,map_445_stoneMC_png,map_445_bg_mc_jpg,map_445_shitou_png,map_445_shitou2_png,map_445_canhai_png,map_445_top_mc_png",
+      "name": "map_445"
+    }
+  ],
+  "resources": [
+    {
+      "type": "json",
+      "url": "445.json",
+      "name": "road_445"
+    },
+    {
+      "type": "text",
+      "url": "Map445Skin.exml",
+      "name": "exml_445"
+    },
+    {
+      "type": "image",
+      "url": "map_445_stoneMC.png",
+      "name": "map_445_stoneMC_png"
+    },
+    {
+      "type": "image",
+      "url": "map_445_bg_mc.jpg",
+      "name": "map_445_bg_mc_jpg"
+    },
+    {
+      "type": "image",
+      "url": "map_445_shitou.png",
+      "name": "map_445_shitou_png"
+    },
+    {
+      "type": "image",
+      "url": "map_445_shitou2.png",
+      "name": "map_445_shitou2_png"
+    },
+    {
+      "type": "image",
+      "url": "map_445_canhai.png",
+      "name": "map_445_canhai_png"
+    },
+    {
+      "type": "image",
+      "url": "map_445_top_mc.png",
+      "name": "map_445_top_mc_png"
+    }
+  ]
+}

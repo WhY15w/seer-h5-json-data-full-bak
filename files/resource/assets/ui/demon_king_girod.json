@@ -1,0 +1,36 @@
+{
+  "groups": [
+    {
+      "name": "demon_king_girod",
+      "keys": "demon_king_girod_sheet,DKGirod_ske_json,DKGirod_tex_json,BG_jpg,DKGirod_tex_png"
+    }
+  ],
+  "resources": [
+    {
+      "name": "DKGirod_ske_json",
+      "type": "json",
+      "url": "demon_king_girod/outside/DKGirod_ske.json"
+    },
+    {
+      "name": "DKGirod_tex_json",
+      "type": "json",
+      "url": "demon_king_girod/outside/DKGirod_tex.json"
+    },
+    {
+      "name": "BG_jpg",
+      "type": "image",
+      "url": "demon_king_girod/outside/BG.jpg"
+    },
+    {
+      "name": "DKGirod_tex_png",
+      "type": "image",
+      "url": "demon_king_girod/outside/DKGirod_tex.png"
+    },
+    {
+      "name": "demon_king_girod_sheet",
+      "type": "sheet",
+      "url": "demon_king_girod/demon_king_girod_sheet.json",
+      "subkeys": "123123_png,enter_btnChao_png,enter_btnWan_png,enter_title1_png,enter_title2_png,fight_btnCure_png,fight_btnPet_png,fight_imgMap1_png,fight_imgMap2_png,fight_imgMap3_png,fight_mapsbg_png,fight_mgzx_png,fight_sbosscs_png,fight_up_bg_png,fight_wxxh_png,main_1_png,main_2_png,main_baoxiang_png,main_baoxiangbg_png,main_btnAddFightTime_png,main_btnchildclose_png,main_btnFight_png,main_btnfix_png,main_btnGetBonus_png,main_btnGetKe_png,main_btnGetPet_png,main_btnGetTe_png,main_btnGetWu_png,main_btnHelp_png,main_btnInfo_png,main_btnKe_png,main_btnSuperGet_png,main_btnTe_png,main_btnWu_png,main_bumb_png,main_has1_png,main_has2_png,main_has5_png,main_icon_1_png,main_icon_texing_png,main_keyin_png,main_mgzx_png,main_numbg_png,main_title_png,main_txtBubble1_png,main_txtBubble2_png,main_uptitle_png,main_vip_png,main_wxxh_png,main_x1_png"
+    }
+  ]
+}

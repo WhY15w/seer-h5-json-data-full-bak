@@ -1,0 +1,30 @@
+{
+  "groups": [
+    {
+      "keys": "road_969,map_969_bg_mc_png,map_969_control_mc_png,exml_969",
+      "name": "map_969"
+    }
+  ],
+  "resources": [
+    {
+      "type": "json",
+      "url": "969.json",
+      "name": "road_969"
+    },
+    {
+      "type": "image",
+      "url": "map_969_bg_mc.png",
+      "name": "map_969_bg_mc_png"
+    },
+    {
+      "type": "image",
+      "url": "map_969_control_mc.png",
+      "name": "map_969_control_mc_png"
+    },
+    {
+      "name": "exml_969",
+      "type": "text",
+      "url": "Map969Skin.exml"
+    }
+  ]
+}

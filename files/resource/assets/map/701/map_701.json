@@ -1,0 +1,35 @@
+{
+  "resources": [
+    {
+      "type": "json",
+      "url": "701.json",
+      "name": "road_701"
+    },
+    {
+      "type": "text",
+      "url": "Map701Skin.exml",
+      "name": "exml_701"
+    },
+    {
+      "type": "image",
+      "url": "map_701_bg_mc.jpg",
+      "name": "map_701_bg_mc_jpg"
+    },
+    {
+      "type": "image",
+      "url": "map_701_suolian1.png",
+      "name": "map_701_suolian1_png"
+    },
+    {
+      "type": "image",
+      "url": "map_701_suolian2.png",
+      "name": "map_701_suolian2_png"
+    }
+  ],
+  "groups": [
+    {
+      "keys": "road_701,exml_701,map_701_bg_mc_jpg,map_701_suolian1_png,map_701_suolian2_png",
+      "name": "map_701"
+    }
+  ]
+}

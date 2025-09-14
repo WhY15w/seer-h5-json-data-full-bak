@@ -1,0 +1,4647 @@
+{
+  "frameRate": 30,
+  "isGlobal": 0,
+  "armature": [
+    {
+      "aabb": {
+        "width": 93,
+        "y": -46.22995,
+        "height": 92,
+        "x": -46.2732
+      },
+      "type": "Armature",
+      "bone": [
+        {
+          "name": "root",
+          "transform": {}
+        },
+        {
+          "transform": {
+            "scX": 0.315,
+            "scY": 0.315
+          },
+          "name": "shanguang",
+          "parent": "root"
+        },
+        {
+          "transform": {
+            "scX": 1.569,
+            "y": 3.22,
+            "scY": 1.569,
+            "x": 1.82
+          },
+          "name": "shanguang0",
+          "parent": "shanguang"
+        },
+        {
+          "transform": {
+            "y": 0.51,
+            "x": 0.51
+          },
+          "name": "xianguang",
+          "parent": "shanguang"
+        },
+        {
+          "transform": {
+            "scX": 0.712,
+            "y": -1.63,
+            "scY": 0.712,
+            "x": 0.75
+          },
+          "name": "dianguangqun",
+          "parent": "shanguang"
+        },
+        {
+          "transform": {
+            "scX": 1.115,
+            "y": 3.22,
+            "scY": 1.115,
+            "skX": -120,
+            "skY": -120,
+            "x": 1.82
+          },
+          "name": "shanguang1",
+          "parent": "shanguang"
+        },
+        {
+          "transform": {
+            "y": -2.76,
+            "skX": -120,
+            "skY": -120,
+            "x": -3.03
+          },
+          "name": "bulingbuling3",
+          "parent": "shanguang0"
+        },
+        {
+          "transform": {
+            "y": -2.76,
+            "x": -3.03
+          },
+          "name": "bulingbuling4",
+          "parent": "shanguang1"
+        },
+        {
+          "transform": {
+            "y": -2.76,
+            "skX": -90,
+            "skY": -90,
+            "x": -3.03
+          },
+          "name": "bulingbuling5",
+          "parent": "shanguang1"
+        },
+        {
+          "transform": {
+            "y": -2.76,
+            "skX": -120,
+            "skY": -120,
+            "x": -3.03
+          },
+          "name": "bulingbuling6",
+          "parent": "shanguang1"
+        },
+        {
+          "transform": {
+            "y": -2.76,
+            "skX": -90,
+            "skY": -90,
+            "x": -3.03
+          },
+          "name": "bulingbuling2",
+          "parent": "shanguang0"
+        },
+        {
+          "transform": {
+            "y": -2.76,
+            "skX": -120,
+            "skY": -120,
+            "x": -3.03
+          },
+          "name": "bulingbuling7",
+          "parent": "shanguang1"
+        },
+        {
+          "transform": {
+            "y": 0.6,
+            "x": -0.75
+          },
+          "name": "dianguang",
+          "parent": "dianguangqun"
+        },
+        {
+          "transform": {
+            "y": 0.6,
+            "x": -0.75
+          },
+          "name": "dianguang2",
+          "parent": "dianguangqun"
+        },
+        {
+          "transform": {
+            "y": -2.76,
+            "x": -3.03
+          },
+          "name": "bulingbuling",
+          "parent": "shanguang0"
+        },
+        {
+          "transform": {
+            "scX": 0.851,
+            "y": -2,
+            "scY": 0.851,
+            "skX": -169.13,
+            "skY": -169.13,
+            "x": 1.21
+          },
+          "name": "lizi2",
+          "parent": "bulingbuling"
+        },
+        {
+          "transform": {
+            "scX": 0.851,
+            "y": -2,
+            "scY": 0.851,
+            "skX": 99.33,
+            "skY": 99.33,
+            "x": 1.21
+          },
+          "name": "lizi3",
+          "parent": "bulingbuling2"
+        },
+        {
+          "transform": {
+            "scX": 0.851,
+            "y": -2,
+            "scY": 0.851,
+            "skX": -169.13,
+            "skY": -169.13,
+            "x": 1.21
+          },
+          "name": "lizi4",
+          "parent": "bulingbuling2"
+        },
+        {
+          "transform": {
+            "scX": 0.851,
+            "y": -2,
+            "scY": 0.851,
+            "skX": 99.33,
+            "skY": 99.33,
+            "x": 1.21
+          },
+          "name": "lizi5",
+          "parent": "bulingbuling3"
+        },
+        {
+          "transform": {
+            "scX": 0.851,
+            "y": -2,
+            "scY": 0.851,
+            "skX": -169.13,
+            "skY": -169.13,
+            "x": 1.21
+          },
+          "name": "lizi6",
+          "parent": "bulingbuling3"
+        },
+        {
+          "transform": {
+            "scX": 0.851,
+            "y": -2,
+            "scY": 0.851,
+            "skX": 99.33,
+            "skY": 99.33,
+            "x": 1.21
+          },
+          "name": "lizi7",
+          "parent": "bulingbuling4"
+        },
+        {
+          "transform": {
+            "scX": 0.851,
+            "y": -2,
+            "scY": 0.851,
+            "skX": -169.13,
+            "skY": -169.13,
+            "x": 1.21
+          },
+          "name": "lizi8",
+          "parent": "bulingbuling4"
+        },
+        {
+          "transform": {
+            "scX": 0.851,
+            "y": -2,
+            "scY": 0.851,
+            "skX": 99.33,
+            "skY": 99.33,
+            "x": 1.21
+          },
+          "name": "lizi9",
+          "parent": "bulingbuling5"
+        },
+        {
+          "transform": {
+            "scX": 0.851,
+            "y": -2,
+            "scY": 0.851,
+            "skX": -169.13,
+            "skY": -169.13,
+            "x": 1.21
+          },
+          "name": "lizi10",
+          "parent": "bulingbuling5"
+        },
+        {
+          "transform": {
+            "scX": 0.851,
+            "y": -2,
+            "scY": 0.851,
+            "skX": 99.33,
+            "skY": 99.33,
+            "x": 1.21
+          },
+          "name": "lizi11",
+          "parent": "bulingbuling6"
+        },
+        {
+          "transform": {
+            "scX": 0.851,
+            "y": -2,
+            "scY": 0.851,
+            "skX": -169.13,
+            "skY": -169.13,
+            "x": 1.21
+          },
+          "name": "lizi12",
+          "parent": "bulingbuling6"
+        },
+        {
+          "transform": {
+            "scX": 0.851,
+            "y": -2,
+            "scY": 0.851,
+            "skX": 99.33,
+            "skY": 99.33,
+            "x": 1.21
+          },
+          "name": "lizi13",
+          "parent": "bulingbuling7"
+        },
+        {
+          "transform": {
+            "scX": 0.851,
+            "y": -2,
+            "scY": 0.851,
+            "skX": -169.13,
+            "skY": -169.13,
+            "x": 1.21
+          },
+          "name": "lizi14",
+          "parent": "bulingbuling7"
+        },
+        {
+          "transform": {
+            "scX": 0.851,
+            "y": -2,
+            "scY": 0.851,
+            "skX": 99.33,
+            "skY": 99.33,
+            "x": 1.21
+          },
+          "name": "lizi",
+          "parent": "bulingbuling"
+        }
+      ],
+      "ik": [],
+      "slot": [
+        {
+          "blendMode": "add",
+          "color": {},
+          "name": "dianguang",
+          "parent": "dianguang"
+        },
+        {
+          "blendMode": "add",
+          "z": 1,
+          "color": {},
+          "displayIndex": 1,
+          "name": "dianguang2",
+          "parent": "dianguang2"
+        },
+        {
+          "blendMode": "add",
+          "z": 2,
+          "color": {},
+          "name": "xianguang",
+          "parent": "xianguang"
+        },
+        {
+          "blendMode": "add",
+          "z": 3,
+          "color": {},
+          "name": "lizi",
+          "parent": "lizi"
+        },
+        {
+          "blendMode": "add",
+          "z": 4,
+          "color": {},
+          "displayIndex": -1,
+          "name": "lizi7",
+          "parent": "lizi7"
+        },
+        {
+          "blendMode": "add",
+          "z": 5,
+          "color": {},
+          "name": "lizi3",
+          "parent": "lizi3"
+        },
+        {
+          "blendMode": "add",
+          "z": 6,
+          "color": {},
+          "name": "lizi9",
+          "parent": "lizi9"
+        },
+        {
+          "blendMode": "add",
+          "z": 7,
+          "color": {},
+          "name": "lizi5",
+          "parent": "lizi5"
+        },
+        {
+          "blendMode": "add",
+          "z": 8,
+          "color": {},
+          "displayIndex": -1,
+          "name": "lizi11",
+          "parent": "lizi11"
+        },
+        {
+          "blendMode": "add",
+          "z": 9,
+          "color": {},
+          "displayIndex": -1,
+          "name": "lizi13",
+          "parent": "lizi13"
+        },
+        {
+          "blendMode": "add",
+          "z": 10,
+          "color": {},
+          "name": "lizi2",
+          "parent": "lizi2"
+        },
+        {
+          "blendMode": "add",
+          "z": 11,
+          "color": {},
+          "displayIndex": -1,
+          "name": "lizi8",
+          "parent": "lizi8"
+        },
+        {
+          "blendMode": "add",
+          "z": 12,
+          "color": {},
+          "displayIndex": 1,
+          "name": "lizi4",
+          "parent": "lizi4"
+        },
+        {
+          "blendMode": "add",
+          "z": 13,
+          "color": {},
+          "displayIndex": -1,
+          "name": "lizi10",
+          "parent": "lizi10"
+        },
+        {
+          "blendMode": "add",
+          "z": 14,
+          "color": {},
+          "name": "lizi6",
+          "parent": "lizi6"
+        },
+        {
+          "blendMode": "add",
+          "z": 15,
+          "color": {},
+          "displayIndex": -1,
+          "name": "lizi12",
+          "parent": "lizi12"
+        },
+        {
+          "blendMode": "add",
+          "z": 16,
+          "color": {},
+          "displayIndex": -1,
+          "name": "lizi14",
+          "parent": "lizi14"
+        },
+        {
+          "z": 17,
+          "color": {},
+          "name": "xianguang1",
+          "parent": "root",
+          "displayIndex": -1
+        }
+      ],
+      "defaultActions": [
+        {
+          "gotoAndPlay": "kuaisushanguan"
+        }
+      ],
+      "animation": [
+        {
+          "duration": 36,
+          "frame": [],
+          "bone": [
+            {
+              "frame": [
+                {
+                  "duration": 36,
+                  "transform": {
+                    "scX": 1.27,
+                    "scY": 1.27
+                  }
+                }
+              ],
+              "name": "shanguang"
+            },
+            {
+              "frame": [
+                {
+                  "duration": 20,
+                  "transform": {},
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 16,
+                  "transform": {
+                    "scX": 0.6,
+                    "scY": 0.6,
+                    "skX": -180,
+                    "skY": -180
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 0,
+                  "transform": {}
+                }
+              ],
+              "name": "xianguang"
+            },
+            {
+              "frame": [
+                {
+                  "duration": 2,
+                  "transform": {
+                    "scX": 1.095,
+                    "y": -16.93,
+                    "scY": 1.095,
+                    "x": 29.87
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 4,
+                  "transform": {
+                    "scX": 0.873,
+                    "scY": 0.873
+                  }
+                },
+                {
+                  "duration": 16,
+                  "transform": {
+                    "scX": 0.873,
+                    "scY": 0.873
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 12,
+                  "transform": {
+                    "scX": 0.842,
+                    "y": -10.16,
+                    "scY": 0.842,
+                    "x": 17.92
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 2,
+                  "transform": {
+                    "scX": 1.095,
+                    "y": -16.93,
+                    "scY": 1.095,
+                    "x": 29.87
+                  }
+                }
+              ],
+              "name": "lizi"
+            },
+            {
+              "frame": [
+                {
+                  "duration": 18,
+                  "transform": {},
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 18,
+                  "transform": {
+                    "scX": 1.267,
+                    "scY": 1.267
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 0,
+                  "transform": {}
+                }
+              ],
+              "name": "dianguang"
+            },
+            {
+              "frame": [
+                {
+                  "duration": 18,
+                  "transform": {},
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 18,
+                  "transform": {
+                    "scX": 0.901,
+                    "scY": 0.901
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 0,
+                  "transform": {}
+                }
+              ],
+              "name": "dianguang2"
+            },
+            {
+              "frame": [
+                {
+                  "duration": 6,
+                  "transform": {
+                    "scX": 0.846,
+                    "y": 21.45,
+                    "scY": 0.846,
+                    "x": -27.03
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 2,
+                  "transform": {
+                    "scX": 0.842,
+                    "y": 25.02,
+                    "scY": 0.842,
+                    "x": -31.54
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 2,
+                  "transform": {
+                    "scX": 0.873,
+                    "scY": 0.873
+                  }
+                },
+                {
+                  "duration": 18,
+                  "transform": {
+                    "scX": 0.873,
+                    "scY": 0.873
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 8,
+                  "transform": {
+                    "scX": 0.853,
+                    "y": 16.09,
+                    "scY": 0.853,
+                    "x": -20.27
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 0,
+                  "transform": {
+                    "scX": 0.846,
+                    "y": 21.45,
+                    "scY": 0.846,
+                    "x": -27.03
+                  }
+                }
+              ],
+              "name": "lizi2"
+            },
+            {
+              "frame": [
+                {
+                  "duration": 6,
+                  "transform": {
+                    "scX": 0.95,
+                    "y": -13.06,
+                    "scY": 0.95,
+                    "x": 23.04
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 4,
+                  "transform": {
+                    "scX": 1.023,
+                    "y": -14.99,
+                    "scY": 1.023,
+                    "x": 26.45
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 2,
+                  "transform": {
+                    "scX": 1.095,
+                    "y": -16.93,
+                    "scY": 1.095,
+                    "x": 29.87
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 2,
+                  "transform": {
+                    "scX": 0.873,
+                    "scY": 0.873
+                  }
+                },
+                {
+                  "duration": 14,
+                  "transform": {
+                    "scX": 0.873,
+                    "scY": 0.873
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 8,
+                  "transform": {
+                    "scX": 0.842,
+                    "y": -10.16,
+                    "scY": 0.842,
+                    "x": 17.92
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 0,
+                  "transform": {
+                    "scX": 0.95,
+                    "y": -13.06,
+                    "scY": 0.95,
+                    "x": 23.04
+                  }
+                }
+              ],
+              "name": "lizi3"
+            },
+            {
+              "frame": [
+                {
+                  "duration": 4,
+                  "transform": {
+                    "scX": 0.855,
+                    "y": 14.3,
+                    "scY": 0.855,
+                    "x": -18.02
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 2,
+                  "transform": {
+                    "scX": 0.853,
+                    "y": 16.09,
+                    "scY": 0.853,
+                    "x": -20.27
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 4,
+                  "transform": {
+                    "scX": 0.851,
+                    "y": 17.87,
+                    "scY": 0.851,
+                    "x": -22.53
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 4,
+                  "transform": {
+                    "scX": 0.846,
+                    "y": 21.45,
+                    "scY": 0.846,
+                    "x": -27.03
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 2,
+                  "transform": {
+                    "scX": 0.842,
+                    "y": 25.02,
+                    "scY": 0.842,
+                    "x": -31.54
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 2,
+                  "transform": {
+                    "scX": 0.873,
+                    "scY": 0.873
+                  }
+                },
+                {
+                  "duration": 18,
+                  "transform": {
+                    "scX": 0.873,
+                    "scY": 0.873
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 0,
+                  "transform": {
+                    "scX": 0.855,
+                    "y": 14.3,
+                    "scY": 0.855,
+                    "x": -18.02
+                  }
+                }
+              ],
+              "name": "lizi4"
+            },
+            {
+              "frame": [
+                {
+                  "duration": 4,
+                  "transform": {
+                    "scX": 0.846,
+                    "y": -8.71,
+                    "scY": 0.846,
+                    "x": 15.36
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 2,
+                  "transform": {
+                    "scX": 0.842,
+                    "y": -10.16,
+                    "scY": 0.842,
+                    "x": 17.92
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 4,
+                  "transform": {
+                    "scX": 0.878,
+                    "y": -11.12,
+                    "scY": 0.878,
+                    "x": 19.63
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 4,
+                  "transform": {
+                    "scX": 0.95,
+                    "y": -13.06,
+                    "scY": 0.95,
+                    "x": 23.04
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 4,
+                  "transform": {
+                    "scX": 1.023,
+                    "y": -14.99,
+                    "scY": 1.023,
+                    "x": 26.45
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 2,
+                  "transform": {
+                    "scX": 1.095,
+                    "y": -16.93,
+                    "scY": 1.095,
+                    "x": 29.87
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 4,
+                  "transform": {
+                    "scX": 0.873,
+                    "scY": 0.873
+                  }
+                },
+                {
+                  "duration": 12,
+                  "transform": {
+                    "scX": 0.873,
+                    "scY": 0.873
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 0,
+                  "transform": {
+                    "scX": 0.846,
+                    "y": -8.71,
+                    "scY": 0.846,
+                    "x": 15.36
+                  }
+                }
+              ],
+              "name": "lizi5"
+            },
+            {
+              "frame": [
+                {
+                  "duration": 22,
+                  "transform": {
+                    "scX": 0.873,
+                    "scY": 0.873
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 8,
+                  "transform": {
+                    "scX": 0.853,
+                    "y": 16.09,
+                    "scY": 0.853,
+                    "x": -20.27
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 2,
+                  "transform": {
+                    "scX": 0.842,
+                    "y": 25.02,
+                    "scY": 0.842,
+                    "x": -31.54
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 4,
+                  "transform": {
+                    "scX": 0.873,
+                    "scY": 0.873
+                  }
+                }
+              ],
+              "name": "lizi6"
+            },
+            {
+              "frame": [
+                {
+                  "duration": 36,
+                  "transform": {}
+                },
+                {
+                  "duration": 0,
+                  "transform": {}
+                }
+              ],
+              "name": "shanguang0"
+            },
+            {
+              "frame": [
+                {
+                  "duration": 2,
+                  "transform": {
+                    "scX": 1.095,
+                    "y": -16.93,
+                    "scY": 1.095,
+                    "x": 29.87
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 4,
+                  "transform": {
+                    "scX": 0.873,
+                    "scY": 0.873
+                  }
+                },
+                {
+                  "duration": 16,
+                  "transform": {
+                    "scX": 0.873,
+                    "scY": 0.873
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 14,
+                  "transform": {
+                    "scX": 0.842,
+                    "y": -10.16,
+                    "scY": 0.842,
+                    "x": 17.92
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 0,
+                  "transform": {
+                    "scX": 1.095,
+                    "y": -16.93,
+                    "scY": 1.095,
+                    "x": 29.87
+                  }
+                }
+              ],
+              "name": "lizi7"
+            },
+            {
+              "frame": [
+                {
+                  "duration": 6,
+                  "transform": {
+                    "scX": 0.846,
+                    "y": 21.45,
+                    "scY": 0.846,
+                    "x": -27.03
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 2,
+                  "transform": {
+                    "scX": 0.842,
+                    "y": 25.02,
+                    "scY": 0.842,
+                    "x": -31.54
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 2,
+                  "transform": {
+                    "scX": 0.873,
+                    "scY": 0.873
+                  }
+                },
+                {
+                  "duration": 18,
+                  "transform": {
+                    "scX": 0.873,
+                    "scY": 0.873
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 8,
+                  "transform": {
+                    "scX": 0.853,
+                    "y": 16.09,
+                    "scY": 0.853,
+                    "x": -20.27
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 0,
+                  "transform": {
+                    "scX": 0.846,
+                    "y": 21.45,
+                    "scY": 0.846,
+                    "x": -27.03
+                  }
+                }
+              ],
+              "name": "lizi8"
+            },
+            {
+              "frame": [
+                {
+                  "duration": 6,
+                  "transform": {
+                    "scX": 0.95,
+                    "y": -13.06,
+                    "scY": 0.95,
+                    "x": 23.04
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 4,
+                  "transform": {
+                    "scX": 1.023,
+                    "y": -14.99,
+                    "scY": 1.023,
+                    "x": 26.45
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 2,
+                  "transform": {
+                    "scX": 1.095,
+                    "y": -16.93,
+                    "scY": 1.095,
+                    "x": 29.87
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 2,
+                  "transform": {
+                    "scX": 0.873,
+                    "scY": 0.873
+                  }
+                },
+                {
+                  "duration": 14,
+                  "transform": {
+                    "scX": 0.873,
+                    "scY": 0.873
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 8,
+                  "transform": {
+                    "scX": 0.842,
+                    "y": -10.16,
+                    "scY": 0.842,
+                    "x": 17.92
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 0,
+                  "transform": {
+                    "scX": 0.95,
+                    "y": -13.06,
+                    "scY": 0.95,
+                    "x": 23.04
+                  }
+                }
+              ],
+              "name": "lizi9"
+            },
+            {
+              "frame": [
+                {
+                  "duration": 4,
+                  "transform": {
+                    "scX": 0.855,
+                    "y": 14.3,
+                    "scY": 0.855,
+                    "x": -18.02
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 2,
+                  "transform": {
+                    "scX": 0.853,
+                    "y": 16.09,
+                    "scY": 0.853,
+                    "x": -20.27
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 4,
+                  "transform": {
+                    "scX": 0.851,
+                    "y": 17.87,
+                    "scY": 0.851,
+                    "x": -22.53
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 4,
+                  "transform": {
+                    "scX": 0.846,
+                    "y": 21.45,
+                    "scY": 0.846,
+                    "x": -27.03
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 2,
+                  "transform": {
+                    "scX": 0.842,
+                    "y": 25.02,
+                    "scY": 0.842,
+                    "x": -31.54
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 2,
+                  "transform": {
+                    "scX": 0.873,
+                    "scY": 0.873
+                  }
+                },
+                {
+                  "duration": 18,
+                  "transform": {
+                    "scX": 0.873,
+                    "scY": 0.873
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 0,
+                  "transform": {
+                    "scX": 0.855,
+                    "y": 14.3,
+                    "scY": 0.855,
+                    "x": -18.02
+                  }
+                }
+              ],
+              "name": "lizi10"
+            },
+            {
+              "frame": [
+                {
+                  "duration": 4,
+                  "transform": {
+                    "scX": 0.846,
+                    "y": -8.71,
+                    "scY": 0.846,
+                    "x": 15.36
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 2,
+                  "transform": {
+                    "scX": 0.842,
+                    "y": -10.16,
+                    "scY": 0.842,
+                    "x": 17.92
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 4,
+                  "transform": {
+                    "scX": 0.878,
+                    "y": -11.12,
+                    "scY": 0.878,
+                    "x": 19.63
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 4,
+                  "transform": {
+                    "scX": 0.95,
+                    "y": -13.06,
+                    "scY": 0.95,
+                    "x": 23.04
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 4,
+                  "transform": {
+                    "scX": 1.023,
+                    "y": -14.99,
+                    "scY": 1.023,
+                    "x": 26.45
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 2,
+                  "transform": {
+                    "scX": 1.095,
+                    "y": -16.93,
+                    "scY": 1.095,
+                    "x": 29.87
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 4,
+                  "transform": {
+                    "scX": 0.873,
+                    "scY": 0.873
+                  }
+                },
+                {
+                  "duration": 12,
+                  "transform": {
+                    "scX": 0.873,
+                    "scY": 0.873
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 0,
+                  "transform": {
+                    "scX": 0.846,
+                    "y": -8.71,
+                    "scY": 0.846,
+                    "x": 15.36
+                  }
+                }
+              ],
+              "name": "lizi11"
+            },
+            {
+              "frame": [
+                {
+                  "duration": 22,
+                  "transform": {
+                    "scX": 0.873,
+                    "scY": 0.873
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 8,
+                  "transform": {
+                    "scX": 0.853,
+                    "y": 16.09,
+                    "scY": 0.853,
+                    "x": -20.27
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 2,
+                  "transform": {
+                    "scX": 0.842,
+                    "y": 25.02,
+                    "scY": 0.842,
+                    "x": -31.54
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 4,
+                  "transform": {
+                    "scX": 0.873,
+                    "scY": 0.873
+                  }
+                }
+              ],
+              "name": "lizi12"
+            },
+            {
+              "frame": [
+                {
+                  "duration": 26,
+                  "transform": {}
+                },
+                {
+                  "duration": 10,
+                  "transform": {}
+                }
+              ],
+              "name": "shanguang1"
+            },
+            {
+              "frame": [
+                {
+                  "duration": 4,
+                  "transform": {
+                    "scX": 0.846,
+                    "y": -8.71,
+                    "scY": 0.846,
+                    "x": 15.36
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 2,
+                  "transform": {
+                    "scX": 0.842,
+                    "y": -10.16,
+                    "scY": 0.842,
+                    "x": 17.92
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 4,
+                  "transform": {
+                    "scX": 0.878,
+                    "y": -11.12,
+                    "scY": 0.878,
+                    "x": 19.63
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 4,
+                  "transform": {
+                    "scX": 0.95,
+                    "y": -13.06,
+                    "scY": 0.95,
+                    "x": 23.04
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 4,
+                  "transform": {
+                    "scX": 1.023,
+                    "y": -14.99,
+                    "scY": 1.023,
+                    "x": 26.45
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 2,
+                  "transform": {
+                    "scX": 1.095,
+                    "y": -16.93,
+                    "scY": 1.095,
+                    "x": 29.87
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 4,
+                  "transform": {
+                    "scX": 0.873,
+                    "scY": 0.873
+                  }
+                },
+                {
+                  "duration": 12,
+                  "transform": {
+                    "scX": 0.873,
+                    "scY": 0.873
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 0,
+                  "transform": {
+                    "scX": 0.846,
+                    "y": -8.71,
+                    "scY": 0.846,
+                    "x": 15.36
+                  }
+                }
+              ],
+              "name": "lizi13"
+            },
+            {
+              "frame": [
+                {
+                  "duration": 22,
+                  "transform": {
+                    "scX": 0.873,
+                    "scY": 0.873
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 8,
+                  "transform": {
+                    "scX": 0.853,
+                    "y": 16.09,
+                    "scY": 0.853,
+                    "x": -20.27
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 2,
+                  "transform": {
+                    "scX": 0.842,
+                    "y": 25.02,
+                    "scY": 0.842,
+                    "x": -31.54
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 4,
+                  "transform": {
+                    "scX": 0.873,
+                    "scY": 0.873
+                  }
+                }
+              ],
+              "name": "lizi14"
+            },
+            {
+              "frame": [
+                {
+                  "duration": 36,
+                  "transform": {}
+                }
+              ],
+              "name": "root"
+            },
+            {
+              "frame": [
+                {
+                  "duration": 36,
+                  "transform": {}
+                }
+              ],
+              "name": "dianguangqun"
+            },
+            {
+              "frame": [
+                {
+                  "duration": 36,
+                  "transform": {}
+                }
+              ],
+              "name": "bulingbuling3"
+            },
+            {
+              "frame": [
+                {
+                  "duration": 36,
+                  "transform": {}
+                }
+              ],
+              "name": "bulingbuling4"
+            },
+            {
+              "frame": [
+                {
+                  "duration": 36,
+                  "transform": {}
+                }
+              ],
+              "name": "bulingbuling5"
+            },
+            {
+              "frame": [
+                {
+                  "duration": 36,
+                  "transform": {}
+                }
+              ],
+              "name": "bulingbuling6"
+            },
+            {
+              "frame": [
+                {
+                  "duration": 36,
+                  "transform": {}
+                }
+              ],
+              "name": "bulingbuling2"
+            },
+            {
+              "frame": [
+                {
+                  "duration": 36,
+                  "transform": {}
+                }
+              ],
+              "name": "bulingbuling7"
+            },
+            {
+              "frame": [
+                {
+                  "duration": 36,
+                  "transform": {}
+                }
+              ],
+              "name": "bulingbuling"
+            }
+          ],
+          "slot": [
+            {
+              "frame": [
+                {
+                  "tweenEasing": 0,
+                  "duration": 18,
+                  "displayIndex": 1
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 18,
+                  "displayIndex": 1,
+                  "color": {
+                    "aM": 0
+                  }
+                },
+                {
+                  "tweenEasing": null,
+                  "duration": 0,
+                  "displayIndex": 1
+                }
+              ],
+              "name": "dianguang"
+            },
+            {
+              "frame": [
+                {
+                  "tweenEasing": null,
+                  "duration": 36,
+                  "displayIndex": 1
+                }
+              ],
+              "name": "dianguang2"
+            },
+            {
+              "frame": [
+                {
+                  "tweenEasing": 0,
+                  "duration": 2,
+                  "displayIndex": 1,
+                  "color": {
+                    "aM": 0
+                  }
+                },
+                {
+                  "tweenEasing": null,
+                  "duration": 4,
+                  "displayIndex": 1,
+                  "color": {
+                    "aM": 0
+                  }
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 16,
+                  "displayIndex": 1,
+                  "color": {
+                    "aM": 0
+                  }
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 12,
+                  "displayIndex": 1
+                },
+                {
+                  "tweenEasing": null,
+                  "duration": 2,
+                  "displayIndex": 1,
+                  "color": {
+                    "aM": 0
+                  }
+                }
+              ],
+              "name": "lizi"
+            },
+            {
+              "frame": [
+                {
+                  "tweenEasing": 0,
+                  "duration": 6,
+                  "displayIndex": 1,
+                  "color": {
+                    "aM": 39
+                  }
+                },
+                {
+                  "tweenEasing": null,
+                  "duration": 2,
+                  "displayIndex": 1,
+                  "color": {
+                    "aM": 0
+                  }
+                },
+                {
+                  "tweenEasing": null,
+                  "duration": 2,
+                  "displayIndex": 1,
+                  "color": {
+                    "aM": 0
+                  }
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 18,
+                  "displayIndex": 1,
+                  "color": {
+                    "aM": 0
+                  }
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 8,
+                  "displayIndex": 1
+                },
+                {
+                  "tweenEasing": null,
+                  "duration": 0,
+                  "displayIndex": 1,
+                  "color": {
+                    "aM": 39
+                  }
+                }
+              ],
+              "name": "lizi2"
+            },
+            {
+              "frame": [
+                {
+                  "tweenEasing": 0,
+                  "duration": 6,
+                  "displayIndex": 1,
+                  "color": {
+                    "aM": 56
+                  }
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 4,
+                  "displayIndex": 1,
+                  "color": {
+                    "aM": 28
+                  }
+                },
+                {
+                  "tweenEasing": null,
+                  "duration": 2,
+                  "displayIndex": 1,
+                  "color": {
+                    "aM": 0
+                  }
+                },
+                {
+                  "tweenEasing": null,
+                  "duration": 2,
+                  "displayIndex": 1,
+                  "color": {
+                    "aM": 0
+                  }
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 14,
+                  "displayIndex": 1,
+                  "color": {
+                    "aM": 0
+                  }
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 8,
+                  "displayIndex": 1
+                },
+                {
+                  "tweenEasing": null,
+                  "duration": 0,
+                  "displayIndex": 1,
+                  "color": {
+                    "aM": 56
+                  }
+                }
+              ],
+              "name": "lizi3"
+            },
+            {
+              "frame": [
+                {
+                  "tweenEasing": 0,
+                  "duration": 4,
+                  "displayIndex": 1,
+                  "color": {
+                    "aM": 88
+                  }
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 2,
+                  "displayIndex": 1
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 4,
+                  "displayIndex": 1,
+                  "color": {
+                    "aM": 79
+                  }
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 4,
+                  "displayIndex": 1,
+                  "color": {
+                    "aM": 39
+                  }
+                },
+                {
+                  "tweenEasing": null,
+                  "duration": 2,
+                  "displayIndex": 1,
+                  "color": {
+                    "aM": 0
+                  }
+                },
+                {
+                  "tweenEasing": null,
+                  "duration": 2,
+                  "displayIndex": 1,
+                  "color": {
+                    "aM": 0
+                  }
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 18,
+                  "displayIndex": 1,
+                  "color": {
+                    "aM": 0
+                  }
+                },
+                {
+                  "tweenEasing": null,
+                  "duration": 0,
+                  "displayIndex": 1,
+                  "color": {
+                    "aM": 88
+                  }
+                }
+              ],
+              "name": "lizi4"
+            },
+            {
+              "frame": [
+                {
+                  "tweenEasing": 0,
+                  "duration": 4,
+                  "displayIndex": 1,
+                  "color": {
+                    "aM": 85
+                  }
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 2,
+                  "displayIndex": 1
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 4,
+                  "displayIndex": 1,
+                  "color": {
+                    "aM": 85
+                  }
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 4,
+                  "displayIndex": 1,
+                  "color": {
+                    "aM": 56
+                  }
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 4,
+                  "displayIndex": 1,
+                  "color": {
+                    "aM": 28
+                  }
+                },
+                {
+                  "tweenEasing": null,
+                  "duration": 2,
+                  "displayIndex": 1,
+                  "color": {
+                    "aM": 0
+                  }
+                },
+                {
+                  "tweenEasing": null,
+                  "duration": 4,
+                  "displayIndex": 1,
+                  "color": {
+                    "aM": 0
+                  }
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 12,
+                  "displayIndex": 1,
+                  "color": {
+                    "aM": 0
+                  }
+                },
+                {
+                  "tweenEasing": null,
+                  "duration": 0,
+                  "displayIndex": 1,
+                  "color": {
+                    "aM": 85
+                  }
+                }
+              ],
+              "name": "lizi5"
+            },
+            {
+              "frame": [
+                {
+                  "tweenEasing": 0,
+                  "duration": 22,
+                  "displayIndex": 1,
+                  "color": {
+                    "aM": 0
+                  }
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 8,
+                  "displayIndex": 1
+                },
+                {
+                  "tweenEasing": null,
+                  "duration": 2,
+                  "displayIndex": 1,
+                  "color": {
+                    "aM": 0
+                  }
+                },
+                {
+                  "tweenEasing": null,
+                  "duration": 4,
+                  "displayIndex": 1,
+                  "color": {
+                    "aM": 0
+                  }
+                }
+              ],
+              "name": "lizi6"
+            },
+            {
+              "frame": [
+                {
+                  "tweenEasing": 0,
+                  "duration": 2,
+                  "displayIndex": 1,
+                  "color": {
+                    "aM": 0
+                  }
+                },
+                {
+                  "tweenEasing": null,
+                  "duration": 4,
+                  "displayIndex": 1,
+                  "color": {
+                    "aM": 0
+                  }
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 16,
+                  "displayIndex": 1,
+                  "color": {
+                    "aM": 0
+                  }
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 14,
+                  "displayIndex": 1
+                },
+                {
+                  "tweenEasing": null,
+                  "duration": 0,
+                  "displayIndex": 1,
+                  "color": {
+                    "aM": 0
+                  }
+                }
+              ],
+              "name": "lizi7"
+            },
+            {
+              "frame": [
+                {
+                  "tweenEasing": 0,
+                  "duration": 6,
+                  "displayIndex": 1,
+                  "color": {
+                    "aM": 39
+                  }
+                },
+                {
+                  "tweenEasing": null,
+                  "duration": 2,
+                  "displayIndex": 1,
+                  "color": {
+                    "aM": 0
+                  }
+                },
+                {
+                  "tweenEasing": null,
+                  "duration": 2,
+                  "displayIndex": 1,
+                  "color": {
+                    "aM": 0
+                  }
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 18,
+                  "displayIndex": 1,
+                  "color": {
+                    "aM": 0
+                  }
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 8,
+                  "displayIndex": 1
+                },
+                {
+                  "tweenEasing": null,
+                  "duration": 0,
+                  "displayIndex": 1,
+                  "color": {
+                    "aM": 39
+                  }
+                }
+              ],
+              "name": "lizi8"
+            },
+            {
+              "frame": [
+                {
+                  "tweenEasing": 0,
+                  "duration": 6,
+                  "displayIndex": 1,
+                  "color": {
+                    "aM": 56
+                  }
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 4,
+                  "displayIndex": 1,
+                  "color": {
+                    "aM": 28
+                  }
+                },
+                {
+                  "tweenEasing": null,
+                  "duration": 2,
+                  "displayIndex": 1,
+                  "color": {
+                    "aM": 0
+                  }
+                },
+                {
+                  "tweenEasing": null,
+                  "duration": 2,
+                  "displayIndex": 1,
+                  "color": {
+                    "aM": 0
+                  }
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 14,
+                  "displayIndex": 1,
+                  "color": {
+                    "aM": 0
+                  }
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 8,
+                  "displayIndex": 1
+                },
+                {
+                  "tweenEasing": null,
+                  "duration": 0,
+                  "displayIndex": 1,
+                  "color": {
+                    "aM": 56
+                  }
+                }
+              ],
+              "name": "lizi9"
+            },
+            {
+              "frame": [
+                {
+                  "tweenEasing": 0,
+                  "duration": 4,
+                  "displayIndex": 1,
+                  "color": {
+                    "aM": 88
+                  }
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 2,
+                  "displayIndex": 1
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 4,
+                  "displayIndex": 1,
+                  "color": {
+                    "aM": 79
+                  }
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 4,
+                  "displayIndex": 1,
+                  "color": {
+                    "aM": 39
+                  }
+                },
+                {
+                  "tweenEasing": null,
+                  "duration": 2,
+                  "displayIndex": 1,
+                  "color": {
+                    "aM": 0
+                  }
+                },
+                {
+                  "tweenEasing": null,
+                  "duration": 2,
+                  "displayIndex": 1,
+                  "color": {
+                    "aM": 0
+                  }
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 18,
+                  "displayIndex": 1,
+                  "color": {
+                    "aM": 0
+                  }
+                },
+                {
+                  "tweenEasing": null,
+                  "duration": 0,
+                  "displayIndex": 1,
+                  "color": {
+                    "aM": 88
+                  }
+                }
+              ],
+              "name": "lizi10"
+            },
+            {
+              "frame": [
+                {
+                  "tweenEasing": 0,
+                  "duration": 4,
+                  "displayIndex": 1,
+                  "color": {
+                    "aM": 85
+                  }
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 2,
+                  "displayIndex": 1
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 4,
+                  "displayIndex": 1,
+                  "color": {
+                    "aM": 85
+                  }
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 4,
+                  "displayIndex": 1,
+                  "color": {
+                    "aM": 56
+                  }
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 4,
+                  "displayIndex": 1,
+                  "color": {
+                    "aM": 28
+                  }
+                },
+                {
+                  "tweenEasing": null,
+                  "duration": 2,
+                  "displayIndex": 1,
+                  "color": {
+                    "aM": 0
+                  }
+                },
+                {
+                  "tweenEasing": null,
+                  "duration": 4,
+                  "displayIndex": 1,
+                  "color": {
+                    "aM": 0
+                  }
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 12,
+                  "displayIndex": 1,
+                  "color": {
+                    "aM": 0
+                  }
+                },
+                {
+                  "tweenEasing": null,
+                  "duration": 0,
+                  "displayIndex": 1,
+                  "color": {
+                    "aM": 85
+                  }
+                }
+              ],
+              "name": "lizi11"
+            },
+            {
+              "frame": [
+                {
+                  "tweenEasing": 0,
+                  "duration": 22,
+                  "displayIndex": -1,
+                  "color": {
+                    "aM": 0
+                  }
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 8,
+                  "displayIndex": -1
+                },
+                {
+                  "tweenEasing": null,
+                  "duration": 2,
+                  "displayIndex": -1,
+                  "color": {
+                    "aM": 0
+                  }
+                },
+                {
+                  "tweenEasing": null,
+                  "duration": 4,
+                  "displayIndex": -1,
+                  "color": {
+                    "aM": 0
+                  }
+                }
+              ],
+              "name": "lizi12"
+            },
+            {
+              "frame": [
+                {
+                  "tweenEasing": 0,
+                  "duration": 4,
+                  "displayIndex": 1,
+                  "color": {
+                    "aM": 85
+                  }
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 2,
+                  "displayIndex": 1
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 4,
+                  "displayIndex": 1,
+                  "color": {
+                    "aM": 85
+                  }
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 4,
+                  "displayIndex": 1,
+                  "color": {
+                    "aM": 56
+                  }
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 4,
+                  "displayIndex": 1,
+                  "color": {
+                    "aM": 28
+                  }
+                },
+                {
+                  "tweenEasing": null,
+                  "duration": 2,
+                  "displayIndex": 1,
+                  "color": {
+                    "aM": 0
+                  }
+                },
+                {
+                  "tweenEasing": null,
+                  "duration": 4,
+                  "displayIndex": 1,
+                  "color": {
+                    "aM": 0
+                  }
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 12,
+                  "displayIndex": 1,
+                  "color": {
+                    "aM": 0
+                  }
+                },
+                {
+                  "tweenEasing": null,
+                  "duration": 0,
+                  "displayIndex": 1,
+                  "color": {
+                    "aM": 85
+                  }
+                }
+              ],
+              "name": "lizi13"
+            },
+            {
+              "frame": [
+                {
+                  "tweenEasing": 0,
+                  "duration": 22,
+                  "displayIndex": -1,
+                  "color": {
+                    "aM": 0
+                  }
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 8,
+                  "displayIndex": -1
+                },
+                {
+                  "tweenEasing": null,
+                  "duration": 2,
+                  "displayIndex": -1,
+                  "color": {
+                    "aM": 0
+                  }
+                },
+                {
+                  "tweenEasing": null,
+                  "duration": 4,
+                  "displayIndex": -1,
+                  "color": {
+                    "aM": 0
+                  }
+                }
+              ],
+              "name": "lizi14"
+            },
+            {
+              "frame": [
+                {
+                  "tweenEasing": null,
+                  "duration": 36,
+                  "displayIndex": 1
+                }
+              ],
+              "name": "xianguang"
+            }
+          ],
+          "ffd": [],
+          "ik": [],
+          "name": "kuaisushanguan"
+        },
+        {
+          "duration": 80,
+          "frame": [],
+          "bone": [
+            {
+              "frame": [
+                {
+                  "duration": 40,
+                  "transform": {},
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 40,
+                  "transform": {
+                    "scX": 0.968,
+                    "scY": 0.968
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 0,
+                  "transform": {}
+                }
+              ],
+              "name": "shanguang"
+            },
+            {
+              "frame": [
+                {
+                  "duration": 40,
+                  "transform": {},
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 40,
+                  "transform": {
+                    "scX": 0.846,
+                    "scY": 0.846,
+                    "skX": -180,
+                    "skY": -180
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 0,
+                  "transform": {}
+                }
+              ],
+              "name": "xianguang"
+            },
+            {
+              "frame": [
+                {
+                  "duration": 1,
+                  "transform": {
+                    "scX": 1.095,
+                    "y": -16.93,
+                    "scY": 1.095,
+                    "x": 29.87
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 9,
+                  "transform": {
+                    "scX": 0.873,
+                    "scY": 0.873
+                  }
+                },
+                {
+                  "duration": 35,
+                  "transform": {
+                    "scX": 0.873,
+                    "scY": 0.873
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 35,
+                  "transform": {
+                    "scX": 0.842,
+                    "y": -10.16,
+                    "scY": 0.842,
+                    "x": 17.92
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 0,
+                  "transform": {
+                    "scX": 1.095,
+                    "y": -16.93,
+                    "scY": 1.095,
+                    "x": 29.87
+                  }
+                }
+              ],
+              "name": "lizi"
+            },
+            {
+              "frame": [
+                {
+                  "duration": 40,
+                  "transform": {},
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 40,
+                  "transform": {
+                    "scX": 0.901,
+                    "scY": 0.901
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 0,
+                  "transform": {}
+                }
+              ],
+              "name": "dianguang"
+            },
+            {
+              "frame": [
+                {
+                  "duration": 40,
+                  "transform": {},
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 40,
+                  "transform": {
+                    "scX": 0.901,
+                    "scY": 0.901
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 0,
+                  "transform": {}
+                }
+              ],
+              "name": "dianguang2"
+            },
+            {
+              "frame": [
+                {
+                  "duration": 40,
+                  "transform": {},
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 40,
+                  "transform": {
+                    "scX": 0.953,
+                    "scY": 0.953
+                  }
+                }
+              ],
+              "name": "dianguangqun"
+            },
+            {
+              "frame": [
+                {
+                  "duration": 10,
+                  "transform": {
+                    "scX": 0.846,
+                    "y": 21.45,
+                    "scY": 0.846,
+                    "x": -27.03
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 1,
+                  "transform": {
+                    "scX": 0.842,
+                    "y": 25.02,
+                    "scY": 0.842,
+                    "x": -31.54
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 9,
+                  "transform": {
+                    "scX": 0.873,
+                    "scY": 0.873
+                  }
+                },
+                {
+                  "duration": 45,
+                  "transform": {
+                    "scX": 0.873,
+                    "scY": 0.873
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 15,
+                  "transform": {
+                    "scX": 0.853,
+                    "y": 16.09,
+                    "scY": 0.853,
+                    "x": -20.27
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 0,
+                  "transform": {
+                    "scX": 0.846,
+                    "y": 21.45,
+                    "scY": 0.846,
+                    "x": -27.03
+                  }
+                }
+              ],
+              "name": "lizi2"
+            },
+            {
+              "frame": [
+                {
+                  "duration": 10,
+                  "transform": {
+                    "scX": 0.95,
+                    "y": -13.06,
+                    "scY": 0.95,
+                    "x": 23.04
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 10,
+                  "transform": {
+                    "scX": 1.023,
+                    "y": -14.99,
+                    "scY": 1.023,
+                    "x": 26.45
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 1,
+                  "transform": {
+                    "scX": 1.095,
+                    "y": -16.93,
+                    "scY": 1.095,
+                    "x": 29.87
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 9,
+                  "transform": {
+                    "scX": 0.873,
+                    "scY": 0.873
+                  }
+                },
+                {
+                  "duration": 35,
+                  "transform": {
+                    "scX": 0.873,
+                    "scY": 0.873
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 15,
+                  "transform": {
+                    "scX": 0.842,
+                    "y": -10.16,
+                    "scY": 0.842,
+                    "x": 17.92
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 0,
+                  "transform": {
+                    "scX": 0.95,
+                    "y": -13.06,
+                    "scY": 0.95,
+                    "x": 23.04
+                  }
+                }
+              ],
+              "name": "lizi3"
+            },
+            {
+              "frame": [
+                {
+                  "duration": 5,
+                  "transform": {
+                    "scX": 0.855,
+                    "y": 14.3,
+                    "scY": 0.855,
+                    "x": -18.02
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 5,
+                  "transform": {
+                    "scX": 0.853,
+                    "y": 16.09,
+                    "scY": 0.853,
+                    "x": -20.27
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 10,
+                  "transform": {
+                    "scX": 0.851,
+                    "y": 17.87,
+                    "scY": 0.851,
+                    "x": -22.53
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 10,
+                  "transform": {
+                    "scX": 0.846,
+                    "y": 21.45,
+                    "scY": 0.846,
+                    "x": -27.03
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 1,
+                  "transform": {
+                    "scX": 0.842,
+                    "y": 25.02,
+                    "scY": 0.842,
+                    "x": -31.54
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 9,
+                  "transform": {
+                    "scX": 0.873,
+                    "scY": 0.873
+                  }
+                },
+                {
+                  "duration": 40,
+                  "transform": {
+                    "scX": 0.873,
+                    "scY": 0.873
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 0,
+                  "transform": {
+                    "scX": 0.855,
+                    "y": 14.3,
+                    "scY": 0.855,
+                    "x": -18.02
+                  }
+                }
+              ],
+              "name": "lizi4"
+            },
+            {
+              "frame": [
+                {
+                  "duration": 5,
+                  "transform": {
+                    "scX": 0.846,
+                    "y": -8.71,
+                    "scY": 0.846,
+                    "x": 15.36
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 5,
+                  "transform": {
+                    "scX": 0.842,
+                    "y": -10.16,
+                    "scY": 0.842,
+                    "x": 17.92
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 10,
+                  "transform": {
+                    "scX": 0.878,
+                    "y": -11.12,
+                    "scY": 0.878,
+                    "x": 19.63
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 10,
+                  "transform": {
+                    "scX": 0.95,
+                    "y": -13.06,
+                    "scY": 0.95,
+                    "x": 23.04
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 10,
+                  "transform": {
+                    "scX": 1.023,
+                    "y": -14.99,
+                    "scY": 1.023,
+                    "x": 26.45
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 1,
+                  "transform": {
+                    "scX": 1.095,
+                    "y": -16.93,
+                    "scY": 1.095,
+                    "x": 29.87
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 9,
+                  "transform": {
+                    "scX": 0.873,
+                    "scY": 0.873
+                  }
+                },
+                {
+                  "duration": 30,
+                  "transform": {
+                    "scX": 0.873,
+                    "scY": 0.873
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 0,
+                  "transform": {
+                    "scX": 0.846,
+                    "y": -8.71,
+                    "scY": 0.846,
+                    "x": 15.36
+                  }
+                }
+              ],
+              "name": "lizi5"
+            },
+            {
+              "frame": [
+                {
+                  "duration": 45,
+                  "transform": {
+                    "scX": 0.873,
+                    "scY": 0.873
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 25,
+                  "transform": {
+                    "scX": 0.853,
+                    "y": 16.09,
+                    "scY": 0.853,
+                    "x": -20.27
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 1,
+                  "transform": {
+                    "scX": 0.842,
+                    "y": 25.02,
+                    "scY": 0.842,
+                    "x": -31.54
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 9,
+                  "transform": {
+                    "scX": 0.873,
+                    "scY": 0.873
+                  }
+                }
+              ],
+              "name": "lizi6"
+            },
+            {
+              "frame": [
+                {
+                  "duration": 80,
+                  "transform": {}
+                },
+                {
+                  "duration": 0,
+                  "transform": {}
+                }
+              ],
+              "name": "shanguang0"
+            },
+            {
+              "frame": [
+                {
+                  "duration": 1,
+                  "transform": {
+                    "scX": 1.095,
+                    "y": -16.93,
+                    "scY": 1.095,
+                    "x": 29.87
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 9,
+                  "transform": {
+                    "scX": 0.873,
+                    "scY": 0.873
+                  }
+                },
+                {
+                  "duration": 35,
+                  "transform": {
+                    "scX": 0.873,
+                    "scY": 0.873
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 35,
+                  "transform": {
+                    "scX": 0.842,
+                    "y": -10.16,
+                    "scY": 0.842,
+                    "x": 17.92
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 0,
+                  "transform": {
+                    "scX": 1.095,
+                    "y": -16.93,
+                    "scY": 1.095,
+                    "x": 29.87
+                  }
+                }
+              ],
+              "name": "lizi7"
+            },
+            {
+              "frame": [
+                {
+                  "duration": 10,
+                  "transform": {
+                    "scX": 0.846,
+                    "y": 21.45,
+                    "scY": 0.846,
+                    "x": -27.03
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 1,
+                  "transform": {
+                    "scX": 0.842,
+                    "y": 25.02,
+                    "scY": 0.842,
+                    "x": -31.54
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 9,
+                  "transform": {
+                    "scX": 0.873,
+                    "scY": 0.873
+                  }
+                },
+                {
+                  "duration": 45,
+                  "transform": {
+                    "scX": 0.873,
+                    "scY": 0.873
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 15,
+                  "transform": {
+                    "scX": 0.853,
+                    "y": 16.09,
+                    "scY": 0.853,
+                    "x": -20.27
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 0,
+                  "transform": {
+                    "scX": 0.846,
+                    "y": 21.45,
+                    "scY": 0.846,
+                    "x": -27.03
+                  }
+                }
+              ],
+              "name": "lizi8"
+            },
+            {
+              "frame": [
+                {
+                  "duration": 10,
+                  "transform": {
+                    "scX": 0.95,
+                    "y": -13.06,
+                    "scY": 0.95,
+                    "x": 23.04
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 10,
+                  "transform": {
+                    "scX": 1.023,
+                    "y": -14.99,
+                    "scY": 1.023,
+                    "x": 26.45
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 1,
+                  "transform": {
+                    "scX": 1.095,
+                    "y": -16.93,
+                    "scY": 1.095,
+                    "x": 29.87
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 9,
+                  "transform": {
+                    "scX": 0.873,
+                    "scY": 0.873
+                  }
+                },
+                {
+                  "duration": 35,
+                  "transform": {
+                    "scX": 0.873,
+                    "scY": 0.873
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 15,
+                  "transform": {
+                    "scX": 0.842,
+                    "y": -10.16,
+                    "scY": 0.842,
+                    "x": 17.92
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 0,
+                  "transform": {
+                    "scX": 0.95,
+                    "y": -13.06,
+                    "scY": 0.95,
+                    "x": 23.04
+                  }
+                }
+              ],
+              "name": "lizi9"
+            },
+            {
+              "frame": [
+                {
+                  "duration": 5,
+                  "transform": {
+                    "scX": 0.855,
+                    "y": 14.3,
+                    "scY": 0.855,
+                    "x": -18.02
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 5,
+                  "transform": {
+                    "scX": 0.853,
+                    "y": 16.09,
+                    "scY": 0.853,
+                    "x": -20.27
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 10,
+                  "transform": {
+                    "scX": 0.851,
+                    "y": 17.87,
+                    "scY": 0.851,
+                    "x": -22.53
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 10,
+                  "transform": {
+                    "scX": 0.846,
+                    "y": 21.45,
+                    "scY": 0.846,
+                    "x": -27.03
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 1,
+                  "transform": {
+                    "scX": 0.842,
+                    "y": 25.02,
+                    "scY": 0.842,
+                    "x": -31.54
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 9,
+                  "transform": {
+                    "scX": 0.873,
+                    "scY": 0.873
+                  }
+                },
+                {
+                  "duration": 40,
+                  "transform": {
+                    "scX": 0.873,
+                    "scY": 0.873
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 0,
+                  "transform": {
+                    "scX": 0.855,
+                    "y": 14.3,
+                    "scY": 0.855,
+                    "x": -18.02
+                  }
+                }
+              ],
+              "name": "lizi10"
+            },
+            {
+              "frame": [
+                {
+                  "duration": 5,
+                  "transform": {
+                    "scX": 0.846,
+                    "y": -8.71,
+                    "scY": 0.846,
+                    "x": 15.36
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 5,
+                  "transform": {
+                    "scX": 0.842,
+                    "y": -10.16,
+                    "scY": 0.842,
+                    "x": 17.92
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 10,
+                  "transform": {
+                    "scX": 0.878,
+                    "y": -11.12,
+                    "scY": 0.878,
+                    "x": 19.63
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 10,
+                  "transform": {
+                    "scX": 0.95,
+                    "y": -13.06,
+                    "scY": 0.95,
+                    "x": 23.04
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 10,
+                  "transform": {
+                    "scX": 1.023,
+                    "y": -14.99,
+                    "scY": 1.023,
+                    "x": 26.45
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 1,
+                  "transform": {
+                    "scX": 1.095,
+                    "y": -16.93,
+                    "scY": 1.095,
+                    "x": 29.87
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 9,
+                  "transform": {
+                    "scX": 0.873,
+                    "scY": 0.873
+                  }
+                },
+                {
+                  "duration": 30,
+                  "transform": {
+                    "scX": 0.873,
+                    "scY": 0.873
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 0,
+                  "transform": {
+                    "scX": 0.846,
+                    "y": -8.71,
+                    "scY": 0.846,
+                    "x": 15.36
+                  }
+                }
+              ],
+              "name": "lizi11"
+            },
+            {
+              "frame": [
+                {
+                  "duration": 45,
+                  "transform": {
+                    "scX": 0.873,
+                    "scY": 0.873
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 25,
+                  "transform": {
+                    "scX": 0.853,
+                    "y": 16.09,
+                    "scY": 0.853,
+                    "x": -20.27
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 1,
+                  "transform": {
+                    "scX": 0.842,
+                    "y": 25.02,
+                    "scY": 0.842,
+                    "x": -31.54
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 9,
+                  "transform": {
+                    "scX": 0.873,
+                    "scY": 0.873
+                  }
+                }
+              ],
+              "name": "lizi12"
+            },
+            {
+              "frame": [
+                {
+                  "duration": 80,
+                  "transform": {}
+                },
+                {
+                  "duration": 0,
+                  "transform": {}
+                }
+              ],
+              "name": "shanguang1"
+            },
+            {
+              "frame": [
+                {
+                  "duration": 5,
+                  "transform": {
+                    "scX": 0.846,
+                    "y": -8.71,
+                    "scY": 0.846,
+                    "x": 15.36
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 5,
+                  "transform": {
+                    "scX": 0.842,
+                    "y": -10.16,
+                    "scY": 0.842,
+                    "x": 17.92
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 10,
+                  "transform": {
+                    "scX": 0.878,
+                    "y": -11.12,
+                    "scY": 0.878,
+                    "x": 19.63
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 10,
+                  "transform": {
+                    "scX": 0.95,
+                    "y": -13.06,
+                    "scY": 0.95,
+                    "x": 23.04
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 10,
+                  "transform": {
+                    "scX": 1.023,
+                    "y": -14.99,
+                    "scY": 1.023,
+                    "x": 26.45
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 1,
+                  "transform": {
+                    "scX": 1.095,
+                    "y": -16.93,
+                    "scY": 1.095,
+                    "x": 29.87
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 9,
+                  "transform": {
+                    "scX": 0.873,
+                    "scY": 0.873
+                  }
+                },
+                {
+                  "duration": 30,
+                  "transform": {
+                    "scX": 0.873,
+                    "scY": 0.873
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 0,
+                  "transform": {
+                    "scX": 0.846,
+                    "y": -8.71,
+                    "scY": 0.846,
+                    "x": 15.36
+                  }
+                }
+              ],
+              "name": "lizi13"
+            },
+            {
+              "frame": [
+                {
+                  "duration": 45,
+                  "transform": {
+                    "scX": 0.873,
+                    "scY": 0.873
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 25,
+                  "transform": {
+                    "scX": 0.853,
+                    "y": 16.09,
+                    "scY": 0.853,
+                    "x": -20.27
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 1,
+                  "transform": {
+                    "scX": 0.842,
+                    "y": 25.02,
+                    "scY": 0.842,
+                    "x": -31.54
+                  },
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 9,
+                  "transform": {
+                    "scX": 0.873,
+                    "scY": 0.873
+                  }
+                }
+              ],
+              "name": "lizi14"
+            },
+            {
+              "frame": [
+                {
+                  "duration": 80,
+                  "transform": {}
+                }
+              ],
+              "name": "root"
+            },
+            {
+              "frame": [
+                {
+                  "duration": 80,
+                  "transform": {}
+                }
+              ],
+              "name": "bulingbuling3"
+            },
+            {
+              "frame": [
+                {
+                  "duration": 80,
+                  "transform": {}
+                }
+              ],
+              "name": "bulingbuling4"
+            },
+            {
+              "frame": [
+                {
+                  "duration": 80,
+                  "transform": {}
+                }
+              ],
+              "name": "bulingbuling5"
+            },
+            {
+              "frame": [
+                {
+                  "duration": 80,
+                  "transform": {}
+                }
+              ],
+              "name": "bulingbuling6"
+            },
+            {
+              "frame": [
+                {
+                  "duration": 80,
+                  "transform": {}
+                }
+              ],
+              "name": "bulingbuling2"
+            },
+            {
+              "frame": [
+                {
+                  "duration": 80,
+                  "transform": {}
+                }
+              ],
+              "name": "bulingbuling7"
+            },
+            {
+              "frame": [
+                {
+                  "duration": 80,
+                  "transform": {}
+                }
+              ],
+              "name": "bulingbuling"
+            }
+          ],
+          "slot": [
+            {
+              "frame": [
+                {
+                  "tweenEasing": null,
+                  "duration": 1,
+                  "color": {
+                    "aM": 0
+                  }
+                },
+                {
+                  "tweenEasing": null,
+                  "duration": 9,
+                  "color": {
+                    "aM": 0
+                  }
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 35,
+                  "color": {
+                    "aM": 0
+                  }
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 35
+                },
+                {
+                  "tweenEasing": null,
+                  "duration": 0,
+                  "color": {
+                    "aM": 0
+                  }
+                }
+              ],
+              "name": "lizi"
+            },
+            {
+              "frame": [
+                {
+                  "tweenEasing": 0,
+                  "duration": 10,
+                  "color": {
+                    "aM": 39
+                  }
+                },
+                {
+                  "tweenEasing": null,
+                  "duration": 1,
+                  "color": {
+                    "aM": 0
+                  }
+                },
+                {
+                  "tweenEasing": null,
+                  "duration": 9,
+                  "color": {
+                    "aM": 0
+                  }
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 45,
+                  "color": {
+                    "aM": 0
+                  }
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 15
+                },
+                {
+                  "tweenEasing": null,
+                  "duration": 0,
+                  "color": {
+                    "aM": 39
+                  }
+                }
+              ],
+              "name": "lizi2"
+            },
+            {
+              "frame": [
+                {
+                  "tweenEasing": 0,
+                  "duration": 10,
+                  "color": {
+                    "aM": 56
+                  }
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 10,
+                  "color": {
+                    "aM": 28
+                  }
+                },
+                {
+                  "tweenEasing": null,
+                  "duration": 1,
+                  "color": {
+                    "aM": 0
+                  }
+                },
+                {
+                  "tweenEasing": null,
+                  "duration": 9,
+                  "color": {
+                    "aM": 0
+                  }
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 35,
+                  "color": {
+                    "aM": 0
+                  }
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 15
+                },
+                {
+                  "tweenEasing": null,
+                  "duration": 0,
+                  "color": {
+                    "aM": 56
+                  }
+                }
+              ],
+              "name": "lizi3"
+            },
+            {
+              "frame": [
+                {
+                  "tweenEasing": 0,
+                  "duration": 5,
+                  "color": {
+                    "aM": 88
+                  }
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 5
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 10,
+                  "color": {
+                    "aM": 79
+                  }
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 10,
+                  "color": {
+                    "aM": 39
+                  }
+                },
+                {
+                  "tweenEasing": null,
+                  "duration": 1,
+                  "color": {
+                    "aM": 0
+                  }
+                },
+                {
+                  "tweenEasing": null,
+                  "duration": 9,
+                  "color": {
+                    "aM": 0
+                  }
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 40,
+                  "color": {
+                    "aM": 0
+                  }
+                },
+                {
+                  "tweenEasing": null,
+                  "duration": 0,
+                  "color": {
+                    "aM": 88
+                  }
+                }
+              ],
+              "name": "lizi4"
+            },
+            {
+              "frame": [
+                {
+                  "tweenEasing": 0,
+                  "duration": 5,
+                  "color": {
+                    "aM": 85
+                  }
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 5
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 10,
+                  "color": {
+                    "aM": 85
+                  }
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 10,
+                  "color": {
+                    "aM": 56
+                  }
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 10,
+                  "color": {
+                    "aM": 28
+                  }
+                },
+                {
+                  "tweenEasing": null,
+                  "duration": 1,
+                  "color": {
+                    "aM": 0
+                  }
+                },
+                {
+                  "tweenEasing": null,
+                  "duration": 9,
+                  "color": {
+                    "aM": 0
+                  }
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 30,
+                  "color": {
+                    "aM": 0
+                  }
+                },
+                {
+                  "tweenEasing": null,
+                  "duration": 0,
+                  "color": {
+                    "aM": 85
+                  }
+                }
+              ],
+              "name": "lizi5"
+            },
+            {
+              "frame": [
+                {
+                  "tweenEasing": 0,
+                  "duration": 45,
+                  "color": {
+                    "aM": 0
+                  }
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 25
+                },
+                {
+                  "tweenEasing": null,
+                  "duration": 1,
+                  "color": {
+                    "aM": 0
+                  }
+                },
+                {
+                  "tweenEasing": null,
+                  "duration": 9,
+                  "color": {
+                    "aM": 0
+                  }
+                }
+              ],
+              "name": "lizi6"
+            },
+            {
+              "frame": [
+                {
+                  "tweenEasing": null,
+                  "duration": 1,
+                  "displayIndex": -1,
+                  "color": {
+                    "aM": 0
+                  }
+                },
+                {
+                  "tweenEasing": null,
+                  "duration": 9,
+                  "displayIndex": -1,
+                  "color": {
+                    "aM": 0
+                  }
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 35,
+                  "displayIndex": -1,
+                  "color": {
+                    "aM": 0
+                  }
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 35,
+                  "displayIndex": -1
+                },
+                {
+                  "tweenEasing": null,
+                  "duration": 0,
+                  "displayIndex": -1,
+                  "color": {
+                    "aM": 0
+                  }
+                }
+              ],
+              "name": "lizi7"
+            },
+            {
+              "frame": [
+                {
+                  "tweenEasing": 0,
+                  "duration": 10,
+                  "displayIndex": -1,
+                  "color": {
+                    "aM": 39
+                  }
+                },
+                {
+                  "tweenEasing": null,
+                  "duration": 1,
+                  "displayIndex": -1,
+                  "color": {
+                    "aM": 0
+                  }
+                },
+                {
+                  "tweenEasing": null,
+                  "duration": 9,
+                  "displayIndex": -1,
+                  "color": {
+                    "aM": 0
+                  }
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 45,
+                  "displayIndex": -1,
+                  "color": {
+                    "aM": 0
+                  }
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 15,
+                  "displayIndex": -1
+                },
+                {
+                  "tweenEasing": null,
+                  "duration": 0,
+                  "displayIndex": -1,
+                  "color": {
+                    "aM": 39
+                  }
+                }
+              ],
+              "name": "lizi8"
+            },
+            {
+              "frame": [
+                {
+                  "tweenEasing": 0,
+                  "duration": 10,
+                  "displayIndex": -1,
+                  "color": {
+                    "aM": 56
+                  }
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 10,
+                  "displayIndex": -1,
+                  "color": {
+                    "aM": 28
+                  }
+                },
+                {
+                  "tweenEasing": null,
+                  "duration": 1,
+                  "displayIndex": -1,
+                  "color": {
+                    "aM": 0
+                  }
+                },
+                {
+                  "tweenEasing": null,
+                  "duration": 9,
+                  "displayIndex": -1,
+                  "color": {
+                    "aM": 0
+                  }
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 35,
+                  "displayIndex": -1,
+                  "color": {
+                    "aM": 0
+                  }
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 15,
+                  "displayIndex": -1
+                },
+                {
+                  "tweenEasing": null,
+                  "duration": 0,
+                  "displayIndex": -1,
+                  "color": {
+                    "aM": 56
+                  }
+                }
+              ],
+              "name": "lizi9"
+            },
+            {
+              "frame": [
+                {
+                  "tweenEasing": 0,
+                  "duration": 5,
+                  "displayIndex": -1,
+                  "color": {
+                    "aM": 88
+                  }
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 5,
+                  "displayIndex": -1
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 10,
+                  "displayIndex": -1,
+                  "color": {
+                    "aM": 79
+                  }
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 10,
+                  "displayIndex": -1,
+                  "color": {
+                    "aM": 39
+                  }
+                },
+                {
+                  "tweenEasing": null,
+                  "duration": 1,
+                  "displayIndex": -1,
+                  "color": {
+                    "aM": 0
+                  }
+                },
+                {
+                  "tweenEasing": null,
+                  "duration": 9,
+                  "displayIndex": -1,
+                  "color": {
+                    "aM": 0
+                  }
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 40,
+                  "displayIndex": -1,
+                  "color": {
+                    "aM": 0
+                  }
+                },
+                {
+                  "tweenEasing": null,
+                  "duration": 0,
+                  "displayIndex": -1,
+                  "color": {
+                    "aM": 88
+                  }
+                }
+              ],
+              "name": "lizi10"
+            },
+            {
+              "frame": [
+                {
+                  "tweenEasing": 0,
+                  "duration": 5,
+                  "displayIndex": -1,
+                  "color": {
+                    "aM": 85
+                  }
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 5,
+                  "displayIndex": -1
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 10,
+                  "displayIndex": -1,
+                  "color": {
+                    "aM": 85
+                  }
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 10,
+                  "displayIndex": -1,
+                  "color": {
+                    "aM": 56
+                  }
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 10,
+                  "displayIndex": -1,
+                  "color": {
+                    "aM": 28
+                  }
+                },
+                {
+                  "tweenEasing": null,
+                  "duration": 1,
+                  "displayIndex": -1,
+                  "color": {
+                    "aM": 0
+                  }
+                },
+                {
+                  "tweenEasing": null,
+                  "duration": 9,
+                  "displayIndex": -1,
+                  "color": {
+                    "aM": 0
+                  }
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 30,
+                  "displayIndex": -1,
+                  "color": {
+                    "aM": 0
+                  }
+                },
+                {
+                  "tweenEasing": null,
+                  "duration": 0,
+                  "displayIndex": -1,
+                  "color": {
+                    "aM": 85
+                  }
+                }
+              ],
+              "name": "lizi11"
+            },
+            {
+              "frame": [
+                {
+                  "tweenEasing": 0,
+                  "duration": 45,
+                  "displayIndex": -1,
+                  "color": {
+                    "aM": 0
+                  }
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 25,
+                  "displayIndex": -1
+                },
+                {
+                  "tweenEasing": null,
+                  "duration": 1,
+                  "displayIndex": -1,
+                  "color": {
+                    "aM": 0
+                  }
+                },
+                {
+                  "tweenEasing": null,
+                  "duration": 9,
+                  "displayIndex": -1,
+                  "color": {
+                    "aM": 0
+                  }
+                }
+              ],
+              "name": "lizi12"
+            },
+            {
+              "frame": [
+                {
+                  "tweenEasing": 0,
+                  "duration": 5,
+                  "displayIndex": -1,
+                  "color": {
+                    "aM": 85
+                  }
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 5,
+                  "displayIndex": -1
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 10,
+                  "displayIndex": -1,
+                  "color": {
+                    "aM": 85
+                  }
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 10,
+                  "displayIndex": -1,
+                  "color": {
+                    "aM": 56
+                  }
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 10,
+                  "displayIndex": -1,
+                  "color": {
+                    "aM": 28
+                  }
+                },
+                {
+                  "tweenEasing": null,
+                  "duration": 1,
+                  "displayIndex": -1,
+                  "color": {
+                    "aM": 0
+                  }
+                },
+                {
+                  "tweenEasing": null,
+                  "duration": 9,
+                  "displayIndex": -1,
+                  "color": {
+                    "aM": 0
+                  }
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 30,
+                  "displayIndex": -1,
+                  "color": {
+                    "aM": 0
+                  }
+                },
+                {
+                  "tweenEasing": null,
+                  "duration": 0,
+                  "displayIndex": -1,
+                  "color": {
+                    "aM": 85
+                  }
+                }
+              ],
+              "name": "lizi13"
+            },
+            {
+              "frame": [
+                {
+                  "tweenEasing": 0,
+                  "duration": 45,
+                  "displayIndex": -1,
+                  "color": {
+                    "aM": 0
+                  }
+                },
+                {
+                  "tweenEasing": 0,
+                  "duration": 25,
+                  "displayIndex": -1
+                },
+                {
+                  "tweenEasing": null,
+                  "duration": 1,
+                  "displayIndex": -1,
+                  "color": {
+                    "aM": 0
+                  }
+                },
+                {
+                  "tweenEasing": null,
+                  "duration": 9,
+                  "displayIndex": -1,
+                  "color": {
+                    "aM": 0
+                  }
+                }
+              ],
+              "name": "lizi14"
+            },
+            {
+              "frame": [
+                {
+                  "tweenEasing": null,
+                  "duration": 80
+                }
+              ],
+              "name": "xianguang"
+            }
+          ],
+          "ffd": [],
+          "ik": [],
+          "name": "pupongshanguan"
+        }
+      ],
+      "frameRate": 30,
+      "name": "duizhanjindutiao",
+      "skin": [
+        {
+          "name": "",
+          "slot": [
+            {
+              "display": [
+                {
+                  "path": "lizi",
+                  "type": "image",
+                  "name": "lizi",
+                  "transform": {
+                    "y": -0.04,
+                    "x": 0.2
+                  }
+                },
+                {
+                  "path": "lizi1",
+                  "type": "image",
+                  "name": "lizi9",
+                  "transform": {
+                    "y": 0.01,
+                    "skX": 50.67,
+                    "skY": 50.67,
+                    "x": 8
+                  }
+                }
+              ],
+              "blendMode": "add",
+              "name": "lizi9"
+            },
+            {
+              "display": [
+                {
+                  "path": "lizi",
+                  "type": "image",
+                  "name": "lizi",
+                  "transform": {
+                    "y": -0.04,
+                    "x": 0.2
+                  }
+                },
+                {
+                  "path": "lizi1",
+                  "type": "image",
+                  "name": "lizi10",
+                  "transform": {
+                    "y": -8,
+                    "skX": -40.87,
+                    "skY": -40.87,
+                    "x": -0.21
+                  }
+                }
+              ],
+              "blendMode": "add",
+              "name": "lizi10"
+            },
+            {
+              "display": [
+                {
+                  "path": "lizi",
+                  "type": "image",
+                  "name": "lizi",
+                  "transform": {
+                    "y": -0.04,
+                    "x": 0.2
+                  }
+                },
+                {
+                  "path": "lizi1",
+                  "type": "image",
+                  "name": "lizi11",
+                  "transform": {
+                    "y": 2.87,
+                    "skX": 80.67,
+                    "skY": 80.67,
+                    "x": 7.78
+                  }
+                }
+              ],
+              "blendMode": "add",
+              "name": "lizi11"
+            },
+            {
+              "display": [
+                {
+                  "path": "lizi",
+                  "type": "image",
+                  "name": "lizi",
+                  "transform": {
+                    "y": -0.04,
+                    "x": 0.2
+                  }
+                },
+                {
+                  "path": "lizi1",
+                  "type": "image",
+                  "name": "lizi8",
+                  "transform": {
+                    "y": -1.43,
+                    "skX": -130.87,
+                    "skY": -130.87,
+                    "x": -4.47
+                  }
+                }
+              ],
+              "blendMode": "add",
+              "name": "lizi8"
+            },
+            {
+              "display": [
+                {
+                  "path": "lizi",
+                  "type": "image",
+                  "name": "lizi",
+                  "transform": {
+                    "y": -0.04,
+                    "x": 0.2
+                  }
+                },
+                {
+                  "path": "lizi1",
+                  "type": "image",
+                  "name": "lizi1",
+                  "transform": {
+                    "y": -1.29,
+                    "skX": -99.33,
+                    "skY": -99.33,
+                    "x": 3.02
+                  }
+                }
+              ],
+              "blendMode": "add",
+              "name": "lizi"
+            },
+            {
+              "display": [
+                {
+                  "path": "lizi",
+                  "type": "image",
+                  "name": "lizi",
+                  "transform": {
+                    "y": -0.04,
+                    "x": 0.2
+                  }
+                },
+                {
+                  "path": "lizi1",
+                  "type": "image",
+                  "name": "lizi12",
+                  "transform": {
+                    "y": -7.85,
+                    "skX": -10.87,
+                    "skY": -10.87,
+                    "x": 2.66
+                  }
+                }
+              ],
+              "blendMode": "add",
+              "name": "lizi14"
+            },
+            {
+              "display": [
+                {
+                  "path": "lizi",
+                  "type": "image",
+                  "name": "lizi",
+                  "transform": {
+                    "y": -0.04,
+                    "x": 0.2
+                  }
+                },
+                {
+                  "path": "lizi1",
+                  "type": "image",
+                  "name": "lizi5",
+                  "transform": {
+                    "y": 2.57,
+                    "skX": 20.67,
+                    "skY": 20.67,
+                    "x": 4.31
+                  }
+                }
+              ],
+              "blendMode": "add",
+              "name": "lizi5"
+            },
+            {
+              "display": [
+                {
+                  "path": "lizi",
+                  "type": "image",
+                  "name": "lizi",
+                  "transform": {
+                    "y": -0.04,
+                    "x": 0.2
+                  }
+                },
+                {
+                  "path": "lizi1",
+                  "type": "image",
+                  "name": "lizi6",
+                  "transform": {
+                    "y": -4.38,
+                    "skX": -70.87,
+                    "skY": -70.87,
+                    "x": 2.46
+                  }
+                }
+              ],
+              "blendMode": "add",
+              "name": "lizi6"
+            },
+            {
+              "display": [
+                {
+                  "path": "lizi",
+                  "type": "image",
+                  "name": "lizi",
+                  "transform": {
+                    "y": -0.04,
+                    "x": 0.2
+                  }
+                },
+                {
+                  "path": "lizi1",
+                  "type": "image",
+                  "name": "lizi11",
+                  "transform": {
+                    "y": 2.87,
+                    "skX": 80.67,
+                    "skY": 80.67,
+                    "x": 7.78
+                  }
+                }
+              ],
+              "blendMode": "add",
+              "name": "lizi13"
+            },
+            {
+              "display": [
+                {
+                  "path": "lizi",
+                  "type": "image",
+                  "name": "lizi",
+                  "transform": {
+                    "y": -0.04,
+                    "x": 0.2
+                  }
+                },
+                {
+                  "path": "lizi1",
+                  "type": "image",
+                  "name": "lizi4",
+                  "transform": {
+                    "y": -4.89,
+                    "skX": -100.87,
+                    "skY": -100.87,
+                    "x": 1.35
+                  }
+                }
+              ],
+              "blendMode": "add",
+              "name": "lizi4"
+            },
+            {
+              "display": [
+                {
+                  "path": "lizi",
+                  "type": "image",
+                  "name": "lizi",
+                  "transform": {
+                    "y": -0.04,
+                    "x": 0.2
+                  }
+                },
+                {
+                  "path": "lizi1",
+                  "type": "image",
+                  "name": "lizi3",
+                  "transform": {
+                    "y": 1.49,
+                    "skX": -9.33,
+                    "skY": -9.33,
+                    "x": 4.86
+                  }
+                }
+              ],
+              "blendMode": "add",
+              "name": "lizi3"
+            },
+            {
+              "display": [
+                {
+                  "path": "lizi",
+                  "type": "image",
+                  "name": "lizi",
+                  "transform": {
+                    "y": -0.04,
+                    "x": 0.2
+                  }
+                },
+                {
+                  "path": "lizi1",
+                  "type": "image",
+                  "name": "lizi2",
+                  "transform": {
+                    "y": -2.99,
+                    "skX": 169.13,
+                    "skY": 169.13,
+                    "x": -1.37
+                  }
+                }
+              ],
+              "blendMode": "add",
+              "name": "lizi2"
+            },
+            {
+              "display": [
+                {
+                  "path": "xianguang",
+                  "type": "image",
+                  "name": "xianguang",
+                  "transform": {
+                    "y": -1.24,
+                    "x": 0.21
+                  }
+                },
+                {
+                  "path": "xianguang1",
+                  "type": "image",
+                  "name": "xianguang1",
+                  "transform": {
+                    "y": -0.51,
+                    "x": -0.51
+                  }
+                }
+              ],
+              "blendMode": "add",
+              "name": "xianguang"
+            },
+            {
+              "display": [
+                {
+                  "path": "dianguang",
+                  "type": "image",
+                  "name": "dianguang",
+                  "transform": {
+                    "y": -2.2,
+                    "x": 0.73
+                  }
+                },
+                {
+                  "path": "lizi1",
+                  "type": "image",
+                  "name": "dianguang2",
+                  "transform": {
+                    "y": 1.69,
+                    "x": -0.3
+                  }
+                }
+              ],
+              "blendMode": "add",
+              "name": "dianguang2"
+            },
+            {
+              "display": [
+                {
+                  "path": "lizi1",
+                  "type": "image",
+                  "name": "lizi",
+                  "transform": {
+                    "y": -0.04,
+                    "x": 0.2
+                  }
+                },
+                {
+                  "path": "lizi1",
+                  "type": "image",
+                  "name": "lizi7",
+                  "transform": {
+                    "y": -4.43,
+                    "skX": -39.33,
+                    "skY": -39.33,
+                    "x": 1.55
+                  }
+                }
+              ],
+              "blendMode": "add",
+              "name": "lizi7"
+            },
+            {
+              "display": [
+                {
+                  "path": "lizi",
+                  "type": "image",
+                  "name": "lizi",
+                  "transform": {
+                    "y": -0.04,
+                    "x": 0.2
+                  }
+                },
+                {
+                  "path": "lizi1",
+                  "type": "image",
+                  "name": "lizi12",
+                  "transform": {
+                    "y": -7.85,
+                    "skX": -10.87,
+                    "skY": -10.87,
+                    "x": 2.66
+                  }
+                }
+              ],
+              "blendMode": "add",
+              "name": "lizi12"
+            },
+            {
+              "display": [
+                {
+                  "path": "dianguang",
+                  "type": "image",
+                  "name": "dianguang",
+                  "transform": {
+                    "y": -2.2,
+                    "x": 0.73
+                  }
+                },
+                {
+                  "path": "dianguang1",
+                  "type": "image",
+                  "name": "dianguang1",
+                  "transform": {
+                    "y": 1.69,
+                    "x": -0.3
+                  }
+                }
+              ],
+              "blendMode": "add",
+              "name": "dianguang"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "name": "duizhanjindutiao",
+  "version": "5.0"
+}

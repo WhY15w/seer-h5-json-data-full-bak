@@ -1,0 +1,69 @@
+{
+  "SubTexture": [
+    {
+      "name": "touying",
+      "x": 140,
+      "width": 80,
+      "y": 222,
+      "height": 48
+    },
+    {
+      "name": "补间 2",
+      "x": 302,
+      "width": 148,
+      "y": 122,
+      "height": 113
+    },
+    {
+      "name": "补间 22",
+      "x": 382,
+      "width": 123,
+      "y": 0,
+      "height": 120
+    },
+    {
+      "name": "补间 33",
+      "x": 0,
+      "width": 145,
+      "y": 95,
+      "height": 118
+    },
+    {
+      "name": "补间 39",
+      "x": 215,
+      "width": 165,
+      "y": 0,
+      "height": 110
+    },
+    {
+      "name": "重复项目文件夹/touying",
+      "x": 222,
+      "width": 80,
+      "y": 237,
+      "height": 48
+    },
+    {
+      "name": "重复项目文件夹/补间 33",
+      "x": 147,
+      "width": 153,
+      "y": 112,
+      "height": 108
+    },
+    {
+      "name": "重复项目文件夹/补间 22",
+      "x": 0,
+      "width": 138,
+      "y": 215,
+      "height": 118
+    },
+    {
+      "name": "shadow",
+      "x": 0,
+      "width": 213,
+      "y": 0,
+      "height": 93
+    }
+  ],
+  "name": "show_nonoPet_700828",
+  "imagePath": "texture.png"
+}

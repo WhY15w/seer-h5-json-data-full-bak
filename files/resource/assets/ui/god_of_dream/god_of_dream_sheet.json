@@ -1,0 +1,535 @@
+{
+  "file": "god_of_dream_sheet.png",
+  "frames": {
+    "god_of_dream_all_pop_imgpet1_png": {
+      "x": 1841,
+      "y": 1,
+      "w": 151,
+      "h": 201,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 151,
+      "sourceH": 201
+    },
+    "god_of_dream_all_pop_imgpet2_png": {
+      "x": 939,
+      "y": 471,
+      "w": 151,
+      "h": 201,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 151,
+      "sourceH": 201
+    },
+    "god_of_dream_all_pop_imgpet3_png": {
+      "x": 1745,
+      "y": 551,
+      "w": 151,
+      "h": 201,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 151,
+      "sourceH": 201
+    },
+    "god_of_dream_bad_pop1_emzq_png": {
+      "x": 1,
+      "y": 681,
+      "w": 520,
+      "h": 283,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 520,
+      "sourceH": 283
+    },
+    "god_of_dream_bad_pop2_emzq_png": {
+      "x": 1233,
+      "y": 1,
+      "w": 606,
+      "h": 340,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 606,
+      "sourceH": 340
+    },
+    "god_of_dream_good_buy_it_png": {
+      "x": 1898,
+      "y": 603,
+      "w": 135,
+      "h": 46,
+      "offX": 0,
+      "offY": 2,
+      "sourceW": 135,
+      "sourceH": 50
+    },
+    "god_of_dream_good_pop1_btnclose_png": {
+      "x": 1994,
+      "y": 53,
+      "w": 29,
+      "h": 27,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 29,
+      "sourceH": 27
+    },
+    "god_of_dream_good_pop1_btnget_png": {
+      "x": 394,
+      "y": 1052,
+      "w": 87,
+      "h": 34,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 87,
+      "sourceH": 34
+    },
+    "god_of_dream_good_pop1_mmzq_png": {
+      "x": 1313,
+      "y": 729,
+      "w": 430,
+      "h": 258,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 430,
+      "sourceH": 258
+    },
+    "god_of_dream_good_pop2_btncure_png": {
+      "x": 1,
+      "y": 1012,
+      "w": 56,
+      "h": 56,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 56,
+      "sourceH": 56
+    },
+    "god_of_dream_good_pop2_btnfastbeat_png": {
+      "x": 1898,
+      "y": 651,
+      "w": 135,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 135,
+      "sourceH": 46
+    },
+    "god_of_dream_good_pop2_btnfight_png": {
+      "x": 1092,
+      "y": 523,
+      "w": 137,
+      "h": 50,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 137,
+      "sourceH": 50
+    },
+    "god_of_dream_good_pop2_btnpet_png": {
+      "x": 1991,
+      "y": 828,
+      "w": 56,
+      "h": 56,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 56,
+      "sourceH": 56
+    },
+    "god_of_dream_good_pop2_jbmmdz_png": {
+      "x": 1,
+      "y": 387,
+      "w": 529,
+      "h": 292,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 529,
+      "sourceH": 292
+    },
+    "god_of_dream_main_panel_btnaddshowtime_png": {
+      "x": 1994,
+      "y": 82,
+      "w": 21,
+      "h": 21,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 21,
+      "sourceH": 21
+    },
+    "god_of_dream_main_panel_btnbuyball_png": {
+      "x": 1092,
+      "y": 575,
+      "w": 135,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 135,
+      "sourceH": 46
+    },
+    "god_of_dream_main_panel_btnclose_png": {
+      "x": 2025,
+      "y": 53,
+      "w": 21,
+      "h": 31,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 21,
+      "sourceH": 31
+    },
+    "god_of_dream_main_panel_btngetke_png": {
+      "x": 394,
+      "y": 1016,
+      "w": 87,
+      "h": 34,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 87,
+      "sourceH": 34
+    },
+    "god_of_dream_main_panel_btnke_png": {
+      "x": 1963,
+      "y": 954,
+      "w": 66,
+      "h": 63,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 66,
+      "sourceH": 63
+    },
+    "god_of_dream_main_panel_btnpet_png": {
+      "x": 1910,
+      "y": 828,
+      "w": 79,
+      "h": 78,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 79,
+      "sourceH": 78
+    },
+    "god_of_dream_main_panel_btnseebonus_png": {
+      "x": 1898,
+      "y": 551,
+      "w": 136,
+      "h": 50,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 136,
+      "sourceH": 50
+    },
+    "god_of_dream_main_panel_btnte_png": {
+      "x": 1994,
+      "y": 1,
+      "w": 45,
+      "h": 50,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 45,
+      "sourceH": 50
+    },
+    "god_of_dream_main_panel_btnwu_png": {
+      "x": 335,
+      "y": 1010,
+      "w": 57,
+      "h": 60,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 57,
+      "sourceH": 60
+    },
+    "god_of_dream_main_panel_img1_png": {
+      "x": 1745,
+      "y": 828,
+      "w": 163,
+      "h": 44,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 163,
+      "sourceH": 44
+    },
+    "god_of_dream_main_panel_img10_png": {
+      "x": 413,
+      "y": 966,
+      "w": 101,
+      "h": 48,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 101,
+      "sourceH": 48
+    },
+    "god_of_dream_main_panel_img12_png": {
+      "x": 137,
+      "y": 1010,
+      "w": 99,
+      "h": 48,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 99,
+      "sourceH": 48
+    },
+    "god_of_dream_main_panel_img14_png": {
+      "x": 238,
+      "y": 1010,
+      "w": 95,
+      "h": 48,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 95,
+      "sourceH": 48
+    },
+    "god_of_dream_main_panel_img17_png": {
+      "x": 532,
+      "y": 387,
+      "w": 228,
+      "h": 62,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 228,
+      "sourceH": 62
+    },
+    "god_of_dream_main_panel_img18_png": {
+      "x": 763,
+      "y": 1,
+      "w": 468,
+      "h": 468,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 468,
+      "sourceH": 468
+    },
+    "god_of_dream_main_panel_img19_png": {
+      "x": 1233,
+      "y": 343,
+      "w": 469,
+      "h": 384,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 469,
+      "sourceH": 384
+    },
+    "god_of_dream_main_panel_img2_png": {
+      "x": 1841,
+      "y": 316,
+      "w": 202,
+      "h": 22,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 202,
+      "sourceH": 22
+    },
+    "god_of_dream_main_panel_img3_png": {
+      "x": 1313,
+      "y": 989,
+      "w": 648,
+      "h": 61,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 648,
+      "sourceH": 61
+    },
+    "god_of_dream_main_panel_img4_png": {
+      "x": 1704,
+      "y": 343,
+      "w": 321,
+      "h": 206,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 321,
+      "sourceH": 206
+    },
+    "god_of_dream_main_panel_img5_png": {
+      "x": 939,
+      "y": 674,
+      "w": 269,
+      "h": 52,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 269,
+      "sourceH": 52
+    },
+    "god_of_dream_main_panel_img6_png": {
+      "x": 532,
+      "y": 451,
+      "w": 70,
+      "h": 17,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 70,
+      "sourceH": 17
+    },
+    "god_of_dream_main_panel_img7_png": {
+      "x": 2017,
+      "y": 86,
+      "w": 23,
+      "h": 15,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 23,
+      "sourceH": 15
+    },
+    "god_of_dream_main_panel_img8_png": {
+      "x": 1898,
+      "y": 699,
+      "w": 124,
+      "h": 48,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 124,
+      "sourceH": 48
+    },
+    "god_of_dream_main_panel_img9_png": {
+      "x": 1841,
+      "y": 204,
+      "w": 110,
+      "h": 110,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 110,
+      "sourceH": 110
+    },
+    "god_of_dream_main_panel_imgbadball1_png": {
+      "x": 1,
+      "y": 966,
+      "w": 134,
+      "h": 44,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 134,
+      "sourceH": 44
+    },
+    "god_of_dream_main_panel_imgbadball2_png": {
+      "x": 939,
+      "y": 729,
+      "w": 372,
+      "h": 372,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 372,
+      "sourceH": 372
+    },
+    "god_of_dream_main_panel_imgenterdream_png": {
+      "x": 137,
+      "y": 966,
+      "w": 136,
+      "h": 42,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 136,
+      "sourceH": 42
+    },
+    "god_of_dream_main_panel_imggoodball1_png": {
+      "x": 1745,
+      "y": 920,
+      "w": 134,
+      "h": 44,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 134,
+      "sourceH": 44
+    },
+    "god_of_dream_main_panel_imggoodball2_png": {
+      "x": 523,
+      "y": 842,
+      "w": 366,
+      "h": 269,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 366,
+      "sourceH": 269
+    },
+    "god_of_dream_main_panel_imghaske_png": {
+      "x": 1313,
+      "y": 1052,
+      "w": 110,
+      "h": 22,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 110,
+      "sourceH": 22
+    },
+    "god_of_dream_main_panel_imgnotshow1_png": {
+      "x": 1745,
+      "y": 874,
+      "w": 163,
+      "h": 44,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 163,
+      "sourceH": 44
+    },
+    "god_of_dream_main_panel_imgnotshow2_png": {
+      "x": 1953,
+      "y": 204,
+      "w": 73,
+      "h": 101,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 73,
+      "sourceH": 101
+    },
+    "god_of_dream_main_panel_imgshowdream_png": {
+      "x": 275,
+      "y": 966,
+      "w": 136,
+      "h": 42,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 136,
+      "sourceH": 42
+    },
+    "god_of_dream_main_panel_imgunrealball1_png": {
+      "x": 1910,
+      "y": 908,
+      "w": 134,
+      "h": 44,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 134,
+      "sourceH": 44
+    },
+    "god_of_dream_main_panel_imgunrealball2_png": {
+      "x": 532,
+      "y": 471,
+      "w": 405,
+      "h": 369,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 405,
+      "sourceH": 369
+    },
+    "god_of_dream_main_panel_txttask_png": {
+      "x": 1745,
+      "y": 754,
+      "w": 257,
+      "h": 72,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 257,
+      "sourceH": 72
+    },
+    "god_of_dream_unreal_pop_btn1_png": {
+      "x": 1092,
+      "y": 471,
+      "w": 137,
+      "h": 50,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 137,
+      "sourceH": 50
+    },
+    "god_of_dream_unreal_pop_btnfastshow_png": {
+      "x": 1092,
+      "y": 623,
+      "w": 135,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 135,
+      "sourceH": 46
+    },
+    "god_of_dream_unreal_pop_hmzq_png": {
+      "x": 1,
+      "y": 1,
+      "w": 760,
+      "h": 384,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 760,
+      "sourceH": 384
+    }
+  }
+}

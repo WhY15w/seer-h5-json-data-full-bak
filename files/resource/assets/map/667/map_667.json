@@ -1,0 +1,40 @@
+{
+  "groups": [
+    {
+      "keys": "road_667,exml_667,map_667_bg_mc_jpg,map_667_aa_png,map_667_bb_png,map_667_top_mc_png",
+      "name": "map_667"
+    }
+  ],
+  "resources": [
+    {
+      "type": "json",
+      "url": "667.json",
+      "name": "road_667"
+    },
+    {
+      "type": "text",
+      "url": "Map667Skin.exml",
+      "name": "exml_667"
+    },
+    {
+      "type": "image",
+      "url": "map_667_bg_mc.jpg",
+      "name": "map_667_bg_mc_jpg"
+    },
+    {
+      "type": "image",
+      "url": "map_667_aa.png",
+      "name": "map_667_aa_png"
+    },
+    {
+      "type": "image",
+      "url": "map_667_bb.png",
+      "name": "map_667_bb_png"
+    },
+    {
+      "type": "image",
+      "url": "map_667_top_mc.png",
+      "name": "map_667_top_mc_png"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "groups": [
+    {
+      "name": "new_seer_welfare",
+      "keys": "new_seer_welfare_sheet,xinshouqiri_atlas,xinshouqiri_json,xinshouqiri_png"
+    }
+  ],
+  "resources": [
+    {
+      "name": "xinshouqiri_atlas",
+      "type": "text",
+      "url": "new_seer_welfare/outside/xinshouqiri.atlas"
+    },
+    {
+      "name": "xinshouqiri_json",
+      "type": "json",
+      "url": "new_seer_welfare/outside/xinshouqiri.json"
+    },
+    {
+      "name": "xinshouqiri_png",
+      "type": "image",
+      "url": "new_seer_welfare/outside/xinshouqiri.png"
+    },
+    {
+      "name": "new_seer_welfare_sheet",
+      "type": "sheet",
+      "url": "new_seer_welfare/new_seer_welfare_sheet.json",
+      "subkeys": "markdraw_main_panel2_heise_png,markdraw_main_panel2_juxing_1_png,markdraw_main_panel2_selected_png,markdraw_main_panel2_xian_png,new_seer_welfare_btnback_png,nns7s_main_panel_redpoint_png"
+    }
+  ]
+}

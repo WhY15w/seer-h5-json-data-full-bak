@@ -1,0 +1,40 @@
+{
+  "groups": [
+    {
+      "keys": "road_948,map_948_bg_mc_png,map_948_control_mc_png,map_948_buttonLevel_png,map_948_top_mc_png,exml_948",
+      "name": "map_948"
+    }
+  ],
+  "resources": [
+    {
+      "type": "json",
+      "url": "948.json",
+      "name": "road_948"
+    },
+    {
+      "type": "image",
+      "url": "map_948_bg_mc.png",
+      "name": "map_948_bg_mc_png"
+    },
+    {
+      "type": "image",
+      "url": "map_948_control_mc.png",
+      "name": "map_948_control_mc_png"
+    },
+    {
+      "type": "image",
+      "url": "map_948_buttonLevel.png",
+      "name": "map_948_buttonLevel_png"
+    },
+    {
+      "type": "image",
+      "url": "map_948_top_mc.png",
+      "name": "map_948_top_mc_png"
+    },
+    {
+      "name": "exml_948",
+      "type": "text",
+      "url": "Map948Skin.exml"
+    }
+  ]
+}

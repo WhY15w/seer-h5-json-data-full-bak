@@ -1,0 +1,835 @@
+{
+  "file": "mall_sheet.png",
+  "frames": {
+    "mall_big_gift_item_imgbg_png": {
+      "x": 1,
+      "y": 326,
+      "w": 282,
+      "h": 484,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 282,
+      "sourceH": 484
+    },
+    "mall_big_gift_item_imgbuybg_png": {
+      "x": 1,
+      "y": 1365,
+      "w": 230,
+      "h": 49,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 230,
+      "sourceH": 49
+    },
+    "mall_big_gift_item_imgrestrice_png": {
+      "x": 759,
+      "y": 1438,
+      "w": 190,
+      "h": 22,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 190,
+      "sourceH": 22
+    },
+    "mall_big_gift_item_imgtag_png": {
+      "x": 613,
+      "y": 1320,
+      "w": 66,
+      "h": 25,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 66,
+      "sourceH": 25
+    },
+    "mall_big_gift_item_petTitleBg_png": {
+      "x": 1,
+      "y": 812,
+      "w": 234,
+      "h": 96,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 234,
+      "sourceH": 96
+    },
+    "mall_big_gift_item_reward_bg1_png": {
+      "x": 347,
+      "y": 1257,
+      "w": 234,
+      "h": 70,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 234,
+      "sourceH": 70
+    },
+    "mall_big_gift_item_reward_bg2_png": {
+      "x": 645,
+      "y": 1257,
+      "w": 52,
+      "h": 52,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 52,
+      "sourceH": 52
+    },
+    "mall_big_gift_item_skill_png": {
+      "x": 978,
+      "y": 48,
+      "w": 41,
+      "h": 43,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 41,
+      "sourceH": 43
+    },
+    "mall_big_gift_item_special_png": {
+      "x": 978,
+      "y": 93,
+      "w": 43,
+      "h": 34,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 43,
+      "sourceH": 34
+    },
+    "mall_btnsearch_png": {
+      "x": 978,
+      "y": 324,
+      "w": 29,
+      "h": 29,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 29,
+      "sourceH": 29
+    },
+    "mall_down3_png": {
+      "x": 832,
+      "y": 1479,
+      "w": 101,
+      "h": 33,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 101,
+      "sourceH": 33
+    },
+    "mall_dress_up_item_img2_png": {
+      "x": 805,
+      "y": 964,
+      "w": 215,
+      "h": 255,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 215,
+      "sourceH": 255
+    },
+    "mall_exchange_view_imgrefresh_png": {
+      "x": 935,
+      "y": 1479,
+      "w": 88,
+      "h": 35,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 88,
+      "sourceH": 35
+    },
+    "mall_gift_buy_item_imgbg_png": {
+      "x": 347,
+      "y": 1329,
+      "w": 264,
+      "h": 59,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 264,
+      "sourceH": 59
+    },
+    "mall_gift_buy_pop_btnadd_png": {
+      "x": 978,
+      "y": 385,
+      "w": 29,
+      "h": 28,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 29,
+      "sourceH": 28
+    },
+    "mall_gift_buy_pop_btnclose_png": {
+      "x": 442,
+      "y": 477,
+      "w": 25,
+      "h": 23,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 25,
+      "sourceH": 23
+    },
+    "mall_gift_buy_pop_btnreduce_png": {
+      "x": 442,
+      "y": 416,
+      "w": 29,
+      "h": 28,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 29,
+      "sourceH": 28
+    },
+    "mall_gift_buy_pop_imgbg_png": {
+      "x": 1,
+      "y": 1,
+      "w": 492,
+      "h": 323,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 492,
+      "sourceH": 323
+    },
+    "mall_gift_buy_pop_imgbuy_png": {
+      "x": 163,
+      "y": 1428,
+      "w": 159,
+      "h": 34,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 159,
+      "sourceH": 34
+    },
+    "mall_gift_buy_pop_imgcoin_png": {
+      "x": 1000,
+      "y": 264,
+      "w": 21,
+      "h": 22,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 21,
+      "sourceH": 22
+    },
+    "mall_gift_buy_pop_imgslide1_png": {
+      "x": 759,
+      "y": 1462,
+      "w": 236,
+      "h": 15,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 236,
+      "sourceH": 15
+    },
+    "mall_gift_buy_pop_imgslide2_png": {
+      "x": 1,
+      "y": 1344,
+      "w": 112,
+      "h": 13,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 112,
+      "sourceH": 13
+    },
+    "mall_gift_buy_pop_imgsliderect_png": {
+      "x": 978,
+      "y": 157,
+      "w": 30,
+      "h": 39,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 30,
+      "sourceH": 39
+    },
+    "mall_gift_item_img1_png": {
+      "x": 473,
+      "y": 386,
+      "w": 17,
+      "h": 17,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 17,
+      "sourceH": 17
+    },
+    "mall_gift_item_img2_png": {
+      "x": 324,
+      "y": 1453,
+      "w": 139,
+      "h": 30,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 139,
+      "sourceH": 30
+    },
+    "mall_gift_item_img3_png": {
+      "x": 844,
+      "y": 728,
+      "w": 146,
+      "h": 173,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 146,
+      "sourceH": 173
+    },
+    "mall_gift_item_img5_png": {
+      "x": 423,
+      "y": 1418,
+      "w": 172,
+      "h": 33,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 172,
+      "sourceH": 33
+    },
+    "mall_gift_item_imgcheap_png": {
+      "x": 583,
+      "y": 1257,
+      "w": 60,
+      "h": 61,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 60,
+      "sourceH": 61
+    },
+    "mall_gift_item_imgcountdown_png": {
+      "x": 978,
+      "y": 446,
+      "w": 40,
+      "h": 18,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 40,
+      "sourceH": 18
+    },
+    "mall_gift_item_imgtime_png": {
+      "x": 233,
+      "y": 1390,
+      "w": 188,
+      "h": 36,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 188,
+      "sourceH": 36
+    },
+    "mall_imggou_png": {
+      "x": 473,
+      "y": 405,
+      "w": 16,
+      "h": 12,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 16,
+      "sourceH": 12
+    },
+    "mall_imggoubg_png": {
+      "x": 1000,
+      "y": 239,
+      "w": 23,
+      "h": 23,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 23,
+      "sourceH": 23
+    },
+    "mall_imgsearchbg_png": {
+      "x": 597,
+      "y": 1438,
+      "w": 160,
+      "h": 29,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 160,
+      "sourceH": 29
+    },
+    "mall_img_reddot_png": {
+      "x": 978,
+      "y": 1,
+      "w": 43,
+      "h": 45,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 43,
+      "sourceH": 45
+    },
+    "mall_recharge_btn_png": {
+      "x": 355,
+      "y": 1485,
+      "w": 87,
+      "h": 34,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 87,
+      "sourceH": 34
+    },
+    "mall_recharge_img1_png": {
+      "x": 423,
+      "y": 1390,
+      "w": 254,
+      "h": 26,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 254,
+      "sourceH": 26
+    },
+    "mall_recharge_img2_png": {
+      "x": 1,
+      "y": 1416,
+      "w": 160,
+      "h": 38,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 160,
+      "sourceH": 38
+    },
+    "mall_recharge_item_img4_png": {
+      "x": 444,
+      "y": 1486,
+      "w": 133,
+      "h": 21,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 133,
+      "sourceH": 21
+    },
+    "mall_recharge_item_imgbg_png": {
+      "x": 442,
+      "y": 575,
+      "w": 309,
+      "h": 234,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 309,
+      "sourceH": 234
+    },
+    "mall_recharge_item_imgfirst_png": {
+      "x": 701,
+      "y": 1116,
+      "w": 86,
+      "h": 86,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 86,
+      "sourceH": 86
+    },
+    "mall_recharge_item_imghot_png": {
+      "x": 285,
+      "y": 1072,
+      "w": 114,
+      "h": 31,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 114,
+      "sourceH": 31
+    },
+    "mall_recharge_item_imgicon1_png": {
+      "x": 1,
+      "y": 1225,
+      "w": 177,
+      "h": 117,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 177,
+      "sourceH": 117
+    },
+    "mall_recharge_item_imgicon2_png": {
+      "x": 507,
+      "y": 1116,
+      "w": 192,
+      "h": 139,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 192,
+      "sourceH": 139
+    },
+    "mall_recharge_item_imgicon3_png": {
+      "x": 180,
+      "y": 1248,
+      "w": 165,
+      "h": 115,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 165,
+      "sourceH": 115
+    },
+    "mall_recharge_item_imgicon4_png": {
+      "x": 285,
+      "y": 1116,
+      "w": 220,
+      "h": 130,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 220,
+      "sourceH": 130
+    },
+    "mall_recharge_item_imgicon5_png": {
+      "x": 753,
+      "y": 575,
+      "w": 260,
+      "h": 151,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 260,
+      "sourceH": 151
+    },
+    "mall_recharge_item_imgicon6_png": {
+      "x": 1,
+      "y": 1072,
+      "w": 282,
+      "h": 151,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 282,
+      "sourceH": 151
+    },
+    "mall_recharge_item_num_png": {
+      "x": 978,
+      "y": 291,
+      "w": 31,
+      "h": 31,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 31,
+      "sourceH": 31
+    },
+    "mall_recharge_panel_btnadddiamond_png": {
+      "x": 471,
+      "y": 469,
+      "w": 21,
+      "h": 21,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 21,
+      "sourceH": 21
+    },
+    "mall_recharge_panel_btnclose_png": {
+      "x": 978,
+      "y": 198,
+      "w": 29,
+      "h": 39,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 29,
+      "sourceH": 39
+    },
+    "mall_recharge_panel_img2_png": {
+      "x": 978,
+      "y": 129,
+      "w": 45,
+      "h": 26,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 45,
+      "sourceH": 26
+    },
+    "mall_recharge_panel_img3_png": {
+      "x": 442,
+      "y": 446,
+      "w": 27,
+      "h": 29,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 27,
+      "sourceH": 29
+    },
+    "mall_recharge_panel_imgleft_png": {
+      "x": 285,
+      "y": 326,
+      "w": 155,
+      "h": 592,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 155,
+      "sourceH": 592
+    },
+    "mall_recharge_panel_imgtitle_png": {
+      "x": 465,
+      "y": 1453,
+      "w": 129,
+      "h": 31,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 129,
+      "sourceH": 31
+    },
+    "mall_recharge_pop_btnconfirm_png": {
+      "x": 815,
+      "y": 1390,
+      "w": 134,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 134,
+      "sourceH": 46
+    },
+    "mall_recharge_pop_btnexchange100_png": {
+      "x": 714,
+      "y": 1479,
+      "w": 116,
+      "h": 29,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 116,
+      "sourceH": 29
+    },
+    "mall_recharge_pop_btnexchange1000_png": {
+      "x": 134,
+      "y": 1464,
+      "w": 116,
+      "h": 29,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 116,
+      "sourceH": 29
+    },
+    "mall_recharge_pop_btnexchange500_png": {
+      "x": 596,
+      "y": 1469,
+      "w": 116,
+      "h": 29,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 116,
+      "sourceH": 29
+    },
+    "mall_recharge_pop_icon2_png": {
+      "x": 495,
+      "y": 1,
+      "w": 481,
+      "h": 285,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 481,
+      "sourceH": 285
+    },
+    "mall_recharge_pop_juxing_923_png": {
+      "x": 613,
+      "y": 1349,
+      "w": 292,
+      "h": 39,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 292,
+      "sourceH": 39
+    },
+    "mall_recharge_pop_micoin_png": {
+      "x": 978,
+      "y": 489,
+      "w": 28,
+      "h": 20,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 28,
+      "sourceH": 20
+    },
+    "mall_recommend_panel_btngo1_png": {
+      "x": 844,
+      "y": 903,
+      "w": 157,
+      "h": 47,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 157,
+      "sourceH": 47
+    },
+    "mall_recommend_panel_btngo2_png": {
+      "x": 1,
+      "y": 1487,
+      "w": 90,
+      "h": 31,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 90,
+      "sourceH": 31
+    },
+    "mall_recommend_panel_img2_png": {
+      "x": 1,
+      "y": 920,
+      "w": 400,
+      "h": 150,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 400,
+      "sourceH": 150
+    },
+    "mall_recommend_panel_img3_png": {
+      "x": 403,
+      "y": 964,
+      "w": 400,
+      "h": 150,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 400,
+      "sourceH": 150
+    },
+    "mall_recommend_panel_img4_png": {
+      "x": 442,
+      "y": 811,
+      "w": 400,
+      "h": 151,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 400,
+      "sourceH": 151
+    },
+    "mall_skin_item_btnhc_png": {
+      "x": 471,
+      "y": 446,
+      "w": 21,
+      "h": 21,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 21,
+      "sourceH": 21
+    },
+    "mall_skin_item_img1_png": {
+      "x": 978,
+      "y": 415,
+      "w": 28,
+      "h": 29,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 28,
+      "sourceH": 29
+    },
+    "mall_skin_item_img2_png": {
+      "x": 442,
+      "y": 502,
+      "w": 40,
+      "h": 5,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 40,
+      "sourceH": 5
+    },
+    "mall_skin_item_img3_png": {
+      "x": 978,
+      "y": 466,
+      "w": 30,
+      "h": 21,
+      "offX": 0,
+      "offY": 7,
+      "sourceW": 30,
+      "sourceH": 30
+    },
+    "mall_skin_item_imgbg_png": {
+      "x": 978,
+      "y": 239,
+      "w": 20,
+      "h": 50,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 20,
+      "sourceH": 50
+    },
+    "mall_skin_item_imgcountdown_png": {
+      "x": 951,
+      "y": 1351,
+      "w": 60,
+      "h": 60,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 60,
+      "sourceH": 60
+    },
+    "mall_skin_item_imgnamebg_png": {
+      "x": 701,
+      "y": 1221,
+      "w": 168,
+      "h": 126,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 168,
+      "sourceH": 126
+    },
+    "mall_skin_item_imgnamebg2_png": {
+      "x": 907,
+      "y": 1221,
+      "w": 90,
+      "h": 128,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 90,
+      "sourceH": 128
+    },
+    "mall_up3_png": {
+      "x": 252,
+      "y": 1485,
+      "w": 101,
+      "h": 33,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 101,
+      "sourceH": 33
+    },
+    "skin_pop_btnadd_png": {
+      "x": 442,
+      "y": 386,
+      "w": 29,
+      "h": 28,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 29,
+      "sourceH": 28
+    },
+    "skin_pop_btnmax_png": {
+      "x": 442,
+      "y": 326,
+      "w": 48,
+      "h": 28,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 48,
+      "sourceH": 28
+    },
+    "skin_pop_btnmin_png": {
+      "x": 442,
+      "y": 356,
+      "w": 48,
+      "h": 28,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 48,
+      "sourceH": 28
+    },
+    "skin_pop_btnminus_png": {
+      "x": 978,
+      "y": 355,
+      "w": 29,
+      "h": 28,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 29,
+      "sourceH": 28
+    },
+    "skin_pop_img1_png": {
+      "x": 495,
+      "y": 288,
+      "w": 481,
+      "h": 285,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 481,
+      "sourceH": 285
+    },
+    "skin_pop_img2_png": {
+      "x": 679,
+      "y": 1390,
+      "w": 134,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 134,
+      "sourceH": 46
+    },
+    "skin_pop_img3_png": {
+      "x": 1,
+      "y": 1456,
+      "w": 131,
+      "h": 29,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 131,
+      "sourceH": 29
+    },
+    "skin_pop_img4_png": {
+      "x": 753,
+      "y": 728,
+      "w": 81,
+      "h": 81,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 81,
+      "sourceH": 81
+    }
+  }
+}

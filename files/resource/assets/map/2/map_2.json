@@ -1,0 +1,55 @@
+{
+  "resources": [
+    {
+      "type": "json",
+      "url": "2.json",
+      "name": "road_2"
+    },
+    {
+      "type": "image",
+      "url": "map_2_bg_mc.png",
+      "name": "map_2_bg_mc_png"
+    },
+    {
+      "type": "image",
+      "url": "map_2_door_1.png",
+      "name": "map_2_door_1_png"
+    },
+    {
+      "type": "image",
+      "url": "map_2_door_2.png",
+      "name": "map_2_door_2_png"
+    },
+    {
+      "type": "image",
+      "url": "map_2_door_3.png",
+      "name": "map_2_door_3_png"
+    },
+    {
+      "type": "image",
+      "url": "map_2_door_0.png",
+      "name": "map_2_door_0_png"
+    },
+    {
+      "type": "image",
+      "url": "map_2_control_mc.png",
+      "name": "map_2_control_mc_png"
+    },
+    {
+      "type": "image",
+      "url": "map_2_depth_mc.png",
+      "name": "map_2_depth_mc_png"
+    },
+    {
+      "name": "exml_2",
+      "type": "text",
+      "url": "Map2Skin.exml"
+    }
+  ],
+  "groups": [
+    {
+      "keys": "road_2,map_2_bg_mc_png,map_2_door_1_png,map_2_door_2_png,map_2_door_3_png,map_2_door_0_png,map_2_control_mc_png,map_2_depth_mc_png,exml_2",
+      "name": "map_2"
+    }
+  ]
+}

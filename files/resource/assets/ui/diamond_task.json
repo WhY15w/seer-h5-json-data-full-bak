@@ -1,0 +1,31 @@
+{
+  "groups": [
+    {
+      "name": "diamond_task",
+      "keys": "diamond_task_sheet,diamond_task_back_task_bg_png,diamond_task_bg_jpg,diamond_task_task_bg_png"
+    }
+  ],
+  "resources": [
+    {
+      "name": "diamond_task_back_task_bg_png",
+      "type": "image",
+      "url": "diamond_task/outside/diamond_task_back_task_bg.png"
+    },
+    {
+      "name": "diamond_task_bg_jpg",
+      "type": "image",
+      "url": "diamond_task/outside/diamond_task_bg.jpg"
+    },
+    {
+      "name": "diamond_task_task_bg_png",
+      "type": "image",
+      "url": "diamond_task/outside/diamond_task_task_bg.png"
+    },
+    {
+      "name": "diamond_task_sheet",
+      "type": "sheet",
+      "url": "diamond_task/diamond_task_sheet.json",
+      "subkeys": "diamond_task_active_active_bg_png,diamond_task_active_active_get_png,diamond_task_active_active_go_png,diamond_task_active_active_got_png,diamond_task_active_active_pro_png,diamond_task_active_active_pro_bg_png,diamond_task_active_active_title_png,diamond_task_active_close_1_png,diamond_task_active_close_2_png,diamond_task_active_close_3_png,diamond_task_active_open_1_png,diamond_task_active_open_2_png,diamond_task_active_open_3_png,diamond_task_back_1_png,diamond_task_back_2_png,diamond_task_btnadddiamond_png,diamond_task_center_bg_png,diamond_task_get_png,diamond_task_go_png,diamond_task_got_png,diamond_task_icon_bg_png,diamond_task_icon_btn_png,diamond_task_ima_btn_bg_png,diamond_task_item_bg_png,diamond_task_item_icon_png,diamond_task_none_png,diamond_task_reddot_png,diamond_task_tips_png,diamond_task_title_png"
+    }
+  ]
+}

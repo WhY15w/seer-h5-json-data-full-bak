@@ -1,0 +1,60 @@
+{
+  "resources": [
+    {
+      "type": "json",
+      "url": "702.json",
+      "name": "road_702"
+    },
+    {
+      "type": "text",
+      "url": "Map702Skin.exml",
+      "name": "exml_702"
+    },
+    {
+      "type": "image",
+      "url": "map_702_bg_mc.jpg",
+      "name": "map_702_bg_mc_jpg"
+    },
+    {
+      "type": "image",
+      "url": "map_702_rock1.png",
+      "name": "map_702_rock1_png"
+    },
+    {
+      "type": "image",
+      "url": "map_702_rock2.png",
+      "name": "map_702_rock2_png"
+    },
+    {
+      "type": "image",
+      "url": "map_702_rock3.png",
+      "name": "map_702_rock3_png"
+    },
+    {
+      "type": "image",
+      "url": "map_702_rock4.png",
+      "name": "map_702_rock4_png"
+    },
+    {
+      "type": "image",
+      "url": "map_702_rock5.png",
+      "name": "map_702_rock5_png"
+    },
+    {
+      "type": "image",
+      "url": "map_702_stonemon.png",
+      "name": "map_702_stonemon_png"
+    },
+    {
+      "type": "image",
+      "url": "map_702_top_mc.png",
+      "name": "map_702_top_mc_png"
+    }
+  ],
+  "groups": [
+    {
+      "keys": "road_702,exml_702,map_702_bg_mc_jpg,map_702_rock1_png,map_702_rock2_png,map_702_rock3_png,map_702_rock4_png,map_702_rock5_png,map_702_stonemon_png,map_702_top_mc_png",
+      "name": "map_702"
+    }
+  ]
+}

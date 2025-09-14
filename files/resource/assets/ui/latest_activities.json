@@ -1,0 +1,16 @@
+{
+  "groups": [
+    {
+      "name": "latest_activities",
+      "keys": "latest_activities_sheet"
+    }
+  ],
+  "resources": [
+    {
+      "name": "latest_activities_sheet",
+      "type": "sheet",
+      "url": "latest_activities/latest_activities_sheet.json",
+      "subkeys": "la_mainpanel_Activetag1_day_png,la_mainpanel_Activetag1_week_png,la_mainpanel_Activetag2_png,la_mainpanel_decorate_png,la_mainpanel_jx_17_kb_13_png,la_mainpanel_jx_17_kb_14_png,la_mainpanel_line_png,la_mainpanel_Pettag1_png,la_mainpanel_zu_33_png,la_page_act_center_left_png,la_page_act_center_probg_png,la_page_act_center_progress_png,la_page_act_center_right_png"
+    }
+  ]
+}

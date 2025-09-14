@@ -1,0 +1,25 @@
+{
+  "resources": [
+    {
+      "type": "json",
+      "url": "86.json",
+      "name": "road_86"
+    },
+    {
+      "type": "text",
+      "url": "Map86Skin.exml",
+      "name": "exml_86"
+    },
+    {
+      "type": "image",
+      "url": "map_86_bg_mc.jpg",
+      "name": "map_86_bg_mc_jpg"
+    }
+  ],
+  "groups": [
+    {
+      "keys": "road_86,exml_86,map_86_bg_mc_jpg",
+      "name": "map_86"
+    }
+  ]
+}

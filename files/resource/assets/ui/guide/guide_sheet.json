@@ -1,0 +1,335 @@
+{
+  "file": "guide_sheet.png",
+  "frames": {
+    "guide_arrow_png": {
+      "x": 1306,
+      "y": 708,
+      "w": 142,
+      "h": 60,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 142,
+      "sourceH": 60
+    },
+    "guide_changan_cire_1_png": {
+      "x": 1185,
+      "y": 708,
+      "w": 119,
+      "h": 119,
+      "offX": 3,
+      "offY": 3,
+      "sourceW": 125,
+      "sourceH": 125
+    },
+    "guide_changan_cire_bg_png": {
+      "x": 1058,
+      "y": 708,
+      "w": 125,
+      "h": 125,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 125,
+      "sourceH": 125
+    },
+    "guide_click_hand_png": {
+      "x": 1943,
+      "y": 579,
+      "w": 96,
+      "h": 83,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 96,
+      "sourceH": 83
+    },
+    "guide_dialog_npc_png": {
+      "x": 1,
+      "y": 428,
+      "w": 233,
+      "h": 334,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 233,
+      "sourceH": 334
+    },
+    "guide_npc_test_png": {
+      "x": 1,
+      "y": 1,
+      "w": 523,
+      "h": 425,
+      "offX": 0,
+      "offY": 1,
+      "sourceW": 524,
+      "sourceH": 444
+    },
+    "guide_s9_box_bg_png": {
+      "x": 1992,
+      "y": 383,
+      "w": 36,
+      "h": 37,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 36,
+      "sourceH": 37
+    },
+    "guide_s9_bubble_down_png": {
+      "x": 1820,
+      "y": 461,
+      "w": 168,
+      "h": 116,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 168,
+      "sourceH": 116
+    },
+    "guide_s9_bubble_left_png": {
+      "x": 696,
+      "y": 688,
+      "w": 179,
+      "h": 105,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 179,
+      "sourceH": 105
+    },
+    "guide_s9_bubble_right_png": {
+      "x": 877,
+      "y": 688,
+      "w": 179,
+      "h": 105,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 179,
+      "sourceH": 105
+    },
+    "guide_s9_bubble_top_png": {
+      "x": 1846,
+      "y": 1,
+      "w": 168,
+      "h": 116,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 168,
+      "sourceH": 116
+    },
+    "guide_talk_bg_1_png": {
+      "x": 526,
+      "y": 1,
+      "w": 658,
+      "h": 215,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 658,
+      "sourceH": 215
+    },
+    "guide_talk_bg_2_png": {
+      "x": 1186,
+      "y": 1,
+      "w": 658,
+      "h": 215,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 658,
+      "sourceH": 215
+    },
+    "guide_talk_bg_3_png": {
+      "x": 526,
+      "y": 218,
+      "w": 658,
+      "h": 215,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 658,
+      "sourceH": 215
+    },
+    "guide_talk_next_btn_1_png": {
+      "x": 1992,
+      "y": 343,
+      "w": 51,
+      "h": 38,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 51,
+      "sourceH": 38
+    },
+    "guide_talk_next_btn_2_png": {
+      "x": 1992,
+      "y": 263,
+      "w": 51,
+      "h": 38,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 51,
+      "sourceH": 38
+    },
+    "guide_talk_next_btn_3_png": {
+      "x": 1992,
+      "y": 303,
+      "w": 51,
+      "h": 38,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 51,
+      "sourceH": 38
+    },
+    "guide_talk_pic_jinglingbeibao_png": {
+      "x": 1161,
+      "y": 604,
+      "w": 471,
+      "h": 102,
+      "offX": 1,
+      "offY": 8,
+      "sourceW": 500,
+      "sourceH": 130
+    },
+    "guide_talk_pic_kezhi1_png": {
+      "x": 236,
+      "y": 688,
+      "w": 458,
+      "h": 53,
+      "offX": 0,
+      "offY": 8,
+      "sourceW": 500,
+      "sourceH": 130
+    },
+    "guide_talk_pic_kezhi2_png": {
+      "x": 1394,
+      "y": 472,
+      "w": 424,
+      "h": 130,
+      "offX": 22,
+      "offY": 0,
+      "sourceW": 500,
+      "sourceH": 130
+    },
+    "guide_talk_pic_kezhi3_png": {
+      "x": 236,
+      "y": 544,
+      "w": 421,
+      "h": 130,
+      "offX": 25,
+      "offY": 0,
+      "sourceW": 500,
+      "sourceH": 130
+    },
+    "guide_talk_pic_xuexili_png": {
+      "x": 659,
+      "y": 581,
+      "w": 500,
+      "h": 105,
+      "offX": 0,
+      "offY": 7,
+      "sourceW": 500,
+      "sourceH": 130
+    },
+    "new_guide_tip_bg_png": {
+      "x": 1634,
+      "y": 604,
+      "w": 307,
+      "h": 106,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 307,
+      "sourceH": 106
+    },
+    "new_guide_tip_title_bg_png": {
+      "x": 815,
+      "y": 435,
+      "w": 238,
+      "h": 23,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 238,
+      "sourceH": 23
+    },
+    "new_seer_guide_img_next_png": {
+      "x": 1960,
+      "y": 173,
+      "w": 75,
+      "h": 36,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 75,
+      "sourceH": 36
+    },
+    "new_seer_guide_point_png": {
+      "x": 1992,
+      "y": 211,
+      "w": 50,
+      "h": 50,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 50,
+      "sourceH": 50
+    },
+    "new_seer_other_view_bzts_btnClose_png": {
+      "x": 1943,
+      "y": 664,
+      "w": 100,
+      "h": 44,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 100,
+      "sourceH": 44
+    },
+    "new_seer_other_view_bzts_btnSure_png": {
+      "x": 1846,
+      "y": 119,
+      "w": 176,
+      "h": 52,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 176,
+      "sourceH": 52
+    },
+    "new_seer_other_view_bzts_bz_title_png": {
+      "x": 1846,
+      "y": 173,
+      "w": 112,
+      "h": 26,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 112,
+      "sourceH": 26
+    },
+    "new_seer_other_view_bzts_p1_png": {
+      "x": 236,
+      "y": 435,
+      "w": 577,
+      "h": 107,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 577,
+      "sourceH": 107
+    },
+    "new_seer_other_view_bzts_p2_png": {
+      "x": 815,
+      "y": 472,
+      "w": 577,
+      "h": 107,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 577,
+      "sourceH": 107
+    },
+    "new_seer_selecte_panel_btnNew_png": {
+      "x": 1644,
+      "y": 218,
+      "w": 346,
+      "h": 241,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 346,
+      "sourceH": 241
+    },
+    "new_seer_selecte_panel_btnOld_png": {
+      "x": 1186,
+      "y": 218,
+      "w": 456,
+      "h": 252,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 456,
+      "sourceH": 252
+    }
+  }
+}

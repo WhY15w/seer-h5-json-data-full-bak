@@ -1,0 +1,30 @@
+{
+  "groups": [
+    {
+      "keys": "road_775,exml_775,map_775_bg_mc_jpg,map_775_top_mc_png",
+      "name": "map_775"
+    }
+  ],
+  "resources": [
+    {
+      "type": "json",
+      "url": "775.json",
+      "name": "road_775"
+    },
+    {
+      "type": "text",
+      "url": "Map775Skin.exml",
+      "name": "exml_775"
+    },
+    {
+      "type": "image",
+      "url": "map_775_bg_mc.jpg",
+      "name": "map_775_bg_mc_jpg"
+    },
+    {
+      "type": "image",
+      "url": "map_775_top_mc.png",
+      "name": "map_775_top_mc_png"
+    }
+  ]
+}

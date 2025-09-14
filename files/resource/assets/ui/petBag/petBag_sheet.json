@@ -1,0 +1,2175 @@
+{
+  "file": "petBag_sheet.png",
+  "frames": {
+    "advArrow_png": {
+      "x": 814,
+      "y": 402,
+      "w": 13,
+      "h": 11,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 13,
+      "sourceH": 11
+    },
+    "advpet_excham_png": {
+      "x": 2030,
+      "y": 681,
+      "w": 17,
+      "h": 16,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 17,
+      "sourceH": 16
+    },
+    "advpet_orgbox_png": {
+      "x": 1853,
+      "y": 93,
+      "w": 6,
+      "h": 6,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 6,
+      "sourceH": 6
+    },
+    "advpet_signright_png": {
+      "x": 83,
+      "y": 492,
+      "w": 26,
+      "h": 20,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 26,
+      "sourceH": 20
+    },
+    "advpet_signup_png": {
+      "x": 1860,
+      "y": 217,
+      "w": 12,
+      "h": 12,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 12,
+      "sourceH": 12
+    },
+    "advpet_zebraline_png": {
+      "x": 1516,
+      "y": 601,
+      "w": 240,
+      "h": 17,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 240,
+      "sourceH": 17
+    },
+    "btnAdv_png": {
+      "x": 575,
+      "y": 521,
+      "w": 72,
+      "h": 85,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 72,
+      "sourceH": 85
+    },
+    "imgAddition_png": {
+      "x": 1853,
+      "y": 1,
+      "w": 29,
+      "h": 29,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 29,
+      "sourceH": 29
+    },
+    "itemWarehouse_img_di2_png": {
+      "x": 1841,
+      "y": 645,
+      "w": 133,
+      "h": 21,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 133,
+      "sourceH": 21
+    },
+    "markselectpop_btncancel_png": {
+      "x": 1841,
+      "y": 668,
+      "w": 90,
+      "h": 23,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 90,
+      "sourceH": 23
+    },
+    "markselectpop_btncomfirm_png": {
+      "x": 1516,
+      "y": 574,
+      "w": 91,
+      "h": 24,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 91,
+      "sourceH": 24
+    },
+    "markselectpop_btndefault_png": {
+      "x": 858,
+      "y": 667,
+      "w": 90,
+      "h": 23,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 90,
+      "sourceH": 23
+    },
+    "markselectpop_gou_png": {
+      "x": 1779,
+      "y": 194,
+      "w": 16,
+      "h": 12,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 16,
+      "sourceH": 12
+    },
+    "markselectpop_jx_17_kb_3_png": {
+      "x": 556,
+      "y": 569,
+      "w": 16,
+      "h": 34,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 16,
+      "sourceH": 34
+    },
+    "markselectpop_popbg_png": {
+      "x": 950,
+      "y": 669,
+      "w": 45,
+      "h": 45,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 45,
+      "sourceH": 45
+    },
+    "markselectpop_searchbg_png": {
+      "x": 883,
+      "y": 692,
+      "w": 23,
+      "h": 23,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 23,
+      "sourceH": 23
+    },
+    "markselectpop_xz_1_png": {
+      "x": 1374,
+      "y": 386,
+      "w": 442,
+      "h": 1,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 442,
+      "sourceH": 1
+    },
+    "mark_decompose_confirm_pop_imgtitle_png": {
+      "x": 1,
+      "y": 642,
+      "w": 103,
+      "h": 31,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 103,
+      "sourceH": 31
+    },
+    "mark_decompose_pop_imgtitle_png": {
+      "x": 120,
+      "y": 639,
+      "w": 104,
+      "h": 31,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 104,
+      "sourceH": 31
+    },
+    "petbag_add_imge_btn_tx_png": {
+      "x": 997,
+      "y": 669,
+      "w": 42,
+      "h": 42,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 42,
+      "sourceH": 42
+    },
+    "petBag_btnJX_png": {
+      "x": 1379,
+      "y": 531,
+      "w": 72,
+      "h": 85,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 72,
+      "sourceH": 85
+    },
+    "pet_bag_change_fifth_skill_pop_bg_png": {
+      "x": 1868,
+      "y": 93,
+      "w": 5,
+      "h": 5,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 5,
+      "sourceH": 5
+    },
+    "pet_bag_change_fifth_skill_pop_imgtitle_png": {
+      "x": 649,
+      "y": 570,
+      "w": 151,
+      "h": 32,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 151,
+      "sourceH": 32
+    },
+    "pet_bag_change_pop_btnsearch_png": {
+      "x": 1853,
+      "y": 32,
+      "w": 29,
+      "h": 29,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 29,
+      "sourceH": 29
+    },
+    "pet_bag_change_pop_imglistbg_png": {
+      "x": 1981,
+      "y": 490,
+      "w": 12,
+      "h": 330,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 12,
+      "sourceH": 330
+    },
+    "pet_bag_change_pop_imgsearchbg_png": {
+      "x": 344,
+      "y": 575,
+      "w": 160,
+      "h": 29,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 160,
+      "sourceH": 29
+    },
+    "pet_bag_change_pop_imgtitle_png": {
+      "x": 663,
+      "y": 637,
+      "w": 102,
+      "h": 32,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 102,
+      "sourceH": 32
+    },
+    "pet_bag_change_pop_pet_item_imgattrbg_png": {
+      "x": 1941,
+      "y": 490,
+      "w": 37,
+      "h": 23,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 37,
+      "sourceH": 23
+    },
+    "pet_bag_change_pop_pet_item_imgroomtag_png": {
+      "x": 598,
+      "y": 684,
+      "w": 59,
+      "h": 20,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 59,
+      "sourceH": 20
+    },
+    "pet_bag_change_pop_pet_item_imgteamtag_png": {
+      "x": 537,
+      "y": 684,
+      "w": 59,
+      "h": 20,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 59,
+      "sourceH": 20
+    },
+    "pet_bag_change_resistance_item_imgyc1_png": {
+      "x": 1779,
+      "y": 151,
+      "w": 96,
+      "h": 41,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 96,
+      "sourceH": 41
+    },
+    "pet_bag_change_resistance_item_imgyc2_png": {
+      "x": 659,
+      "y": 684,
+      "w": 45,
+      "h": 21,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 45,
+      "sourceH": 21
+    },
+    "pet_bag_change_skill_pop_imgtitle_png": {
+      "x": 1266,
+      "y": 632,
+      "w": 104,
+      "h": 32,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 104,
+      "sourceH": 32
+    },
+    "pet_bag_choose_stone_pop_btnattack_png": {
+      "x": 83,
+      "y": 515,
+      "w": 134,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 134,
+      "sourceH": 46
+    },
+    "pet_bag_choose_stone_pop_btnsattack_png": {
+      "x": 1635,
+      "y": 519,
+      "w": 134,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 134,
+      "sourceH": 46
+    },
+    "pet_bag_choose_stone_pop_imgbg_png": {
+      "x": 1266,
+      "y": 608,
+      "w": 20,
+      "h": 20,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 20,
+      "sourceH": 20
+    },
+    "pet_bag_detail_pop_btnattackdown_png": {
+      "x": 1510,
+      "y": 426,
+      "w": 172,
+      "h": 64,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 172,
+      "sourceH": 64
+    },
+    "pet_bag_detail_pop_btnattackup_png": {
+      "x": 1150,
+      "y": 678,
+      "w": 65,
+      "h": 20,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 65,
+      "sourceH": 20
+    },
+    "pet_bag_detail_pop_btndefencedown_png": {
+      "x": 310,
+      "y": 415,
+      "w": 172,
+      "h": 64,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 172,
+      "sourceH": 64
+    },
+    "pet_bag_detail_pop_btndefenceup_png": {
+      "x": 1818,
+      "y": 194,
+      "w": 64,
+      "h": 21,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 64,
+      "sourceH": 21
+    },
+    "pet_bag_detail_pop_btnhealthdown_png": {
+      "x": 814,
+      "y": 415,
+      "w": 172,
+      "h": 64,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 172,
+      "sourceH": 64
+    },
+    "pet_bag_detail_pop_btnhealthup_png": {
+      "x": 802,
+      "y": 570,
+      "w": 66,
+      "h": 20,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 66,
+      "sourceH": 20
+    },
+    "pet_bag_detail_pop_btnleft_png": {
+      "x": 652,
+      "y": 338,
+      "w": 40,
+      "h": 61,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 40,
+      "sourceH": 61
+    },
+    "pet_bag_detail_pop_btnright_png": {
+      "x": 767,
+      "y": 667,
+      "w": 40,
+      "h": 61,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 40,
+      "sourceH": 61
+    },
+    "pet_bag_detail_pop_btnsattackdown_png": {
+      "x": 988,
+      "y": 415,
+      "w": 172,
+      "h": 64,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 172,
+      "sourceH": 64
+    },
+    "pet_bag_detail_pop_btnsattackup_png": {
+      "x": 1720,
+      "y": 680,
+      "w": 63,
+      "h": 20,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 63,
+      "sourceH": 20
+    },
+    "pet_bag_detail_pop_btnsdefencedown_png": {
+      "x": 1162,
+      "y": 415,
+      "w": 172,
+      "h": 64,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 172,
+      "sourceH": 64
+    },
+    "pet_bag_detail_pop_btnsdefenceup_png": {
+      "x": 337,
+      "y": 684,
+      "w": 62,
+      "h": 20,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 62,
+      "sourceH": 20
+    },
+    "pet_bag_detail_pop_btnspeeddown_png": {
+      "x": 1336,
+      "y": 415,
+      "w": 172,
+      "h": 64,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 172,
+      "sourceH": 64
+    },
+    "pet_bag_detail_pop_btnspeedup_png": {
+      "x": 558,
+      "y": 608,
+      "w": 65,
+      "h": 20,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 65,
+      "sourceH": 20
+    },
+    "pet_bag_detail_pop_img1_png": {
+      "x": 2008,
+      "y": 389,
+      "w": 20,
+      "h": 310,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 20,
+      "sourceH": 310
+    },
+    "pet_bag_detail_pop_imgbg_png": {
+      "x": 104,
+      "y": 693,
+      "w": 20,
+      "h": 20,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 20,
+      "sourceH": 20
+    },
+    "pet_bag_detail_pop_imgleftbg_png": {
+      "x": 695,
+      "y": 1,
+      "w": 182,
+      "h": 399,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 182,
+      "sourceH": 399
+    },
+    "pet_bag_detail_pop_imgtitle_png": {
+      "x": 1635,
+      "y": 567,
+      "w": 151,
+      "h": 32,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 151,
+      "sourceH": 32
+    },
+    "pet_bag_detail_pop_imgtitlebg_png": {
+      "x": 1068,
+      "y": 208,
+      "w": 748,
+      "h": 34,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 748,
+      "sourceH": 34
+    },
+    "pet_bag_develop_mark_view_btnfilter_png": {
+      "x": 930,
+      "y": 599,
+      "w": 48,
+      "h": 28,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 48,
+      "sourceH": 28
+    },
+    "pet_bag_develop_mark_view_imgline_png": {
+      "x": 243,
+      "y": 377,
+      "w": 375,
+      "h": 36,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 375,
+      "sourceH": 36
+    },
+    "pet_bag_develop_nature_view_img1_png": {
+      "x": 337,
+      "y": 678,
+      "w": 413,
+      "h": 4,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 413,
+      "sourceH": 4
+    },
+    "pet_bag_develop_resistance_view_img1_png": {
+      "x": 116,
+      "y": 181,
+      "w": 125,
+      "h": 225,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 125,
+      "sourceH": 225
+    },
+    "pet_bag_develop_skin_view_imghasputon_png": {
+      "x": 484,
+      "y": 415,
+      "w": 126,
+      "h": 38,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 126,
+      "sourceH": 38
+    },
+    "pet_bag_develop_study_view_btnadd1_png": {
+      "x": 858,
+      "y": 692,
+      "w": 23,
+      "h": 23,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 23,
+      "sourceH": 23
+    },
+    "pet_bag_develop_study_view_btnmax1_png": {
+      "x": 439,
+      "y": 481,
+      "w": 39,
+      "h": 23,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 39,
+      "sourceH": 23
+    },
+    "pet_bag_develop_study_view_btnreduce1_png": {
+      "x": 1720,
+      "y": 655,
+      "w": 23,
+      "h": 23,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 23,
+      "sourceH": 23
+    },
+    "pet_bag_develop_study_view_img1_png": {
+      "x": 1374,
+      "y": 343,
+      "w": 398,
+      "h": 36,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 398,
+      "sourceH": 36
+    },
+    "pet_bag_develop_study_view_imgbg1_png": {
+      "x": 646,
+      "y": 246,
+      "w": 45,
+      "h": 24,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 45,
+      "sourceH": 24
+    },
+    "pet_bag_develop_study_view_imgstudy1_png": {
+      "x": 908,
+      "y": 692,
+      "w": 20,
+      "h": 20,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 20,
+      "sourceH": 20
+    },
+    "pet_bag_develop_study_view_imgstudy2_png": {
+      "x": 870,
+      "y": 570,
+      "w": 18,
+      "h": 21,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 18,
+      "sourceH": 21
+    },
+    "pet_bag_develop_study_view_imgstudy3_png": {
+      "x": 930,
+      "y": 692,
+      "w": 18,
+      "h": 21,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 18,
+      "sourceH": 21
+    },
+    "pet_bag_develop_study_view_imgstudy4_png": {
+      "x": 1834,
+      "y": 693,
+      "w": 18,
+      "h": 20,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 18,
+      "sourceH": 20
+    },
+    "pet_bag_develop_study_view_imgstudy5_png": {
+      "x": 1957,
+      "y": 606,
+      "w": 21,
+      "h": 20,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 21,
+      "sourceH": 20
+    },
+    "pet_bag_develop_study_view_imgstudy6_png": {
+      "x": 980,
+      "y": 599,
+      "w": 20,
+      "h": 20,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 20,
+      "sourceH": 20
+    },
+    "pet_bag_develop_up_level_view_btnexchange1_png": {
+      "x": 1753,
+      "y": 644,
+      "w": 86,
+      "h": 34,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 86,
+      "sourceH": 34
+    },
+    "pet_bag_develop_up_level_view_img2_png": {
+      "x": 1797,
+      "y": 194,
+      "w": 12,
+      "h": 12,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 12,
+      "sourceH": 12
+    },
+    "pet_bag_develop_up_level_view_imgarrow1_png": {
+      "x": 106,
+      "y": 642,
+      "w": 11,
+      "h": 19,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 11,
+      "sourceH": 19
+    },
+    "pet_bag_develop_up_level_view_imgprogress_png": {
+      "x": 1,
+      "y": 574,
+      "w": 341,
+      "h": 15,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 341,
+      "sourceH": 15
+    },
+    "pet_bag_develop_up_level_view_imgprogressbg_png": {
+      "x": 678,
+      "y": 481,
+      "w": 368,
+      "h": 23,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 368,
+      "sourceH": 23
+    },
+    "pet_bag_develop_view_imgDevelopBG1_png": {
+      "x": 1,
+      "y": 591,
+      "w": 325,
+      "h": 13,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 325,
+      "sourceH": 13
+    },
+    "pet_bag_develop_view_imgDevelopBG2_png": {
+      "x": 2034,
+      "y": 231,
+      "w": 12,
+      "h": 427,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 12,
+      "sourceH": 427
+    },
+    "pet_bag_develop_view_imgDevelopBG3_png": {
+      "x": 1995,
+      "y": 490,
+      "w": 4,
+      "h": 271,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 4,
+      "sourceH": 271
+    },
+    "pet_bag_dream_stone_compose_btndaixuanb_png": {
+      "x": 678,
+      "y": 506,
+      "w": 172,
+      "h": 36,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 172,
+      "sourceH": 36
+    },
+    "pet_bag_dream_stone_compose_btndaixuang_png": {
+      "x": 852,
+      "y": 506,
+      "w": 172,
+      "h": 36,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 172,
+      "sourceH": 36
+    },
+    "pet_bag_dream_stone_compose_btndaixuano_png": {
+      "x": 1818,
+      "y": 231,
+      "w": 172,
+      "h": 37,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 172,
+      "sourceH": 37
+    },
+    "pet_bag_dream_stone_compose_btndaixuanp_png": {
+      "x": 1379,
+      "y": 492,
+      "w": 172,
+      "h": 37,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 172,
+      "sourceH": 37
+    },
+    "pet_bag_dream_stone_compose_btnkuaijiehecheng_png": {
+      "x": 219,
+      "y": 515,
+      "w": 134,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 134,
+      "sourceH": 46
+    },
+    "pet_bag_dream_stone_compose_btnxuanzhongb_png": {
+      "x": 620,
+      "y": 402,
+      "w": 192,
+      "h": 58,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 192,
+      "sourceH": 58
+    },
+    "pet_bag_dream_stone_compose_btnxuanzhongg_png": {
+      "x": 116,
+      "y": 415,
+      "w": 192,
+      "h": 58,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 192,
+      "sourceH": 58
+    },
+    "pet_bag_dream_stone_compose_btnxuanzhongo_png": {
+      "x": 1684,
+      "y": 426,
+      "w": 192,
+      "h": 57,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 192,
+      "sourceH": 57
+    },
+    "pet_bag_dream_stone_compose_btnxuanzhongp_png": {
+      "x": 484,
+      "y": 462,
+      "w": 192,
+      "h": 57,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 192,
+      "sourceH": 57
+    },
+    "pet_bag_dream_stone_compose_cangkubg_png": {
+      "x": 439,
+      "y": 506,
+      "w": 12,
+      "h": 12,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 12,
+      "sourceH": 12
+    },
+    "pet_bag_dream_stone_compose_imgcomposetitle_png": {
+      "x": 106,
+      "y": 672,
+      "w": 103,
+      "h": 19,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 103,
+      "sourceH": 19
+    },
+    "pet_bag_dream_stone_compose_imgquickbg_png": {
+      "x": 1846,
+      "y": 217,
+      "w": 12,
+      "h": 12,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 12,
+      "sourceH": 12
+    },
+    "pet_bag_dream_stone_compose_pop_imgadd1_png": {
+      "x": 809,
+      "y": 667,
+      "w": 47,
+      "h": 47,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 47,
+      "sourceH": 47
+    },
+    "pet_bag_dream_stone_compose_pop_imgitem1bg_png": {
+      "x": 2003,
+      "y": 272,
+      "w": 29,
+      "h": 28,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 29,
+      "sourceH": 28
+    },
+    "pet_bag_dream_stone_compose_pop_imgleftbg_png": {
+      "x": 879,
+      "y": 151,
+      "w": 187,
+      "h": 215,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 187,
+      "sourceH": 215
+    },
+    "pet_bag_dream_stone_compose_pop_imgrightbg_png": {
+      "x": 1,
+      "y": 1,
+      "w": 692,
+      "h": 178,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 692,
+      "sourceH": 178
+    },
+    "pet_bag_dream_stone_compose_title_png": {
+      "x": 1,
+      "y": 606,
+      "w": 117,
+      "h": 34,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 117,
+      "sourceH": 34
+    },
+    "pet_bag_dream_stone_compose_titlewarehouse_png": {
+      "x": 879,
+      "y": 368,
+      "w": 127,
+      "h": 19,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 127,
+      "sourceH": 19
+    },
+    "pet_bag_dream_stone_compose_txttipsbg_png": {
+      "x": 649,
+      "y": 544,
+      "w": 240,
+      "h": 24,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 240,
+      "sourceH": 24
+    },
+    "pet_bag_dream_stone_compose_warehousetitlebg_png": {
+      "x": 1818,
+      "y": 217,
+      "w": 12,
+      "h": 12,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 12,
+      "sourceH": 12
+    },
+    "pet_bag_empty_sign_png": {
+      "x": 402,
+      "y": 181,
+      "w": 157,
+      "h": 135,
+      "offX": 34,
+      "offY": 0,
+      "sourceW": 227,
+      "sourceH": 135
+    },
+    "pet_bag_fifth_skill_bg_png": {
+      "x": 1068,
+      "y": 308,
+      "w": 304,
+      "h": 79,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 304,
+      "sourceH": 79
+    },
+    "pet_bag_fifth_skill_hasGot_png": {
+      "x": 730,
+      "y": 462,
+      "w": 50,
+      "h": 17,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 50,
+      "sourceH": 17
+    },
+    "pet_bag_fifth_skill_notGot_png": {
+      "x": 678,
+      "y": 462,
+      "w": 50,
+      "h": 17,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 50,
+      "sourceH": 17
+    },
+    "pet_bag_img1_png": {
+      "x": 1159,
+      "y": 574,
+      "w": 151,
+      "h": 32,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 151,
+      "sourceH": 32
+    },
+    "pet_bag_img2_png": {
+      "x": 649,
+      "y": 604,
+      "w": 128,
+      "h": 31,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 128,
+      "sourceH": 31
+    },
+    "pet_bag_main_bgoutsideline_png": {
+      "x": 879,
+      "y": 103,
+      "w": 1005,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 1005,
+      "sourceH": 46
+    },
+    "pet_bag_main_panel_attr_a_png": {
+      "x": 779,
+      "y": 604,
+      "w": 21,
+      "h": 21,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 21,
+      "sourceH": 21
+    },
+    "pet_bag_main_panel_attr_b_png": {
+      "x": 148,
+      "y": 693,
+      "w": 21,
+      "h": 18,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 21,
+      "sourceH": 18
+    },
+    "pet_bag_main_panel_attr_c_png": {
+      "x": 1874,
+      "y": 693,
+      "w": 19,
+      "h": 17,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 19,
+      "sourceH": 17
+    },
+    "pet_bag_main_panel_attr_d_png": {
+      "x": 782,
+      "y": 462,
+      "w": 20,
+      "h": 17,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 20,
+      "sourceH": 17
+    },
+    "pet_bag_main_panel_attr_e_png": {
+      "x": 171,
+      "y": 693,
+      "w": 21,
+      "h": 18,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 21,
+      "sourceH": 18
+    },
+    "pet_bag_main_panel_attr_f_png": {
+      "x": 1854,
+      "y": 693,
+      "w": 18,
+      "h": 19,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 18,
+      "sourceH": 19
+    },
+    "pet_bag_main_panel_attr_imgtitlebg_png": {
+      "x": 1567,
+      "y": 389,
+      "w": 354,
+      "h": 35,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 354,
+      "sourceH": 35
+    },
+    "pet_bag_main_panel_btnattr_png": {
+      "x": 506,
+      "y": 569,
+      "w": 48,
+      "h": 28,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 48,
+      "sourceH": 28
+    },
+    "pet_bag_main_panel_btnBG_png": {
+      "x": 1907,
+      "y": 519,
+      "w": 72,
+      "h": 85,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 72,
+      "sourceH": 85
+    },
+    "pet_bag_main_panel_btnblue_png": {
+      "x": 1771,
+      "y": 519,
+      "w": 134,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 134,
+      "sourceH": 46
+    },
+    "pet_bag_main_panel_btnclose_png": {
+      "x": 1159,
+      "y": 608,
+      "w": 105,
+      "h": 32,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 105,
+      "sourceH": 32
+    },
+    "pet_bag_main_panel_btnhelp_png": {
+      "x": 706,
+      "y": 684,
+      "w": 29,
+      "h": 28,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 29,
+      "sourceH": 28
+    },
+    "pet_bag_main_panel_btnleft_png": {
+      "x": 295,
+      "y": 662,
+      "w": 40,
+      "h": 61,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 40,
+      "sourceH": 61
+    },
+    "pet_bag_main_panel_btnrbdown_png": {
+      "x": 249,
+      "y": 627,
+      "w": 101,
+      "h": 33,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 101,
+      "sourceH": 33
+    },
+    "pet_bag_main_panel_btnrbup_png": {
+      "x": 1650,
+      "y": 620,
+      "w": 101,
+      "h": 33,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 101,
+      "sourceH": 33
+    },
+    "pet_bag_main_panel_btnright_png": {
+      "x": 1878,
+      "y": 426,
+      "w": 40,
+      "h": 61,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 40,
+      "sourceH": 61
+    },
+    "pet_bag_main_panel_btnskin_png": {
+      "x": 1853,
+      "y": 63,
+      "w": 29,
+      "h": 28,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 29,
+      "sourceH": 28
+    },
+    "pet_bag_main_panel_btnyellow_png": {
+      "x": 1162,
+      "y": 512,
+      "w": 134,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 134,
+      "sourceH": 46
+    },
+    "pet_bag_main_panel_czjl_png": {
+      "x": 1684,
+      "y": 490,
+      "w": 255,
+      "h": 27,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 255,
+      "sourceH": 27
+    },
+    "pet_bag_main_panel_develop_base_btnleft_png": {
+      "x": 1476,
+      "y": 650,
+      "w": 33,
+      "h": 50,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 33,
+      "sourceH": 50
+    },
+    "pet_bag_main_panel_develop_base_btnright_png": {
+      "x": 44,
+      "y": 675,
+      "w": 33,
+      "h": 50,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 33,
+      "sourceH": 50
+    },
+    "pet_bag_main_panel_develop_base_imgbtn_png": {
+      "x": 1077,
+      "y": 560,
+      "w": 80,
+      "h": 63,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 80,
+      "sourceH": 63
+    },
+    "pet_bag_main_panel_develop_base_imgbtn_up_png": {
+      "x": 1312,
+      "y": 574,
+      "w": 64,
+      "h": 56,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 64,
+      "sourceH": 56
+    },
+    "pet_bag_main_panel_develop_base_imgdown_png": {
+      "x": 1635,
+      "y": 492,
+      "w": 47,
+      "h": 22,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 47,
+      "sourceH": 22
+    },
+    "pet_bag_main_panel_develop_base_imgup_png": {
+      "x": 1785,
+      "y": 680,
+      "w": 47,
+      "h": 22,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 47,
+      "sourceH": 22
+    },
+    "pet_bag_main_panel_dmjl_png": {
+      "x": 1048,
+      "y": 481,
+      "w": 255,
+      "h": 29,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 255,
+      "sourceH": 29
+    },
+    "pet_bag_main_panel_hider_png": {
+      "x": 879,
+      "y": 1,
+      "w": 510,
+      "h": 100,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 510,
+      "sourceH": 100
+    },
+    "pet_bag_main_panel_imgbagdown_png": {
+      "x": 1239,
+      "y": 666,
+      "w": 63,
+      "h": 39,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 63,
+      "sourceH": 39
+    },
+    "pet_bag_main_panel_imgbaglock_png": {
+      "x": 1992,
+      "y": 231,
+      "w": 34,
+      "h": 39,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 34,
+      "sourceH": 39
+    },
+    "pet_bag_main_panel_imgbagup_png": {
+      "x": 1304,
+      "y": 666,
+      "w": 63,
+      "h": 39,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 63,
+      "sourceH": 39
+    },
+    "pet_bag_main_panel_imgball1bg_png": {
+      "x": 1094,
+      "y": 625,
+      "w": 54,
+      "h": 61,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 54,
+      "sourceH": 61
+    },
+    "pet_bag_main_panel_imgballtipbg_png": {
+      "x": 625,
+      "y": 608,
+      "w": 20,
+      "h": 20,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 20,
+      "sourceH": 20
+    },
+    "pet_bag_main_panel_imgeffect_png": {
+      "x": 620,
+      "y": 377,
+      "w": 26,
+      "h": 22,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 26,
+      "sourceH": 22
+    },
+    "pet_bag_main_panel_imghpbg_png": {
+      "x": 1890,
+      "y": 270,
+      "w": 70,
+      "h": 4,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 70,
+      "sourceH": 4
+    },
+    "pet_bag_main_panel_imghpline_png": {
+      "x": 1818,
+      "y": 270,
+      "w": 70,
+      "h": 4,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 70,
+      "sourceH": 4
+    },
+    "pet_bag_main_panel_imgleftbg_png": {
+      "x": 1217,
+      "y": 678,
+      "w": 20,
+      "h": 20,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 20,
+      "sourceH": 20
+    },
+    "pet_bag_main_panel_imgskill1_png": {
+      "x": 453,
+      "y": 506,
+      "w": 12,
+      "h": 12,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 12,
+      "sourceH": 12
+    },
+    "pet_bag_main_panel_imgskill5_png": {
+      "x": 1923,
+      "y": 389,
+      "w": 83,
+      "h": 99,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 83,
+      "sourceH": 99
+    },
+    "pet_bag_main_panel_imgskill5bg_png": {
+      "x": 561,
+      "y": 181,
+      "w": 83,
+      "h": 99,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 83,
+      "sourceH": 99
+    },
+    "pet_bag_main_panel_imgskill5lock_png": {
+      "x": 1774,
+      "y": 343,
+      "w": 67,
+      "h": 41,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 67,
+      "sourceH": 41
+    },
+    "pet_bag_main_panel_imgskill5notopen_png": {
+      "x": 226,
+      "y": 662,
+      "w": 67,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 67,
+      "sourceH": 40
+    },
+    "pet_bag_main_panel_imgstar_png": {
+      "x": 829,
+      "y": 402,
+      "w": 12,
+      "h": 11,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 12,
+      "sourceH": 11
+    },
+    "pet_bag_main_panel_imgtoopbg_png": {
+      "x": 243,
+      "y": 338,
+      "w": 407,
+      "h": 37,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 407,
+      "sourceH": 37
+    },
+    "pet_bag_main_panel_markstonebg_png": {
+      "x": 79,
+      "y": 675,
+      "w": 23,
+      "h": 27,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 23,
+      "sourceH": 27
+    },
+    "pet_bag_main_panel_tipsbg_png": {
+      "x": 1068,
+      "y": 280,
+      "w": 933,
+      "h": 26,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 933,
+      "sourceH": 26
+    },
+    "pet_bag_main_panep_pet_item_imgbg_png": {
+      "x": 365,
+      "y": 481,
+      "w": 72,
+      "h": 92,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 72,
+      "sourceH": 92
+    },
+    "pet_bag_main_panep_pet_item_img_sy_bg_png": {
+      "x": 1305,
+      "y": 481,
+      "w": 72,
+      "h": 91,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 72,
+      "sourceH": 91
+    },
+    "pet_bag_markcontrastpop_imge_arrowhead_png": {
+      "x": 1453,
+      "y": 531,
+      "w": 61,
+      "h": 90,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 61,
+      "sourceH": 90
+    },
+    "pet_bag_markcontrastpop_imge_name_search_png": {
+      "x": 439,
+      "y": 521,
+      "w": 134,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 134,
+      "sourceH": 46
+    },
+    "pet_bag_markcontrastpop_imge_series_search_png": {
+      "x": 1026,
+      "y": 512,
+      "w": 134,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 134,
+      "sourceH": 46
+    },
+    "pet_bag_mark_item_imgbluerect_png": {
+      "x": 1553,
+      "y": 492,
+      "w": 80,
+      "h": 80,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 80,
+      "sourceH": 80
+    },
+    "pet_bag_mark_item_imgyellowrect_png": {
+      "x": 1,
+      "y": 492,
+      "w": 80,
+      "h": 80,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 80,
+      "sourceH": 80
+    },
+    "pet_bag_no_item_sign_png": {
+      "x": 249,
+      "y": 606,
+      "w": 198,
+      "h": 19,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 198,
+      "sourceH": 19
+    },
+    "pet_bag_open_stone_pop_imgtitle_png": {
+      "x": 802,
+      "y": 599,
+      "w": 126,
+      "h": 32,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 126,
+      "sourceH": 32
+    },
+    "pet_bag_open_stone_pop_imgtitlebg_png": {
+      "x": 1068,
+      "y": 244,
+      "w": 748,
+      "h": 34,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 748,
+      "sourceH": 34
+    },
+    "pet_bag_open_stone_pop_imgtitlebg2_png": {
+      "x": 1374,
+      "y": 308,
+      "w": 476,
+      "h": 33,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 476,
+      "sourceH": 33
+    },
+    "pet_bag_open_stone_pop_narrow_png": {
+      "x": 646,
+      "y": 181,
+      "w": 44,
+      "h": 63,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 44,
+      "sourceH": 63
+    },
+    "pet_bag_open_stone_pop_tipsbg_png": {
+      "x": 879,
+      "y": 389,
+      "w": 686,
+      "h": 24,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 686,
+      "sourceH": 24
+    },
+    "pet_bag_pet_item_imgfirst_png": {
+      "x": 510,
+      "y": 318,
+      "w": 40,
+      "h": 17,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 40,
+      "sourceH": 17
+    },
+    "pet_bag_pet_pop_52_png": {
+      "x": 1852,
+      "y": 308,
+      "w": 180,
+      "h": 79,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 180,
+      "sourceH": 79
+    },
+    "pet_bag_pet_pop_btnrefresh_png": {
+      "x": 1516,
+      "y": 531,
+      "w": 29,
+      "h": 28,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 29,
+      "sourceH": 28
+    },
+    "pet_bag_pet_pop_xzk_png": {
+      "x": 1933,
+      "y": 668,
+      "w": 45,
+      "h": 45,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 45,
+      "sourceH": 45
+    },
+    "pet_bag_recommend_mark_pop_imgtitle_png": {
+      "x": 989,
+      "y": 635,
+      "w": 103,
+      "h": 32,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 103,
+      "sourceH": 32
+    },
+    "pet_bag_replace_skill_pop_imgtitle_png": {
+      "x": 116,
+      "y": 481,
+      "w": 247,
+      "h": 32,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 247,
+      "sourceH": 32
+    },
+    "pet_bag_resisetting1_png": {
+      "x": 1391,
+      "y": 1,
+      "w": 460,
+      "h": 98,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 460,
+      "sourceH": 98
+    },
+    "pet_bag_resisetting2_png": {
+      "x": 243,
+      "y": 181,
+      "w": 157,
+      "h": 155,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 157,
+      "sourceH": 155
+    },
+    "pet_bag_resisetting3_png": {
+      "x": 2030,
+      "y": 660,
+      "w": 16,
+      "h": 19,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 16,
+      "sourceH": 19
+    },
+    "pet_bag_resisetting_bg_png": {
+      "x": 1861,
+      "y": 93,
+      "w": 5,
+      "h": 5,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 5,
+      "sourceH": 5
+    },
+    "pet_bag_resisetting_title1_png": {
+      "x": 1378,
+      "y": 623,
+      "w": 132,
+      "h": 25,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 132,
+      "sourceH": 25
+    },
+    "pet_bag_resisetting_title2_png": {
+      "x": 1516,
+      "y": 620,
+      "w": 132,
+      "h": 25,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 132,
+      "sourceH": 25
+    },
+    "pet_bag_resistance_exchange_pop_png": {
+      "x": 779,
+      "y": 633,
+      "w": 103,
+      "h": 32,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 103,
+      "sourceH": 32
+    },
+    "pet_bag_resistance_item_imgbg_png": {
+      "x": 1832,
+      "y": 217,
+      "w": 12,
+      "h": 12,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 12,
+      "sourceH": 12
+    },
+    "pet_bag_resistance_setting_pop_png": {
+      "x": 884,
+      "y": 633,
+      "w": 103,
+      "h": 32,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 103,
+      "sourceH": 32
+    },
+    "pet_bag_resistance_strengthen_pop_imgtitle_png": {
+      "x": 352,
+      "y": 642,
+      "w": 103,
+      "h": 31,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 103,
+      "sourceH": 31
+    },
+    "pet_bag_select_resistance_btn1_png": {
+      "x": 561,
+      "y": 282,
+      "w": 123,
+      "h": 54,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 123,
+      "sourceH": 54
+    },
+    "pet_bag_select_resistance_btn2_png": {
+      "x": 1788,
+      "y": 567,
+      "w": 107,
+      "h": 38,
+      "offX": 7,
+      "offY": 8,
+      "sourceW": 123,
+      "sourceH": 54
+    },
+    "pet_bag_skill_stone_compose_pop_imgremove_png": {
+      "x": 1113,
+      "y": 688,
+      "w": 26,
+      "h": 26,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 26,
+      "sourceH": 26
+    },
+    "pet_bag_skill_view_img1_png": {
+      "x": 194,
+      "y": 693,
+      "w": 19,
+      "h": 19,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 19,
+      "sourceH": 19
+    },
+    "pet_bag_skill_view_imgfifthbg_png": {
+      "x": 1,
+      "y": 181,
+      "w": 113,
+      "h": 309,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 113,
+      "sourceH": 309
+    },
+    "pet_bag_small_item_item_imgbg_png": {
+      "x": 1002,
+      "y": 560,
+      "w": 73,
+      "h": 73,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 73,
+      "sourceH": 73
+    },
+    "pet_bag_small_select_resistance_btn_png": {
+      "x": 1861,
+      "y": 607,
+      "w": 94,
+      "h": 36,
+      "offX": 9,
+      "offY": 9,
+      "sourceW": 109,
+      "sourceH": 53
+    },
+    "pet_bag_small_select_resistance_btn1_png": {
+      "x": 891,
+      "y": 544,
+      "w": 109,
+      "h": 53,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 109,
+      "sourceH": 53
+    },
+    "pet_bag_special_img_yu_png": {
+      "x": 737,
+      "y": 684,
+      "w": 28,
+      "h": 28,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 28,
+      "sourceH": 28
+    },
+    "pet_bag_s_effect_preview_pop_imgbg1_png": {
+      "x": 1068,
+      "y": 151,
+      "w": 709,
+      "h": 55,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 709,
+      "sourceH": 55
+    },
+    "pet_bag_s_effect_preview_pop_imgstar1_png": {
+      "x": 1609,
+      "y": 574,
+      "w": 24,
+      "h": 23,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 24,
+      "sourceH": 23
+    },
+    "pet_bag_s_effect_preview_pop_imgstar5_png": {
+      "x": 649,
+      "y": 521,
+      "w": 23,
+      "h": 21,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 23,
+      "sourceH": 21
+    },
+    "pet_bag_s_effect_preview_pop_imgtitle_png": {
+      "x": 558,
+      "y": 637,
+      "w": 103,
+      "h": 32,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 103,
+      "sourceH": 32
+    },
+    "pet_bag_s_effect_view_btncompose_png": {
+      "x": 457,
+      "y": 642,
+      "w": 87,
+      "h": 34,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 87,
+      "sourceH": 34
+    },
+    "pet_bag_s_effect_view_btnpreview_png": {
+      "x": 1150,
+      "y": 642,
+      "w": 87,
+      "h": 34,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 87,
+      "sourceH": 34
+    },
+    "pet_bag_s_effect_view_imgexp_png": {
+      "x": 1084,
+      "y": 688,
+      "w": 27,
+      "h": 27,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 27,
+      "sourceH": 27
+    },
+    "pet_bag_s_effect_view_imgline_png": {
+      "x": 1374,
+      "y": 381,
+      "w": 388,
+      "h": 1,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 388,
+      "sourceH": 1
+    },
+    "pet_bag_s_effect_view_imgstar1_png": {
+      "x": 126,
+      "y": 693,
+      "w": 20,
+      "h": 19,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 20,
+      "sourceH": 19
+    },
+    "pet_bag_s_effect_view_imgstarbg_png": {
+      "x": 402,
+      "y": 318,
+      "w": 106,
+      "h": 18,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 106,
+      "sourceH": 18
+    },
+    "pet_bag_use_stone_pop_btnfilter_png": {
+      "x": 449,
+      "y": 606,
+      "w": 107,
+      "h": 34,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 107,
+      "sourceH": 34
+    },
+    "pet_bag_use_stone_pop_imgall_png": {
+      "x": 1758,
+      "y": 607,
+      "w": 101,
+      "h": 35,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 101,
+      "sourceH": 35
+    },
+    "pet_bag_use_stone_pop_imgtitle_png": {
+      "x": 120,
+      "y": 606,
+      "w": 127,
+      "h": 31,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 127,
+      "sourceH": 31
+    },
+    "pet_detailed_information_icon_sh_0_png": {
+      "x": 1288,
+      "y": 608,
+      "w": 20,
+      "h": 20,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 20,
+      "sourceH": 20
+    },
+    "pet_detailed_information_icon_sh_1_png": {
+      "x": 226,
+      "y": 639,
+      "w": 20,
+      "h": 20,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 20,
+      "sourceH": 20
+    },
+    "pet_detailed_information_icon_sh_2_png": {
+      "x": 1239,
+      "y": 642,
+      "w": 20,
+      "h": 20,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 20,
+      "sourceH": 20
+    },
+    "pet_manual_ski_render_bg_png": {
+      "x": 1886,
+      "y": 1,
+      "w": 155,
+      "h": 228,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 155,
+      "sourceH": 228
+    },
+    "rarity_iball_1_png": {
+      "x": 1512,
+      "y": 647,
+      "w": 50,
+      "h": 57,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 50,
+      "sourceH": 57
+    },
+    "rarity_iball_2_png": {
+      "x": 1564,
+      "y": 647,
+      "w": 50,
+      "h": 57,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 50,
+      "sourceH": 57
+    },
+    "rarity_iball_3_png": {
+      "x": 1372,
+      "y": 650,
+      "w": 50,
+      "h": 57,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 50,
+      "sourceH": 57
+    },
+    "rarity_iball_4_png": {
+      "x": 1424,
+      "y": 650,
+      "w": 50,
+      "h": 57,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 50,
+      "sourceH": 57
+    },
+    "rarity_iball_5_png": {
+      "x": 1616,
+      "y": 655,
+      "w": 50,
+      "h": 57,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 50,
+      "sourceH": 57
+    },
+    "rarity_iball_6_png": {
+      "x": 1668,
+      "y": 655,
+      "w": 50,
+      "h": 57,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 50,
+      "sourceH": 57
+    },
+    "resistance_lock_png": {
+      "x": 1041,
+      "y": 669,
+      "w": 41,
+      "h": 41,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 41,
+      "sourceH": 41
+    },
+    "resistance_unlock_png": {
+      "x": 1,
+      "y": 675,
+      "w": 41,
+      "h": 41,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 41,
+      "sourceH": 41
+    },
+    "vipPng_3_png": {
+      "x": 1008,
+      "y": 368,
+      "w": 58,
+      "h": 18,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 58,
+      "sourceH": 18
+    },
+    "vipPng_4_png": {
+      "x": 401,
+      "y": 684,
+      "w": 66,
+      "h": 18,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 66,
+      "sourceH": 18
+    },
+    "vipPng_5_png": {
+      "x": 469,
+      "y": 684,
+      "w": 66,
+      "h": 18,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 66,
+      "sourceH": 18
+    }
+  }
+}

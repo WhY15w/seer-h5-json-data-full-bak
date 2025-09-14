@@ -1,0 +1,425 @@
+{
+  "file": "exchange_award_prompt_view_sheet.png",
+  "frames": {
+    "achieve_view_title_png": {
+      "x": 909,
+      "y": 173,
+      "w": 103,
+      "h": 32,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 103,
+      "sourceH": 32
+    },
+    "counter_mark_view_imgBtn_exchange_png": {
+      "x": 874,
+      "y": 115,
+      "w": 120,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 120,
+      "sourceH": 40
+    },
+    "counter_mark_view_imgMark_png": {
+      "x": 939,
+      "y": 1,
+      "w": 73,
+      "h": 70,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 73,
+      "sourceH": 70
+    },
+    "counter_mark_view_title_buymake_png": {
+      "x": 1,
+      "y": 259,
+      "w": 55,
+      "h": 31,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 55,
+      "sourceH": 31
+    },
+    "equipment_view_title_png": {
+      "x": 562,
+      "y": 49,
+      "w": 205,
+      "h": 63,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 205,
+      "sourceH": 63
+    },
+    "exchange_main_btnAdd_png": {
+      "x": 874,
+      "y": 49,
+      "w": 21,
+      "h": 21,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 21,
+      "sourceH": 21
+    },
+    "exchange_main_img_di2_png": {
+      "x": 386,
+      "y": 258,
+      "w": 133,
+      "h": 21,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 133,
+      "sourceH": 21
+    },
+    "fifth_skill_view_title_png": {
+      "x": 909,
+      "y": 207,
+      "w": 103,
+      "h": 32,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 103,
+      "sourceH": 32
+    },
+    "flypet_view_title_png": {
+      "x": 177,
+      "y": 229,
+      "w": 102,
+      "h": 32,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 102,
+      "sourceH": 32
+    },
+    "flypet_view_up_bg_png": {
+      "x": 379,
+      "y": 1,
+      "w": 558,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 558,
+      "sourceH": 46
+    },
+    "headFrame_view_title_png": {
+      "x": 935,
+      "y": 241,
+      "w": 80,
+      "h": 31,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 80,
+      "sourceH": 31
+    },
+    "head_view_title_png": {
+      "x": 750,
+      "y": 258,
+      "w": 55,
+      "h": 31,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 55,
+      "sourceH": 31
+    },
+    "item_view_btnAdd_png": {
+      "x": 738,
+      "y": 114,
+      "w": 29,
+      "h": 28,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 29,
+      "sourceH": 28
+    },
+    "item_view_btnbg_png": {
+      "x": 1,
+      "y": 223,
+      "w": 174,
+      "h": 34,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 174,
+      "sourceH": 34
+    },
+    "item_view_btnBuy_png": {
+      "x": 562,
+      "y": 114,
+      "w": 174,
+      "h": 50,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 174,
+      "sourceH": 50
+    },
+    "item_view_btnBuy_s_png": {
+      "x": 874,
+      "y": 73,
+      "w": 120,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 120,
+      "sourceH": 40
+    },
+    "item_view_btnMax_png": {
+      "x": 636,
+      "y": 258,
+      "w": 64,
+      "h": 36,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 64,
+      "sourceH": 36
+    },
+    "item_view_btnMin_png": {
+      "x": 570,
+      "y": 258,
+      "w": 64,
+      "h": 36,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 64,
+      "sourceH": 36
+    },
+    "item_view_btnSub_png": {
+      "x": 217,
+      "y": 263,
+      "w": 29,
+      "h": 28,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 29,
+      "sourceH": 28
+    },
+    "item_view_icon_cost_png": {
+      "x": 996,
+      "y": 103,
+      "w": 19,
+      "h": 20,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 19,
+      "sourceH": 20
+    },
+    "item_view_imgBg_png": {
+      "x": 379,
+      "y": 186,
+      "w": 528,
+      "h": 36,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 528,
+      "sourceH": 36
+    },
+    "item_view_imgMarkBg_png": {
+      "x": 769,
+      "y": 49,
+      "w": 103,
+      "h": 103,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 103,
+      "sourceH": 103
+    },
+    "item_view_img_bar_png": {
+      "x": 738,
+      "y": 157,
+      "w": 235,
+      "h": 14,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 235,
+      "sourceH": 14
+    },
+    "item_view_img_point_png": {
+      "x": 996,
+      "y": 73,
+      "w": 20,
+      "h": 28,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 20,
+      "sourceH": 28
+    },
+    "item_view_img_thumb_png": {
+      "x": 58,
+      "y": 259,
+      "w": 111,
+      "h": 13,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 111,
+      "sourceH": 13
+    },
+    "item_view_special_icon_0_png": {
+      "x": 521,
+      "y": 258,
+      "w": 47,
+      "h": 51,
+      "offX": 4,
+      "offY": 4,
+      "sourceW": 55,
+      "sourceH": 55
+    },
+    "item_view_special_icon_1_png": {
+      "x": 702,
+      "y": 258,
+      "w": 46,
+      "h": 38,
+      "offX": 5,
+      "offY": 8,
+      "sourceW": 55,
+      "sourceH": 55
+    },
+    "item_view_texture_slider_track_png": {
+      "x": 562,
+      "y": 173,
+      "w": 248,
+      "h": 5,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 248,
+      "sourceH": 5
+    },
+    "item_view_texture_txtBg_png": {
+      "x": 379,
+      "y": 224,
+      "w": 135,
+      "h": 32,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 135,
+      "sourceH": 32
+    },
+    "item_view_title_item_buy_png": {
+      "x": 516,
+      "y": 224,
+      "w": 103,
+      "h": 32,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 103,
+      "sourceH": 32
+    },
+    "pet_view_title_png": {
+      "x": 281,
+      "y": 258,
+      "w": 103,
+      "h": 31,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 103,
+      "sourceH": 31
+    },
+    "skin_view_btnInfo_png": {
+      "x": 248,
+      "y": 263,
+      "w": 29,
+      "h": 28,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 29,
+      "sourceH": 28
+    },
+    "skin_view_petFrame_png": {
+      "x": 239,
+      "y": 1,
+      "w": 138,
+      "h": 226,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 138,
+      "sourceH": 226
+    },
+    "skin_view_title_png": {
+      "x": 726,
+      "y": 224,
+      "w": 102,
+      "h": 32,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 102,
+      "sourceH": 32
+    },
+    "special_gift_title_png": {
+      "x": 830,
+      "y": 241,
+      "w": 103,
+      "h": 31,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 103,
+      "sourceH": 31
+    },
+    "suit_view_hero_show_png": {
+      "x": 379,
+      "y": 49,
+      "w": 181,
+      "h": 135,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 181,
+      "sourceH": 135
+    },
+    "suit_view_icon_png": {
+      "x": 897,
+      "y": 49,
+      "w": 24,
+      "h": 18,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 24,
+      "sourceH": 18
+    },
+    "suit_view_icon_item_png": {
+      "x": 171,
+      "y": 263,
+      "w": 44,
+      "h": 31,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 44,
+      "sourceH": 31
+    },
+    "suit_view_Kuang_png": {
+      "x": 281,
+      "y": 229,
+      "w": 68,
+      "h": 18,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 68,
+      "sourceH": 18
+    },
+    "suit_view_texture_001_png": {
+      "x": 1,
+      "y": 1,
+      "w": 236,
+      "h": 220,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 236,
+      "sourceH": 220
+    },
+    "suit_view_texture_002_png": {
+      "x": 1,
+      "y": 296,
+      "w": 376,
+      "h": 1,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 376,
+      "sourceH": 1
+    },
+    "suit_view_title_suit_png": {
+      "x": 621,
+      "y": 224,
+      "w": 103,
+      "h": 32,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 103,
+      "sourceH": 32
+    }
+  }
+}

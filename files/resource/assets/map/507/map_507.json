@@ -1,0 +1,40 @@
+{
+  "resources": [
+    {
+      "type": "json",
+      "url": "507.json",
+      "name": "road_507"
+    },
+    {
+      "type": "text",
+      "url": "Map507Skin.exml",
+      "name": "exml_507"
+    },
+    {
+      "type": "image",
+      "url": "map_507_bg_mc.jpg",
+      "name": "map_507_bg_mc_jpg"
+    },
+    {
+      "type": "image",
+      "url": "map_507_baoshi.png",
+      "name": "map_507_baoshi_png"
+    },
+    {
+      "type": "image",
+      "url": "map_507_baoshi1.png",
+      "name": "map_507_baoshi1_png"
+    },
+    {
+      "type": "image",
+      "url": "map_507_top_mc.png",
+      "name": "map_507_top_mc_png"
+    }
+  ],
+  "groups": [
+    {
+      "keys": "road_507,exml_507,map_507_bg_mc_jpg,map_507_baoshi_png,map_507_baoshi1_png,map_507_top_mc_png",
+      "name": "map_507"
+    }
+  ]
+}

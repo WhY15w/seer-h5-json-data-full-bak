@@ -1,0 +1,1235 @@
+{
+  "file": "petDetailedInfo_sheet.png",
+  "frames": {
+    "bind_skill_panel_bg_png": {
+      "x": 1036,
+      "y": 594,
+      "w": 632,
+      "h": 372,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 632,
+      "sourceH": 372
+    },
+    "item_rune_img_name_bg_png": {
+      "x": 1813,
+      "y": 565,
+      "w": 102,
+      "h": 24,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 102,
+      "sourceH": 24
+    },
+    "mark_imgSearch_png": {
+      "x": 1995,
+      "y": 490,
+      "w": 38,
+      "h": 38,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 38,
+      "sourceH": 38
+    },
+    "pet_change_skill_img_btn_close_png": {
+      "x": 463,
+      "y": 724,
+      "w": 53,
+      "h": 56,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 53,
+      "sourceH": 56
+    },
+    "pet_change_skill_texture_point_png": {
+      "x": 2033,
+      "y": 347,
+      "w": 14,
+      "h": 14,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 14,
+      "sourceH": 14
+    },
+    "pet_change_skill_texture_top_png": {
+      "x": 1,
+      "y": 821,
+      "w": 523,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 523,
+      "sourceH": 40
+    },
+    "pet_change_skill_title_unequipSkill_png": {
+      "x": 1564,
+      "y": 1016,
+      "w": 79,
+      "h": 19,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 79,
+      "sourceH": 19
+    },
+    "pet_detailedInfo_bg_png": {
+      "x": 1184,
+      "y": 1,
+      "w": 521,
+      "h": 591,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 521,
+      "sourceH": 591
+    },
+    "pet_detailed_information_bead_bg_png": {
+      "x": 1995,
+      "y": 293,
+      "w": 45,
+      "h": 52,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 45,
+      "sourceH": 52
+    },
+    "pet_detailed_information_default_icon_bg_png": {
+      "x": 1943,
+      "y": 565,
+      "w": 90,
+      "h": 90,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 90,
+      "sourceH": 90
+    },
+    "pet_detailed_information_icon_sh_0_png": {
+      "x": 2007,
+      "y": 921,
+      "w": 20,
+      "h": 20,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 20,
+      "sourceH": 20
+    },
+    "pet_detailed_information_icon_sh_1_png": {
+      "x": 1917,
+      "y": 565,
+      "w": 20,
+      "h": 20,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 20,
+      "sourceH": 20
+    },
+    "pet_detailed_information_icon_sh_2_png": {
+      "x": 2007,
+      "y": 899,
+      "w": 20,
+      "h": 20,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 20,
+      "sourceH": 20
+    },
+    "pet_detailed_information_img_btn_close_png": {
+      "x": 1229,
+      "y": 1162,
+      "w": 100,
+      "h": 50,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 100,
+      "sourceH": 50
+    },
+    "pet_detailed_information_img_icon_png": {
+      "x": 2015,
+      "y": 135,
+      "w": 26,
+      "h": 26,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 26,
+      "sourceH": 26
+    },
+    "pet_detailed_information_info_down_png": {
+      "x": 1894,
+      "y": 884,
+      "w": 111,
+      "h": 76,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 111,
+      "sourceH": 76
+    },
+    "pet_detailed_information_info_up_png": {
+      "x": 1966,
+      "y": 1042,
+      "w": 53,
+      "h": 25,
+      "offX": 29,
+      "offY": 25,
+      "sourceW": 111,
+      "sourceH": 76
+    },
+    "pet_detailed_information_item_down_png": {
+      "x": 1740,
+      "y": 1042,
+      "w": 111,
+      "h": 76,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 111,
+      "sourceH": 76
+    },
+    "pet_detailed_information_item_up_png": {
+      "x": 1995,
+      "y": 530,
+      "w": 52,
+      "h": 24,
+      "offX": 30,
+      "offY": 26,
+      "sourceW": 111,
+      "sourceH": 76
+    },
+    "pet_detailed_information_kangxing_down_png": {
+      "x": 1853,
+      "y": 1042,
+      "w": 111,
+      "h": 76,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 111,
+      "sourceH": 76
+    },
+    "pet_detailed_information_kangxing_up_png": {
+      "x": 56,
+      "y": 1050,
+      "w": 53,
+      "h": 25,
+      "offX": 29,
+      "offY": 25,
+      "sourceW": 111,
+      "sourceH": 76
+    },
+    "pet_detailed_information_skill_down_png": {
+      "x": 1036,
+      "y": 498,
+      "w": 111,
+      "h": 76,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 111,
+      "sourceH": 76
+    },
+    "pet_detailed_information_skill_up_png": {
+      "x": 1,
+      "y": 1050,
+      "w": 53,
+      "h": 25,
+      "offX": 29,
+      "offY": 25,
+      "sourceW": 111,
+      "sourceH": 76
+    },
+    "pet_detailed_information_skin_down_png": {
+      "x": 1894,
+      "y": 806,
+      "w": 111,
+      "h": 76,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 111,
+      "sourceH": 76
+    },
+    "pet_detailed_information_skin_up_png": {
+      "x": 1982,
+      "y": 962,
+      "w": 53,
+      "h": 25,
+      "offX": 29,
+      "offY": 25,
+      "sourceW": 111,
+      "sourceH": 76
+    },
+    "pet_detailed_information_title_png": {
+      "x": 402,
+      "y": 1041,
+      "w": 126,
+      "h": 36,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 126,
+      "sourceH": 36
+    },
+    "pet_detailed_information_up_bg_png": {
+      "x": 1,
+      "y": 1080,
+      "w": 1136,
+      "h": 60,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 1136,
+      "sourceH": 60
+    },
+    "pet_detailed_info_up_png": {
+      "x": 1995,
+      "y": 401,
+      "w": 42,
+      "h": 41,
+      "offX": 4,
+      "offY": 5,
+      "sourceW": 50,
+      "sourceH": 50
+    },
+    "pet_info_img_select_png": {
+      "x": 249,
+      "y": 717,
+      "w": 212,
+      "h": 102,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 212,
+      "sourceH": 102
+    },
+    "pet_info_item_texture_001_png": {
+      "x": 1995,
+      "y": 347,
+      "w": 36,
+      "h": 52,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 36,
+      "sourceH": 52
+    },
+    "pet_info_item_texture_line_png": {
+      "x": 1,
+      "y": 863,
+      "w": 492,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 492,
+      "sourceH": 40
+    },
+    "pet_info_item_title_item_png": {
+      "x": 1095,
+      "y": 1204,
+      "w": 101,
+      "h": 36,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 101,
+      "sourceH": 36
+    },
+    "pet_info_manual3test_down_png": {
+      "x": 969,
+      "y": 1142,
+      "w": 128,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 128,
+      "sourceH": 40
+    },
+    "pet_info_manual3test_up_png": {
+      "x": 1099,
+      "y": 1162,
+      "w": 128,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 128,
+      "sourceH": 40
+    },
+    "pet_info_resistance_img_btn_start_png": {
+      "x": 1656,
+      "y": 990,
+      "w": 174,
+      "h": 50,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 174,
+      "sourceH": 50
+    },
+    "pet_info_resistance_img_btn_up_png": {
+      "x": 1036,
+      "y": 1006,
+      "w": 174,
+      "h": 50,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 174,
+      "sourceH": 50
+    },
+    "pet_info_resistance_start_tips_png": {
+      "x": 1670,
+      "y": 730,
+      "w": 272,
+      "h": 74,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 272,
+      "sourceH": 74
+    },
+    "pet_info_resistance_texture_001_png": {
+      "x": 1,
+      "y": 947,
+      "w": 454,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 454,
+      "sourceH": 40
+    },
+    "pet_info_resistance_title_ctrl_png": {
+      "x": 1,
+      "y": 1142,
+      "w": 168,
+      "h": 34,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 168,
+      "sourceH": 34
+    },
+    "pet_info_resistance_title_rh_png": {
+      "x": 1,
+      "y": 1178,
+      "w": 140,
+      "h": 34,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 140,
+      "sourceH": 34
+    },
+    "pet_info_resistance_title_shkx_png": {
+      "x": 349,
+      "y": 1196,
+      "w": 101,
+      "h": 36,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 101,
+      "sourceH": 36
+    },
+    "pet_info_resistance_title_yckx_png": {
+      "x": 452,
+      "y": 1196,
+      "w": 101,
+      "h": 36,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 101,
+      "sourceH": 36
+    },
+    "pet_info_resistance_unStartTips_png": {
+      "x": 1139,
+      "y": 1126,
+      "w": 210,
+      "h": 34,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 210,
+      "sourceH": 34
+    },
+    "pet_info_skill_temp_texture_1_png": {
+      "x": 1,
+      "y": 717,
+      "w": 246,
+      "h": 89,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 246,
+      "sourceH": 89
+    },
+    "pet_info_skin_img_allow_png": {
+      "x": 471,
+      "y": 643,
+      "w": 57,
+      "h": 79,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 57,
+      "sourceH": 79
+    },
+    "pet_info_skin_img_dot_png": {
+      "x": 2007,
+      "y": 877,
+      "w": 20,
+      "h": 20,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 20,
+      "sourceH": 20
+    },
+    "pet_info_skin_img_yzb_png": {
+      "x": 1351,
+      "y": 1136,
+      "w": 131,
+      "h": 42,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 131,
+      "sourceH": 42
+    },
+    "pet_info_skin_img_zhuangbei_png": {
+      "x": 1832,
+      "y": 990,
+      "w": 174,
+      "h": 50,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 174,
+      "sourceH": 50
+    },
+    "pet_info_skin_render_bg_png": {
+      "x": 1813,
+      "y": 293,
+      "w": 180,
+      "h": 270,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 180,
+      "sourceH": 270
+    },
+    "pet_info_skin_render_img_ys_png": {
+      "x": 1,
+      "y": 989,
+      "w": 169,
+      "h": 59,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 169,
+      "sourceH": 59
+    },
+    "pet_info_skin_render_name_bg_png": {
+      "x": 172,
+      "y": 989,
+      "w": 179,
+      "h": 51,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 179,
+      "sourceH": 51
+    },
+    "pet_info_skin_render_select_bg_png": {
+      "x": 1813,
+      "y": 1,
+      "w": 200,
+      "h": 290,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 200,
+      "sourceH": 290
+    },
+    "pet_info_skin_title_skin_png": {
+      "x": 1944,
+      "y": 765,
+      "w": 102,
+      "h": 36,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 102,
+      "sourceH": 36
+    },
+    "pet_info_view_base_png": {
+      "x": 465,
+      "y": 905,
+      "w": 64,
+      "h": 32,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 64,
+      "sourceH": 32
+    },
+    "pet_info_view_btnQa_png": {
+      "x": 2015,
+      "y": 104,
+      "w": 26,
+      "h": 29,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 26,
+      "sourceH": 29
+    },
+    "pet_info_view_hplimt_png": {
+      "x": 1149,
+      "y": 498,
+      "w": 24,
+      "h": 22,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 24,
+      "sourceH": 22
+    },
+    "pet_info_view_img_btn_add_png": {
+      "x": 2007,
+      "y": 841,
+      "w": 34,
+      "h": 34,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 34,
+      "sourceH": 34
+    },
+    "pet_info_view_img_btn_ref_png": {
+      "x": 495,
+      "y": 863,
+      "w": 34,
+      "h": 34,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 34,
+      "sourceH": 34
+    },
+    "pet_info_view_img_btn_rune_png": {
+      "x": 1564,
+      "y": 1042,
+      "w": 174,
+      "h": 50,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 174,
+      "sourceH": 50
+    },
+    "pet_info_view_img_btn_rune_warehouse_png": {
+      "x": 353,
+      "y": 989,
+      "w": 174,
+      "h": 50,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 174,
+      "sourceH": 50
+    },
+    "pet_info_view_img_start_png": {
+      "x": 2033,
+      "y": 377,
+      "w": 13,
+      "h": 12,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 13,
+      "sourceH": 12
+    },
+    "pet_info_view_img_start_null_png": {
+      "x": 2033,
+      "y": 363,
+      "w": 13,
+      "h": 12,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 13,
+      "sourceH": 12
+    },
+    "pet_info_view_lock_png": {
+      "x": 1995,
+      "y": 444,
+      "w": 35,
+      "h": 44,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 35,
+      "sourceH": 44
+    },
+    "pet_info_view_lvl_png": {
+      "x": 1149,
+      "y": 522,
+      "w": 22,
+      "h": 23,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 22,
+      "sourceH": 23
+    },
+    "pet_info_view_pve_png": {
+      "x": 465,
+      "y": 939,
+      "w": 64,
+      "h": 32,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 64,
+      "sourceH": 32
+    },
+    "pet_info_view_pvp_png": {
+      "x": 463,
+      "y": 782,
+      "w": 64,
+      "h": 32,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 64,
+      "sourceH": 32
+    },
+    "pet_info_view_studay_png": {
+      "x": 2015,
+      "y": 241,
+      "w": 26,
+      "h": 22,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 26,
+      "sourceH": 22
+    },
+    "pet_info_view_texing_png": {
+      "x": 2015,
+      "y": 217,
+      "w": 26,
+      "h": 22,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 26,
+      "sourceH": 22
+    },
+    "pet_info_view_texture_001_png": {
+      "x": 172,
+      "y": 1042,
+      "w": 228,
+      "h": 34,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 228,
+      "sourceH": 34
+    },
+    "pet_info_view_texture_line_1_png": {
+      "x": 1,
+      "y": 808,
+      "w": 220,
+      "h": 1,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 220,
+      "sourceH": 1
+    },
+    "pet_info_view_texture_star_png": {
+      "x": 2015,
+      "y": 191,
+      "w": 25,
+      "h": 24,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 25,
+      "sourceH": 24
+    },
+    "pet_info_view_tianfu_png": {
+      "x": 2015,
+      "y": 163,
+      "w": 26,
+      "h": 26,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 26,
+      "sourceH": 26
+    },
+    "pet_info_view_titile_attribute_png": {
+      "x": 1443,
+      "y": 1204,
+      "w": 101,
+      "h": 36,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 101,
+      "sourceH": 36
+    },
+    "pet_info_view_titile_info_png": {
+      "x": 1708,
+      "y": 1188,
+      "w": 101,
+      "h": 36,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 101,
+      "sourceH": 36
+    },
+    "pet_info_view_title_maskequip_png": {
+      "x": 246,
+      "y": 1196,
+      "w": 101,
+      "h": 36,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 101,
+      "sourceH": 36
+    },
+    "pet_info_view_xingge_png": {
+      "x": 1149,
+      "y": 547,
+      "w": 24,
+      "h": 21,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 24,
+      "sourceH": 21
+    },
+    "pet_lv_up_exp_icon_png": {
+      "x": 2007,
+      "y": 803,
+      "w": 36,
+      "h": 36,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 36,
+      "sourceH": 36
+    },
+    "pet_lv_up_img_btn_exchange_png": {
+      "x": 1614,
+      "y": 1162,
+      "w": 92,
+      "h": 42,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 92,
+      "sourceH": 42
+    },
+    "pet_lv_up_img_btn_up_1_png": {
+      "x": 999,
+      "y": 1184,
+      "w": 94,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 94,
+      "sourceH": 40
+    },
+    "pet_lv_up_img_btn_up_10_png": {
+      "x": 1942,
+      "y": 1174,
+      "w": 94,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 94,
+      "sourceH": 40
+    },
+    "pet_lv_up_img_btn_up_100_png": {
+      "x": 807,
+      "y": 1184,
+      "w": 94,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 94,
+      "sourceH": 40
+    },
+    "pet_lv_up_img_btn_up_5_png": {
+      "x": 903,
+      "y": 1184,
+      "w": 94,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 94,
+      "sourceH": 40
+    },
+    "pet_lv_up_nav_exp_down_png": {
+      "x": 1484,
+      "y": 1162,
+      "w": 128,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 128,
+      "sourceH": 40
+    },
+    "pet_lv_up_nav_exp_up_png": {
+      "x": 579,
+      "y": 1142,
+      "w": 128,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 128,
+      "sourceH": 40
+    },
+    "pet_lv_up_nav_item_down_png": {
+      "x": 709,
+      "y": 1142,
+      "w": 128,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 128,
+      "sourceH": 40
+    },
+    "pet_lv_up_nav_item_up_png": {
+      "x": 839,
+      "y": 1142,
+      "w": 128,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 128,
+      "sourceH": 40
+    },
+    "pet_lv_up_texture_001_png": {
+      "x": 2035,
+      "y": 1,
+      "w": 8,
+      "h": 24,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 8,
+      "sourceH": 24
+    },
+    "pet_lv_up_texture_002_png": {
+      "x": 1,
+      "y": 905,
+      "w": 462,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 462,
+      "sourceH": 40
+    },
+    "pet_lv_up_texture_003_png": {
+      "x": 1,
+      "y": 643,
+      "w": 468,
+      "h": 72,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 468,
+      "sourceH": 72
+    },
+    "pet_lv_up_title_exp_png": {
+      "x": 1894,
+      "y": 962,
+      "w": 86,
+      "h": 19,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 86,
+      "sourceH": 19
+    },
+    "pet_lv_up_title_next_png": {
+      "x": 579,
+      "y": 1184,
+      "w": 226,
+      "h": 19,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 226,
+      "sourceH": 19
+    },
+    "pet_skill_info_helpBtn_png_png": {
+      "x": 2015,
+      "y": 265,
+      "w": 22,
+      "h": 25,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 22,
+      "sourceH": 25
+    },
+    "pet_skill_info_img_allow_png": {
+      "x": 1670,
+      "y": 597,
+      "w": 271,
+      "h": 131,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 271,
+      "sourceH": 131
+    },
+    "pet_skill_info_img_btn_skill_png": {
+      "x": 1212,
+      "y": 1006,
+      "w": 174,
+      "h": 50,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 174,
+      "sourceH": 50
+    },
+    "pet_skill_info_img_btn_skillstone_png": {
+      "x": 1388,
+      "y": 1016,
+      "w": 174,
+      "h": 50,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 174,
+      "sourceH": 50
+    },
+    "pet_skill_info_img_unskill_png": {
+      "x": 1670,
+      "y": 806,
+      "w": 222,
+      "h": 90,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 222,
+      "sourceH": 90
+    },
+    "pet_skill_info_skill_item_bg_png": {
+      "x": 1670,
+      "y": 898,
+      "w": 222,
+      "h": 90,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 222,
+      "sourceH": 90
+    },
+    "pet_skill_info_texture_line_png": {
+      "x": 1,
+      "y": 811,
+      "w": 197,
+      "h": 1,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 197,
+      "sourceH": 1
+    },
+    "pet_skill_info_title_equipSkill_png": {
+      "x": 1811,
+      "y": 1188,
+      "w": 101,
+      "h": 36,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 101,
+      "sourceH": 36
+    },
+    "pet_skill_info_title_fiveSkill_png": {
+      "x": 143,
+      "y": 1196,
+      "w": 101,
+      "h": 36,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 101,
+      "sourceH": 36
+    },
+    "pet_skin_noSkin_png": {
+      "x": 1414,
+      "y": 968,
+      "w": 240,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 240,
+      "sourceH": 46
+    },
+    "pet_style_pet_bg_png": {
+      "x": 534,
+      "y": 1,
+      "w": 648,
+      "h": 495,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 648,
+      "sourceH": 495
+    },
+    "pet_style_texture_1_png": {
+      "x": 1036,
+      "y": 968,
+      "w": 376,
+      "h": 36,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 376,
+      "sourceH": 36
+    },
+    "pet_use_item_panel_bg_png": {
+      "x": 1,
+      "y": 1,
+      "w": 531,
+      "h": 640,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 531,
+      "sourceH": 640
+    },
+    "pet_use_item_panel_img_btn_back_png": {
+      "x": 2015,
+      "y": 1,
+      "w": 18,
+      "h": 101,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 18,
+      "sourceH": 101
+    },
+    "rune_ware_house_2j_down_png": {
+      "x": 1371,
+      "y": 1068,
+      "w": 114,
+      "h": 66,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 115,
+      "sourceH": 67
+    },
+    "rune_ware_house_2j_up_png": {
+      "x": 375,
+      "y": 1142,
+      "w": 100,
+      "h": 52,
+      "offX": 3,
+      "offY": 7,
+      "sourceW": 115,
+      "sourceH": 67
+    },
+    "rune_ware_house_3j_down_png": {
+      "x": 1487,
+      "y": 1094,
+      "w": 114,
+      "h": 66,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 115,
+      "sourceH": 67
+    },
+    "rune_ware_house_3j_up_png": {
+      "x": 171,
+      "y": 1142,
+      "w": 100,
+      "h": 52,
+      "offX": 3,
+      "offY": 7,
+      "sourceW": 115,
+      "sourceH": 67
+    },
+    "rune_ware_house_4j_down_png": {
+      "x": 1139,
+      "y": 1058,
+      "w": 114,
+      "h": 66,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 115,
+      "sourceH": 67
+    },
+    "rune_ware_house_4j_up_png": {
+      "x": 1944,
+      "y": 711,
+      "w": 100,
+      "h": 52,
+      "offX": 3,
+      "offY": 7,
+      "sourceW": 115,
+      "sourceH": 67
+    },
+    "rune_ware_house_5j_down_png": {
+      "x": 1255,
+      "y": 1058,
+      "w": 114,
+      "h": 66,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 115,
+      "sourceH": 67
+    },
+    "rune_ware_house_5j_up_png": {
+      "x": 273,
+      "y": 1142,
+      "w": 100,
+      "h": 52,
+      "offX": 3,
+      "offY": 7,
+      "sourceW": 115,
+      "sourceH": 67
+    },
+    "rune_ware_house_ability_down_png": {
+      "x": 1603,
+      "y": 1094,
+      "w": 111,
+      "h": 66,
+      "offX": 3,
+      "offY": 0,
+      "sourceW": 115,
+      "sourceH": 67
+    },
+    "rune_ware_house_ability_up_png": {
+      "x": 1943,
+      "y": 657,
+      "w": 100,
+      "h": 52,
+      "offX": 3,
+      "offY": 7,
+      "sourceW": 115,
+      "sourceH": 67
+    },
+    "rune_ware_house_all_down_png": {
+      "x": 1716,
+      "y": 1120,
+      "w": 111,
+      "h": 66,
+      "offX": 3,
+      "offY": 0,
+      "sourceW": 115,
+      "sourceH": 67
+    },
+    "rune_ware_house_all_up_png": {
+      "x": 1942,
+      "y": 1120,
+      "w": 100,
+      "h": 52,
+      "offX": 3,
+      "offY": 7,
+      "sourceW": 115,
+      "sourceH": 67
+    },
+    "rune_ware_house_bg_png": {
+      "x": 534,
+      "y": 498,
+      "w": 500,
+      "h": 580,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 500,
+      "sourceH": 580
+    },
+    "rune_ware_house_imgTag_png": {
+      "x": 1149,
+      "y": 570,
+      "w": 25,
+      "h": 17,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 25,
+      "sourceH": 17
+    },
+    "rune_ware_house_left_bg_png": {
+      "x": 1707,
+      "y": 1,
+      "w": 104,
+      "h": 594,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 104,
+      "sourceH": 594
+    },
+    "rune_ware_house_skill_down_png": {
+      "x": 1829,
+      "y": 1120,
+      "w": 111,
+      "h": 66,
+      "offX": 3,
+      "offY": 0,
+      "sourceW": 115,
+      "sourceH": 67
+    },
+    "rune_ware_house_skill_up_png": {
+      "x": 477,
+      "y": 1142,
+      "w": 100,
+      "h": 52,
+      "offX": 3,
+      "offY": 7,
+      "sourceW": 115,
+      "sourceH": 67
+    },
+    "rune_ware_house_universal_up_png": {
+      "x": 1331,
+      "y": 1180,
+      "w": 110,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 110,
+      "sourceH": 40
+    }
+  }
+}

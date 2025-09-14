@@ -1,0 +1,25 @@
+{
+  "resources": [
+    {
+      "url": "8.json",
+      "name": "road_8",
+      "type": "json"
+    },
+    {
+      "url": "Map8Skin.exml",
+      "name": "exml_8",
+      "type": "text"
+    },
+    {
+      "url": "map_8_bg_mc.jpg",
+      "name": "map_8_bg_mc_jpg",
+      "type": "image"
+    }
+  ],
+  "groups": [
+    {
+      "keys": "road_8,exml_8,map_8_bg_mc_jpg",
+      "name": "map_8"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "SubTexture": [
+    {
+      "name": "元件 3",
+      "x": 0,
+      "width": 56,
+      "y": 0,
+      "height": 84
+    },
+    {
+      "name": "leg_04",
+      "x": 81,
+      "width": 19,
+      "y": 0,
+      "height": 20
+    },
+    {
+      "name": "leg_03",
+      "x": 57,
+      "width": 18,
+      "y": 18,
+      "height": 16
+    },
+    {
+      "name": "leg_01",
+      "x": 57,
+      "width": 23,
+      "y": 0,
+      "height": 17
+    },
+    {
+      "name": "leg_02",
+      "x": 102,
+      "width": 20,
+      "y": 0,
+      "height": 15
+    },
+    {
+      "name": "元件 5",
+      "x": 102,
+      "width": 18,
+      "y": 16,
+      "height": 16
+    },
+    {
+      "name": "leg_33",
+      "x": 76,
+      "width": 10,
+      "y": 21,
+      "height": 18
+    }
+  ],
+  "name": 100193,
+  "imagePath": "texture.png"
+}

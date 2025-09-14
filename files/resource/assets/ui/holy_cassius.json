@@ -1,0 +1,36 @@
+{
+  "groups": [
+    {
+      "name": "holy_cassius",
+      "keys": "holy_cassius_sheet,hc_mainpanel_bg_jpg,hc_panel1_bg_jpg,hc_panel2_jingling_png,hc_panel5_tuceng_53_png"
+    }
+  ],
+  "resources": [
+    {
+      "name": "hc_mainpanel_bg_jpg",
+      "type": "image",
+      "url": "holy_cassius/outside/hc_mainpanel_bg.jpg"
+    },
+    {
+      "name": "hc_panel1_bg_jpg",
+      "type": "image",
+      "url": "holy_cassius/outside/hc_panel1_bg.jpg"
+    },
+    {
+      "name": "hc_panel2_jingling_png",
+      "type": "image",
+      "url": "holy_cassius/outside/hc_panel2_jingling.png"
+    },
+    {
+      "name": "hc_panel5_tuceng_53_png",
+      "type": "image",
+      "url": "holy_cassius/outside/hc_panel5_tuceng_53.png"
+    },
+    {
+      "name": "holy_cassius_sheet",
+      "type": "sheet",
+      "url": "holy_cassius/holy_cassius_sheet.json",
+      "subkeys": "hc_mainpanel_btncollect_png,hc_mainpanel_btncollected_png,hc_mainpanel_btninfo_png,hc_mainpanel_icon1_png,hc_mainpanel_icon2_png,hc_mainpanel_icon3_png,hc_mainpanel_icon4_png,hc_mainpanel_nlds_png,hc_mainpanel_stms_png,hc_mainpanel_title1_png,hc_mainpanel_title2_png,hc_mainpanel_title3_png,hc_mainpanel_title4_png,hc_mainpanel_title5_png,hc_mainpanel_yihuode_png,hc_mainpanel_yiwancheng_png,hc_mainpanel_yjtg_png,hc_mainpanel_zzhd_png,hc_panel1_btnadd_png,hc_panel1_btnfight_png,hc_panel1_img_orange_reddot_png,hc_panel1_juxing_904_png,hc_panel1_jx_904_kb_png,hc_panel1_jx_904_kb_2_png,hc_panel1_pet1-txt_png,hc_panel1_pet1_png,hc_panel1_pet2-txt_png,hc_panel1_pet2_png,hc_panel1_pet3-txt_png,hc_panel1_pet3_png,hc_panel1_pet4-txt_png,hc_panel1_pet4_png,hc_panel1_pet5-txt_png,hc_panel1_pet5_png,hc_panel1_title1_png,hc_panel1_vs_png,hc_panel1_zu_17_png,hc_panel2_di_png,hc_panel2_jhjd_png,hc_panel2_jindu_png,hc_panel2_jlbb_png,hc_panel2_jlhf_png,hc_panel2_juxing_905_png,hc_panel2_jx_904_kb_2_png,hc_panel2_xz_16_png,hc_panel2_zzzq_png,hc_panel3_btnfast_png,hc_panel3_btnsszy_png,hc_panel3_img_orange_reddot_kb_png,hc_panel3_jlzt_kb_png,hc_panel3_jx_904_kb_2_png,hc_panel3_jx_904_kb_3_png,hc_panel3_jx_906_kb_3_png,hc_panel3_pczz_png,hc_panel3_xz_19_png,hc_panel3_yishixiao_png,hc_panel3_zu_20_png,hc_panel4_btnfight_png,hc_panel4_jx_906_kb_3_png,hc_panel4_tuceng_49_png,hc_panel4_tuceng_50_png,hc_panel4_yljgdsh_png,hc_panel4_yljgjsh_png,hc_panel4_zjss_png,hc_panel4_zu_21_png,hc_panel5_1715922_png,hc_panel5_41182_png,hc_panel5_btnexcchange_png,hc_panel5_btnfight1_png,hc_panel5_btnfight2_png,hc_panel5_btnfight3_png,hc_panel5_diwujineng_png,hc_panel5_dwjn_png,hc_panel5_jx_909_kb_png,hc_panel5_slfx_png,hc_panel5_zsky_png,hc_panel5_zstx_png,hc_panel5_zstx11_png,hc_panel5_zu_22_png,hc_panel5_zu_23_png"
+    }
+  ]
+}

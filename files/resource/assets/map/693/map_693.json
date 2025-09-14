@@ -1,0 +1,40 @@
+{
+  "resources": [
+    {
+      "type": "json",
+      "url": "693.json",
+      "name": "road_693"
+    },
+    {
+      "type": "text",
+      "url": "Map693Skin.exml",
+      "name": "exml_693"
+    },
+    {
+      "type": "image",
+      "url": "map_693_bg_mc.jpg",
+      "name": "map_693_bg_mc_jpg"
+    },
+    {
+      "type": "image",
+      "url": "map_693_animator_mc.png",
+      "name": "map_693_animator_mc_png"
+    },
+    {
+      "type": "image",
+      "url": "map_693_shibei1.png",
+      "name": "map_693_shibei1_png"
+    },
+    {
+      "type": "image",
+      "url": "map_693_top_mc.png",
+      "name": "map_693_top_mc_png"
+    }
+  ],
+  "groups": [
+    {
+      "keys": "road_693,exml_693,map_693_bg_mc_jpg,map_693_animator_mc_png,map_693_shibei1_png,map_693_top_mc_png",
+      "name": "map_693"
+    }
+  ]
+}

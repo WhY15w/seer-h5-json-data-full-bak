@@ -1,0 +1,25 @@
+{
+  "groups": [
+    {
+      "keys": "road_971,exml_971,map_971_bg_mc_jpg",
+      "name": "map_971"
+    }
+  ],
+  "resources": [
+    {
+      "type": "json",
+      "url": "971.json",
+      "name": "road_971"
+    },
+    {
+      "type": "text",
+      "url": "Map971Skin.exml",
+      "name": "exml_971"
+    },
+    {
+      "type": "image",
+      "url": "map_971_bg_mc.jpg",
+      "name": "map_971_bg_mc_jpg"
+    }
+  ]
+}

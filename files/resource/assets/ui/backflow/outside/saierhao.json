@@ -1,0 +1,1723 @@
+{
+  "skeleton": {
+    "hash": "T07VXIm2eYA",
+    "spine": "4.0.64",
+    "x": -509,
+    "y": -320,
+    "width": 910,
+    "height": 640,
+    "images": "./images/",
+    "audio": ""
+  },
+  "bones": [
+    {
+      "name": "root"
+    },
+    {
+      "name": "bone",
+      "parent": "root"
+    },
+    {
+      "name": "saiegl",
+      "parent": "bone"
+    },
+    {
+      "name": "saier",
+      "parent": "saiegl"
+    },
+    {
+      "name": "saier11",
+      "parent": "saiegl",
+      "x": -54
+    },
+    {
+      "name": "saier10",
+      "parent": "saiegl",
+      "x": -27,
+      "y": -15.5
+    },
+    {
+      "name": "saier9",
+      "parent": "saier",
+      "x": -88.5,
+      "y": 11.5
+    },
+    {
+      "name": "saier8",
+      "parent": "saier",
+      "x": 5,
+      "y": 2.5
+    },
+    {
+      "name": "weibu",
+      "parent": "saier",
+      "x": -175.22,
+      "y": 55.7,
+      "color": "ff2525ff"
+    },
+    {
+      "name": "weibu5",
+      "parent": "weibu",
+      "x": -11.63,
+      "y": -120.35,
+      "color": "ff2525ff"
+    },
+    {
+      "name": "saier7",
+      "parent": "weibu5",
+      "length": 100,
+      "rotation": 148.14,
+      "x": 6,
+      "y": -3.75,
+      "color": "ff2424ff"
+    },
+    {
+      "name": "weibu4",
+      "parent": "weibu",
+      "x": 21.81,
+      "y": -39.03,
+      "color": "ff2525ff"
+    },
+    {
+      "name": "saier6",
+      "parent": "weibu4",
+      "length": 100,
+      "rotation": 155.54,
+      "x": 5.25,
+      "y": -4.38,
+      "color": "ff2424ff"
+    },
+    {
+      "name": "weibu3",
+      "parent": "weibu",
+      "x": -15.57,
+      "y": 46.89,
+      "color": "ff2525ff"
+    },
+    {
+      "name": "saier5",
+      "parent": "weibu3",
+      "length": 100,
+      "rotation": 160.03,
+      "x": 12.24,
+      "y": -7.86,
+      "color": "ff2424ff"
+    },
+    {
+      "name": "weibu2",
+      "parent": "weibu",
+      "x": 90.35,
+      "y": 109.68,
+      "color": "ff2525ff"
+    },
+    {
+      "name": "saier4",
+      "parent": "weibu2",
+      "length": 100,
+      "rotation": 160.77,
+      "x": 8.14,
+      "y": -1.67,
+      "color": "ff2424ff"
+    },
+    {
+      "name": "saier3",
+      "parent": "saier",
+      "x": -26,
+      "y": 19.5
+    },
+    {
+      "name": "saier2",
+      "parent": "saier",
+      "x": 10,
+      "y": 73
+    },
+    {
+      "name": "saier1",
+      "parent": "saier",
+      "x": 17,
+      "y": 75
+    },
+    {
+      "name": "weibu6",
+      "parent": "saier",
+      "x": -175.22,
+      "y": 55.7,
+      "color": "ff2525ff"
+    },
+    {
+      "name": "weibu7",
+      "parent": "weibu6",
+      "x": -11.63,
+      "y": -120.35,
+      "color": "ff2525ff"
+    },
+    {
+      "name": "saier12",
+      "parent": "weibu7",
+      "length": 100,
+      "rotation": 148.14,
+      "x": 6,
+      "y": -3.75,
+      "color": "ff2424ff"
+    },
+    {
+      "name": "weibu8",
+      "parent": "weibu6",
+      "x": 21.81,
+      "y": -39.03,
+      "color": "ff2525ff"
+    },
+    {
+      "name": "saier13",
+      "parent": "weibu8",
+      "length": 100,
+      "rotation": 155.54,
+      "x": 5.25,
+      "y": -4.38,
+      "color": "ff2424ff"
+    },
+    {
+      "name": "weibu9",
+      "parent": "weibu6",
+      "x": -15.57,
+      "y": 46.89,
+      "color": "ff2525ff"
+    },
+    {
+      "name": "saier14",
+      "parent": "weibu9",
+      "length": 100,
+      "rotation": 160.03,
+      "x": 12.24,
+      "y": -7.86,
+      "color": "ff2424ff"
+    },
+    {
+      "name": "weibu10",
+      "parent": "weibu6",
+      "x": 90.35,
+      "y": 109.68,
+      "color": "ff2525ff"
+    },
+    {
+      "name": "saier15",
+      "parent": "weibu10",
+      "length": 100,
+      "rotation": 160.77,
+      "x": 8.14,
+      "y": -1.67,
+      "color": "ff2424ff"
+    },
+    {
+      "name": "weibu11",
+      "parent": "saier",
+      "x": -175.22,
+      "y": 55.7,
+      "color": "ff2525ff"
+    },
+    {
+      "name": "weibu12",
+      "parent": "weibu11",
+      "x": -11.63,
+      "y": -120.35,
+      "color": "ff2525ff"
+    },
+    {
+      "name": "saier16",
+      "parent": "weibu12",
+      "length": 100,
+      "rotation": 148.14,
+      "x": 6,
+      "y": -3.75,
+      "color": "ff2424ff"
+    },
+    {
+      "name": "weibu13",
+      "parent": "weibu11",
+      "x": 21.81,
+      "y": -39.03,
+      "color": "ff2525ff"
+    },
+    {
+      "name": "saier17",
+      "parent": "weibu13",
+      "length": 100,
+      "rotation": 155.54,
+      "x": 5.25,
+      "y": -4.38,
+      "color": "ff2424ff"
+    },
+    {
+      "name": "weibu14",
+      "parent": "weibu11",
+      "x": -15.57,
+      "y": 46.89,
+      "color": "ff2525ff"
+    },
+    {
+      "name": "saier18",
+      "parent": "weibu14",
+      "length": 100,
+      "rotation": 160.03,
+      "x": 12.24,
+      "y": -7.86,
+      "color": "ff2424ff"
+    },
+    {
+      "name": "weibu15",
+      "parent": "weibu11",
+      "x": 90.35,
+      "y": 109.68,
+      "color": "ff2525ff"
+    },
+    {
+      "name": "saier19",
+      "parent": "weibu15",
+      "length": 100,
+      "rotation": 160.77,
+      "x": 8.14,
+      "y": -1.67,
+      "color": "ff2424ff"
+    },
+    {
+      "name": "saierha",
+      "parent": "saiegl"
+    },
+    {
+      "name": "saierhc",
+      "parent": "saierha",
+      "x": 5.5,
+      "y": -241
+    },
+    {
+      "name": "saierhb",
+      "parent": "saierha",
+      "x": 103.26,
+      "y": 100.83,
+      "color": "ff1010ff"
+    },
+    {
+      "name": "saierhzi",
+      "parent": "saierhb",
+      "x": 96.74,
+      "y": 42.17,
+      "color": "300101ff"
+    },
+    {
+      "name": "saierhzii",
+      "parent": "saierhzi",
+      "x": 62,
+      "y": -10.5,
+      "color": "300101ff"
+    }
+  ],
+  "slots": [
+    {
+      "name": "saier11",
+      "bone": "saier11",
+      "attachment": "saier11"
+    },
+    {
+      "name": "saier10",
+      "bone": "saier10",
+      "attachment": "saier10"
+    },
+    {
+      "name": "saier9",
+      "bone": "saier9",
+      "attachment": "saier9"
+    },
+    {
+      "name": "saier8",
+      "bone": "saier8",
+      "attachment": "saier8"
+    },
+    {
+      "name": "saier7",
+      "bone": "saier7",
+      "attachment": "saier7"
+    },
+    {
+      "name": "saier12",
+      "bone": "saier12",
+      "attachment": "saier7"
+    },
+    {
+      "name": "saier16",
+      "bone": "saier16",
+      "attachment": "saier7"
+    },
+    {
+      "name": "saier6",
+      "bone": "saier6",
+      "attachment": "saier6"
+    },
+    {
+      "name": "saier13",
+      "bone": "saier13",
+      "attachment": "saier6"
+    },
+    {
+      "name": "saier17",
+      "bone": "saier17",
+      "attachment": "saier6"
+    },
+    {
+      "name": "saier5",
+      "bone": "saier5",
+      "attachment": "saier5"
+    },
+    {
+      "name": "saier14",
+      "bone": "saier14",
+      "attachment": "saier5"
+    },
+    {
+      "name": "saier18",
+      "bone": "saier18",
+      "attachment": "saier5"
+    },
+    {
+      "name": "saier4",
+      "bone": "saier4",
+      "attachment": "saier4"
+    },
+    {
+      "name": "saier15",
+      "bone": "saier15",
+      "attachment": "saier4"
+    },
+    {
+      "name": "saier19",
+      "bone": "saier19",
+      "attachment": "saier4"
+    },
+    {
+      "name": "saier3",
+      "bone": "saier3",
+      "attachment": "saier3"
+    },
+    {
+      "name": "saier2",
+      "bone": "saier2",
+      "attachment": "saier2"
+    },
+    {
+      "name": "saier1",
+      "bone": "saier1",
+      "attachment": "saier1"
+    },
+    {
+      "name": "saierhc",
+      "bone": "saierhc",
+      "attachment": "saierhc"
+    },
+    {
+      "name": "saierhb",
+      "bone": "saierhb"
+    },
+    {
+      "name": "saierhzii",
+      "bone": "saierhzii"
+    },
+    {
+      "name": "saierhzih",
+      "bone": "saierhzi"
+    },
+    {
+      "name": "saierhzig",
+      "bone": "saierhzi"
+    },
+    {
+      "name": "saierhzif",
+      "bone": "saierhzi"
+    },
+    {
+      "name": "saierhzie",
+      "bone": "saierhzi"
+    },
+    {
+      "name": "saierhzid",
+      "bone": "saierhzi"
+    },
+    {
+      "name": "saierhzic",
+      "bone": "saierhzi"
+    },
+    {
+      "name": "saierhzib",
+      "bone": "saierhzi"
+    },
+    {
+      "name": "saierhzia",
+      "bone": "saierhzi"
+    }
+  ],
+  "skins": [
+    {
+      "name": "default",
+      "attachments": {
+        "saier1": {
+          "saier1": {
+            "width": 178,
+            "height": 136
+          }
+        },
+        "saier2": {
+          "saier2": {
+            "width": 100,
+            "height": 130
+          }
+        },
+        "saier3": {
+          "saier3": {
+            "width": 526,
+            "height": 419
+          }
+        },
+        "saier4": {
+          "saier4": {
+            "x": 58.04,
+            "y": 1.41,
+            "rotation": -160.77,
+            "width": 152,
+            "height": 91
+          }
+        },
+        "saier5": {
+          "saier5": {
+            "x": 85.48,
+            "y": 4.71,
+            "rotation": -160.03,
+            "width": 205,
+            "height": 123
+          }
+        },
+        "saier6": {
+          "saier6": {
+            "x": 97.68,
+            "y": 4.66,
+            "rotation": -155.54,
+            "width": 236,
+            "height": 151
+          }
+        },
+        "saier7": {
+          "saier7": {
+            "x": 94.78,
+            "y": -62.26,
+            "rotation": -148.14,
+            "width": 123,
+            "height": 245
+          }
+        },
+        "saier8": {
+          "saier8": {
+            "width": 498,
+            "height": 417
+          }
+        },
+        "saier9": {
+          "saier9": {
+            "width": 747,
+            "height": 507
+          }
+        },
+        "saier10": {
+          "saier10": {
+            "width": 608,
+            "height": 369
+          }
+        },
+        "saier11": {
+          "saier11": {
+            "width": 910,
+            "height": 640
+          }
+        },
+        "saier12": {
+          "saier7": {
+            "x": 94.78,
+            "y": -62.26,
+            "rotation": -148.14,
+            "width": 123,
+            "height": 245
+          }
+        },
+        "saier13": {
+          "saier6": {
+            "x": 97.68,
+            "y": 4.66,
+            "rotation": -155.54,
+            "width": 236,
+            "height": 151
+          }
+        },
+        "saier14": {
+          "saier5": {
+            "x": 85.48,
+            "y": 4.71,
+            "rotation": -160.03,
+            "width": 205,
+            "height": 123
+          }
+        },
+        "saier15": {
+          "saier4": {
+            "x": 58.04,
+            "y": 1.41,
+            "rotation": -160.77,
+            "width": 152,
+            "height": 91
+          }
+        },
+        "saier16": {
+          "saier7": {
+            "x": 94.78,
+            "y": -62.26,
+            "rotation": -148.14,
+            "width": 123,
+            "height": 245
+          }
+        },
+        "saier17": {
+          "saier6": {
+            "x": 97.68,
+            "y": 4.66,
+            "rotation": -155.54,
+            "width": 236,
+            "height": 151
+          }
+        },
+        "saier18": {
+          "saier5": {
+            "x": 85.48,
+            "y": 4.71,
+            "rotation": -160.03,
+            "width": 205,
+            "height": 123
+          }
+        },
+        "saier19": {
+          "saier4": {
+            "x": 58.04,
+            "y": 1.41,
+            "rotation": -160.77,
+            "width": 152,
+            "height": 91
+          }
+        },
+        "saierhb": {
+          "saierhb": {
+            "x": 96.74,
+            "y": 42.17,
+            "width": 212,
+            "height": 108
+          }
+        },
+        "saierhc": {
+          "saierhc": {
+            "width": 645,
+            "height": 54
+          }
+        },
+        "saierhzia": {
+          "saierhzia": {
+            "x": -25,
+            "y": 18.5,
+            "width": 48,
+            "height": 49
+          }
+        },
+        "saierhzib": {
+          "saierhzib": {
+            "x": 1.5,
+            "y": 18,
+            "width": 47,
+            "height": 48
+          }
+        },
+        "saierhzic": {
+          "saierhzic": {
+            "x": 27.5,
+            "y": 17.5,
+            "width": 47,
+            "height": 49
+          }
+        },
+        "saierhzid": {
+          "saierhzid": {
+            "x": 46,
+            "y": 11.5,
+            "width": 30,
+            "height": 31
+          }
+        },
+        "saierhzie": {
+          "saierhzie": {
+            "x": -38.5,
+            "y": -10.5,
+            "width": 47,
+            "height": 49
+          }
+        },
+        "saierhzif": {
+          "saierhzif": {
+            "x": -12,
+            "y": -10.5,
+            "width": 48,
+            "height": 49
+          }
+        },
+        "saierhzig": {
+          "saierhzig": {
+            "x": 14.5,
+            "y": -10,
+            "width": 47,
+            "height": 48
+          }
+        },
+        "saierhzih": {
+          "saierhzih": {
+            "x": 41.5,
+            "y": -10.5,
+            "width": 49,
+            "height": 49
+          }
+        },
+        "saierhzii": {
+          "saierhzii": {
+            "width": 4,
+            "height": 21
+          }
+        }
+      }
+    }
+  ],
+  "animations": {
+    "ani_saierhao": {
+      "slots": {
+        "saier4": {
+          "rgba": [
+            {
+              "color": "ffffff00"
+            },
+            {
+              "time": 0.2,
+              "color": "ffffffff",
+              "curve": "stepped"
+            },
+            {
+              "time": 0.6667,
+              "color": "ffffffff"
+            },
+            {
+              "time": 0.9333,
+              "color": "ffffff00",
+              "curve": "stepped"
+            },
+            {
+              "time": 1,
+              "color": "ffffff00"
+            }
+          ]
+        },
+        "saier5": {
+          "rgba": [
+            {
+              "color": "ffffff00"
+            },
+            {
+              "time": 0.2,
+              "color": "ffffffff",
+              "curve": "stepped"
+            },
+            {
+              "time": 0.6667,
+              "color": "ffffffff"
+            },
+            {
+              "time": 0.9333,
+              "color": "ffffff00",
+              "curve": "stepped"
+            },
+            {
+              "time": 1,
+              "color": "ffffff00"
+            }
+          ]
+        },
+        "saier6": {
+          "rgba": [
+            {
+              "color": "ffffff00"
+            },
+            {
+              "time": 0.2,
+              "color": "ffffffff",
+              "curve": "stepped"
+            },
+            {
+              "time": 0.6667,
+              "color": "ffffffff"
+            },
+            {
+              "time": 0.9333,
+              "color": "ffffff00",
+              "curve": "stepped"
+            },
+            {
+              "time": 1,
+              "color": "ffffff00"
+            }
+          ]
+        },
+        "saier7": {
+          "rgba": [
+            {
+              "color": "ffffff00"
+            },
+            {
+              "time": 0.2,
+              "color": "ffffffff",
+              "curve": "stepped"
+            },
+            {
+              "time": 0.6667,
+              "color": "ffffffff"
+            },
+            {
+              "time": 0.9333,
+              "color": "ffffff00",
+              "curve": "stepped"
+            },
+            {
+              "time": 1,
+              "color": "ffffff00"
+            }
+          ]
+        },
+        "saier12": {
+          "rgba": [
+            {
+              "color": "ffffffff"
+            },
+            {
+              "time": 0.2667,
+              "color": "ffffff00",
+              "curve": "stepped"
+            },
+            {
+              "time": 0.3333,
+              "color": "ffffff00"
+            },
+            {
+              "time": 0.5333,
+              "color": "ffffffff",
+              "curve": "stepped"
+            },
+            {
+              "time": 1,
+              "color": "ffffffff"
+            }
+          ]
+        },
+        "saier13": {
+          "rgba": [
+            {
+              "color": "ffffffff"
+            },
+            {
+              "time": 0.2667,
+              "color": "ffffff00",
+              "curve": "stepped"
+            },
+            {
+              "time": 0.3333,
+              "color": "ffffff00"
+            },
+            {
+              "time": 0.5333,
+              "color": "ffffffff",
+              "curve": "stepped"
+            },
+            {
+              "time": 1,
+              "color": "ffffffff"
+            }
+          ]
+        },
+        "saier14": {
+          "rgba": [
+            {
+              "color": "ffffffff"
+            },
+            {
+              "time": 0.2667,
+              "color": "ffffff00",
+              "curve": "stepped"
+            },
+            {
+              "time": 0.3333,
+              "color": "ffffff00"
+            },
+            {
+              "time": 0.5333,
+              "color": "ffffffff",
+              "curve": "stepped"
+            },
+            {
+              "time": 1,
+              "color": "ffffffff"
+            }
+          ]
+        },
+        "saier15": {
+          "rgba": [
+            {
+              "color": "ffffffff"
+            },
+            {
+              "time": 0.2667,
+              "color": "ffffff00",
+              "curve": "stepped"
+            },
+            {
+              "time": 0.3333,
+              "color": "ffffff00"
+            },
+            {
+              "time": 0.5333,
+              "color": "ffffffff",
+              "curve": "stepped"
+            },
+            {
+              "time": 1,
+              "color": "ffffffff"
+            }
+          ]
+        },
+        "saier16": {
+          "rgba": [
+            {
+              "color": "ffffffff",
+              "curve": "stepped"
+            },
+            {
+              "time": 0.3333,
+              "color": "ffffffff"
+            },
+            {
+              "time": 0.6,
+              "color": "ffffff00",
+              "curve": "stepped"
+            },
+            {
+              "time": 0.6667,
+              "color": "ffffff00"
+            },
+            {
+              "time": 0.8667,
+              "color": "ffffffff",
+              "curve": "stepped"
+            },
+            {
+              "time": 1,
+              "color": "ffffffff"
+            }
+          ]
+        },
+        "saier17": {
+          "rgba": [
+            {
+              "color": "ffffffff",
+              "curve": "stepped"
+            },
+            {
+              "time": 0.3333,
+              "color": "ffffffff"
+            },
+            {
+              "time": 0.6,
+              "color": "ffffff00",
+              "curve": "stepped"
+            },
+            {
+              "time": 0.6667,
+              "color": "ffffff00"
+            },
+            {
+              "time": 0.8667,
+              "color": "ffffffff",
+              "curve": "stepped"
+            },
+            {
+              "time": 1,
+              "color": "ffffffff"
+            }
+          ]
+        },
+        "saier18": {
+          "rgba": [
+            {
+              "color": "ffffffff",
+              "curve": "stepped"
+            },
+            {
+              "time": 0.3333,
+              "color": "ffffffff"
+            },
+            {
+              "time": 0.6,
+              "color": "ffffff00",
+              "curve": "stepped"
+            },
+            {
+              "time": 0.6667,
+              "color": "ffffff00"
+            },
+            {
+              "time": 0.8667,
+              "color": "ffffffff",
+              "curve": "stepped"
+            },
+            {
+              "time": 1,
+              "color": "ffffffff"
+            }
+          ]
+        },
+        "saier19": {
+          "rgba": [
+            {
+              "color": "ffffffff",
+              "curve": "stepped"
+            },
+            {
+              "time": 0.3333,
+              "color": "ffffffff"
+            },
+            {
+              "time": 0.6,
+              "color": "ffffff00",
+              "curve": "stepped"
+            },
+            {
+              "time": 0.6667,
+              "color": "ffffff00"
+            },
+            {
+              "time": 0.8667,
+              "color": "ffffffff",
+              "curve": "stepped"
+            },
+            {
+              "time": 1,
+              "color": "ffffffff"
+            }
+          ]
+        },
+        "saierhb": {
+          "attachment": [
+            {
+              "name": null
+            }
+          ]
+        },
+        "saierhzia": {
+          "attachment": [
+            {
+              "name": null
+            }
+          ]
+        },
+        "saierhzib": {
+          "attachment": [
+            {
+              "name": null
+            }
+          ]
+        },
+        "saierhzic": {
+          "attachment": [
+            {
+              "name": null
+            }
+          ]
+        },
+        "saierhzid": {
+          "attachment": [
+            {
+              "name": null
+            }
+          ]
+        },
+        "saierhzie": {
+          "attachment": [
+            {
+              "name": null
+            }
+          ]
+        },
+        "saierhzif": {
+          "attachment": [
+            {
+              "name": null
+            }
+          ]
+        },
+        "saierhzig": {
+          "attachment": [
+            {
+              "name": null
+            }
+          ]
+        },
+        "saierhzih": {
+          "attachment": [
+            {
+              "name": null
+            }
+          ]
+        },
+        "saierhzii": {
+          "attachment": [
+            {
+              "name": null
+            }
+          ]
+        }
+      },
+      "bones": {
+        "saier4": {
+          "translate": [
+            {},
+            {
+              "time": 0.9333,
+              "x": -3.37,
+              "y": 1.12,
+              "curve": "stepped"
+            },
+            {
+              "time": 1
+            }
+          ],
+          "scale": [
+            {
+              "x": 0.617,
+              "y": 0.617
+            },
+            {
+              "time": 0.9333,
+              "x": 1.54,
+              "y": 1.54,
+              "curve": "stepped"
+            },
+            {
+              "time": 1,
+              "x": 0.617,
+              "y": 0.617
+            }
+          ]
+        },
+        "saier5": {
+          "translate": [
+            {},
+            {
+              "time": 0.9333,
+              "x": -3.37,
+              "y": 1.12,
+              "curve": "stepped"
+            },
+            {
+              "time": 1
+            }
+          ],
+          "scale": [
+            {
+              "x": 0.617,
+              "y": 0.617
+            },
+            {
+              "time": 0.9333,
+              "x": 1.54,
+              "y": 1.54,
+              "curve": "stepped"
+            },
+            {
+              "time": 1,
+              "x": 0.617,
+              "y": 0.617
+            }
+          ]
+        },
+        "saier6": {
+          "translate": [
+            {},
+            {
+              "time": 0.9333,
+              "x": -3.37,
+              "y": 1.12,
+              "curve": "stepped"
+            },
+            {
+              "time": 1
+            }
+          ],
+          "scale": [
+            {
+              "x": 0.617,
+              "y": 0.617
+            },
+            {
+              "time": 0.9333,
+              "x": 1.54,
+              "y": 1.54,
+              "curve": "stepped"
+            },
+            {
+              "time": 1,
+              "x": 0.617,
+              "y": 0.617
+            }
+          ]
+        },
+        "saier7": {
+          "translate": [
+            {},
+            {
+              "time": 0.9333,
+              "x": -3.37,
+              "y": 1.12,
+              "curve": "stepped"
+            },
+            {
+              "time": 1
+            }
+          ],
+          "scale": [
+            {
+              "x": 0.617,
+              "y": 0.617
+            },
+            {
+              "time": 0.9333,
+              "x": 1.54,
+              "y": 1.54,
+              "curve": "stepped"
+            },
+            {
+              "time": 1,
+              "x": 0.617,
+              "y": 0.617
+            }
+          ]
+        },
+        "saier12": {
+          "translate": [
+            {
+              "x": -2.4,
+              "y": 0.8
+            },
+            {
+              "time": 0.2667,
+              "x": -3.37,
+              "y": 1.12,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.3333
+            },
+            {
+              "time": 1,
+              "x": -2.4,
+              "y": 0.8
+            }
+          ],
+          "scale": [
+            {
+              "x": 1.276,
+              "y": 1.276
+            },
+            {
+              "time": 0.2667,
+              "x": 1.54,
+              "y": 1.54,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.3333,
+              "x": 0.617,
+              "y": 0.617
+            },
+            {
+              "time": 1,
+              "x": 1.276,
+              "y": 1.276
+            }
+          ]
+        },
+        "saier13": {
+          "translate": [
+            {
+              "x": -2.4,
+              "y": 0.8
+            },
+            {
+              "time": 0.2667,
+              "x": -3.37,
+              "y": 1.12,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.3333
+            },
+            {
+              "time": 1,
+              "x": -2.4,
+              "y": 0.8
+            }
+          ],
+          "scale": [
+            {
+              "x": 1.276,
+              "y": 1.276
+            },
+            {
+              "time": 0.2667,
+              "x": 1.54,
+              "y": 1.54,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.3333,
+              "x": 0.617,
+              "y": 0.617
+            },
+            {
+              "time": 1,
+              "x": 1.276,
+              "y": 1.276
+            }
+          ]
+        },
+        "saier14": {
+          "translate": [
+            {
+              "x": -2.4,
+              "y": 0.8
+            },
+            {
+              "time": 0.2667,
+              "x": -3.37,
+              "y": 1.12,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.3333
+            },
+            {
+              "time": 1,
+              "x": -2.4,
+              "y": 0.8
+            }
+          ],
+          "scale": [
+            {
+              "x": 1.276,
+              "y": 1.276
+            },
+            {
+              "time": 0.2667,
+              "x": 1.54,
+              "y": 1.54,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.3333,
+              "x": 0.617,
+              "y": 0.617
+            },
+            {
+              "time": 1,
+              "x": 1.276,
+              "y": 1.276
+            }
+          ]
+        },
+        "saier15": {
+          "translate": [
+            {
+              "x": -2.4,
+              "y": 0.8
+            },
+            {
+              "time": 0.2667,
+              "x": -3.37,
+              "y": 1.12,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.3333
+            },
+            {
+              "time": 1,
+              "x": -2.4,
+              "y": 0.8
+            }
+          ],
+          "scale": [
+            {
+              "x": 1.276,
+              "y": 1.276
+            },
+            {
+              "time": 0.2667,
+              "x": 1.54,
+              "y": 1.54,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.3333,
+              "x": 0.617,
+              "y": 0.617
+            },
+            {
+              "time": 1,
+              "x": 1.276,
+              "y": 1.276
+            }
+          ]
+        },
+        "saier16": {
+          "translate": [
+            {
+              "x": -1.2,
+              "y": 0.4
+            },
+            {
+              "time": 0.6,
+              "x": -3.37,
+              "y": 1.12,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.6667
+            },
+            {
+              "time": 1,
+              "x": -1.2,
+              "y": 0.4
+            }
+          ],
+          "scale": [
+            {
+              "x": 0.947,
+              "y": 0.947
+            },
+            {
+              "time": 0.6,
+              "x": 1.54,
+              "y": 1.54,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.6667,
+              "x": 0.617,
+              "y": 0.617
+            },
+            {
+              "time": 1,
+              "x": 0.947,
+              "y": 0.947
+            }
+          ]
+        },
+        "saier17": {
+          "translate": [
+            {
+              "x": -1.2,
+              "y": 0.4
+            },
+            {
+              "time": 0.6,
+              "x": -3.37,
+              "y": 1.12,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.6667
+            },
+            {
+              "time": 1,
+              "x": -1.2,
+              "y": 0.4
+            }
+          ],
+          "scale": [
+            {
+              "x": 0.947,
+              "y": 0.947
+            },
+            {
+              "time": 0.6,
+              "x": 1.54,
+              "y": 1.54,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.6667,
+              "x": 0.617,
+              "y": 0.617
+            },
+            {
+              "time": 1,
+              "x": 0.947,
+              "y": 0.947
+            }
+          ]
+        },
+        "saier18": {
+          "translate": [
+            {
+              "x": -1.2,
+              "y": 0.4
+            },
+            {
+              "time": 0.6,
+              "x": -3.37,
+              "y": 1.12,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.6667
+            },
+            {
+              "time": 1,
+              "x": -1.2,
+              "y": 0.4
+            }
+          ],
+          "scale": [
+            {
+              "x": 0.947,
+              "y": 0.947
+            },
+            {
+              "time": 0.6,
+              "x": 1.54,
+              "y": 1.54,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.6667,
+              "x": 0.617,
+              "y": 0.617
+            },
+            {
+              "time": 1,
+              "x": 0.947,
+              "y": 0.947
+            }
+          ]
+        },
+        "saier19": {
+          "translate": [
+            {
+              "x": -1.2,
+              "y": 0.4
+            },
+            {
+              "time": 0.6,
+              "x": -3.37,
+              "y": 1.12,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.6667
+            },
+            {
+              "time": 1,
+              "x": -1.2,
+              "y": 0.4
+            }
+          ],
+          "scale": [
+            {
+              "x": 0.947,
+              "y": 0.947
+            },
+            {
+              "time": 0.6,
+              "x": 1.54,
+              "y": 1.54,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.6667,
+              "x": 0.617,
+              "y": 0.617
+            },
+            {
+              "time": 1,
+              "x": 0.947,
+              "y": 0.947
+            }
+          ]
+        },
+        "saiegl": {
+          "rotate": [
+            {
+              "curve": "stepped"
+            },
+            {
+              "time": 0.5,
+              "curve": "stepped"
+            },
+            {
+              "time": 1
+            }
+          ],
+          "translate": [
+            {
+              "curve": "stepped"
+            },
+            {
+              "time": 0.5,
+              "curve": "stepped"
+            },
+            {
+              "time": 1
+            }
+          ],
+          "scale": [
+            {
+              "curve": "stepped"
+            },
+            {
+              "time": 0.5,
+              "curve": "stepped"
+            },
+            {
+              "time": 1
+            }
+          ]
+        },
+        "saier": {
+          "rotate": [
+            {
+              "value": -0.38,
+              "curve": [
+                0.079,
+                -0.19,
+                0.156,
+                0
+              ]
+            },
+            {
+              "time": 0.2333,
+              "curve": [
+                0.4,
+                0,
+                0.567,
+                -0.84
+              ]
+            },
+            {
+              "time": 0.7333,
+              "value": -0.84,
+              "curve": [
+                0.823,
+                -0.84,
+                0.912,
+                -0.6
+              ]
+            },
+            {
+              "time": 1,
+              "value": -0.38
+            }
+          ],
+          "translate": [
+            {
+              "y": -9,
+              "curve": [
+                0.146,
+                0,
+                0.289,
+                0,
+                0.146,
+                -7.06,
+                0.289,
+                0
+              ]
+            },
+            {
+              "time": 0.4333,
+              "curve": [
+                0.6,
+                0,
+                0.767,
+                0,
+                0.6,
+                0,
+                0.767,
+                -9.51
+              ]
+            },
+            {
+              "time": 0.9333,
+              "y": -9.51,
+              "curve": [
+                0.956,
+                0,
+                0.979,
+                0,
+                0.956,
+                -9.51,
+                0.979,
+                -9.31
+              ]
+            },
+            {
+              "time": 1,
+              "y": -9
+            }
+          ],
+          "scale": [
+            {
+              "curve": [
+                0.167,
+                1,
+                0.333,
+                1.023,
+                0.167,
+                1,
+                0.333,
+                1.023
+              ]
+            },
+            {
+              "time": 0.5,
+              "x": 1.023,
+              "y": 1.023,
+              "curve": [
+                0.667,
+                1.023,
+                0.833,
+                1,
+                0.667,
+                1.023,
+                0.833,
+                1
+              ]
+            },
+            {
+              "time": 1
+            }
+          ]
+        }
+      }
+    }
+  }
+}

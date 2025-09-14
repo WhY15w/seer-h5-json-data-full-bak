@@ -1,0 +1,61 @@
+{
+  "groups": [
+    {
+      "name": "military_info",
+      "keys": "military_info_sheet,jinsheng_atlas,jinsheng_json,junxian_ske_json,junxian_tex_json,jinsheng_png,junxian_tex_png,military_info_help_pop_img_png,military_info_reward_view_imgbg_png,military_info_up_pop_imgbg_png"
+    }
+  ],
+  "resources": [
+    {
+      "name": "jinsheng_atlas",
+      "type": "text",
+      "url": "military_info/outside/jinsheng.atlas"
+    },
+    {
+      "name": "jinsheng_json",
+      "type": "json",
+      "url": "military_info/outside/jinsheng.json"
+    },
+    {
+      "name": "junxian_ske_json",
+      "type": "json",
+      "url": "military_info/outside/junxian_ske.json"
+    },
+    {
+      "name": "junxian_tex_json",
+      "type": "json",
+      "url": "military_info/outside/junxian_tex.json"
+    },
+    {
+      "name": "jinsheng_png",
+      "type": "image",
+      "url": "military_info/outside/jinsheng.png"
+    },
+    {
+      "name": "junxian_tex_png",
+      "type": "image",
+      "url": "military_info/outside/junxian_tex.png"
+    },
+    {
+      "name": "military_info_help_pop_img_png",
+      "type": "image",
+      "url": "military_info/outside/military_info_help_pop_img.png"
+    },
+    {
+      "name": "military_info_reward_view_imgbg_png",
+      "type": "image",
+      "url": "military_info/outside/military_info_reward_view_imgbg.png"
+    },
+    {
+      "name": "military_info_up_pop_imgbg_png",
+      "type": "image",
+      "url": "military_info/outside/military_info_up_pop_imgbg.png"
+    },
+    {
+      "name": "military_info_sheet",
+      "type": "sheet",
+      "url": "military_info/military_info_sheet.json",
+      "subkeys": "military_info_detail_view_btnup_png,military_info_detail_view_imgprogress_png,military_info_detail_view_imgprogressbg_png,military_info_detail_view_imgtopbg_png,military_info_help_pop_imgseer_png,military_info_help_pop_imgtitle_png,military_info_imgtitle_png,military_info_military_item_imgbg_png,military_info_military_item_imgempty_png,military_info_military_item_imgget_png,military_info_military_item_imghas_png,military_info_military_item_imgselected_png,military_info_reward_item_imgbg_png,military_info_reward_item_imgbtn_png,military_info_reward_item_imgcoin_png,military_info_reward_item_imgselected_png,military_info_reward_pop_imgbg_png,military_info_reward_pop_imgup_png,military_info_reward_pop_item_imgbg1_png,military_info_reward_pop_item_imgbg2_png,military_info_reward_view_btnroll_png,military_info_reward_view_imgbox_png,military_info_reward_view_imgmagnifier_png,military_info_reward_view_imgtopbg_png"
+    }
+  ]
+}

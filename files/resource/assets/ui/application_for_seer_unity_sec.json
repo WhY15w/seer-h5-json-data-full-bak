@@ -1,0 +1,26 @@
+{
+  "groups": [
+    {
+      "name": "application_for_seer_unity_sec",
+      "keys": "application_for_seer_unity_sec_sheet,ApplicationForSeerUnitySecResult_zu_144_png,ApplicationForSeerUnitySec_cszmj12y27r_png"
+    }
+  ],
+  "resources": [
+    {
+      "name": "ApplicationForSeerUnitySecResult_zu_144_png",
+      "type": "image",
+      "url": "application_for_seer_unity_sec/outside/ApplicationForSeerUnitySecResult_zu_144.png"
+    },
+    {
+      "name": "ApplicationForSeerUnitySec_cszmj12y27r_png",
+      "type": "image",
+      "url": "application_for_seer_unity_sec/outside/ApplicationForSeerUnitySec_cszmj12y27r.png"
+    },
+    {
+      "name": "application_for_seer_unity_sec_sheet",
+      "type": "sheet",
+      "url": "application_for_seer_unity_sec/application_for_seer_unity_sec_sheet.json",
+      "subkeys": "ApplicationForSeerUnitySecResult_ljsqmmj_png,ApplicationForSeerUnitySecResult_qw_xz_png,ApplicationForSeerUnitySec_ljsqmmj_png,ApplicationForSeerUnitySec_ljsqsh_png,ApplicationForSeerUnitySec_mfsqsh_png,ApplicationForSeerUnitySec_ysqmmj_png,ApplicationForSeerUnitySec_ysqsh_png,ApplicationForSeerUnitySec_zu_143_png,applicationForSeerUnity_Android_png,applicationForSeerUnity_IOS_png,applicationForSeerUnity_pop1_btnApplay_png,applicationForSeerUnity_pop1_tanchuang_bg_png,applicationForSeerUnity_pop2_btnApply_png,applicationForSeerUnity_pop2_cannotApply_png,applicationForSeerUnity_pop2_tanchuang_bg_2_png"
+    }
+  ]
+}

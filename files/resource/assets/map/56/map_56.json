@@ -1,0 +1,25 @@
+{
+  "resources": [
+    {
+      "type": "json",
+      "url": "56.json",
+      "name": "road_56"
+    },
+    {
+      "type": "image",
+      "url": "map_56_bg_mc.png",
+      "name": "map_56_bg_mc_png"
+    },
+    {
+      "name": "exml_56",
+      "type": "text",
+      "url": "Map56Skin.exml"
+    }
+  ],
+  "groups": [
+    {
+      "keys": "road_56,map_56_bg_mc_png,exml_56",
+      "name": "map_56"
+    }
+  ]
+}

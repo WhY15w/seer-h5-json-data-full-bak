@@ -1,0 +1,585 @@
+{
+  "file": "fighting_pet_or_boss_info_pop_sheet.png",
+  "frames": {
+    "fightingpetorbossinfo_boss_buffbg_png": {
+      "x": 1,
+      "y": 848,
+      "w": 369,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 369,
+      "sourceH": 40
+    },
+    "fightingpetorbossinfo_boss_buffbg_2_png": {
+      "x": 1,
+      "y": 788,
+      "w": 369,
+      "h": 58,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 369,
+      "sourceH": 58
+    },
+    "fightingpetorbossinfo_boss_buffbg_3_png": {
+      "x": 587,
+      "y": 787,
+      "w": 369,
+      "h": 82,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 369,
+      "sourceH": 82
+    },
+    "fightingpetorbossinfo_boss_buffbg_4_png": {
+      "x": 587,
+      "y": 683,
+      "w": 369,
+      "h": 102,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 369,
+      "sourceH": 102
+    },
+    "fightingpetorbossinfo_boss_bufficon_png": {
+      "x": 967,
+      "y": 82,
+      "w": 34,
+      "h": 34,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 34,
+      "sourceH": 34
+    },
+    "fightingpetorbossinfo_boss_imge_effect_bg_png": {
+      "x": 372,
+      "y": 871,
+      "w": 390,
+      "h": 26,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 390,
+      "sourceH": 26
+    },
+    "fightingpetorbossinfo_boss_imge_skillbg_png": {
+      "x": 1,
+      "y": 890,
+      "w": 284,
+      "h": 34,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 284,
+      "sourceH": 34
+    },
+    "fightingpetorbossinfo_boss_imge_skill_bg_png": {
+      "x": 393,
+      "y": 434,
+      "w": 310,
+      "h": 247,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 310,
+      "sourceH": 247
+    },
+    "fightingpetorbossinfo_boss_imge_title_png": {
+      "x": 861,
+      "y": 1,
+      "w": 131,
+      "h": 31,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 131,
+      "sourceH": 31
+    },
+    "fightingpetorbossinfo_boss_scrollbar_png": {
+      "x": 1008,
+      "y": 1,
+      "w": 3,
+      "h": 105,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 3,
+      "sourceH": 105
+    },
+    "fightingpetorbossinfo_boss_scrollbar_bg_png": {
+      "x": 1019,
+      "y": 246,
+      "w": 3,
+      "h": 227,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 3,
+      "sourceH": 227
+    },
+    "fightingpetorbossinfo_pet_imge_basic_info_bg_png": {
+      "x": 1,
+      "y": 683,
+      "w": 584,
+      "h": 103,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 584,
+      "sourceH": 103
+    },
+    "fightingpetorbossinfo_pet_imge_effect_bg_png": {
+      "x": 1,
+      "y": 434,
+      "w": 390,
+      "h": 247,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 390,
+      "sourceH": 247
+    },
+    "fightingpetorbossinfo_pet_imge_head_png": {
+      "x": 756,
+      "y": 1,
+      "w": 103,
+      "h": 103,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 103,
+      "sourceH": 103
+    },
+    "fightingpetorbossinfo_pet_imge_pop_bg_png": {
+      "x": 1,
+      "y": 1,
+      "w": 753,
+      "h": 431,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 753,
+      "sourceH": 431
+    },
+    "fightingpetorbossinfo_pet_imge_resistence_bg_png": {
+      "x": 705,
+      "y": 434,
+      "w": 310,
+      "h": 247,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 310,
+      "sourceH": 247
+    },
+    "fightingpetorbossinfo_pet_imge_title_png": {
+      "x": 861,
+      "y": 34,
+      "w": 103,
+      "h": 31,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 103,
+      "sourceH": 31
+    },
+    "pet_eff_desc_panel_icon_now_png": {
+      "x": 925,
+      "y": 82,
+      "w": 40,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 40,
+      "sourceH": 46
+    },
+    "pet_eff_desc_panel_icon_strong_png": {
+      "x": 966,
+      "y": 34,
+      "w": 40,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 40,
+      "sourceH": 46
+    },
+    "pet_eff_desc_panel_title_png": {
+      "x": 756,
+      "y": 106,
+      "w": 167,
+      "h": 26,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 167,
+      "sourceH": 26
+    },
+    "pet_eff_label_1_png": {
+      "x": 921,
+      "y": 218,
+      "w": 53,
+      "h": 20,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 53,
+      "sourceH": 20
+    },
+    "pet_eff_label_10_png": {
+      "x": 756,
+      "y": 222,
+      "w": 53,
+      "h": 20,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 53,
+      "sourceH": 20
+    },
+    "pet_eff_label_11_png": {
+      "x": 811,
+      "y": 224,
+      "w": 53,
+      "h": 20,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 53,
+      "sourceH": 20
+    },
+    "pet_eff_label_12_png": {
+      "x": 866,
+      "y": 240,
+      "w": 53,
+      "h": 20,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 53,
+      "sourceH": 20
+    },
+    "pet_eff_label_13_png": {
+      "x": 911,
+      "y": 152,
+      "w": 53,
+      "h": 20,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 53,
+      "sourceH": 20
+    },
+    "pet_eff_label_14_png": {
+      "x": 966,
+      "y": 152,
+      "w": 53,
+      "h": 20,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 53,
+      "sourceH": 20
+    },
+    "pet_eff_label_15_png": {
+      "x": 756,
+      "y": 156,
+      "w": 53,
+      "h": 20,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 53,
+      "sourceH": 20
+    },
+    "pet_eff_label_16_png": {
+      "x": 811,
+      "y": 158,
+      "w": 53,
+      "h": 20,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 53,
+      "sourceH": 20
+    },
+    "pet_eff_label_17_png": {
+      "x": 866,
+      "y": 174,
+      "w": 53,
+      "h": 20,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 53,
+      "sourceH": 20
+    },
+    "pet_eff_label_18_png": {
+      "x": 921,
+      "y": 174,
+      "w": 53,
+      "h": 20,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 53,
+      "sourceH": 20
+    },
+    "pet_eff_label_19_png": {
+      "x": 756,
+      "y": 178,
+      "w": 53,
+      "h": 20,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 53,
+      "sourceH": 20
+    },
+    "pet_eff_label_2_png": {
+      "x": 811,
+      "y": 180,
+      "w": 53,
+      "h": 20,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 53,
+      "sourceH": 20
+    },
+    "pet_eff_label_3_png": {
+      "x": 866,
+      "y": 196,
+      "w": 53,
+      "h": 20,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 53,
+      "sourceH": 20
+    },
+    "pet_eff_label_4_png": {
+      "x": 921,
+      "y": 196,
+      "w": 53,
+      "h": 20,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 53,
+      "sourceH": 20
+    },
+    "pet_eff_label_5_png": {
+      "x": 756,
+      "y": 200,
+      "w": 53,
+      "h": 20,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 53,
+      "sourceH": 20
+    },
+    "pet_eff_label_6_png": {
+      "x": 811,
+      "y": 202,
+      "w": 53,
+      "h": 20,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 53,
+      "sourceH": 20
+    },
+    "pet_eff_label_7_png": {
+      "x": 866,
+      "y": 218,
+      "w": 53,
+      "h": 20,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 53,
+      "sourceH": 20
+    },
+    "pet_eff_label_8_png": {
+      "x": 925,
+      "y": 130,
+      "w": 81,
+      "h": 20,
+      "offX": 1,
+      "offY": 0,
+      "sourceW": 83,
+      "sourceH": 20
+    },
+    "pet_eff_label_9_png": {
+      "x": 756,
+      "y": 134,
+      "w": 81,
+      "h": 20,
+      "offX": 1,
+      "offY": 0,
+      "sourceW": 82,
+      "sourceH": 20
+    },
+    "tag1_png": {
+      "x": 952,
+      "y": 294,
+      "w": 47,
+      "h": 20,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 47,
+      "sourceH": 20
+    },
+    "tag10_png": {
+      "x": 903,
+      "y": 288,
+      "w": 47,
+      "h": 22,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 47,
+      "sourceH": 22
+    },
+    "tag11_png": {
+      "x": 756,
+      "y": 292,
+      "w": 47,
+      "h": 22,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 47,
+      "sourceH": 22
+    },
+    "tag12_png": {
+      "x": 976,
+      "y": 174,
+      "w": 47,
+      "h": 22,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 47,
+      "sourceH": 22
+    },
+    "tag13_png": {
+      "x": 976,
+      "y": 198,
+      "w": 47,
+      "h": 22,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 47,
+      "sourceH": 22
+    },
+    "tag14_png": {
+      "x": 976,
+      "y": 222,
+      "w": 47,
+      "h": 22,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 47,
+      "sourceH": 22
+    },
+    "tag15_png": {
+      "x": 921,
+      "y": 240,
+      "w": 47,
+      "h": 22,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 47,
+      "sourceH": 22
+    },
+    "tag16_png": {
+      "x": 805,
+      "y": 294,
+      "w": 47,
+      "h": 21,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 47,
+      "sourceH": 21
+    },
+    "tag17_png": {
+      "x": 756,
+      "y": 244,
+      "w": 47,
+      "h": 22,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 47,
+      "sourceH": 22
+    },
+    "tag18_png": {
+      "x": 805,
+      "y": 246,
+      "w": 47,
+      "h": 22,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 47,
+      "sourceH": 22
+    },
+    "tag19_png": {
+      "x": 970,
+      "y": 246,
+      "w": 47,
+      "h": 22,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 47,
+      "sourceH": 22
+    },
+    "tag2_png": {
+      "x": 854,
+      "y": 262,
+      "w": 47,
+      "h": 22,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 47,
+      "sourceH": 22
+    },
+    "tag3_png": {
+      "x": 903,
+      "y": 264,
+      "w": 47,
+      "h": 22,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 47,
+      "sourceH": 22
+    },
+    "tag4_png": {
+      "x": 756,
+      "y": 268,
+      "w": 47,
+      "h": 22,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 47,
+      "sourceH": 22
+    },
+    "tag5_png": {
+      "x": 805,
+      "y": 270,
+      "w": 47,
+      "h": 22,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 47,
+      "sourceH": 22
+    },
+    "tag6_png": {
+      "x": 952,
+      "y": 270,
+      "w": 47,
+      "h": 22,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 47,
+      "sourceH": 22
+    },
+    "tag7_png": {
+      "x": 854,
+      "y": 286,
+      "w": 47,
+      "h": 22,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 47,
+      "sourceH": 22
+    },
+    "tag8_png": {
+      "x": 839,
+      "y": 134,
+      "w": 70,
+      "h": 22,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 70,
+      "sourceH": 22
+    },
+    "tag9_png": {
+      "x": 861,
+      "y": 67,
+      "w": 59,
+      "h": 22,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 59,
+      "sourceH": 22
+    }
+  }
+}

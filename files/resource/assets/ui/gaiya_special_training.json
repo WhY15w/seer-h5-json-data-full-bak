@@ -1,0 +1,31 @@
+{
+  "groups": [
+    {
+      "name": "gaiya_special_training",
+      "keys": "gaiya_special_training_sheet,gaiya_special_training_bg_jpg,gaiya_special_training_fightbg_png,gaiya_special_training_talentbg_png"
+    }
+  ],
+  "resources": [
+    {
+      "name": "gaiya_special_training_bg_jpg",
+      "type": "image",
+      "url": "gaiya_special_training/outside/gaiya_special_training_bg.jpg"
+    },
+    {
+      "name": "gaiya_special_training_fightbg_png",
+      "type": "image",
+      "url": "gaiya_special_training/outside/gaiya_special_training_fightbg.png"
+    },
+    {
+      "name": "gaiya_special_training_talentbg_png",
+      "type": "image",
+      "url": "gaiya_special_training/outside/gaiya_special_training_talentbg.png"
+    },
+    {
+      "name": "gaiya_special_training_sheet",
+      "type": "sheet",
+      "url": "gaiya_special_training/gaiya_special_training_sheet.json",
+      "subkeys": "gaiya_special_training_1_png,gaiya_special_training_2_png,gaiya_special_training_3_png,gaiya_special_training_bag_png,gaiya_special_training_btnchange_png,gaiya_special_training_btnreplace_png,gaiya_special_training_challenge_png,gaiya_special_training_close_png,gaiya_special_training_cure_png,gaiya_special_training_dr_png,gaiya_special_training_got_1_png,gaiya_special_training_not_png,gaiya_special_training_p1_png,gaiya_special_training_p2_png,gaiya_special_training_p3_png,gaiya_special_training_pet_png,gaiya_special_training_select_png,gaiya_special_training_ta1_png,gaiya_special_training_ta2_png,gaiya_special_training_ta3_png,gaiya_special_training_title_png,trail_gaia_btnget_png"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "groups": [
+    {
+      "keys": "road_451,exml_451,map_451_bg_mc_jpg,map_451_shitou_png,map_451_top_mc_png",
+      "name": "map_451"
+    }
+  ],
+  "resources": [
+    {
+      "type": "json",
+      "url": "451.json",
+      "name": "road_451"
+    },
+    {
+      "type": "text",
+      "url": "Map451Skin.exml",
+      "name": "exml_451"
+    },
+    {
+      "type": "image",
+      "url": "map_451_bg_mc.jpg",
+      "name": "map_451_bg_mc_jpg"
+    },
+    {
+      "type": "image",
+      "url": "map_451_shitou.png",
+      "name": "map_451_shitou_png"
+    },
+    {
+      "type": "image",
+      "url": "map_451_top_mc.png",
+      "name": "map_451_top_mc_png"
+    }
+  ]
+}

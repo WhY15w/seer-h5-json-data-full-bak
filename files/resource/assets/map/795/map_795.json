@@ -1,0 +1,35 @@
+{
+  "resources": [
+    {
+      "type": "json",
+      "url": "795.json",
+      "name": "road_795"
+    },
+    {
+      "type": "text",
+      "url": "Map795Skin.exml",
+      "name": "exml_795"
+    },
+    {
+      "type": "image",
+      "url": "map_795_bg_mc.jpg",
+      "name": "map_795_bg_mc_jpg"
+    },
+    {
+      "type": "image",
+      "url": "map_795_penquan.png",
+      "name": "map_795_penquan_png"
+    },
+    {
+      "type": "image",
+      "url": "map_795_top_mc.png",
+      "name": "map_795_top_mc_png"
+    }
+  ],
+  "groups": [
+    {
+      "keys": "road_795,exml_795,map_795_bg_mc_jpg,map_795_penquan_png,map_795_top_mc_png",
+      "name": "map_795"
+    }
+  ]
+}

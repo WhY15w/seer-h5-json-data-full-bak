@@ -1,0 +1,36 @@
+{
+  "groups": [
+    {
+      "name": "mall",
+      "keys": "mall_sheet,mall_exchange_view_imgbg_png,mall_exchange_view_imgpet_png,mall_recharge_panel_bg_jpg,mall_recommend_panel_img1_png"
+    }
+  ],
+  "resources": [
+    {
+      "name": "mall_exchange_view_imgbg_png",
+      "type": "image",
+      "url": "mall/outside/mall_exchange_view_imgbg.png"
+    },
+    {
+      "name": "mall_exchange_view_imgpet_png",
+      "type": "image",
+      "url": "mall/outside/mall_exchange_view_imgpet.png"
+    },
+    {
+      "name": "mall_recharge_panel_bg_jpg",
+      "type": "image",
+      "url": "mall/outside/mall_recharge_panel_bg.jpg"
+    },
+    {
+      "name": "mall_recommend_panel_img1_png",
+      "type": "image",
+      "url": "mall/outside/mall_recommend_panel_img1.png"
+    },
+    {
+      "name": "mall_sheet",
+      "type": "sheet",
+      "url": "mall/mall_sheet.json",
+      "subkeys": "mall_big_gift_item_imgbg_png,mall_big_gift_item_imgbuybg_png,mall_big_gift_item_imgrestrice_png,mall_big_gift_item_imgtag_png,mall_big_gift_item_petTitleBg_png,mall_big_gift_item_reward_bg1_png,mall_big_gift_item_reward_bg2_png,mall_big_gift_item_skill_png,mall_big_gift_item_special_png,mall_btnsearch_png,mall_down3_png,mall_dress_up_item_img2_png,mall_exchange_view_imgrefresh_png,mall_gift_buy_item_imgbg_png,mall_gift_buy_pop_btnadd_png,mall_gift_buy_pop_btnclose_png,mall_gift_buy_pop_btnreduce_png,mall_gift_buy_pop_imgbg_png,mall_gift_buy_pop_imgbuy_png,mall_gift_buy_pop_imgcoin_png,mall_gift_buy_pop_imgslide1_png,mall_gift_buy_pop_imgslide2_png,mall_gift_buy_pop_imgsliderect_png,mall_gift_item_img1_png,mall_gift_item_img2_png,mall_gift_item_img3_png,mall_gift_item_img5_png,mall_gift_item_imgcheap_png,mall_gift_item_imgcountdown_png,mall_gift_item_imgtime_png,mall_imggou_png,mall_imggoubg_png,mall_imgsearchbg_png,mall_img_reddot_png,mall_recharge_btn_png,mall_recharge_img1_png,mall_recharge_img2_png,mall_recharge_item_img4_png,mall_recharge_item_imgbg_png,mall_recharge_item_imgfirst_png,mall_recharge_item_imghot_png,mall_recharge_item_imgicon1_png,mall_recharge_item_imgicon2_png,mall_recharge_item_imgicon3_png,mall_recharge_item_imgicon4_png,mall_recharge_item_imgicon5_png,mall_recharge_item_imgicon6_png,mall_recharge_item_num_png,mall_recharge_panel_btnadddiamond_png,mall_recharge_panel_btnclose_png,mall_recharge_panel_img2_png,mall_recharge_panel_img3_png,mall_recharge_panel_imgleft_png,mall_recharge_panel_imgtitle_png,mall_recharge_pop_btnconfirm_png,mall_recharge_pop_btnexchange100_png,mall_recharge_pop_btnexchange1000_png,mall_recharge_pop_btnexchange500_png,mall_recharge_pop_icon2_png,mall_recharge_pop_juxing_923_png,mall_recharge_pop_micoin_png,mall_recommend_panel_btngo1_png,mall_recommend_panel_btngo2_png,mall_recommend_panel_img2_png,mall_recommend_panel_img3_png,mall_recommend_panel_img4_png,mall_skin_item_btnhc_png,mall_skin_item_img1_png,mall_skin_item_img2_png,mall_skin_item_img3_png,mall_skin_item_imgbg_png,mall_skin_item_imgcountdown_png,mall_skin_item_imgnamebg_png,mall_skin_item_imgnamebg2_png,mall_up3_png,skin_pop_btnadd_png,skin_pop_btnmax_png,skin_pop_btnmin_png,skin_pop_btnminus_png,skin_pop_img1_png,skin_pop_img2_png,skin_pop_img3_png,skin_pop_img4_png"
+    }
+  ]
+}

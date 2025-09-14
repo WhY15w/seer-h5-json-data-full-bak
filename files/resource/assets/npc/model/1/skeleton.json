@@ -1,0 +1,1182 @@
+{
+  "frameRate": 24,
+  "name": "1",
+  "version": "5.5",
+  "compatibleVersion": "5.5",
+  "armature": [
+    {
+      "name": "anim",
+      "bone": [
+        {
+          "inheritScale": false,
+          "name": "补间 23",
+          "transform": {
+            "x": -0.35,
+            "y": 14.55,
+            "scX": 0.2289,
+            "scY": 0.2289
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "补间 22",
+          "transform": {
+            "x": 16.15,
+            "y": -5.35,
+            "scX": 0.2289,
+            "scY": 0.2289
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "补间 21",
+          "transform": {
+            "x": -4.6,
+            "y": -39.15,
+            "scX": 0.2289,
+            "scY": 0.2289
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "补间 20",
+          "transform": {
+            "x": 14.45,
+            "y": -12.85,
+            "skX": 3.5,
+            "skY": 3.5,
+            "scX": 0.2289,
+            "scY": 0.2289
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "补间 19",
+          "transform": {
+            "x": 4.2,
+            "y": -26.85,
+            "scX": 0.2289,
+            "scY": 0.2289
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "补间 18",
+          "transform": {
+            "x": 9.2,
+            "y": -31.85,
+            "scX": 0.2289,
+            "scY": 0.2289
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "补间 17",
+          "transform": {
+            "x": -0.05,
+            "y": -31.85,
+            "scX": 0.2289,
+            "scY": 0.2289
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "补间 16",
+          "transform": {
+            "x": 3.55,
+            "y": -27.7,
+            "scX": 0.2289,
+            "scY": 0.2289
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "补间 15",
+          "transform": {
+            "x": -23.3,
+            "y": -9.6,
+            "skX": -2.45,
+            "skY": -2.45,
+            "scX": 0.2289,
+            "scY": 0.2289
+          }
+        },
+        {
+          "inheritScale": false,
+          "name": "补间 14",
+          "transform": {
+            "x": -22.9,
+            "y": -4.55,
+            "scX": 0.2289,
+            "scY": 0.2289
+          }
+        }
+      ],
+      "slot": [
+        {
+          "name": "补间 23",
+          "parent": "补间 23"
+        },
+        {
+          "name": "补间 22",
+          "parent": "补间 22"
+        },
+        {
+          "name": "补间 21",
+          "parent": "补间 21"
+        },
+        {
+          "name": "补间 20",
+          "parent": "补间 20"
+        },
+        {
+          "name": "补间 19",
+          "parent": "补间 19"
+        },
+        {
+          "name": "补间 18",
+          "parent": "补间 18"
+        },
+        {
+          "name": "补间 17",
+          "parent": "补间 17"
+        },
+        {
+          "name": "补间 16",
+          "parent": "补间 16"
+        },
+        {
+          "name": "补间 15",
+          "parent": "补间 15"
+        },
+        {
+          "name": "补间 14",
+          "parent": "补间 14"
+        }
+      ],
+      "skin": [
+        {
+          "slot": [
+            {
+              "name": "补间 23",
+              "display": [
+                {
+                  "name": "补间 23"
+                }
+              ]
+            },
+            {
+              "name": "补间 22",
+              "display": [
+                {
+                  "name": "补间 22",
+                  "transform": {
+                    "x": 14.4,
+                    "y": 17.25
+                  }
+                }
+              ]
+            },
+            {
+              "name": "补间 21",
+              "display": [
+                {
+                  "name": "补间 21"
+                }
+              ]
+            },
+            {
+              "name": "补间 20",
+              "display": [
+                {
+                  "name": "补间 20",
+                  "transform": {
+                    "x": 21.45,
+                    "y": -61.05
+                  }
+                }
+              ]
+            },
+            {
+              "name": "补间 19",
+              "display": [
+                {
+                  "name": "补间 19",
+                  "transform": {
+                    "x": 2.15,
+                    "y": 2.15
+                  }
+                }
+              ]
+            },
+            {
+              "name": "补间 18",
+              "display": [
+                {
+                  "name": "补间 18",
+                  "transform": {
+                    "x": 6.3,
+                    "y": -1.95
+                  }
+                }
+              ]
+            },
+            {
+              "name": "补间 17",
+              "display": [
+                {
+                  "name": "补间 17",
+                  "transform": {
+                    "x": 6.3,
+                    "y": -5.45
+                  }
+                }
+              ]
+            },
+            {
+              "name": "补间 16",
+              "display": [
+                {
+                  "name": "补间 16"
+                }
+              ]
+            },
+            {
+              "name": "补间 15",
+              "display": [
+                {
+                  "name": "补间 15",
+                  "transform": {
+                    "x": -26.35,
+                    "y": -63.45
+                  }
+                }
+              ]
+            },
+            {
+              "name": "补间 14",
+              "display": [
+                {
+                  "name": "补间 14",
+                  "transform": {
+                    "x": 9.2,
+                    "y": 34.75
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "animation": [
+        {
+          "duration": 58,
+          "name": "down",
+          "bone": [
+            {
+              "name": "补间 23",
+              "translateFrame": [
+                {
+                  "duration": 9,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "y": 0.3
+                },
+                {
+                  "duration": 9,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "y": 0.3
+                },
+                {
+                  "duration": 9,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "y": 0.3
+                },
+                {
+                  "tweenEasing": 0
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 9,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "y": 0.9825
+                },
+                {
+                  "duration": 9,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "y": 0.9825
+                },
+                {
+                  "duration": 9,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "y": 0.9825
+                },
+                {
+                  "tweenEasing": 0
+                }
+              ]
+            },
+            {
+              "name": "补间 22",
+              "translateFrame": [
+                {
+                  "duration": 9,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "x": -0.04,
+                  "y": 2.15
+                },
+                {
+                  "duration": 9,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "x": -0.04,
+                  "y": 2.15
+                },
+                {
+                  "duration": 9,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "x": -0.04,
+                  "y": 2.15
+                },
+                {
+                  "tweenEasing": 0
+                }
+              ],
+              "rotateFrame": [
+                {
+                  "duration": 9,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "rotate": -9.3,
+                  "skew": -0.33
+                },
+                {
+                  "duration": 9,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "rotate": -9.3,
+                  "skew": -0.33
+                },
+                {
+                  "duration": 9,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "rotate": -9.3,
+                  "skew": -0.33
+                },
+                {
+                  "tweenEasing": 0
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 9,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "x": 0.9996,
+                  "y": 0.983
+                },
+                {
+                  "duration": 9,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "x": 0.9996,
+                  "y": 0.983
+                },
+                {
+                  "duration": 9,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "x": 0.9996,
+                  "y": 0.983
+                },
+                {
+                  "tweenEasing": 0
+                }
+              ]
+            },
+            {
+              "name": "补间 21",
+              "translateFrame": [
+                {
+                  "duration": 9,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "y": 2.75
+                },
+                {
+                  "duration": 9,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "y": 2.75
+                },
+                {
+                  "duration": 9,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "y": 2.75
+                },
+                {
+                  "tweenEasing": 0
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 9,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "y": 0.9825
+                },
+                {
+                  "duration": 9,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "y": 0.9825
+                },
+                {
+                  "duration": 9,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "y": 0.9825
+                },
+                {
+                  "tweenEasing": 0
+                }
+              ]
+            },
+            {
+              "name": "补间 20",
+              "translateFrame": [
+                {
+                  "duration": 9,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "y": 2.28
+                },
+                {
+                  "duration": 9,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "y": 2.28
+                },
+                {
+                  "duration": 9,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "y": 2.28
+                },
+                {
+                  "tweenEasing": 0
+                }
+              ],
+              "rotateFrame": [
+                {
+                  "duration": 9,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "rotate": -3.5
+                },
+                {
+                  "duration": 9,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "rotate": -3.5
+                },
+                {
+                  "duration": 9,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "rotate": -3.5
+                },
+                {
+                  "tweenEasing": 0
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 9,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "y": 0.9825
+                },
+                {
+                  "duration": 9,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "y": 0.9825
+                },
+                {
+                  "duration": 9,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "y": 0.9825
+                },
+                {
+                  "tweenEasing": 0
+                }
+              ]
+            },
+            {
+              "name": "补间 19",
+              "translateFrame": [
+                {
+                  "duration": 9,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "y": 2.55
+                },
+                {
+                  "duration": 9,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "y": 2.55
+                },
+                {
+                  "duration": 6,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 3,
+                  "tweenEasing": 0,
+                  "y": 1.05
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "y": 2.55
+                },
+                {
+                  "tweenEasing": 0
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 9,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "y": 0.9825
+                },
+                {
+                  "duration": 9,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "y": 0.9825
+                },
+                {
+                  "duration": 6,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 3,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "y": 0.9825
+                },
+                {
+                  "tweenEasing": 0
+                }
+              ]
+            },
+            {
+              "name": "补间 18",
+              "translateFrame": [
+                {
+                  "duration": 9,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "y": 2.64
+                },
+                {
+                  "duration": 9,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "y": 2.64
+                },
+                {
+                  "duration": 3,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 3,
+                  "tweenEasing": 0,
+                  "y": 0.55
+                },
+                {
+                  "duration": 3,
+                  "tweenEasing": 0,
+                  "x": -0.01,
+                  "y": 3.07
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "y": 2.64
+                },
+                {
+                  "tweenEasing": 0
+                }
+              ],
+              "rotateFrame": [
+                {
+                  "duration": 41,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 3,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 3,
+                  "tweenEasing": 0,
+                  "skew": 36.63
+                },
+                {
+                  "duration": 11
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 9,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "y": 0.9825
+                },
+                {
+                  "duration": 9,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "y": 0.9825
+                },
+                {
+                  "duration": 3,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 3,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 3,
+                  "tweenEasing": 0,
+                  "y": 0.0507
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "y": 0.9825
+                },
+                {
+                  "tweenEasing": 0
+                }
+              ]
+            },
+            {
+              "name": "补间 17",
+              "translateFrame": [
+                {
+                  "duration": 9,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "y": 2.63
+                },
+                {
+                  "duration": 9,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "y": 2.63
+                },
+                {
+                  "duration": 3,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 3,
+                  "tweenEasing": 0,
+                  "y": 0.55
+                },
+                {
+                  "duration": 3,
+                  "tweenEasing": 0,
+                  "x": 0.03,
+                  "y": 3.03
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "y": 2.63
+                },
+                {
+                  "tweenEasing": 0
+                }
+              ],
+              "rotateFrame": [
+                {
+                  "duration": 41,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 3,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 3,
+                  "tweenEasing": 0,
+                  "skew": -14.71
+                },
+                {
+                  "duration": 11
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 9,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "y": 0.9825
+                },
+                {
+                  "duration": 9,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "y": 0.9825
+                },
+                {
+                  "duration": 3,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 3,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 3,
+                  "tweenEasing": 0,
+                  "y": 0.0677
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "y": 0.9825
+                },
+                {
+                  "tweenEasing": 0
+                }
+              ]
+            },
+            {
+              "name": "补间 16",
+              "translateFrame": [
+                {
+                  "duration": 9,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "y": 2.55
+                },
+                {
+                  "duration": 9,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "y": 2.55
+                },
+                {
+                  "duration": 9,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "y": 2.55
+                },
+                {
+                  "tweenEasing": 0
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 9,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "y": 0.9825
+                },
+                {
+                  "duration": 9,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "y": 0.9825
+                },
+                {
+                  "duration": 9,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "y": 0.9825
+                },
+                {
+                  "tweenEasing": 0
+                }
+              ]
+            },
+            {
+              "name": "补间 15",
+              "translateFrame": [
+                {
+                  "duration": 9,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "x": -0.01,
+                  "y": 2.23
+                },
+                {
+                  "duration": 9,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "x": -0.01,
+                  "y": 2.23
+                },
+                {
+                  "duration": 9,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "x": -0.01,
+                  "y": 2.23
+                },
+                {
+                  "tweenEasing": 0
+                }
+              ],
+              "rotateFrame": [
+                {
+                  "duration": 9,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "rotate": 2.45
+                },
+                {
+                  "duration": 9,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "rotate": 2.45
+                },
+                {
+                  "duration": 9,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "rotate": 2.45
+                },
+                {
+                  "tweenEasing": 0
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 9,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "y": 0.9825
+                },
+                {
+                  "duration": 9,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "y": 0.9825
+                },
+                {
+                  "duration": 9,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "y": 0.9825
+                },
+                {
+                  "tweenEasing": 0
+                }
+              ]
+            },
+            {
+              "name": "补间 14",
+              "translateFrame": [
+                {
+                  "duration": 9,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "x": -0.01,
+                  "y": 1.55
+                },
+                {
+                  "duration": 9,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "x": -0.01,
+                  "y": 1.55
+                },
+                {
+                  "duration": 9,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "x": -0.01,
+                  "y": 1.55
+                },
+                {
+                  "tweenEasing": 0
+                }
+              ],
+              "rotateFrame": [
+                {
+                  "duration": 9,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "rotate": 2.43,
+                  "skew": 0.09
+                },
+                {
+                  "duration": 9,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "rotate": 2.43,
+                  "skew": 0.09
+                },
+                {
+                  "duration": 9,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "rotate": 2.43,
+                  "skew": 0.09
+                },
+                {
+                  "tweenEasing": 0
+                }
+              ],
+              "scaleFrame": [
+                {
+                  "duration": 9,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "y": 0.9825
+                },
+                {
+                  "duration": 9,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "y": 0.9825
+                },
+                {
+                  "duration": 9,
+                  "tweenEasing": 0
+                },
+                {
+                  "duration": 10,
+                  "tweenEasing": 0,
+                  "y": 0.9825
+                },
+                {
+                  "tweenEasing": 0
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

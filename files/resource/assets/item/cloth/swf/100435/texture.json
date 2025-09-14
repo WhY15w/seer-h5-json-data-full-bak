@@ -1,0 +1,41 @@
+{
+  "SubTexture": [
+    {
+      "name": "head_01",
+      "x": 40,
+      "width": 43,
+      "y": 58,
+      "height": 34
+    },
+    {
+      "name": "sprite 7",
+      "x": 84,
+      "width": 39,
+      "y": 58,
+      "height": 32
+    },
+    {
+      "name": "sprite 10",
+      "x": 52,
+      "width": 51,
+      "y": 0,
+      "height": 57
+    },
+    {
+      "name": "sprite 13",
+      "x": 0,
+      "width": 51,
+      "y": 0,
+      "height": 57
+    },
+    {
+      "name": "sprite 17",
+      "x": 0,
+      "width": 39,
+      "y": 58,
+      "height": 48
+    }
+  ],
+  "name": 100435,
+  "imagePath": "texture.png"
+}

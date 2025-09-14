@@ -1,0 +1,30 @@
+{
+  "groups": [
+    {
+      "keys": "road_74,exml_74,map_74_bg_mc_jpg,map_74_top_mc_png",
+      "name": "map_74"
+    }
+  ],
+  "resources": [
+    {
+      "type": "json",
+      "url": "74.json",
+      "name": "road_74"
+    },
+    {
+      "type": "text",
+      "url": "Map74Skin.exml",
+      "name": "exml_74"
+    },
+    {
+      "type": "image",
+      "url": "map_74_bg_mc.jpg",
+      "name": "map_74_bg_mc_jpg"
+    },
+    {
+      "type": "image",
+      "url": "map_74_top_mc.png",
+      "name": "map_74_top_mc_png"
+    }
+  ]
+}

@@ -1,0 +1,925 @@
+{
+  "file": "peakJihadFirstPage_sheet.png",
+  "frames": {
+    "high_ladder_rank_reward_view_close_png": {
+      "x": 2014,
+      "y": 45,
+      "w": 33,
+      "h": 33,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 33,
+      "sourceH": 33
+    },
+    "PeakJihad3V3_closeBtn_png": {
+      "x": 1978,
+      "y": 1,
+      "w": 60,
+      "h": 42,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 60,
+      "sourceH": 42
+    },
+    "PeakJihad3V3_matchBtn_png": {
+      "x": 1117,
+      "y": 610,
+      "w": 230,
+      "h": 51,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 230,
+      "sourceH": 51
+    },
+    "PeakJihad6V6_bg7_png": {
+      "x": 1158,
+      "y": 427,
+      "w": 12,
+      "h": 12,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 12,
+      "sourceH": 12
+    },
+    "PeakJihadFirstPage_bg_png": {
+      "x": 1476,
+      "y": 444,
+      "w": 18,
+      "h": 27,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 18,
+      "sourceH": 27
+    },
+    "PeakJihadFirstPage_bg2_png": {
+      "x": 1,
+      "y": 643,
+      "w": 433,
+      "h": 26,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 433,
+      "sourceH": 26
+    },
+    "PeakJihadFirstPage_icon0_png": {
+      "x": 2003,
+      "y": 525,
+      "w": 24,
+      "h": 26,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 24,
+      "sourceH": 26
+    },
+    "PeakJihadFirstPage_icon1_png": {
+      "x": 1111,
+      "y": 517,
+      "w": 26,
+      "h": 26,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 26,
+      "sourceH": 26
+    },
+    "peakjihadfirstpage_imgtitle_png": {
+      "x": 1440,
+      "y": 498,
+      "w": 214,
+      "h": 90,
+      "offX": 2,
+      "offY": 1,
+      "sourceW": 216,
+      "sourceH": 92
+    },
+    "PeakJihadFirstPage_rankBtn_png": {
+      "x": 376,
+      "y": 795,
+      "w": 125,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 125,
+      "sourceH": 40
+    },
+    "PeakJihadFirstPage_title_png": {
+      "x": 247,
+      "y": 825,
+      "w": 103,
+      "h": 31,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 103,
+      "sourceH": 31
+    },
+    "peakjihadfirstpage_train_done_png": {
+      "x": 436,
+      "y": 649,
+      "w": 280,
+      "h": 36,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 280,
+      "sourceH": 36
+    },
+    "peakjihadfirstpage_train_icon_png": {
+      "x": 1476,
+      "y": 473,
+      "w": 19,
+      "h": 22,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 19,
+      "sourceH": 22
+    },
+    "peakjihadfirstpage_train_itembg_png": {
+      "x": 639,
+      "y": 1,
+      "w": 320,
+      "h": 541,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 320,
+      "sourceH": 541
+    },
+    "peakjihadfirstpage_train_levelname1_png": {
+      "x": 1349,
+      "y": 610,
+      "w": 109,
+      "h": 37,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 109,
+      "sourceH": 37
+    },
+    "peakjihadfirstpage_train_levelname2_png": {
+      "x": 1258,
+      "y": 813,
+      "w": 108,
+      "h": 37,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 108,
+      "sourceH": 37
+    },
+    "peakjihadfirstpage_train_levelname3_png": {
+      "x": 1530,
+      "y": 808,
+      "w": 108,
+      "h": 37,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 108,
+      "sourceH": 37
+    },
+    "peakjihadfirstpage_train_start_png": {
+      "x": 1864,
+      "y": 765,
+      "w": 134,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 134,
+      "sourceH": 46
+    },
+    "peakjihadfirstpage_train_title1_png": {
+      "x": 1368,
+      "y": 817,
+      "w": 103,
+      "h": 32,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 103,
+      "sourceH": 32
+    },
+    "peakjihadfirstpage_train_txtBg_png": {
+      "x": 1158,
+      "y": 444,
+      "w": 280,
+      "h": 116,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 280,
+      "sourceH": 116
+    },
+    "PeakJiHadFreeInputPopView_bg4_png": {
+      "x": 639,
+      "y": 544,
+      "w": 470,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 470,
+      "sourceH": 40
+    },
+    "PeakJiHadFreeInputPopView_btn0_png": {
+      "x": 1117,
+      "y": 663,
+      "w": 146,
+      "h": 58,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 146,
+      "sourceH": 58
+    },
+    "PeakJiHadFreeInputPopView_btn1_png": {
+      "x": 1265,
+      "y": 663,
+      "w": 146,
+      "h": 58,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 146,
+      "sourceH": 58
+    },
+    "PeakJiHadFreeInputPopView_btn2_png": {
+      "x": 1,
+      "y": 671,
+      "w": 146,
+      "h": 58,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 146,
+      "sourceH": 58
+    },
+    "PeakJiHadFreeInputPopView_btn3_png": {
+      "x": 149,
+      "y": 671,
+      "w": 146,
+      "h": 58,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 146,
+      "sourceH": 58
+    },
+    "PeakJiHadFreeInputPopView_btn4_png": {
+      "x": 297,
+      "y": 687,
+      "w": 146,
+      "h": 58,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 146,
+      "sourceH": 58
+    },
+    "PeakJiHadFreeInputPopView_btn5_png": {
+      "x": 445,
+      "y": 687,
+      "w": 146,
+      "h": 58,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 146,
+      "sourceH": 58
+    },
+    "PeakJiHadFreeInputPopView_btn6_png": {
+      "x": 1868,
+      "y": 705,
+      "w": 146,
+      "h": 58,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 146,
+      "sourceH": 58
+    },
+    "PeakJiHadFreeInputPopView_btn7_png": {
+      "x": 843,
+      "y": 709,
+      "w": 146,
+      "h": 58,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 146,
+      "sourceH": 58
+    },
+    "PeakJiHadFreeInputPopView_btn8_png": {
+      "x": 1572,
+      "y": 715,
+      "w": 146,
+      "h": 58,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 146,
+      "sourceH": 58
+    },
+    "PeakJiHadFreeInputPopView_btn9_png": {
+      "x": 843,
+      "y": 649,
+      "w": 146,
+      "h": 58,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 146,
+      "sourceH": 58
+    },
+    "PeakJiHadFreeInputPopView_delBtn_png": {
+      "x": 1572,
+      "y": 655,
+      "w": 146,
+      "h": 58,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 146,
+      "sourceH": 58
+    },
+    "PeakJiHadFreeInputPopView_enterBtn_png": {
+      "x": 1720,
+      "y": 655,
+      "w": 146,
+      "h": 58,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 146,
+      "sourceH": 58
+    },
+    "PeakJiHadFreeInputPopView_InputBg_png": {
+      "x": 1944,
+      "y": 201,
+      "w": 100,
+      "h": 100,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 100,
+      "sourceH": 100
+    },
+    "peakjihadladder_reward_get_png": {
+      "x": 972,
+      "y": 769,
+      "w": 134,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 134,
+      "sourceH": 46
+    },
+    "peakjihadladder_reward_got_png": {
+      "x": 772,
+      "y": 802,
+      "w": 126,
+      "h": 39,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 126,
+      "sourceH": 39
+    },
+    "peakjihadladder_reward_itembg_png": {
+      "x": 1255,
+      "y": 109,
+      "w": 789,
+      "h": 90,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 789,
+      "sourceH": 90
+    },
+    "peakjihadladder_reward_itemnumbg_png": {
+      "x": 1184,
+      "y": 780,
+      "w": 72,
+      "h": 72,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 72,
+      "sourceH": 72
+    },
+    "peakjihad_btnjiangli_png": {
+      "x": 1720,
+      "y": 715,
+      "w": 142,
+      "h": 55,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 142,
+      "sourceH": 55
+    },
+    "peakjihad_btnjingji_png": {
+      "x": 1255,
+      "y": 201,
+      "w": 242,
+      "h": 241,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 242,
+      "sourceH": 241
+    },
+    "peakjihad_btnjingjichi_png": {
+      "x": 1,
+      "y": 731,
+      "w": 122,
+      "h": 55,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 122,
+      "sourceH": 55
+    },
+    "peakjihad_btnpaihang_png": {
+      "x": 125,
+      "y": 731,
+      "w": 120,
+      "h": 55,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 120,
+      "sourceH": 55
+    },
+    "peakjihad_btntask_png": {
+      "x": 1117,
+      "y": 723,
+      "w": 142,
+      "h": 55,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 142,
+      "sourceH": 55
+    },
+    "peakjihad_btnxiuxian_png": {
+      "x": 1656,
+      "y": 517,
+      "w": 232,
+      "h": 67,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 232,
+      "sourceH": 67
+    },
+    "peakjihad_btnziyou_png": {
+      "x": 1656,
+      "y": 586,
+      "w": 231,
+      "h": 67,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 231,
+      "sourceH": 67
+    },
+    "peakjihad_free_mode_title_png": {
+      "x": 1,
+      "y": 821,
+      "w": 102,
+      "h": 32,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 102,
+      "sourceH": 32
+    },
+    "peakjihad_item_num_bg_png": {
+      "x": 1111,
+      "y": 562,
+      "w": 133,
+      "h": 21,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 133,
+      "sourceH": 21
+    },
+    "peakjihad_leisure_mode_title_png": {
+      "x": 660,
+      "y": 816,
+      "w": 103,
+      "h": 32,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 103,
+      "sourceH": 32
+    },
+    "PeakJihad_rule_title_png": {
+      "x": 772,
+      "y": 769,
+      "w": 198,
+      "h": 31,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 198,
+      "sourceH": 31
+    },
+    "peakjihad_sports_mode_btnbeibao_png": {
+      "x": 1351,
+      "y": 723,
+      "w": 88,
+      "h": 88,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 88,
+      "sourceH": 88
+    },
+    "peakjihad_sports_mode_btnduanwei_png": {
+      "x": 683,
+      "y": 726,
+      "w": 87,
+      "h": 88,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 88,
+      "sourceH": 88
+    },
+    "peakjihad_sports_mode_btnjiangli_png": {
+      "x": 718,
+      "y": 649,
+      "w": 123,
+      "h": 75,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 123,
+      "sourceH": 75
+    },
+    "peakjihad_sports_mode_btnjingji_png": {
+      "x": 961,
+      "y": 295,
+      "w": 195,
+      "h": 195,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 195,
+      "sourceH": 195
+    },
+    "peakjihad_sports_mode_btnmeiri_png": {
+      "x": 1889,
+      "y": 628,
+      "w": 123,
+      "h": 75,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 123,
+      "sourceH": 75
+    },
+    "peakjihad_sports_mode_btnzhuangban_png": {
+      "x": 1261,
+      "y": 723,
+      "w": 88,
+      "h": 88,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 88,
+      "sourceH": 88
+    },
+    "peakjihad_sports_mode_exp_png": {
+      "x": 1499,
+      "y": 201,
+      "w": 443,
+      "h": 106,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 443,
+      "sourceH": 106
+    },
+    "peakjihad_sports_mode_title_png": {
+      "x": 900,
+      "y": 817,
+      "w": 103,
+      "h": 32,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 103,
+      "sourceH": 32
+    },
+    "peakjihad_sports_pool_imgattr_png": {
+      "x": 2003,
+      "y": 553,
+      "w": 22,
+      "h": 23,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 22,
+      "sourceH": 23
+    },
+    "peakjihad_sports_pool_imgattrbg_png": {
+      "x": 1111,
+      "y": 492,
+      "w": 37,
+      "h": 23,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 37,
+      "sourceH": 23
+    },
+    "peakjihad_sports_pool_itembg_png": {
+      "x": 1890,
+      "y": 490,
+      "w": 111,
+      "h": 136,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 111,
+      "sourceH": 136
+    },
+    "peakjihad_sports_pool_numbg_png": {
+      "x": 2003,
+      "y": 490,
+      "w": 29,
+      "h": 33,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 29,
+      "sourceH": 33
+    },
+    "peakjihad_sports_pool_rec_png": {
+      "x": 1010,
+      "y": 610,
+      "w": 105,
+      "h": 130,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 105,
+      "sourceH": 130
+    },
+    "peakjihad_sports_pool_rule_title_png": {
+      "x": 1,
+      "y": 788,
+      "w": 172,
+      "h": 31,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 172,
+      "sourceH": 31
+    },
+    "peakjihad_sports_pool_title_png": {
+      "x": 503,
+      "y": 795,
+      "w": 79,
+      "h": 31,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 79,
+      "sourceH": 31
+    },
+    "peakjihad_sports_pool_voteresult_pop_imgebtnresult_png": {
+      "x": 448,
+      "y": 747,
+      "w": 134,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 134,
+      "sourceH": 46
+    },
+    "peakjihad_sports_pool_voteresult_pop_imgevoteresult_title_0_png": {
+      "x": 1530,
+      "y": 775,
+      "w": 175,
+      "h": 31,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 175,
+      "sourceH": 31
+    },
+    "peakjihad_sports_pool_voteresult_pop_imgevoteresult_title_1_png": {
+      "x": 247,
+      "y": 747,
+      "w": 199,
+      "h": 31,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 199,
+      "sourceH": 31
+    },
+    "peakjihad_sports_pool_vote_imgbtnvote_png": {
+      "x": 1720,
+      "y": 772,
+      "w": 121,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 121,
+      "sourceH": 46
+    },
+    "peakjihad_sports_pool_vote_imgeempty_tip_png": {
+      "x": 639,
+      "y": 610,
+      "w": 369,
+      "h": 37,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 369,
+      "sourceH": 37
+    },
+    "peakjihad_sports_pool_vote_imgheadbg_png": {
+      "x": 1696,
+      "y": 309,
+      "w": 170,
+      "h": 206,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 170,
+      "sourceH": 206
+    },
+    "peakjihad_sports_pool_vote_imgtimebg_png": {
+      "x": 639,
+      "y": 590,
+      "w": 828,
+      "h": 18,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 828,
+      "sourceH": 18
+    },
+    "peakjihad_sports_pool_vote_imgwinbg_png": {
+      "x": 1440,
+      "y": 480,
+      "w": 33,
+      "h": 16,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 33,
+      "sourceH": 16
+    },
+    "peakjihad_sports_pool_vote_pop_imgbtnnext_png": {
+      "x": 1440,
+      "y": 444,
+      "w": 34,
+      "h": 34,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 34,
+      "sourceH": 34
+    },
+    "peakjihad_sports_pool_vote_pop_imgbtnpre_png": {
+      "x": 1978,
+      "y": 45,
+      "w": 34,
+      "h": 34,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 34,
+      "sourceH": 34
+    },
+    "peakjihad_sports_pool_vote_pop_imgchooseflag_png": {
+      "x": 1158,
+      "y": 295,
+      "w": 95,
+      "h": 130,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 95,
+      "sourceH": 130
+    },
+    "peakjihad_sports_pool_vote_pop_imgetitle_0_png": {
+      "x": 247,
+      "y": 780,
+      "w": 127,
+      "h": 43,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 127,
+      "sourceH": 43
+    },
+    "peakjihad_sports_pool_vote_pop_imgetitle_1_png": {
+      "x": 961,
+      "y": 492,
+      "w": 148,
+      "h": 43,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 148,
+      "sourceH": 43
+    },
+    "peakjihad_sports_pool_vote_pop_imgflag_png": {
+      "x": 1572,
+      "y": 590,
+      "w": 79,
+      "h": 37,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 79,
+      "sourceH": 37
+    },
+    "peakjihad_sports_pool_vote_pop_imgheadbg_png": {
+      "x": 1469,
+      "y": 590,
+      "w": 101,
+      "h": 136,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 101,
+      "sourceH": 136
+    },
+    "peakjihad_wild_mode_btnjingji_png": {
+      "x": 961,
+      "y": 1,
+      "w": 292,
+      "h": 292,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 292,
+      "sourceH": 292
+    },
+    "peakjihad_wild_mode_rightbg_png": {
+      "x": 1,
+      "y": 1,
+      "w": 636,
+      "h": 640,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 636,
+      "sourceH": 640
+    },
+    "peakjihad_wild_mode_title_png": {
+      "x": 1843,
+      "y": 813,
+      "w": 103,
+      "h": 32,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 103,
+      "sourceH": 32
+    },
+    "peak_jihad_order_task_panel_go1_png": {
+      "x": 1978,
+      "y": 81,
+      "w": 58,
+      "h": 19,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 58,
+      "sourceH": 19
+    },
+    "peak_jihad_order_task_panel_itemgot_png": {
+      "x": 175,
+      "y": 788,
+      "w": 70,
+      "h": 70,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 70,
+      "sourceH": 70
+    },
+    "pea_jihad_achieve_pop_achieveitembg_png": {
+      "x": 1255,
+      "y": 1,
+      "w": 721,
+      "h": 106,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 721,
+      "sourceH": 106
+    },
+    "pea_jihad_achieve_pop_btnchengjiu_png": {
+      "x": 593,
+      "y": 687,
+      "w": 88,
+      "h": 88,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 88,
+      "sourceH": 88
+    },
+    "pea_jihad_achieve_pop_title_png": {
+      "x": 1640,
+      "y": 820,
+      "w": 103,
+      "h": 32,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 103,
+      "sourceH": 32
+    },
+    "pea_jihad_sport_btnpractice_png": {
+      "x": 1499,
+      "y": 309,
+      "w": 195,
+      "h": 187,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 195,
+      "sourceH": 187
+    },
+    "pea_jihad_sport_cantbg_png": {
+      "x": 1868,
+      "y": 309,
+      "w": 179,
+      "h": 179,
+      "offX": 1,
+      "offY": 0,
+      "sourceW": 180,
+      "sourceH": 180
+    },
+    "pea_jihad_sport_exppro_png": {
+      "x": 1441,
+      "y": 728,
+      "w": 87,
+      "h": 87,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 87,
+      "sourceH": 87
+    },
+    "pea_jihad_sport_head__png": {
+      "x": 584,
+      "y": 777,
+      "w": 74,
+      "h": 74,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 74,
+      "sourceH": 74
+    },
+    "pea_jihad_sport_none__png": {
+      "x": 1108,
+      "y": 780,
+      "w": 74,
+      "h": 74,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 74,
+      "sourceH": 74
+    }
+  }
+}

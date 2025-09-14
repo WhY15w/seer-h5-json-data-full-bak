@@ -1,0 +1,26 @@
+{
+  "groups": [
+    {
+      "name": "room_visitor_info_pop",
+      "keys": "room_visitor_info_pop_sheet,room_visitor_info_pop_bg_png,room_visitor_info_pop_item_bg_png"
+    }
+  ],
+  "resources": [
+    {
+      "name": "room_visitor_info_pop_bg_png",
+      "type": "image",
+      "url": "room_visitor_info_pop/outside/room_visitor_info_pop_bg.png"
+    },
+    {
+      "name": "room_visitor_info_pop_item_bg_png",
+      "type": "image",
+      "url": "room_visitor_info_pop/outside/room_visitor_info_pop_item_bg.png"
+    },
+    {
+      "name": "room_visitor_info_pop_sheet",
+      "type": "sheet",
+      "url": "room_visitor_info_pop/room_visitor_info_pop_sheet.json",
+      "subkeys": "room_visitor_info_pop_close_png,room_visitor_info_pop_liked_png,room_visitor_info_pop_visit_png"
+    }
+  ]
+}

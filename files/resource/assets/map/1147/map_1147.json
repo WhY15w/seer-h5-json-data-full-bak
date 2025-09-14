@@ -1,0 +1,40 @@
+{
+  "resources": [
+    {
+      "type": "json",
+      "url": "1147.json",
+      "name": "road_1147"
+    },
+    {
+      "type": "image",
+      "url": "map_1147_bg_mc.png",
+      "name": "map_1147_bg_mc_png"
+    },
+    {
+      "type": "image",
+      "url": "map_1147_arenaMc.png",
+      "name": "map_1147_arenaMc_png"
+    },
+    {
+      "type": "image",
+      "url": "map_1147_control_mc.png",
+      "name": "map_1147_control_mc_png"
+    },
+    {
+      "name": "exml_1147",
+      "type": "text",
+      "url": "Map1147Skin.exml"
+    },
+    {
+      "name": "exml_1147",
+      "type": "text",
+      "url": "Map1147Skin.exml"
+    }
+  ],
+  "groups": [
+    {
+      "keys": "road_1147,map_1147_bg_mc_png,map_1147_arenaMc_png,map_1147_control_mc_png,exml_1147,exml_1147",
+      "name": "map_1147"
+    }
+  ]
+}
